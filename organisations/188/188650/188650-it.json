@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188650
+  },
+  "name": "Museo di Casa Martelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via F. Zannetti, 8",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.774&mlon=11.2532#map=15/43.774/11.2532",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.774,
+    "longitude": 11.2532
+  },
+  "url": "http://www.polomuseale.firenze.it ",
+  "telephone": "+39 055216725",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da giovedì 15 gennaio 2015 il museo sarà visitabile: il giovedì dalle 13 alle 19; il sabato dalle 9.00 alle 14 e la 1a, 3a e 5a domenica del mese dalle 9 alle 14",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XRUazkWfywGlvvPeCdFFsk3oLsU=/1000x1000/museums/logos/000/188/650/original/bf1eba3da4ab8a019cd76aa67ce7b11f6934fab.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108199",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

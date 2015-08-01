@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185901
+  },
+  "name": "Antiquarium di Ariano Irpino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Donato Anzani, 8",
+    "addressLocality": "Ariano Irpino",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1526&mlon=15.0899#map=15/41.1526/15.0899",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1526,
+    "longitude": 15.0899
+  },
+  "url": "http://www.archeosa.beniculturali.it",
+  "telephone": "+39 0825824839",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato dalle ore 9.00 alle 13.00, la domenica su richiesta",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/njirYK-QcdazWsVnOZfkyh-Jh_w=/1000x1000/museums/logos/000/185/901/original/c78df0838f3b3b689214bd37dc328f432db743e3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20723",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

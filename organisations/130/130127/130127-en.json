@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130127
+  },
+  "name": "MARINE CORPS RECRUIT DEPOT SAN DIEGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1600 HENDERSON AVE",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92140"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7424&mlon=-117.203#map=15/32.7424/-117.203",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7424,
+    "longitude": -117.203
+  },
+  "url": "http://www.marines.mil/unit/tecom/mcrdsandiego/pages/welcome.aspx",
+  "telephone": "+1 (619) 524-4426",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/g95OOXTQnGIM8RSjYIVyZ2uGm-g=/1000x1000/museums/logos/000/130/127/original/MCRD_WRR_small.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Marine_Corps_Recruit_Depot_San_Diego",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600253",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

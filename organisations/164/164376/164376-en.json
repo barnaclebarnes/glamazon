@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164376
+  },
+  "name": "The School of Physics Museum, University of Melbourne",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.4713,
+    "longitude": 144.785
+  },
+  "url": "http://www.ph.unimelb.edu.au/museum/",
+  "telephone": "03 8344 5076",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Opening hours: 9am to 5pm\r\nMonday to Friday\r\nClosed between Christmas and New Year and on public holidays.",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "university-of-melbourne",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/university-of-melbourne",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

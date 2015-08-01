@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144109
+  },
+  "name": "DURAND UNION STATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 106",
+    "addressLocality": "DURAND",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48429-0106"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9092&mlon=-83.9815#map=15/42.9092/-83.9815",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9092,
+    "longitude": -83.9815
+  },
+  "url": "http://www.durandstation.org",
+  "telephone": "+1 (989) 288-3561",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600646",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

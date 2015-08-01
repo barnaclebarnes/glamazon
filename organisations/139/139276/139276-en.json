@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139276
+  },
+  "name": "DRAKE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2507 UNIVERSITY AVE",
+    "addressLocality": "DES MOINES",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50311-4516"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6004&mlon=-93.6512#map=15/41.6004/-93.6512",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6004,
+    "longitude": -93.6512
+  },
+  "url": "http://www.drake.edu",
+  "telephone": "+1 (515) 271-3841",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900313",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

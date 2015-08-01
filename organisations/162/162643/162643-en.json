@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162643
+  },
+  "name": "GROHMANN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 N BROADWAY",
+    "addressLocality": "MILWAUKEE",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0438&mlon=-87.9084#map=15/43.0438/-87.9084",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0438,
+    "longitude": -87.9084
+  },
+  "url": "http://www.msoe.edu/museum",
+  "telephone": "+1 (414) 277-2300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500092",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

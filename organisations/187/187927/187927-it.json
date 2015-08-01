@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187927
+  },
+  "name": "Museo della marionetta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Santa Teresa, 5, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0689&mlon=7.68105#map=15/45.0689/7.68105",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0689,
+    "longitude": 7.68105
+  },
+  "telephone": "+39 011530238",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102763",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

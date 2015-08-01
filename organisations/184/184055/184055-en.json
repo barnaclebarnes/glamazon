@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184055
+  },
+  "name": "Geschichtspark Bärnau - Tachov",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Naaber Straße 6",
+    "addressLocality": "Bärnau",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "95671"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8081&mlon=12.4291#map=15/49.8081/12.4291",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8081,
+    "longitude": 12.4291
+  },
+  "url": "http://www.geschichtspark.de",
+  "telephone": "09635/9249975",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184055",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134300
+  },
+  "name": "SHOOK MUSEUM FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "802 MASSACHUSETTS AVE NE",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8916&mlon=-76.9946#map=15/38.8916/-76.9946",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8916,
+    "longitude": -76.9946
+  },
+  "url": "http://shookmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100081",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

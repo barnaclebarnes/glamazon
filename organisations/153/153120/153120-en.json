@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153120
+  },
+  "name": "AKRON ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "70 EAST MARKET STREET",
+    "addressLocality": "AKRON",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44308-1801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0847&mlon=-81.5157#map=15/41.0847/-81.5157",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0847,
+    "longitude": -81.5157
+  },
+  "url": "http://www.akronartmuseum.org",
+  "telephone": "+1 (330) 376-9185",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/AkronArtMuseumOfficial"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/AkronArtMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900898",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

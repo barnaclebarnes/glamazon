@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142638
+  },
+  "name": "MASSACHUSETTS AUDUBON SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "208 SOUTH GREAT ROAD",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01773"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4086&mlon=-71.3274#map=15/42.4086/-71.3274",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4086,
+    "longitude": -71.3274
+  },
+  "url": "http://www.massaudubon.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500268",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

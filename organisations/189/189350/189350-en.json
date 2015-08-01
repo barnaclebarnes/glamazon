@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189350
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, ",
+    "addressLocality": "Orvieto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7168&mlon=12.1128#map=15/42.7168/12.1128",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7168,
+    "longitude": 12.1128
+  },
+  "url": "http://www.archeopg.arti.beniculturali.it",
+  "telephone": "+39 0763341039",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/f1--6jaTnuBCM0kcjmaf3geLcgU=/1000x1000/museums/logos/000/189/350/original/3acab3760a837d2361c05b321efb2e6cc85d9c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108090",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

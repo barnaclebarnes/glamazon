@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185552
+  },
+  "name": "Museo archeologico nazionale d'Abruzzo - Villa Frigerj",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Costanzi, 3 (Villa Comunale)",
+    "addressLocality": "Chieti",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3518&mlon=14.1672#map=15/42.3518/14.1672",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3518,
+    "longitude": 14.1672
+  },
+  "url": "http://www.archeoabruzzo.beniculturali.it/manda1.html",
+  "telephone": "+39 0871404392",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 20.00 da martedì a domenica",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6UVsTeipxkxBucC39lYXxi9bGvQ=/1000x1000/museums/logos/000/185/552/original/d6ffda8b6cdb606812bd54d6c22851abd4473a3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20320",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

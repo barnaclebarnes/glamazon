@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160245
+  },
+  "name": "THE ORGANIC CENTER INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "28 VERNON STREET",
+    "addressLocality": "BRATTLEBORO",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05301-3666"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8502&mlon=-72.5566#map=15/42.8502/-72.5566",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8502,
+    "longitude": -72.5566
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000051",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

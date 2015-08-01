@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186144
+  },
+  "name": "Centro di documentazione del mondo agricolo ferrarese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Imperiale, 265 - loc. S. Bartolomeo in Bosco, ",
+    "addressLocality": "Ferrara",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7204&mlon=11.5916#map=15/44.7204/11.5916",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7204,
+    "longitude": 11.5916
+  },
+  "url": "http://www.mondoagricoloferrarese.it",
+  "telephone": "+39 0532725294",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UHnm2yoVAbgtmq2aaTTRWdWUVnQ=/1000x1000/museums/logos/000/186/144/original/1339651778184-.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102071",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

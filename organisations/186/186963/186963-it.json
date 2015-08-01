@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186963
+  },
+  "name": "Museo civico di Crema e del Cremasco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzetta Winifred Terni De Gregory, 5",
+    "addressLocality": "Crema",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3618&mlon=9.68323#map=15/45.3618/9.68323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3618,
+    "longitude": 9.68323
+  },
+  "url": "http://www.comune.crema.cr.it/museo",
+  "telephone": "+39 0373257161",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da mar. a ven. 9.00/12.30 – 14.00/17.30 sab., dom. e festivi 10.00/12.00 – 15.30/18.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yERk3SG5aT1pvxthH1c0doOUNQw=/1000x1000/museums/logos/000/186/963/original/ddb41fbaca9dfb917c5eeeb25beb97a8ae50828.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103627",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

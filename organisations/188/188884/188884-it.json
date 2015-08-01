@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188884
+  },
+  "name": "Museo della civiltà contadina di Montefoscoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "A. Vacca, 45",
+    "addressLocality": "Palaia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5773&mlon=10.7554#map=15/43.5773/10.7554",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5773,
+    "longitude": 10.7554
+  },
+  "url": "http://www.museomontefoscoli.it/",
+  "telephone": "+39 0587657072",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110454",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

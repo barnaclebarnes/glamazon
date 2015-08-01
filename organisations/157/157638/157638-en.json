@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157638
+  },
+  "name": "FRIENDS OF THE ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1101 MCCALLIE AVENUE",
+    "addressLocality": "CHATTANOOGA",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37404"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.04&mlon=-85.286#map=15/35.04/-85.286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.04,
+    "longitude": -85.286
+  },
+  "url": "http://zoo.chattanooga.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700309",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

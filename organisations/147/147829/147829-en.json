@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147829
+  },
+  "name": "NEW JERSEY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "52 PARK PL",
+    "addressLocality": "NEWARK",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "07102-4302"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.739&mlon=-74.1687#map=15/40.739/-74.1687",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.739,
+    "longitude": -74.1687
+  },
+  "url": "http://www.jerseyhistory.org",
+  "telephone": "+1 (973) 596-8500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400197",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

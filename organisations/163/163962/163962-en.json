@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163962
+  },
+  "name": "House of Bottles",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.5351&mlon=145.352#map=15/-37.5351/145.352",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.5351,
+    "longitude": 145.352
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "house-bottles",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/house-bottles",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

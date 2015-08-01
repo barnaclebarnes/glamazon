@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182597
+  },
+  "name": "Wittelsbachermuseum Aichach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stadtplatz 2",
+    "addressLocality": "Aichach",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86551"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4603&mlon=11.1324#map=15/48.4603/11.1324",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4603,
+    "longitude": 11.1324
+  },
+  "url": "http://www.aichach.de/kunst_kultur/wittelsbacher_museum.php",
+  "telephone": "08251/827471",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182597",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

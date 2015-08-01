@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187974
+  },
+  "name": "Reggia di Venaria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Repubblica, 4",
+    "addressLocality": "Venaria Reale",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1358&mlon=7.62352#map=15/45.1358/7.62352",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1358,
+    "longitude": 7.62352
+  },
+  "url": "http://www.lavenaria.it",
+  "telephone": "+39 0114992333",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì - venerdì 9.00 - 17.00; sabato, domenica e festiivi 9.00 - 20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "visitare il sito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FMdrN_tWl0TW3qmlep_LI31SkSg=/1000x1000/museums/logos/000/187/974/original/afecc69946b2f7a354798d3fa528c585f393d8c.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105099",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

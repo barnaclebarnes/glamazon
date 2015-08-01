@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186841
+  },
+  "name": "Museo Casa Ceresa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giuseppe Milesi, 1",
+    "addressLocality": "San Giovanni Bianco",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.876&mlon=9.65224#map=15/45.876/9.65224",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.876,
+    "longitude": 9.65224
+  },
+  "url": "http://news.valbrembanaweb.com/index.php/museo-ceresa-san-giovanni-bianco/",
+  "telephone": "+39 034543495 - 034543926",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Xc7ZauSFf4NSLwZSn6PBqazpFGg=/1000x1000/museums/logos/000/186/841/original/d58cccf3cc3991887b2c81c379d37f84c5196482.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104924",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

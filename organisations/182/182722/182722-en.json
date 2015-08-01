@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182722
+  },
+  "name": "Hermann-Oberth-Raumfahrt-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfinzingstraße 12",
+    "addressLocality": "Feucht",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90537"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.3751&mlon=11.2119#map=15/49.3751/11.2119",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.3751,
+    "longitude": 11.2119
+  },
+  "url": "http://www.oberth-museum.org",
+  "telephone": "09128/3502",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182722",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

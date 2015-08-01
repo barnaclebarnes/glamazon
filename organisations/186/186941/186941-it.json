@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186941
+  },
+  "name": "Museo dello stucco e della scagliola intelvese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giuseppe Garibaldi, 3",
+    "addressLocality": "Cerano d'Intelvi",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9904&mlon=9.06584#map=15/45.9904/9.06584",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9904,
+    "longitude": 9.06584
+  },
+  "telephone": "+39 026458772",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TnaA3SJ7-DlNi0MfdBYPpymlJZE=/1000x1000/museums/logos/000/186/941/original/8b9957dbfc192e77a5b738bcb485242d679eea.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103608",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

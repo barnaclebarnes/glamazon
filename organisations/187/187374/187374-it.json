@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187374
+  },
+  "name": "Musei civici - Pinacoteca e museo della carrozza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vittorio Veneto, 2",
+    "addressLocality": "Macerata",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.299&mlon=13.4513#map=15/43.299/13.4513",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.299,
+    "longitude": 13.4513
+  },
+  "url": "http://www.comune.macerata.it",
+  "telephone": "+39 0733256361",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da martedì a domenica: 10-18. 1 gennaio 15-18",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1a7535b4Z8oQzlQRSGuCY_GmLU4=/1000x1000/museums/logos/000/187/374/original/f3131ba49ba0a7ca32bee9fae56bcff79dc77c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104189",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

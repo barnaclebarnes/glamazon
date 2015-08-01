@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160725
+  },
+  "name": "NATIONAL RECREATION AND PARK ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "22377 BELMONT RIDGE ROAD",
+    "addressLocality": "ASHBURN",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "20148-4501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9979&mlon=-77.5305#map=15/38.9979/-77.5305",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9979,
+    "longitude": -77.5305
+  },
+  "url": "http://www.nrpa.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100231",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

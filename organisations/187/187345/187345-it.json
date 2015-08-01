@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187345
+  },
+  "name": "Pinacoteca civica \"Vittore Crivelli\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Baccio, 31",
+    "addressLocality": "Sant'Elpidio a Mare",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2303&mlon=13.6849#map=15/43.2303/13.6849",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2303,
+    "longitude": 13.6849
+  },
+  "url": "http://www.santelpidioamare.it",
+  "telephone": "+39 0734859279/ 8196372",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal 1 aprile al 6 gennaio venerdì: 10-12/16-19, sabato: 16-19, domenica e festivi: 16-19. Luglio-agosto: da mercoledì a domenica 16-19.30, venerdì 10-12",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WG2e8vip1w8vyY8qe7Py3G0jJDo=/1000x1000/museums/logos/000/187/345/original/1e9d9fa693f07681d79880dc1aa4dc7c76d89cfb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104152",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

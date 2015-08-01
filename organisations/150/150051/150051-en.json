@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150051
+  },
+  "name": "INTERLAKEN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 270",
+    "addressLocality": "INTERLAKEN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14847-1484"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6139&mlon=-76.7246#map=15/42.6139/-76.7246",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6139,
+    "longitude": -76.7246
+  },
+  "url": "http://www.interlakenhistory.org/",
+  "telephone": "+1 (607) 523-8899",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601345",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

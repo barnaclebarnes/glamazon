@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140501
+  },
+  "name": "JOHN JAMES AUDUBON MUSEUM",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8847&mlon=-87.5614#map=15/37.8847/-87.5614",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8847,
+    "longitude": -87.5614
+  },
+  "url": "http://parks.ky.gov/parks/recreationparks/john-james/default.aspx",
+  "telephone": "+1 (270) 826-2247",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100258",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

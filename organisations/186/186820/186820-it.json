@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186820
+  },
+  "name": "Museo storico di Bergamo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Mercato del Fieno, 6/A",
+    "addressLocality": "Bergamo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7049&mlon=9.66489#map=15/45.7049/9.66489",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7049,
+    "longitude": 9.66489
+  },
+  "url": "http://www.bergamoestoria.it",
+  "telephone": "+39 035247116",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/skJbQRnX7A5fTtVjLWTcHVBN7ls=/1000x1000/museums/logos/000/186/820/original/633231e48b27b06f7a7a481bddb075948584d2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103507",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

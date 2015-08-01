@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142299
+  },
+  "name": "MORGAN STATE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1700 EAST COLD SPRING LANE",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21251-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.3459&mlon=-76.5859#map=15/39.3459/-76.5859",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.3459,
+    "longitude": -76.5859
+  },
+  "url": "http://www.morgan.edu",
+  "telephone": "+1 (301) 405-6269",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400592",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

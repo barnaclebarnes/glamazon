@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184275
+  },
+  "name": "Lakes District Museum & Gallery",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:museum@queenstown.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-44.9386&mlon=168.833#map=15/-44.9386/168.833",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -44.9386,
+    "longitude": 168.833
+  },
+  "url": "http://www.MuseumQueenstown.com",
+  "telephone": "+64 3 442 1824",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Daily 8:30am-5pm except Christmas Day",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Adult $8\r\nChildren $2\r\nFamily $16"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184275",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

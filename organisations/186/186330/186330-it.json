@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186330
+  },
+  "name": "La Mozartina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Jacopo Linussio, 24",
+    "addressLocality": "Paularo",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5351&mlon=13.1158#map=15/46.5351/13.1158",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5351,
+    "longitude": 13.1158
+  },
+  "url": "http://www.carniamusei.org",
+  "telephone": "+39 043370162",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OLFfN0LT3XEETY9_U1xEWGWm4J8=/1000x1000/museums/logos/000/186/330/original/3a15883933c1f1dc56fe9abdd9dda3dc14cb3b97.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100299",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

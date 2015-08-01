@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182684
+  },
+  "name": "Museum Bergér",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Harthof 1",
+    "addressLocality": "Harthof",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85072"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8985&mlon=11.1404#map=15/48.8985/11.1404",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8985,
+    "longitude": 11.1404
+  },
+  "url": "http://www.museum-berger.de",
+  "telephone": "08421/4663",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182684",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187170
+  },
+  "name": "Museo di Piuro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": ", ?",
+    "addressLocality": "Piuro",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.3305&mlon=9.42173#map=15/46.3305/9.42173",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.3305,
+    "longitude": 9.42173
+  },
+  "url": "http://www.piuroitalosvizzera.net",
+  "telephone": "+39 346 2440056",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RLEtMlH9Qhwvp79n6MDzWceSb8k=/1000x1000/museums/logos/000/187/170/original/ec7a463f249feeae963896389adaa6c648c299.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106840",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

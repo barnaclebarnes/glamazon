@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183243
+  },
+  "name": "Kulturhaus Milbertshofen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Curt-Mezger-Platz 1",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80809"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1821&mlon=11.5672#map=15/48.1821/11.5672",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1821,
+    "longitude": 11.5672
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183243",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141100
+  },
+  "name": "ALGIERS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "235 LAVERGNE ST",
+    "addressLocality": "NEW ORLEANS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70114"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9533&mlon=-90.0515#map=15/29.9533/-90.0515",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9533,
+    "longitude": -90.0515
+  },
+  "url": "http://algiershistoricalsociety.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200383",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

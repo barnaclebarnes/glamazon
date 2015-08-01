@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153105
+  },
+  "name": "CLEVELAND BOTANICAL GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11030 EAST BLVD",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44106-1706"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5115&mlon=-81.6091#map=15/41.5115/-81.6091",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5115,
+    "longitude": -81.6091
+  },
+  "url": "http://www.cbgarden.org",
+  "telephone": "+1 (216) 721-1600",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/cbgarden"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900883",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143772
+  },
+  "name": "FRANKLIN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 250007",
+    "addressLocality": "FRANKLIN",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48025"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5151&mlon=-83.3046#map=15/42.5151/-83.3046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5151,
+    "longitude": -83.3046
+  },
+  "url": "http://franklin-history.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600309",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

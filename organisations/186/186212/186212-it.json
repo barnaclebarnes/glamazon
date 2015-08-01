@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186212
+  },
+  "name": "Piccolo museo della moto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Giuseppe, 16/A",
+    "addressLocality": "Guastalla",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.91&mlon=10.6528#map=15/44.91/10.6528",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.91,
+    "longitude": 10.6528
+  },
+  "url": "http://www.piccolomuseodellamoto.it",
+  "telephone": "+39 0522 824064 - 338 8969989",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gj7Utv-fIXK6NZVe6L4kdpvvpxI=/1000x1000/museums/logos/000/186/212/original/81df34e31fa39bc791fab04c6ec1d57493f98a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111233",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

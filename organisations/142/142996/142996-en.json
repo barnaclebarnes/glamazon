@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142996
+  },
+  "name": "JOHN GREENLEAF WHITTIER HOMESTEAD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "305 WHITTIER RD.",
+    "addressLocality": "HAVERHILL",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01830"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8119&mlon=-71.0393#map=15/42.8119/-71.0393",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8119,
+    "longitude": -71.0393
+  },
+  "telephone": "+1 (978) 373-3979",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500626",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163752
+  },
+  "name": "Canterbury Primary School",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8305&mlon=145.083#map=15/-37.8305/145.083",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8305,
+    "longitude": 145.083
+  },
+  "url": "http://www.canterburyps.vic.edu.au",
+  "telephone": "03 9417 6822",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tuesdays 2pm by appointment",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "canterbury-primary-school",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/canterbury-primary-school",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

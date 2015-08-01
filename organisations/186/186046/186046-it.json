@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186046
+  },
+  "name": "Museo della marineria Torrese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Ferrovia, 5",
+    "addressLocality": "Torre del Greco",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7873&mlon=14.3641#map=15/40.7873/14.3641",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7873,
+    "longitude": 14.3641
+  },
+  "url": "http://www.museodellamarineriatorrese.it",
+  "telephone": "+39 081 8814527 - 338 8622286",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7O_d7_fjkBWeJO7zZRcOEeIaSDA=/1000x1000/museums/logos/000/186/046/original/aa13ec60abe93d7c345359b98a6996426810be2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107080",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

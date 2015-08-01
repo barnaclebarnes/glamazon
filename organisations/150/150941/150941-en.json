@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150941
+  },
+  "name": "BRONX DOCUMENTARY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "614 COURTLANDT AVE",
+    "addressLocality": "BRONX",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10451-5010"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8181&mlon=-73.9188#map=15/40.8181/-73.9188",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8181,
+    "longitude": -73.9188
+  },
+  "url": "http://bronxdoc.org/",
+  "telephone": "+1 (718) 993-3512",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602235",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

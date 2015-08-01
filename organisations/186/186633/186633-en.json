@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186633
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guglielmo Marconi, 20",
+    "addressLocality": "Cellere",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5092&mlon=11.7754#map=15/42.5092/11.7754",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5092,
+    "longitude": 11.7754
+  },
+  "url": "http://www.museobrigantaggiocellere.it",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TJgjkANwaceYa7zZBpSCqzMb9e0=/1000x1000/museums/logos/000/186/633/original/e7af9f9a93775e221e332b2bd32c74d9103ea3a2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108171",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

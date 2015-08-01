@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143823
+  },
+  "name": "GREAT LAKES ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "310 N MAIN STREET",
+    "addressLocality": "CHELSEA",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48103-9592"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3196&mlon=-84.0205#map=15/42.3196/-84.0205",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3196,
+    "longitude": -84.0205
+  },
+  "url": "http://www.glzszoo.org",
+  "telephone": "+1 (734) 332-1628",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600360",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

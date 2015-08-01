@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161012
+  },
+  "name": "THE CHRYSLER MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "245 W OLNEY RD",
+    "addressLocality": "NORFOLK",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23510-1540"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.857&mlon=-76.2925#map=15/36.857/-76.2925",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.857,
+    "longitude": -76.2925
+  },
+  "url": "http://www.chrysler.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100518",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

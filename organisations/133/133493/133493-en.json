@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133493
+  },
+  "name": "FORNEY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2914 WAKONDA DR",
+    "addressLocality": "FORT COLLINS",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80216-3702"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6048&mlon=-105.131#map=15/40.6048/-105.131",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6048,
+    "longitude": -105.131
+  },
+  "url": "http://www.forneymuseum.org",
+  "telephone": "+1 (303) 297-1113",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800669",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187746
+  },
+  "name": "Museo ferroviario piemontese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Coloira, 7, ",
+    "addressLocality": "Savigliano",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6405&mlon=7.66454#map=15/44.6405/7.66454",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6405,
+    "longitude": 7.66454
+  },
+  "url": "http://www.museoferroviariopiemontese.com",
+  "telephone": "+39 0114324241",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106242",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

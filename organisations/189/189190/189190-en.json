@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189190
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Matteotti, 70",
+    "addressLocality": "Bevagna",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9335&mlon=12.6088#map=15/42.9335/12.6088",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9335,
+    "longitude": 12.6088
+  },
+  "url": "http://www.comune.bevagna.pg.it",
+  "telephone": "+39 0742360031",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/W63UqLb1C6Bu8ngKx7giGvN7ZHk=/1000x1000/museums/logos/000/189/190/original/28e2bc2795e3a0f7bfcf6c566c5e231be159ee5f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100684",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

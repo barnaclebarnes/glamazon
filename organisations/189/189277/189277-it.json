@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189277
+  },
+  "name": "Museo delle porte e delle mura urbiche",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Garibaldi, ",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1178&mlon=12.3875#map=15/43.1178/12.3875",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1178,
+    "longitude": 12.3875
+  },
+  "url": "http://www.perugiacittamuseo.it",
+  "telephone": "+39 075 41670",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/c7ItCWdKagAI6wwgoKM_JQwF9UI=/1000x1000/museums/logos/000/189/277/original/44cd257c3694445bb4819295c2f3cb8991e1730.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108154",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

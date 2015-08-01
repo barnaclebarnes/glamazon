@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147504
+  },
+  "name": "STAR ISLAND CORPORATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "30 MIDDLE STREET",
+    "addressLocality": "PORTSMOUTH",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0752&mlon=-70.7606#map=15/43.0752/-70.7606",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0752,
+    "longitude": -70.7606
+  },
+  "url": "http://starisland.org",
+  "telephone": "+1 (603) 430-6272",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300279",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

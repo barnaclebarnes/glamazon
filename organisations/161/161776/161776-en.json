@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161776
+  },
+  "name": "BLACKPAST ORG",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4545 SAND POINT WAY NE NUMBER 601",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98105-3930"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6618&mlon=-122.286#map=15/47.6618/-122.286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6618,
+    "longitude": -122.286
+  },
+  "url": "http://www.blackpast.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300225",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

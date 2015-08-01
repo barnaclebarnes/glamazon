@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187245
+  },
+  "name": "Museo della civiltà contadina di Fabriano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via serraloggia, ",
+    "addressLocality": "Fabriano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3312&mlon=12.9167#map=15/43.3312/12.9167",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3312,
+    "longitude": 12.9167
+  },
+  "url": "http://www.museolaginestra.it/MuseoCiviltaContadina",
+  "telephone": "+39 0732 24013",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "1,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Wy46Y6lSA63D-DauFKtcXWZXr9E=/1000x1000/museums/logos/000/187/245/original/c5dc5f782184e3f4e96b26aed21f112b9ede24.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105690",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150769
+  },
+  "name": "WERKSTATTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "55 GREAT JONES ST FRNT",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10012-1140"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7269&mlon=-73.9929#map=15/40.7269/-73.9929",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7269,
+    "longitude": -73.9929
+  },
+  "url": "http://www.werkstattegallery.com",
+  "telephone": "+1 (212) 228-2996",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602063",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

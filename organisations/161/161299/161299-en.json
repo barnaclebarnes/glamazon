@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161299
+  },
+  "name": "NORFOLK POLICE HISTORIC EXPOSITION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "130 BROOKE AVE",
+    "addressLocality": "NORFOLK",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23510"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8489&mlon=-76.2922#map=15/36.8489/-76.2922",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8489,
+    "longitude": -76.2922
+  },
+  "url": "http://norfolk.gov",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100805",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

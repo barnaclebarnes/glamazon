@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144662
+  },
+  "name": "CHILDREN'S MUSEUM OF SOUTHERN MINNESOTA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "121 E CHERRY ST",
+    "addressLocality": "MANKATO",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "56001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1636&mlon=-94.006#map=15/44.1636/-94.006",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1636,
+    "longitude": -94.006
+  },
+  "url": "http://www.cmsouthernmn.org",
+  "telephone": "+1 (507) 386-0279",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/69447916607"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ChildsMuseumSMn"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700102",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

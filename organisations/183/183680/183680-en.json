@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183680
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Innstraße 21",
+    "addressLocality": "Simbach",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84359"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2666&mlon=13.0287#map=15/48.2666/13.0287",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2666,
+    "longitude": 13.0287
+  },
+  "url": "http://www.simbach.de/p/d1.asp?artikel_id=1060&liste=&tmpl_typ=Detail&lp=1136",
+  "telephone": "08571/920605",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183680",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

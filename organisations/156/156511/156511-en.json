@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156511
+  },
+  "name": "MUSEUM OF NEWPORT HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "127 THAMES ST",
+    "addressLocality": "NEWPORT",
+    "addressRegion": "RI",
+    "addressCountry": "United States",
+    "postalCode": "02840"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4899&mlon=-71.3152#map=15/41.4899/-71.3152",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4899,
+    "longitude": -71.3152
+  },
+  "url": "http://www.newporthistorical.org/museum_newhist.htm",
+  "telephone": "+1 (401) 841-8770",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400015",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141003
+  },
+  "name": "BEAUREGARD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 S JEFFERSON ST",
+    "addressLocality": "DERIDDER",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70634"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.8456&mlon=-93.286#map=15/30.8456/-93.286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.8456,
+    "longitude": -93.286
+  },
+  "url": "http://www.beau.lib.la.us",
+  "telephone": "+1 (337) 463-8148",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200286",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

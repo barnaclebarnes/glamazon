@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188845
+  },
+  "name": "Museo storico della Resistenza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Coletti, 22",
+    "addressLocality": "Stazzema",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9614&mlon=10.3252#map=15/43.9614/10.3252",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9614,
+    "longitude": 10.3252
+  },
+  "url": "http://www.santannadistazzema.org",
+  "telephone": "+39 0584772025",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xF_ULNyIliuKnor4KlKgNJOUVD0=/1000x1000/museums/logos/000/188/845/original/ce98a43627403f7d2232f26488ef8b80c77aaa85.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103107",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

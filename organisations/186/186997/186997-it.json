@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186997
+  },
+  "name": "Civico museo di storia naturale Don Michelangelo Ambrosioni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Collegio Alessandro Manzoni, 45",
+    "addressLocality": "Merate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6984&mlon=9.41537#map=15/45.6984/9.41537",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6984,
+    "longitude": 9.41537
+  },
+  "url": "http://comune.merste.lc.it",
+  "telephone": "+39 0399908036",
+  "contactPoint": [
+
+  ],
+  "openingHours": "apertura sabato, 15.00 / 18.00 per gruppi o scuole su prenotazione anche altri gg.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103659",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

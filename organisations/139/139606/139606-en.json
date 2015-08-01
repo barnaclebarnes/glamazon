@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139606
+  },
+  "name": "SCIENCE CENTER OF IOWA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "401 ML KING JR PKWY",
+    "addressLocality": "DES MOINES",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50309-4776"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5822&mlon=-93.6205#map=15/41.5822/-93.6205",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5822,
+    "longitude": -93.6205
+  },
+  "url": "http://www.sciowa.org",
+  "telephone": "+1 (515) 274-6868",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900643",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

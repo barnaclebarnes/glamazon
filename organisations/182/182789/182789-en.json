@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182789
+  },
+  "name": "Murrmann-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 1",
+    "addressLocality": "Geiselwind",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96160"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.773&mlon=10.4697#map=15/49.773/10.4697",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.773,
+    "longitude": 10.4697
+  },
+  "url": "http://www.museen-kitzingerland.de/museen/uebersicht/art12,58.html",
+  "telephone": "09556/9222-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182789",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

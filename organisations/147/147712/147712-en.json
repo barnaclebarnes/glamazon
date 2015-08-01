@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147712
+  },
+  "name": "HERMITAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "335 NORTH FRANKLIN TURNPIKE",
+    "addressLocality": "HO-HO-KUS",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "07423"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0078&mlon=-74.1175#map=15/41.0078/-74.1175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0078,
+    "longitude": -74.1175
+  },
+  "telephone": "+1 (201) 445-8311",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400080",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

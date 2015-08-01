@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186297
+  },
+  "name": "Museo della civiltà contadina del Friuli imperiale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Petrarca, 1",
+    "addressLocality": "Aiello del Friuli",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8704&mlon=13.3639#map=15/45.8704/13.3639",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8704,
+    "longitude": 13.3639
+  },
+  "url": "http://www.museiformentini.it",
+  "telephone": "+39 0481535170",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutte le domenica 15.00/18.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LKIpaifYshG6aEWc3nu0LaHTW4g=/1000x1000/museums/logos/000/186/297/original/363b75515a30506fe44521d66ee582b3271bc2da.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100260",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

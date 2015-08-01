@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188625
+  },
+  "name": "Galleria Rinaldo Carnielo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Savonarola, 3",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7516&mlon=11.189#map=15/43.7516/11.189",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7516,
+    "longitude": 11.189
+  },
+  "url": "http://www.comune.fi.it/citta/arte/musei",
+  "telephone": "+39 0552625961",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GVwy-xRvHtl953nPrvcg-8Wu7gM=/1000x1000/museums/logos/000/188/625/original/84a2c0ca113fe8944a287f44ae5b42694e51f0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105606",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

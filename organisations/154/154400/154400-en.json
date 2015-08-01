@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154400
+  },
+  "name": "OREGON NATURAL HISTORY COALITION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 5151",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97208"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5273&mlon=-122.679#map=15/45.5273/-122.679",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5273,
+    "longitude": -122.679
+  },
+  "url": "http://www.oregonnhc.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100193",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

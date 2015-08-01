@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187444
+  },
+  "name": "Museo archeologico e della Via Flaminia Giulio Cesare Corsi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via IV Novembre, 22",
+    "addressLocality": "Cantiano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4731&mlon=12.6281#map=15/43.4731/12.6281",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4731,
+    "longitude": 12.6281
+  },
+  "url": "http://www.museionline.info/tipologia/item/museo-archeologico-e-della-via-flaminia-gc-corsi.html",
+  "telephone": "+39 0721788493",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sabato Domenica e Festivi 16.30-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 1.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9Bg3eyXQR9Gr1XoRnkC1JPXfGw4=/1000x1000/museums/logos/000/187/444/original/111bc822be97ea06cad408996f5536f82341981.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104262",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

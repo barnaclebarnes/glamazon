@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186871
+  },
+  "name": "Museo diocesano di Brescia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gasparo da Salò, 13",
+    "addressLocality": "Brescia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5412&mlon=10.2206#map=15/45.5412/10.2206",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5412,
+    "longitude": 10.2206
+  },
+  "url": "http://www.museodiocesanobrescia.it/",
+  "telephone": "+39 03040233",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì, martedì, giovedì, venerdì, sabato e domenica 10:00-12:00 15:00-18:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yCnbJAx7uWrNesGTccSiHb98gKo=/1000x1000/museums/logos/000/186/871/original/37ee88f7dc1f1945e9a3131514a92d37d707671.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103552",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188666
+  },
+  "name": "Museo parrocchiale d’arte sacra Oratorio di San Sebastiano De' Bini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Romana, 10",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7619&mlon=11.2429#map=15/43.7619/11.2429",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7619,
+    "longitude": 11.2429
+  },
+  "telephone": "+39 055221706",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZqrbenXARzQXO4wFZOWnipHERLo=/1000x1000/museums/logos/000/188/666/original/09d6686a01db51a391c755842cfeeba5a7b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106266",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143553
+  },
+  "name": "MANN HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "205 HANOVER ST",
+    "addressLocality": "CONCORD",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49237"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.178&mlon=-84.6433#map=15/42.178/-84.6433",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.178,
+    "longitude": -84.6433
+  },
+  "telephone": "+1 (517) 524-8943",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600090",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

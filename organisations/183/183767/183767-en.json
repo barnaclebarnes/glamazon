@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183767
+  },
+  "name": "Katzenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Chiemseestraße 1",
+    "addressLocality": "Traunstein",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83278"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.867&mlon=12.6318#map=15/47.867/12.6318",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.867,
+    "longitude": 12.6318
+  },
+  "url": "http://www.katzenmuseum-traunstein.de",
+  "telephone": "0861/8983",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183767",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

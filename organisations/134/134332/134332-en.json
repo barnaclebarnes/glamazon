@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134332
+  },
+  "name": "O STREET MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2020 O ST NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20036-5912"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9086&mlon=-77.0459#map=15/38.9086/-77.0459",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9086,
+    "longitude": -77.0459
+  },
+  "telephone": "+1 (202) 496-2070",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100113",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

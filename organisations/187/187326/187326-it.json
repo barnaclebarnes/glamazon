@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187326
+  },
+  "name": "Museo della scultura",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Michelessi, 11",
+    "addressLocality": "Spinetoli",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8883&mlon=13.7731#map=15/42.8883/13.7731",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8883,
+    "longitude": 13.7731
+  },
+  "telephone": "+39 0736890298",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Aperto su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dI-pMWYTwfwiH55Vh_SiPlHtftk=/1000x1000/museums/logos/000/187/326/original/bf514f7296f87bd74cd86db63385faa5567e19ee.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104157",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

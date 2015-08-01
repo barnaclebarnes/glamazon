@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189513
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Marco, 1",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4339&mlon=12.3371#map=15/45.4339/12.3371",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4339,
+    "longitude": 12.3371
+  },
+  "url": "http://palazzoducale.visitmuve.it/",
+  "telephone": "+39 0412715911",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ox4ujp8N3qz5i4rv3VAbVGmtBWc=/1000x1000/museums/logos/000/189/513/original/25c333dd5a6f7daf1ccd2cefab58318b52d2f0.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101045",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

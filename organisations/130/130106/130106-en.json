@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130106
+  },
+  "name": "MARITIME MUSEUM-SAN FRANCISCO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "FORT MASON",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8039&mlon=-122.428#map=15/37.8039/-122.428",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8039,
+    "longitude": -122.428
+  },
+  "url": "http://www.nps.gov/safr/index.htm",
+  "telephone": "+1 (415) 561-7000",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/San_Francisco_Maritime_National_Historical_Park#Maritime_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600232",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

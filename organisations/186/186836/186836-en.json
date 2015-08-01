@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186836
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello, 73",
+    "addressLocality": "Luzzana",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7163&mlon=9.88128#map=15/45.7163/9.88128",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7163,
+    "longitude": 9.88128
+  },
+  "url": "http://www.museoluzzana.it",
+  "telephone": "+39 035822829",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hc_g4pu6FYG4QCqWg1HgaiH8qJ8=/1000x1000/museums/logos/000/186/836/original/db2d7e6acc4f29f888fa543e538e79dc90a47feb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103520",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

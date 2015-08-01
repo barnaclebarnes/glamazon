@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129111
+  },
+  "name": "T-REX MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 E DRACHMAN ST",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85705"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2395&mlon=-110.97#map=15/32.2395/-110.97",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2395,
+    "longitude": -110.97
+  },
+  "telephone": "+1 (520) 792-2884",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400013",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

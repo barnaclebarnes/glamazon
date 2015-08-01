@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186868
+  },
+  "name": "Museo civico di scienze naturali di Brescia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ozanam, 4",
+    "addressLocality": "Brescia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5532&mlon=10.2274#map=15/45.5532/10.2274",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5532,
+    "longitude": 10.2274
+  },
+  "url": "http://www.comune.brescia.it/museoscienenaturali",
+  "telephone": "+39 0302978661",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103551",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

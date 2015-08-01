@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160303
+  },
+  "name": "MUSEUM OF THE AMERICAS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "RT 14 PO 222",
+    "addressLocality": "BROOKFIELD",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05036"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0191&mlon=-72.5703#map=15/44.0191/-72.5703",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0191,
+    "longitude": -72.5703
+  },
+  "telephone": "+1 (802) 276-3368",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000109",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

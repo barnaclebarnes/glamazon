@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190433
+  },
+  "name": "SHENANDOAH NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3655 US HWY 211 EAST",
+    "addressLocality": "LURAY",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22835-"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6605&mlon=-78.3708#map=15/38.6605/-78.3708",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6605,
+    "longitude": -78.3708
+  },
+  "telephone": "+1 (540) 999-3500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405101077",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164090
+  },
+  "name": "Monash City Libraries, Local History Collection",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8748&mlon=145.127#map=15/-37.8748/145.127",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8748,
+    "longitude": 145.127
+  },
+  "url": "http://www.monlib.vic.gov.au/lochist.html",
+  "telephone": "(03) 9807 5022 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "monash-city-libraries-local-history-collection",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/monash-city-libraries-local-history-collection",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

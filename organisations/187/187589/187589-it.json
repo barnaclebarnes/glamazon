@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187589
+  },
+  "name": "Museo ebraico di Asti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ottolenghi, 8, ",
+    "addressLocality": "Asti",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8992&mlon=8.20244#map=15/44.8992/8.20244",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8992,
+    "longitude": 8.20244
+  },
+  "url": "http://www.astiebraica.it",
+  "telephone": "+39 0141399466",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QDo_YaDvxu3D-fbCTU_dqUd2How=/1000x1000/museums/logos/000/187/589/original/f990ebbde6a927ee65cf62a978e93b7f376b.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102489",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

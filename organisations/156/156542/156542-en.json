@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156542
+  },
+  "name": "WESTERLY PUBLIC LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "44 BROAD ST",
+    "addressLocality": "WESTERLY",
+    "addressRegion": "RI",
+    "addressCountry": "United States",
+    "postalCode": "02891-1856"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3771&mlon=-71.8296#map=15/41.3771/-71.8296",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3771,
+    "longitude": -71.8296
+  },
+  "url": "http://www.westerlylibrary.org",
+  "telephone": "+1 (401) 596-2877",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400046",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

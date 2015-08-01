@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163787
+  },
+  "name": "City of Yarra",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.4713,
+    "longitude": 144.785
+  },
+  "url": "http://www.yarracity.vic.gov.au/",
+  "telephone": "8205 5045",
+  "contactPoint": [
+
+  ],
+  "openingHours": "by appointment",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "city-of-yarra",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/city-of-yarra",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

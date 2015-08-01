@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186688
+  },
+  "name": "Complesso monumentale di Santa Maria di Castello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Salita Santa Maria di Castello, 15",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4061&mlon=8.92905#map=15/44.4061/8.92905",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4061,
+    "longitude": 8.92905
+  },
+  "url": "http://www.santamariadicastello.it",
+  "telephone": "+39 010 25495-225",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni dalle 9:30 alle 12:00 - dalle 15:30 alle 18:30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/L5DLTnXRdZNOuv0MG18SVxqkKGQ=/1000x1000/museums/logos/000/186/688/original/b7d121335340f9ca556285118f745b2aabfbe.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111313",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

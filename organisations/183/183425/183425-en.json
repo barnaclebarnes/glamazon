@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183425
+  },
+  "name": "Schloss Lustheim – Meißener Porzellan-Sammlung Stiftung Ernst Schneider",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloß Lustheim 1",
+    "addressLocality": "Oberschleißheim",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85764"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2487&mlon=11.5759#map=15/48.2487/11.5759",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2487,
+    "longitude": 11.5759
+  },
+  "url": "http://www.schloesser-schleissheim.de/deutsch/lustheim/porzell.htm",
+  "telephone": "089/315872-42",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183425",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

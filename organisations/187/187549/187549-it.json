@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187549
+  },
+  "name": "Villa Vidua",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Oddone Francesco, 5, ",
+    "addressLocality": "Conzano",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0213&mlon=8.45427#map=15/45.0213/8.45427",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0213,
+    "longitude": 8.45427
+  },
+  "url": "http://www.comune.conzano.al.it",
+  "telephone": "+39 0142 925132",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wJFSnnPgGbNICWagr4kLtzWTe50=/1000x1000/museums/logos/000/187/549/original/a5be1c83f139ed3e23cab56947d7d34426f0fb10.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102456",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

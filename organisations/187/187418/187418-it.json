@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187418
+  },
+  "name": "Museo della civiltà contadina di Sefro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello, ",
+    "addressLocality": "Sefro",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1482&mlon=12.9483#map=15/43.1482/12.9483",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1482,
+    "longitude": 12.9483
+  },
+  "url": "http://www.sefro.sinp.net",
+  "telephone": "+39 073745118",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Agosto aperto tutti i giorni. Luglio aperto solo la domenica",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LZrYPRLkQZ-OzhC-JWf-1sQg-4A=/1000x1000/museums/logos/000/187/418/original/5264587c8148cf3344fa577e29285859bc8942f1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104235",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

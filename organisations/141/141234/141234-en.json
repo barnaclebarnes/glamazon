@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141234
+  },
+  "name": "NEAL DOW MEMORIAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "714 CONGRESS ST.",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.653&mlon=-70.2691#map=15/43.653/-70.2691",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.653,
+    "longitude": -70.2691
+  },
+  "url": "http://www.mewctu.com",
+  "telephone": "+1 (207) 773-7773",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300083",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189206
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pierucci, ",
+    "addressLocality": "Città di Castello",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4515&mlon=12.2471#map=15/43.4515/12.2471",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4515,
+    "longitude": 12.2471
+  },
+  "url": "http://www.fondazioneburri.org",
+  "telephone": "+39 0758554649",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VwOFFEDkFpwd1-PNyTcumbL2xbI=/1000x1000/museums/logos/000/189/206/original/2edb8411ab9d40806f92c98bc42d576d3ee5624b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100698",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188543
+  },
+  "name": "Museo delle miniere di Cavriglia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Giovanni XXIII, 3",
+    "addressLocality": "Cavriglia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5434&mlon=11.4524#map=15/43.5434/11.4524",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5434,
+    "longitude": 11.4524
+  },
+  "url": "http://www.comune.cavriglia.ar.it/museominiera",
+  "telephone": "+39 0559670003",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TBaDZ9CAOzSmsoW--3G6yjwM6oI=/1000x1000/museums/logos/000/188/543/original/9e7a3af66f71641913888d21e624ca545e3abab9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102863",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

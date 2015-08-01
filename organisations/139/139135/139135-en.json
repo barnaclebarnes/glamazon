@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139135
+  },
+  "name": "MIDWEST CENTRAL RAILROAD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 102",
+    "addressLocality": "MT PLEASANT",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52641-0102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9737&mlon=-91.5643#map=15/40.9737/-91.5643",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9737,
+    "longitude": -91.5643
+  },
+  "url": "http://www.mcrr.org/index.html",
+  "telephone": "+1 (319) 385-2912",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900172",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

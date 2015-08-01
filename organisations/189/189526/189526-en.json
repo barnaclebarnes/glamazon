@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189526
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pergola, 36",
+    "addressLocality": "Montecchia di Crosara",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4536&mlon=11.3025#map=15/45.4536/11.3025",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4536,
+    "longitude": 11.3025
+  },
+  "telephone": "+39 0456176328",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GjNHQhhQK4Lt1JjAc_kPmbI44ok=/1000x1000/museums/logos/000/189/526/original/95c3404bba3ce927406f94162682a03a8ee7bc91.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106799",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

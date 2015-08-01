@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185776
+  },
+  "name": "Museo dei Brettii e degli Enotri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Agostino, ",
+    "addressLocality": "Cosenza",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2896&mlon=16.2638#map=15/39.2896/16.2638",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2896,
+    "longitude": 16.2638
+  },
+  "url": "http://www.museodeibrettiiedeglienotri.it/",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì – venerdì: 9.00 – 13.00, 15.30 – 18.30 (feriali) sabato – domenica: 10.00 – 13.00, 15.30 – 18.30 (festivi)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wIoyX3e-tjunOUWgSpEJS14v2lk=/1000x1000/museums/logos/000/185/776/original/e45cbe194f658a4a3a16d5b0fe2cf0d59af34cdf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108340",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

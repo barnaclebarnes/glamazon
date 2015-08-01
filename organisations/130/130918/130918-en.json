@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130918
+  },
+  "name": "MUSEUM OF ART AND DIGITAL ENTERTAINMENT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "610 16TH ST SUITE 230",
+    "addressLocality": "OAKLAND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94612-1290"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8072&mlon=-122.274#map=15/37.8072/-122.274",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8072,
+    "longitude": -122.274
+  },
+  "url": "http://themade.org",
+  "telephone": "+1 (510) 788-5702",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6vJCAiUy9AAaKakNc8T0zExASVk=/1000x1000/museums/logos/000/130/918/original/TheMADE.jpg",
+    "creator": "Derek Yu, Andre LaMothe",
+    "license": "CC BY 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Museum_of_Art_and_Digital_Entertainment",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601044",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

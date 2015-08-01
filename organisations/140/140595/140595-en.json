@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140595
+  },
+  "name": "BRENNAN HOUSE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "631 S 5TH ST",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40202-2201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.248&mlon=-85.7597#map=15/38.248/-85.7597",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.248,
+    "longitude": -85.7597
+  },
+  "url": "http://www.thebrennanhouse.org",
+  "telephone": "+1 (502) 540-5145",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100352",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160501
+  },
+  "name": "VIRGINIA MUSEUM OF NATURAL HISTORY-UVA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "104 EMMET ST N",
+    "addressLocality": "CHARLOTTESVILLE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22903"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0399&mlon=-78.5067#map=15/38.0399/-78.5067",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0399,
+    "longitude": -78.5067
+  },
+  "telephone": "+1 (434) 982-4605",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

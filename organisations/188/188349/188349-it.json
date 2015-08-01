@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188349
+  },
+  "name": "Museo diocesano dell'arte sacra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 1",
+    "addressLocality": "Alghero",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.558&mlon=8.3222#map=15/40.558/8.3222",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.558,
+    "longitude": 8.3222
+  },
+  "url": "http://www.algheromuseo.it",
+  "telephone": "+39 079 9733041",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10,00 - 12,30 e 19,00 - 22,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/foML3tP4QwkPm_Gggj__oodr-CQ=/1000x1000/museums/logos/000/188/349/original/28678dbecc059b8c628e6c2c8f918147d750d4.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103444",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

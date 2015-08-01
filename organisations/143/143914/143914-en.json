@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143914
+  },
+  "name": "THE DETROIT INSTITUTE OF ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5200 WOODWARD AVE",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48202-4008"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.359&mlon=-83.0658#map=15/42.359/-83.0658",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.359,
+    "longitude": -83.0658
+  },
+  "url": "http://www.dia.org",
+  "telephone": "+1 (313) 833-7900",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600451",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143678
+  },
+  "name": "ANN ARBOR STREET ART FAIR",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "721 E HURON ST",
+    "addressLocality": "ANN ARBOR",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48104"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2812&mlon=-83.7398#map=15/42.2812/-83.7398",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2812,
+    "longitude": -83.7398
+  },
+  "url": "http://www.artfair.org",
+  "telephone": "+1 (734) 994-5260",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600215",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

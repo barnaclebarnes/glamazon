@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189435
+  },
+  "name": "Museo del fiume Bacchiglione e del suo territorio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello di San Martino, 23",
+    "addressLocality": "Cervarese Santa Croce",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4391&mlon=11.6839#map=15/45.4391/11.6839",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4391,
+    "longitude": 11.6839
+  },
+  "url": "http://www.provincia.padova.it",
+  "telephone": "+39 0499915425",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1c-YtwEdXmXRA35LvwwTv43a3pE=/1000x1000/museums/logos/000/189/435/original/ebc949cf5c5bfa679c937ac43a37709a28bf1a76.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100901",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

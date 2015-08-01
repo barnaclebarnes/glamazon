@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150118
+  },
+  "name": "WALWORTH HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 142",
+    "addressLocality": "WALWORTH",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14568"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1392&mlon=-77.2783#map=15/43.1392/-77.2783",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1392,
+    "longitude": -77.2783
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601412",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

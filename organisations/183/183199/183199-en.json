@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183199
+  },
+  "name": "Alexander Tutsek-Stiftung",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Karl-Theodor-Str. 27",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.166&mlon=11.5828#map=15/48.166/11.5828",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.166,
+    "longitude": 11.5828
+  },
+  "url": "http://www.atutsek-stiftung.de",
+  "telephone": "089/343856",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183199",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

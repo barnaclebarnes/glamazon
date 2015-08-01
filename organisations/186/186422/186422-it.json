@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186422
+  },
+  "name": "Museo della storia della ceramica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Garibaldi, ",
+    "addressLocality": "Sermoneta",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5486&mlon=12.9874#map=15/41.5486/12.9874",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5486,
+    "longitude": 12.9874
+  },
+  "url": "http://www.comune.sermoneta.latina.it",
+  "telephone": "+39 077330151",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Invernale Sabato, Domenica e festivi 10/13 - 15/18 Estivo 10/13 - 16/19",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101450",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

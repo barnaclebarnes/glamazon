@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185949
+  },
+  "name": "Museo civico del territorio di Cusano Mutri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Municipio, 4",
+    "addressLocality": "Cusano Mutri",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3393&mlon=14.5056#map=15/41.3393/14.5056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3393,
+    "longitude": 14.5056
+  },
+  "url": "http://www.comunecusanomutri.it",
+  "telephone": "+39 0824862690",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101794",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

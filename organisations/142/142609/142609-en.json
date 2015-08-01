@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142609
+  },
+  "name": "TRUSTEES OF THE SMITH COLLEGE, SMITH COLLEGE MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ELM STREET AT BEDFORD TERRACE",
+    "addressLocality": "NORTHAMPTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01060"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3255&mlon=-72.6367#map=15/42.3255/-72.6367",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3255,
+    "longitude": -72.6367
+  },
+  "url": "http://www.smith.edu/artmuseum",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500239",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

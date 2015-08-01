@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183932
+  },
+  "name": "Herr Zopf’s Friseurmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dieselstr. 4",
+    "addressLocality": "Neu-Ulm",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89231"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3857&mlon=10.0004#map=15/48.3857/10.0004",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3857,
+    "longitude": 10.0004
+  },
+  "url": "http://deutsche-friseur-akademie.de/friseurmuseum",
+  "telephone": "0731/3784657-11",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183932",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

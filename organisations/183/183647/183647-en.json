@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183647
+  },
+  "name": "Städtische Galerie Schwabach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Königsplatz 29",
+    "addressLocality": "Schwabach",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91126"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.3288&mlon=11.0204#map=15/49.3288/11.0204",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.3288,
+    "longitude": 11.0204
+  },
+  "url": "http://www.kuenstlerbund-schwabach.de",
+  "telephone": "09122/875857",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183647",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

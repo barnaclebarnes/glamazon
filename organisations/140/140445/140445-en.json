@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140445
+  },
+  "name": "HIGHLANDS MUSEUM & DISCOVERY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1620 WINCHESTER AVE",
+    "addressLocality": "ASHLAND",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "41101-7639"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4784&mlon=-82.6389#map=15/38.4784/-82.6389",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4784,
+    "longitude": -82.6389
+  },
+  "url": "http://www.highlandsmuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100202",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187757
+  },
+  "name": "Santuario di Vicoforte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Carlo Emanuele I, 1, ",
+    "addressLocality": "Vicoforte",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3638&mlon=7.86404#map=15/44.3638/7.86404",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3638,
+    "longitude": 7.86404
+  },
+  "url": "http://www.santuariodivicoforte.com",
+  "telephone": "+39 0174565555",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriali 7,00/12 ,00 - 14,30/19,00; festivi 7,00/12,30 - 14,30/19,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OKkkkvmgaX7iYAISj-8FseOifFM=/1000x1000/museums/logos/000/187/757/original/73dc79f656958912aa2d0a076cce0e3892fd1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106728",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

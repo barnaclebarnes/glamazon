@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132326
+  },
+  "name": "MUSEUM OF LOCAL HISTORY GUILD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "190 ANZA STREET",
+    "addressLocality": "FREMONT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94539-5802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5303&mlon=-121.92#map=15/37.5303/-121.92",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5303,
+    "longitude": -121.92
+  },
+  "url": "http://www.museumoflocalhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602452",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

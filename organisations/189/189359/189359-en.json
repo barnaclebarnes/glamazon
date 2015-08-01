@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189359
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Parco archeologico dell'antica Ocriculum, ",
+    "addressLocality": "Otricoli",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4225&mlon=12.4783#map=15/42.4225/12.4783",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4225,
+    "longitude": 12.4783
+  },
+  "url": "http://www.archeopg.arti.beniculturali.it",
+  "telephone": "+39 0755759625 -",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4ZF5QXOHUQ_gRrELR7hy_qhVCe0=/1000x1000/museums/logos/000/189/359/original/1339070900036-.png"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20194",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

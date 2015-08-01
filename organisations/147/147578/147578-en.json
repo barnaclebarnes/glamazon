@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147578
+  },
+  "name": "DUBLIN COMMUNITY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 497",
+    "addressLocality": "DUBLIN",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03444-0497"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8818&mlon=-72.0363#map=15/42.8818/-72.0363",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8818,
+    "longitude": -72.0363
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300353",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

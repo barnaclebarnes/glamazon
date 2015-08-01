@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139641
+  },
+  "name": "NATIONAL CZECH & SLOVAK MUSEUM & LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1400 INSPIRATION PL SW",
+    "addressLocality": "CEDAR RAPIDS",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52404-5918"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9663&mlon=-91.6611#map=15/41.9663/-91.6611",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9663,
+    "longitude": -91.6611
+  },
+  "url": "http://www.ncsml.org",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/97687943939"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/NCSML"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900678",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

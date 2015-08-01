@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139280
+  },
+  "name": "SIOUX CITY MUSEUM & HISTORICAL ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "607 4TH STREET",
+    "addressLocality": "SIOUX CITY",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "51101-1634"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4942&mlon=-96.4041#map=15/42.4942/-96.4041",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4942,
+    "longitude": -96.4041
+  },
+  "url": "http://www.siouxcitymuseum.org",
+  "telephone": "+1 (712) 279-6174",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900317",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

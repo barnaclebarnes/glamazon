@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132160
+  },
+  "name": "MONTEREY BAY AQUARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "886 CANNERY ROW",
+    "addressLocality": "MONTEREY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93940-1023"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.6178&mlon=-121.902#map=15/36.6178/-121.902",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.6178,
+    "longitude": -121.902
+  },
+  "url": "http://www.montereybayaquarium.org",
+  "telephone": "+1 (831) 648-4800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602286",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

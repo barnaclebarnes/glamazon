@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130387
+  },
+  "name": "CROCKER ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "216 O STREET",
+    "addressLocality": "SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95814-5399"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5774&mlon=-121.506#map=15/38.5774/-121.506",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5774,
+    "longitude": -121.506
+  },
+  "telephone": "+1 (916) 449-5423",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Crocker_Art_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600513",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

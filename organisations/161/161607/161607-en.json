@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161607
+  },
+  "name": "MICROSOFT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4420 148TH AVE NE",
+    "addressLocality": "REDMOND",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98052"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6408&mlon=-122.138#map=15/47.6408/-122.138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6408,
+    "longitude": -122.138
+  },
+  "url": "http://www.microsoft.com",
+  "telephone": "+1 (425) 703-6214",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300056",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

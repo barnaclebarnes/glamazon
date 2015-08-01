@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186635
+  },
+  "name": "Museo \"Ferrante Rittatore Vonwiller\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Colle San Martino, ",
+    "addressLocality": "Farnese",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2247&mlon=12.3103#map=15/42.2247/12.3103",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2247,
+    "longitude": 12.3103
+  },
+  "telephone": "+39 0761458511",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DTPziLJv2ohf1c-Es02zCicNpoI=/1000x1000/museums/logos/000/186/635/original/eb2cb8c664a7c62b15cf1f291a917760adb652.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101624",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

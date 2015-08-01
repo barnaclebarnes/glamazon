@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149470
+  },
+  "name": "WHITNEY MUSEUM OF AMERICAN ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "945 MADISON AVE",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10021-2764"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7735&mlon=-73.9642#map=15/40.7735/-73.9642",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7735,
+    "longitude": -73.9642
+  },
+  "url": "http://whitney.org/",
+  "telephone": "+1 (212) 570-3600",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/whitneymuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/whitneymuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600764",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187035
+  },
+  "name": "Museo galleria del Premio Suzzara",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Don Giovanni Bosco, 2/A",
+    "addressLocality": "Suzzara",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9915&mlon=10.7457#map=15/44.9915/10.7457",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9915,
+    "longitude": 10.7457
+  },
+  "url": "http://www.premiosuzzara.it",
+  "telephone": "+39 0376535593",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VvnHafC2x4dvfTXna6LRF8u-Rws=/1000x1000/museums/logos/000/187/035/original/918e6a72874717874cf367d168265e95eb1d5bae.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103760",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

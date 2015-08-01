@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130634
+  },
+  "name": "MUSEUM OF THE CITY OF SAN FRANCISCO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2210 CARMELITA DR",
+    "addressLocality": "SAN CARLOS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94070-2923"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5014&mlon=-122.274#map=15/37.5014/-122.274",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5014,
+    "longitude": -122.274
+  },
+  "telephone": "+1 (650) 877-8005",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/x5RbBysZGN7VUPbiROQiYNFaf1Y=/1000x1000/museums/logos/000/130/634/original/Old_US_Mint__28San_Francisco_29_3.JPG",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Sanfranman59\" title=\"User:Sanfranman59\">Sanfranman59</a>",
+    "license": "GFDL"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/San_Francisco_Museum_and_Historical_Society",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600760",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189555
+  },
+  "name": "Laboratorio per l'arte contemporanea Città di Malo, Museo Casabianca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Morandi, 1",
+    "addressLocality": "Malo",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6597&mlon=11.4033#map=15/45.6597/11.4033",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6597,
+    "longitude": 11.4033
+  },
+  "url": "http://www.museocasabianca.com",
+  "telephone": "+39 0445602474",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/INnLyaqUfc9VdAoHrOCPb5oiYaE=/1000x1000/museums/logos/000/189/555/original/af2c9c6615578d695f47beb9442740d6e4f37f.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101068",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

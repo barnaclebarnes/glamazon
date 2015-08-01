@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189208
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sant'Antonio, 3",
+    "addressLocality": "Città di Castello",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4576&mlon=12.241#map=15/43.4576/12.241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4576,
+    "longitude": 12.241
+  },
+  "telephone": "+39 0758559071",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YbV1iLbXsHNzsqy-fgIaimrGssU=/1000x1000/museums/logos/000/189/208/original/d92358bff8d602263ad25df2ad44fb75272c41e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100691",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

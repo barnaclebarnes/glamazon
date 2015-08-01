@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145578
+  },
+  "name": "YOUZEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "608 CHERRY ST",
+    "addressLocality": "COLUMBIA",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "65201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9505&mlon=-92.3303#map=15/38.9505/-92.3303",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9505,
+    "longitude": -92.3303
+  },
+  "url": "http://www.youzeum.org",
+  "telephone": "+1 (573) 886-2006",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155240
+  },
+  "name": "PHILADELPHIA ART ALLIANCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "251 S 18TH ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19103-6118"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9484&mlon=-75.171#map=15/39.9484/-75.171",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9484,
+    "longitude": -75.171
+  },
+  "url": "http://www.philartalliance.org",
+  "telephone": "+1 (215) 545-4302",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200434",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142527
+  },
+  "name": "EDWARD GOREY HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8 STRAWBERRY LN",
+    "addressLocality": "YARMOUTH PORT",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02675"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7053&mlon=-70.2427#map=15/41.7053/-70.2427",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7053,
+    "longitude": -70.2427
+  },
+  "url": "http://www.edwardgoreyhouse.org",
+  "telephone": "+1 (508) 362-3909",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500157",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

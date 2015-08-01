@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186642
+  },
+  "name": "Museo della terra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dell’Osteria, ",
+    "addressLocality": "Latera",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.63&mlon=11.8281#map=15/42.63/11.8281",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.63,
+    "longitude": 11.8281
+  },
+  "url": "http://comune.latera.vt.it",
+  "telephone": "+39 0761459041",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/c_dCxihb495lRSmfkCujFvYpN2E=/1000x1000/museums/logos/000/186/642/original/79cc7c20cb3c8b8fe2f318ab2c9a17e23178cee6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101630",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

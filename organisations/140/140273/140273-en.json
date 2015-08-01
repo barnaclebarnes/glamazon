@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140273
+  },
+  "name": "MIMOSA HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "412 E. 2ND ST.",
+    "addressLocality": "COVINGTON",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "41011"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0905&mlon=-84.5045#map=15/39.0905/-84.5045",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0905,
+    "longitude": -84.5045
+  },
+  "telephone": "+1 (859) 261-9000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100029",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

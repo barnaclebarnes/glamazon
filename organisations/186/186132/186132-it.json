@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186132
+  },
+  "name": "San Giorgio in Poggiale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nazario Sauro, 22, ",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4975&mlon=11.3395#map=15/44.4975/11.3395",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4975,
+    "longitude": 11.3395
+  },
+  "url": "http://www.provincia.bologna.it/cultura",
+  "telephone": "+39 051 2750202",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5ZlVdxauzIamX0WZRE3iv1UD8So=/1000x1000/museums/logos/000/186/132/original/7a39925c2642de368212445cc74c80c596fbd42a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107876",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

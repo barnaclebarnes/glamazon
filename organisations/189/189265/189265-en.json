@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189265
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guardabassi, 10",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1134&mlon=12.3858#map=15/43.1134/12.3858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1134,
+    "longitude": 12.3858
+  },
+  "url": "http://www.amerindiano.org",
+  "telephone": "+39 075 5720716",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TGUbWBh53U1bpIC1StMV2Zp6diI=/1000x1000/museums/logos/000/189/265/original/eb766ad8f486e0b39b1ae2ab56f5e62c0e03868.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108043",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

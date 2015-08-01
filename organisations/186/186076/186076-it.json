@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186076
+  },
+  "name": "MUDIF- Museo della fotografia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Villanova, 4-, 12",
+    "addressLocality": "Nocera Inferiore",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.755&mlon=14.64#map=15/40.755/14.64",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.755,
+    "longitude": 14.64
+  },
+  "url": "http://www.ildidrammo.it",
+  "telephone": "+39 081 5179573",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UjeVBDTfpzHFyZdLYy4MMybCVrY=/1000x1000/museums/logos/000/186/076/original/889f813fd28769dc0cea4269a1ab758d99e8ea.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107087",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

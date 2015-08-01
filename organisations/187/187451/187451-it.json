@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187451
+  },
+  "name": "Museo \"Franco Assetto\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C.so Giovanni XXIII°, ",
+    "addressLocality": "Frontino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7645&mlon=12.3764#map=15/43.7645/12.3764",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7645,
+    "longitude": 12.3764
+  },
+  "url": "http://comune.frontino.pu.it",
+  "telephone": "+39 072271131",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedi al venerdi dalle 9.00 alle 13.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AkblXY5gAQMaOevCZKntgg56rMw=/1000x1000/museums/logos/000/187/451/original/4777d17758d31b9776aba1e71e6e3b827e23b7.gif"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104274",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

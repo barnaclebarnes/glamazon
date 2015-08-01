@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133732
+  },
+  "name": "BETHEL HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 382",
+    "addressLocality": "BETHEL",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3798&mlon=-73.4058#map=15/41.3798/-73.4058",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3798,
+    "longitude": -73.4058
+  },
+  "url": "http://bethelhistoricalsociety.com",
+  "telephone": "+1 (203) 794-1050",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/57142614719"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900207",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

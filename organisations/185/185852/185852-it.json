@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185852
+  },
+  "name": "Museo e Parco archeologico nazionale",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2364&mlon=16.26#map=15/38.2364/16.26",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2364,
+    "longitude": 16.26
+  },
+  "telephone": "+39 0964390023",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 20.00 (Tutti i giorni)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IyuFq17VLthg4VeDktJVAOD3T4I=/1000x1000/museums/logos/000/185/852/original/abe47b29b386c5c63e9179af33fdbda5b24d6ca.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20245",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

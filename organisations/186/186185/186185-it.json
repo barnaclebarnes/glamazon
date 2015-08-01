@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186185
+  },
+  "name": "Museo naturalistico del Parco dello Stirone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Scipione Ponte, 1, ",
+    "addressLocality": "Salsomaggiore Terme",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8318&mlon=9.95551#map=15/44.8318/9.95551",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8318,
+    "longitude": 9.95551
+  },
+  "telephone": "+39 0524581139",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qhWbrzg1jCA2SBwLFr5q67Y5Zjk=/1000x1000/museums/logos/000/186/185/original/3c258d463321784b81ad7e38486b4133a3d9c525.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102185",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

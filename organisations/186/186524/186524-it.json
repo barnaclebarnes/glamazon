@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186524
+  },
+  "name": "Fototeca nazionale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via di San Michele, 18",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8862&mlon=12.4764#map=15/41.8862/12.4764",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8862,
+    "longitude": 12.4764
+  },
+  "url": "http://www.iccd.beniculturali.it",
+  "telephone": "+39 06585521  0658552247",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriali 9.00 - 14.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mMVWFcVcyWjyr41S-5DLBwXL8r8=/1000x1000/museums/logos/000/186/524/original/c38ff41a3916a3be6b9dbbc79364d8c6cceab5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108187",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

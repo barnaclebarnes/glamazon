@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138976
+  },
+  "name": "UNIVERSITY OF IOWA MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "150 N RIVERSIDE DR",
+    "addressLocality": "IOWA CITY",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52246"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6628&mlon=-91.5376#map=15/41.6628/-91.5376",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6628,
+    "longitude": -91.5376
+  },
+  "url": "http://uima.uiowa.edu/",
+  "telephone": "+1 (319) 335-1742",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/UIMuseumofArt"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/UIMuseumofArt"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900013",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

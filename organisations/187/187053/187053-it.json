@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187053
+  },
+  "name": "Civico planetario Ulrico Hoepli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Venezia, 57",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4733&mlon=9.20387#map=15/45.4733/9.20387",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4733,
+    "longitude": 9.20387
+  },
+  "url": "http://www.comune.milano.it/planetario",
+  "telephone": "+39 02 88463340",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106884",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

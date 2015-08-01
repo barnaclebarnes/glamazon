@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184427
+  },
+  "name": "Waiuku Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:waiukumuseum@xtra.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.2474&mlon=174.729#map=15/-37.2474/174.729",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.2474,
+    "longitude": 174.729
+  },
+  "url": "http://www.waiukumuseum.wordpress.com",
+  "telephone": "09 235 8698",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Waiuku Museum is open at weekends from 1.30pm - 4pm, Wednesdays from 10am - 12pm, and at other times by arrangement",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Adults $3, children $1"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184427",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

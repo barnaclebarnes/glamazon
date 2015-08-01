@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132076
+  },
+  "name": "SAN FRANCISCO MUSEUM OF MODERN ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "151 3RD ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94103-3107"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7856&mlon=-122.401#map=15/37.7856/-122.401",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7856,
+    "longitude": -122.401
+  },
+  "url": "http://www.caffemuseo.com",
+  "telephone": "+1 (415) 357-4000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602202",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

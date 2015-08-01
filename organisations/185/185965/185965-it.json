@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185965
+  },
+  "name": "Reggia di Caserta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Douhet, 2a",
+    "addressLocality": "Caserta",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0726&mlon=14.321#map=15/41.0726/14.321",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0726,
+    "longitude": 14.321
+  },
+  "url": "http://www.reggiadicaserta.beniculturali.it",
+  "telephone": "+39 0823277468 - 0823277443",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni ore 8.30 - 19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "12,00 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lJu0VazLRuqItifrGbGq4tdGDRo=/1000x1000/museums/logos/000/185/965/original/4d773493bf6a167b1fb93c40655693e27a943fb7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20369",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

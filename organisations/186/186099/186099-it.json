@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186099
+  },
+  "name": "Museo della Badia di Cava dei Tirreni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": " Via Morcaldi ",
+    "addressLocality": "Salerno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6824&mlon=14.7681#map=15/40.6824/14.7681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6824,
+    "longitude": 14.7681
+  },
+  "url": "http://www.badiadicava.it",
+  "telephone": "+39 089 463922",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3zblHaCxNSJp0TT_kP0nNYNA84k=/1000x1000/museums/logos/000/186/099/original/dd6e40e23ea88d7e57f64c434344faf8899a4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108557",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186379
+  },
+  "name": "Museo della civiltà contadina e dell'ulivo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Porta Napoli, ",
+    "addressLocality": "Pastena",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.469&mlon=13.491#map=15/41.469/13.491",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.469,
+    "longitude": 13.491
+  },
+  "url": "http://www.museodellolivo.com/",
+  "telephone": "+39 0776546006",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni : marzo-settembre ore 9.00 - 20.00 ottobre-febbraio ore 9.00 -17.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/djWEzav6Lj5bz_VHcTW6bWiO1S0=/1000x1000/museums/logos/000/186/379/original/6e45d331bf522ccd1be53780dcd3a2387d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101417",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

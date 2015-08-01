@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132418
+  },
+  "name": "TRITON MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1505 WARBURTON AVE",
+    "addressLocality": "SANTA CLARA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95050-3712"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3559&mlon=-121.955#map=15/37.3559/-121.955",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3559,
+    "longitude": -121.955
+  },
+  "url": "http://www.tritonmuseum.org",
+  "telephone": "+1 (408) 247-3754",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602544",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

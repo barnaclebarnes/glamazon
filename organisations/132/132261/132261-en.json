@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132261
+  },
+  "name": "CALIFORNIA VEHICLE FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2200 FRONT ST",
+    "addressLocality": "SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95818-1107"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5702&mlon=-121.511#map=15/38.5702/-121.511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5702,
+    "longitude": -121.511
+  },
+  "url": "http://www.calautomuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602387",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

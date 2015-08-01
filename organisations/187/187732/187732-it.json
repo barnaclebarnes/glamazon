@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187732
+  },
+  "name": "Parco del Castello di Racconigi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Morosini, 3",
+    "addressLocality": "Racconigi",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7684&mlon=7.67566#map=15/44.7684/7.67566",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7684,
+    "longitude": 7.67566
+  },
+  "url": "http://www.ilcastellodiracconigi.it",
+  "telephone": "+39 017284005",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nBORMTFcPqlkgb5eIbW3v93AIYE=/1000x1000/museums/logos/000/187/732/original/2d9ac576cb9b7aca516fdfa2f45eac38187f7f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106651",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

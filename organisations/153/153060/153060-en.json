@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153060
+  },
+  "name": "COLUMBUS MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "480 E BROAD ST",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43215-3823"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9637&mlon=-82.9878#map=15/39.9637/-82.9878",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9637,
+    "longitude": -82.9878
+  },
+  "url": "http://www.columbusmuseum.org",
+  "telephone": "+1 (614) 221-6801",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/columbusmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900837",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

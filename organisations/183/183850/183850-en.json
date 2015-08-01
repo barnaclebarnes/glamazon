@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183850
+  },
+  "name": "Heimatmuseum Weisendorf",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Reuther Weg 16",
+    "addressLocality": "Weisendorf",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91085"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6184&mlon=10.8384#map=15/49.6184/10.8384",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6184,
+    "longitude": 10.8384
+  },
+  "url": "http://www.heimatverein-weisendorf.de/index.php/museum",
+  "telephone": "09135/729676",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183850",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

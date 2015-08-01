@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183829
+  },
+  "name": "Museum der Stadt Wasserburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Herrengasse 17",
+    "addressLocality": "Wasserburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83512"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0614&mlon=12.2325#map=15/48.0614/12.2325",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0614,
+    "longitude": 12.2325
+  },
+  "url": "http://www.museum.wasserburg.de",
+  "telephone": "08071/925290",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183829",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

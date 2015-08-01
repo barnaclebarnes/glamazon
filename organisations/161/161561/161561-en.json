@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161561
+  },
+  "name": "WASHINGTON STATE CAPITAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "211 SW 21ST AVENUE",
+    "addressLocality": "OLYMPIA",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.03&mlon=-122.903#map=15/47.03/-122.903",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.03,
+    "longitude": -122.903
+  },
+  "telephone": "+1 (360) 753-2580",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300010",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

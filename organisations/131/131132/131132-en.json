@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131132
+  },
+  "name": "MUSEUM OF SAN DIEGO HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 81825",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92138-1825"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7483&mlon=-117.204#map=15/32.7483/-117.204",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7483,
+    "longitude": -117.204
+  },
+  "telephone": "+1 (619) 297-3258",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/San_Diego_Natural_History_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601258",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

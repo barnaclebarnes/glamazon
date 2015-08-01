@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150487
+  },
+  "name": "JOHN D BARROW COLLECTION OR ART GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "49 E GENESEE ST",
+    "addressLocality": "SKANEATELES",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13152-1341"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9456&mlon=-76.4275#map=15/42.9456/-76.4275",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9456,
+    "longitude": -76.4275
+  },
+  "url": "http://www.barrowgallery.org",
+  "telephone": "+1 (315) 685-1032",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601781",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

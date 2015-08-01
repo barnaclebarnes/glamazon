@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187442
+  },
+  "name": "Museo archeologico e della Via Flaminia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Matteotti, 1",
+    "addressLocality": "Cagli",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5465&mlon=12.6483#map=15/43.5465/12.6483",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5465,
+    "longitude": 12.6483
+  },
+  "url": "http://www.musei.marche.it",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Chiuso al pubblico",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IuwXBH-JrHy51XTi9WGp61bHlBo=/1000x1000/museums/logos/000/187/442/original/4d4a8b9d8bdea811a8127e36c68645c85eae532b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105716",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

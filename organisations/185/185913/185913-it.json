@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185913
+  },
+  "name": "Museo della ceramica del Borgo Castello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello snc, ",
+    "addressLocality": "Calitri",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9&mlon=15.4381#map=15/40.9/15.4381",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9,
+    "longitude": 15.4381
+  },
+  "url": "http://www.calitri.net/Itinerari_museo.asp",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KAuKT4MnJKQ0Nt5IhSFvKQdAxYM=/1000x1000/museums/logos/000/185/913/original/76c549d355d6791b83bbb13b75bb11059df392d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106154",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

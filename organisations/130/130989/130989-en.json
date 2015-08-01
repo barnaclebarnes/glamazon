@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130989
+  },
+  "name": "ATLANTIC ARTS MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 YGNACIO VALLEY ROAD SUITE 320",
+    "addressLocality": "WALNUT CREEK",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94596-7026"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9047&mlon=-122.069#map=15/37.9047/-122.069",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9047,
+    "longitude": -122.069
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Atlantic_Center_for_the_Arts",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601115",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

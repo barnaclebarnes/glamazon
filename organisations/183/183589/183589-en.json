@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183589
+  },
+  "name": "Fabrikmuseum der Leonischen Industrie",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Obere Mühle 4",
+    "addressLocality": "Roth",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91154"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.2468&mlon=11.0953#map=15/49.2468/11.0953",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.2468,
+    "longitude": 11.0953
+  },
+  "url": "http://www.fabrikmuseum-roth.de",
+  "telephone": "09171/60564",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183589",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

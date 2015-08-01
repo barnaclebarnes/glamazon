@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137021
+  },
+  "name": "FOX MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "231 E 9TH ST",
+    "addressLocality": "LOCKPORT",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60441"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5889&mlon=-88.0556#map=15/41.5889/-88.0556",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5889,
+    "longitude": -88.0556
+  },
+  "telephone": "+1 (815) 838-0803",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700166",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

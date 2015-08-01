@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157411
+  },
+  "name": "FRANK H. MCCLUNG MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "UNIVERSITY OF TENNESSEE 1327 CIRCLE PARK DRIVE",
+    "addressLocality": "KNOXVILLE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37996-3200"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.9529&mlon=-83.9262#map=15/35.9529/-83.9262",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.9529,
+    "longitude": -83.9262
+  },
+  "telephone": "+1 (615) 974-2144",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/mcclungmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/mcclungmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700082",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183509
+  },
+  "name": "Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 25",
+    "addressLocality": "Pleystein",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92714"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6446&mlon=12.408#map=15/49.6446/12.408",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6446,
+    "longitude": 12.408
+  },
+  "url": "http://www.stadtmuseum-pleystein.de",
+  "telephone": "09654/9222-33",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183509",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153929
+  },
+  "name": "OKLAHOMA CITY MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "415 COUCH DR",
+    "addressLocality": "OKLAHOMA CITY",
+    "addressRegion": "OK",
+    "addressCountry": "United States",
+    "postalCode": "73102-2214"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.4694&mlon=-97.5198#map=15/35.4694/-97.5198",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.4694,
+    "longitude": -97.5198
+  },
+  "url": "http://www.okcmoa.com",
+  "telephone": "+1 (405) 236-3100",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/OKCMOA"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/OKCMOA"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404000283",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

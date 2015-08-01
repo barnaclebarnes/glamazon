@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132075
+  },
+  "name": "CALIFORNIA ACADEMY OF SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "55 MUSIC CONCOURSE DR",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94118-4503"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7706&mlon=-122.466#map=15/37.7706/-122.466",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7706,
+    "longitude": -122.466
+  },
+  "url": "http://www.calacademy.org/",
+  "telephone": "+1 (415) 379-8000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602201",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

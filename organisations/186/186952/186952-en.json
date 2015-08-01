@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186952
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Tornese, 10",
+    "addressLocality": "Grandate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7664&mlon=9.05574#map=15/45.7664/9.05574",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7664,
+    "longitude": 9.05574
+  },
+  "url": "http://museodelcavallogiocattolo.it",
+  "telephone": "+39 031382038",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2xkoCVPsC0pMYLAGd7ytWzxkc1w=/1000x1000/museums/logos/000/186/952/original/2be54af0df9be81b76f47ce6bd4926ac669dc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103615",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

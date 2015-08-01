@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159954
+  },
+  "name": "ST. GEORGE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "86 SOUTH MAIN STREET",
+    "addressLocality": "ST. GEORGE",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84770"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1164&mlon=-113.597#map=15/37.1164/-113.597",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1164,
+    "longitude": -113.597
+  },
+  "url": "http://www.sgcity.org/artmuseum",
+  "telephone": "+1 (435) 627-4525",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900020",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

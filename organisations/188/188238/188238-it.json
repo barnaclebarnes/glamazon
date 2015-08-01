@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188238
+  },
+  "name": "Galleria comunale d'arte di Cagliari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Giuseppe Dessì, SNC",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1938&mlon=9.15115#map=15/39.1938/9.15115",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1938,
+    "longitude": 9.15115
+  },
+  "url": "http://www.comune.cagliari.it",
+  "telephone": "+39 070490727",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 10,00-21,00 il martedì (inverno)10,00-18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nEiBLgtYtfEc9wj5F03acYYMMCk=/1000x1000/museums/logos/000/188/238/original/9266f1d0a81283e121aff83da0faf746442d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103297",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186899
+  },
+  "name": "Civico museo archelogico della Valle Sabbia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzetta San Bernardino, 2",
+    "addressLocality": "Gavardo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5848&mlon=10.439#map=15/45.5848/10.439",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5848,
+    "longitude": 10.439
+  },
+  "url": "http://www.museiarcheologici.net/index.php?pag=3&p=7s&id_museo=6",
+  "telephone": "+39 0365371474",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/q-qbqPBI66DyLGQVTs39AqGgPxY=/1000x1000/museums/logos/000/186/899/original/dca780d6664cc6633fec84f1362fb7d68c11f429.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103574",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

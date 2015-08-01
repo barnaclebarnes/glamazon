@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187089
+  },
+  "name": "Museo Zucchi collection",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ugo Foscolo, 4",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4653&mlon=9.19076#map=15/45.4653/9.19076",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4653,
+    "longitude": 9.19076
+  },
+  "url": "http://www.zucchicollection.org",
+  "telephone": "+39 02439221",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BvW5Fqw-5cqGUEU0yRjVFiIUV54=/1000x1000/museums/logos/000/187/089/original/339ec03bbe1347828c831879ac9ca792c8969932.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103719",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

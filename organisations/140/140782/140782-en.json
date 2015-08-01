@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140782
+  },
+  "name": "LA MAISON DUCHAMP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 S. MAIN STREET",
+    "addressLocality": "ST. MARTINVILLE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70582"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.1224&mlon=-91.8295#map=15/30.1224/-91.8295",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.1224,
+    "longitude": -91.8295
+  },
+  "telephone": "+1 (318) 394-2229",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200064",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

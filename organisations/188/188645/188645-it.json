@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188645
+  },
+  "name": "Museo della sanità - ex-Ospedale di San Giovanni di Dio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ognissanti, 20",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7716&mlon=11.2468#map=15/43.7716/11.2468",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7716,
+    "longitude": 11.2468
+  },
+  "telephone": "+39 0552285567",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HZK_dIzS8PWH4zz6GGkyg_ZqiJw=/1000x1000/museums/logos/000/188/645/original/c519c937a73d6ea8dc141fb11e55b726eb920da.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110760",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

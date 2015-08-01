@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131201
+  },
+  "name": "MUSEUM OF MAKING MUSIC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5790 ARMADA DR",
+    "addressLocality": "CARLSBAD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92008-4608"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.1272&mlon=-117.317#map=15/33.1272/-117.317",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.1272,
+    "longitude": -117.317
+  },
+  "url": "http://www.museumofmakingmusic.org",
+  "telephone": "+1 (760) 438-5996",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/MuseumofMakingMusic"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/MuseumMaknMusic"
+    }
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GCIupAqPWj2rLlKgkTKqRzyTs54=/1000x1000/museums/logos/000/131/201/original/MuseumOfMakingMusic.jpg",
+    "creator": "Original uploader was <a href=\"//en.wikipedia.org/wiki/User:Museum_of_Making_Music\" class=\"extiw\" title=\"en:User:Museum of Making Music\">Museum of Making Music</a> at <a class=\"external text\" href=\"http://en.wikipedia.org\">en.wikipedia</a>",
+    "license": "CC BY 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Museum_of_Making_Music",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601327",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

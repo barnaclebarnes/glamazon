@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148480
+  },
+  "name": "BRADBURY SCIENCE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1350 CENTRAL AVE",
+    "addressLocality": "LOS ALAMOS",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87544"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.8813&mlon=-106.296#map=15/35.8813/-106.296",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.8813,
+    "longitude": -106.296
+  },
+  "url": "http://www.lanl.gov/museum",
+  "telephone": "+1 (505) 667-4444",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/204222073002"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500070",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

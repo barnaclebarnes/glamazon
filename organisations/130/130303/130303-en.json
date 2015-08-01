@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130303
+  },
+  "name": "FULLERTON ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5500 UNIVERSITY PKWY",
+    "addressLocality": "SAN BERNARDINO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92407"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.178&mlon=-117.328#map=15/34.178/-117.328",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.178,
+    "longitude": -117.328
+  },
+  "url": "http://mailto:raffma@csusb.edu",
+  "telephone": "+1 (909) 537-7373",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600429",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

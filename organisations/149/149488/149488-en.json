@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149488
+  },
+  "name": "BRONX MUSEUM OF THE ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1040 GRAND CONCRS",
+    "addressLocality": "BRONX",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10456-3901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8314&mlon=-73.9199#map=15/40.8314/-73.9199",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8314,
+    "longitude": -73.9199
+  },
+  "url": "http://www.bronxmuseum.org",
+  "telephone": "+1 (718) 681-6000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600782",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

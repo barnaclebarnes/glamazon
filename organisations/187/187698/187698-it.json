@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187698
+  },
+  "name": "Castello degli Acaja",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, ",
+    "addressLocality": "Fossano",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5497&mlon=7.72323#map=15/44.5497/7.72323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5497,
+    "longitude": 7.72323
+  },
+  "url": "http://www.bibliotecafossano.it",
+  "telephone": "+39 0172 61976",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/PDwvJUQfVElZZWR9ivKkRGCCVG8=/1000x1000/museums/logos/000/187/698/original/d9b7b6e820cceb685ef66453aa2e8fd8c8621c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102580",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131505
+  },
+  "name": "INTERNATIONAL ART MUSEUM OF AMERICA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1023 MARKET ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94103-1605"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7818&mlon=-122.411#map=15/37.7818/-122.411",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7818,
+    "longitude": -122.411
+  },
+  "url": "http://www.iamasf.org",
+  "telephone": "+1 (415) 376-6344",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/IAMASF"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601631",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

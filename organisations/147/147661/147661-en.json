@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147661
+  },
+  "name": "ROEBLING MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 2ND AVE",
+    "addressLocality": "ROEBLING",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "08554"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1202&mlon=-74.7736#map=15/40.1202/-74.7736",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1202,
+    "longitude": -74.7736
+  },
+  "url": "http://www.roeblingmuseum.org",
+  "telephone": "+1 (609) 499-7200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400029",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157819
+  },
+  "name": "NASHVILLE ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1710 RIDGE CIR",
+    "addressLocality": "JOELTON",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37080-4717"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.3721&mlon=-86.9611#map=15/36.3721/-86.9611",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.3721,
+    "longitude": -86.9611
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700490",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132445
+  },
+  "name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "823 S EXPOSITION BLVD",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90089-0172"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.02&mlon=-118.286#map=15/34.02/-118.286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.02,
+    "longitude": -118.286
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602571",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

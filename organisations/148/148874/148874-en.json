@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148874
+  },
+  "name": "MILLS MANSION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14 MAIN ST",
+    "addressLocality": "MOUNT MORRIS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14510"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7271&mlon=-77.8749#map=15/42.7271/-77.8749",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7271,
+    "longitude": -77.8749
+  },
+  "url": "http://www.millsmansion.com",
+  "telephone": "+1 (585) 658-3292",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600168",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

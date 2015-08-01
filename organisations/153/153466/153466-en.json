@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153466
+  },
+  "name": "MILAN HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 308",
+    "addressLocality": "MILAN",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44846-0308"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2984&mlon=-82.603#map=15/41.2984/-82.603",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2984,
+    "longitude": -82.603
+  },
+  "url": "http://www.milanhistory.org",
+  "telephone": "+1 (419) 499-2968",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/72600998651"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901244",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

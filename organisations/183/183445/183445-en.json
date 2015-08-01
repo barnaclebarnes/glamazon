@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183445
+  },
+  "name": "H2 – Zentrum für Gegenwartskunst im Glaspalast",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Beim Glaspalast 1",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86153"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3672&mlon=10.9194#map=15/48.3672/10.9194",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3672,
+    "longitude": 10.9194
+  },
+  "url": "http://www.kunstsammlungen-museen.augsburg.de/index.php?id=19883",
+  "telephone": "0821/324-4162",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183445",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

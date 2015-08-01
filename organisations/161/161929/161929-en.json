@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161929
+  },
+  "name": "MERCER ISLAND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 111",
+    "addressLocality": "MERCER ISLAND",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98040-9804"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.578&mlon=-122.21#map=15/47.578/-122.21",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.578,
+    "longitude": -122.21
+  },
+  "url": "http://www.mihistory.org/",
+  "telephone": "+1 (206) 232-1263",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300378",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

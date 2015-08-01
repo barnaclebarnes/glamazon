@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163415
+  },
+  "name": "HARTLAND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 54",
+    "addressLocality": "HARTLAND",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53029"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1153&mlon=-88.3373#map=15/43.1153/-88.3373",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1153,
+    "longitude": -88.3373
+  },
+  "url": "http://hartlandhistory.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500864",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

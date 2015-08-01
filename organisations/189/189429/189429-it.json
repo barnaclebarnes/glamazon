@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189429
+  },
+  "name": "Museo civico di Abano Terme",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pietro d'Abano, 20",
+    "addressLocality": "Abano Terme",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.352&mlon=11.7795#map=15/45.352/11.7795",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.352,
+    "longitude": 11.7795
+  },
+  "url": "http://www.abanoterme.net",
+  "telephone": "+39 049667129",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RFltiXeCN2cFcQMRN99KATudego=/1000x1000/museums/logos/000/189/429/original/812eb48aa69ce46376682d3bc1cf836b17c66e3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100893",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

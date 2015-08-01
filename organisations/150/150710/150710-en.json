@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150710
+  },
+  "name": "HASTINGS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "407 BROADWAY",
+    "addressLocality": "HASTINGS HDSN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10706-2334"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9917&mlon=-73.878#map=15/40.9917/-73.878",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9917,
+    "longitude": -73.878
+  },
+  "url": "http://www.hastingshistorical.org/",
+  "telephone": "+1 (914) 478-2249",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602004",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

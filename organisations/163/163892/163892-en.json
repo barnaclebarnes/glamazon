@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163892
+  },
+  "name": "Geelong Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.1483&mlon=144.36#map=15/-38.1483/144.36",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.1483,
+    "longitude": 144.36
+  },
+  "url": "http://www.geelonggallery.org.au/",
+  "telephone": "5229 3645",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Open daily 10am-5pm. Closed Christmas Day, Boxing Day, New Year's Day, Good Friday",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "geelong-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/geelong-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

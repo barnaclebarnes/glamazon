@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187922
+  },
+  "name": "Museo Accorsi-Ometto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Po, 55, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0663&mlon=7.69304#map=15/45.0663/7.69304",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0663,
+    "longitude": 7.69304
+  },
+  "url": "http://www.fondazione.accorsi.it",
+  "telephone": "+39 011837688",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102767",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

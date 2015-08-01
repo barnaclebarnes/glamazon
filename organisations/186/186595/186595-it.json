@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186595
+  },
+  "name": "Museo storico della Liberazione",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Tasso, 145",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8894&mlon=12.5061#map=15/41.8894/12.5061",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8894,
+    "longitude": 12.5061
+  },
+  "url": "http://www.museoliberazione.it",
+  "telephone": "+39 06 7003866",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da martedì a domenica: 9.30 - 12.30 martedì, giovedì, venerdì: 15.30 - 19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yOYHnWG8ul0EK7_7RrQ1C7iAJB8=/1000x1000/museums/logos/000/186/595/original/9b73a56b7ead7a9aa614da43176c1c396eda97b9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101593",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

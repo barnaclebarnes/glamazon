@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183978
+  },
+  "name": "BAYREUTHER Katakomben",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kulmbacher Straße 60",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95445"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9477&mlon=11.5633#map=15/49.9477/11.5633",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9477,
+    "longitude": 11.5633
+  },
+  "url": "http://www.bayreuther-bierbrauerei.de/katakomben/katakomben_5.html",
+  "telephone": "0921/401234",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183978",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

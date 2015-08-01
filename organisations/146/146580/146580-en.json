@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146580
+  },
+  "name": "MUSEUM ASSOCIATION OF MONTANA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 881",
+    "addressLocality": "RED LODGE",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59068"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1884&mlon=-109.25#map=15/45.1884/-109.25",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1884,
+    "longitude": -109.25
+  },
+  "url": "http://www.montanamuseums.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000223",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

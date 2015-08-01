@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186581
+  },
+  "name": "Museo Mario Praz",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Zanardelli, 1 Palazzo Primoli, ",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8905&mlon=12.4942#map=15/41.8905/12.4942",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8905,
+    "longitude": 12.4942
+  },
+  "url": "http://www.museopraz.beniculturali.it/",
+  "telephone": "+39 066861089",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 13.00 / 14.30 - 18.30 (feriali e festivi); 14.30 - 19.00 (lunedi)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "ingresso gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JzPJ8Bg-Y4ceJAHy6L6VgytypWY=/1000x1000/museums/logos/000/186/581/original/a6969a3fc80dcc696ec792b44365b439447bab.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20271",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183788
+  },
+  "name": "Synagoge Memmelsdorf",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Judengasse 6",
+    "addressLocality": "Untermerzbach",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96190"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1427&mlon=10.8578#map=15/50.1427/10.8578",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1427,
+    "longitude": 10.8578
+  },
+  "url": "http://www.synagoge-memmelsdorf.de",
+  "telephone": "09533/982354",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183788",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

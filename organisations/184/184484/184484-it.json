@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184484
+  },
+  "name": "Cambridge Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:cambridge.museum@waipadc.govt.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8964&mlon=175.472#map=15/-37.8964/175.472",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8964,
+    "longitude": 175.472
+  },
+  "url": "http://www.cambridgemuseum.org.nz/home.htm",
+  "telephone": "(07) 827 3319",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10.00 a 04.00, lun-ven, Dom 10.00-02.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Free - Donation Appreciated"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/it/museums/184484",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

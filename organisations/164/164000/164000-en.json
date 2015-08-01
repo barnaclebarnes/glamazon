@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164000
+  },
+  "name": "Labassa, National Trust of Australia (Victoria)",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8696&mlon=145.01#map=15/-37.8696/145.01",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8696,
+    "longitude": 145.01
+  },
+  "url": "http://www.nationaltrust.org.au/vic/labassa",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "labassa",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/labassa",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

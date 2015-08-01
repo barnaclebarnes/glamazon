@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183665
+  },
+  "name": "Museum Otto Schäfer",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Judithstraße 16",
+    "addressLocality": "Schweinfurt",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97422"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0515&mlon=10.2483#map=15/50.0515/10.2483",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0515,
+    "longitude": 10.2483
+  },
+  "url": "http://www.museumottoschaefer.de",
+  "telephone": "09721/387097-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183665",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186676
+  },
+  "name": "Museo scientifico \"Sanguineti-Leonardini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza N. Signora Dell'orto, 8",
+    "addressLocality": "Chiavari",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3158&mlon=9.32391#map=15/44.3158/9.32391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3158,
+    "longitude": 9.32391
+  },
+  "url": "http://www.museodellascienza.it",
+  "telephone": "+39 0185/365339",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103929",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

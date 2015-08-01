@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147827
+  },
+  "name": "MONTCLAIR ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "23 S MOUNTAIN AVE",
+    "addressLocality": "MONTCLAIR",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "07042-1747"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8183&mlon=-74.2254#map=15/40.8183/-74.2254",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8183,
+    "longitude": -74.2254
+  },
+  "url": "http://www.montclairartmuseum.org",
+  "telephone": "+1 (973) 746-5555",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/montclairartmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/MAMmontclair"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400195",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

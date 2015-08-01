@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160526
+  },
+  "name": "SOUTHWEST VIRGINIA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 WEST FIRST STREET",
+    "addressLocality": "BIG STONE GAP",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24219-0742"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8634&mlon=-82.7794#map=15/36.8634/-82.7794",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8634,
+    "longitude": -82.7794
+  },
+  "telephone": "+1 (540) 523-1322",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100032",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

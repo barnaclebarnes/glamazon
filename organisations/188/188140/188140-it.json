@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188140
+  },
+  "name": "Antiquarium comunale di Alberona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vittorio Emanuele, 6",
+    "addressLocality": "Alberona",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4336&mlon=15.122#map=15/41.4336/15.122",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4336,
+    "longitude": 15.122
+  },
+  "url": "http://www.comunealberona.it",
+  "telephone": "+39 0881592022",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nxHW-Eccb8ItrETKO1vjbuMzNR0=/1000x1000/museums/logos/000/188/140/original/b0a4df9a314486d7b213e11b2eb265a923427d3f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102359",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

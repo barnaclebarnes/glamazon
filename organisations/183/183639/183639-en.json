@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183639
+  },
+  "name": "Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Christophstraße 53",
+    "addressLocality": "Schongau",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86956"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8126&mlon=10.8953#map=15/47.8126/10.8953",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8126,
+    "longitude": 10.8953
+  },
+  "url": "http://www.historischer-verein-schongau.de/stadtmuseum.html",
+  "telephone": "08861/20602",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183639",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

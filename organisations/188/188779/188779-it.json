@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188779
+  },
+  "name": "Museo diocesano di Livorno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "del Seminario, 61",
+    "addressLocality": "Livorno",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5537&mlon=10.3176#map=15/43.5537/10.3176",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5537,
+    "longitude": 10.3176
+  },
+  "telephone": "+39 0586276211",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110520",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

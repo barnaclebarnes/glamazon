@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153549
+  },
+  "name": "CENTRAL OHIO MILITARY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2288 HILLS WOOD DRIVE",
+    "addressLocality": "GROVE CITY",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8694&mlon=-83.0536#map=15/39.8694/-83.0536",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8694,
+    "longitude": -83.0536
+  },
+  "url": "http://thecomm.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901327",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

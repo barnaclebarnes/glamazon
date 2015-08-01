@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187925
+  },
+  "name": "Museo del carcere Le Nuove",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Paolo Borsellino, 3, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0688&mlon=7.65948#map=15/45.0688/7.65948",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0688,
+    "longitude": 7.65948
+  },
+  "url": "http://www.museolenuove.it",
+  "telephone": "+39 0113090115 / 0117604881 (dalle 15 alle 17)",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "6.00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ljA7C6KkxMO5hjux1ZSCUOK-Ogo=/1000x1000/museums/logos/000/187/925/original/8a76f42254162eff2ce61821acdefce63a91b681.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106754",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185967
+  },
+  "name": "Istituzione museo civico di Maddaloni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nino Bixio, 197",
+    "addressLocality": "Maddaloni",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0383&mlon=14.3891#map=15/41.0383/14.3891",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0383,
+    "longitude": 14.3891
+  },
+  "telephone": "+39 0823405217",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/O9SjDAR4BeDXf9VYnjf2choM9BE=/1000x1000/museums/logos/000/185/967/original/a4f236e55886645a626ac1c369dbd79614eec33.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101806",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

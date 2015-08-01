@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187440
+  },
+  "name": "Museo del carbonaio - Centro di educazione ambientale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Le Conce, ",
+    "addressLocality": "Borgo Pace",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6581&mlon=12.2931#map=15/43.6581/12.2931",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6581,
+    "longitude": 12.2931
+  },
+  "url": "http://www.turismo.marche.it",
+  "telephone": "+39 0722816048",
+  "contactPoint": [
+
+  ],
+  "openingHours": "maggio - settembre: 9.00 - 13.00 e 17.00 - 19.00; ottobre - aprile: il museo apre su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dm94N609EkyqksTzx8DQvTf_rYk=/1000x1000/museums/logos/000/187/440/original/8147ae87b8346d3c4d2f3b4a4d07feb852ad814.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104258",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

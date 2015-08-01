@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150124
+  },
+  "name": "ELMA HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 84",
+    "addressLocality": "ELMA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14059"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8445&mlon=-78.6492#map=15/42.8445/-78.6492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8445,
+    "longitude": -78.6492
+  },
+  "url": "http://www.elmanyhistory.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601418",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

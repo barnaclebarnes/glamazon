@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186900
+  },
+  "name": "Museo civico di Gottolengo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castelfidardo, ?",
+    "addressLocality": "Gottolengo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2907&mlon=10.2711#map=15/45.2907/10.2711",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2907,
+    "longitude": 10.2711
+  },
+  "url": "http://www.gottolengo.com",
+  "telephone": "+39 030 9518780",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106898",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

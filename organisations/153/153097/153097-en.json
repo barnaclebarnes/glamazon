@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153097
+  },
+  "name": "MIAMI UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 EAST HIGHT STREET10",
+    "addressLocality": "OXFORD",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45056"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5104&mlon=-84.7347#map=15/39.5104/-84.7347",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5104,
+    "longitude": -84.7347
+  },
+  "url": "http://www.muohio.edu/",
+  "telephone": "+1 (513) 529-4617",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900875",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137447
+  },
+  "name": "HYDE PARK ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5307 S HYDE PARK BLVD",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60615-5728"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7992&mlon=-87.584#map=15/41.7992/-87.584",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7992,
+    "longitude": -87.584
+  },
+  "url": "http://www.hydeparkart.org",
+  "telephone": "+1 (312) 324-5520",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700592",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

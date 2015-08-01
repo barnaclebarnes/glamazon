@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185802
+  },
+  "name": "Museo comunale di Praia a Mare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via D.Alighieri c/o Municipio, ",
+    "addressLocality": "Praia a Mare",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9022&mlon=15.7761#map=15/39.9022/15.7761",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9022,
+    "longitude": 15.7761
+  },
+  "telephone": "+39 98.572.353",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/d79oJhP19lUE3ziY2FBubcQmerY=/1000x1000/museums/logos/000/185/802/original/5f7f60248615bc95bd860908a389a79923237a8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108424",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

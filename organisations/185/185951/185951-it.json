@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185951
+  },
+  "name": "Museo civico \"Enrico Sannia\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Achille Sannia, 10",
+    "addressLocality": "Morcone",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3396&mlon=14.6646#map=15/41.3396/14.6646",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3396,
+    "longitude": 14.6646
+  },
+  "telephone": "+39 0824957146",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GmyM2GVhHcjI7Qhqj6R1zzvHwsU=/1000x1000/museums/logos/000/185/951/original/e7dbacd58ea6dd6a354da33ee12684fb4c73c23f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103907",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

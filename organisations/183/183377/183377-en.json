@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183377
+  },
+  "name": "Krankenhausmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Prof.-Ernst-Nathan-Straße 1",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90419"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4631&mlon=11.0635#map=15/49.4631/11.0635",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4631,
+    "longitude": 11.0635
+  },
+  "url": "http://www.klinikum-nuernberg.de/DE/ueber_uns/projekte_initiativen/kh_museum1/kh_museum.html",
+  "telephone": "0911/3982-550",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183377",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

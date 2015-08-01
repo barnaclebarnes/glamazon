@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182980
+  },
+  "name": "Orgelmuseum Kelheim",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Kirchensteig 4",
+    "addressLocality": "Kelheim",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "93309"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9177&mlon=11.866#map=15/48.9177/11.866",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9177,
+    "longitude": 11.866
+  },
+  "url": "http://www.orgelmuseum-kelheim.de",
+  "telephone": "09441/5508",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182980",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

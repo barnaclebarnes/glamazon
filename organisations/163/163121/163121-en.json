@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163121
+  },
+  "name": "THE BUILDING FOR KIDS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 W COLLEGE AVENUE",
+    "addressLocality": "APPLETON",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "54911-5735"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2618&mlon=-88.4068#map=15/44.2618/-88.4068",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2618,
+    "longitude": -88.4068
+  },
+  "url": "http://buildingforkids.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500570",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183291
+  },
+  "name": "Staatliche Münzsammlung München – Museum für Münzen, Papiergeld, Medaillen und geschnittene Steine",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Residenzstraße 1",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1411&mlon=11.5778#map=15/48.1411/11.5778",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1411,
+    "longitude": 11.5778
+  },
+  "url": "http://www.staatliche-muenzsammlung.de",
+  "telephone": "089/227221",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183291",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

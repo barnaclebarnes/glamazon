@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130398
+  },
+  "name": "EATON HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1520 WEST ST",
+    "addressLocality": "REDDING",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "96001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5826&mlon=-122.397#map=15/40.5826/-122.397",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5826,
+    "longitude": -122.397
+  },
+  "url": "http://eatonhousemuseum.org",
+  "telephone": "+1 (530) 241-3455",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600524",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

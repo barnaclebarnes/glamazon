@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150886
+  },
+  "name": "HISTORICAL SOCIETY OF ELBA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 24",
+    "addressLocality": "ELBA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14058-0024"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0997&mlon=-78.1636#map=15/43.0997/-78.1636",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0997,
+    "longitude": -78.1636
+  },
+  "url": "http://historicalsocietyofelba.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602180",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

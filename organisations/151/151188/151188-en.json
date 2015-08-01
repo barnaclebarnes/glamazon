@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151188
+  },
+  "name": "MUSEUM OF CAPE FEAR",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "801 ARSENAL AVE",
+    "addressLocality": "FAYETTEVILLE",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28305"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.0547&mlon=-78.8926#map=15/35.0547/-78.8926",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.0547,
+    "longitude": -78.8926
+  },
+  "url": "http://museumofthecapefear.ncdcr.gov",
+  "telephone": "+1 (910) 486-1330",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700059",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

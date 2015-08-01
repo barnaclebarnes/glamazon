@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135732
+  },
+  "name": "VIRGINIA STREET",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1309 VIRGINIA ST",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "31901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.4736&mlon=-84.9741#map=15/32.4736/-84.9741",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.4736,
+    "longitude": -84.9741
+  },
+  "telephone": "+1 (706) 507-0314",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

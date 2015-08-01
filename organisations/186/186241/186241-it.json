@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186241
+  },
+  "name": "Museo del ciclismo \"Toni Pessot\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trieste, 30",
+    "addressLocality": "Caneva",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9674&mlon=12.4483#map=15/45.9674/12.4483",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9674,
+    "longitude": 12.4483
+  },
+  "telephone": "+39 0434797411; 0434797460",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CkqFJHJBCIqA0rCEN5CVkRgYcmo=/1000x1000/museums/logos/000/186/241/original/f7d71ad147133eeae2562b9ccc4cf85057f53afc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100192",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150641
+  },
+  "name": "TAPPANTOWN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 71",
+    "addressLocality": "LIVINGSTON ST",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10983"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0271&mlon=-73.9502#map=15/41.0271/-73.9502",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0271,
+    "longitude": -73.9502
+  },
+  "url": "http://www.tappantown.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601935",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

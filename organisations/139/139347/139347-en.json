@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139347
+  },
+  "name": "AMES HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 821",
+    "addressLocality": "AMES",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50010-0821"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0316&mlon=-93.6122#map=15/42.0316/-93.6122",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0316,
+    "longitude": -93.6122
+  },
+  "telephone": "+1 (515) 232-4877",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900384",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

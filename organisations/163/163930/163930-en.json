@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163930
+  },
+  "name": "Hamilton History Centre",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7447&mlon=142.021#map=15/-37.7447/142.021",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7447,
+    "longitude": 142.021
+  },
+  "url": "http://home.vicnet.net.au/~hamhist/",
+  "contactPoint": [
+
+  ],
+  "openingHours": "The Centre is open every day except Saturday; from 2.00pm to 5.00pm\r\n(Saturday or other times by appointment only)\r\n\r\n",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "hamilton-history-centre",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/hamilton-history-centre",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

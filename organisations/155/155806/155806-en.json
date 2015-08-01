@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155806
+  },
+  "name": "MORGAN LOG HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 261",
+    "addressLocality": "KULPSVILLE",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19443-0261"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.245&mlon=-75.3391#map=15/40.245/-75.3391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.245,
+    "longitude": -75.3391
+  },
+  "url": "http://www.morganloghouse.org/index.php",
+  "telephone": "+1 (215) 368-2480",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201000",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

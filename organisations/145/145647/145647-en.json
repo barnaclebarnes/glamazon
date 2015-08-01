@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145647
+  },
+  "name": "GLASGOW COMMUNITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 MARKET STREET",
+    "addressLocality": "GLASGOW",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "65254"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2264&mlon=-92.8467#map=15/39.2264/-92.8467",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2264,
+    "longitude": -92.8467
+  },
+  "telephone": "+1 (816) 338-2980",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900076",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

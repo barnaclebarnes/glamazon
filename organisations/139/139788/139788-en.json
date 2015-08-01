@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139788
+  },
+  "name": "ALLEN COUNTY JAIL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "204 N JEFFERSON AVE",
+    "addressLocality": "IOLA",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66749"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9239&mlon=-95.4034#map=15/37.9239/-95.4034",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9239,
+    "longitude": -95.4034
+  },
+  "url": "http://www.allencountyhistory.org",
+  "telephone": "+1 (620) 365-3051",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000114",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

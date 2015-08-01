@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189349
+  },
+  "name": "Museo \"Claudio Faina\" e Museo civico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Duomo, 29",
+    "addressLocality": "Orvieto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7169&mlon=12.1126#map=15/42.7169/12.1126",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7169,
+    "longitude": 12.1126
+  },
+  "url": "http://www.museofaina.it",
+  "telephone": "+39 0763341216",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WvHj53aPzYDwYhWvl4mD4pvEPrc=/1000x1000/museums/logos/000/189/349/original/2eedcee3ba6ba5e10ca7c76fcc64933175d37a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100784",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

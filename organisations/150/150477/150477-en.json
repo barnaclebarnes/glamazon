@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150477
+  },
+  "name": "GLEN HAVEN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 293",
+    "addressLocality": "HOMER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13077"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7614&mlon=-76.2671#map=15/42.7614/-76.2671",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7614,
+    "longitude": -76.2671
+  },
+  "url": "http://glenhavenhistoricalsociety.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601771",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

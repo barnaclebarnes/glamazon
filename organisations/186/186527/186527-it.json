@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186527
+  },
+  "name": "Galleria Doria Pamphilj",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Corso, 305",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8979&mlon=12.4816#map=15/41.8979/12.4816",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8979,
+    "longitude": 12.4816
+  },
+  "url": "http://www.doriapamphilj.it",
+  "telephone": "+39 066797323",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aQ2dCaBygXza-axeJxjwmHFsVRc=/1000x1000/museums/logos/000/186/527/original/686cc4742c2c2ece4dfedca8f2580b645c4188e.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101528",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

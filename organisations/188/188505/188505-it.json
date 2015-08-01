@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188505
+  },
+  "name": "Museo d’arte sacra di Alcamo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza 4 Novembre, ",
+    "addressLocality": "Alcamo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0511&mlon=13.0068#map=15/38.0511/13.0068",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0511,
+    "longitude": 13.0068
+  },
+  "url": "http://www.chiesamadrealcamo.it/",
+  "telephone": "+39 092421578",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da mart. a..a dom.:dalle 10,00 alle 12,30 e dalle 16,30 alle 19,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bRDewHrYz8AYneB7UKJtFptvY5o=/1000x1000/museums/logos/000/188/505/original/699663cfbf7648a4d0bcd552706c035e922cfbf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105676",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

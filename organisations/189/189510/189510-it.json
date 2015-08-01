@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189510
+  },
+  "name": "Museo parrocchiale S. Pietro martire",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Campiello Michieli, 8",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4547&mlon=12.3528#map=15/45.4547/12.3528",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4547,
+    "longitude": 12.3528
+  },
+  "telephone": "+39 041739704",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì-sabato 9,00-12,00 e 15,00-18,00 domenica 15,00-18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/am3IXD-QpOM11umKRBIJPH8i9C0=/1000x1000/museums/logos/000/189/510/original/cd1cb2604979a8756ec3ec257ac971d346db274c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101036",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

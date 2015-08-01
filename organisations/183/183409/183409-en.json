@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183409
+  },
+  "name": "Museum für bildende Kunst im Landkreis Neu-Ulm",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Alte Landstraße 1 a",
+    "addressLocality": "Nersingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89278"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4299&mlon=10.1447#map=15/48.4299/10.1447",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4299,
+    "longitude": 10.1447
+  },
+  "url": "http://www.landkreis.neu-ulm.de/de/museum-fuer-bildende-kunst-im-landkreis-neu-ulm.html",
+  "telephone": "07308/922443",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183409",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187507
+  },
+  "name": "Museo civico dei ferri taglienti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Selva, SNC",
+    "addressLocality": "Frosolone",
+    "addressRegion": "Molise",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6011&mlon=14.4487#map=15/41.6011/14.4487",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6011,
+    "longitude": 14.4487
+  },
+  "url": "http://www.comune.frosolone.is.it",
+  "telephone": "+39 0874890435",
+  "contactPoint": [
+
+  ],
+  "openingHours": "visite su appunamento",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100504",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

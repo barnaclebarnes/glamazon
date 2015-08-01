@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186449
+  },
+  "name": "Museo delle bande musicali di Poggio Mirteto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cairoli, 23/25",
+    "addressLocality": "Poggio Mirteto",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2645&mlon=12.6847#map=15/42.2645/12.6847",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2645,
+    "longitude": 12.6847
+  },
+  "url": "http://www.mubam.it/",
+  "telephone": "+39 0765441365",
+  "contactPoint": [
+
+  ],
+  "openingHours": "chiuso per lavori",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101472",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

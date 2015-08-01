@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188008
+  },
+  "name": "Palazzo Borromeo dell'Isola Madre",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Isola Madre, ",
+    "addressLocality": "Stresa",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.911&mlon=8.53594#map=15/45.911/8.53594",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.911,
+    "longitude": 8.53594
+  },
+  "url": "http://www.borromeoturismo.it",
+  "telephone": "+39 032330556",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102824",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

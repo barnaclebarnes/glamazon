@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187916
+  },
+  "name": "Galleria Sabauda",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XX Settembre, 86",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0692&mlon=7.68192#map=15/45.0692/7.68192",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0692,
+    "longitude": 7.68192
+  },
+  "url": "http://www.galleriasabauda.beniculturali.it/",
+  "telephone": "+39 0115641729   011547440  0115641755  0115641749  prenotazioni 0114406903",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì - domenica: 8.30 - 19.30 chiusura biglietteria ore 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "12,00 euro biglietto unico comprendente anche Armeria Reale, Palazzo Reale e Museo di Antichità biglietteria presso Palazzo Reale"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mW320OVIxGx2bq2L0_d0rkAvBzw=/1000x1000/museums/logos/000/187/916/original/ed68d3fbb7b397d4979df6465274902d2b68a699.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20389",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

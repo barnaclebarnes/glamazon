@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186790
+  },
+  "name": "Museo d'arte contemporanea Casa del console",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 61",
+    "addressLocality": "Calice Ligure",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2027&mlon=8.29616#map=15/44.2027/8.29616",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2027,
+    "longitude": 8.29616
+  },
+  "url": "http://www.comune.calice-ligure.sv.it",
+  "telephone": "+39 0196 5433/ 656",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/oJZmeQWKyCmC4AtJJoX16i-u3PY=/1000x1000/museums/logos/000/186/790/original/b740f39c19723020fe8a18edbe59094f8f28bfc.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100456",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

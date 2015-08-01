@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189386
+  },
+  "name": "Museo parrocchiale di Chatillon",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gervasone, 16",
+    "addressLocality": "Chatillon",
+    "addressRegion": "Valle d'Aosta/Vallée d'Aoste",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7389&mlon=7.42619#map=15/45.7389/7.42619",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7389,
+    "longitude": 7.42619
+  },
+  "telephone": "+39 0166563040",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì-domenica 8.00/19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuita"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/I-VEVlgPRaV1T5WIyiztoijZKgc=/1000x1000/museums/logos/000/189/386/original/3a7ddea31b85dc75fb816edf42039f242ca9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100823",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

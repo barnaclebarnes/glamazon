@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135077
+  },
+  "name": "NAPLES ZOO INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1590 GOODLETTE RD N",
+    "addressLocality": "NAPLES",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "34102-5260"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=26.1682&mlon=-81.7913#map=15/26.1682/-81.7913",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 26.1682,
+    "longitude": -81.7913
+  },
+  "url": "http://www.napleszoo.org",
+  "telephone": "+1 (239) 262-5409",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200631",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

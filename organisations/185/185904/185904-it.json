@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185904
+  },
+  "name": "Museo Giuseppina Arcucci",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via P. S. Mancini, 16",
+    "addressLocality": "Ariano Irpino",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1532&mlon=15.0892#map=15/41.1532/15.0892",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1532,
+    "longitude": 15.0892
+  },
+  "url": "http://www.comune.ariano-irpino.av.it/musei/arcucci",
+  "telephone": "+39 0825871480",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101769",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137756
+  },
+  "name": "ANDERSON MUSEUM OF FLIGHT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1927 MAIN ST",
+    "addressLocality": "SPRING GROVE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60081"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4438&mlon=-88.2359#map=15/42.4438/-88.2359",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4438,
+    "longitude": -88.2359
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700901",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

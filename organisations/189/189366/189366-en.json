@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189366
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dell'Anfiteatro, ",
+    "addressLocality": "Terni",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5595&mlon=12.6437#map=15/42.5595/12.6437",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5595,
+    "longitude": 12.6437
+  },
+  "url": "http://www.comune.tr.it",
+  "telephone": "+39 07445491",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CWVvQyWoSnApV1zLj-Z3KHkKyso=/1000x1000/museums/logos/000/189/366/original/db1f713885e7df13aa8bceed8cd2fae9136fb5e0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100798",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

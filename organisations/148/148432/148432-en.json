@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148432
+  },
+  "name": "RATTLESNAKE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "202 SAN FELIPE ST NW",
+    "addressLocality": "ALBUQUERQUE",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87104"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.0955&mlon=-106.669#map=15/35.0955/-106.669",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.0955,
+    "longitude": -106.669
+  },
+  "url": "http://www.rattlesnakes.com",
+  "telephone": "+1 (505) 242-6569",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500022",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186895
+  },
+  "name": "Villa Romana e Antiquarium",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Crocefisso , 22",
+    "addressLocality": "Desenzano del Garda",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4721&mlon=10.5388#map=15/45.4721/10.5388",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4721,
+    "longitude": 10.5388
+  },
+  "url": "http://www.archeologica.lombardia.beniculturali.it",
+  "telephone": "+39 0309143547",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8,30 – 19,00 (mart – dom) – dal 1° mar al 31 ott 8,30 – 17,00 (mart – dom) – dal 1° nov al 28 febb",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HrcD2560J6NGMxPeX-24FGyQDQA=/1000x1000/museums/logos/000/186/895/original/c7a79bb6b2ee53514b5b03678edecd1a19a030.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106550",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

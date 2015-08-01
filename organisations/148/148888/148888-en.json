@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148888
+  },
+  "name": "NEW YORK STATE OLD TIMES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "COMINS RD",
+    "addressLocality": "REDFIELD",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13437"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5317&mlon=-75.7323#map=15/43.5317/-75.7323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5317,
+    "longitude": -75.7323
+  },
+  "url": "http://www.nysotfa.com",
+  "telephone": "+1 (315) 599-7009",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600182",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

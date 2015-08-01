@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183726
+  },
+  "name": "Klostermühlenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Franzengasse 21",
+    "addressLocality": "Thierhaupten",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86672"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5658&mlon=10.9062#map=15/48.5658/10.9062",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5658,
+    "longitude": 10.9062
+  },
+  "url": "http://www.klostermuehlenmuseum.de",
+  "telephone": "08271/1769",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183726",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182753
+  },
+  "name": "Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marienplatz 7",
+    "addressLocality": "Freising",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85354"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4004&mlon=11.744#map=15/48.4004/11.744",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4004,
+    "longitude": 11.744
+  },
+  "url": "http://www.stadtmuseum.freising.de",
+  "telephone": "08161/5444555",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182753",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

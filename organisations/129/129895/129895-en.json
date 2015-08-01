@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129895
+  },
+  "name": "WHALEY HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2476 SAN DIEGO AVE",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92110"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7525&mlon=-117.194#map=15/32.7525/-117.194",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7525,
+    "longitude": -117.194
+  },
+  "url": "http://www.whaleyhouse.org",
+  "telephone": "+1 (619) 297-7511",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bazZmGGHUxLC5cQGqM1ofmzTKvA=/1000x1000/museums/logos/000/129/895/original/San_Diego_-_Whaley_House_01.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Whaley_House_(San_Diego,_California)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600021",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

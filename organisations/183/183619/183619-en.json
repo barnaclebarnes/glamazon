@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183619
+  },
+  "name": "Missionsmuseum der Erzabtei St. Ottilien",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Erzabtei 1",
+    "addressLocality": "St. Ottilien",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86941 "
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0967&mlon=11.0426#map=15/48.0967/11.0426",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0967,
+    "longitude": 11.0426
+  },
+  "url": "http://www.missionsmuseum.de",
+  "telephone": "08193/710",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183619",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

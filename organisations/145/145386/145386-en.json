@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145386
+  },
+  "name": "FOR NATCHEZ",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "704 STATE STREET",
+    "addressLocality": "NATCHEZ",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "39120-3543"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.5572&mlon=-91.4013#map=15/31.5572/-91.4013",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.5572,
+    "longitude": -91.4013
+  },
+  "url": "http://for-natchez.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800093",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

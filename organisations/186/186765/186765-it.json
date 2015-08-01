@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186765
+  },
+  "name": "Fondazione Erio Tripodi - Museo della canzone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 108bis",
+    "addressLocality": "Vallecrosia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7893&mlon=7.6467#map=15/43.7893/7.6467",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7893,
+    "longitude": 7.6467
+  },
+  "url": "http://www.museodellacanzone.com",
+  "telephone": "+39 0184291000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105443",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

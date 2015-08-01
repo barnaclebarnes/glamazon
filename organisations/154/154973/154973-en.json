@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154973
+  },
+  "name": "INSECTARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8046 FRANKFORD AVE",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19136"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0421&mlon=-75.0262#map=15/40.0421/-75.0262",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0421,
+    "longitude": -75.0262
+  },
+  "url": "http://www.myinsectarium.com",
+  "telephone": "+1 (215) 335-9500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200167",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145009
+  },
+  "name": "MINNESOTA MUSIC HALL OF FAME INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1",
+    "addressLocality": "NEW ULM",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "56073-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3129&mlon=-94.4608#map=15/44.3129/-94.4608",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3129,
+    "longitude": -94.4608
+  },
+  "url": "http://mnmusichalloffame.org/",
+  "telephone": "+1 (507) 354-7305",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700449",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

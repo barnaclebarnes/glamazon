@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140942
+  },
+  "name": "ALEXANDRIA MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "933 MAIN ST",
+    "addressLocality": "ALEXANDRIA",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "71301"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.3122&mlon=-92.4446#map=15/31.3122/-92.4446",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.3122,
+    "longitude": -92.4446
+  },
+  "url": "http://www.themuseum.org",
+  "telephone": "+1 (318) 443-3458",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200225",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

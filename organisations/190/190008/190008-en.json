@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190008
+  },
+  "name": "NATIONAL AUDUBON SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "610 E. UNIVERSITY",
+    "addressLocality": "SPRINGFIELD",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "65807"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8293&mlon=-90.0974#map=15/38.8293/-90.0974",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8293,
+    "longitude": -90.0974
+  },
+  "url": "http://www.audubon.org",
+  "telephone": "+1 (417) 861-8875",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900789",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

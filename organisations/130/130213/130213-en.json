@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130213
+  },
+  "name": "KID ZONE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 S CARMALITA ST",
+    "addressLocality": "HEMET",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92543"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7467&mlon=-116.97#map=15/33.7467/-116.97",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7467,
+    "longitude": -116.97
+  },
+  "url": "http://fingerprintsmuseum.com",
+  "telephone": "+1 (951) 765-1223",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600339",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

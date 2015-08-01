@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145592
+  },
+  "name": "SAMUEL CUPPLES HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3673 W POINT BLVD",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7118&mlon=-90.2504#map=15/38.7118/-90.2504",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7118,
+    "longitude": -90.2504
+  },
+  "url": "http://cupples.slu.edu",
+  "telephone": "+1 (314) 977-3025",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900021",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

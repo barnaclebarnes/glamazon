@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155666
+  },
+  "name": "OXFORD MAINSTREET INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "19 S 3RD ST",
+    "addressLocality": "OXFORD",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19363-1602"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7844&mlon=-75.9791#map=15/39.7844/-75.9791",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7844,
+    "longitude": -75.9791
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200860",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188647
+  },
+  "name": "Museo delle carrozze (Firenze)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Pitti, 1",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.765&mlon=11.2482#map=15/43.765/11.2482",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.765,
+    "longitude": 11.2482
+  },
+  "url": "http://www.sbas.firenze.it",
+  "telephone": "+39 0552388611",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Il Museo è attualmente chiuso per restauro. La riapertura è prevista per il prossimo autunno",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20285",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

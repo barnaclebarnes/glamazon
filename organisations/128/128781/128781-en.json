@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128781
+  },
+  "name": "OPELIKA MAIN STREET INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2464",
+    "addressLocality": "OPELIKA",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "36803-2464"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.6464&mlon=-85.3813#map=15/32.6464/-85.3813",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.6464,
+    "longitude": -85.3813
+  },
+  "url": "http://www.opelikamainstreet.org/",
+  "telephone": "+1 (334) 745-0466",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100311",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

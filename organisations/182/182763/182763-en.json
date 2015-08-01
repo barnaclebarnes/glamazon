@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182763
+  },
+  "name": "Dorfmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchstraße 6",
+    "addressLocality": "Fuchsstadt",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97727"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1077&mlon=9.93278#map=15/50.1077/9.93278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1077,
+    "longitude": 9.93278
+  },
+  "url": "http://www.fuchsstadt.rhoen-saale.net/Kultur/Museen",
+  "telephone": "Tel. 09732/2664",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182763",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

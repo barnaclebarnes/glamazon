@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148698
+  },
+  "name": "ALBUQUERQUE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 20568",
+    "addressLocality": "ALBUQUERQUE",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87154-8715"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1307&mlon=-106.532#map=15/35.1307/-106.532",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1307,
+    "longitude": -106.532
+  },
+  "url": "http://albuqhistsoc.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500288",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

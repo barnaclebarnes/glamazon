@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189346
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Aurelio Saffi, 1",
+    "addressLocality": "Narni",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.519&mlon=12.5147#map=15/42.519/12.5147",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.519,
+    "longitude": 12.5147
+  },
+  "url": "http://www.museoeroli.it",
+  "telephone": "+39 0744717117",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iPrCoKcdkEMKbHaiGQjWcgL--Yo=/1000x1000/museums/logos/000/189/346/original/248cd877f0ad473a1c446f974455e105acf8f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105061",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

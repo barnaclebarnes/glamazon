@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187079
+  },
+  "name": "Museo Louis Braille",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vivavio, 7",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4685&mlon=9.20423#map=15/45.4685/9.20423",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4685,
+    "longitude": 9.20423
+  },
+  "url": "http://www.istciechimilano.it",
+  "telephone": "+39 02 772261",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106846",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

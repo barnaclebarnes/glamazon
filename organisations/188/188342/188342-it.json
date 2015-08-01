@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188342
+  },
+  "name": "Museo archeologico Antiquarium Arborense",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzetta Corrias, SNC",
+    "addressLocality": "Oristano",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9053&mlon=8.59633#map=15/39.9053/8.59633",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9053,
+    "longitude": 8.59633
+  },
+  "telephone": "+39 078 3791262",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì orario continuato 9-20; sabato e domenica 9-14 e 15-20",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/81KZtpaVNvgXquFTUIK-XgIRjFw=/1000x1000/museums/logos/000/188/342/original/52915182c36c33f89f528376c34a23d5af9b8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103409",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

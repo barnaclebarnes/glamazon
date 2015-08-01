@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160238
+  },
+  "name": "BILLINGS FARM AND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5302 RIVER RD",
+    "addressLocality": "WOODSTOCK",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05091"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6329&mlon=-72.5167#map=15/43.6329/-72.5167",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6329,
+    "longitude": -72.5167
+  },
+  "url": "http://www.billingsfarm.org",
+  "telephone": "+1 (802) 457-2355",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000044",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

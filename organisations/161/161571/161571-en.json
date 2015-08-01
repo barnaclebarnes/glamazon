@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161571
+  },
+  "name": "SEATTLE PINBALL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "508 MAYNARD AVE S",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98104"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5983&mlon=-122.325#map=15/47.5983/-122.325",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5983,
+    "longitude": -122.325
+  },
+  "url": "http://seattlepinballmuseum.com",
+  "telephone": "+1 (206) 623-0759",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300020",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

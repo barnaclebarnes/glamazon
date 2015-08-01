@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139391
+  },
+  "name": "SCIENCE STATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4444 FIRST AVE NE - LINDALE MALL",
+    "addressLocality": "CEDAR RAPIDS",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52402"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0202&mlon=-91.6608#map=15/42.0202/-91.6608",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0202,
+    "longitude": -91.6608
+  },
+  "url": "http://www.crsciencecenter.org",
+  "telephone": "+1 (319) 363-7836",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900428",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

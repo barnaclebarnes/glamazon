@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188989
+  },
+  "name": "Museo del cristallo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Fossi, 8/a",
+    "addressLocality": "Colle di Val d'Elsa",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4221&mlon=11.1255#map=15/43.4221/11.1255",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4221,
+    "longitude": 11.1255
+  },
+  "telephone": "+39 0577924135",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Aq8128lSUSK_rO5TJiywjCugOGc=/1000x1000/museums/logos/000/188/989/original/6fd5f3a3d4d53f8c1b79fe5ddc1f1eb35ab11132.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103248",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

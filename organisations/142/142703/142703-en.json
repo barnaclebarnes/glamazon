@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142703
+  },
+  "name": "RICHARD SPARROW HOUSE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "42 SUMMER ST",
+    "addressLocality": "PLYMOUTH",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02360-3456"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9541&mlon=-70.6653#map=15/41.9541/-70.6653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9541,
+    "longitude": -70.6653
+  },
+  "url": "http://www.sparrowhouse.com",
+  "telephone": "+1 (508) 747-1240",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500333",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

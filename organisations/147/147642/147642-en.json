@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147642
+  },
+  "name": "USS LING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "78 RIVER ST",
+    "addressLocality": "HACKENSACK",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "07601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8802&mlon=-74.0415#map=15/40.8802/-74.0415",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8802,
+    "longitude": -74.0415
+  },
+  "url": "http://www.njnm.org/exhibits.html",
+  "telephone": "+1 (201) 342-3268",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400010",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

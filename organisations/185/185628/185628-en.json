@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185628
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Piave, 139",
+    "addressLocality": "Pescara",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4715&mlon=14.2071#map=15/42.4715/14.2071",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4715,
+    "longitude": 14.2071
+  },
+  "url": "http://www.museopaparelladevlet.com/",
+  "telephone": "+39 0854223426",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HPJMJfmteZ8X2BawCPi6LDyfx6g=/1000x1000/museums/logos/000/185/628/original/d9e6487d2b8e41eeb41b0e3a115a44d4e6e43b.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100078",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

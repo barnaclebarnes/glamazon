@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189163
+  },
+  "name": "Museo civico di geologia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza SS. Filippo e Giacomo, ",
+    "addressLocality": "Predazzo",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.3129&mlon=11.6027#map=15/46.3129/11.6027",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.3129,
+    "longitude": 11.6027
+  },
+  "url": "http://www.mtsn.tn.it/rete/museo_geologico.asp",
+  "telephone": "+39 0462500366",
+  "contactPoint": [
+
+  ],
+  "openingHours": "estivo dalle 10.00/12.00 - 17.00/19.00 altri periodi su prenotazione",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8VnWNvTuShT-qnkAgbfHKEmzsfE=/1000x1000/museums/logos/000/189/163/original/65fa2163ea1c31bca5595836353f95232a1342.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105460",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

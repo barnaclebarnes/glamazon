@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187395
+  },
+  "name": "Museo internazionale del presepio di Morrovalle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Bonarelli, 4",
+    "addressLocality": "Morrovalle",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3147&mlon=13.5792#map=15/43.3147/13.5792",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3147,
+    "longitude": 13.5792
+  },
+  "url": "http://www.museodelpresepio.altervista.org",
+  "telephone": "+39 0733 222913",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OKgBDpv0753Hfyy3KaGyEpXrZm4=/1000x1000/museums/logos/000/187/395/original/6cdee42486c2aca1ff84606f6b74857b6a3bd4a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111523",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

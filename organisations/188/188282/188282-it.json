@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188282
+  },
+  "name": "CIVICO MUSEO ARCHEOLOGICO \"VILLA ABBAS\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Libertà, 7",
+    "addressLocality": "Sardara",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6159&mlon=8.82182#map=15/39.6159/8.82182",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6159,
+    "longitude": 8.82182
+  },
+  "url": "http://www.coopvillabbas.sardegna.it",
+  "telephone": "+39 070 9386183",
+  "contactPoint": [
+
+  ],
+  "openingHours": "estivo 9,00-13,00 e 17,00-20,00 (chiuso il lunedì); invernale 9,00- 13,00 e 16,00-19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,50€ cumulativo"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/350tNh3MI0c0uvdu_ZPdVgbp0v0=/1000x1000/museums/logos/000/188/282/original/d62d3f72d5cfaffca3e494d79df6a9c305416f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103485",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

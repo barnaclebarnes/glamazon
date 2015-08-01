@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186837
+  },
+  "name": "Museo etnografico di Oneta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Marconi, 9",
+    "addressLocality": "Oneta",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8712&mlon=9.81909#map=15/45.8712/9.81909",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8712,
+    "longitude": 9.81909
+  },
+  "telephone": "+39 035707523",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/U4rKeEUR8vduqExEQFxvyv0pqxM=/1000x1000/museums/logos/000/186/837/original/e122d941cf82c21933eb8ccb26424e6a42c92a7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103522",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

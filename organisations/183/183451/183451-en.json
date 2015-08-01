@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183451
+  },
+  "name": "Naturmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Im Thäle 3",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86152"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3708&mlon=10.8947#map=15/48.3708/10.8947",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3708,
+    "longitude": 10.8947
+  },
+  "url": "http://www.augsburg.de/index.php?id=30098",
+  "telephone": "0821/324-6731",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183451",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

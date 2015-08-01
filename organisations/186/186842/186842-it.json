@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186842
+  },
+  "name": "Museo brembano di Scienze Naturali",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Carlo, 32",
+    "addressLocality": "San Pellegrino Terme",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8372&mlon=9.6635#map=15/45.8372/9.6635",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8372,
+    "longitude": 9.6635
+  },
+  "url": "http://www.brembana.info/musei/m_scienze.html",
+  "telephone": "+39 034525004",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuita"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tqpDGgVwgqfT3EowTEd1WMjZzz0=/1000x1000/museums/logos/000/186/842/original/a6cc6ceacf4336317dd6bb48e7649d132bbbeceb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103531",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

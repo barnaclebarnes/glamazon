@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185564
+  },
+  "name": "Centro documentazione museale S. Nicola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, SNC",
+    "addressLocality": "Lanciano",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2332&mlon=14.3914#map=15/42.2332/14.3914",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2332,
+    "longitude": 14.3914
+  },
+  "url": "http://www.chiesasannicolalannciano",
+  "telephone": "+39 0872 711646",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100053",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131732
+  },
+  "name": "SAN FRANCISCO FIRE DEPARTMENT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "655 PRESIDIO AVE",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94115"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7857&mlon=-122.447#map=15/37.7857/-122.447",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7857,
+    "longitude": -122.447
+  },
+  "url": "http://guardiansofthecity.org/sffd",
+  "telephone": "+1 (415) 563-4630",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601858",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

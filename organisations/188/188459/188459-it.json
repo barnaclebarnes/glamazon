@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188459
+  },
+  "name": "Museo diocesano di Monreale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Arcivescovado, 2",
+    "addressLocality": "Monreale",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0828&mlon=13.2925#map=15/38.0828/13.2925",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0828,
+    "longitude": 13.2925
+  },
+  "url": "http://www.museodiocesanomonreale.it",
+  "telephone": "+39 0916402457",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato dalle 9,00 alle 13,00 e dalle 14,30 alle 17,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Rq307mTSwmfOXvag2OiF9THKojA=/1000x1000/museums/logos/000/188/459/original/ad90865e57851c8b36ccee82f67d7d5d614f13.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104985",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

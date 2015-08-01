@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160687
+  },
+  "name": "ARLINGTON HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "321 SHERMAN DR",
+    "addressLocality": "FORT MYER",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22211"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8835&mlon=-77.0709#map=15/38.8835/-77.0709",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8835,
+    "longitude": -77.0709
+  },
+  "url": "http://www.nps.gov/arho",
+  "telephone": "+1 (703) 235-1530",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100193",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

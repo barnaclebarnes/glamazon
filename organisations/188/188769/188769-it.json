@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188769
+  },
+  "name": "Museo della Vecchia officina. Miniere di Calamita",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Calamita, ",
+    "addressLocality": "Capoliveri",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7454&mlon=10.3776#map=15/42.7454/10.3776",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7454,
+    "longitude": 10.3776
+  },
+  "url": "http://www.minieredicalamita.it",
+  "telephone": "+39 0565935492",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tRmZ4LXJhhON4PVecz7wYGYqNvU=/1000x1000/museums/logos/000/188/769/original/62e97611c95517d120616568686f274dde37528.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110754",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

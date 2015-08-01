@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153070
+  },
+  "name": "SPRINGFIELD MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "107 CLIFF PARK RD",
+    "addressLocality": "SPRINGFIELD",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45504-2501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9296&mlon=-83.812#map=15/39.9296/-83.812",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9296,
+    "longitude": -83.812
+  },
+  "url": "http://www.springfieldart.museum/",
+  "telephone": "+1 (937) 325-4673",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900847",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

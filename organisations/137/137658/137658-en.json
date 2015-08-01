@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137658
+  },
+  "name": "ALEXIS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 441",
+    "addressLocality": "ALEXIS",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61412-0441"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.061&mlon=-90.557#map=15/41.061/-90.557",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.061,
+    "longitude": -90.557
+  },
+  "url": "http://www.alexisonline.com/",
+  "telephone": "+1 (309) 482-3223",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700803",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

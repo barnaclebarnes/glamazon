@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187114
+  },
+  "name": "Centro studi naturalistici (Museo etnologico naturalistico del territorio)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via IV Novembre, 20",
+    "addressLocality": "Giussano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6748&mlon=9.2034#map=15/45.6748/9.2034",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6748,
+    "longitude": 9.2034
+  },
+  "telephone": "+39 377 1305333",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qlbZGYI4mUjULZYhNm4DtUrp7yM=/1000x1000/museums/logos/000/187/114/original/cef778f334f5149c1937c129f4e91a132da85e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106839",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

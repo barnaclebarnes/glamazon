@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184454
+  },
+  "name": "Hastings City Art Gallery",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:hastingsartgallery@hdc.govt.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-39.6441&mlon=176.843#map=15/-39.6441/176.843",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -39.6441,
+    "longitude": 176.843
+  },
+  "url": "http://www.hastingscityartgallery.co.nz",
+  "telephone": "06 871 5095",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10-16:30 tutti i giorni (chiuso il giorno di Natale, giorno di Santo Stefano, Capodanno)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Free Entry"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/it/museums/184454",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

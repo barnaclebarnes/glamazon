@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160208
+  },
+  "name": "NOYES HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1299",
+    "addressLocality": "MORRISVILLE",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05662"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5564&mlon=-72.5823#map=15/44.5564/-72.5823",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5564,
+    "longitude": -72.5823
+  },
+  "url": "http://www.noyeshousemuseum.org/",
+  "telephone": "+1 (802) 888-7617",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000014",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150234
+  },
+  "name": "HARRIET TUBMAN HOME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "180 SOUTH STREET RD",
+    "addressLocality": "AUBURN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13021-5636"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8983&mlon=-76.5585#map=15/42.8983/-76.5585",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8983,
+    "longitude": -76.5585
+  },
+  "url": "http://harriethouse.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601528",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

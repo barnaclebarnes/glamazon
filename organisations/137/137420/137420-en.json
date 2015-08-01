@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137420
+  },
+  "name": "ROCKFORD ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "711 NORTH MAIN STREET",
+    "addressLocality": "ROCKFORD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61103-7204"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2768&mlon=-89.0901#map=15/42.2768/-89.0901",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2768,
+    "longitude": -89.0901
+  },
+  "url": "http://www.rockfordartmuseum.org",
+  "telephone": "+1 (815) 968-2787",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700565",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

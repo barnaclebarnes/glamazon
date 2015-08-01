@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188355
+  },
+  "name": "Antiquarium Turritano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ponte Romano, 89",
+    "addressLocality": "Porto Torres",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8373&mlon=8.40114#map=15/40.8373/8.40114",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8373,
+    "longitude": 8.40114
+  },
+  "url": "http://www.archeossnnu.beniculturali.it ",
+  "telephone": "+39 079514433",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00/20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2gcRKNMcmSQuV49DBkj02tHqgFI=/1000x1000/museums/logos/000/188/355/original/89a5193d833cd262845762a1a6df2ea2f9b767f.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20712",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

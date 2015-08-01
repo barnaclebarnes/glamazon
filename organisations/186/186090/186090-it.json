@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186090
+  },
+  "name": "Museo del corallo di Ravello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 9",
+    "addressLocality": "Ravello",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6494&mlon=14.6117#map=15/40.6494/14.6117",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6494,
+    "longitude": 14.6117
+  },
+  "telephone": "+39 089857461",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101910",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

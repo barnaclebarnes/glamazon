@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189087
+  },
+  "name": "Castello principesco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Galilei, ",
+    "addressLocality": "Merano/Meran",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6737&mlon=11.1611#map=15/46.6737/11.1611",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6737,
+    "longitude": 11.1611
+  },
+  "url": "http://www.comune.merano.bz.it",
+  "telephone": "+39 0473250329",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 26 marzo al 6 gennaio, da martedì a sabato dalle ore 11.00 alle ore 17:00, la domenica e i festivi dalle ore 11.00 alle ore 13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/txfz8qYOLsZAXXUNHzgDqm_iGY4=/1000x1000/museums/logos/000/189/087/original/97cb29bc3abad839c78fa87a502c24fe8ba1e3c1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100545",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182598
+  },
+  "name": "Brauereimuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Freiherr-von-Aretin-Platz 1",
+    "addressLocality": "Aldersbach",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5874&mlon=13.0853#map=15/48.5874/13.0853",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5874,
+    "longitude": 13.0853
+  },
+  "url": "http://www.aldersbacher.de",
+  "telephone": "08543/9604-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182598",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186999
+  },
+  "name": "Casa museo villa monastero",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Giovanni Polvani, 4",
+    "addressLocality": "Varenna",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0063&mlon=9.28994#map=15/46.0063/9.28994",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0063,
+    "longitude": 9.28994
+  },
+  "telephone": "+39 0341295510",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DtXfyzqzABqjGPDV5uN_mGDnqYs=/1000x1000/museums/logos/000/186/999/original/df80932d76d721854fb1b8c2094b8f95f5492d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103661",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

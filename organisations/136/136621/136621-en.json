@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136621
+  },
+  "name": "FRIENDS OF WAIKIKI AQUARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2777 KALAKAUA AVE",
+    "addressLocality": "HONOLULU",
+    "addressRegion": "HI",
+    "addressCountry": "United States",
+    "postalCode": "96815-4027"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=21.2658&mlon=-157.821#map=15/21.2658/-157.821",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 21.2658,
+    "longitude": -157.821
+  },
+  "url": "http://www.waquarium.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401500160",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

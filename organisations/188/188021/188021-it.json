@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188021
+  },
+  "name": "Museo naturalistico del Parco naturale \"Lame del Sesia\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XX Settembre, 12, ",
+    "addressLocality": "Albano Vercellese",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4256&mlon=8.38419#map=15/45.4256/8.38419",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4256,
+    "longitude": 8.38419
+  },
+  "url": "http://www.lamedelsesia.vc.it",
+  "telephone": "+39 0161 73112 - 0161 73393",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su appuntamento",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/it8eT6DXP5ZZmpmBXJnyJbIglVE=/1000x1000/museums/logos/000/188/021/original/26a6886bd0f43a9b481acb12f4a6c2121297f2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102831",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186804
+  },
+  "name": "Raccolta storica del gabinetto di fisica del Liceo Chiabrera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Caboto, 2",
+    "addressLocality": "Savona",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3063&mlon=8.48312#map=15/44.3063/8.48312",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3063,
+    "longitude": 8.48312
+  },
+  "url": "http://www.liceochiabrera.it",
+  "telephone": "+39 019821277",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100471",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

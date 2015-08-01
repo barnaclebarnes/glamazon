@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186699
+  },
+  "name": "Museo di etnomedicina Antonio Scarpa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Balbi, 4/4",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4144&mlon=8.92728#map=15/44.4144/8.92728",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4144,
+    "longitude": 8.92728
+  },
+  "telephone": "+39 010 2095044",
+  "contactPoint": [
+
+  ],
+  "openingHours": "è subordinato agli orari dell'università",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VOAITcay5_KPkOG86iE02yw-Q5U=/1000x1000/museums/logos/000/186/699/original/fa8afb9f4481795cdd53efd135b8a8a8aa556e.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100364",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188535
+  },
+  "name": "Museo archeologico del casentino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tosco Romagnola, 29",
+    "addressLocality": "Bibbiena",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6941&mlon=11.8159#map=15/43.6941/11.8159",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6941,
+    "longitude": 11.8159
+  },
+  "telephone": "+39 0575559447",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rhJ-q2TC3FiSdOVpl6gY8ysIOcQ=/1000x1000/museums/logos/000/188/535/original/b8f5282011e5e6faf7afe974258c29bedc452c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102852",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

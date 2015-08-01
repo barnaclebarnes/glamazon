@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150325
+  },
+  "name": "LIVINGSTON COUNTY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "30 CENTER ST",
+    "addressLocality": "GENESEO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14454-1204"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7959&mlon=-77.8138#map=15/42.7959/-77.8138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7959,
+    "longitude": -77.8138
+  },
+  "url": "http://www.lchistory.org",
+  "telephone": "+1 (585) 243-9147",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601619",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

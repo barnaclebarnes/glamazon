@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188078
+  },
+  "name": "Museo della pietà popolare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Basilica c/o Basilica di Santa Maria dei Martiri, 1",
+    "addressLocality": "Molfetta",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2028&mlon=16.5987#map=15/41.2028/16.5987",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2028,
+    "longitude": 16.5987
+  },
+  "url": "http://www.madonnadeimartiri.it",
+  "telephone": "+39 0803381369",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QiDSk5QWfl5fzUUeuRquo122RGk=/1000x1000/museums/logos/000/188/078/original/20e6f3fad2274e1c8a6431443bb65eb733a8babb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102329",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

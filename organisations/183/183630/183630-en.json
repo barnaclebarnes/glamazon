@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183630
+  },
+  "name": "Haus der Heimat – Ludwig-Doerfler-Stiftung",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Neue Gasse 1",
+    "addressLocality": "Schillingsfürst",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91583"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.289&mlon=10.2623#map=15/49.289/10.2623",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.289,
+    "longitude": 10.2623
+  },
+  "url": "http://www.ludwig-doerfler-museum.de",
+  "telephone": "09868/5847",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183630",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

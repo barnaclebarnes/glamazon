@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148814
+  },
+  "name": "ROSE CENTER FOR EARTH AND SPACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 CENTRAL PARK W",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10024"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7806&mlon=-73.9728#map=15/40.7806/-73.9728",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7806,
+    "longitude": -73.9728
+  },
+  "url": "http://www.amnh.org/rose/index.html",
+  "telephone": "+1 (212) 769-5200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600108",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

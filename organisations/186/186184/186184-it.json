@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186184
+  },
+  "name": "Museo del Mondo piccolo",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0067&mlon=10.2166#map=15/45.0067/10.2166",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0067,
+    "longitude": 10.2166
+  },
+  "url": "http://www.mondopiccolofontanelle.it",
+  "telephone": "+39 0521 876165 - 876138",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 5 LUGLIO al 31 AGOSTO Sabato 16,00- 19,00 Domenica e Festivi 09,30 - 12,00 /16,00 - 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111208",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

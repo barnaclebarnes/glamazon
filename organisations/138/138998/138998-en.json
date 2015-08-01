@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138998
+  },
+  "name": "PHELPS HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "521 COLUMBIA ST",
+    "addressLocality": "BURLINGTON",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8123&mlon=-91.1052#map=15/40.8123/-91.1052",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8123,
+    "longitude": -91.1052
+  },
+  "url": "http://www.dmchs.org",
+  "telephone": "+1 (319) 753-5880",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900035",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

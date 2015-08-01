@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186011
+  },
+  "name": "Museo del mare di Napoli - Fondazione Thetys",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via di Pozzuoli, 5",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8146&mlon=14.1645#map=15/40.8146/14.1645",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8146,
+    "longitude": 14.1645
+  },
+  "url": "http://www.museodelmarenapoli.it",
+  "telephone": "+39 0816173749",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wC7RhQhOj7jdPvJZNQ8mzJKKiSI=/1000x1000/museums/logos/000/186/011/original/1977336fe5f497a779e29c54a8277a5b557f3548.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101851",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

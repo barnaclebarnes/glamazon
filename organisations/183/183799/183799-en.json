@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183799
+  },
+  "name": "Kunststation",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Petterstraße 10",
+    "addressLocality": "Viechtach",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94234"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0803&mlon=12.884#map=15/49.0803/12.884",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0803,
+    "longitude": 12.884
+  },
+  "url": "http://www.kunststationviechtach.de",
+  "telephone": "09942/2729",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183799",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

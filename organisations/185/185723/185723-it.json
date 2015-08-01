@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185723
+  },
+  "name": "Museo della castagna e dell’arte contadina di Cerva",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma",
+    "addressLocality": "Cerva",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0134&mlon=16.7655#map=15/39.0134/16.7655",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0134,
+    "longitude": 16.7655
+  },
+  "url": "http://www.comune.cerva.cz.it/",
+  "telephone": "+39 3929817911 (Sindaco)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Su richiesta tutti i giorni",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-DO9Fy1ZwRTH18199R2WegsYZ2E=/1000x1000/museums/logos/000/185/723/original/805e5fd7f38e5375f5cf17fbb9f02ea44614f65d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110998",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143039
+  },
+  "name": "HISTORIC NORTHAMPTON",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "46 BRIDGE ST",
+    "addressLocality": "NORTHAMPTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01060-2406"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3217&mlon=-72.627#map=15/42.3217/-72.627",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3217,
+    "longitude": -72.627
+  },
+  "url": "http://www.historic-northampton.org",
+  "telephone": "+1 (413) 584-6011",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500669",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

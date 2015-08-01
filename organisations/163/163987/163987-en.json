@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163987
+  },
+  "name": "Knox Historical Society",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8739&mlon=145.301#map=15/-37.8739/145.301",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8739,
+    "longitude": 145.301
+  },
+  "url": "http://khs.relics.com",
+  "telephone": "(03) 9756 6722",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sundays:  1:00pm to 4:00pm or by appointment",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "knox-historical-society",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/knox-historical-society",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132995
+  },
+  "name": "SAN LUIS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 657",
+    "addressLocality": "SAN LUIS",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81152"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0435&mlon=-105.465#map=15/37.0435/-105.465",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0435,
+    "longitude": -105.465
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800171",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

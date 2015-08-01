@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141683
+  },
+  "name": "BELFAST MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 MARKET ST",
+    "addressLocality": "BELFAST",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04915-6555"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4265&mlon=-69.0083#map=15/44.4265/-69.0083",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4265,
+    "longitude": -69.0083
+  },
+  "url": "http://belfastmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300532",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

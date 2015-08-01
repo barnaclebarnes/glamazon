@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183679
+  },
+  "name": "Südostbayerisches Naturkunde- und Mammut-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Auenstraße 2",
+    "addressLocality": "Siegsdorf",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83313"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8221&mlon=12.643#map=15/47.8221/12.643",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8221,
+    "longitude": 12.643
+  },
+  "url": "http://www.museum-siegsdorf.de",
+  "telephone": "08662/13316",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183679",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

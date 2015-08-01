@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187318
+  },
+  "name": "Antiquarium Truentinum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale C. Colombo, 92",
+    "addressLocality": "San Benedetto del Tronto",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.958&mlon=13.882#map=15/42.958/13.882",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.958,
+    "longitude": 13.882
+  },
+  "url": "http://www.museodelmaresbt.it",
+  "telephone": "+39 0735.592177",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Orario invernale (dal 16 settembre al 14 giugno): venerdì, sabato e domenica: 10-13, 15.30-18.30. Orario estivo (dal 15 giugno al 15 settembre): dal martedì alla domenica: 18-24.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CNmiyBhkgsSKYaLlup0fH83jZCQ=/1000x1000/museums/logos/000/187/318/original/8f23b2f7c4a28a94ffdb4ebf628955f936ef2ec.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112156",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

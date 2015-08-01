@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182672
+  },
+  "name": "Historischer Eisenhammer",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Eisenhammer 1",
+    "addressLocality": "Roth",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91154"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.2199&mlon=11.1335#map=15/49.2199/11.1335",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.2199,
+    "longitude": 11.1335
+  },
+  "url": "http://www.eisenhammer-eckersmuehlen.de",
+  "telephone": "09174/4784",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182672",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

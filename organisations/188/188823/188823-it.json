@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188823
+  },
+  "name": "Museo del Risorgimento di Lucca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Cortile degli Svizzeri, 6",
+    "addressLocality": "Lucca",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8376&mlon=10.4951#map=15/43.8376/10.4951",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8376,
+    "longitude": 10.4951
+  },
+  "url": "http://www.cribecu.sns.it/lucca/ita/mus/mus_s0021",
+  "telephone": "+39 0583316425",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fD2S2PGljrNZk4Q3d1YkrrrBwis=/1000x1000/museums/logos/000/188/823/original/baf832ff87a357e0257a106fbc754dc3b1ea56a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105614",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

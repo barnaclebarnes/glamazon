@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189354
+  },
+  "name": "Orvieto underground",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 23",
+    "addressLocality": "Orvieto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7166&mlon=12.113#map=15/42.7166/12.113",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7166,
+    "longitude": 12.113
+  },
+  "url": "http://www.orvietounderground.it",
+  "telephone": "+39 0763344891",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/t-Lw8HwtSq7O43chtPjaDOJFXm8=/1000x1000/museums/logos/000/189/354/original/50963d892745c319e8520c8cb8a9f3ab392446.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100786",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

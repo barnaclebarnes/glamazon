@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186984
+  },
+  "name": "Museo Medardo Rosso",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Baruffaldi, 4",
+    "addressLocality": "Barzio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9471&mlon=9.46791#map=15/45.9471/9.46791",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9471,
+    "longitude": 9.46791
+  },
+  "url": "http://www.medardorosso.org",
+  "telephone": "+39 0341996416",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zdTu2o1zFzddCB-fAGvCdGNB7q8=/1000x1000/museums/logos/000/186/984/original/9cd65fc2cfb449c235bc90317d2caf4be078.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103648",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

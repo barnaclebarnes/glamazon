@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163985
+  },
+  "name": "Kingston Arts Centre",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9341&mlon=145.036#map=15/-37.9341/145.036",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9341,
+    "longitude": 145.036
+  },
+  "url": "http://www.kingstonarts.com.au",
+  "telephone": "(03) 9556 4440",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "kingston-arts-centre",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/kingston-arts-centre",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

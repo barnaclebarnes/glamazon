@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139021
+  },
+  "name": "LEHIGH HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "145 MAIN ST",
+    "addressLocality": "LEHIGH",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50557"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.357&mlon=-94.0518#map=15/42.357/-94.0518",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.357,
+    "longitude": -94.0518
+  },
+  "telephone": "+1 (515) 359-2139",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900058",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

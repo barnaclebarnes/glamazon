@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183808
+  },
+  "name": "Glockenschmiede",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Haßlberg 6",
+    "addressLocality": "Ruhpolding",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83324"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7456&mlon=12.611#map=15/47.7456/12.611",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7456,
+    "longitude": 12.611
+  },
+  "url": "http://www.museum-glockenschmiede.de/",
+  "telephone": "08663/2309",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183808",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

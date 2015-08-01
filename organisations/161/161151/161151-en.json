@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161151
+  },
+  "name": "LOUDOUN MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "16 LOUDOUN ST SW",
+    "addressLocality": "LEESBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "20175-2907"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1143&mlon=-77.5654#map=15/39.1143/-77.5654",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1143,
+    "longitude": -77.5654
+  },
+  "url": "http://www.loudounmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100657",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

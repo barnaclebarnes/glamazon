@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129926
+  },
+  "name": "US BICYCLING HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "303 3RD ST",
+    "addressLocality": "DAVIS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95616"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.544&mlon=-121.745#map=15/38.544/-121.745",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.544,
+    "longitude": -121.745
+  },
+  "url": "http://www.usbhof.org",
+  "telephone": "+1 (530) 231-5588",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hpdWHDb2YHXgFkxSk9szkCsKZnE=/1000x1000/museums/logos/000/129/926/original/Historic_bicycles_at_the_U.S._Cycling_Hall_of_Fame.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/United_States_Bicycling_Hall_of_Fame",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600052",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

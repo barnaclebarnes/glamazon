@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187013
+  },
+  "name": "Museo parrocchiale Paolo Tosio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Libertà, 3",
+    "addressLocality": "Asola",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2211&mlon=10.4134#map=15/45.2211/10.4134",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2211,
+    "longitude": 10.4134
+  },
+  "telephone": "+39 0376710123",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica 15.00/17.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103898",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

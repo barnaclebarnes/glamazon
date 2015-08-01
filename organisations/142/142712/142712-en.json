@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142712
+  },
+  "name": "USS CONSTITUTION MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 291812",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02129-0215"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3781&mlon=-71.0622#map=15/42.3781/-71.0622",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3781,
+    "longitude": -71.0622
+  },
+  "url": "http://www.ussconstitutionmuseum.org",
+  "telephone": "+1 (617) 426-1812",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500342",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

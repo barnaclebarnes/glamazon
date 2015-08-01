@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156020
+  },
+  "name": "DAVID LIONS HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 66",
+    "addressLocality": "SNOW SHOE",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "16874-0066"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0283&mlon=-77.9463#map=15/41.0283/-77.9463",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0283,
+    "longitude": -77.9463
+  },
+  "url": "http://www.david-house-museum.org",
+  "telephone": "+1 (814) 387-4200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201214",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

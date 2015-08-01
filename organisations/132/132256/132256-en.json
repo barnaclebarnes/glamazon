@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132256
+  },
+  "name": "SAN JOSE CHILDRENS DISCOVERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "180 WOZ WAY",
+    "addressLocality": "SAN JOSE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95110-2722"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.327&mlon=-121.893#map=15/37.327/-121.893",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.327,
+    "longitude": -121.893
+  },
+  "url": "http://www.cdm.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602382",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

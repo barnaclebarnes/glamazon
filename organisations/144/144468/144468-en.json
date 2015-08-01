@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144468
+  },
+  "name": "ARTS COUNCIL OF GREATER KALAMAZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "359 S KALAMAZOO MALL #203",
+    "addressLocality": "KALAMAZOO",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49007-4842"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2892&mlon=-85.5831#map=15/42.2892/-85.5831",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2892,
+    "longitude": -85.5831
+  },
+  "url": "http://www.kalamazooarts.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402601005",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

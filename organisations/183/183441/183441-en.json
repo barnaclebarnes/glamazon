@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183441
+  },
+  "name": "Pumuckl-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Partenkirchner Straße 63",
+    "addressLocality": "Ohlstadt",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82441"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6288&mlon=11.2108#map=15/47.6288/11.2108",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6288,
+    "longitude": 11.2108
+  },
+  "url": "http://www.pumuckl-museum.de/",
+  "telephone": "08841/7244",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183441",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

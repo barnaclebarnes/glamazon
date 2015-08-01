@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188248
+  },
+  "name": "Pinacoteca nazionale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Arsenale, ",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2231&mlon=9.11562#map=15/39.2231/9.11562",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2231,
+    "longitude": 9.11562
+  },
+  "url": "http://www.pinacoteca.cagliari.beniculturali.it",
+  "telephone": "+39 070 662496",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00- 20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9VQ_eMtBptx4ts7zMWEXOS6Q-oQ=/1000x1000/museums/logos/000/188/248/original/ad9fa391edddcae31c6922776f145c98669d974.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106487",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

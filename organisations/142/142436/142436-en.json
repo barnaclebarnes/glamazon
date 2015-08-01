@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142436
+  },
+  "name": "ROWLAND INSTITUTE FOR SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 EDWIN LAND BLVD",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02142"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3658&mlon=-71.0764#map=15/42.3658/-71.0764",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3658,
+    "longitude": -71.0764
+  },
+  "url": "http://www.rowland.harvard.edu",
+  "telephone": "+1 (617) 497-4600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500066",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

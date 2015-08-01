@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185981
+  },
+  "name": "Museo archeologico dell'Agro atellano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 5",
+    "addressLocality": "Succivo",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9659&mlon=14.2538#map=15/40.9659/14.2538",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9659,
+    "longitude": 14.2538
+  },
+  "url": "http://www.archeosa.beniculturali.it",
+  "telephone": "+39 0815012701",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì alla domenica, 8.30 – 19.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5Ugw3bi_4E8qjM7r7s8XSB2iKMw=/1000x1000/museums/logos/000/185/981/original/bfcee95a9d2a8e799f80fc47dd81a34371dc4185.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20296",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

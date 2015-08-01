@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187016
+  },
+  "name": "Museo storico aloisiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Perati, 8",
+    "addressLocality": "Castiglione delle Stiviere",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3906&mlon=10.4872#map=15/45.3906/10.4872",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3906,
+    "longitude": 10.4872
+  },
+  "telephone": "+39 0376638062",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/N9qqVjxBWt7VHbWeHpKco26rdEg=/1000x1000/museums/logos/000/187/016/original/37193f1b3c027f661b7c0a040d4db1e1be7b81.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103738",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

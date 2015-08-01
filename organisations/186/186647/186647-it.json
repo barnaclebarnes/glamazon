@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186647
+  },
+  "name": "Museo comunale di Orte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pie' di Marmo, SNC",
+    "addressLocality": "Orte",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4603&mlon=12.3864#map=15/42.4603/12.3864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4603,
+    "longitude": 12.3864
+  },
+  "url": "http://www.comune.orte.vt.it",
+  "telephone": "+39 0761404307",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aIfyPDcRaRAJ03zNxDk2TAcrlSU=/1000x1000/museums/logos/000/186/647/original/d4b263e95d77801d23b8b5b640bbc17b971b253.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101634",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

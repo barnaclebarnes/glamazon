@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189310
+  },
+  "name": "Museo archeologico e Pinacoteca comunale di Todi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Popolo, 29/30",
+    "addressLocality": "Todi",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7826&mlon=12.4063#map=15/42.7826/12.4063",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7826,
+    "longitude": 12.4063
+  },
+  "telephone": "+39 0758944148",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LPZWNE8_bhKZEhz1bFdvt2l6FDU=/1000x1000/museums/logos/000/189/310/original/30a106d1421fea35424085be6c5d36fffc9a3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100756",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

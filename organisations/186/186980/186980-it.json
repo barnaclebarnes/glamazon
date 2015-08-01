@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186980
+  },
+  "name": "Museo della stampa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Lanfranco, 6/8",
+    "addressLocality": "Soncino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4006&mlon=9.8741#map=15/45.4006/9.8741",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4006,
+    "longitude": 9.8741
+  },
+  "url": "http://www.prolocosoncino.it",
+  "telephone": "+39 037484883",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YJJ14_Okcy6hkM0K3p_ikN-owk8=/1000x1000/museums/logos/000/186/980/original/d166ed68c9b8a64d82d0c67c229abc69778e15.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103645",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

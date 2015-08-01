@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130100
+  },
+  "name": "PORTRAITS IN BLACK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1515 MARLENE CT",
+    "addressLocality": "SAN JOSE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95118"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2572&mlon=-121.879#map=15/37.2572/-121.879",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2572,
+    "longitude": -121.879
+  },
+  "url": "http://www.portraitsinblack.com",
+  "telephone": "+1 (408) 448-2260",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600226",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

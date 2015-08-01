@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140287
+  },
+  "name": "LOUISVILLE SLUGGER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 W MAIN ST",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2573&mlon=-85.7632#map=15/38.2573/-85.7632",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2573,
+    "longitude": -85.7632
+  },
+  "url": "http://www.sluggermuseum.org",
+  "telephone": "+1 (502) 588-7228",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100043",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188739
+  },
+  "name": "Museo archeologico di Saturnia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Italia, ",
+    "addressLocality": "Manciano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5889&mlon=11.5174#map=15/42.5889/11.5174",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5889,
+    "longitude": 11.5174
+  },
+  "url": "http://www.comune.manciano.gr.it",
+  "telephone": "+39 056462531",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0yE_yWD1BrnWmKRPLoimp_99PI4=/1000x1000/museums/logos/000/188/739/original/5a1d3bed7b45d53e73ad6c78b705b7d28831dd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103010",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161557
+  },
+  "name": "WPCHS-MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "12990 US HIGHWAY 12",
+    "addressLocality": "RANDLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98377"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5618&mlon=-121.723#map=15/46.5618/-121.723",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5618,
+    "longitude": -121.723
+  },
+  "telephone": "+1 (360) 494-4422",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300006",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

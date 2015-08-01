@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185588
+  },
+  "name": "Museo del lupo appenninico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Santa Lucia, SNC",
+    "addressLocality": "Civitella Alfedena",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7664&mlon=13.9438#map=15/41.7664/13.9438",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7664,
+    "longitude": 13.9438
+  },
+  "telephone": "+39 0864 890141",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/C65Bjaq5XzpsZVfqDg_VmeErdQo=/1000x1000/museums/logos/000/185/588/original/53cf2014608d8a4cc94b4a811a9dd257f5ffda.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100008",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

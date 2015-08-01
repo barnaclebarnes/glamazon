@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134567
+  },
+  "name": "MUSEUM OF FINE ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "255 BEACH DRIVE, NE",
+    "addressLocality": "ST. PETERSBURG",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33701-3498"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=27.7751&mlon=-82.6322#map=15/27.7751/-82.6322",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 27.7751,
+    "longitude": -82.6322
+  },
+  "telephone": "+1 (813) 896-2667",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200121",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

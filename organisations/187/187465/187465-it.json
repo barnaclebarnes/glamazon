@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187465
+  },
+  "name": "Casa Rossini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Rossini, 34",
+    "addressLocality": "Pesaro",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9108&mlon=12.9139#map=15/43.9108/12.9139",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9108,
+    "longitude": 12.9139
+  },
+  "url": "http://www.pesarocultura.it/index.php?id=9205",
+  "telephone": "+39 0721387357",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Estivo: da mar. a dom. 10-13 e 16.30-19.30; gio. 10-13 e 16.30-19.30 e 21.30-23.30 Inverno: mar. mer. gio. 10-13, ven. sab. e dom. 10-13 e 15.30-18.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 9.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/K8I6Li2ggJi3oolvtRLMZy_SPbY=/1000x1000/museums/logos/000/187/465/original/f8ccb6a376268502611a6b1fa8b7945f9950d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104297",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

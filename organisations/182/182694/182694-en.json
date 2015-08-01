@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182694
+  },
+  "name": "Residenz Ellingen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßstraße 9",
+    "addressLocality": "Ellingen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91792"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0611&mlon=10.9653#map=15/49.0611/10.9653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0611,
+    "longitude": 10.9653
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/ellingen.htm",
+  "telephone": "09141/97479-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182694",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185906
+  },
+  "name": "Antiquarium di Avella",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Francesco De Sanctis, 16",
+    "addressLocality": "Avella",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9588&mlon=14.5955#map=15/40.9588/14.5955",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9588,
+    "longitude": 14.5955
+  },
+  "url": "http://www.archeosa.beniculturali.it",
+  "telephone": "+39 0818251044",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal Lunedì al Sabato dalle 8,30 alle 13,30 e dalle 14,00 alle 17,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/icnfUg5yPCFdssQBZ6VMm4VCbZQ=/1000x1000/museums/logos/000/185/906/original/bb4cf4398251c83b1a4443b995f213f1291c63e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108194",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

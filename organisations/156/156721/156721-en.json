@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156721
+  },
+  "name": "THE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "106 MAIN ST",
+    "addressLocality": "GREENWOOD",
+    "addressRegion": "SC",
+    "addressCountry": "United States",
+    "postalCode": "29648"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1922&mlon=-82.161#map=15/34.1922/-82.161",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1922,
+    "longitude": -82.161
+  },
+  "url": "http://www.emeraldtriangle.sc/museum/",
+  "telephone": "+1 (864) 229-7093",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404500016",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

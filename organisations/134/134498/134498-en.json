@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134498
+  },
+  "name": "STATE OF FLORIDA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "400 S MONROE ST",
+    "addressLocality": "TALLAHASSEE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32399"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4382&mlon=-84.2806#map=15/30.4382/-84.2806",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4382,
+    "longitude": -84.2806
+  },
+  "url": "http://www.flhistoriccapitol.gov",
+  "telephone": "+1 (850) 488-6167",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200052",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

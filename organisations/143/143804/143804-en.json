@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143804
+  },
+  "name": "AACTMAD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4531 CONCOURSE DR",
+    "addressLocality": "ANN ARBOR",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48108-9631"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2216&mlon=-83.7293#map=15/42.2216/-83.7293",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2216,
+    "longitude": -83.7293
+  },
+  "url": "http://aactmad.org",
+  "telephone": "+1 (872) 222-8623",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600341",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

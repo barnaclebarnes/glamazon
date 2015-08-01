@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186238
+  },
+  "name": "Museo paleontologico Cittadina della Rocca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Valentinis, 134",
+    "addressLocality": "Monfalcone",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8021&mlon=13.5491#map=15/45.8021/13.5491",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8021,
+    "longitude": 13.5491
+  },
+  "url": "http://www.museomonfalcone.it",
+  "telephone": "+39 048140014",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100188",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187271
+  },
+  "name": "Museo civico archeologico di Sassoferrato",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Matteotti, ",
+    "addressLocality": "Sassoferrato",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.436&mlon=12.8589#map=15/43.436/12.8589",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.436,
+    "longitude": 12.8589
+  },
+  "url": "http://www.comune.sassoferrato.an.it",
+  "telephone": "+39 0732 956218 - 956205",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jd1IiCwaXszO87JROm4Gpe82W6Y=/1000x1000/museums/logos/000/187/271/original/a9d87c3c6437f16f056c2bd732f142a939a71d1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104076",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

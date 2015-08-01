@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144404
+  },
+  "name": "MOTOWN CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "30100 TELEGRAPH RD STE 302",
+    "addressLocality": "BINGHAM FARMS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48025-4517"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5083&mlon=-83.2852#map=15/42.5083/-83.2852",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5083,
+    "longitude": -83.2852
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600941",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

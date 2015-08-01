@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147233
+  },
+  "name": "SHARON ARTS CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "457 ROUTE 123",
+    "addressLocality": "PETERBOROUGH",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03458"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8701&mlon=-71.9449#map=15/42.8701/-71.9449",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8701,
+    "longitude": -71.9449
+  },
+  "url": "http://www.sharonarts.org/",
+  "telephone": "+1 (603) 924-7256",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300008",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

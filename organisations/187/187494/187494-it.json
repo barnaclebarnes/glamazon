@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187494
+  },
+  "name": "Museo civico di Bojano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Vittoria, SNC",
+    "addressLocality": "Bojano",
+    "addressRegion": "Molise",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4867&mlon=14.4739#map=15/41.4867/14.4739",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4867,
+    "longitude": 14.4739
+  },
+  "url": "http://www.comune.bojano.cb.it",
+  "telephone": "+39 08747/72829-2824",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100479",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

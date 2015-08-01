@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158500
+  },
+  "name": "ARLINGTON MUSEUM OF ART INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 W MAIN ST",
+    "addressLocality": "ARLINGTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76010-7113"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7367&mlon=-97.1085#map=15/32.7367/-97.1085",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7367,
+    "longitude": -97.1085
+  },
+  "url": "http://www.arlingtonmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800600",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

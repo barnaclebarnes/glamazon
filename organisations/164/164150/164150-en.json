@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164150
+  },
+  "name": "National Trust of Australia (Vic)",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8117&mlon=144.976#map=15/-37.8117/144.976",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8117,
+    "longitude": 144.976
+  },
+  "url": "http://www.nationaltrust.org.au/vic/Home",
+  "telephone": "03 9656 9800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "national-trust-of-australia-vic",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/national-trust-of-australia-vic",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

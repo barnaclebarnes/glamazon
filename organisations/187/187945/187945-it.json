@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187945
+  },
+  "name": "Museo nazionale della montagna Duca degli Abruzzi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Monte dei Cappuccini, 7, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0597&mlon=7.69745#map=15/45.0597/7.69745",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0597,
+    "longitude": 7.69745
+  },
+  "url": "http://www.museomontagna.org",
+  "telephone": "+39 0116604104",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal martedì alla domenica dalle 10.00 alle 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 10.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FSk5tpJCvDxIHLQSlWwhsF9OJ3Y=/1000x1000/museums/logos/000/187/945/original/12ae468d3974c6742ff89bd2c5a2f1f9edb34cb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102773",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189910
+  },
+  "name": "MILTON ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "900 RANDOLPH ST",
+    "addressLocality": "CANTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "2021"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9228&mlon=-83.8104#map=15/39.9228/-83.8104",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9228,
+    "longitude": -83.8104
+  },
+  "url": "http://miltonartmuseum.org/",
+  "telephone": "+1 (781) 821-2222",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501096",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

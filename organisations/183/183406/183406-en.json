@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183406
+  },
+  "name": "Hofmarkmuseum Schloss Eggersberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Obereggersberg 18",
+    "addressLocality": "Riedenburg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "93339"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9721&mlon=11.6489#map=15/48.9721/11.6489",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9721,
+    "longitude": 11.6489
+  },
+  "url": "http://www.schloss-eggersberg.com/hofmark_museum.html",
+  "telephone": "09442/9911278",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183406",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

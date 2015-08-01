@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150026
+  },
+  "name": "SENECA PARK ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "22222 ST. PAUL STREET",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14621"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1722&mlon=-77.6221#map=15/43.1722/-77.6221",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1722,
+    "longitude": -77.6221
+  },
+  "telephone": "+1 (585) 336-7200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601320",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

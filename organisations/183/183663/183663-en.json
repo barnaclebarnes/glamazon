@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183663
+  },
+  "name": "Museum Georg Schäfer",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Brückenstraße 20",
+    "addressLocality": "Schweinfurt",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97421"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0439&mlon=10.2361#map=15/50.0439/10.2361",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0439,
+    "longitude": 10.2361
+  },
+  "url": "http://www.museumgeorgschaefer.de",
+  "telephone": "09721/51-920",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183663",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

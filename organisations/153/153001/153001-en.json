@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153001
+  },
+  "name": "WYOMING HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 OAK AVENUE",
+    "addressLocality": "WYOMING",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45215"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2316&mlon=-84.4655#map=15/39.2316/-84.4655",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2316,
+    "longitude": -84.4655
+  },
+  "url": "http://www.wyoming.oh.us",
+  "telephone": "+1 (513) 821-7600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900778",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130231
+  },
+  "name": "HOOPA TRIBAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1348",
+    "addressLocality": "HOOPA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95546-1348"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1884&mlon=-123.704#map=15/41.1884/-123.704",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1884,
+    "longitude": -123.704
+  },
+  "telephone": "+1 (916) 625-4110",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600357",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

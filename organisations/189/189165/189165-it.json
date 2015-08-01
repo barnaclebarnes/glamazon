@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189165
+  },
+  "name": "Museo di Riva del Garda",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cesare Battisti, 3A",
+    "addressLocality": "Riva del Garda",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "url": "http://www.comune.rivadelgarda.tn.it/museo/",
+  "telephone": "+39 0464573869",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€ Museo, compresa salita al Mastio; 2,00€ Torre Apponale"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100631",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

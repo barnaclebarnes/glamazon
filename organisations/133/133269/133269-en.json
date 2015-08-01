@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133269
+  },
+  "name": "BOULDER MUSEUM OF CONTEMPORARY ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1750 13TH ST",
+    "addressLocality": "BOULDER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80302-6226"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.015&mlon=-105.278#map=15/40.015/-105.278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.015,
+    "longitude": -105.278
+  },
+  "telephone": "+1 (303) 443-2122",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/bmoca"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800445",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

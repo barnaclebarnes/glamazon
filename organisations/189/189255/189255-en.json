@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189255
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Le Marcite, 5/6",
+    "addressLocality": "Norcia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7942&mlon=13.0964#map=15/42.7942/13.0964",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7942,
+    "longitude": 13.0964
+  },
+  "url": "http://www.comunitamontanavalnerina.it",
+  "telephone": "+39 0743816938",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_NhXzY_kAfs7Z2qzr3ca3U_-FHg=/1000x1000/museums/logos/000/189/255/original/4fe49b27d9b611cd495cfbfb475b614ca8a2f8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100723",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

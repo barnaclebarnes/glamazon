@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187505
+  },
+  "name": "Complesso monumentale di San Vincenzo al Volturno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Colle",
+    "addressLocality": "Castel San Vincenzo",
+    "addressRegion": "Molise",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6549&mlon=14.0595#map=15/41.6549/14.0595",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6549,
+    "longitude": 14.0595
+  },
+  "url": "http://www.comune.castelsanvincenzo.is.it",
+  "telephone": "+39 0865951131",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jUGWZyVoCvg3MCxhxmucs28JnlM=/1000x1000/museums/logos/000/187/505/original/1a116be3214383a94962e4ce111998fa2ddd95db.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100502",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185577
+  },
+  "name": "Museo scienze Naturali",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giolitti, 36",
+    "addressLocality": "San Giovanni Teatino",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4102&mlon=14.2022#map=15/42.4102/14.2022",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4102,
+    "longitude": 14.2022
+  },
+  "url": "http://www.museoscienzesgt.it/",
+  "telephone": "+39 0871 33074 / 085 4462757",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105425",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

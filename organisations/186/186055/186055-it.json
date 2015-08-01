@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186055
+  },
+  "name": "Museo-Antiquarium civico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Palatucci (ex Convento dei Padri Riformati), ",
+    "addressLocality": "Caggiano",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5689&mlon=15.4942#map=15/40.5689/15.4942",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5689,
+    "longitude": 15.4942
+  },
+  "url": "http://www.comune.caggiano.sa.it",
+  "telephone": "+39 0975371006",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SB14-6rOCeNm0A63Trus-A0y_-k=/1000x1000/museums/logos/000/186/055/original/76ce753ea2cd42a0f8723a64d9842c5179aec959.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104903",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

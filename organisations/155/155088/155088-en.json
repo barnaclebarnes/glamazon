@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155088
+  },
+  "name": "BOROUGH MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "120 E CHURCH ST",
+    "addressLocality": "SELLERSVILLE",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "18960"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3622&mlon=-75.3104#map=15/40.3622/-75.3104",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3622,
+    "longitude": -75.3104
+  },
+  "url": "http://www.sellersvillemuseum.org",
+  "telephone": "+1 (215) 257-5253",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200282",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

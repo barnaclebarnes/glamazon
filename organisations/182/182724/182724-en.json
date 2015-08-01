@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182724
+  },
+  "name": "Fränkisches Museum Feuchtwangen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Museumstraße 19",
+    "addressLocality": "Feuchtwangen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91555"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1677&mlon=10.3337#map=15/49.1677/10.3337",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1677,
+    "longitude": 10.3337
+  },
+  "url": "http://www.fraenkisches-museum.de",
+  "telephone": "09852/2575",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182724",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

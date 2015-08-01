@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186151
+  },
+  "name": "Museo del bosco e del cervo della Mesola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Umberto I, ",
+    "addressLocality": "Mesola",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9231&mlon=12.2305#map=15/44.9231/12.2305",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9231,
+    "longitude": 12.2305
+  },
+  "telephone": "+39 3391935943",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/X50y1QhUfBzPW1hsARAy8MSEHgE=/1000x1000/museums/logos/000/186/151/original/82fcb3d9379c75a21bb6e9854c0553f46d14ac8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102087",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

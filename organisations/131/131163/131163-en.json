@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131163
+  },
+  "name": "PALM SPRINGS AIR MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "745 N GENE AUTRY TRL",
+    "addressLocality": "PALM SPRINGS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92262-5464"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8323&mlon=-116.503#map=15/33.8323/-116.503",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8323,
+    "longitude": -116.503
+  },
+  "url": "http://www.air-museum.org",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Palm_Springs_Air_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601289",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141228
+  },
+  "name": "BLAINE HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "192 STATE ST",
+    "addressLocality": "AUGUSTA",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04330"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3081&mlon=-69.7806#map=15/44.3081/-69.7806",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3081,
+    "longitude": -69.7806
+  },
+  "url": "http://blainehouse.org",
+  "telephone": "+1 (207) 287-2121",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300077",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188244
+  },
+  "name": "Museo di mineralogia \"Leonardo De Prunner\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trentino, 51",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2305&mlon=9.11363#map=15/39.2305/9.11363",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2305,
+    "longitude": 9.11363
+  },
+  "telephone": "+39 070 6757713",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/g4BsDExTjb9HEMnYUMUIH7zDZiI=/1000x1000/museums/logos/000/188/244/original/a7ddc421a76311c5a8f4ffb207316788fb0a5bd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103305",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

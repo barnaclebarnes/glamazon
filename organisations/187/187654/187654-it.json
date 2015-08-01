@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187654
+  },
+  "name": "Museo civico archeologico di Bene Vagienna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 125, ",
+    "addressLocality": "Bene Vagienna",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5461&mlon=7.83391#map=15/44.5461/7.83391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5461,
+    "longitude": 7.83391
+  },
+  "url": "http://www.benevagienna.it",
+  "telephone": "+39 0172654152",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/U52ZJ4p_0b3gRNxxt3W5SgKd7tE=/1000x1000/museums/logos/000/187/654/original/2768aac237f5957983c76848892aae2cbfba3.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102544",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

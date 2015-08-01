@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152890
+  },
+  "name": "TOLEDO SCIENCE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 DISCOVERY WAY",
+    "addressLocality": "TOLEDO",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43604-1579"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.652&mlon=-83.5324#map=15/41.652/-83.5324",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.652,
+    "longitude": -83.5324
+  },
+  "url": "http://www.cosi.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900667",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

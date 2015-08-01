@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186599
+  },
+  "name": "Museo storico garibaldino di Porta San Pancrazio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo di Porta S. Pancrazio, 9",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8892&mlon=12.465#map=15/41.8892/12.465",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8892,
+    "longitude": 12.465
+  },
+  "url": "http://www.garibaldini.it",
+  "telephone": "+39 06 5415592",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0KoFszEzdpVcIxmdEjocWY4sivo=/1000x1000/museums/logos/000/186/599/original/dad4a7e685017488089846c2a95b26723a299f.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101579",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

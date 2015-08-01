@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160470
+  },
+  "name": "BIXBY LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "258 MAIN ST",
+    "addressLocality": "VERGENNES",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05491-1056"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1672&mlon=-73.2534#map=15/44.1672/-73.2534",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1672,
+    "longitude": -73.2534
+  },
+  "url": "http://www.bixbylibrary.org",
+  "telephone": "+1 (802) 877-2211",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000276",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155314
+  },
+  "name": "MUMMERS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1100 S 2ND ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19147-5411"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9336&mlon=-75.1473#map=15/39.9336/-75.1473",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9336,
+    "longitude": -75.1473
+  },
+  "url": "http://www.mummersmuseum.com",
+  "telephone": "+1 (215) 336-3050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200508",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

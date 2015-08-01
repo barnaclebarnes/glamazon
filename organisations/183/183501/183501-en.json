@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183501
+  },
+  "name": "Technikmuseum Kratzmühle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mühlweg 1",
+    "addressLocality": "Kinding",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85125"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0039&mlon=11.4519#map=15/49.0039/11.4519",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0039,
+    "longitude": 11.4519
+  },
+  "url": "http://www.museen-anno-dazumal.de",
+  "telephone": "08461/8104",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183501",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

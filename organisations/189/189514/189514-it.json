@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189514
+  },
+  "name": "Palazzo Mocenigo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Santa Croce 1992, ",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4408&mlon=12.3302#map=15/45.4408/12.3302",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4408,
+    "longitude": 12.3302
+  },
+  "url": "http://mocenigo.visitmuve.it/",
+  "telephone": "+39 041721798",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Xig1ha1z4fL62lZjgS38tKHO3j0=/1000x1000/museums/logos/000/189/514/original/5933ea9c7aa55ead56ecd0a4edf5ab76b641b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106792",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

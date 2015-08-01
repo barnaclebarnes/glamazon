@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132121
+  },
+  "name": "MUSEUM OF CRAFT & FOLK ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "51 YERBA BUENA LN",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94103-3183"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7855&mlon=-122.404#map=15/37.7855/-122.404",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7855,
+    "longitude": -122.404
+  },
+  "url": "http://www.mocfa.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602247",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

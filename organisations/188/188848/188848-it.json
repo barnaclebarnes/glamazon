@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188848
+  },
+  "name": "Museo del Carnevale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Santa Maria Goretti, ",
+    "addressLocality": "Viareggio",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8913&mlon=10.2477#map=15/43.8913/10.2477",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8913,
+    "longitude": 10.2477
+  },
+  "url": "http://www.viareggiomusei.it/?page_id=50",
+  "telephone": "+39 058453048",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/471aPJVnIZKh38EEys5BtE09-nE=/1000x1000/museums/logos/000/188/848/original/5dc492161cf54614f6edb36b3162034ed9368e2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110032",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

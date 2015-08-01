@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182640
+  },
+  "name": "Carl Orff – Leben und Werk",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hofmark 3",
+    "addressLocality": "Dießen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86911"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9484&mlon=11.0993#map=15/47.9484/11.0993",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9484,
+    "longitude": 11.0993
+  },
+  "url": "http://www.orff-museum.de",
+  "telephone": "08807/91981",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182640",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

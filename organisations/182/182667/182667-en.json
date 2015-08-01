@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182667
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 42",
+    "addressLocality": "Ebern",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96106"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0932&mlon=10.7944#map=15/50.0932/10.7944",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0932,
+    "longitude": 10.7944
+  },
+  "url": "http://www.heimatmuseum-ebern.de/",
+  "telephone": "09531/62914",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182667",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182618
+  },
+  "name": "Schloss Callenberg: Deutsches Schützenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Callenberg 1",
+    "addressLocality": "Coburg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96450"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2777&mlon=10.9229#map=15/50.2777/10.9229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2777,
+    "longitude": 10.9229
+  },
+  "url": "http://www.dsb.de/tradition/historie/schuetzenmuseum/",
+  "telephone": "09561/5515-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182618",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

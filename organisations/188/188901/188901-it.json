@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188901
+  },
+  "name": "Museo nazionale di palazzo Reale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lungarno Pacinotti, 46",
+    "addressLocality": "Pisa",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7163&mlon=10.397#map=15/43.7163/10.397",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7163,
+    "longitude": 10.397
+  },
+  "url": "http://www.sbappsae-pi.beniculturali.it/index.php?it/147/pisa-museo-nazionale-di-palazzo-reale",
+  "telephone": "+39 050926511",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriali 9:00 - 14:30; sabato 9:00 - 13:30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XvUpNEcVvEd1rGbt-4Y-CA2cvWs=/1000x1000/museums/logos/000/188/901/original/7c2bdd6876415722ad1e4db664a799fd3230dc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20244",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

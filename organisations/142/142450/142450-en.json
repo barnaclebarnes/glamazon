@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142450
+  },
+  "name": "MARITIME MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 DRIFTWAY",
+    "addressLocality": "SCITUATE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02066"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1777&mlon=-70.7422#map=15/42.1777/-70.7422",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1777,
+    "longitude": -70.7422
+  },
+  "url": "http://www.scituatehistoricalsociety.org/sites_maritime.html",
+  "telephone": "+1 (781) 545-5565",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500080",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

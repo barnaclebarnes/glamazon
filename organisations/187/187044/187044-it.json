@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187044
+  },
+  "name": "Museo del giocattolo e del bambino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Rodari, 3",
+    "addressLocality": "Cormano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5472&mlon=9.17332#map=15/45.5472/9.17332",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5472,
+    "longitude": 9.17332
+  },
+  "url": "http://www.museodelgiocattoloedelbambino.com",
+  "telephone": "+39 340 1509192",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106812",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

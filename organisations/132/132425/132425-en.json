@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132425
+  },
+  "name": "SANTA CLARA COUNTY HISTORICAL & GENEALOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2635 HOMESTEAD ROAD",
+    "addressLocality": "SANTA CLARA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95051-9505"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3394&mlon=-121.974#map=15/37.3394/-121.974",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3394,
+    "longitude": -121.974
+  },
+  "url": "http://www.scchgs.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602551",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188683
+  },
+  "name": "Museo del vino di Greve in Chianti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tirinnanzi, 12",
+    "addressLocality": "Greve in Chianti",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5831&mlon=11.3187#map=15/43.5831/11.3187",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5831,
+    "longitude": 11.3187
+  },
+  "telephone": "+39 0558546275",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DH0FXrt6q10buElTQwMKpdE_Ky4=/1000x1000/museums/logos/000/188/683/original/ea7fa6202b2a846ab8fde1437d32cb1b2f2e34.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110431",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

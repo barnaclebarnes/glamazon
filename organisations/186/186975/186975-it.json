@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186975
+  },
+  "name": "Villa Romana e Antiquarium di Palazzo Pignano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Luoghi Vecchi, ",
+    "addressLocality": "Palazzo Pignano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3918&mlon=9.57407#map=15/45.3918/9.57407",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3918,
+    "longitude": 9.57407
+  },
+  "url": "http://www.archeologica.lombardia.beniculturali.it",
+  "telephone": "+39 0289400555 ",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8,30 - 14,30 (lunedì - sabato) 9,30 - 13,30 (domenica)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9b1MVU8ApbqI7C6HVmo_H0tVSfg=/1000x1000/museums/logos/000/186/975/original/9e802c6e699c23796a4e4eb648054f59c71767.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106546",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

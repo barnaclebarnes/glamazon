@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160577
+  },
+  "name": "MUSCARELLE MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "JAMESTOWN RD",
+    "addressLocality": "WILLIAMSBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23185"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2643&mlon=-76.7207#map=15/37.2643/-76.7207",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2643,
+    "longitude": -76.7207
+  },
+  "url": "http://web.wm.edu/muscarelle/?svr=www",
+  "telephone": "+1 (757) 221-2700",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/muscarelle"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/muscarelle"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100083",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

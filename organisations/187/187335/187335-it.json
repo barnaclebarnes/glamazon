@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187335
+  },
+  "name": "Pinacoteca comunale di Massa Fermana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Garibaldi, 60",
+    "addressLocality": "Massa Fermana",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1504&mlon=13.4756#map=15/43.1504/13.4756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1504,
+    "longitude": 13.4756
+  },
+  "telephone": "+39 0734760127",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal Lunedì al Sabato 09.00 - 12.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104117",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

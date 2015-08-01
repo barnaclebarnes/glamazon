@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150129
+  },
+  "name": "EL MUSEO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "91 ALLEN ST",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14202-1320"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7933&mlon=-73.9519#map=15/40.7933/-73.9519",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7933,
+    "longitude": -73.9519
+  },
+  "url": "http://www.elmuseo.org",
+  "telephone": "+1 (212) 831-7272",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601423",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

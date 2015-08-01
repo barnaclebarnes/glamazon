@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133152
+  },
+  "name": "PLATTEFORUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1610 LITTLE RAVEN ST",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80202-6175"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7555&mlon=-105.004#map=15/39.7555/-105.004",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7555,
+    "longitude": -105.004
+  },
+  "url": "http://www.platteforum.org",
+  "telephone": "+1 (303) 893-0791",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800328",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

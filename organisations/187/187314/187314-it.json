@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187314
+  },
+  "name": "Polo museale di Palazzo De Castellotti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 17",
+    "addressLocality": "Offida",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8985&mlon=13.7266#map=15/42.8985/13.7266",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8985,
+    "longitude": 13.7266
+  },
+  "url": "http://www.museipiceni.it",
+  "telephone": "+39 0736888609",
+  "contactPoint": [
+
+  ],
+  "openingHours": "13 giugno- 15 settembre tutti i giorni 10-12.30, 15.30-19.30 (ven. anche 21-24), inverno: sab. dom. fest. prefest. Natale e Pasqua:10-12.30, 15-19",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BAIAgtv8ioeRYMIUpC6hkK6TCpU=/1000x1000/museums/logos/000/187/314/original/76e6f33b03f35768dc3cb1ae0525dcf45bc9d9f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104136",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

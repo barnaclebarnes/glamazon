@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134228
+  },
+  "name": "PRESIDENT LINCOLN'S COTTAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "140 ROCK CRK",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20011"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9421&mlon=-77.0133#map=15/38.9421/-77.0133",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9421,
+    "longitude": -77.0133
+  },
+  "url": "http://www.lincolncottage.org",
+  "telephone": "+1 (202) 829-0436",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100008",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

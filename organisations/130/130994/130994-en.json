@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130994
+  },
+  "name": "CAT MUSEUM OF SAN FRANCISCO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 401161",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94140-9414"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7866&mlon=-122.421#map=15/37.7866/-122.421",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7866,
+    "longitude": -122.421
+  },
+  "url": "http://www.catmuseumsf.org",
+  "telephone": "+1 (415) 547-0062",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601120",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129188
+  },
+  "name": "ASU ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "51 W 10TH ST",
+    "addressLocality": "TEMPE",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85281"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.419&mlon=-111.941#map=15/33.419/-111.941",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.419,
+    "longitude": -111.941
+  },
+  "url": "http://asuartmuseum.asu.edu",
+  "telephone": "+1 (480) 965-2787",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400090",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

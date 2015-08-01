@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144430
+  },
+  "name": "CITY OF HOLLAND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "CITY HALL",
+    "addressLocality": "HOLLAND",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49423-4549"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7735&mlon=-86.1372#map=15/42.7735/-86.1372",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7735,
+    "longitude": -86.1372
+  },
+  "telephone": "+1 (616) 355-1057",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600967",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

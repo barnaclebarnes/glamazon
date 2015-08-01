@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183678
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Luitpoldstraße 7",
+    "addressLocality": "Seßlach",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96145"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1883&mlon=10.8434#map=15/50.1883/10.8434",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1883,
+    "longitude": 10.8434
+  },
+  "url": "http://www.sesslach.de",
+  "telephone": "09569/9225-40",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183678",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

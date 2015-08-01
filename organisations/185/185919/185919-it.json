@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185919
+  },
+  "name": "Antiquarium di Mercogliano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Concezione, 24",
+    "addressLocality": "Mercogliano",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9198&mlon=14.7335#map=15/40.9198/14.7335",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9198,
+    "longitude": 14.7335
+  },
+  "url": "http://comunemercogliano.it",
+  "telephone": "+39 0825689823 (Comune)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "apertura su prenotazione tel. 0825689823 (Comune)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QM05HM2uQ0XEKruyp3zFc-EZOqI=/1000x1000/museums/logos/000/185/919/original/1d661de2de050338c826d3f1a48cc2269318e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107067",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

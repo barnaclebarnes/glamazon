@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186862
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, ?",
+    "addressLocality": "Breno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.955&mlon=10.3017#map=15/45.955/10.3017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.955,
+    "longitude": 10.3017
+  },
+  "url": "http://www.voli.bs.it/itinera/01/musei/museu_camuno/",
+  "telephone": "+39 036422041",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KVqjidd6bROhukUzlei08u4w3wM=/1000x1000/museums/logos/000/186/862/original/d79aa27691a7a4526dc058d1b68997232c947fbd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105630",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161684
+  },
+  "name": "BUG MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1118 CHARLESTON BEACH RD W",
+    "addressLocality": "BREMERTON",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98312"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5541&mlon=-122.659#map=15/47.5541/-122.659",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5541,
+    "longitude": -122.659
+  },
+  "url": "http://www.bugmuseum.com",
+  "telephone": "+1 (800) 870-4284",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300133",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150650
+  },
+  "name": "THE SCHOMBURG COLLECTION OF BLACK HISTORY LITERATURE AND ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "515 LENOX AVENUE",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10037-1801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8147&mlon=-73.9406#map=15/40.8147/-73.9406",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8147,
+    "longitude": -73.9406
+  },
+  "url": "http://www.nypl.org/locations/schomburg",
+  "telephone": "+1 (917) 275-6975",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601944",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

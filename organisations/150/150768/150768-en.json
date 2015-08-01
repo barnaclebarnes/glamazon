@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150768
+  },
+  "name": "CENTRAL NEW YORK AQUARIUM SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C/O 923 WADSWORTH ST",
+    "addressLocality": "SYRACUSE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13208"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.072&mlon=-76.147#map=15/43.072/-76.147",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.072,
+    "longitude": -76.147
+  },
+  "url": "http://www.cnyas.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602062",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

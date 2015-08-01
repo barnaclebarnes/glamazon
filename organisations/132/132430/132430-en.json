@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132430
+  },
+  "name": "ALAMEDA COUNTY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 13145",
+    "addressLocality": "OAKLAND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94661"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8278&mlon=-122.254#map=15/37.8278/-122.254",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8278,
+    "longitude": -122.254
+  },
+  "url": "http://www.alamedacountyhistory.org/",
+  "telephone": "+1 (510) 238-3234",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602556",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

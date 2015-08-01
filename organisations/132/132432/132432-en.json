@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132432
+  },
+  "name": "SACRAMENTO PIONEER ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1721 2ND ST STE 100",
+    "addressLocality": "SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95811"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5958&mlon=-121.489#map=15/38.5958/-121.489",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5958,
+    "longitude": -121.489
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602558",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

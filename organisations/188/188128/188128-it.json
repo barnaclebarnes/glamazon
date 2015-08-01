@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188128
+  },
+  "name": "Museo delle arti e tradizioni di Puglia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Verdi, 10",
+    "addressLocality": "Latiano",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5534&mlon=17.7185#map=15/40.5534/17.7185",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5534,
+    "longitude": 17.7185
+  },
+  "url": "http://biblioteca.latiano@libero.it ",
+  "telephone": "+39 083 1729465",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e giovedì: 10,00 -12,00; giovedì e domenica: 17,00-19,00; altri giorni su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/trAIEuT5ZtyRWXez9l7SFQG2kLU=/1000x1000/museums/logos/000/188/128/original/5b8d4aa7e626d59fbd6b89a3e3c13b6b3b85f49.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102344",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

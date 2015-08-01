@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185677
+  },
+  "name": "Museo di artigianato locale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Papa Giovanni XXIII, 14",
+    "addressLocality": "Acerenza",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.794&mlon=15.939#map=15/40.794/15.939",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.794,
+    "longitude": 15.939
+  },
+  "telephone": "+39 0971741511",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/on7FSV7wZwFCo3zunF5GtNiegDM=/1000x1000/museums/logos/000/185/677/original/36fa3f33e56b94337085f9ccbb17c84d3d816bee.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100134",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

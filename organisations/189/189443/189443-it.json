@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189443
+  },
+  "name": "Cappella degli Scrovegni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Eremitani, 8",
+    "addressLocality": "Padova",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4117&mlon=11.8791#map=15/45.4117/11.8791",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4117,
+    "longitude": 11.8791
+  },
+  "url": "http://www.cappelladegliscrovegni.it",
+  "telephone": "+39 0498204551",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Rad7sYzh_ZzPTcj02TmAKJDe2ks=/1000x1000/museums/logos/000/189/443/original/40df6e66f727e576791840f479314b8ceabfb626.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100940",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

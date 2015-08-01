@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149085
+  },
+  "name": "COOPER-HEWITT NATIONAL DESIGN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 E 91ST ST",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10128"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7847&mlon=-73.9581#map=15/40.7847/-73.9581",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7847,
+    "longitude": -73.9581
+  },
+  "url": "http://www.cooperhewitt.org",
+  "telephone": "+1 (212) 849-8400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600379",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

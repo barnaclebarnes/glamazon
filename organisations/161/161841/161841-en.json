@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161841
+  },
+  "name": "HISTORIC DOWNTOWN SNOHOMISH",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1192",
+    "addressLocality": "SNOHOMISH",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98291-1192"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9114&mlon=-122.097#map=15/47.9114/-122.097",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9114,
+    "longitude": -122.097
+  },
+  "url": "http://www.historicdowntownsnohomish.org/",
+  "telephone": "+1 (360) 568-3115",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300290",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

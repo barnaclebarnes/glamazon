@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183495
+  },
+  "name": "Prähistorische Siedlung Pestenacker",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "An der Staatsstraße",
+    "addressLocality": "Weil-Pestenacker",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86947"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1457&mlon=10.9485#map=15/48.1457/10.9485",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1457,
+    "longitude": 10.9485
+  },
+  "url": "http://www.prähistorische-siedlung-pestenacker.de/",
+  "telephone": "089/134857",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183495",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

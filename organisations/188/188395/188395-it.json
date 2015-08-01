@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188395
+  },
+  "name": "Museo Biscari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duca di Genova, 27",
+    "addressLocality": "Catania",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3846&mlon=9.03594#map=15/44.3846/9.03594",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3846,
+    "longitude": 9.03594
+  },
+  "url": "http://www.city-maps.it",
+  "telephone": "+39 095 2503188",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Martedì-Domenica ore 10,00 - 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 5.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cOwH-Qxh7uSlbTY4ZK2FxITRtlM=/1000x1000/museums/logos/000/188/395/original/e9c371de7f6139862ceb6f212a3a5f2ad46b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111576",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

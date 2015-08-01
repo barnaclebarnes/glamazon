@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185650
+  },
+  "name": "Museo di scienze naturali di Mosciano Sant'Angelo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Contrada Colle Leone, SNC",
+    "addressLocality": "Mosciano Sant'Angelo",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7435&mlon=13.8886#map=15/42.7435/13.8886",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7435,
+    "longitude": 13.8886
+  },
+  "url": "http://www.oacl.net",
+  "telephone": "+39 085 8061499",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì, mercoledì e venerdì Ogni sera sono previsti 2 turni di visita per gruppi di 30-40 persone; ore 22,00 ore 23,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€4,00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100103",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

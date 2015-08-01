@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188633
+  },
+  "name": "Museo archeologico nazionale di Firenze",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "S.S. Annunziata, 9",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7761&mlon=11.2605#map=15/43.7761/11.2605",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7761,
+    "longitude": 11.2605
+  },
+  "url": "http://www.archeotoscana.beniculturali.it/index.php?it/146/firenze-museo-archeologico-nazionale",
+  "telephone": "+39 05523575   055294882",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni, da Lunedì a Domenica: 8,30 - 14,00 Martedì-Mercoledì-Giovedì-Venerdì: 8,30 - 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qSjJhKFbT2YDmbPJkgjaVeIiEN8=/1000x1000/museums/logos/000/188/633/original/663db83e1e4dfb673c681765d90a67ec842de4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20310",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

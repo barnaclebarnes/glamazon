@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155456
+  },
+  "name": "OLD LINE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 35",
+    "addressLocality": "DELTA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17314"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.75&mlon=-76.3481#map=15/39.75/-76.3481",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.75,
+    "longitude": -76.3481
+  },
+  "url": "http://oldlinemuseum.com",
+  "telephone": "+1 (717) 456-7124",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200650",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

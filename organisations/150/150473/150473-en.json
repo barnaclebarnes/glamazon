@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150473
+  },
+  "name": "CHILI HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4145 UNION STREET",
+    "addressLocality": "NORTH CHILI",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14514"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.059&mlon=-77.7958#map=15/43.059/-77.7958",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.059,
+    "longitude": -77.7958
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601767",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

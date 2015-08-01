@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129243
+  },
+  "name": "TUCSON MUSICIANS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 85392",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85754"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2338&mlon=-111.003#map=15/32.2338/-111.003",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2338,
+    "longitude": -111.003
+  },
+  "url": "http://tucsonmusiciansmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400145",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

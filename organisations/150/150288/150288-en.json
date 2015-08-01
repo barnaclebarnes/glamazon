@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150288
+  },
+  "name": "OVID HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 77",
+    "addressLocality": "OVID",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14521-0077"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6701&mlon=-76.8247#map=15/42.6701/-76.8247",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6701,
+    "longitude": -76.8247
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601582",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139722
+  },
+  "name": "MUSEUM OF KANSAS NATIONAL GUARD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6700 SW TOPEKA BLVD",
+    "addressLocality": "TOPEKA",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66619"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9463&mlon=-95.6873#map=15/38.9463/-95.6873",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9463,
+    "longitude": -95.6873
+  },
+  "url": "http://www.kansasguardmuseum.org/",
+  "telephone": "+1 (785) 862-1066",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000048",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187447
+  },
+  "name": "Museo civico \"A. Vernarecci\" - Pinacoteca civica \"A.Vernarecci\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Conte Federico da Montefeltro, 16",
+    "addressLocality": "Fossombrone",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6917&mlon=12.8138#map=15/43.6917/12.8138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6917,
+    "longitude": 12.8138
+  },
+  "url": "http://www.comune.fossombrone.ps.it",
+  "telephone": "+39 0721 740291",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato e domenica, dalle 16 alle 19 fino al 31 dicembre",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/l85sJksQ1vHv578KfnkFeOxqN14=/1000x1000/museums/logos/000/187/447/original/a67f1827fa31c6de9d1636733864a7e5f1b91b17.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104272",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

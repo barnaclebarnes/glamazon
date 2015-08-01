@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150654
+  },
+  "name": "TEATOWN LAKE RESERVATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1600 SPRING VALLEY ROAD",
+    "addressLocality": "OSSINING",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10562"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.214&mlon=-73.8175#map=15/41.214/-73.8175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.214,
+    "longitude": -73.8175
+  },
+  "url": "http://www.teatown.org",
+  "telephone": "+1 (914) 762-2912",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601948",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

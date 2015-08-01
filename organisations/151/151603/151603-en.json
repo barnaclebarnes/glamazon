@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151603
+  },
+  "name": "MUSEUM OF THE CHEROKEE INDIAN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1599",
+    "addressLocality": "CHEROKEE",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28719-1599"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.4957&mlon=-83.3014#map=15/35.4957/-83.3014",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.4957,
+    "longitude": -83.3014
+  },
+  "url": "http://www.cherokeemuseum.org",
+  "telephone": "+1 (828) 497-3481",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700474",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

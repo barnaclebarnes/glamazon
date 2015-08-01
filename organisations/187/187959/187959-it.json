@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187959
+  },
+  "name": "Pinacoteca Giovanni e Marella Agnelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lingotto ¿ Via Nizza, 230 int. 103, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0343&mlon=7.66798#map=15/45.0343/7.66798",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0343,
+    "longitude": 7.66798
+  },
+  "url": "http://www.pinacoteca-agnelli.it",
+  "telephone": "+39 0110062008",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102778",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

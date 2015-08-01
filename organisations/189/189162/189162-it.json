@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189162
+  },
+  "name": "Museo Casa De Gasperi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Alcide De Gasperi, 1",
+    "addressLocality": "Pieve Tesino",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0677&mlon=11.6128#map=15/46.0677/11.6128",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0677,
+    "longitude": 11.6128
+  },
+  "url": "http://www.degasperitn.it",
+  "telephone": "+39 +39 0461 594382 - +39 331 4745389 - +39 339 6984804",
+  "contactPoint": [
+
+  ],
+  "openingHours": "1 ottobre–31 maggio Gio. 15-18; Ven - Dom. 10-12/15-18 1 giugno–30 settembre Mar - Ven: 15-18; Sab - Dom: 10-12/15-18",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/60r9UySLkinjqpnUkmxodUvBivk=/1000x1000/museums/logos/000/189/162/original/e9de8e66621d4af370535738dce2598e70aa8fd4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111812",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

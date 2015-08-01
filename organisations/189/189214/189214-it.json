@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189214
+  },
+  "name": "Antiquarium di Corciano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cornaletto, 4/C",
+    "addressLocality": "Corciano",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.129&mlon=12.2859#map=15/43.129/12.2859",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.129,
+    "longitude": 12.2859
+  },
+  "url": "http://info@promozionecorciano.it",
+  "telephone": "+39 075 5188255",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cGXLwK8c63bnkVD8bqAreiW5EOQ=/1000x1000/museums/logos/000/189/214/original/aac8bdb0f72b4a46921db0f3a21dec5eac38d6a7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108082",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

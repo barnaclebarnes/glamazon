@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129196
+  },
+  "name": "BUCKEYE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "116 E US HIGHWAY 85",
+    "addressLocality": "BUCKEYE",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85326"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.3706&mlon=-112.577#map=15/33.3706/-112.577",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.3706,
+    "longitude": -112.577
+  },
+  "telephone": "+1 (623) 386-4333",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400098",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

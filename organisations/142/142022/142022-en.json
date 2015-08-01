@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142022
+  },
+  "name": "JOHNS HOPKINS UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3910 KESWICK ROAD",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21211"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.335&mlon=-76.6283#map=15/39.335/-76.6283",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.335,
+    "longitude": -76.6283
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400315",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

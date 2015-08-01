@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154997
+  },
+  "name": "HANS HERR HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1849 HANS HERR DR",
+    "addressLocality": "WILLOW STREET",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17584"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.98&mlon=-76.2624#map=15/39.98/-76.2624",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.98,
+    "longitude": -76.2624
+  },
+  "url": "http://www.hansherr.org",
+  "telephone": "+1 (717) 464-4438",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200191",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

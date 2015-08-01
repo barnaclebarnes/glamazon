@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162584
+  },
+  "name": "THE ANGEL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "656 PLEASANT ST.",
+    "addressLocality": "BELOIT",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53512-0816"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5024&mlon=-89.0327#map=15/42.5024/-89.0327",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5024,
+    "longitude": -89.0327
+  },
+  "url": "http://www.angelmuseum.org/",
+  "telephone": "+1 (608) 362-9099",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500033",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

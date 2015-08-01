@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129130
+  },
+  "name": "O.K. CORRAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "308 E ALLEN ST",
+    "addressLocality": "TOMBSTONE",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85638"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.7131&mlon=-110.068#map=15/31.7131/-110.068",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.7131,
+    "longitude": -110.068
+  },
+  "url": "http://www.okcorral.com",
+  "telephone": "+1 (520) 457-3456",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400032",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

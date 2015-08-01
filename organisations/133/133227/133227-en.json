@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133227
+  },
+  "name": "DENVER ZOOLOGICAL FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2300 STEELE STREET",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80205"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7506&mlon=-104.949#map=15/39.7506/-104.949",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7506,
+    "longitude": -104.949
+  },
+  "url": "http://www.denverzoo.org",
+  "telephone": "+1 (303) 376-4902",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800403",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

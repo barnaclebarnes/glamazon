@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186003
+  },
+  "name": "Complesso museale Santa Maria delle Anime del Purgatorio ad Arco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Tribunali , 39",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8505&mlon=14.2559#map=15/40.8505/14.2559",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8505,
+    "longitude": 14.2559
+  },
+  "url": "http://www.purgatorioadarco.com ",
+  "telephone": "+39 3333832561",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì/ venerdì ore 9,30 - 13,00; sabato ore 10,00 - 17,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00 euro; nel contributo per l’ingresso è inclusa la visita guidata"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hxrh6gA2jbbYLJvh6s43WjVV0_M=/1000x1000/museums/logos/000/186/003/original/30933faaaaf68dcd415584b532c3e3b9fa5440a8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110900",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143559
+  },
+  "name": "MARINE CITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "405 S MAIN ST",
+    "addressLocality": "MARINE CITY",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48039"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7157&mlon=-82.4946#map=15/42.7157/-82.4946",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7157,
+    "longitude": -82.4946
+  },
+  "url": "http://www.marinecitymuseum.org",
+  "telephone": "+1 (810) 765-5446",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600096",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

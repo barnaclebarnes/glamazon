@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188789
+  },
+  "name": "Museo etrusco \"Gasparri\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "di Sotto, 8",
+    "addressLocality": "Piombino",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9256&mlon=10.5259#map=15/42.9256/10.5259",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9256,
+    "longitude": 10.5259
+  },
+  "telephone": "+39 056529666",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8HQIlCwaWG9UykDfPZZx1iiPrLM=/1000x1000/museums/logos/000/188/789/original/1997112b355aa2827d33e558a60b014c6438c6f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103060",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

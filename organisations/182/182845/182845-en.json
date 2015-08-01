@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182845
+  },
+  "name": "Wallfahrtsmuseum Gößweinstein",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Balthasar-Neumann-Straße 4",
+    "addressLocality": "Gößweinstein",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91327"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7702&mlon=11.3371#map=15/49.7702/11.3371",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7702,
+    "longitude": 11.3371
+  },
+  "url": "http://www.wallfahrtsmuseum.info",
+  "telephone": "09242/741766",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182845",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

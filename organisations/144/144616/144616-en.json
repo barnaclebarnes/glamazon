@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144616
+  },
+  "name": "LE SUEUR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "709 N 2ND ST",
+    "addressLocality": "LE SUEUR",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "56058"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4667&mlon=-93.9096#map=15/44.4667/-93.9096",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4667,
+    "longitude": -93.9096
+  },
+  "url": "http://www.lesueurcountyhistory.org/",
+  "telephone": "+1 (507) 665-2050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700056",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

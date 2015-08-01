@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189305
+  },
+  "name": "Palazzo Collicola arti visive - Museo Carandente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Collicola, ",
+    "addressLocality": "Spoleto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.735&mlon=12.7343#map=15/42.735/12.7343",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.735,
+    "longitude": 12.7343
+  },
+  "url": "http://www.palazzocollicola.it",
+  "telephone": "+39 0743 46434",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mattina 10.00-13.00 Pomeriggio 14.30-17.00; CHIUSO il martedi",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YJCDE-x-6U8XjSON29zxKK59WkU=/1000x1000/museums/logos/000/189/305/original/af99e9b29ea29dfed0faaf86b9ace9fb2424a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108089",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

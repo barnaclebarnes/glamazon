@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190032
+  },
+  "name": "MIDWEST REGIONAL OFFICE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "601 RIVERFRONT DRIVE",
+    "addressLocality": "OMAHA",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2647&mlon=-95.9258#map=15/41.2647/-95.9258",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2647,
+    "longitude": -95.9258
+  },
+  "telephone": "+1 (402) 661-1936",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100378",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

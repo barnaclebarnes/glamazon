@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187237
+  },
+  "name": "Civica raccolta di Palazzo Fossa Mancini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Mazzini, 1",
+    "addressLocality": "Castelplanio",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4946&mlon=13.0817#map=15/43.4946/13.0817",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4946,
+    "longitude": 13.0817
+  },
+  "url": "http://www.musei.marche.it/web/RicercaMusei/DettagliMuseo.aspx?id=17",
+  "telephone": "+39 0731813401",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sabato 15/19; Domenica 10.30 - 12.30/ 15-19. Dal 1 luglio al 31 agosto dalle 17 alle 20; il sabato anche 21-23",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VHfF1aZbVo1UGs_bGYEJGVh9fEg=/1000x1000/museums/logos/000/187/237/original/2f59d392933447fe727e74895f641919c4f3e95.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104043",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

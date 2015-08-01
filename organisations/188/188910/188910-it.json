@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188910
+  },
+  "name": "Museo di Santa Chiara",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Roma, 15",
+    "addressLocality": "San Miniato",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7111&mlon=10.7816#map=15/43.7111/10.7816",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7111,
+    "longitude": 10.7816
+  },
+  "url": "http://www.comune.san-miniato.pi.it/ospiti/smsm/htm",
+  "telephone": "+39 057143050",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/o0caXw3ibI-4aoSjKeWrhVRo8bs=/1000x1000/museums/logos/000/188/910/original/47b5f982f52c8f89e88e06d7836736f2be117.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103162",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155836
+  },
+  "name": "DWIGHT D EISENHOWER SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4772",
+    "addressLocality": "GETTYSBURG",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17325-4772"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8286&mlon=-77.229#map=15/39.8286/-77.229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8286,
+    "longitude": -77.229
+  },
+  "url": "http://www.dwightdeisenhowersociety.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201030",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143500
+  },
+  "name": "SCARLET MACAW",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5888 SAWYER RD",
+    "addressLocality": "SAWYER",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49125"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8855&mlon=-86.5944#map=15/41.8855/-86.5944",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8855,
+    "longitude": -86.5944
+  },
+  "url": "http://www.scarletmacawcac.org",
+  "telephone": "+1 (269) 426-8226",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600037",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

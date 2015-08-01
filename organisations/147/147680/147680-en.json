@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147680
+  },
+  "name": "NEW JERSEY STATE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "205 W STATE ST",
+    "addressLocality": "TRENTON",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "08608"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2218&mlon=-74.7727#map=15/40.2218/-74.7727",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2218,
+    "longitude": -74.7727
+  },
+  "url": "http://www.njstatemuseum.org",
+  "telephone": "+1 (609) 292-6464",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/140503635095"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400048",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186325
+  },
+  "name": "Fondazione De Claricini-Dornpacher",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via B. Boiani, 4",
+    "addressLocality": "Moimacco",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.096&mlon=13.3932#map=15/46.096/13.3932",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.096,
+    "longitude": 13.3932
+  },
+  "url": "http://www.declaricini.it",
+  "telephone": "+39 0432733234",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/98YpJPYnkgMYd2hbdOWFtiqPGXg=/1000x1000/museums/logos/000/186/325/original/6e6242d6a8df1dcda15ae2f114542db59336e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100292",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

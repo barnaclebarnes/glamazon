@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186612
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Castello",
+    "addressLocality": "Santa Marinella",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0179&mlon=11.9598#map=15/42.0179/11.9598",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0179,
+    "longitude": 11.9598
+  },
+  "url": "http://www.museosantasevera.org",
+  "telephone": "+39 0766570077",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RIhtTRcfCyJc0RIqB-Q3okp-Tbs=/1000x1000/museums/logos/000/186/612/original/41f24bdd6fa33998e4b5b022e72143e71dde8225.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108180",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

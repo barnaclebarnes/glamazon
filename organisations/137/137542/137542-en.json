@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137542
+  },
+  "name": "PECATONICA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 298",
+    "addressLocality": "PECATONICA",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61063-0298"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3123&mlon=-89.3594#map=15/42.3123/-89.3594",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3123,
+    "longitude": -89.3594
+  },
+  "url": "http://communities.aeroinc.net/pecatonica/phs.htm",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700687",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

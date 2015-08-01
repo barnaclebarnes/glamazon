@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142778
+  },
+  "name": "BOSTON PRESERVATION ALLIANCE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "45 SCHOOL ST",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02108-3206"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3577&mlon=-71.0595#map=15/42.3577/-71.0595",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3577,
+    "longitude": -71.0595
+  },
+  "url": "http://bostonpreservation.org",
+  "telephone": "+1 (617) 367-2458",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500408",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129298
+  },
+  "name": "SCIENCE DOWNTOWN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "64 E BROADWAY",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85701-1812"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2211&mlon=-110.97#map=15/32.2211/-110.97",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2211,
+    "longitude": -110.97
+  },
+  "telephone": "+1 (520) 622-8595",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400200",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

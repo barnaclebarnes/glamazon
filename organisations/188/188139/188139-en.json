@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188139
+  },
+  "name": "The Civic Museum of Accadia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Borgo 16 , ",
+    "addressLocality": "Accadia",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1608&mlon=15.3378#map=15/41.1608/15.3378",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1608,
+    "longitude": 15.3378
+  },
+  "url": "http://www.comune.accadia.fg.it",
+  "telephone": "+39 0881981012",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/82flC2UZZVLkoaCX7Ca5wP-Dbew=/1000x1000/museums/logos/000/188/139/original/b1cba98378dc6d4da9bdda0b6cc6fe2ead84f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102358",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

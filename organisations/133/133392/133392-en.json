@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133392
+  },
+  "name": "DURANGO DISCOVERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1333 CAMINO DEL RIO",
+    "addressLocality": "DURANGO",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81301-5167"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2784&mlon=-107.88#map=15/37.2784/-107.88",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2784,
+    "longitude": -107.88
+  },
+  "telephone": "+1 (970) 422-2034",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/63889276653"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800568",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

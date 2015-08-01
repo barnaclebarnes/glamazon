@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142471
+  },
+  "name": "NORMAN ROCKWELL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9 MASSACHUSETTS 183",
+    "addressLocality": "STOCKBRIDGE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01262"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2819&mlon=-73.3102#map=15/42.2819/-73.3102",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2819,
+    "longitude": -73.3102
+  },
+  "url": "http://www.nrm.org/",
+  "telephone": "+1 (413) 298-4100",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/35014306604"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/NRockwellMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500101",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

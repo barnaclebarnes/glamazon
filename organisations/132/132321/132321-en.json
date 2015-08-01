@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132321
+  },
+  "name": "FRIENDS OF THE LOGGING MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3619",
+    "addressLocality": "ARNOLD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95223-3619"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3099&mlon=-120.278#map=15/38.3099/-120.278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3099,
+    "longitude": -120.278
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602447",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

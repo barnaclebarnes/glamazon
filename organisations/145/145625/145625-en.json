@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145625
+  },
+  "name": "LEXINGTON HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "112 S BUSINESS HIGHWAY 13",
+    "addressLocality": "LEXINGTON",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "64067"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1854&mlon=-93.8798#map=15/39.1854/-93.8798",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1854,
+    "longitude": -93.8798
+  },
+  "url": "http://www.lexingtonmuseum.org",
+  "telephone": "+1 (660) 259-6313",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900054",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

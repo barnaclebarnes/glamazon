@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156214
+  },
+  "name": "DISCOVERY SPACE OF CENTRAL PENNSYLVANIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 261",
+    "addressLocality": "STATE COLLEGE",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "16801-4867"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7922&mlon=-77.8588#map=15/40.7922/-77.8588",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7922,
+    "longitude": -77.8588
+  },
+  "url": "http://mydiscoveryspace.org",
+  "telephone": "+1 (814) 234-0200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201408",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

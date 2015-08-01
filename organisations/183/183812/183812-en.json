@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183812
+  },
+  "name": "Vogelmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Salzburger Straße 32",
+    "addressLocality": "Waging",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83329"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9339&mlon=12.7368#map=15/47.9339/12.7368",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9339,
+    "longitude": 12.7368
+  },
+  "url": "http://www.waging-am-see.de/tourismus/willkommen-am-waginger-see/vogelmuseum.html",
+  "telephone": "08681/313",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183812",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

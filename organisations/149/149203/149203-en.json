@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149203
+  },
+  "name": "COCOLART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "555 W 186TH ST APT 4C",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10033-2736"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.852&mlon=-73.9307#map=15/40.852/-73.9307",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.852,
+    "longitude": -73.9307
+  },
+  "telephone": "+1 (646) 225-0300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600497",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

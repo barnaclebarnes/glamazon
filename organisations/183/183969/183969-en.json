@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183969
+  },
+  "name": "Naturkunde-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Fleischstraße 2",
+    "addressLocality": "Bamberg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96047"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8945&mlon=10.888#map=15/49.8945/10.888",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8945,
+    "longitude": 10.888
+  },
+  "url": "http://www.naturkundemuseum-bamberg.de",
+  "telephone": "0951/86312-49",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183969",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

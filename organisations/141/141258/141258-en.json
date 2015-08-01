@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141258
+  },
+  "name": "CENTER FOR MAINE CONTEMPORARY ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "162 RUSSELL AVENUE",
+    "addressLocality": "ROCKPORT",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04856-0147"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1877&mlon=-69.0703#map=15/44.1877/-69.0703",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1877,
+    "longitude": -69.0703
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/146241204306"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300107",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

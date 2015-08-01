@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188665
+  },
+  "name": "Museo nazionale del Bargello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Proconsolo, 4",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7706&mlon=11.2579#map=15/43.7706/11.2579",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7706,
+    "longitude": 11.2579
+  },
+  "url": "http://www.polomuseale.firenze.it/musei/?m=bargello",
+  "telephone": "+39 0552388606",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriali e festivi 8.15 - 13.50",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/su8XbsUYZ1uyvEpnU-Ksw9hqQ3M=/1000x1000/museums/logos/000/188/665/original/87a6c7a9bb831b240c522f6e7adf6a8d167a2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20256",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182916
+  },
+  "name": "Museum der bayerischen Könige",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Alpseestraße 27",
+    "addressLocality": "Schwangau",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87645"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5538&mlon=10.7363#map=15/47.5538/10.7363",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5538,
+    "longitude": 10.7363
+  },
+  "url": "http://www.museum-hohenschwangau.de",
+  "telephone": "08362/887441",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182916",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

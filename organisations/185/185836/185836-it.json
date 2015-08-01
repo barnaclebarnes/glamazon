@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185836
+  },
+  "name": "Museo archeologico nazionale di Crotone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Risorgimento, 14",
+    "addressLocality": "Crotone",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0798&mlon=17.1298#map=15/39.0798/17.1298",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0798,
+    "longitude": 17.1298
+  },
+  "url": "http://www.archeocalabria.beniculturali.it/archeovirtualtour/calabriaweb/crotone5.htm",
+  "telephone": "+39 096223082  0962905625",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 19,30 ( Tutti i giorni )",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ay4yUMuePniHdBdlYQMlTGe0BgM=/1000x1000/museums/logos/000/185/836/original/90ef46fe82aa8987fc9c28ed7e6125e7fc9bd33.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20327",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

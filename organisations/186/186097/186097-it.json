@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186097
+  },
+  "name": "Museo archeologico provinciale di Salerno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Complesso Abbaziale San Benedetto - Via San Benedetto, 15",
+    "addressLocality": "Salerno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6786&mlon=14.7632#map=15/40.6786/14.7632",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6786,
+    "longitude": 14.7632
+  },
+  "telephone": "+39 089231135",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CkC7AugAxvrBi-RtXbaq6j0O1d8=/1000x1000/museums/logos/000/186/097/original/a3a614c891e1931c676150e05569809c4afc365c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101919",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189202
+  },
+  "name": "Raccolta d’arte della Cattedrale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Gramsci, 4",
+    "addressLocality": "Città della Pieve",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9523&mlon=12.0039#map=15/42.9523/12.0039",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9523,
+    "longitude": 12.0039
+  },
+  "url": "http://www.cittadellapieve.org/page10.html",
+  "telephone": "+39 0578298122",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zv5HaZx4-xYH_DG2gEz5B0hhg6A=/1000x1000/museums/logos/000/189/202/original/68c6f2763ae30db3aea4ca4cdd8a7757feec617.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105419",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

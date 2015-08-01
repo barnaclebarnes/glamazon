@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183721
+  },
+  "name": "Europäisches Flakon-Glasmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Glashüttenplatz 1",
+    "addressLocality": "Tettau",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96355"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.4721&mlon=11.2845#map=15/50.4721/11.2845",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.4721,
+    "longitude": 11.2845
+  },
+  "url": "http://www.glasbewahrer.de",
+  "telephone": "09269/77-100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183721",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

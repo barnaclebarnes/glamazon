@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186632
+  },
+  "name": "Museo archeologico di Vulci",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Vulci  ",
+    "addressLocality": "Canino",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4664&mlon=11.7507#map=15/42.4664/11.7507",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4664,
+    "longitude": 11.7507
+  },
+  "telephone": "+39 0761437787 - 063226571",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì alla domenica 8.30 - 19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4TFbdxcZZ8rK1wOqZehByvLmnZk=/1000x1000/museums/logos/000/186/632/original/871631c8a46402aef7fdc8036fe578953ab0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20341",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

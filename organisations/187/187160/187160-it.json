@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187160
+  },
+  "name": "Museo civico di Bormio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Buon Consiglio, 25",
+    "addressLocality": "Bormio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.47&mlon=10.3757#map=15/46.47/10.3757",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.47,
+    "longitude": 10.3757
+  },
+  "url": "http://www.comune.bormio.so.it",
+  "telephone": "+39 0343904141",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GCnPE0jyRFXkLmmIBp7x4W08nWo=/1000x1000/museums/logos/000/187/160/original/5a9280946222119e9a584b41c6eb817687ea16b3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103783",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

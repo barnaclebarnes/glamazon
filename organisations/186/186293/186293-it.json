@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186293
+  },
+  "name": "Museo sveviano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Madonna del mare, 13",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6469&mlon=13.7678#map=15/45.6469/13.7678",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6469,
+    "longitude": 13.7678
+  },
+  "url": "http://www.triestecultura.it",
+  "telephone": "+39 0406758182",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lun. e merc. 9.00/13.00 giov. 9.00/13.00 - 15.00/19.00 ven. e sab. 9.00/13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/83v4ysNdgxXmD_A0WZtPdlbCisc=/1000x1000/museums/logos/000/186/293/original/b5941df727fa83fba2e7a3bb2c534798ff0a6f2.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100254",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

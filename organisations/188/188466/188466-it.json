@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188466
+  },
+  "name": "Museo diocesano di Palermo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Matteo Bonello, 2",
+    "addressLocality": "Palermo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1137&mlon=13.3556#map=15/38.1137/13.3556",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1137,
+    "longitude": 13.3556
+  },
+  "url": "http://museodiocesanopa.it",
+  "telephone": "+39 0916077215",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da mart. a Ven. 9,30-13,30 sab. 10,00-18,00 dom. e festivi 9,30-13,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8zVcUL-OTMx1foGGz3C2os6K30E=/1000x1000/museums/logos/000/188/466/original/aa1e388058b11df9886740eae014ab66cea1318.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101316",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

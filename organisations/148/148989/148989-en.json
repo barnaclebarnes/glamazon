@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148989
+  },
+  "name": "FENIMORE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5798 STATE HIGHWAY 80",
+    "addressLocality": "COOPERSTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13326"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7162&mlon=-74.9284#map=15/42.7162/-74.9284",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7162,
+    "longitude": -74.9284
+  },
+  "url": "http://www.fenimoreartmuseum.org",
+  "telephone": "+1 (607) 547-1400",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/fenimoreartmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/FenimoreArt"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600283",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

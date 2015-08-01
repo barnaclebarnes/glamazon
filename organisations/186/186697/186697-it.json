@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186697
+  },
+  "name": "Museo di archeologia ligure",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pallavicini, 11",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4295&mlon=8.81732#map=15/44.4295/8.81732",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4295,
+    "longitude": 8.81732
+  },
+  "url": "http://www.museidigenova.it/spip.php?rubrique34",
+  "telephone": "+39 010/6981048; 010/6984045",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100385",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

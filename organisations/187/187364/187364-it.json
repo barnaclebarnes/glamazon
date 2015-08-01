@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187364
+  },
+  "name": "Pinacoteca comunale galleria d’arte moderna Marco Moretti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Annibal caro, 24",
+    "addressLocality": "Civitanova Marche",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3165&mlon=13.6796#map=15/43.3165/13.6796",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3165,
+    "longitude": 13.6796
+  },
+  "url": "http://www.pinacotecamoretti.it",
+  "telephone": "+39 0733891019",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da lunedì a sabato 9.00 - 13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NdLu5elqFoZ1plCIzf6bLgsffu8=/1000x1000/museums/logos/000/187/364/original/191214b66ca3da625db9e7d156fad068798fee.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104179",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

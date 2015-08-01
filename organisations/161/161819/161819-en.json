@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161819
+  },
+  "name": "WHATCOM COUNTY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2116",
+    "addressLocality": "BELLINGHAM",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98227-2116"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7539&mlon=-122.481#map=15/48.7539/-122.481",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7539,
+    "longitude": -122.481
+  },
+  "url": "http://www.whatcomhistory.net/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300268",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

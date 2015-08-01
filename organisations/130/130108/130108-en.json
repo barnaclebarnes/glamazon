@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130108
+  },
+  "name": "MUSEUM OF VISION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "655 BEACH ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8067&mlon=-122.42#map=15/37.8067/-122.42",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8067,
+    "longitude": -122.42
+  },
+  "url": "http://www.museumofvision.org",
+  "telephone": "+1 (415) 674-9911",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600234",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

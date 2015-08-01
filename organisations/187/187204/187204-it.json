@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187204
+  },
+  "name": "Museo civico di scienze naturali Mario Realini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via J. F. Kennedy, 2",
+    "addressLocality": "Malnate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.796&mlon=8.88406#map=15/45.796/8.88406",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.796,
+    "longitude": 8.88406
+  },
+  "url": "http://www.comune.malnate.va.it",
+  "telephone": "+39 0332275294",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/if5Gx7wDawOcEp0WfZ1yLQTKIvQ=/1000x1000/museums/logos/000/187/204/original/91cfa67a63c7cb0f676b3c35b158894ea28c01e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103830",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

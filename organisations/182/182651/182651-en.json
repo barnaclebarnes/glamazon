@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182651
+  },
+  "name": "Walhalla",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Walhallastraße 50",
+    "addressLocality": "Donaustauf",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93093"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0314&mlon=12.2241#map=15/49.0314/12.2241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0314,
+    "longitude": 12.2241
+  },
+  "url": "http://www.walhalla-regensburg.de",
+  "telephone": "09403/9616-80",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182651",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

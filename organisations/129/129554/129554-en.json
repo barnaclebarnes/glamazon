@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129554
+  },
+  "name": "CAVE CREEK MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1",
+    "addressLocality": "CAVE CREEK",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85327-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8281&mlon=-111.949#map=15/33.8281/-111.949",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8281,
+    "longitude": -111.949
+  },
+  "url": "http://www.cavecreekmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400456",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

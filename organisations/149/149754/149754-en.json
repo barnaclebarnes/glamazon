@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149754
+  },
+  "name": "SCHENECTADY MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 NOTT TERRACE HTS",
+    "addressLocality": "SCHENECTADY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12308-3143"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8126&mlon=-73.9333#map=15/42.8126/-73.9333",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8126,
+    "longitude": -73.9333
+  },
+  "url": "http://www.schenectadymuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601048",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

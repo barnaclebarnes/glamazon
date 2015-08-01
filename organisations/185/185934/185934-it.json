@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185934
+  },
+  "name": "Museo archeologico di Taurasi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Convento, 1",
+    "addressLocality": "Taurasi",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.008&mlon=14.9565#map=15/41.008/14.9565",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.008,
+    "longitude": 14.9565
+  },
+  "url": "http://www.museotaurasi.it",
+  "telephone": "+39 0827 74004",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Apertura su prenotazione: Telefono: 082774004 (Comune) / 3336064386",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DokJ3k1AaRSx69UTQBuUEWsIs-Q=/1000x1000/museums/logos/000/185/934/original/f74810f34692569d2b326e627a52f172658486c5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107093",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186675
+  },
+  "name": "Museo Lorenzo Garaventa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ravaschieri, 15",
+    "addressLocality": "Chiavari",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3179&mlon=9.32541#map=15/44.3179/9.32541",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3179,
+    "longitude": 9.32541
+  },
+  "url": "http://www.societaeconomica.it",
+  "telephone": "+39 0185/324713",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100349",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187328
+  },
+  "name": "Museo archeologico Antiquarium",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Libertà, 1",
+    "addressLocality": "Falerone",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1076&mlon=13.4718#map=15/43.1076/13.4718",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1076,
+    "longitude": 13.4718
+  },
+  "url": "http://www.parcoarcheologico.it",
+  "telephone": "+39 0734710750",
+  "contactPoint": [
+
+  ],
+  "openingHours": "giugno e ottobre, sabato e domenica 10-12 e 17-19; luglio e settembre, venerdì-domenica 10-12 e 17-19; agosto, 10-12 e 17-19; novembre-maggio, a richiesta",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rfPsg57PaZVstElbF2f1Cz7S1Qs=/1000x1000/museums/logos/000/187/328/original/202042f2396eea92c858bd9c6d84517121f9b8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104106",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164391
+  },
+  "name": "Trinity College Library",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.4713,
+    "longitude": 144.785
+  },
+  "url": "http://www.trinity.unimelb.edu.au/learning/resources/library.html",
+  "telephone": "03 9348 7469",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "trinity-college-library",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/trinity-college-library",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

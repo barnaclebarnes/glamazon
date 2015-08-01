@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140390
+  },
+  "name": "PENNYROYAL AREA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1093",
+    "addressLocality": "HOPKINSVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "42241-1093"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8651&mlon=-87.4878#map=15/36.8651/-87.4878",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8651,
+    "longitude": -87.4878
+  },
+  "url": "http://www.museumsofhopkinsville.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100147",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

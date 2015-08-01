@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149463
+  },
+  "name": "JAPAN SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "333 EAST 47TH STREET",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10017"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7527&mlon=-73.9691#map=15/40.7527/-73.9691",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7527,
+    "longitude": -73.9691
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/japansociety"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/japansociety"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600757",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

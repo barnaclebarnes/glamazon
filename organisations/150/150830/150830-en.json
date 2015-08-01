@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150830
+  },
+  "name": "RAMIREZ SOLAR HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "180 VARICK STREET SUITE1502",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10014-5865"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7274&mlon=-74.0055#map=15/40.7274/-74.0055",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7274,
+    "longitude": -74.0055
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602124",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

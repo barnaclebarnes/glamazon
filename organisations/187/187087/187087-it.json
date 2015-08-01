@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187087
+  },
+  "name": "Museo teatrale alla Scala",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Ghiringhelli, 1;\n Piazza Scala, ?",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4669&mlon=9.1896#map=15/45.4669/9.1896",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4669,
+    "longitude": 9.1896
+  },
+  "telephone": "+39 0288797473",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XqsVQ2iR5UfJcA_62qz76v0psgQ=/1000x1000/museums/logos/000/187/087/original/f32d23f7206af3c393df3bea9a3cd548d4514277.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103718",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

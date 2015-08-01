@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150222
+  },
+  "name": "SOUTH BRISTOL HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6500 W GANNETT HILL RD",
+    "addressLocality": "NAPLES",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14512"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7089&mlon=-77.382#map=15/42.7089/-77.382",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7089,
+    "longitude": -77.382
+  },
+  "url": "http://www.southbristolny.org/",
+  "telephone": "+1 (585) 374-6341",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601516",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

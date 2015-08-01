@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186921
+  },
+  "name": "Museo d'arte sacra di Ponte di Legno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Paolo VI, 1",
+    "addressLocality": "Ponte di Legno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.2595&mlon=10.5099#map=15/46.2595/10.5099",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.2595,
+    "longitude": 10.5099
+  },
+  "telephone": "+39 036491223",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì alla domenica 10.00/12.00 – 15.00/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/29sEjr6bo3LMmr4C7Tw_Y_ZOM5A=/1000x1000/museums/logos/000/186/921/original/8d6ae72681476d4dbe778e9911232925da13a9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103591",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

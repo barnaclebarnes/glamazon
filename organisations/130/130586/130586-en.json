@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130586
+  },
+  "name": "BALBOA PARK CULTURAL PARTNERSHIP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1549 EL PRADO STE 1",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101-1699"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7314&mlon=-117.15#map=15/32.7314/-117.15",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7314,
+    "longitude": -117.15
+  },
+  "url": "http://www.balboapark.org",
+  "telephone": "+1 (714) 816-6667",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Balboa_Park_(San_Diego)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600712",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

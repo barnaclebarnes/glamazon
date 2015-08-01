@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189477
+  },
+  "name": "Casa natale e Museo di San Pio X",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Pio X, 1",
+    "addressLocality": "Riese Pio X",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7288&mlon=11.9134#map=15/45.7288/11.9134",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7288,
+    "longitude": 11.9134
+  },
+  "url": "http://www.comune.riese-pio-x.tv.it",
+  "telephone": "+39 0423750040",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aaduhZ40qtG2XeJmS6OeGpWA330=/1000x1000/museums/logos/000/189/477/original/f15e105c3a2aa5b7e2ea74898b3339697ea9d10.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100989",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

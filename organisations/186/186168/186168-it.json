@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186168
+  },
+  "name": "Fotomuseo Giuseppe Panini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giardini, 160, ",
+    "addressLocality": "Modena",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6421&mlon=10.9161#map=15/44.6421/10.9161",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6421,
+    "longitude": 10.9161
+  },
+  "url": "http://www.fotomuseo.it",
+  "telephone": "+39 059224418",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5k2rsBu4Oevd7Spo6Vz45-jFNCs=/1000x1000/museums/logos/000/186/168/original/b0a89ae9f133b2771a993986738f1ef8f97b96.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103924",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

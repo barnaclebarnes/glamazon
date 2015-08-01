@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187530
+  },
+  "name": "Sale d'arte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Macchiavelli, 13",
+    "addressLocality": "Alessandria",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "url": "http://www.comune.alessandria.it",
+  "telephone": "+39 0131 515921",
+  "contactPoint": [
+
+  ],
+  "openingHours": "giovedì dalle 15,00 alle 18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/awLJSnuAJ0RSNzmRuvG3dZI6JMw=/1000x1000/museums/logos/000/187/530/original/fb5d5be5791745cf73c8122bb0e3cef553b9b9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102436",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189794
+  },
+  "name": "GREAT LAKES NAVAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "610 FARRAGUT AVENUE BUILDING 42",
+    "addressLocality": "GREAT LAKES",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60088"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9675&mlon=-91.5805#map=15/41.9675/-91.5805",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9675,
+    "longitude": -91.5805
+  },
+  "url": "http://www.history.navy.mil/glnm",
+  "telephone": "+1 (847) 688-3154",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701361",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

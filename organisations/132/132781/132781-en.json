@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132781
+  },
+  "name": "PUTNAM FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1500 EL PRADO",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101-1620"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7315&mlon=-117.15#map=15/32.7315/-117.15",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7315,
+    "longitude": -117.15
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602907",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

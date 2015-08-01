@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186561
+  },
+  "name": "Museo delle cere di Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santi Apostoli, 68a",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8976&mlon=12.4833#map=15/41.8976/12.4833",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8976,
+    "longitude": 12.4833
+  },
+  "url": "http://www.museodellecereroma.com",
+  "telephone": "+39 066796482",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QR6O3PpOY7kTghoM51eQwVRMKnA=/1000x1000/museums/logos/000/186/561/original/703c4529cc74eca8e3a7919ab35eb11de2c33e7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101556",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

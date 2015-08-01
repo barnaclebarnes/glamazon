@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187075
+  },
+  "name": "Museo della Permanente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Turati, 34",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4767&mlon=9.19538#map=15/45.4767/9.19538",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4767,
+    "longitude": 9.19538
+  },
+  "url": "http://www.lapermanente.it",
+  "telephone": "+39 026551445",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hGPSZkK8eBXh74PNniTVnP6sXw0=/1000x1000/museums/logos/000/187/075/original/fdbbba56e7e31b3f3a9945ce75ecf64f941b2f6d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103709",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189370
+  },
+  "name": "Museo del motorismo ternano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Bertani, 4",
+    "addressLocality": "Terni",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5644&mlon=12.6572#map=15/42.5644/12.6572",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5644,
+    "longitude": 12.6572
+  },
+  "telephone": "+39 0744 403365",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/idKjCSOVFelJAuQJbGGljkD5vKc=/1000x1000/museums/logos/000/189/370/original/dfa631c051dbc5b3bc568804a5cefaf2c917f4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108063",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

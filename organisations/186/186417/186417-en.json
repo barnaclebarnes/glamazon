@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186417
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Parco di San Martino, SP San Martino, 10",
+    "addressLocality": "Priverno",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4699&mlon=13.1833#map=15/41.4699/13.1833",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4699,
+    "longitude": 13.1833
+  },
+  "url": "http://www.museomatpriverno.it",
+  "telephone": "+39 0773904601",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/95Q9rNkLyT872PXGZW-V1ksHys8=/1000x1000/museums/logos/000/186/417/original/4dcdd9fdd78652599e1bfa126ba12b7b21d8e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101439",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

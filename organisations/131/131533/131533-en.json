@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131533
+  },
+  "name": "CARTOON ART MUSEUM OF CALIFORNIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "655 MISSION ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94105-4126"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.787&mlon=-122.401#map=15/37.787/-122.401",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.787,
+    "longitude": -122.401
+  },
+  "url": "http://www.cartoonart.org",
+  "telephone": "+1 (415) 227-8666",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aQ9SyF6E_o8GunvraoqRds1y_R4=/1000x1000/museums/logos/000/131/533/original/Cartoon_Art_Museum.jpeg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Tfinc\" title=\"User:Tfinc\">User:Tfinc</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Cartoon_Art_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601659",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

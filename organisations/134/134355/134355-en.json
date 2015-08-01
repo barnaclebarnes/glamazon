@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134355
+  },
+  "name": "NATIONAL BUILDING MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "401 F ST NW 4TH FLOOR",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20001-2637"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8973&mlon=-77.0176#map=15/38.8973/-77.0176",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8973,
+    "longitude": -77.0176
+  },
+  "url": "http://www.nbm.org",
+  "telephone": "+1 (202) 272-2448",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/NationalBuildingMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/BuildingMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100136",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

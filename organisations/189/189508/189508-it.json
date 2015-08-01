@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189508
+  },
+  "name": "Museo d’arte orientale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "santa croce",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.434&mlon=12.3042#map=15/45.434/12.3042",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.434,
+    "longitude": 12.3042
+  },
+  "telephone": "+39 0415241173",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da Martedì a Domenica: 10.00 - 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "8,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lryw10wsJF1a7Cr280bTe5F11fw=/1000x1000/museums/logos/000/189/508/original/ecbab35f38318f5ac6d36faa723f15c66b4c288.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107780",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185890
+  },
+  "name": "Museo parrocchiale San Biagio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Biagio",
+    "addressLocality": "Serra San Bruno",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5783&mlon=16.3324#map=15/38.5783/16.3324",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5783,
+    "longitude": 16.3324
+  },
+  "url": "http://www.comune.serrasanbruno.vv.it",
+  "telephone": "+39 0963 71287",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yJvPBHIClQ8ePo66mNeFINt5ohU=/1000x1000/museums/logos/000/185/890/original/713165284a58b92b74a6d8ce6d456121c22e41f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111066",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

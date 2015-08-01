@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145316
+  },
+  "name": "MISSISSIPPI MUSEUM OF NATURAL SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2148 RIVERSIDE DRIVE",
+    "addressLocality": "JACKSON",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "39202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.3234&mlon=-90.1603#map=15/32.3234/-90.1603",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.3234,
+    "longitude": -90.1603
+  },
+  "url": "http://www.mdwfp.com/museum/",
+  "telephone": "+1 (601) 354-7303",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/359359733065"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800023",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

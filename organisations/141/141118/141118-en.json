@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141118
+  },
+  "name": "UNIVERSITY OF LOUISIANA AT LAFAYETTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "104 UNIVERSITY CIRCLE",
+    "addressLocality": "LAFAYETTE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70504"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.2198&mlon=-92.0467#map=15/30.2198/-92.0467",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.2198,
+    "longitude": -92.0467
+  },
+  "url": "http://www.louisiana.edu",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200401",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

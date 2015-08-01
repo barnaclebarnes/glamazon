@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185932
+  },
+  "name": "Museo dell’opera dell’area Castello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello snc, ",
+    "addressLocality": "Sant'Angelo dei Lombardi",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9288&mlon=15.1784#map=15/40.9288/15.1784",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9288,
+    "longitude": 15.1784
+  },
+  "url": "http://www.comune.santangelodeilombardi.av.it",
+  "telephone": "+39 0827 23094",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bJRCn6PHEuKLowdIoOUUe0TkPDA=/1000x1000/museums/logos/000/185/932/original/7b5ccdc7287452072023628e58872a94393659.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107089",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

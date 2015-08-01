@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153302
+  },
+  "name": "PACKARD MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1899 MAHONING AVE NW",
+    "addressLocality": "WARREN",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44483-2081"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2507&mlon=-80.8292#map=15/41.2507/-80.8292",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2507,
+    "longitude": -80.8292
+  },
+  "url": "http://www.packardmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901080",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

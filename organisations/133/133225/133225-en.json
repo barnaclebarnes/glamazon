@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133225
+  },
+  "name": "MESA VERDE MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 38",
+    "addressLocality": "MESA VERDE",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81330-0038"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2986&mlon=-108.419#map=15/37.2986/-108.419",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2986,
+    "longitude": -108.419
+  },
+  "url": "http://www.mesaverde.org",
+  "telephone": "+1 (970) 529-4445",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800401",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

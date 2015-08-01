@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164266
+  },
+  "name": "RSL Waverley Sub Branch",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8802&mlon=145.163#map=15/-37.8802/145.163",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8802,
+    "longitude": 145.163
+  },
+  "url": "http://waverleyrsl.com.au/about/",
+  "telephone": "03 9803 2872",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10am till late",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "waverley-rsl",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/waverley-rsl",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

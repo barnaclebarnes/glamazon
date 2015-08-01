@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186687
+  },
+  "name": "Civico museo biblioteca dell'attore",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale IV Novembre, 3",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4087&mlon=8.93927#map=15/44.4087/8.93927",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4087,
+    "longitude": 8.93927
+  },
+  "url": "http://www.museoattore.it",
+  "telephone": "+39 010/586681; 010/5533202",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100357",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

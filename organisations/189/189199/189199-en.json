@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189199
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Piave, ",
+    "addressLocality": "Città della Pieve",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0038&mlon=11.9549#map=15/43.0038/11.9549",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0038,
+    "longitude": 11.9549
+  },
+  "telephone": "+39 0578 299375",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/avawcHAbcBLTg0Csjld7cKSCtqA=/1000x1000/museums/logos/000/189/199/original/2b19c02bb4b4e8bca0e4dbee78f5eea7d4a498.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108047",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

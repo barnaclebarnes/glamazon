@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145145
+  },
+  "name": "GREAT RIVER GREENING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "35 WATER ST W STE 201",
+    "addressLocality": "SAINT PAUL",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55107-2016"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9392&mlon=-93.0905#map=15/44.9392/-93.0905",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9392,
+    "longitude": -93.0905
+  },
+  "url": "http://www.greatrivergreening.org",
+  "telephone": "+1 (651) 665-9500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700585",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

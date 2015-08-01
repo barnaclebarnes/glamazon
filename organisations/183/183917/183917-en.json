@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183917
+  },
+  "name": "Lutherstiege",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Im Annahof 2",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3677&mlon=10.895#map=15/48.3677/10.895",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3677,
+    "longitude": 10.895
+  },
+  "url": "http://www.st-anna-augsburg.de/lutherstiege",
+  "telephone": "0821/450175100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183917",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

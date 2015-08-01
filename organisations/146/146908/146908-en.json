@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146908
+  },
+  "name": "LINCOLN CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1420 P ST",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68508-1635"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8147&mlon=-96.7002#map=15/40.8147/-96.7002",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8147,
+    "longitude": -96.7002
+  },
+  "url": "http://lincolnchildrensmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100247",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

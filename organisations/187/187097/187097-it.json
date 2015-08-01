@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187097
+  },
+  "name": "Raccolte d'arte dell'Ospedale Maggiore",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Francesco Sforza, 28",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4606&mlon=9.19629#map=15/45.4606/9.19629",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4606,
+    "longitude": 9.19629
+  },
+  "url": "http://policlinico.mi.it",
+  "telephone": "+39 0255038277",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sJuSK85fOAgJTzy7jkCRz6UzThc=/1000x1000/museums/logos/000/187/097/original/efd1c0aa31a1e12622cf0a7c465cca6c2bbec68.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103722",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142294
+  },
+  "name": "BALTIMORE MUSEUM OF ART INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 ART MUSEUM DR",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21218-3898"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.325&mlon=-76.6196#map=15/39.325/-76.6196",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.325,
+    "longitude": -76.6196
+  },
+  "url": "http://www.artbma.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400587",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

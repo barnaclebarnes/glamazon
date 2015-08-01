@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184017
+  },
+  "name": "Museum Blauer Anger",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochfellnstraße 42",
+    "addressLocality": "Bergen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83346"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.801&mlon=12.5901#map=15/47.801/12.5901",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.801,
+    "longitude": 12.5901
+  },
+  "telephone": "08662/3209",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184017",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

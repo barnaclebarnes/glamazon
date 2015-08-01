@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186512
+  },
+  "name": "Biblioteca e raccolta teatrale del Burcardo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Sudario, 44",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.896&mlon=12.4754#map=15/41.896/12.4754",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.896,
+    "longitude": 12.4754
+  },
+  "url": "http://www.burcardo.org",
+  "telephone": "+39 06 6819471",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e giovedì dalle 9,15 alle 16,30 su prenotazione anche altri orari",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MyyAMbzLilYSjs0SeaChkdqhW_g=/1000x1000/museums/logos/000/186/512/original/3557cb81fcf7fa9a549c48841e4237a695d89cb.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101598",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

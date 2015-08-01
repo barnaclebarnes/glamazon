@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190404
+  },
+  "name": "NATURAL HISTORY MUSEUM OF UTAH",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 WAKARA WAY",
+    "addressLocality": "SALT LAKE CITY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.3292&mlon=-89.3355#map=15/31.3292/-89.3355",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.3292,
+    "longitude": -89.3355
+  },
+  "url": "http://www.nhmu.utah.edu",
+  "telephone": "+1 (801) 581-6927",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900261",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

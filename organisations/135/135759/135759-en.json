@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135759
+  },
+  "name": "ONE MUSEUM PLACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1315 PEACHTREE ST NE",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30309"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7905&mlon=-84.3851#map=15/33.7905/-84.3851",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7905,
+    "longitude": -84.3851
+  },
+  "telephone": "+1 (770) 996-6065",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300030",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

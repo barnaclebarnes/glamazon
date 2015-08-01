@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138174
+  },
+  "name": "MIDWEST MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "425 W STATE ST",
+    "addressLocality": "SYCAMORE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60178-1410"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9891&mlon=-88.6892#map=15/41.9891/-88.6892",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9891,
+    "longitude": -88.6892
+  },
+  "url": "http://www.mmnh.org",
+  "telephone": "+1 (815) 895-9777",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701319",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

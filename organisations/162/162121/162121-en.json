@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162121
+  },
+  "name": "SEATTLE METROPOLITAN POLICE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "317 3RD AVE S",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98104-2620"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5997&mlon=-122.33#map=15/47.5997/-122.33",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5997,
+    "longitude": -122.33
+  },
+  "url": "http://www.seametropolicemuseum.org",
+  "telephone": "+1 (206) 748-9991",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300570",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

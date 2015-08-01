@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131128
+  },
+  "name": "LOMA LINDA AREA PARKS AND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 516",
+    "addressLocality": "LOMA LINDA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92354"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0503&mlon=-117.253#map=15/34.0503/-117.253",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0503,
+    "longitude": -117.253
+  },
+  "url": "http://lomalindahistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601254",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

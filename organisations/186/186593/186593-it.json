@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186593
+  },
+  "name": "Museo storico dei granatieri di Sardegna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santa Croce in Gerusalemme, 7",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8889&mlon=12.5143#map=15/41.8889/12.5143",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8889,
+    "longitude": 12.5143
+  },
+  "telephone": "+39 067028287",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì - sabato dalle ore 9.00 alle ore 12.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/O_K6HP_NB1JH4WgcSOJBIIU3lI4=/1000x1000/museums/logos/000/186/593/original/9cebfbf3d2cfb7415838a8530233ca0a578cddc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101589",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

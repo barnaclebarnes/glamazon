@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182715
+  },
+  "name": "Archäologisches Museum Essenbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausplatz 14",
+    "addressLocality": "Essenbach",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84051"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.6123&mlon=12.2164#map=15/48.6123/12.2164",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.6123,
+    "longitude": 12.2164
+  },
+  "url": "http://www.essenbach.de/archaeolog-museum.html",
+  "telephone": "08703/8080",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182715",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

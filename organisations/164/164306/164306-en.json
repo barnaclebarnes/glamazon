@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164306
+  },
+  "name": "Sovereign Hill and Gold Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.5743&mlon=143.867#map=15/-37.5743/143.867",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.5743,
+    "longitude": 143.867
+  },
+  "url": "http://www.sovereignhill.com.au/",
+  "telephone": "(03) 5337 1107",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Daily 9.30am to 5.30pm; to 6.00pm during daylight saving",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "gold-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/gold-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

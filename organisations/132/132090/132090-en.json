@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132090
+  },
+  "name": "THE DISCOVERY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1937 N WINERY AVE",
+    "addressLocality": "FRESNO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93703-2828"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.7678&mlon=-119.732#map=15/36.7678/-119.732",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.7678,
+    "longitude": -119.732
+  },
+  "url": "http://thediscoverycenter.net",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602216",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

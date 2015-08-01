@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142643
+  },
+  "name": "PAUL REVERE MEMORIAL ASSOC CORP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "19 NORTH SQ",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02113-2405"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3637&mlon=-71.0536#map=15/42.3637/-71.0536",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3637,
+    "longitude": -71.0536
+  },
+  "url": "http://www.paulreverehouse.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500273",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

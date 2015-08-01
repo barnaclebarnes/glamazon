@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186407
+  },
+  "name": "Museo del paesaggio di Maenza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Portella, ",
+    "addressLocality": "Maenza",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5231&mlon=13.1821#map=15/41.5231/13.1821",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5231,
+    "longitude": 13.1821
+  },
+  "telephone": "+39 0773 951310",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/q3MEcdu830QGMwVEiOHEPOrxTRI=/1000x1000/museums/logos/000/186/407/original/837cccc245bd4466a31f2416e4252417df7176cf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108229",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

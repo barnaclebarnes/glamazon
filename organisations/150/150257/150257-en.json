@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150257
+  },
+  "name": "MEDINA RAILROAD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 136",
+    "addressLocality": "MEDINA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14103-1554"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2183&mlon=-78.3888#map=15/43.2183/-78.3888",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2183,
+    "longitude": -78.3888
+  },
+  "url": "http://railroadmuseum.net/wp",
+  "telephone": "+1 (585) 798-6106",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601551",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188353
+  },
+  "name": "Museo civico archeologico di Padria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nazionale, SNC",
+    "addressLocality": "Padria",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3975&mlon=8.63094#map=15/40.3975/8.63094",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3975,
+    "longitude": 8.63094
+  },
+  "url": "http://www.padriantica.it",
+  "telephone": "+39 079 807018",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,00-13,00 martedì e domenica; 15,30-19,30 mercoledì, venerdì e sabato",
+  "offers": {
+    "@Type": "Offer",
+    "description": "1,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iqm3fxT_Ua0I9gFm3Eswypomcyw=/1000x1000/museums/logos/000/188/353/original/2a12205c55ce876cad542d9135a7e9148b06c2d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103461",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189271
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fatebenefratelli, 2",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.108&mlon=12.3872#map=15/43.108/12.3872",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.108,
+    "longitude": 12.3872
+  },
+  "url": "http://www.studiomoretticaselli.it",
+  "telephone": "+39 0755720017",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MGkksJPOJIwAeVhMUgJ2fMdRjAA=/1000x1000/museums/logos/000/189/271/original/ad6ab0c071565c05657c5d123f1d48c854375b6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100736",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186007
+  },
+  "name": "Museo civico Castelnuovo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Emanuele III snc, ",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8411&mlon=14.2556#map=15/40.8411/14.2556",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8411,
+    "longitude": 14.2556
+  },
+  "url": "http://www.comune.napoli.it",
+  "telephone": "+39 0817955877",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Z4k0g2zqxqafUGh_Eq0w4ybihUY=/1000x1000/museums/logos/000/186/007/original/b795898d5a1d7ba703a50b11e4bf71160c2cbdc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105954",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

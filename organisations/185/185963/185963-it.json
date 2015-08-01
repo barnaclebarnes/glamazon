@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185963
+  },
+  "name": "Museo dell’opera e del territorio - Reggia di Caserta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Dohuet, 2/a ",
+    "addressLocality": "Caserta",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0725&mlon=14.3214#map=15/41.0725/14.3214",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0725,
+    "longitude": 14.3214
+  },
+  "url": "http://www.reggiadicaserta.beniculturali.it",
+  "telephone": "+39 0823277111",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2zNXKUWMSuk4sG82HV_Rr3WkXgc=/1000x1000/museums/logos/000/185/963/original/cf44c234f9b0f8767ebaf69344d09e6b4c67797.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108192",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

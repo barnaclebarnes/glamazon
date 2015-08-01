@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186467
+  },
+  "name": "Museo civico archeologico di Campagniano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vittorio Emanuele II, 2",
+    "addressLocality": "Campagnano di Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1389&mlon=12.3811#map=15/42.1389/12.3811",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1389,
+    "longitude": 12.3811
+  },
+  "url": "http://www.comunecampagnano.it",
+  "telephone": "+39 06 9042924",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105517",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

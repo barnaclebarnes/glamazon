@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131062
+  },
+  "name": "FULLERTON ARBORETUM AUTHORITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 N STATE COLLEGE BLVD",
+    "addressLocality": "FULLERTON",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92831-3547"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8797&mlon=-117.89#map=15/33.8797/-117.89",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8797,
+    "longitude": -117.89
+  },
+  "url": "http://www.arboretum.fullerton.edu",
+  "telephone": "+1 (657) 278-3407",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Do_ZDmedx82RV9ABsfeITvHJFRE=/1000x1000/museums/logos/000/131/062/original/Arboretum_023.jpg",
+    "creator": "Photographed and uploaded by user:Geographer.",
+    "license": "CC-BY-SA-3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Fullerton_Arboretum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601188",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

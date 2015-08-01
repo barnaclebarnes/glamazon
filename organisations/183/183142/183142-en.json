@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183142
+  },
+  "name": "Schloss Mespelbrunn",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßhof 1",
+    "addressLocality": "Mespelbrunn",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63875"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9054&mlon=9.30752#map=15/49.9054/9.30752",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9054,
+    "longitude": 9.30752
+  },
+  "url": "http://www.schloss-mespelbrunn.de/start.html",
+  "telephone": "06092/269",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183142",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

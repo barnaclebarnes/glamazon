@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186344
+  },
+  "name": "Centro storiografico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sauris di Sotto, 2",
+    "addressLocality": "Sauris",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4681&mlon=12.6855#map=15/46.4681/12.6855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4681,
+    "longitude": 12.6855
+  },
+  "telephone": "+39 0433866375",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì 9.00/13.00, mercoledì e sabato 15.30/17.30; altri gg. su prenotazione",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zCrmDvW5qbfqncoBx8kKuNuzAwU=/1000x1000/museums/logos/000/186/344/original/09cfa759aa2dea88ba67b5a3ef9a60bc384c38.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100314",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

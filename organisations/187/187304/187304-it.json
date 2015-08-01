@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187304
+  },
+  "name": "Museo civico Convento S. Francesco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Marconi, 2",
+    "addressLocality": "Monsampolo del Tronto",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "url": "http://www.comune.monsampolodeltronto.ap.it",
+  "telephone": "+39 0735704116",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/R0c6PtWc2f3FBqCOnJv09Yari4c=/1000x1000/museums/logos/000/187/304/original/91c48445dd21574ffbb8a7849573374cbb6e86.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104120",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

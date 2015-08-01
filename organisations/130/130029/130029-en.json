@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130029
+  },
+  "name": "SAN FRANCISCO AIRPORT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "670 W FIELD RD",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94128"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6218&mlon=-122.399#map=15/37.6218/-122.399",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6218,
+    "longitude": -122.399
+  },
+  "url": "http://www.flysfo.com/web/page/index.jsp",
+  "telephone": "+1 (650) 821-6700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600155",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

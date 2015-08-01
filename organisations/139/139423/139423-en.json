@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139423
+  },
+  "name": "NEWELL HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 5",
+    "addressLocality": "NEWELL",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50568"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6187&mlon=-94.9842#map=15/42.6187/-94.9842",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6187,
+    "longitude": -94.9842
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900460",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

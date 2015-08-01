@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161159
+  },
+  "name": "THE CORPORATION FOR JEFFERSONS POPLAR FOREST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 419",
+    "addressLocality": "FOREST",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24551-0419"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3548&mlon=-79.2749#map=15/37.3548/-79.2749",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3548,
+    "longitude": -79.2749
+  },
+  "url": "http://www.poplarforest.org",
+  "telephone": "+1 (434) 525-1806",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100665",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186119
+  },
+  "name": "Museo d’arte sacra del Santuario del Piratello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Emilia Ponente, 27",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5056&mlon=11.3091#map=15/44.5056/11.3091",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5056,
+    "longitude": 11.3091
+  },
+  "url": "http://www.santuariodelpiratello.it",
+  "telephone": "+39 0542 40455",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su appuntamento",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111125",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

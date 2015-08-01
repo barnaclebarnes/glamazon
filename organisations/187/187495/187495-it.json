@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187495
+  },
+  "name": "Erbario",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Contrada Fonte Lappone, ",
+    "addressLocality": "Campobasso",
+    "addressRegion": "Molise",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5601&mlon=14.6648#map=15/41.5601/14.6648",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5601,
+    "longitude": 14.6648
+  },
+  "url": "http://www.unimol.it",
+  "telephone": "+39 0874404667 - 0874404700",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Apertura su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100480",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

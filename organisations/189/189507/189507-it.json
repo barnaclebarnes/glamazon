@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189507
+  },
+  "name": "Museo di storia naturale di Venezia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Santa Croce 1730, ",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.442&mlon=12.3279#map=15/45.442/12.3279",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.442,
+    "longitude": 12.3279
+  },
+  "url": "http://msn.visitmuve.it/",
+  "telephone": "+39 0412750206",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4UTFreqWVFO8gyY2ysCvwmJj63I=/1000x1000/museums/logos/000/189/507/original/9a2ddcaea4883fb0bde8435bfb4e366b96cef8c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101024",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

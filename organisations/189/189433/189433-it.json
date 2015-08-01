@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189433
+  },
+  "name": "Museo civico della navigazione fluviale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ortazzo, 63",
+    "addressLocality": "Battaglia Terme",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2873&mlon=11.7878#map=15/45.2873/11.7878",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2873,
+    "longitude": 11.7878
+  },
+  "url": "http://museonavigazione.eu",
+  "telephone": "+39 049525170",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LruN0ornq-tPJeBJyQeUztkuVos=/1000x1000/museums/logos/000/189/433/original/a5744f8ca6622751ae3430481f33e9566f66c5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100897",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

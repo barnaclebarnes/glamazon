@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187209
+  },
+  "name": "Collezione Francesco De Rocchi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 20",
+    "addressLocality": "Saronno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6253&mlon=9.04022#map=15/45.6253/9.04022",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6253,
+    "longitude": 9.04022
+  },
+  "url": "http://www.ilchiostroarte.it",
+  "telephone": "+39 0296710246",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a venerdì 16.00/19.00 sabato e domenica 10.00/12.00 pomeriggio su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SM65YMv27Yv9bK9W_PuGR9cYi7w=/1000x1000/museums/logos/000/187/209/original/51b278fe203be443f71260462b1e486073adce3a.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103834",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

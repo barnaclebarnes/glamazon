@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187690
+  },
+  "name": "Museo ferroviario",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Stazione Ferroviaria-Deposito Personale Viaggiante, Piazzale Libertà, 10, ",
+    "addressLocality": "Cuneo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3873&mlon=7.53638#map=15/44.3873/7.53638",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3873,
+    "longitude": 7.53638
+  },
+  "url": "http://www.dlfcuneo.net",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106607",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186521
+  },
+  "name": "Ecomuseo del litorale romano (Polo ostiense)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Fosso di Dragoncello, 172",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7563&mlon=12.3299#map=15/41.7563/12.3299",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7563,
+    "longitude": 12.3299
+  },
+  "url": "http://www.crt-ecomuseo.it",
+  "telephone": "+39 065651764",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6kBs8zjGPHY4j0-qmy4LXchJrW0=/1000x1000/museums/logos/000/186/521/original/b3f0faccf3ecf2311b4b5f28657dbbc63b7f8b89.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101525",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

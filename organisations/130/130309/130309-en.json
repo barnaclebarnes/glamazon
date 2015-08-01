@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130309
+  },
+  "name": "FORT CROOK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "43030 FORT CROOK AVENUE",
+    "addressLocality": "FALL RIVER MILLS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "96028"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0027&mlon=-121.447#map=15/41.0027/-121.447",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0027,
+    "longitude": -121.447
+  },
+  "telephone": "+1 (916) 336-5110",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TFMGODDhHMzBNHtf-Hp3cHcPyuY=/1000x1000/museums/logos/000/130/309/original/General_George_Crook_House_in_Fort_Omaha.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/General_Crook_House",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600435",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

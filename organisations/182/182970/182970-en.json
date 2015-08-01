@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182970
+  },
+  "name": "Heimatmuseum Kastl",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hohenburger Straße 44",
+    "addressLocality": "Kastl",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92280"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.3663&mlon=11.6932#map=15/49.3663/11.6932",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.3663,
+    "longitude": 11.6932
+  },
+  "url": "http://www.kastl.de/heimatmuseum.php",
+  "telephone": "09625/91173",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182970",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

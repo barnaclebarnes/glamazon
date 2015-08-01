@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150840
+  },
+  "name": "FRIENDS OF BOGARDUS GARDEN INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "90 WEST BROADWAY APT 4",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7154&mlon=-74.0093#map=15/40.7154/-74.0093",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7154,
+    "longitude": -74.0093
+  },
+  "url": "http://www.bogardusgarden.org",
+  "telephone": "+1 (212) 676-0220",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602134",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

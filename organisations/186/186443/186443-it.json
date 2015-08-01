@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186443
+  },
+  "name": "Museo della nostra terra di Leonessa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Comunale di Ocre Leonessa, 79",
+    "addressLocality": "Leonessa",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5666&mlon=12.9625#map=15/42.5666/12.9625",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5666,
+    "longitude": 12.9625
+  },
+  "url": "http://www.cta.unisi.it/metl/lazio/comuni/leonessa/ocre",
+  "telephone": "+39 335465412",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YDfzXmsLafmfVNwiNZNsLsjgBfg=/1000x1000/museums/logos/000/186/443/original/532940ff65c7e1a3ea62953937c98c9835dedb28.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101464",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

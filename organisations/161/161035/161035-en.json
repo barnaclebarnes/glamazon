@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161035
+  },
+  "name": "U S HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4019 MACARTHUR AVE",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23227-4050"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5891&mlon=-77.4582#map=15/37.5891/-77.4582",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5891,
+    "longitude": -77.4582
+  },
+  "url": "http://www.vamuseums.org/",
+  "telephone": "+1 (804) 262-9403",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100541",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

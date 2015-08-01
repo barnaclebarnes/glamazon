@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153109
+  },
+  "name": "CLEVELAND MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 WADE OVAL DR",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44106-1701"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.51&mlon=-81.61#map=15/41.51/-81.61",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.51,
+    "longitude": -81.61
+  },
+  "url": "http://www.cmnh.org",
+  "telephone": "+1 (216) 231-1706",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/theCMNH"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/goCMNH"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900887",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

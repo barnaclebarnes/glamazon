@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186377
+  },
+  "name": "Museo archeologico di Frosinone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XX Settembre, 32",
+    "addressLocality": "Frosinone",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6394&mlon=13.3524#map=15/41.6394/13.3524",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6394,
+    "longitude": 13.3524
+  },
+  "telephone": "+39 0775212314",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EVdEUhCxf4IXa96mMiG9pnvVRB4=/1000x1000/museums/logos/000/186/377/original/87d92a193e12c65d2bfae657d662955d2f4d7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101415",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

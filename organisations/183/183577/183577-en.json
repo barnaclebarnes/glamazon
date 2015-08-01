@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183577
+  },
+  "name": "Hexenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorfstraße 22",
+    "addressLocality": "Ringelai",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94160"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8142&mlon=13.4714#map=15/48.8142/13.4714",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8142,
+    "longitude": 13.4714
+  },
+  "url": "http://www.ringelai.de/kultur/hexenmuseum.html",
+  "telephone": "08555/258",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183577",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

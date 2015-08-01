@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153451
+  },
+  "name": "MASSILLON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "121 LINCOLN WAY E",
+    "addressLocality": "MASSILLON",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44646-6633"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7969&mlon=-81.5217#map=15/40.7969/-81.5217",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7969,
+    "longitude": -81.5217
+  },
+  "url": "http://www.massillonmuseum.org",
+  "telephone": "+1 (330) 833-4061",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/49154590863"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/massmu"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901229",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

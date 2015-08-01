@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186286
+  },
+  "name": "Museo e archivio degli sloveni in Italia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Petronio, 4",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6439&mlon=13.7862#map=15/45.6439/13.7862",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6439,
+    "longitude": 13.7862
+  },
+  "url": "http://http://www.visit-trieste.it/it/visita/arte-e-cultura/31-musei/170-museo-degli-sloveni-in-italia.html",
+  "telephone": "+39 040632663",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da lunedì a sabato 8.00/13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uImzheBFb6_P8Y3FFUtnNFYGksM=/1000x1000/museums/logos/000/186/286/original/79ae3f51c898d1c1067c7d98a5642b154632351.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100248",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153446
+  },
+  "name": "TOLEDO MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2445 MONROE ST",
+    "addressLocality": "TOLEDO",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43620-1517"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6587&mlon=-83.5582#map=15/41.6587/-83.5582",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6587,
+    "longitude": -83.5582
+  },
+  "url": "http://www.toledomuseum.org",
+  "telephone": "+1 (419) 255-8000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901224",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

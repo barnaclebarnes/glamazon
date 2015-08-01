@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187365
+  },
+  "name": "Museo della memoria \"Renzo Contratti Ventura\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale De Amicis, ",
+    "addressLocality": "Colmurano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1661&mlon=13.3605#map=15/43.1661/13.3605",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1661,
+    "longitude": 13.3605
+  },
+  "url": "http://www.museoventura.sinp.net",
+  "telephone": "+39 0733508287",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10.00-13.00; 16.00-19.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qlTvm6lrz_e2POVSnmEy8u8lWWY=/1000x1000/museums/logos/000/187/365/original/2b2576f0edb0effdcc4e65ceace9e58354a39.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104180",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157349
+  },
+  "name": "SCOTT HIGH SCHOOL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "400 SCOTT HIGH DR",
+    "addressLocality": "HUNTSVILLE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37756"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.4082&mlon=-84.5295#map=15/36.4082/-84.5295",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.4082,
+    "longitude": -84.5295
+  },
+  "url": "http://shs.scottcounty.net",
+  "telephone": "+1 (423) 663-2805",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700020",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

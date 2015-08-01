@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185619
+  },
+  "name": "Museo laboratorio d'arte contemporanea - Ex manifattura tabacchi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vico Lupinato, 1",
+    "addressLocality": "Città Sant'Angelo",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5173&mlon=14.0592#map=15/42.5173/14.0592",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5173,
+    "longitude": 14.0592
+  },
+  "url": "http://www.museolaboratorio.org",
+  "telephone": "+39 085 960555",
+  "contactPoint": [
+
+  ],
+  "openingHours": "solo durante le mostre: tutti i giorni 16.00/ 20.00 Periodo estivo: 19.00/ 23.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100071",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

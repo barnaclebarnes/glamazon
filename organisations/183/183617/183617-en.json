@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183617
+  },
+  "name": "Müllner-Peter-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schulstraße 3",
+    "addressLocality": "Aschau",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83229"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.69&mlon=12.2625#map=15/47.69/12.2625",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.69,
+    "longitude": 12.2625
+  },
+  "url": "http://www.muellner-peter-museum.de",
+  "telephone": "08057/909737",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183617",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

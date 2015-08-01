@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160301
+  },
+  "name": "PUTNEY HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 260",
+    "addressLocality": "PUTNEY",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05346-0260"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0967&mlon=-72.5346#map=15/43.0967/-72.5346",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0967,
+    "longitude": -72.5346
+  },
+  "url": "http://putneyhistory.us/",
+  "telephone": "+1 (802) 387-4411",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000107",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

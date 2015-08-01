@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187833
+  },
+  "name": "Museo dell’agricoltura del Piemonte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Leonardo da Vinci, 44, ",
+    "addressLocality": "Grugliasco",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0613&mlon=7.5877#map=15/45.0613/7.5877",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0613,
+    "longitude": 7.5877
+  },
+  "url": "http://www.museoagricoltura.unito.it",
+  "telephone": "+39 334 8160901",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MnRcwfszptY0OI2qDGA-qgkuzKg=/1000x1000/museums/logos/000/187/833/original/4e95437becffd2d5e6e1a32dadbb048bb2691e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106658",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

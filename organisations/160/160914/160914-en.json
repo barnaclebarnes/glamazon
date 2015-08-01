@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160914
+  },
+  "name": "MONTPELIER FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11407 CONSTITUTION HWY",
+    "addressLocality": "MONTPELIER",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22957"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2289&mlon=-78.1765#map=15/38.2289/-78.1765",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2289,
+    "longitude": -78.1765
+  },
+  "url": "http://www.montpelier.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100420",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

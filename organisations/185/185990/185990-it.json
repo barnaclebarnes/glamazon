@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185990
+  },
+  "name": "Museo del centro caprense Ignazio Cerio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "P.tta Ignazio Cerio, 5 , ",
+    "addressLocality": "Capri",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.549&mlon=14.2458#map=15/40.549/14.2458",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.549,
+    "longitude": 14.2458
+  },
+  "url": "http://www.centrocaprense.it",
+  "telephone": "+39 0818376681",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IbZ-O2nLmf-NvIeIzSNS0cCaDNE=/1000x1000/museums/logos/000/185/990/original/3eb82e1ae3794d299175356f6e14ba2aa288d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101828",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

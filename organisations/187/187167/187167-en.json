@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187167
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cortivacci, 2",
+    "addressLocality": "Morbegno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1312&mlon=9.56679#map=15/46.1312/9.56679",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1312,
+    "longitude": 9.56679
+  },
+  "url": "http://www.morbegno.it/museo",
+  "telephone": "+39 0342612451",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yZBaheR0ULfEJv69Ir5CqkAAi3E=/1000x1000/museums/logos/000/187/167/original/a8888e76a9801b90fca257b8c2651ecd21873a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103789",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

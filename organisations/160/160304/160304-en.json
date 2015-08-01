@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160304
+  },
+  "name": "LINCOLN HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2500 SOUTH LINCOLN RD",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05443"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0638&mlon=-72.9678#map=15/44.0638/-72.9678",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0638,
+    "longitude": -72.9678
+  },
+  "url": "http://lincolnhistoricalsociety.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000110",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

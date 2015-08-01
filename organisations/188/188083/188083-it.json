@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188083
+  },
+  "name": "Museo della confraternita di S. Giuseppe",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Chiesa di S. Leonardo, ",
+    "addressLocality": "Monopoli",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8161&mlon=17.2137#map=15/40.8161/17.2137",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8161,
+    "longitude": 17.2137
+  },
+  "telephone": "+39 080 747968",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HspW1z0RAoKWZV1KF38FRX8AVVk=/1000x1000/museums/logos/000/188/083/original/7b735492c775ed2d8de2543c16c81348f050a6d4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102332",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

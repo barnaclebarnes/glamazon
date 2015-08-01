@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188044
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza D'Angennes, 5, ",
+    "addressLocality": "Vercelli",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3296&mlon=8.42296#map=15/45.3296/8.42296",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3296,
+    "longitude": 8.42296
+  },
+  "url": "http://www.tesorodelduomovc.it",
+  "telephone": "+39 016151650",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/so35NeSQuVuxa97DOI_3GoqCmQI=/1000x1000/museums/logos/000/188/044/original/44d0281f64c9b35eca21f39ea6e8218acf13307d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102845",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

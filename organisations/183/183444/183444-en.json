@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183444
+  },
+  "name": "Kirchenburgenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "In der Kirchenburg",
+    "addressLocality": "Ostheim",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97645"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.4596&mlon=10.2319#map=15/50.4596/10.2319",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.4596,
+    "longitude": 10.2319
+  },
+  "url": "http://www.lebendige-kirchenburg.de",
+  "telephone": "09777/471",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183444",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

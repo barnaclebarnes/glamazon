@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145015
+  },
+  "name": "MINNESOTA INVENTORS HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "705 S MILL",
+    "addressLocality": "REDWOOD FALLS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "56283-2163"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.536&mlon=-95.1195#map=15/44.536/-95.1195",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.536,
+    "longitude": -95.1195
+  },
+  "url": "http://www.minnesotainventors.org/contact-us.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700455",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

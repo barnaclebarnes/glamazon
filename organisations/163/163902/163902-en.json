@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163902
+  },
+  "name": "Gippsland Vehicle Collection",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9731&mlon=146.984#map=15/-37.9731/146.984",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9731,
+    "longitude": 146.984
+  },
+  "url": "http://www.gippslandvehiclecollection.org.au/",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Fri, Sat, Sun, Mon, 10am-4pm, all School Holidays other times by appointment",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "gippsland-vehicle-collection",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/gippsland-vehicle-collection",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

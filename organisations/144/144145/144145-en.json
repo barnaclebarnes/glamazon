@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144145
+  },
+  "name": "ARTSPECTRUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 21366",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48221-0366"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3945&mlon=-83.0919#map=15/42.3945/-83.0919",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3945,
+    "longitude": -83.0919
+  },
+  "url": "http://artspectrum.org/",
+  "telephone": "+1 (313) 790-2311",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600682",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

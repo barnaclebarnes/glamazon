@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152359
+  },
+  "name": "HARDING MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "302 PARK AVE",
+    "addressLocality": "FRANKLIN",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45005"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5641&mlon=-84.3074#map=15/39.5641/-84.3074",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5641,
+    "longitude": -84.3074
+  },
+  "url": "http://www.franklinohmuseums.org",
+  "telephone": "+1 (937) 746-8295",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900136",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

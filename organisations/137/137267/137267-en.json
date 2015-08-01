@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137267
+  },
+  "name": "LONG GROVE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4419 RFD",
+    "addressLocality": "LONG GROVE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60047-7690"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.178&mlon=-87.9973#map=15/42.178/-87.9973",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.178,
+    "longitude": -87.9973
+  },
+  "url": "http://www.longgrovehistory.org",
+  "telephone": "+1 (847) 634-6155",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700412",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

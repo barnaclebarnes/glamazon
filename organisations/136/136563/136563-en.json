@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136563
+  },
+  "name": "THE QUEEN'S MEDICAL CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1301 PUNCHBOWL STREET, HARKNESS 138",
+    "addressLocality": "HONOLULU",
+    "addressRegion": "HI",
+    "addressCountry": "United States",
+    "postalCode": "96813"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=21.3081&mlon=-157.855#map=15/21.3081/-157.855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 21.3081,
+    "longitude": -157.855
+  },
+  "url": "http://www.queensmedicalcenter.net",
+  "telephone": "+1 (808) 691-7010",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401500102",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

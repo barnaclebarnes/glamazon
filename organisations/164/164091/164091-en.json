@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164091
+  },
+  "name": "Monash Gallery of Art",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9079&mlon=145.19#map=15/-37.9079/145.19",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9079,
+    "longitude": 145.19
+  },
+  "url": "http://www.mga.org.au",
+  "telephone": "8544 0503",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tues to Fri 10am-5pm, Sat &amp; Sunday 12-5pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "monash-gallery-of-art",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/monash-gallery-of-art",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

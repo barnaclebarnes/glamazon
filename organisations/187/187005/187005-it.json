@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187005
+  },
+  "name": "Museo del tesoro dell'Incoronata",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Incoronata, 23",
+    "addressLocality": "Lodi",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3152&mlon=9.50169#map=15/45.3152/9.50169",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3152,
+    "longitude": 9.50169
+  },
+  "telephone": "+39 0371420369",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica 15,00/18,00, giorni feriali su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Dpq2nR-8ruiqqDbWOV6Z_kN8ODU=/1000x1000/museums/logos/000/187/005/original/3c68d6c8c7a6d50715e24ba7f18ad9439c0655d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103667",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

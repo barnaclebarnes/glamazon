@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150190
+  },
+  "name": "MORRISTOWN GATEWAY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 231",
+    "addressLocality": "MORRISTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13664-0231"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.587&mlon=-75.6489#map=15/44.587/-75.6489",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.587,
+    "longitude": -75.6489
+  },
+  "url": "http://www.morristowngatewaymuseum.org",
+  "telephone": "+1 (315) 375-4910",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601484",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144066
+  },
+  "name": "MICHIGAN FARMERS HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7990 MILO RD",
+    "addressLocality": "DELTON",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49046-8414"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4569&mlon=-85.4441#map=15/42.4569/-85.4441",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4569,
+    "longitude": -85.4441
+  },
+  "url": "http://www.michiganhalloffamemusicbarn.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600603",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

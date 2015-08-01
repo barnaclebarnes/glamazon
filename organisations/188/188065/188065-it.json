@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188065
+  },
+  "name": "Galleria nazionale della Puglia \"Girolamo e Rosaria Devanna\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giandonato Rogadeo, 14",
+    "addressLocality": "Bitonto",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1061&mlon=16.6911#map=15/41.1061/16.6911",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1061,
+    "longitude": 16.6911
+  },
+  "url": "http://www.gallerianazionalepuglia.beniculturali.it",
+  "telephone": "+39 0803716184",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni dalle ore 09.30 alle ore 19.15. Mercoledì chiuso",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hNCbxGZr_UGt7JWefUO99ik1iBo=/1000x1000/museums/logos/000/188/065/original/132f5291acb2ad305ee1a450e573d917d12bb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20757",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

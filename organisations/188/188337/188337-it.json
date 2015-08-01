@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188337
+  },
+  "name": "Museo delle statue Menhir",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Amsicora, 12",
+    "addressLocality": "Laconi",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8536&mlon=9.05263#map=15/39.8536/9.05263",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8536,
+    "longitude": 9.05263
+  },
+  "telephone": "+39 0782 867037",
+  "contactPoint": [
+
+  ],
+  "openingHours": "est.: 10,00-13,00 / 15,30-19,00 inv.:10,00-13,00 / 15,00-18,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HJOy1UUjySqmajMQ9kPnR1pOyP4=/1000x1000/museums/logos/000/188/337/original/86b197e8b62266b882ee45f57544e13c66a87de7.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103421",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

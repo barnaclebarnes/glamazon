@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183745
+  },
+  "name": "Alte Saline mit Salzmuseum Bad Reichenhall",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Alte Saline 9",
+    "addressLocality": "Bad Reichenhall",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83435"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.721&mlon=12.8774#map=15/47.721/12.8774",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.721,
+    "longitude": 12.8774
+  },
+  "url": "http://www.alte-saline-bad-reichenhall.de/",
+  "telephone": "08651/7002-146",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183745",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

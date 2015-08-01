@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153447
+  },
+  "name": "TOLEDO ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2700 BROADWAY ST",
+    "addressLocality": "TOLEDO",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43614-0130"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.618&mlon=-83.579#map=15/41.618/-83.579",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.618,
+    "longitude": -83.579
+  },
+  "url": "http://www.toledozoo.org",
+  "telephone": "+1 (419) 385-5721",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901225",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

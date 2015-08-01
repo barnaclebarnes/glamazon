@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150311
+  },
+  "name": "BUFFALO SOCIETY OF NATURAL SCIENCES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1020 HUMBOLDT PKWY",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14211-1208"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9073&mlon=-78.8431#map=15/42.9073/-78.8431",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9073,
+    "longitude": -78.8431
+  },
+  "url": "http://www.sciencebuff.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601605",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

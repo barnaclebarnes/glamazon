@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147379
+  },
+  "name": "DEERFIELD HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 41",
+    "addressLocality": "DEERFIELD",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03037-0041"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1373&mlon=-71.2608#map=15/43.1373/-71.2608",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1373,
+    "longitude": -71.2608
+  },
+  "url": "http://www.deerfieldnh.org/resources/dhs.htm",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300154",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

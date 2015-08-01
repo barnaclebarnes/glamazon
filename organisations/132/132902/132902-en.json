@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132902
+  },
+  "name": "FLEMING MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "400 W WESTON",
+    "addressLocality": "FLEMING",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80728"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6796&mlon=-102.844#map=15/40.6796/-102.844",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6796,
+    "longitude": -102.844
+  },
+  "telephone": "+1 (970) 265-2591",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800078",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

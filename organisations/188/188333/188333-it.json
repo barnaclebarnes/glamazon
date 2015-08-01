@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188333
+  },
+  "name": "Museo del costume e della tradizione del lino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via A. De Gasperi, 1",
+    "addressLocality": "Busachi",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0332&mlon=8.89808#map=15/40.0332/8.89808",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0332,
+    "longitude": 8.89808
+  },
+  "url": "http://www.andromeda.sardegna.it",
+  "telephone": "+39 3402607197",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WDA81pgtX0tgq9xVY5vy05Sl6rw=/1000x1000/museums/logos/000/188/333/original/5c1e32e88d98d011475eb810b8989a696aef8.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103397",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

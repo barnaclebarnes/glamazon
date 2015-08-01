@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136111
+  },
+  "name": "LOCKERLY ARBORETUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1534 IRWINTON RD",
+    "addressLocality": "MILLEDGEVILLE",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "31061-3827"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.055&mlon=-83.2309#map=15/33.055/-83.2309",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.055,
+    "longitude": -83.2309
+  },
+  "url": "http://www.lockerly.org/index.php",
+  "telephone": "+1 (478) 452-2112",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300382",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

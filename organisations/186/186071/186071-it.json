@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186071
+  },
+  "name": "Museo paleontologico di Magliano Vetere",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma",
+    "addressLocality": "Magliano Vetere",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3474&mlon=15.2366#map=15/40.3474/15.2366",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3474,
+    "longitude": 15.2366
+  },
+  "url": "http://www.museomagliano.it/",
+  "telephone": "+39 348 242 0815",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dFVUc_pCQyL8QnW5ahgAY7jFvRQ=/1000x1000/museums/logos/000/186/071/original/4b98d880e3303af13f6679a5dca549e171214c7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111074",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

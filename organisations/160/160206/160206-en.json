@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160206
+  },
+  "name": "ROBERT FROST STONE HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "121 VT ROUTE 7A",
+    "addressLocality": "SHAFTSBURY",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05262"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9345&mlon=-73.2098#map=15/42.9345/-73.2098",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9345,
+    "longitude": -73.2098
+  },
+  "url": "http://www.frostfriends.org",
+  "telephone": "+1 (802) 447-6200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000012",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186905
+  },
+  "name": "Museo civico archeologico della Valtenesi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Rocca, 20",
+    "addressLocality": "Manerba del Garda",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5565&mlon=10.5693#map=15/45.5565/10.5693",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5565,
+    "longitude": 10.5693
+  },
+  "url": "http://www.museiarcheologici.net/index.php?pag=2&p=7s&id_museo=9&province=",
+  "telephone": "+39 0365659801",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HdnZXUA1zcNFabsQo-dMK1mtuHI=/1000x1000/museums/logos/000/186/905/original/f7438b4040883636b6994ea53a7521491cfc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105632",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

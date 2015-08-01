@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189290
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Largo Cruciani, ",
+    "addressLocality": "San Giustino",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5494&mlon=12.1764#map=15/43.5494/12.1764",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5494,
+    "longitude": 12.1764
+  },
+  "url": "http://www.castellobufalini.beniculturali.it/",
+  "telephone": "+39 075856115 - 075.5741273",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/N15o6OHZOiKOMZQa4vYu-J0SA1E=/1000x1000/museums/logos/000/189/290/original/fdbf29cc39adedc3fee07b2393c0f5adbfb36.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20525",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

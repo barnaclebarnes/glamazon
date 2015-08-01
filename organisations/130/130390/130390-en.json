@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130390
+  },
+  "name": "CRAFTSMANSHIP MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3190 LIONSHEAD AVE",
+    "addressLocality": "CARLSBAD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92010"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.1324&mlon=-117.238#map=15/33.1324/-117.238",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.1324,
+    "longitude": -117.238
+  },
+  "url": "http://www.craftsmanshipmuseum.com",
+  "telephone": "+1 (760) 727-9492",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Craftsmanship_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600516",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152910
+  },
+  "name": "EXPERI-CENTER INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 S 1ST ST",
+    "addressLocality": "MIAMISBURG",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45342-2977"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6356&mlon=-84.2904#map=15/39.6356/-84.2904",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6356,
+    "longitude": -84.2904
+  },
+  "url": "http://museum.com",
+  "telephone": "+1 (937) 859-0545",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900687",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

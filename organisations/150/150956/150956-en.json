@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150956
+  },
+  "name": "IMAGINARIUM CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1935",
+    "addressLocality": "PLATTSBURGH",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12901-0228"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6975&mlon=-73.4643#map=15/44.6975/-73.4643",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6975,
+    "longitude": -73.4643
+  },
+  "url": "http://imaginariumchildrensmuseum.org",
+  "telephone": "+1 (518) 324-7426",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602250",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

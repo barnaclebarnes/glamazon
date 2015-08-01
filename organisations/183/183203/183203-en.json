@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183203
+  },
+  "name": "Architekturgalerie",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Türkenstr. 30",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1479&mlon=11.5745#map=15/48.1479/11.5745",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1479,
+    "longitude": 11.5745
+  },
+  "url": "http://www.architekturgalerie-muenchen.de",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183203",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

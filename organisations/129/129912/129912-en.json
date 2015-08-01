@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129912
+  },
+  "name": "WEST SACRAMENTO HISTORICAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "324 3RD ST",
+    "addressLocality": "WEST SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95605"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5877&mlon=-121.51#map=15/38.5877/-121.51",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5877,
+    "longitude": -121.51
+  },
+  "telephone": "+1 (916) 374-1849",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/B0Zaz7PqR1YJ-rmocgmB3icCX94=/1000x1000/museums/logos/000/129/912/original/Sacramento-river-bank-pyramid-20.4.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/West_Sacramento,_California",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600038",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

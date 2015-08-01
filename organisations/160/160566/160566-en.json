@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160566
+  },
+  "name": "PETERSBURG MUSEUMS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 WEST BANK ST.",
+    "addressLocality": "PETERSBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2318&mlon=-77.4053#map=15/37.2318/-77.4053",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2318,
+    "longitude": -77.4053
+  },
+  "telephone": "+1 (804) 733-2404",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100072",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

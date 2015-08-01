@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146678
+  },
+  "name": "TRAILSIDE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3200 HIGHWAY 20",
+    "addressLocality": "CRAWFORD",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "69339"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6708&mlon=-103.46#map=15/42.6708/-103.46",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6708,
+    "longitude": -103.46
+  },
+  "url": "http://www.trailside.unl.edu",
+  "telephone": "+1 (308) 665-2929",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100017",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

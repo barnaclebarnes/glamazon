@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187022
+  },
+  "name": "Museo diocesano Francesco Gonzaga",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Virgiliana, 55",
+    "addressLocality": "Mantova",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1615&mlon=10.7943#map=15/45.1615/10.7943",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1615,
+    "longitude": 10.7943
+  },
+  "url": "http://museodiocesanomantova.it",
+  "telephone": "+39 0376320602",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cayxrvh3oKt3B5e7iXKvTary6DM=/1000x1000/museums/logos/000/187/022/original/8e351b365b618f5f76a0501e293fb796e0a799.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103748",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

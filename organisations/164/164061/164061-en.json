@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164061
+  },
+  "name": "McCrae Homestead, National Trust of Australia (Victoria)",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.3498&mlon=144.931#map=15/-38.3498/144.931",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.3498,
+    "longitude": 144.931
+  },
+  "url": "http://www.nationaltrust.org.au/vic/mccrae-homestead",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "mccrae-homestead--museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/mccrae-homestead--museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

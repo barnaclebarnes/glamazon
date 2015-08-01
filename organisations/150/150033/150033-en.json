@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150033
+  },
+  "name": "BIG SPRINGS HISTORICAL SOCIETY OF CALEDONIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 41",
+    "addressLocality": "CALEDONIA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14423-0041"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9468&mlon=-77.8711#map=15/42.9468/-77.8711",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9468,
+    "longitude": -77.8711
+  },
+  "url": "http://bigspringsmuseum.org",
+  "telephone": "+1 (585) 538-9880",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601327",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

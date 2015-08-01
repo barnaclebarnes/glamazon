@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139090
+  },
+  "name": "SIOUX CITY LEWIS & CLARK INTERPRETIVE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "900 LARSEN PARK RD",
+    "addressLocality": "SIOUX CITY",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "51103-4916"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4911&mlon=-96.4156#map=15/42.4911/-96.4156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4911,
+    "longitude": -96.4156
+  },
+  "url": "http://www.siouxcitylcic.com",
+  "telephone": "+1 (712) 224-5242",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900127",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

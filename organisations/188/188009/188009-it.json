@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188009
+  },
+  "name": "Palazzo Borromeo dell’Isola Bella",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Borromeo, Isola Bella, ",
+    "addressLocality": "Stresa",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8951&mlon=8.52728#map=15/45.8951/8.52728",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8951,
+    "longitude": 8.52728
+  },
+  "url": "http://www.borromeoturismo.it",
+  "telephone": "+39 032330556",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106595",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

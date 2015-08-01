@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186643
+  },
+  "name": "Museo naturalistico di Lubriano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Col di Lana, 12",
+    "addressLocality": "Lubriano",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6364&mlon=12.1103#map=15/42.6364/12.1103",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6364,
+    "longitude": 12.1103
+  },
+  "url": "http://www.culturalazio.it/musei/lubriano/",
+  "telephone": "+39 0761 1762002",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9GYLB6EToyULsyE6Y0M-bB7rZHs=/1000x1000/museums/logos/000/186/643/original/929169ee928471a765b364419e632aab7a4e9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108168",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142702
+  },
+  "name": "BARTLETT MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 692",
+    "addressLocality": "AMESBURY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01913"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8546&mlon=-70.9366#map=15/42.8546/-70.9366",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8546,
+    "longitude": -70.9366
+  },
+  "url": "http://bartlettmuseum.org",
+  "telephone": "+1 (978) 388-4528",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500332",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188662
+  },
+  "name": "Museo Fondazione Roberto Capucci",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Costa San Giorgio, 2",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7629&mlon=11.2549#map=15/43.7629/11.2549",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7629,
+    "longitude": 11.2549
+  },
+  "url": "http://www.fondazionerobertocapucci.com",
+  "telephone": "+39 0552638599",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Xpt65iwObAObO-mHsWURyi-kl3A=/1000x1000/museums/logos/000/188/662/original/19dfdd99f5eb443b33f71a2aa3589bce9a9dbb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110283",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

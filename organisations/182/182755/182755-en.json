@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182755
+  },
+  "name": "Heimatmuseum Winterberg im Böhmerwald",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stadtplatz 3",
+    "addressLocality": "Freyung",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94078"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8088&mlon=13.5476#map=15/48.8088/13.5476",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8088,
+    "longitude": 13.5476
+  },
+  "url": "http://www.freyung.de",
+  "telephone": "08555/522",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182755",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

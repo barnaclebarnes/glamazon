@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152728
+  },
+  "name": "CINCINNATI MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1301 WESTERN AVE",
+    "addressLocality": "CINCINNATI",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45203-1138"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1098&mlon=-84.5322#map=15/39.1098/-84.5322",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1098,
+    "longitude": -84.5322
+  },
+  "url": "http://www.cincymuseum.org",
+  "telephone": "+1 (513) 287-7000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900505",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

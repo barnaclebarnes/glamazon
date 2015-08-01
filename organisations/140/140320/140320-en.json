@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140320
+  },
+  "name": "ADSMORE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "304 N JEFFERSON ST",
+    "addressLocality": "PRINCETON",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "26253"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1103&mlon=-87.8812#map=15/37.1103/-87.8812",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1103,
+    "longitude": -87.8812
+  },
+  "url": "http://www.adsmore.org",
+  "telephone": "+1 (270) 365-3114",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100077",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160098
+  },
+  "name": "SALT LAKE ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "20 SOUTH WEST TEMPLE",
+    "addressLocality": "SALT LAKE CITY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7689&mlon=-111.894#map=15/40.7689/-111.894",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7689,
+    "longitude": -111.894
+  },
+  "telephone": "+1 (801) 328-4201",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/saltlakeartcenter"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900164",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

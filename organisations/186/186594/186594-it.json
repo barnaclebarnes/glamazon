@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186594
+  },
+  "name": "Museo storico della Guardia di finanza di Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Armellini, 20",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9181&mlon=12.5226#map=15/41.9181/12.5226",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9181,
+    "longitude": 12.5226
+  },
+  "url": "http://www.gdf.it",
+  "telephone": "+39 06 44238841",
+  "contactPoint": [
+
+  ],
+  "openingHours": "giorni feriali dalle 9,00 alle 13,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Mfp4AzxmwUbLczcD5Us9DEPKcoo=/1000x1000/museums/logos/000/186/594/original/8d429d401b90589f98e5e112d78d5b7ee64d1a0.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101592",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

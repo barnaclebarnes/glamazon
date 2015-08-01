@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134222
+  },
+  "name": "WOODROW WILSON HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2340 S ST NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20008"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9141&mlon=-77.0517#map=15/38.9141/-77.0517",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9141,
+    "longitude": -77.0517
+  },
+  "url": "http://www.woodrowwilsonhouse.org",
+  "telephone": "+1 (202) 387-4062",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

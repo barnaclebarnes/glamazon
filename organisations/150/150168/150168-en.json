@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150168
+  },
+  "name": "NIAGARA AEROSPACE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2221 NIAGARA FALLS BLVD STE 7",
+    "addressLocality": "NIAGARA FALLS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14304-1696"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0995&mlon=-78.9311#map=15/43.0995/-78.9311",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0995,
+    "longitude": -78.9311
+  },
+  "url": "http://wnyaerospace.org",
+  "telephone": "+1 (716) 278-0060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601462",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

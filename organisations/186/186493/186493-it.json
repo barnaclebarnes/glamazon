@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186493
+  },
+  "name": "Museo nazionale della campagna dell'Agro Romano per la liberazione di Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Rocca, 2",
+    "addressLocality": "Mentana",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0351&mlon=12.6389#map=15/42.0351/12.6389",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0351,
+    "longitude": 12.6389
+  },
+  "url": "http://www.museomentana.it",
+  "telephone": "+39 06 90969431",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratutito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OfiHMQYFYt4-MUTJG0_-b7vD7x8=/1000x1000/museums/logos/000/186/493/original/5d74c32d2bdeace0824728f182914f92ab14bc8.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101502",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

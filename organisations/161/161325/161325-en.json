@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161325
+  },
+  "name": "VIRGINIA HOLOCAUST MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2000 E CARY ST",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23223-7032"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5307&mlon=-77.4262#map=15/37.5307/-77.4262",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5307,
+    "longitude": -77.4262
+  },
+  "url": "http://www.va-holocaust.com",
+  "telephone": "+1 (804) 257-5400",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/25263221630"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100831",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

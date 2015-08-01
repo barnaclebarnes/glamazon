@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182866
+  },
+  "name": "Spital Hengersberg mit Kunstsammlungen Ostbayern",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Passauer Straße 38",
+    "addressLocality": "Hengersberg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94491"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7722&mlon=13.0465#map=15/48.7722/13.0465",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7722,
+    "longitude": 13.0465
+  },
+  "url": "http://www.hengersberg.de/index2.htm",
+  "telephone": "09901/2809",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182866",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

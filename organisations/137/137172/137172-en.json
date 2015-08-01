@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137172
+  },
+  "name": "LAKE VILLA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 519",
+    "addressLocality": "LAKE VILLA",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60046"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4141&mlon=-88.0601#map=15/42.4141/-88.0601",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4141,
+    "longitude": -88.0601
+  },
+  "url": "http://www.lakevillahistory.org",
+  "telephone": "+1 (847) 265-8266",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700317",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

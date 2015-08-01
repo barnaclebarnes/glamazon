@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146649
+  },
+  "name": "YELLOWSTONE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "401 N 27TH ST",
+    "addressLocality": "BILLINGS",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59101-1241"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7853&mlon=-108.507#map=15/45.7853/-108.507",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7853,
+    "longitude": -108.507
+  },
+  "url": "http://www.artmuseum.org/",
+  "telephone": "+1 (406) 256-6804",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/7978533002"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000292",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

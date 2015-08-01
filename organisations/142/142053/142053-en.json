@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142053
+  },
+  "name": "BANNEKER-DOUGLASS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "84 FRANKLIN ST",
+    "addressLocality": "ANNAPOLIS",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21401-2738"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9778&mlon=-76.4936#map=15/38.9778/-76.4936",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9778,
+    "longitude": -76.4936
+  },
+  "url": "http://www.bdmuseum.com",
+  "telephone": "+1 (410) 216-6180",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/183768032483"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400346",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

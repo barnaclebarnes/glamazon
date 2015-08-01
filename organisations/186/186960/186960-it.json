@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186960
+  },
+  "name": "Museo Diotti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Formis, 17",
+    "addressLocality": "Casalmaggiore",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9898&mlon=10.4149#map=15/44.9898/10.4149",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9898,
+    "longitude": 10.4149
+  },
+  "url": "http://www.museodiotti.it",
+  "telephone": "+39 0375 200416",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/o_Qewa1PVvjNNTwJL3hocnyEInI=/1000x1000/museums/logos/000/186/960/original/bc65b7aea5aca1b08a239436d0fbceb1bc3c1686.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106821",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

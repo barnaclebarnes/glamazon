@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151891
+  },
+  "name": "NORTH CAROLINA MUSEUM OF HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5 EAST EDENTON STREET",
+    "addressLocality": "RALEIGH",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.7812&mlon=-78.6385#map=15/35.7812/-78.6385",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.7812,
+    "longitude": -78.6385
+  },
+  "url": "http://www.ncmuseumofhistory.org",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/NCMuseumofHistory"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/NCmuseumhistory"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700762",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

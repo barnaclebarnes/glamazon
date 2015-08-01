@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186754
+  },
+  "name": "Museo etnografico del castello di Bestagno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Principale, ",
+    "addressLocality": "Pontedassio",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9345&mlon=8.00072#map=15/43.9345/8.00072",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9345,
+    "longitude": 8.00072
+  },
+  "url": "http://www.comune.pontedassio.im.it",
+  "telephone": "+39 0183279026",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100421",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184323
+  },
+  "name": "Te Hikoi - Southern Journey",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:tehikoi@xtra.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-46.352&mlon=168.013#map=15/-46.352/168.013",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -46.352,
+    "longitude": 168.013
+  },
+  "url": "http://www.tehikoi.co.nz",
+  "telephone": "64-3-234 8260",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10 am - 4:30 pm setiap hari",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Adults $12, Senior Citizens $9, Family $25"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/ms/museums/184323",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

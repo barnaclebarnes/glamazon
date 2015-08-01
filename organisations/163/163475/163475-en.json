@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163475
+  },
+  "name": "SCIENCE ZONE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2701",
+    "addressLocality": "MILLS",
+    "addressRegion": "WY",
+    "addressCountry": "United States",
+    "postalCode": "82644-2701"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8473&mlon=-106.325#map=15/42.8473/-106.325",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8473,
+    "longitude": -106.325
+  },
+  "url": "http://www.thesciencezone.org/",
+  "telephone": "+1 (307) 473-9663",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405600055",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

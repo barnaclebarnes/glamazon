@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187983
+  },
+  "name": "Museo civico di Cannero Riviera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Villa Laura, via Dante, ",
+    "addressLocality": "Cannero Riviera",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0213&mlon=8.6826#map=15/46.0213/8.6826",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0213,
+    "longitude": 8.6826
+  },
+  "url": "http://www.comune.canneroriviera.vb.it",
+  "telephone": "+39 0323788091",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102795",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

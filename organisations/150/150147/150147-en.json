@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150147
+  },
+  "name": "TOWN OF GREENE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 412",
+    "addressLocality": "GREENE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13778"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2118&mlon=-73.8576#map=15/42.2118/-73.8576",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2118,
+    "longitude": -73.8576
+  },
+  "url": "http://www.townofgreene.net/greene_historical_society.htm",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601441",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

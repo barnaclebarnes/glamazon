@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189421
+  },
+  "name": "Museo dei sogni - Memoria e presepi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Comunità Villa San Francesco, ",
+    "addressLocality": "Pedavena",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.031&mlon=11.8646#map=15/46.031/11.8646",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.031,
+    "longitude": 11.8646
+  },
+  "url": "http://www.comunitavsfrancesco.it",
+  "telephone": "+39 0439300180",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CL_m7U69EuFyDCuNi3QTU1kxgq4=/1000x1000/museums/logos/000/189/421/original/da42b14bb8486714f46b41506c876e50beb83d0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100881",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

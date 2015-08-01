@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137655
+  },
+  "name": "BIG ROCK HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 206",
+    "addressLocality": "BIG ROCK",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60511-0206"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7486&mlon=-88.5538#map=15/41.7486/-88.5538",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7486,
+    "longitude": -88.5538
+  },
+  "url": "http://www.bigrockhistoricalsociety.org/",
+  "telephone": "+1 (630) 556-3604",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700800",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

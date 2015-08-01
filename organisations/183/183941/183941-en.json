@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183941
+  },
+  "name": "Feuerwehrmuseum Bayern",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Duxer Str. 8",
+    "addressLocality": "Waldkraiburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84478"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2059&mlon=12.4083#map=15/48.2059/12.4083",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2059,
+    "longitude": 12.4083
+  },
+  "url": "http://www.feuerwehrmuseum-bayern.de",
+  "telephone": "08669/4321",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183941",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

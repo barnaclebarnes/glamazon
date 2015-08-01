@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182875
+  },
+  "name": "Luftmuseum Amberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Eichenforstgäßchen 12",
+    "addressLocality": "Amberg",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92224"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4443&mlon=11.8571#map=15/49.4443/11.8571",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4443,
+    "longitude": 11.8571
+  },
+  "url": "http://www.luftmuseum.de",
+  "telephone": "09621/420883",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182875",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

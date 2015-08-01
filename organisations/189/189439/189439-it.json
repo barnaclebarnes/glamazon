@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189439
+  },
+  "name": "Museo nazionale Atestino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guido Negri, 9/c",
+    "addressLocality": "Este",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2294&mlon=11.6558#map=15/45.2294/11.6558",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2294,
+    "longitude": 11.6558
+  },
+  "url": "http://www.atestino.beniculturali.it/",
+  "telephone": "+39 04292085",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni 9.00 20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fYt9eYPQdLlEyyiqrOhia50IPfg=/1000x1000/museums/logos/000/189/439/original/f47bb6434c868bdc35721d1e3e3d48e311f6b80.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20259",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

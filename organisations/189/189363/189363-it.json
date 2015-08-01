@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189363
+  },
+  "name": "Museo dell’opera di Guido Calori",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Tribunale, 54",
+    "addressLocality": "San Gemini",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6143&mlon=12.5466#map=15/42.6143/12.5466",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6143,
+    "longitude": 12.5466
+  },
+  "url": "http://www.museocalori.it",
+  "telephone": "+39 0744 428061",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ndrvp6P-MtCZkJoOd07h6cnIwpI=/1000x1000/museums/logos/000/189/363/original/815ab14af1f0b38da5dd541ffaf733667150c9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108158",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

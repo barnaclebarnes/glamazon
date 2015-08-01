@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186624
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 85",
+    "addressLocality": "Acquapendente",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7428&mlon=11.869#map=15/42.7428/11.869",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7428,
+    "longitude": 11.869
+  },
+  "url": "http://www.museoacquapendente.it",
+  "telephone": "+39 0763730065 -  0763730246",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/54JzDvQsFD_CIWiiTWLi_0CXDOM=/1000x1000/museums/logos/000/186/624/original/26aa7b4aae2c2ace00d0c5b2f287f31d1ac165.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108177",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

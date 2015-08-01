@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183722
+  },
+  "name": "HopfenErlebnisHof",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schulstraße 9",
+    "addressLocality": "Altmannstein",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "93336"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9013&mlon=11.6957#map=15/48.9013/11.6957",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9013,
+    "longitude": 11.6957
+  },
+  "url": "http://www.HopfenErlebnisHof.de",
+  "telephone": "09446/1285",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183722",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

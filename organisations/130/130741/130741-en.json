@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130741
+  },
+  "name": "CONCORD HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 404",
+    "addressLocality": "CONCORD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94522-0404"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9758&mlon=-122.042#map=15/37.9758/-122.042",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9758,
+    "longitude": -122.042
+  },
+  "url": "http://www.concordhistorical.org/",
+  "telephone": "+1 (925) 827-3380",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xJiHvpZ-ue9ILUqVPn5HxQZBNTc=/1000x1000/museums/logos/000/130/741/original/New_Hampshire_Historical_Society_headquarters_and_library.jpg",
+    "creator": "New Hampshire Historical Society",
+    "license": "GFDL"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/New_Hampshire_Historical_Society",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600867",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

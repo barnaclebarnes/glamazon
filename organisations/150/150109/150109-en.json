@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150109
+  },
+  "name": "CHAUTAUQUA SPORTS HALL OF FAME INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1192",
+    "addressLocality": "JAMESTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14702-1192"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0963&mlon=-79.242#map=15/42.0963/-79.242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0963,
+    "longitude": -79.242
+  },
+  "url": "http://www.chautauquasportshalloffame.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601403",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

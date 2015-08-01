@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183067
+  },
+  "name": "Heiliggeistkirche",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Heilig-Geist-Gasse 394",
+    "addressLocality": "Landshut",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84028"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5387&mlon=12.1526#map=15/48.5387/12.1526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5387,
+    "longitude": 12.1526
+  },
+  "url": "http://www.landshut.de",
+  "telephone": "0871/9223890",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183067",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

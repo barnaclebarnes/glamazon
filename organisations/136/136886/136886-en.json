@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136886
+  },
+  "name": "THE UNIVERSITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "70 HAIRPIN DRIVE",
+    "addressLocality": "EDWARDSVILLE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62026-1150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7933&mlon=-89.9983#map=15/38.7933/-89.9983",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7933,
+    "longitude": -89.9983
+  },
+  "url": "http://www.museum.siu.edu/",
+  "telephone": "+1 (618) 453-5388",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700031",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

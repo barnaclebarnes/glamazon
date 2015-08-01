@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183823
+  },
+  "name": "Stadtturm Waldmünchen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchstraße 1",
+    "addressLocality": "Waldmünchen",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93449"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.3785&mlon=12.7067#map=15/49.3785/12.7067",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.3785,
+    "longitude": 12.7067
+  },
+  "url": "http://www.waldmuenchen.de/turm_geschichte.html",
+  "telephone": "09972/307-25",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183823",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

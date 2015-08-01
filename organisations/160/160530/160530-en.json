@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160530
+  },
+  "name": "THE LYCEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 SOUTH WASHINGTON STREET",
+    "addressLocality": "ALEXANDRIA",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22314"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8037&mlon=-77.0474#map=15/38.8037/-77.0474",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8037,
+    "longitude": -77.0474
+  },
+  "url": "http://www.alexandriahistory.org",
+  "telephone": "+1 (703) 746-4994",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100036",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

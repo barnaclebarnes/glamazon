@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147826
+  },
+  "name": "NEWARK MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 540",
+    "addressLocality": "NEWARK",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "07101-0540"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.731&mlon=-74.1738#map=15/40.731/-74.1738",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.731,
+    "longitude": -74.1738
+  },
+  "url": "http://www.newarkmuseum.org",
+  "telephone": "+1 (973) 596-6550",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400194",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159864
+  },
+  "name": "HOUSTON MARITIME MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2204 DORRINGTON ST",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77030-3210"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7054&mlon=-95.4098#map=15/29.7054/-95.4098",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7054,
+    "longitude": -95.4098
+  },
+  "url": "http://www.houstonmaritimemuseum.org",
+  "telephone": "+1 (713) 666-1910",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801964",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

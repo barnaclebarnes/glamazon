@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188775
+  },
+  "name": "Casa natale Amedeo Modigliani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Roma, 38",
+    "addressLocality": "Livorno",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5437&mlon=10.3134#map=15/43.5437/10.3134",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5437,
+    "longitude": 10.3134
+  },
+  "telephone": "+39 3208887044",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110415",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

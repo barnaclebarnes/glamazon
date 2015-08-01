@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185986
+  },
+  "name": "Museo diocesano di Acerra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Duomo, ",
+    "addressLocality": "Acerra",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9434&mlon=14.3723#map=15/40.9434/14.3723",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9434,
+    "longitude": 14.3723
+  },
+  "telephone": "+39 0815205665",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101825",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158595
+  },
+  "name": "DALLAS POLICE DEPARTMENT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1400 S LAMAR ST",
+    "addressLocality": "DALLAS",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75215-7521"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7673&mlon=-96.7951#map=15/32.7673/-96.7951",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7673,
+    "longitude": -96.7951
+  },
+  "url": "http://dallaspolice.net/dpdinfo/museumgener",
+  "telephone": "+1 (214) 671-3011",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800695",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160003
+  },
+  "name": "ANASAZI STATE PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "460 NORTH HIGHWAY 12",
+    "addressLocality": "BOULDER",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84716-1429"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9425&mlon=-111.433#map=15/37.9425/-111.433",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9425,
+    "longitude": -111.433
+  },
+  "telephone": "+1 (435) 335-7382",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900069",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

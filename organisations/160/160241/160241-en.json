@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160241
+  },
+  "name": "ESTEY ORGAN MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "108 BIRGE STREET",
+    "addressLocality": "BRATTLEBORO",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05301-6460"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8475&mlon=-72.5663#map=15/42.8475/-72.5663",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8475,
+    "longitude": -72.5663
+  },
+  "url": "http://www.esteyorganmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000047",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

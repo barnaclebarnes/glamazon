@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137589
+  },
+  "name": "ROCKFORD PUBLIC LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "215 N WYMAN ST",
+    "addressLocality": "ROCKFORD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61101-1023"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2723&mlon=-89.0928#map=15/42.2723/-89.0928",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2723,
+    "longitude": -89.0928
+  },
+  "url": "http://www.rockfordpubliclibrary.org",
+  "telephone": "+1 (815) 965-6731",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700734",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

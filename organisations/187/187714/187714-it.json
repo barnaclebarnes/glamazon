@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187714
+  },
+  "name": "Museo Generale Bonaparte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vittorio Veneto, 1, ",
+    "addressLocality": "Mombasiglio",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3684&mlon=7.97058#map=15/44.3684/7.97058",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3684,
+    "longitude": 7.97058
+  },
+  "url": "http://www.itinerarionapoleonico.com",
+  "telephone": "+39 0174780268",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì dalle 15,00 alle 17,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xivI-Ykpt4nvWoEe-7gmSQDUyH0=/1000x1000/museums/logos/000/187/714/original/43ad4d678c9730186a133c2a1e62fd9404faca1.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106644",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

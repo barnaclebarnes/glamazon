@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164172
+  },
+  "name": "Old Gippstown",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.1804&mlon=146.249#map=15/-38.1804/146.249",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.1804,
+    "longitude": 146.249
+  },
+  "url": "http://www.gippslandheritagepark.com.au",
+  "telephone": "03 5127 8709",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00am to 5.00pm daily, seven days a week.",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "old-gippstown",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/old-gippstown",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

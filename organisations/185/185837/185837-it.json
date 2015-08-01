@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185837
+  },
+  "name": "Museo e Parco archeologico nazionale di Capo Colonna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via per Capo Colonna",
+    "addressLocality": "Crotone",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0808&mlon=17.1271#map=15/39.0808/17.1271",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0808,
+    "longitude": 17.1271
+  },
+  "telephone": "+39 0962934814",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NqfUCSQcQoJQ3_sZEK9883NMTk4=/1000x1000/museums/logos/000/185/837/original/411dafcef6325cffcfc3c2fff414cb8e4d3e59b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20022",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

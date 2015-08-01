@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187111
+  },
+  "name": "Museo miscellaneo Galbiati",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mameli, 15",
+    "addressLocality": "Brugherio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5546&mlon=9.29542#map=15/45.5546/9.29542",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5546,
+    "longitude": 9.29542
+  },
+  "url": "http://www.comune.brugherio.mi.it",
+  "telephone": "+39 039 870124",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106886",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

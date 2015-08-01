@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150012
+  },
+  "name": "ROCHESTER SCHOOL FOR THE DEAF",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1545 SAINT PAUL ST",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14621-3156"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1847&mlon=-77.6246#map=15/43.1847/-77.6246",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1847,
+    "longitude": -77.6246
+  },
+  "url": "http://www.rsdeaf.org",
+  "telephone": "+1 (585) 544-1240",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601306",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

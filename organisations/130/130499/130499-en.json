@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130499
+  },
+  "name": "CALIFORNIA ROUTE 66 MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "16825 S D ST",
+    "addressLocality": "VICTORVILLE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92395"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.5373&mlon=-117.294#map=15/34.5373/-117.294",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.5373,
+    "longitude": -117.294
+  },
+  "url": "http://www.califrt66museum.org",
+  "telephone": "+1 (760) 951-0436",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/California_Route_66_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600625",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

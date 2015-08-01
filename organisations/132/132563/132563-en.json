@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132563
+  },
+  "name": "LIVING DESERT ZOO & BOTANICAL GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "47900 PORTOLA AVE",
+    "addressLocality": "PALM DESERT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92260-6156"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.6999&mlon=-116.376#map=15/33.6999/-116.376",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.6999,
+    "longitude": -116.376
+  },
+  "url": "http://www.livingdesert.org",
+  "telephone": "+1 (760) 346-5694",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lepSHw0gUGyHouarQY0j_xJyCZA=/1000x1000/museums/logos/000/132/563/original/Living_desert_zoo_2.jpg",
+    "creator": "J Dykstra",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Living_Desert_Zoo_and_Gardens_State_Park",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602689",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188235
+  },
+  "name": "Casa del fabbro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Municipio",
+    "addressLocality": "Armungia",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5221&mlon=9.38341#map=15/39.5221/9.38341",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5221,
+    "longitude": 9.38341
+  },
+  "url": "http://www.armungiamusei.it",
+  "telephone": "+39 070 9589011",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Vai alla descrizione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 6.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7EaAn-KCjwhbCkBncj4YfORUmXA=/1000x1000/museums/logos/000/188/235/original/ca6dd7ca99efdcf7f5e3952a0fc931a343ebe6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111653",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

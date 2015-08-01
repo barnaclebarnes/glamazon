@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184036
+  },
+  "name": "Erlebnis Steinzeit",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 13",
+    "addressLocality": "Buchbrunn",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97320"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7594&mlon=10.1347#map=15/49.7594/10.1347",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7594,
+    "longitude": 10.1347
+  },
+  "url": "http://www.museen-kitzingerland.de",
+  "telephone": "09321/5005",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184036",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

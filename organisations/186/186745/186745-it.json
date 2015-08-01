@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186745
+  },
+  "name": "Villa Faravelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Matteotti, 151",
+    "addressLocality": "Imperia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8858&mlon=8.02866#map=15/43.8858/8.02866",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8858,
+    "longitude": 8.02866
+  },
+  "telephone": "+39 0183/701561",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107229",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

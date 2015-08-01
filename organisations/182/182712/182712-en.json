@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182712
+  },
+  "name": "Ur- und Frühgeschichtliche Sammlung der Universität Erlangen-Nürnberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kochstraße 4",
+    "addressLocality": "Erlangen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91054"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6005&mlon=11.0166#map=15/49.6005/11.0166",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6005,
+    "longitude": 11.0166
+  },
+  "url": "http://www.uni-erlangen.de/infocenter/sammlungen/ur-und-fruehgeschichtliche-sammlung.shtml",
+  "telephone": "09131/8526677",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182712",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

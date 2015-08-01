@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140799
+  },
+  "name": "AUDUBON PARK AND ZOOLOGICAL GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6500 MAGAZINE STREET",
+    "addressLocality": "NEW ORLEANS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70178"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9264&mlon=-90.1314#map=15/29.9264/-90.1314",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9264,
+    "longitude": -90.1314
+  },
+  "url": "http://www.auduboninstitute.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200081",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

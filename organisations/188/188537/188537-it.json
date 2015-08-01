@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188537
+  },
+  "name": "Museo paleontologico di Bucine",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "XXV Aprile, 14",
+    "addressLocality": "Bucine",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4774&mlon=11.6181#map=15/43.4774/11.6181",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4774,
+    "longitude": 11.6181
+  },
+  "url": "http://www.icbucine.it",
+  "telephone": "+39 0559911328",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102854",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

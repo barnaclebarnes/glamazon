@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185641
+  },
+  "name": "Fondazione Museo d'arte dello splendore",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale dello Splendore, 112",
+    "addressLocality": "Giulianova",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7572&mlon=13.9527#map=15/42.7572/13.9527",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7572,
+    "longitude": 13.9527
+  },
+  "url": "http://www.museodellosplendore.it/",
+  "telephone": "+39 0858007157",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10.00 - 13.00 / 16.00 - 19.00; estivo: 10.00 - 13.00 / 17.00 - 22.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100097",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185601
+  },
+  "name": "Museo civico di documentazione storico-ambientale di Rocca Pia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Castello, SNC",
+    "addressLocality": "Rocca Pia",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9345&mlon=13.9775#map=15/41.9345/13.9775",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9345,
+    "longitude": 13.9775
+  },
+  "url": "http://www.rivistamu6.it/pdf/MU6_06_quartina_MUSEI_SPALLETTI.pdf          ",
+  "telephone": "+39 0864 203005",
+  "contactPoint": [
+
+  ],
+  "openingHours": "apertura estiva",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100020",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137356
+  },
+  "name": "NAVY PIER INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "600 EAST GRAND AVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60611-3419"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8922&mlon=-87.6084#map=15/41.8922/-87.6084",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8922,
+    "longitude": -87.6084
+  },
+  "url": "http://www.navypier.com",
+  "telephone": "+1 (312) 595-7437",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700501",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

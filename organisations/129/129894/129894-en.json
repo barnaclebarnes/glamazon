@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129894
+  },
+  "name": "WALK SAN FRANCISCO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1095 MARKET ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7806&mlon=-122.412#map=15/37.7806/-122.412",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7806,
+    "longitude": -122.412
+  },
+  "telephone": "+1 (415) 431-9255",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600020",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

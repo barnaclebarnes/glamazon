@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156543
+  },
+  "name": "RHODE ISLAND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "110 BENEVOLENT ST",
+    "addressLocality": "PROVIDENCE",
+    "addressRegion": "RI",
+    "addressCountry": "United States",
+    "postalCode": "02906-3152"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8251&mlon=-71.3957#map=15/41.8251/-71.3957",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8251,
+    "longitude": -71.3957
+  },
+  "url": "http://www.rihs.org",
+  "telephone": "+1 (401) 331-8575",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400047",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

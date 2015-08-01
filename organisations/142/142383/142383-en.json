@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142383
+  },
+  "name": "WATERTOWN FREE PUBLIC LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 MAIN ST.",
+    "addressLocality": "WATERTOWN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02172-4401"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3672&mlon=-71.1872#map=15/42.3672/-71.1872",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3672,
+    "longitude": -71.1872
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500013",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

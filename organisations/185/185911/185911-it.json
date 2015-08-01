@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185911
+  },
+  "name": "Museo civico archeologico di Bisaccia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Romuleo snc (Castello Ducale)",
+    "addressLocality": "Bisaccia",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0153&mlon=15.3759#map=15/41.0153/15.3759",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0153,
+    "longitude": 15.3759
+  },
+  "url": "http://www.museobisaccia.it",
+  "telephone": "+39 0827 89196",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì dalle 17.00 alle 19.00; gli altri giorni dalle 11.00 alle 13.00 e dalle 17.00 alle 19.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/V_6F9EKa-t5ei27k3nrkdXpIon4=/1000x1000/museums/logos/000/185/911/original/ae27b4547809aa7e93c5646f133bb7b23cd9a26.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107085",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

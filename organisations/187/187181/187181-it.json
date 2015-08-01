@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187181
+  },
+  "name": "Museo civico dei fossili",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Prestini, 5",
+    "addressLocality": "Besano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8897&mlon=8.88976#map=15/45.8897/8.88976",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8897,
+    "longitude": 8.88976
+  },
+  "telephone": "+39 0332919200",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/I_zB2a6a8LsGu3nElkRp5-rRnvU=/1000x1000/museums/logos/000/187/181/original/b1348ceae73b77aa16a9b1e319411b86d426a294.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103803",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183928
+  },
+  "name": "Kunstpavillon im alten Botanischen Garten",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sophienstr. 7a",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.142&mlon=11.5656#map=15/48.142/11.5656",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.142,
+    "longitude": 11.5656
+  },
+  "url": "http://www.kunstpavillon.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183928",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

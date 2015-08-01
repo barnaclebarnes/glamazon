@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155404
+  },
+  "name": "FRIENDS OF THE STATE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 NORTH STREET",
+    "addressLocality": "HARRISBURG",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17120-0101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2651&mlon=-76.8855#map=15/40.2651/-76.8855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2651,
+    "longitude": -76.8855
+  },
+  "url": "http://www.statemuseumpa.org",
+  "telephone": "+1 (717) 787-4980",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200598",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

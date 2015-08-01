@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187072
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Marconi, 1",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6047&mlon=9.55585#map=15/45.6047/9.55585",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6047,
+    "longitude": 9.55585
+  },
+  "url": "http://museodelnovecento.org",
+  "telephone": "+39 0288444061",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Fy8X6ajnA-4_yk9YRhyFGXJvu6M=/1000x1000/museums/logos/000/187/072/original/eda27df2e4da9eac6bc18b7f558cbfd8153e882.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110902",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

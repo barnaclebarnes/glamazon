@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140806
+  },
+  "name": "AUDUBON INSECTARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "423 CANAL ST",
+    "addressLocality": "NEW ORLEANS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70130"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9516&mlon=-90.0666#map=15/29.9516/-90.0666",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9516,
+    "longitude": -90.0666
+  },
+  "url": "http://www.auduboninstitute.org",
+  "telephone": "+1 (423) 226-2578",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200088",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

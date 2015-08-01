@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185559
+  },
+  "name": "Museo archeologico \"Filippo Ferrari\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Francesco , 8",
+    "addressLocality": "Guardiagrele",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1912&mlon=14.2208#map=15/42.1912/14.2208",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1912,
+    "longitude": 14.2208
+  },
+  "url": "http://cult.riqua.eu/museo-archeologico-guardiagrele/",
+  "telephone": "+39 0871800460 Cell. 3337586860",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Luglio: sab-dom 17.00-20.00; 1 agosto-20 agosto: 10.00-12.30 e 17.00-20.00 21 agosto-31 agosto: 17.00-20.00 resto dell'anno su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jbNN2DYeLnV3acPKECWZOnOokU0=/1000x1000/museums/logos/000/185/559/original/c75ba498d748eb15f10deda377ac58c91a9d835.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110925",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188784
+  },
+  "name": "Museo dell’arte contadina di Marciana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "della Marina, ",
+    "addressLocality": "Marciana",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7909&mlon=10.1674#map=15/42.7909/10.1674",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7909,
+    "longitude": 10.1674
+  },
+  "url": "http://www.comune.marciana.li.it",
+  "telephone": "+39 0565901215",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rDx0rMslIzjbw3A_nVK6yk_Rczc=/1000x1000/museums/logos/000/188/784/original/3c3fcab8b5eb599751279bf594adc0578d6c46.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105611",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

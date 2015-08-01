@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185584
+  },
+  "name": "Museo civico aufidenate",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Contrada della Maddalena, SNC",
+    "addressLocality": "Castel di Sangro",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7843&mlon=14.1083#map=15/41.7843/14.1083",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7843,
+    "longitude": 14.1083
+  },
+  "url": "http://www.altosangro.com/museoaufidenate",
+  "telephone": "+39 0864840826",
+  "contactPoint": [
+
+  ],
+  "openingHours": "1 Aprile - 30 Settembre: 10.30 - 12.30 / 17.00 - 20.00; 1 Ottobre - 31 Marzo: 10.00 - 13.00 /17.00 20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 1,50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/u8GBXrc9E1QOt4TCFdv-ObjON2s=/1000x1000/museums/logos/000/185/584/original/fcac2aed74c1f04ef08338a7874d8a91b4cbe7d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100005",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

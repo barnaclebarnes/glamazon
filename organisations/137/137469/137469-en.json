@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137469
+  },
+  "name": "ART ENCOUNTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "927 NOYES ST",
+    "addressLocality": "EVANSTON",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60201-6206"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0584&mlon=-87.6837#map=15/42.0584/-87.6837",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0584,
+    "longitude": -87.6837
+  },
+  "url": "http://artencounter.org",
+  "telephone": "+1 (847) 328-9222",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700614",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

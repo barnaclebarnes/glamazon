@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188352
+  },
+  "name": "Museo taverna dell'Aquila",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Tempio, 6",
+    "addressLocality": "Ozieri",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7342&mlon=8.98585#map=15/40.7342/8.98585",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7342,
+    "longitude": 8.98585
+  },
+  "telephone": "+39 079 786249",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni su prenotazione con orari da concordare",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/INMUTBJtToom62862mb6Jeyzgv4=/1000x1000/museums/logos/000/188/352/original/f6ecb9168c25ea7d21f547696817d229a3c763.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103460",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186460
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sublacense, km 30",
+    "addressLocality": "Arcinazzo Romano",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8787&mlon=13.1164#map=15/41.8787/13.1164",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8787,
+    "longitude": 13.1164
+  },
+  "url": "http://www.arcinazzo.org",
+  "telephone": "+39 0774808006",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mw8y6dEniCk_sEAwRU2E7hCyqwg=/1000x1000/museums/logos/000/186/460/original/477ce0f593a88d58d683316c483c1ca7a7f8d5a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103945",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

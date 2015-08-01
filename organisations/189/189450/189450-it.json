@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189450
+  },
+  "name": "Oratorio San Rocco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Lucia, ",
+    "addressLocality": "Padova",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4086&mlon=11.8756#map=15/45.4086/11.8756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4086,
+    "longitude": 11.8756
+  },
+  "url": "http://padovacultura.padovanet.it/homepage-6.0/2010/12/oratorio_di_s_rocco.html",
+  "telephone": "+39 049660836",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6eoBqkpNgwCF_-uSJX4WdBV7c1Q=/1000x1000/museums/logos/000/189/450/original/1af034c9275c61746a24197838b166d6eaf022.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100936",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

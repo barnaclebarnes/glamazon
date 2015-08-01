@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164435
+  },
+  "name": "Victoria Police Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8218&mlon=144.953#map=15/-37.8218/144.953",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8218,
+    "longitude": 144.953
+  },
+  "url": "http://www.policemuseum.vic.gov.au",
+  "telephone": "(03) 9247 6354",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Monday to Friday\r\n10am - 4pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "victoria-police-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/victoria-police-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

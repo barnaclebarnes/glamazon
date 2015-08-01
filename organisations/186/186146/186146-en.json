@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186146
+  },
+  "name": "National Archaelogical Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XX Settembre n. 122, ",
+    "addressLocality": "Ferrara",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8274&mlon=11.6273#map=15/44.8274/11.6273",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8274,
+    "longitude": 11.6273
+  },
+  "url": "http://www.archeoferrara.beniculturali.it",
+  "telephone": "+39 0532 66299 \n        \n          (+39) 0532 66299",
+  "contactPoint": [
+
+  ],
+  "openingHours": "from Tuesday to Sunday hours 9.30-17.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 5,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/a2XB4y-H76VjRx59e8XC4g8pYsA=/1000x1000/museums/logos/000/186/146/original/e9dedb157f2161c8a5fb914c3ae89af2bfd35558.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20325",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

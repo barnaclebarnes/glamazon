@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150404
+  },
+  "name": "FORT HOMESTEAD ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2032",
+    "addressLocality": "POUGHKEEPSIE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12601-0132"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6982&mlon=-73.9216#map=15/41.6982/-73.9216",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6982,
+    "longitude": -73.9216
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601698",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

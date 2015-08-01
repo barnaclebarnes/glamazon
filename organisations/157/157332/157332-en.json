@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157332
+  },
+  "name": "VANDERBILT FINE ARTS GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1220 21ST AVE S",
+    "addressLocality": "NASHVILLE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37203"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.1415&mlon=-86.8002#map=15/36.1415/-86.8002",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.1415,
+    "longitude": -86.8002
+  },
+  "url": "http://www.vanderbilt.edu/gallery",
+  "telephone": "+1 (615) 322-0605",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/195167099818"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

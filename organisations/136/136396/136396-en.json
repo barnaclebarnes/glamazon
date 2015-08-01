@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136396
+  },
+  "name": "GRIFFIN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "POST OFFICE BOX T",
+    "addressLocality": "GRIFFIN",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30224"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.2281&mlon=-84.2563#map=15/33.2281/-84.2563",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.2281,
+    "longitude": -84.2563
+  },
+  "url": "http://www.cityofgriffin.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300667",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

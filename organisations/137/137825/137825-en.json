@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137825
+  },
+  "name": "DES PLAINES HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "789 PEARSON ST",
+    "addressLocality": "DES PLAINES",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60016-4506"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0391&mlon=-87.8869#map=15/42.0391/-87.8869",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0391,
+    "longitude": -87.8869
+  },
+  "url": "http://desplaineshistory.org",
+  "telephone": "+1 (847) 391-5399",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700970",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

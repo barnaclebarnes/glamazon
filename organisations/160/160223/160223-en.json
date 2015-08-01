@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160223
+  },
+  "name": "KIDSPLAYCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "20 ELLIOT ST",
+    "addressLocality": "BRATTLEBORO",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05301"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8521&mlon=-72.5585#map=15/42.8521/-72.5585",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8521,
+    "longitude": -72.5585
+  },
+  "url": "http://www.kidsplayce.org",
+  "telephone": "+1 (802) 254-5212",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000029",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

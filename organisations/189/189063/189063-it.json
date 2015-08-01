@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189063
+  },
+  "name": "Museo mercantile",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Portici, 39",
+    "addressLocality": "Bolzano/Bozen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4996&mlon=11.3542#map=15/46.4996/11.3542",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4996,
+    "longitude": 11.3542
+  },
+  "url": "http://www.camcom.bz.it",
+  "telephone": "+39 471945702",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da lunedì a sabato dalle ore 10.00 alle 12.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/k_MqPIkM8ixul-r4sSOESf_7IEs=/1000x1000/museums/logos/000/189/063/original/2421259c4ddcc4564feda0e9e4f3cf9402b275d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100522",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137250
+  },
+  "name": "CHICAGO GENEALOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1160",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60690-1160"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8793&mlon=-87.6308#map=15/41.8793/-87.6308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8793,
+    "longitude": -87.6308
+  },
+  "url": "http://www.chicagogenealogy.org/index.html",
+  "telephone": "+1 (312) 725-1306",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700395",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

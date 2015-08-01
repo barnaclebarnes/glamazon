@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130417
+  },
+  "name": "CABOT'S PUEBLO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "67616 DESERT VIEW AVE",
+    "addressLocality": "DESERT HOT SPRINGS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92240"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9578&mlon=-116.482#map=15/33.9578/-116.482",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9578,
+    "longitude": -116.482
+  },
+  "url": "http://www.cabotsmuseum.org",
+  "telephone": "+1 (760) 329-7610",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dfGKoTL0OmzgLHkpoxV4sWv6XnI=/1000x1000/museums/logos/000/130/417/original/Cabots-Pueblo-Museum.jpg",
+    "license": "CC0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Cabot's_Pueblo_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600543",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

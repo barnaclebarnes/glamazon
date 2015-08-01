@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129961
+  },
+  "name": "SAN FRANCISCO RAILWAY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "77 STEUART ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94105"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7935&mlon=-122.394#map=15/37.7935/-122.394",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7935,
+    "longitude": -122.394
+  },
+  "url": "http://www.streetcar.org",
+  "telephone": "+1 (610) 861-0600",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Xhcce5MYjUbFqMbQcqHua9nOZWg=/1000x1000/museums/logos/000/129/961/original/SFRM_Entrance_2007.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/San_Francisco_Railway_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600087",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

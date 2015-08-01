@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185973
+  },
+  "name": "Museo storico militare di Prata Sannita",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello- Largo Portelle, ",
+    "addressLocality": "Prata Sannita",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4269&mlon=14.2049#map=15/41.4269/14.2049",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4269,
+    "longitude": 14.2049
+  },
+  "telephone": "+39 0823941080",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/N5xYn3TRiRgdoqMF_esd07s9S1o=/1000x1000/museums/logos/000/185/973/original/6bd39faf4f5983c6712012deb75c447f63a87b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101815",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

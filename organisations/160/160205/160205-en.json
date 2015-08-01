@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160205
+  },
+  "name": "THE PARK-MCCULLOUGH HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "WEST STREET AND PARK STREET",
+    "addressLocality": "NORTH BENNINGTON",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05257"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9373&mlon=-73.2439#map=15/42.9373/-73.2439",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9373,
+    "longitude": -73.2439
+  },
+  "telephone": "+1 (802) 442-5441",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000011",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182786
+  },
+  "name": "Werdenfels Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ludwigstraße 47",
+    "addressLocality": "Garmisch-Partenkirchen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82467"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.4936&mlon=11.1109#map=15/47.4936/11.1109",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.4936,
+    "longitude": 11.1109
+  },
+  "url": "http://www.werdenfels-museum.de",
+  "telephone": "08821/751710",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182786",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

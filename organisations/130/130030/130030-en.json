@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130030
+  },
+  "name": "RANCHO LOS CERRITOS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4600 N VIRGINIA RD",
+    "addressLocality": "LONG BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90807"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8363&mlon=-118.194#map=15/33.8363/-118.194",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8363,
+    "longitude": -118.194
+  },
+  "url": "http://www.rancholoscerritos.org",
+  "telephone": "+1 (562) 206-2040",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/X-rcyUvy0h8GhQliGz20ubCvLpQ=/1000x1000/museums/logos/000/130/030/original/Casa_de_los_Cerritos_2C_4600_American_Avenue_2C_Long_Beach__28Los_Angeles_County_2C_California_29.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Rancho_Los_Cerritos",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600156",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

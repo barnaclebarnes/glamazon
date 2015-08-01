@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182857
+  },
+  "name": "Bergbaumuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausstraße 2",
+    "addressLocality": "Hausham",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83734"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7595&mlon=11.8287#map=15/47.7595/11.8287",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7595,
+    "longitude": 11.8287
+  },
+  "url": "http://www.hausham.de/hausham/freizeit_kultur/bergbaumuseum.php",
+  "telephone": "08026/39090",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182857",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

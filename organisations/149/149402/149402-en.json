@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149402
+  },
+  "name": "THE PEOPLES MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "22-27 CRESCENT STREET",
+    "addressLocality": "ASTORIA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11105-3105"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7785&mlon=-73.9147#map=15/40.7785/-73.9147",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7785,
+    "longitude": -73.9147
+  },
+  "url": "http://www.thepeoplesmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600696",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188014
+  },
+  "name": "Museo Villa Giulia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Zanitello, 8 - Pallanza, ",
+    "addressLocality": "Verbania",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9215&mlon=8.55156#map=15/45.9215/8.55156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9215,
+    "longitude": 8.55156
+  },
+  "url": "http://www.craavillagiulia.com",
+  "telephone": "+39 0323557691",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106756",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

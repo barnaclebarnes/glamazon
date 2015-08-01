@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151049
+  },
+  "name": "ITHACA CLOCK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "136 W STATE ST",
+    "addressLocality": "ITHACA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14845"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4395&mlon=-76.5004#map=15/42.4395/-76.5004",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4395,
+    "longitude": -76.5004
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602343",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

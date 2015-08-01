@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186427
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Duomo, 1",
+    "addressLocality": "Sezze",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4982&mlon=13.056#map=15/41.4982/13.056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4982,
+    "longitude": 13.056
+  },
+  "telephone": "+39 0773 886358",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8qOaKwDuYhSMsNtmdxKccs_nWko=/1000x1000/museums/logos/000/186/427/original/84f3bbb8f450bf3882578aaa01f1a5614f49ec.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108170",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

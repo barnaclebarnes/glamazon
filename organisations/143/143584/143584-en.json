@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143584
+  },
+  "name": "KALAMAZOO VALLEY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "230 N ROSE ST",
+    "addressLocality": "KALAMAZOO",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2929&mlon=-85.5848#map=15/42.2929/-85.5848",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2929,
+    "longitude": -85.5848
+  },
+  "url": "http://kvm.kvcc.edu",
+  "telephone": "+1 (269) 373-7990",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600121",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148743
+  },
+  "name": "THE ROCKWELL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "111 CEDAR STREET",
+    "addressLocality": "CORNING",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14830"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1425&mlon=-77.0527#map=15/42.1425/-77.0527",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1425,
+    "longitude": -77.0527
+  },
+  "telephone": "+1 (607) 937-5386",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600037",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

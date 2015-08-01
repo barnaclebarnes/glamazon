@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183272
+  },
+  "name": "Rathausgalerie Kunsthalle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marienplatz 8",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80331"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1378&mlon=11.5753#map=15/48.1378/11.5753",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1378,
+    "longitude": 11.5753
+  },
+  "url": "http://www.muenchen.de/rathausgalerie",
+  "telephone": "089/23324511",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183272",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

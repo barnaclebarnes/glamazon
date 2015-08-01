@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189321
+  },
+  "name": "Museo del merletto di Tuoro sul Trasimeno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guglielmi, ",
+    "addressLocality": "Tuoro sul Trasimeno",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1762&mlon=12.09#map=15/43.1762/12.09",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1762,
+    "longitude": 12.09
+  },
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NK4ZfsxUVE2tIuG1ilNE2rHU7-k=/1000x1000/museums/logos/000/189/321/original/7c7591e80fc67a3708887485dbd76b846ad9148.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108081",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

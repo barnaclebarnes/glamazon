@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136085
+  },
+  "name": "MOREHOUSE COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "830 WESTVIEW DR SW",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30314-3773"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7467&mlon=-84.4164#map=15/33.7467/-84.4164",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7467,
+    "longitude": -84.4164
+  },
+  "url": "http://morehouse.edu",
+  "telephone": "+1 (404) 681-2800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300356",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

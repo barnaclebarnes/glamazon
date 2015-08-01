@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132086
+  },
+  "name": "FRESNO ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2233 N 1ST ST",
+    "addressLocality": "FRESNO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93703-2364"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.7708&mlon=-119.773#map=15/36.7708/-119.773",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.7708,
+    "longitude": -119.773
+  },
+  "url": "http://www.fresnoartmuseum.org",
+  "telephone": "+1 (559) 441-4221",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/82033314252"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/fresnofam"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602212",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

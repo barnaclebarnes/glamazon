@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135802
+  },
+  "name": "FORT STEWART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2022 FRANK COCHRAN DR",
+    "addressLocality": "FORT STEWART",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "31314"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.8616&mlon=-81.6127#map=15/31.8616/-81.6127",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.8616,
+    "longitude": -81.6127
+  },
+  "url": "http://www.stewart.army.mil/about/history.asp",
+  "telephone": "+1 (912) 767-7885",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300073",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

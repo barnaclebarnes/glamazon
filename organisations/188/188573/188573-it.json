@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188573
+  },
+  "name": "Ecomuseo della casa contadina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": ", 50/A",
+    "addressLocality": "Subbiano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.569&mlon=11.8066#map=15/43.569/11.8066",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.569,
+    "longitude": 11.8066
+  },
+  "url": "http://www.ecomuseo.casentino.toscana.it",
+  "telephone": "+39 0575 489769 - 0575 423924",
+  "contactPoint": [
+
+  ],
+  "openingHours": "il sabato e la domenica, dalle 15.00 alle 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nOyndIxicX1uR20F1u2w39xkVDw=/1000x1000/museums/logos/000/188/573/original/b15be58e2d29c52e89b16f202ea534e5678795b5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102890",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

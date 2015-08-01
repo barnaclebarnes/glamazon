@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143321
+  },
+  "name": "FRIENDS OF LYNN HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "590 WASHINGTON ST",
+    "addressLocality": "LYNN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.463&mlon=-70.9444#map=15/42.463/-70.9444",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.463,
+    "longitude": -70.9444
+  },
+  "url": "http://www.lynnmuseum.org",
+  "telephone": "+1 (781) 581-6200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500951",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

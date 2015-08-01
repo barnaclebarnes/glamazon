@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190019
+  },
+  "name": "GLACIER NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 128",
+    "addressLocality": "WEST GLACIER",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59936"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4948&mlon=-113.981#map=15/48.4948/-113.981",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4948,
+    "longitude": -113.981
+  },
+  "telephone": "+1 (406) 888-7936",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000307",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

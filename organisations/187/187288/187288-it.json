@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187288
+  },
+  "name": "Museo dell’alto Medioevo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Arrigo, 1",
+    "addressLocality": "Ascoli Piceno",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6056&mlon=9.89938#map=15/45.6056/9.89938",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6056,
+    "longitude": 9.89938
+  },
+  "url": "http://www.museionline.info",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111451",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

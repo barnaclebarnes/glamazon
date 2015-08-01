@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188331
+  },
+  "name": "Collezione permanente \"Pinacoteca Antonio Atza\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vittorio Emanuele II, 74",
+    "addressLocality": "Bosa",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2957&mlon=8.50229#map=15/40.2957/8.50229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2957,
+    "longitude": 8.50229
+  },
+  "url": "http://www.bosaonline.it",
+  "telephone": "+39 0785 377043",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10.00-13.00 e 16.00-18.00 (inverno, altri orari solo su prenotazione)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Bn66askBz26qMQCE0MPhp9WxxfU=/1000x1000/museums/logos/000/188/331/original/cea38417ee739dcae7ffc9b1f3825d9d1b43bb0.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103418",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183414
+  },
+  "name": "Keramikmuseum Schloss Obernzell",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßplatz 1",
+    "addressLocality": "Obernzell",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94130"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5541&mlon=13.6409#map=15/48.5541/13.6409",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5541,
+    "longitude": 13.6409
+  },
+  "url": "http://www.obernzell.de/index.php?option=com_content&task=view&id=100&Itemid=145",
+  "telephone": "08591/1066",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183414",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

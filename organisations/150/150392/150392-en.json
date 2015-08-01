@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150392
+  },
+  "name": "MUSEUM OF BIBLICAL ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1865 BROADWAY",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10023-7505"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7702&mlon=-73.9822#map=15/40.7702/-73.9822",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7702,
+    "longitude": -73.9822
+  },
+  "url": "http://www.mobia.org",
+  "telephone": "+1 (212) 408-1500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601686",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186451
+  },
+  "name": "Museo civico di Albano Villa Ferrajoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Risorgimento, 3",
+    "addressLocality": "Albano Laziale",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7251&mlon=12.6643#map=15/41.7251/12.6643",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7251,
+    "longitude": 12.6643
+  },
+  "url": "http://www.museumgrandtour.org",
+  "telephone": "+39 06 9323490",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dom.-ven. 9.00 - 13.00 mer.e giov. anche 16.00 - 18.30 sab. 8.00 - 14.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YhTM4QgRcces-hJ3tPx2fcVH8b0=/1000x1000/museums/logos/000/186/451/original/8a252c3d6d36432f7ebb8d6f78254545535f72d1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "117282",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

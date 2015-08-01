@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132209
+  },
+  "name": "SAN FRANCISCO FRIENDS OF THE URBAN FOREST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1007 GENERAL KENNEDY AVE #1",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94129-0456"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8008&mlon=-122.451#map=15/37.8008/-122.451",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8008,
+    "longitude": -122.451
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602335",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

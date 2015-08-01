@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132687
+  },
+  "name": "BURBANK AVIATION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1215",
+    "addressLocality": "BURBANK",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91507-9150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1865&mlon=-118.362#map=15/34.1865/-118.362",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1865,
+    "longitude": -118.362
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602813",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

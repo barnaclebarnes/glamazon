@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186114
+  },
+  "name": "MAMBO - Museo d'Arte Moderna di Bologna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Don Minzoni, 14, ",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5028&mlon=11.337#map=15/44.5028/11.337",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5028,
+    "longitude": 11.337
+  },
+  "url": "http://www.mambo-bologna.org",
+  "telephone": "+39 0516496611",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1bmQKu81EOb_u9-5PJcSwPFMOiU=/1000x1000/museums/logos/000/186/114/original/8ee056ca23bf273c4794e39923fee9e7579fe0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101935",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186182
+  },
+  "name": "Museo Bodoniano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale della Pilotta, 3",
+    "addressLocality": "Parma",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8048&mlon=10.326#map=15/44.8048/10.326",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8048,
+    "longitude": 10.326
+  },
+  "url": "http://www.museobodoni.beniculturali.it",
+  "telephone": "+39 0521220449\n        \n          (+ 39) 0521 220449",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da lunedì a sabato 9.00 - 13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Yfel8LALqskPVv85GhffKVWhh-c=/1000x1000/museums/logos/000/186/182/original/a79f7abf5244c562c2f1ef49cc3b9725cb250e6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102181",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

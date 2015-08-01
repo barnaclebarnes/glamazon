@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163900
+  },
+  "name": "Gippsland Art Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.1118&mlon=147.064#map=15/-38.1118/147.064",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.1118,
+    "longitude": 147.064
+  },
+  "url": "http://www.wellington.vic.gov.au/Enjoying-Wellington/Gippsland-Art-Gallery",
+  "telephone": "51 423371",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10am - 5pm Mon - Fri, 12pm - 4pm Sat - Sun",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "gippsland-art-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/gippsland-art-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

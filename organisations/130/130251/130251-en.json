@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130251
+  },
+  "name": "LATHROP HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "627 HAMILTON ST",
+    "addressLocality": "REDWOOD CITY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94063"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.487&mlon=-122.23#map=15/37.487/-122.23",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.487,
+    "longitude": -122.23
+  },
+  "url": "http://lathrophouse.org",
+  "telephone": "+1 (650) 365-5564",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CMf-beh2c0Wt5Ngdu-PtoSA9ZUo=/1000x1000/museums/logos/000/130/251/original/Bryan_Lathrop_House_2C_120_East_Bellevue_Place_2C_Chicago__28Cook_County_2C_Illinois_29_-_correct_version.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Lathrop_House",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600377",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

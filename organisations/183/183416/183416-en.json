@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183416
+  },
+  "name": "Heimatstube Oberreute – Das Museum im Rathaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 33",
+    "addressLocality": "Oberreute",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "88179"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5626&mlon=9.94281#map=15/47.5626/9.94281",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5626,
+    "longitude": 9.94281
+  },
+  "url": "http://www.oberreute.de",
+  "telephone": "08387/2253",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183416",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186197
+  },
+  "name": "Museo ornitologico di Piacenza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Caorsana, 94",
+    "addressLocality": "Piacenza",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0408&mlon=9.75056#map=15/45.0408/9.75056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0408,
+    "longitude": 9.75056
+  },
+  "url": "http://www.museofoi.it",
+  "telephone": "+39 0523 591522",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì - domenica escluso il sabato 9.00 – 12.00/15.00 – 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lnm2UDod6FzOTuxy7AkPGf7RoYQ=/1000x1000/museums/logos/000/186/197/original/90b9b74c156fba814c5befc09dca6365c44e45d0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111196",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

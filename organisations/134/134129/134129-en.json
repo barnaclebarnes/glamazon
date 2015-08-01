@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134129
+  },
+  "name": "MILFORD AQUARIUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1198",
+    "addressLocality": "MILFORD",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19963"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9295&mlon=-75.4165#map=15/38.9295/-75.4165",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9295,
+    "longitude": -75.4165
+  },
+  "url": "http://milfordaquarium.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000061",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

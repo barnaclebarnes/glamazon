@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186743
+  },
+  "name": "Museo navale internazionale del ponente ligure",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 11",
+    "addressLocality": "Imperia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8752&mlon=8.01422#map=15/43.8752/8.01422",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8752,
+    "longitude": 8.01422
+  },
+  "url": "http://www.sullacrestadellonda.it",
+  "telephone": "+39 0183/651541",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100413",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

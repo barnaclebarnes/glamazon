@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144823
+  },
+  "name": "MINNESOTA STREET CAR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4291 QUEEN AVE S",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55414-0467"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9255&mlon=-93.3106#map=15/44.9255/-93.3106",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9255,
+    "longitude": -93.3106
+  },
+  "url": "http://www.trolleyride.org",
+  "telephone": "+1 (952) 925-3543",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700263",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

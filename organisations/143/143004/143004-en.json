@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143004
+  },
+  "name": "HINGHAM HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 434",
+    "addressLocality": "HINGHAM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02013"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2292&mlon=-70.8892#map=15/42.2292/-70.8892",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2292,
+    "longitude": -70.8892
+  },
+  "url": "http://www.hinghamhistorical.org/",
+  "telephone": "+1 (781) 749-7721",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500634",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

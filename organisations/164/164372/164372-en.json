@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164372
+  },
+  "name": "The Pioneer Settlement",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-35.3487&mlon=143.567#map=15/-35.3487/143.567",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -35.3487,
+    "longitude": 143.567
+  },
+  "url": "http://www.pioneersettlement.com.au/",
+  "telephone": "03 5036 2413",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "pioneer-settlement",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/pioneer-settlement",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

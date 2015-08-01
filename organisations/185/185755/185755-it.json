@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185755
+  },
+  "name": "Museo del Santuario di Sant'Umile da Bisignano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Santuario",
+    "addressLocality": "Bisignano",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5073&mlon=16.2842#map=15/39.5073/16.2842",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5073,
+    "longitude": 16.2842
+  },
+  "url": "http://www.santumile.com",
+  "telephone": "+39 0984 951154",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_T8B5WUXlo_Emgmw2Xb-iSx9DgM=/1000x1000/museums/logos/000/185/755/original/8d75996cb88a8374fa9f96795db94b3818faa0e2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110936",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

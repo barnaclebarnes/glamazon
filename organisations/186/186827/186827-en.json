@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186827
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Giovanni XXIII, 17",
+    "addressLocality": "Caravaggio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4927&mlon=9.64035#map=15/45.4927/9.64035",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4927,
+    "longitude": 9.64035
+  },
+  "url": "http://www.comune.caravaggio.bg.it",
+  "telephone": "+39 0363356213",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Vc1Piqcut3yznrZBoI4kC-Dx6IA=/1000x1000/museums/logos/000/186/827/original/f4793dfc3d1e14626ffb129bd6311d869b961be.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103510",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

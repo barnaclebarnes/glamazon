@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132204
+  },
+  "name": "INSTITUTE FOR HISTORICAL STUDY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 5743",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94705"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8578&mlon=-122.249#map=15/37.8578/-122.249",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8578,
+    "longitude": -122.249
+  },
+  "url": "http://www.instituteforhistoricalstudy.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602330",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

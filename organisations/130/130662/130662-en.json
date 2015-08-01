@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130662
+  },
+  "name": "CALIFORNIA SPORTS HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10082 BIG PINE DR",
+    "addressLocality": "ALTA LOMA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91737-4247"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1335&mlon=-117.586#map=15/34.1335/-117.586",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1335,
+    "longitude": -117.586
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/California_Sports_Hall_of_Fame",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600788",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

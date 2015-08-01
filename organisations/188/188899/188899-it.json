@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188899
+  },
+  "name": "Museo di anatomia e istologia patologica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Roma, 57",
+    "addressLocality": "Pisa",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7206&mlon=10.3956#map=15/43.7206/10.3956",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7206,
+    "longitude": 10.3956
+  },
+  "url": "http://paleopatologia.it/museo",
+  "telephone": "+39 050992894",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103153",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

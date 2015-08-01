@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142648
+  },
+  "name": "WORCESTER NATURAL HISTORY SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "222 HARRINGTON WAY",
+    "addressLocality": "WORCESTER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01604-1809"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2631&mlon=-71.7687#map=15/42.2631/-71.7687",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2631,
+    "longitude": -71.7687
+  },
+  "url": "http://www.ecotarium.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500278",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137571
+  },
+  "name": "CHICAGO SPORTS HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "222 W ONTARIO ST",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60654-3652"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8932&mlon=-87.6347#map=15/41.8932/-87.6347",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8932,
+    "longitude": -87.6347
+  },
+  "telephone": "+1 (312) 944-0617",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700716",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

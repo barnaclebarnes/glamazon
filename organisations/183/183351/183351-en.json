@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183351
+  },
+  "name": "Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stadtplatz 10",
+    "addressLocality": "Neustadt",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92660"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7303&mlon=12.171#map=15/49.7303/12.171",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7303,
+    "longitude": 12.171
+  },
+  "url": "http://www.neustadt-waldnaab.de/museum.htm",
+  "telephone": "09602/8929",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183351",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

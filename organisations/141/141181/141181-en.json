@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141181
+  },
+  "name": "PORTLAND FIRE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "157 SPRING ST",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6518&mlon=-70.2638#map=15/43.6518/-70.2638",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6518,
+    "longitude": -70.2638
+  },
+  "url": "http://www.portlandfiremuseum.com",
+  "telephone": "+1 (207) 772-2040",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300030",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

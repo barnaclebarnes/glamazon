@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188277
+  },
+  "name": "Museo del coltello sardo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 15",
+    "addressLocality": "Arbus",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5267&mlon=8.59808#map=15/39.5267/8.59808",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5267,
+    "longitude": 8.59808
+  },
+  "url": "http://www.museodelcoltello.it",
+  "telephone": "+39 070 9759220",
+  "contactPoint": [
+
+  ],
+  "openingHours": "09,00 – 12,00 e 16,00 – 20,00 (dal lunedì al venerdì); 08,00 – 12,00 ( sabato) sabato. pom . su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Sc4Ov_QhgkRNjYMxP-Na5Qqglps=/1000x1000/museums/logos/000/188/277/original/70c1d6b388ab9df98bcde0aa821ff4a5c48b69.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103479",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

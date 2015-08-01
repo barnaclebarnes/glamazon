@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150756
+  },
+  "name": "SEWARD HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "33 SOUTH ST",
+    "addressLocality": "AUBURN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13021-3929"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9293&mlon=-76.566#map=15/42.9293/-76.566",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9293,
+    "longitude": -76.566
+  },
+  "url": "http://www.sewardhouse.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602050",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

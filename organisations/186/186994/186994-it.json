@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186994
+  },
+  "name": "Museo manzoniano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Don Guanella, 1",
+    "addressLocality": "Lecco",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.853&mlon=9.39007#map=15/45.853/9.39007",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.853,
+    "longitude": 9.39007
+  },
+  "url": "http://www.museilecco.org",
+  "telephone": "+39 0341481247",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VcQev8mNYDSO2XUiXP-WPE4wT1s=/1000x1000/museums/logos/000/186/994/original/cbb1d49f69bb5889db7ec370e7cbf3da6a1ca.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103655",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160203
+  },
+  "name": "SOUTHERN VERMONT NATURAL HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ROUTE 9",
+    "addressLocality": "MARLBORO",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05301"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8632&mlon=-72.7402#map=15/42.8632/-72.7402",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8632,
+    "longitude": -72.7402
+  },
+  "url": "http://www.vermontmuseum.org",
+  "telephone": "+1 (802) 464-0048",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000009",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

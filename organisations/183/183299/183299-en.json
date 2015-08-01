@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183299
+  },
+  "name": "Valentin-Karlstadt-Musäum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tal 50",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80331"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1352&mlon=11.5817#map=15/48.1352/11.5817",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1352,
+    "longitude": 11.5817
+  },
+  "url": "http://www.valentin-musaeum.de",
+  "telephone": "089/223266",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183299",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

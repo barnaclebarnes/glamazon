@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187082
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Magenta, 57",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4657&mlon=9.17316#map=15/45.4657/9.17316",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4657,
+    "longitude": 9.17316
+  },
+  "url": "http://www.iltrivulzio.it",
+  "telephone": "+39 02 43006522",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/du6cFV4xTXhT8UPRLof2_6uvjWA=/1000x1000/museums/logos/000/187/082/original/3e34785cf18da04d983849b6d829d748bb112995.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106827",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

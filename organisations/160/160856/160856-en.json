@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160856
+  },
+  "name": "BLACKSBURG CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1531 SOUTH MAIN STREET",
+    "addressLocality": "BLACKSBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24060-5821"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2129&mlon=-80.4#map=15/37.2129/-80.4",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2129,
+    "longitude": -80.4
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100362",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151771
+  },
+  "name": "GREENSBORO CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "220 N CHURCH ST",
+    "addressLocality": "GREENSBORO",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27401-2918"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.0751&mlon=-79.7866#map=15/36.0751/-79.7866",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.0751,
+    "longitude": -79.7866
+  },
+  "url": "http://gcmuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700642",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

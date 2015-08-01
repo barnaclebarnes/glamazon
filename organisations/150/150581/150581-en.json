@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150581
+  },
+  "name": "COLLABORATIVE URBAN SCULPTURE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "62 WASHINGTON AVE",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11205-1202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6969&mlon=-73.9676#map=15/40.6969/-73.9676",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6969,
+    "longitude": -73.9676
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601875",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

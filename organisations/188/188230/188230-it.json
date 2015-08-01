@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188230
+  },
+  "name": "Chiostro ex Convento di San Domenico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Duomo",
+    "addressLocality": "Taranto",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4755&mlon=17.2298#map=15/40.4755/17.2298",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4755,
+    "longitude": 17.2298
+  },
+  "telephone": "+39 0994713511",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni 8,30 - 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jJ6x5KRVZk0RPXiu11oA4yHZ8kQ=/1000x1000/museums/logos/000/188/230/original/f888cc86c4534936b9427abd49fcc2a1c80847.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107792",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

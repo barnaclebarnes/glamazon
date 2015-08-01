@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135513
+  },
+  "name": "UNIVERSITY OF FLORIDA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "219 GRINTER HALL",
+    "addressLocality": "GAINESVILLE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32611"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.642&mlon=-82.3505#map=15/29.642/-82.3505",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.642,
+    "longitude": -82.3505
+  },
+  "url": "http://rgp.ufl.edu/research",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201068",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

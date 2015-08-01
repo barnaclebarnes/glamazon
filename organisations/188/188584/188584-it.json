@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188584
+  },
+  "name": "MUMELOC - Museo della memoria locale di Cerreto Guidi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dante Desideri, ",
+    "addressLocality": "Cerreto Guidi",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7598&mlon=10.8802#map=15/43.7598/10.8802",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7598,
+    "longitude": 10.8802
+  },
+  "url": "http://www.mumeloc.it",
+  "telephone": "+39 0571906247",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DDL7uLdl4GcwcT9GC7kEqn_JIPw=/1000x1000/museums/logos/000/188/584/original/2fc34193b374f2f448d65e5dbbaa154a85cbe49.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110769",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

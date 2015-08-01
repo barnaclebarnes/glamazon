@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154240
+  },
+  "name": "OREGON NIKKEI LEGACY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "121 NW 2ND AVE",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97209-3903"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5243&mlon=-122.672#map=15/45.5243/-122.672",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5243,
+    "longitude": -122.672
+  },
+  "url": "http://www.oregonnikkei.org",
+  "telephone": "+1 (503) 224-1458",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/36933224085"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100033",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

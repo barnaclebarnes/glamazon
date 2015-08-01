@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163714
+  },
+  "name": "BirdLife Australia",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8048&mlon=144.96#map=15/-37.8048/144.96",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8048,
+    "longitude": 144.96
+  },
+  "url": "http://birdlife.org.au/",
+  "telephone": "(03) 9347 0757",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "birdlife-australia",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/birdlife-australia",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

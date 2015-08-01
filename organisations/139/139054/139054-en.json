@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139054
+  },
+  "name": "HEARTLAND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "119 9TH ST SW",
+    "addressLocality": "CLARION",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50525"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7314&mlon=-93.7443#map=15/42.7314/-93.7443",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7314,
+    "longitude": -93.7443
+  },
+  "url": "http://www.heartlandmuseum.org",
+  "telephone": "+1 (515) 602-6000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900091",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

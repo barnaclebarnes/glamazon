@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186214
+  },
+  "name": "Rocca Estense - Pinacoteca Coppelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C.so Umberto I, 22",
+    "addressLocality": "San Martino in Rio",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7333&mlon=10.7862#map=15/44.7333/10.7862",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7333,
+    "longitude": 10.7862
+  },
+  "url": "http://comune.sanmartinoinrio.re.it",
+  "telephone": "+39 0522 636726",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Domenica dalle 10.00 alle 12.30 e dalle 15.30 alle 18.30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111239",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

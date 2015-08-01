@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186929
+  },
+  "name": "Museo civico archeologico Anton Maria Mucchi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fantoni, 49",
+    "addressLocality": "Salò",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6072&mlon=10.5311#map=15/45.6072/10.5311",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6072,
+    "longitude": 10.5311
+  },
+  "telephone": "+39 036529680",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ik_qnp78Y0tvaIVSpTWbKdaoass=/1000x1000/museums/logos/000/186/929/original/cc2f9ce9a2cd71479faacc018b4c12aa6910a4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103597",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

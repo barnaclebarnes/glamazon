@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135111
+  },
+  "name": "PENSACOLA HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "117 E GOVERNMENT ST",
+    "addressLocality": "PENSACOLA",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32502-5801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4095&mlon=-87.2132#map=15/30.4095/-87.2132",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4095,
+    "longitude": -87.2132
+  },
+  "url": "http://www.pensacolahistory.org",
+  "telephone": "+1 (850) 433-1559",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200666",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

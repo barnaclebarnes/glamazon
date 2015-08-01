@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141244
+  },
+  "name": "BOWDOIN COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5600 COLLEGE STA",
+    "addressLocality": "BRUNSWICK",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04011-8447"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9011&mlon=-69.9531#map=15/43.9011/-69.9531",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9011,
+    "longitude": -69.9531
+  },
+  "url": "http://www.bowdoin.edu/arctic/museum/index.shtml",
+  "telephone": "+1 (207) 725-3289",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300093",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141995
+  },
+  "name": "POE BALTIMORE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "901 W PRATT ST",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21223-2644"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2912&mlon=-76.6332#map=15/39.2912/-76.6332",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2912,
+    "longitude": -76.6332
+  },
+  "url": "http://www.poeinbaltimore.org/contact/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400288",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188903
+  },
+  "name": "Casa \"Bicocchi\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Roncalli, 20",
+    "addressLocality": "Pomarance",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2987&mlon=10.8736#map=15/43.2987/10.8736",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2987,
+    "longitude": 10.8736
+  },
+  "url": "http://www.comune.pomarance.p.it",
+  "telephone": "+39 058862304",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BD0MeVA7AZUhN2fwS09uv-5fZ-s=/1000x1000/museums/logos/000/188/903/original/ff81966d268c5934ebd124459278ff8c05a738d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103157",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

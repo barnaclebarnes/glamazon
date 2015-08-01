@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134244
+  },
+  "name": "SMITHSONIAN INSTITUTION, NATURAL HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 CONSTITUTION AVE N",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.892&mlon=-76.9925#map=15/38.892/-76.9925",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.892,
+    "longitude": -76.9925
+  },
+  "url": "http://www.mnh.si.edu/",
+  "telephone": "+1 (202) 357-3066",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100024",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

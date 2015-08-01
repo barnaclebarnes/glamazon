@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189572
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, 27",
+    "addressLocality": "Valstagna",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8597&mlon=11.6584#map=15/45.8597/11.6584",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8597,
+    "longitude": 11.6584
+  },
+  "url": "http://www.comune.valstagna.vi.it/musei/start.html",
+  "telephone": "+39 04249989",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EmOwW-mE1cF69Ebkq0Xn7AEapts=/1000x1000/museums/logos/000/189/572/original/b5e885bc212899bb3e8f475f1971da29443dd8d5.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101099",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

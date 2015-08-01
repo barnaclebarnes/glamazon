@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161117
+  },
+  "name": "VIRGINIA MUSEUM OF TRANSPORTATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "303 NORFOLK AVE SW",
+    "addressLocality": "ROANOKE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24016-3620"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2727&mlon=-79.9461#map=15/37.2727/-79.9461",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2727,
+    "longitude": -79.9461
+  },
+  "url": "http://www.vmt.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100623",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

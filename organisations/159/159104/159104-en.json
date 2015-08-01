@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159104
+  },
+  "name": "PALO ALTO NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3084",
+    "addressLocality": "BROWNSVILLE",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78523-3084"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.9709&mlon=-97.4767#map=15/25.9709/-97.4767",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.9709,
+    "longitude": -97.4767
+  },
+  "url": "http://www.nps.gov/paal/index.htm",
+  "telephone": "+1 (956) 541-2785",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801204",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

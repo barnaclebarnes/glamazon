@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139274
+  },
+  "name": "CENTRAL COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "812 UNIVERSITY ST",
+    "addressLocality": "PELLA",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50219-1902"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4002&mlon=-92.9186#map=15/41.4002/-92.9186",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4002,
+    "longitude": -92.9186
+  },
+  "url": "http://www.central.edu",
+  "telephone": "+1 (641) 628-5334",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900311",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

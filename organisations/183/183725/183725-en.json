@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183725
+  },
+  "name": "Museum im Tuchmacherhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Edmund-Zimmermann-Straße 16",
+    "addressLocality": "Thannhausen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86470"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2808&mlon=10.4705#map=15/48.2808/10.4705",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2808,
+    "longitude": 10.4705
+  },
+  "url": "http://www.tuchmacherhaus.de/3.html",
+  "telephone": "08281/3772",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183725",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

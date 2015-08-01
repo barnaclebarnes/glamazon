@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145542
+  },
+  "name": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 5157",
+    "addressLocality": "HATTIESBURG",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "39406-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.3292&mlon=-89.3355#map=15/31.3292/-89.3355",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.3292,
+    "longitude": -89.3355
+  },
+  "url": "http://www.usm.edu",
+  "telephone": "+1 (601) 266-1000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800249",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

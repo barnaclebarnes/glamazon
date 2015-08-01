@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148931
+  },
+  "name": "LONG ISLAND REPTILE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "70 BROADWAY",
+    "addressLocality": "HICKSVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7676&mlon=-73.5241#map=15/40.7676/-73.5241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7676,
+    "longitude": -73.5241
+  },
+  "url": "http://www.reptilemuseum.com",
+  "telephone": "+1 (516) 931-1500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600225",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

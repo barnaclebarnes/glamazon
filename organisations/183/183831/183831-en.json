@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183831
+  },
+  "name": "Wegmachermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Herderstraße 7",
+    "addressLocality": "Wasserburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83512"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0469&mlon=12.2145#map=15/48.0469/12.2145",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0469,
+    "longitude": 12.2145
+  },
+  "url": "http://www.stbaro.bayern.de/links/wegmachermuseum.php",
+  "telephone": "08092/8273-12",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183831",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

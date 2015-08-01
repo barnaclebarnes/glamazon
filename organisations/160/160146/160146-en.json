@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160146
+  },
+  "name": "BUGGYTOWNE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "205 N MAIN",
+    "addressLocality": "BRIGHAM CITY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84302-2119"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5151&mlon=-112.016#map=15/41.5151/-112.016",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5151,
+    "longitude": -112.016
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900212",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

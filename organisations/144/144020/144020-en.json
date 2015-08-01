@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144020
+  },
+  "name": "SANFORD HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2222 N SMITH ST",
+    "addressLocality": "SANFORD",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48657"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6768&mlon=-84.3886#map=15/43.6768/-84.3886",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6768,
+    "longitude": -84.3886
+  },
+  "url": "http://www.sanfordhist.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600557",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

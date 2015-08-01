@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162306
+  },
+  "name": "THE MOTHMAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "411 MAIN STREET",
+    "addressLocality": "POINT PLEASANT",
+    "addressRegion": "WV",
+    "addressCountry": "United States",
+    "postalCode": "25550"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8431&mlon=-82.1386#map=15/38.8431/-82.1386",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8431,
+    "longitude": -82.1386
+  },
+  "url": "http://www.mothmanmuseum.com/",
+  "telephone": "+1 (304) 812-5211",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405400019",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

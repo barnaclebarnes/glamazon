@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183143
+  },
+  "name": "Deutsches Korbmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bismarckstraße 4",
+    "addressLocality": "Michelau",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96247"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1626&mlon=11.113#map=15/50.1626/11.113",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1626,
+    "longitude": 11.113
+  },
+  "url": "http://www.korbmuseum.de",
+  "telephone": "09571/83548",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183143",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

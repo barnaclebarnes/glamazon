@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150375
+  },
+  "name": "BRONX ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2300 SOUTHERN BLVD",
+    "addressLocality": "BRONX",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10460-1068"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8507&mlon=-73.8824#map=15/40.8507/-73.8824",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8507,
+    "longitude": -73.8824
+  },
+  "url": "http://www.bronxzoo.com",
+  "telephone": "+1 (718) 367-1010",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601669",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

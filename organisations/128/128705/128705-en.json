@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128705
+  },
+  "name": "ARCHES INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3101 BURRITT DRIVE SE",
+    "addressLocality": "HUNTSVILLE",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "35801-1142"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.7164&mlon=-86.54#map=15/34.7164/-86.54",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.7164,
+    "longitude": -86.54
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100235",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

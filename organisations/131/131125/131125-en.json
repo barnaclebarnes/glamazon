@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131125
+  },
+  "name": "SAN DIEGO FLIGHT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 181140",
+    "addressLocality": "CORONADO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92178-1140"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.6841&mlon=-117.178#map=15/32.6841/-117.178",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.6841,
+    "longitude": -117.178
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NXphoDu2kBGAkVi7tQ1L_RtDKUw=/1000x1000/museums/logos/000/131/125/original/San_Diego_Aerospace_Museum_Entrance.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/San_Diego_Air_%26_Space_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601251",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

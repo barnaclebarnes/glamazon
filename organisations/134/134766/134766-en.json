@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134766
+  },
+  "name": "WEST GADSDEN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX D",
+    "addressLocality": "GREENSBORO",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32330-3233"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.5687&mlon=-84.7434#map=15/30.5687/-84.7434",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.5687,
+    "longitude": -84.7434
+  },
+  "url": "http://www.gadsdenhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200320",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183319
+  },
+  "name": "Edwin Scharff Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Petrusplatz 4",
+    "addressLocality": "Neu-Ulm",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89231"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3936&mlon=9.99902#map=15/48.3936/9.99902",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3936,
+    "longitude": 9.99902
+  },
+  "url": "http://www.edwinscharffmuseum.de",
+  "telephone": "0731/70502555",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183319",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

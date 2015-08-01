@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189256
+  },
+  "name": "Museo di San Giuseppe di Paciano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Pitalessa, ",
+    "addressLocality": "Paciano",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.022&mlon=12.0709#map=15/43.022/12.0709",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.022,
+    "longitude": 12.0709
+  },
+  "telephone": "+39 075830120",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nGQ4U8rNpMiTZssu2H9VzfSzdXU=/1000x1000/museums/logos/000/189/256/original/19f64d5bc5e34224688e4a9d236572288e51b2bc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103873",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

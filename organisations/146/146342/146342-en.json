@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146342
+  },
+  "name": "ST LOUIS SPORTS HALL OF FAME INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9200 WATSON RD STE 120",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63126-1528"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5606&mlon=-90.3723#map=15/38.5606/-90.3723",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5606,
+    "longitude": -90.3723
+  },
+  "url": "http://www.stlouissportshalloffame.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900771",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

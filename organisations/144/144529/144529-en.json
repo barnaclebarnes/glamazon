@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144529
+  },
+  "name": "MICHIGAN LIGHTHOUSE FUND INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 23203",
+    "addressLocality": "LANSING",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48324-1906"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5984&mlon=-83.3346#map=15/42.5984/-83.3346",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5984,
+    "longitude": -83.3346
+  },
+  "url": "http://www.michiganlighthouse.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402601066",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

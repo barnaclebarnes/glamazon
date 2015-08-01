@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183076
+  },
+  "name": "Burg Lauenstein",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgstraße 3",
+    "addressLocality": "Ludwigsstadt",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96337"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.5133&mlon=11.37#map=15/50.5133/11.37",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.5133,
+    "longitude": 11.37
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/lauenst.htm",
+  "telephone": "09263/400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183076",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

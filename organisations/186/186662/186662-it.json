@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186662
+  },
+  "name": "Museo Erbario della Tuscia (UTV)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Camillo De Lellis, SNC",
+    "addressLocality": "Viterbo",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4415&mlon=12.049#map=15/42.4415/12.049",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4415,
+    "longitude": 12.049
+  },
+  "url": "http://www.unitus.it/dipartimenti/dabac/erbario/intro.asp",
+  "telephone": "+39 0761 357490",
+  "contactPoint": [
+
+  ],
+  "openingHours": "giorni lavorativi su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101650",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

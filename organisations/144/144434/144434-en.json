@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144434
+  },
+  "name": "UNIVERSITY OF MICHIGAN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 S STATE ST",
+    "addressLocality": "ANN ARBOR",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2749&mlon=-83.7407#map=15/42.2749/-83.7407",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2749,
+    "longitude": -83.7407
+  },
+  "telephone": "+1 (734) 764-1817",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600971",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

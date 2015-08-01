@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188834
+  },
+  "name": "Fortezza di Montecarlo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Fortezza, 4",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8521&mlon=10.6669#map=15/43.8521/10.6669",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8521,
+    "longitude": 10.6669
+  },
+  "telephone": "+39 058322401",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Z3FH7LrDrAIkioBtbGRMPRwczjo=/1000x1000/museums/logos/000/188/834/original/b040c153f9d7889c28614f85e2ed3ce23bf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103098",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

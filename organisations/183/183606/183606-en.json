@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183606
+  },
+  "name": "LIMESEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Römerpark Ruffenhofen 1",
+    "addressLocality": "Wittelshofen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91749"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0436&mlon=10.4863#map=15/49.0436/10.4863",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0436,
+    "longitude": 10.4863
+  },
+  "url": "http://www.limeseum.de/",
+  "telephone": "09854/9799242",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183606",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

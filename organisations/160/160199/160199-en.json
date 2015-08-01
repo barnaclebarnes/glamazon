@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160199
+  },
+  "name": "SHAFTSBURY HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3542 ROUTE 7",
+    "addressLocality": "SHAFTSBURY",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05262"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9775&mlon=-73.2044#map=15/42.9775/-73.2044",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9775,
+    "longitude": -73.2044
+  },
+  "url": "http://www.shaftsburyhistoricalsociety.org",
+  "telephone": "+1 (802) 375-2776",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000005",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

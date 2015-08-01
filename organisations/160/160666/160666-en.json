@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160666
+  },
+  "name": "CONTEMPORARY ART CENTER OF VIRGINIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2200 PARKS AVENUE",
+    "addressLocality": "VIRGINIA BEACH",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23451"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8492&mlon=-75.9877#map=15/36.8492/-75.9877",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8492,
+    "longitude": -75.9877
+  },
+  "telephone": "+1 (757) 425-0000",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/18742118137"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100172",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

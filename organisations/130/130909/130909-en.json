@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130909
+  },
+  "name": "PACIFIC BATTLESHIP CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "250 HARBOR BLVD BERTH 87",
+    "addressLocality": "SAN PEDRO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90731"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7331&mlon=-118.29#map=15/33.7331/-118.29",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7331,
+    "longitude": -118.29
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://fr.wikipedia.org/wiki/USS_Iowa_(BB-61)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601035",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

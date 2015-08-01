@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150501
+  },
+  "name": "CRAILO STATE HSITORIC SITE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9 1/2 RIVERSIDE AVE",
+    "addressLocality": "RENSSELAER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12144-2927"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6347&mlon=-73.7496#map=15/42.6347/-73.7496",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6347,
+    "longitude": -73.7496
+  },
+  "url": "http://nysparks.state.ny.us/sites/info.asp",
+  "telephone": "+1 (518) 463-8738",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601795",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

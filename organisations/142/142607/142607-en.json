@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142607
+  },
+  "name": "NATIONAL FIRE PROTECTION ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 BATTERYMARCH PARK",
+    "addressLocality": "QUINCY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02169-7454"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2303&mlon=-71.0267#map=15/42.2303/-71.0267",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2303,
+    "longitude": -71.0267
+  },
+  "url": "http://www.nfpa.org",
+  "telephone": "+1 (617) 984-7446",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500237",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

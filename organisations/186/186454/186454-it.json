@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186454
+  },
+  "name": "Museo Neolitico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Anguillarese, 145",
+    "addressLocality": "Anguillara Sabazia",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0649&mlon=12.2916#map=15/42.0649/12.2916",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0649,
+    "longitude": 12.2916
+  },
+  "url": "http://www.percorsifrancigena.eu",
+  "telephone": "+39 06 9968415",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dalle ore 10,00 alle ore 13,00 e dalle ore 16,00 alle ore 20,00; aperto anche nel weekend",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/d_sUYjCrRgX0Hxe0SJp8ZZIzbAk=/1000x1000/museums/logos/000/186/454/original/441b13eb3ee7f9ba3c1853cbfba37e2563b72384.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111275",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

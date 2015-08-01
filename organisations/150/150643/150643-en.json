@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150643
+  },
+  "name": "SUSAN B. ANTHONY MEMORIAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17 MADISON ST",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14608-1928"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1533&mlon=-77.6278#map=15/43.1533/-77.6278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1533,
+    "longitude": -77.6278
+  },
+  "url": "http://www.susanbanthonyhouse.org",
+  "telephone": "+1 (585) 235-6124",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601937",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

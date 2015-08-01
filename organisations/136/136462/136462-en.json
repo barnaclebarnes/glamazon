@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136462
+  },
+  "name": "US ARMY MUSEUM OF HAWAII",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "SARATOGA RD",
+    "addressLocality": "HONOLULU",
+    "addressRegion": "HI",
+    "addressCountry": "United States",
+    "postalCode": "96815"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=21.2807&mlon=-157.832#map=15/21.2807/-157.832",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 21.2807,
+    "longitude": -157.832
+  },
+  "url": "http://www.hiarmymuseumsoc.org/index.html",
+  "telephone": "+1 (808) 955-9552",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401500001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

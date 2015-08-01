@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187574
+  },
+  "name": "Museo civico di Tortona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Palazzo Guidobono, Piazza Aristide Arzano, 1, ",
+    "addressLocality": "Tortona",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8972&mlon=8.86549#map=15/44.8972/8.86549",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8972,
+    "longitude": 8.86549
+  },
+  "telephone": "+39 0131863470",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Zm-UMtnJc3D2ezC70NZHHOqpntg=/1000x1000/museums/logos/000/187/574/original/3f9674d73f145b6a4948086246bd6f16f23cfd.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102475",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

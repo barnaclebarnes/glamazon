@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189225
+  },
+  "name": "Museo regionale della ceramica di Deruta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo San Francesco, ",
+    "addressLocality": "Deruta",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0282&mlon=12.4297#map=15/43.0282/12.4297",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0282,
+    "longitude": 12.4297
+  },
+  "url": "http://www.sistemamuseo.it",
+  "telephone": "+39 0759711000",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uKKyMfCslWV1o7JugYnCECB2kqI=/1000x1000/museums/logos/000/189/225/original/f0cddf70cdb6ba9fb4fb6fec188453d671b678b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100704",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

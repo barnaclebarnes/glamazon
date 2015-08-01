@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183882
+  },
+  "name": "Burgmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burggasse 7",
+    "addressLocality": "Wolfsegg",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93195"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1069&mlon=11.9764#map=15/49.1069/11.9764",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1069,
+    "longitude": 11.9764
+  },
+  "url": "http://www.burg-wolfsegg.de",
+  "telephone": "09409/1660",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183882",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

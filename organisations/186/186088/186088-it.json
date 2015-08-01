@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186088
+  },
+  "name": "Museo Vivo del Mare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Caracciolo, 192",
+    "addressLocality": "Pollica",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1751&mlon=15.0849#map=15/40.1751/15.0849",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1751,
+    "longitude": 15.0849
+  },
+  "url": "http://www.museodelmare.it",
+  "telephone": "+39 0974905059",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pzdgw9DeviI9NYLKR7f2NEzr-LU=/1000x1000/museums/logos/000/186/088/original/dc46ad447f8621b9865bc2635c2f2c032eeef73.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105806",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

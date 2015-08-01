@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162568
+  },
+  "name": "UNIVERSITY OF WISCONSIN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "346 RUSSELL LABORATORIES 1630 LINDEN DRIVE",
+    "addressLocality": "MADISON",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53706"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0744&mlon=-89.4101#map=15/43.0744/-89.4101",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0744,
+    "longitude": -89.4101
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500017",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

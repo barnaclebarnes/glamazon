@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130314
+  },
+  "name": "GILROY HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "195 5TH ST",
+    "addressLocality": "GILROY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95020"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0078&mlon=-121.572#map=15/37.0078/-121.572",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0078,
+    "longitude": -121.572
+  },
+  "telephone": "+1 (408) 846-0446",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DdetvRJIDZMSviQlqPGxsBxYmIU=/1000x1000/museums/logos/000/130/314/original/USA-Gilroy-Carnegie_Library-1.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:EugeneZelenko\" title=\"User:EugeneZelenko\">Eugene Zelenko</a>",
+    "license": "GFDL"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Gilroy_Free_Library",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600440",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

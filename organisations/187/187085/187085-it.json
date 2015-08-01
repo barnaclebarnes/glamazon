@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187085
+  },
+  "name": "Museo popoli e culture",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mosè Bianchi, 94",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4755&mlon=9.1454#map=15/45.4755/9.1454",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4755,
+    "longitude": 9.1454
+  },
+  "url": "http://www.pimemilano.com/?idn=6",
+  "telephone": "+39 02438201",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zVox6IE9sIIJy0G1mxgdQd1kv-k=/1000x1000/museums/logos/000/187/085/original/9484d1d68d75857221a4758866fdce213ea3b41.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103715",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

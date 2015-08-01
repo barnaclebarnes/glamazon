@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137414
+  },
+  "name": "ILLINOIS INSTITUTE OF TECHNOLOGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3424 SOUTH STATE STREET",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60616"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8324&mlon=-87.6267#map=15/41.8324/-87.6267",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8324,
+    "longitude": -87.6267
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700559",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

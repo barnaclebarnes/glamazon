@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129760
+  },
+  "name": "HOO-HOO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 118",
+    "addressLocality": "GURDON",
+    "addressRegion": "AR",
+    "addressCountry": "United States",
+    "postalCode": "71743-0118"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9205&mlon=-93.1453#map=15/33.9205/-93.1453",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9205,
+    "longitude": -93.1453
+  },
+  "url": "http://www.hoo-hoo.org/",
+  "telephone": "+1 (870) 353-2661",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400500196",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

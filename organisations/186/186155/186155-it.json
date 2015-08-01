@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186155
+  },
+  "name": "Pinacoteca comunale di Cesena",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Aldini, 26, ",
+    "addressLocality": "Cesena",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1375&mlon=12.2479#map=15/44.1375/12.2479",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1375,
+    "longitude": 12.2479
+  },
+  "url": "http://www.cesenacultura.it",
+  "telephone": "+39 0547355727",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/X9iwqq-d-kcLrRT1LRiCwubt42I=/1000x1000/museums/logos/000/186/155/original/e5afc21d6e50b3cb7abae14518f65b18989384e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102030",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

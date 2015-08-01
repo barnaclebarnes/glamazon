@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189336
+  },
+  "name": "Necropoli di Caldane",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Caldane, ",
+    "addressLocality": "Castel Viscardo",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4274&mlon=9.42871#map=15/42.4274/9.42871",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4274,
+    "longitude": 9.42871
+  },
+  "telephone": "+39 0763 361010",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xiQ_aSc8_nT_vC6A1d6ftNqzp88=/1000x1000/museums/logos/000/189/336/original/b641b57f54b681b10362b4423fbd85a275349d3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108064",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

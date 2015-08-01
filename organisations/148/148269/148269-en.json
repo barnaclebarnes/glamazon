@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148269
+  },
+  "name": "PORT NORRIS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 187",
+    "addressLocality": "PORT NORRIS",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "08349"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2476&mlon=-75.0562#map=15/39.2476/-75.0562",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2476,
+    "longitude": -75.0562
+  },
+  "url": "http://www.historicportnorris.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400637",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

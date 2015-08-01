@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183112
+  },
+  "name": "Muna-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Munasiedlung 9",
+    "addressLocality": "Marktbergel",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91613"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4262&mlon=10.3833#map=15/49.4262/10.3833",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4262,
+    "longitude": 10.3833
+  },
+  "url": "http://www.muna-museum.de",
+  "telephone": "09845/783",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183112",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

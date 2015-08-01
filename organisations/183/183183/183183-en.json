@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183183
+  },
+  "name": "Fuggerei mit Fuggereimuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Fuggerei 13",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86152"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3686&mlon=10.9046#map=15/48.3686/10.9046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3686,
+    "longitude": 10.9046
+  },
+  "url": "http://www.fugger.de/fuggerei.html",
+  "telephone": "0821/319881-14",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183183",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

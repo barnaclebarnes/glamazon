@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186567
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Acciaioli, 2",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8998&mlon=12.4643#map=15/41.8998/12.4643",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8998,
+    "longitude": 12.4643
+  },
+  "url": "http://www.sangiovdeifiorentini.com",
+  "telephone": "+39 0668892059",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GJiTodEuuz6IVQ8V23i_jv7hadI=/1000x1000/museums/logos/000/186/567/original/e050a15d7f58fd7fb3735361a867868ebf51f82.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101542",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

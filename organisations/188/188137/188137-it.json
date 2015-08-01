@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188137
+  },
+  "name": "Museo della civiltà rurale di San Vito dei Normanni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mazzini, 2",
+    "addressLocality": "San Vito dei Normanni",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6584&mlon=17.7017#map=15/40.6584/17.7017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6584,
+    "longitude": 17.7017
+  },
+  "url": "http://www.sanvitobr.it/index.php?option=com_content&view=article&id=194&Itemid=186",
+  "telephone": "+39 083 1951368",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vopOuUa5BpBHm13a4_5P3DPlIJg=/1000x1000/museums/logos/000/188/137/original/0f7441eb9c6a111c08f8d2c48be8a7788b38344.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102356",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

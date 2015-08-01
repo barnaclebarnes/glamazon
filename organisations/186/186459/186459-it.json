@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186459
+  },
+  "name": "Museo dello sbarco di Anzio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via di Villa Adele, SNC",
+    "addressLocality": "Anzio",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4479&mlon=12.6291#map=15/41.4479/12.6291",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4479,
+    "longitude": 12.6291
+  },
+  "url": "http://www.sbarcodianzio.it",
+  "telephone": "+39 06 9848059",
+  "contactPoint": [
+
+  ],
+  "openingHours": "si accettano visite su prenotazioni",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UCq4P8AQQhO5knIcrHSBv0D2E3s=/1000x1000/museums/logos/000/186/459/original/1a5278ad6fd31bada47c1fbb7dcd91a7be0e27a.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101479",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

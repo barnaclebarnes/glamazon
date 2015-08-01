@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186541
+  },
+  "name": "Museo Aristaios",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Luciano Berio",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9015&mlon=12.4608#map=15/41.9015/12.4608",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9015,
+    "longitude": 12.4608
+  },
+  "url": "http://www.auditorium.com",
+  "telephone": "+39 06.80241281",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni dalle ore 11.00 alle ore 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1OMwnIdMtwZvoH9mb6cM4BC8QuA=/1000x1000/museums/logos/000/186/541/original/982eb6596d4c6f442324dc4983bf178e3dc946bf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110782",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

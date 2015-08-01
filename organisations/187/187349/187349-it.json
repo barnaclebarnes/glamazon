@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187349
+  },
+  "name": "Mostra permanente \"Filipo Marchetti\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Luigi Maurizi, 24",
+    "addressLocality": "Bolognola",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9936&mlon=13.2286#map=15/42.9936/13.2286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9936,
+    "longitude": 13.2286
+  },
+  "url": "http://www.bolognola.sinp.net",
+  "telephone": "+39 0737520225",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Su richiesta: dal lun.al sab. dalle 8.30 alle13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Jf-56_HmMDRaRjAJgxamf0aIWBU=/1000x1000/museums/logos/000/187/349/original/8d4c42651ade7dcd6c13419e73695f86aca7f9c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104160",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

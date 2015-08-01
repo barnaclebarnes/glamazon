@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189371
+  },
+  "name": "Museo delle armi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vollusiano, 1",
+    "addressLocality": "Terni",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5686&mlon=12.6526#map=15/42.5686/12.6526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5686,
+    "longitude": 12.6526
+  },
+  "url": "http://www.museodellearmi.com/",
+  "telephone": "+39 0744 4971",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xc0L6Vf-Yetw970bc6rumx7eqHE=/1000x1000/museums/logos/000/189/371/original/8be2d151e791febde39b914b75f4de126bb2693.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108070",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

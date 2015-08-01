@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187458
+  },
+  "name": "Museo della civiltà contadina di Mombaroccio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Barocci, 2",
+    "addressLocality": "Mombaroccio",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7968&mlon=12.855#map=15/43.7968/12.855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7968,
+    "longitude": 12.855
+  },
+  "url": "http://www.provincia.pu.it/cultura/musei/museo-della-civilta-contadina-mombaroccio/",
+  "telephone": "+39 0721.471103 (Municipio – Pro loco)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mercoledì e venerdì dalle 17.00-19.00 sabato e domenica 10.00-12.00 / 17.00-20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/88KdKAr9A7D4ACPS4vZT1vtuC7g=/1000x1000/museums/logos/000/187/458/original/46e6a3ff133f93dca3801128b21cca81fb7e7b8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104285",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

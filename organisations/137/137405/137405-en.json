@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137405
+  },
+  "name": "DEPAUL UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8782&mlon=-87.6266#map=15/41.8782/-87.6266",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8782,
+    "longitude": -87.6266
+  },
+  "url": "http://www.depaul.edu/pages/default.aspx",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700550",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186016
+  },
+  "name": "Museo di Capodimonte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Miano 2",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8674&mlon=14.2492#map=15/40.8674/14.2492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8674,
+    "longitude": 14.2492
+  },
+  "url": "http://www.polomusealenapoli.beniculturali.it",
+  "telephone": "+39 0817499111 - 081749915 - 848800288",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ore 8.30- 19.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZY6n2PVzRXMe-aST1tHUENCoY6c=/1000x1000/museums/logos/000/186/016/original/3a33a227204bfbacf116c3e72ddaa5e1e621e7e5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20281",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

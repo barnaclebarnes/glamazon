@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160568
+  },
+  "name": "MUSEUM OF CHINCOTEAGUE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7125 MADDOX BLVD",
+    "addressLocality": "CHINCOTEAGUE ISLAND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23336"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9202&mlon=-75.352#map=15/37.9202/-75.352",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9202,
+    "longitude": -75.352
+  },
+  "url": "http://chincoteaguemuseum.com/",
+  "telephone": "+1 (757) 336-6117",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100074",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

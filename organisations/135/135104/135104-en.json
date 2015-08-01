@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135104
+  },
+  "name": "MUSEUM OF SCIENCE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3280 S MIAMI AVE",
+    "addressLocality": "MIAMI",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33129-2832"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.7466&mlon=-80.2116#map=15/25.7466/-80.2116",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7466,
+    "longitude": -80.2116
+  },
+  "url": "http://www.miamisci.org",
+  "telephone": "+1 (305) 646-4200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200659",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

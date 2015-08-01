@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130208
+  },
+  "name": "IMMIGRATION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 W BROADWAY",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7156&mlon=-117.164#map=15/32.7156/-117.164",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7156,
+    "longitude": -117.164
+  },
+  "telephone": "+1 (619) 515-0403",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600334",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

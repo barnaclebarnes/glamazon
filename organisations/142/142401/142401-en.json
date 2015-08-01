@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142401
+  },
+  "name": "THE HISTORICAL SOCIETY OF WATERTOWN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "28 MARSHALL STREET",
+    "addressLocality": "WATERTOWN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02172"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3686&mlon=-71.1799#map=15/42.3686/-71.1799",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3686,
+    "longitude": -71.1799
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500031",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130110
+  },
+  "name": "MUSEUM OF ANTHROPOLOGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "CALIFORNIA STATE UNIVERSITY, CHICO",
+    "addressLocality": "CHICO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95929-0400"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7301&mlon=-121.843#map=15/39.7301/-121.843",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7301,
+    "longitude": -121.843
+  },
+  "telephone": "+1 (530) 898-5897",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Phoebe_A._Hearst_Museum_of_Anthropology",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600236",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

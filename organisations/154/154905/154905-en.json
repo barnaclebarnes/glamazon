@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154905
+  },
+  "name": "PLANETARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1211 PARKSIDE DR S",
+    "addressLocality": "READING",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19611"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3269&mlon=-75.955#map=15/40.3269/-75.955",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3269,
+    "longitude": -75.955
+  },
+  "telephone": "+1 (610) 371-5850",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200099",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

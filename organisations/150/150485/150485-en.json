@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150485
+  },
+  "name": "JAMESVILLE COMMUNITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 76",
+    "addressLocality": "JAMESVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13078-1307"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9959&mlon=-76.0732#map=15/42.9959/-76.0732",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9959,
+    "longitude": -76.0732
+  },
+  "url": "http://jamesvillemuseum.org",
+  "telephone": "+1 (315) 492-4890",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601779",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186230
+  },
+  "name": "Galleria d’arte \"Mario di Iorio\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Mameli, 12",
+    "addressLocality": "Gorizia",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9463&mlon=13.6236#map=15/45.9463/13.6236",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9463,
+    "longitude": 13.6236
+  },
+  "url": "http://www.isontina.beniculturali.it/",
+  "telephone": "+39 0481580211",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì - venerdì: dalle 10.30 alle 18.30 - sabato: dalle 10.30 alle 13.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108164",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

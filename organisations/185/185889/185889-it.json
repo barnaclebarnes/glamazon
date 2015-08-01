@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185889
+  },
+  "name": "Museo civico Fortunato Gaccetta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pace",
+    "addressLocality": "Polia",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7504&mlon=16.3115#map=15/38.7504/16.3115",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7504,
+    "longitude": 16.3115
+  },
+  "url": "http://www.comune.polia.vv.it",
+  "telephone": "+39 0963 321091",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aeCJ3hBoej0YInucsDETUN-hGo0=/1000x1000/museums/logos/000/185/889/original/713165284a58b92b74a6d8ce6d456121c22e41f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111065",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

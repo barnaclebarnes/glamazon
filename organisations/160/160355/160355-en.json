@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160355
+  },
+  "name": "ROCHESTER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 428",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05767-0428"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8769&mlon=-72.8107#map=15/43.8769/-72.8107",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8769,
+    "longitude": -72.8107
+  },
+  "url": "http://www.rochesterhistorical.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000161",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

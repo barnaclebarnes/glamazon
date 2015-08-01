@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144025
+  },
+  "name": "FLINT CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1602 UNIVERSITY AVE",
+    "addressLocality": "FLINT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48504-6212"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0138&mlon=-83.7116#map=15/43.0138/-83.7116",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0138,
+    "longitude": -83.7116
+  },
+  "url": "http://www.flintchildrensmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600562",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

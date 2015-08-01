@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146723
+  },
+  "name": "GEORGE W. FRANK HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "HISTORIC PL",
+    "addressLocality": "KEARNEY",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68849"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7022&mlon=-99.0964#map=15/40.7022/-99.0964",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7022,
+    "longitude": -99.0964
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100062",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

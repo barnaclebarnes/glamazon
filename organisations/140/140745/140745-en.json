@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140745
+  },
+  "name": "LOUISIANA SUPERDOME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1500 POYDRAS ST",
+    "addressLocality": "NEW ORLEANS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70112"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9516&mlon=-90.0784#map=15/29.9516/-90.0784",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9516,
+    "longitude": -90.0784
+  },
+  "url": "http://www.superdome.com",
+  "telephone": "+1 (504) 525-7925",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200027",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

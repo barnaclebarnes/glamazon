@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188517
+  },
+  "name": "Museo diocesano di Mazara del Vallo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dell'Orologio, 3",
+    "addressLocality": "Mazara del Vallo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6512&mlon=12.5892#map=15/37.6512/12.5892",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6512,
+    "longitude": 12.5892
+  },
+  "url": "http://www.diocesimazara.it",
+  "telephone": "+39 0923909431",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WNfp3tE_gEswRATXmiG-C9gGVzQ=/1000x1000/museums/logos/000/188/517/original/10f77316cd06a5ed84ca09c8cf9d7f73b40c651.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101384",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

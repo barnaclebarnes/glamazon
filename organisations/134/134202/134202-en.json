@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134202
+  },
+  "name": "FORT DELAWARE STATE PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 170",
+    "addressLocality": "DELAWARE CITY",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19706"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.575&mlon=-75.5939#map=15/39.575/-75.5939",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.575,
+    "longitude": -75.5939
+  },
+  "url": "http://www.destateparks.org",
+  "telephone": "+1 (302) 834-7941",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000134",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

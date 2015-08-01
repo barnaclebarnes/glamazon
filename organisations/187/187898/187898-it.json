@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187898
+  },
+  "name": "Museum Sky Rochon",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Parco Comunale - Villa Widemann, c/o Municipio, Via Scuole, 9, ",
+    "addressLocality": "San Germano Chisone",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8983&mlon=7.24051#map=15/44.8983/7.24051",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8983,
+    "longitude": 7.24051
+  },
+  "url": "http://www.comune.sangermanochisone.to.it",
+  "telephone": "+39 0121 58601",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00/12.00 - 14.30/16.30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106690",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

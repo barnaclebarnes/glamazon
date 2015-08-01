@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150549
+  },
+  "name": "HARTFORD HISTORICAL GROUP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 203",
+    "addressLocality": "HARTFORD",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12838-0203"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3437&mlon=-73.4046#map=15/43.3437/-73.4046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3437,
+    "longitude": -73.4046
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601843",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

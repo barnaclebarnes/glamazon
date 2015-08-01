@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186162
+  },
+  "name": "National Archeological Museum of Sarsina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cesio Sabino, 39, ",
+    "addressLocality": "Sarsina",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9195&mlon=12.1437#map=15/43.9195/12.1437",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9195,
+    "longitude": 12.1437
+  },
+  "url": "http://www.archeobologna.beniculturali.it/Sarsina/index.htm",
+  "telephone": "+39 054794641\n        \n          (+ 39) 0547 94641",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Wednesday, Friday, Saturday and Sunday 8.30-13.30, Tuesday and Thursday 8.30-13.30 15.00-18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/b_McClCh_7lrwfe09PvQ2NUdsII=/1000x1000/museums/logos/000/186/162/original/b8e4e8311422364c45ae7859a9b824384ae3a64d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20303",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

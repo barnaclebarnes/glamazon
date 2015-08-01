@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144440
+  },
+  "name": "WAYNE STATE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "42 W WARREN AVE",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3568&mlon=-83.0649#map=15/42.3568/-83.0649",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3568,
+    "longitude": -83.0649
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600977",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

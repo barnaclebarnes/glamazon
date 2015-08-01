@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149258
+  },
+  "name": "BROOKLYN CHILDRENS MUSEUM CORP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "145 BROOKLYN AVE",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11213-1930"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6749&mlon=-73.9445#map=15/40.6749/-73.9445",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6749,
+    "longitude": -73.9445
+  },
+  "url": "http://www.brooklynkids.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600552",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

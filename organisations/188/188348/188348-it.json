@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188348
+  },
+  "name": "Museo del corallo di Alghero",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XX Settembre, 8",
+    "addressLocality": "Alghero",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5569&mlon=8.31604#map=15/40.5569/8.31604",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5569,
+    "longitude": 8.31604
+  },
+  "url": "http://www.alghero-turismo.it",
+  "telephone": "+39 +39 079 989 7502",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a domenica 10.30 - 13.00 - 17.00 - 19.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hmECOUO1Jqwg40an7_6fPvv9QPM=/1000x1000/museums/logos/000/188/348/original/eb26418994da5b47a564ec0ab1473ec2ebc4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111714",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

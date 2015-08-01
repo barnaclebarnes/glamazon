@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160015
+  },
+  "name": "DP WORLDWIDE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "501 S 1430 W",
+    "addressLocality": "LEHI",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84043-3648"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3821&mlon=-111.872#map=15/40.3821/-111.872",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3821,
+    "longitude": -111.872
+  },
+  "url": "http://www.dpworld.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900081",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

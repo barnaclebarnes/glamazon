@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186513
+  },
+  "name": "Casa di Goethe",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Corso, 18",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.909&mlon=12.4771#map=15/41.909/12.4771",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.909,
+    "longitude": 12.4771
+  },
+  "url": "http://www.casadigoethe.it",
+  "telephone": "+39 06 32650412",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni 1,.00/18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6RBkj7MqiEhvemysUXdE2BocktI=/1000x1000/museums/logos/000/186/513/original/aa919808a89456299522b98a662888568cd5ba.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101518",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

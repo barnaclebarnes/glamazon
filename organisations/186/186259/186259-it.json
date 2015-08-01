@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186259
+  },
+  "name": "Raccolta archeologica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza I Maggio, ",
+    "addressLocality": "Sequals",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1621&mlon=12.8912#map=15/46.1621/12.8912",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1621,
+    "longitude": 12.8912
+  },
+  "url": "http://www.ecomuseolisaganis.it",
+  "telephone": "+39 0427 789111",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato 16,00 -18,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8aqJotgSrSYNui2VHJpoevpBHLU=/1000x1000/museums/logos/000/186/259/original/76cb908cdd20c9a9c346eec72f0ec8b23e26dcd.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100217",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

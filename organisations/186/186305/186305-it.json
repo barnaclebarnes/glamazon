@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186305
+  },
+  "name": "Farie Geretti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stretta della Giudaica, 8",
+    "addressLocality": "Cividale del Friuli",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0947&mlon=13.4317#map=15/46.0947/13.4317",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0947,
+    "longitude": 13.4317
+  },
+  "url": "http://www.somsicividale.it",
+  "telephone": "+39 0432734116",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lh0EN6elsLgwKDLY7G08nwOGyNo=/1000x1000/museums/logos/000/186/305/original/ab6dfd4cbdce48b81ddef7bbc8b66afd635d4fa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100271",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

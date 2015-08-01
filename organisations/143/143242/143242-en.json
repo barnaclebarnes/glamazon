@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143242
+  },
+  "name": "WALTHAM MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "25 LEXINGTON ST",
+    "addressLocality": "WALTHAM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02452-4415"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3772&mlon=-71.2357#map=15/42.3772/-71.2357",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3772,
+    "longitude": -71.2357
+  },
+  "url": "http://walthammuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500872",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155006
+  },
+  "name": "GETTYSBURG DIORAMA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "610 TANEYTOWN RD",
+    "addressLocality": "GETTYSBURG",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17325"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8022&mlon=-77.2296#map=15/39.8022/-77.2296",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8022,
+    "longitude": -77.2296
+  },
+  "url": "http://www.gettysburgdiorama.com/",
+  "telephone": "+1 (717) 334-6408",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200200",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

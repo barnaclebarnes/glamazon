@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189140
+  },
+  "name": "Museo della Malga",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sant'Antonio",
+    "addressLocality": "Caderzone Terme",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1294&mlon=10.7568#map=15/46.1294/10.7568",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1294,
+    "longitude": 10.7568
+  },
+  "url": "http://www.visittrentino.it",
+  "telephone": "+39 +39 (0465) 804899",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Luglio – Agosto 9.00-12.00/15.00 - 18.00 (lunedì chiuso) Altri periodi 9.00 - 12.00/15.00 - 18.00 (domenica chiuso) Al di fuori di questi orari il Museo verrà aperto per gruppi su prenotazione.",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EtNxg-h-7sBJfge8NEs982CUDTQ=/1000x1000/museums/logos/000/189/140/original/3794613baf51b5bdef581f70f71fc849737d513.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111776",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

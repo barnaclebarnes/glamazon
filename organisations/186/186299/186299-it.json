@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186299
+  },
+  "name": "Pinacoteca \"Marco Davanzo\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza zona libera della Carnia 1944, 5",
+    "addressLocality": "Ampezzo",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4163&mlon=12.7946#map=15/46.4163/12.7946",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4163,
+    "longitude": 12.7946
+  },
+  "url": "http://www.museifriuliveneziagiulia.it",
+  "telephone": "+39 0433 80758",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ott.-mag. sabato e domenica 9,00/12,00; giug.-sett. tutti i gg. 9,00/12. 00-15,00-18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QS2nlImkWAkPbDsnSyxGAoi2p7o=/1000x1000/museums/logos/000/186/299/original/fe75a34f5e1c5de93a8b9844f9cfe1e5e5f59418.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100263",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

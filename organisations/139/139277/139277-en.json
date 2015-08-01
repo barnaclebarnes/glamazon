@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139277
+  },
+  "name": "LUTHER COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "700 COLLEGE DR",
+    "addressLocality": "DECORAH",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52101-1041"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3145&mlon=-91.8009#map=15/43.3145/-91.8009",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3145,
+    "longitude": -91.8009
+  },
+  "url": "http://www.luther.edu",
+  "telephone": "+1 (563) 387-2000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900314",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

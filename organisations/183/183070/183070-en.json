@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183070
+  },
+  "name": "Museum im Kreuzgang",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Alter Franziskanerplatz",
+    "addressLocality": "Landshut",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84028"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5341&mlon=12.155#map=15/48.5341/12.155",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5341,
+    "longitude": 12.155
+  },
+  "url": "http://www.landshut.de",
+  "telephone": "0871/9223890",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183070",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

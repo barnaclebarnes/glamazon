@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186479
+  },
+  "name": "Museo delle navi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vis Alessandro Guidoni, 35/37",
+    "addressLocality": "Fiumicino",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7861&mlon=12.2534#map=15/41.7861/12.2534",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7861,
+    "longitude": 12.2534
+  },
+  "url": "http://archeoroma.beniculturali.it/museo_delle_navi",
+  "telephone": "+39 0665010089",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Chiuso al pubblico per lavori di restauro",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YjEGviFe_K9oSpMt5L2mKKeVRa0=/1000x1000/museums/logos/000/186/479/original/22465d3e82d6682abd4bbb5b45db9bd6c96518.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105523",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

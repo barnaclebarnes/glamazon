@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142751
+  },
+  "name": "WILLARD HOUSE AND CLOCK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11 WILLARD STREET",
+    "addressLocality": "NORTH GRAFTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01536-2011"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2387&mlon=-71.6727#map=15/42.2387/-71.6727",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2387,
+    "longitude": -71.6727
+  },
+  "url": "http://www.willardhouse.org",
+  "telephone": "+1 (508) 839-3500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500381",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

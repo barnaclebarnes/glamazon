@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187213
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Mazzini, 1",
+    "addressLocality": "Sesto Calende",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.724&mlon=8.63148#map=15/45.724/8.63148",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.724,
+    "longitude": 8.63148
+  },
+  "url": "http://comune.sesto-calende.va.it",
+  "telephone": "+39 0331928160",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DkoApRE8ehl7VTinV_s7Jg5rwm0=/1000x1000/museums/logos/000/187/213/original/b566afd4e1a62bf7792af33733ee21cf18b2daf6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103838",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

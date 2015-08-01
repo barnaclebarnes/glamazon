@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142986
+  },
+  "name": "AMHERST HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "67 AMITY ST",
+    "addressLocality": "AMHERST",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01002-2214"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3758&mlon=-72.5213#map=15/42.3758/-72.5213",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3758,
+    "longitude": -72.5213
+  },
+  "url": "http://www.amhersthistory.org",
+  "telephone": "+1 (413) 256-0678",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500616",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

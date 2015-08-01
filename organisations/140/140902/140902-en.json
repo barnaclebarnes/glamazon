@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140902
+  },
+  "name": "SAVE HISTORIC MORGAN CITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "708 FRONT STREET",
+    "addressLocality": "MORGAN CITY",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70380"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.6957&mlon=-91.2104#map=15/29.6957/-91.2104",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.6957,
+    "longitude": -91.2104
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200184",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

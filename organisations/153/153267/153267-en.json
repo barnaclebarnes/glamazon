@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153267
+  },
+  "name": "HISTORICAL SOCIETY OF OLD BROOKLYN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3214 RUBY AVENUE",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4339&mlon=-81.705#map=15/41.4339/-81.705",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4339,
+    "longitude": -81.705
+  },
+  "url": "http://oldbrooklynhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901045",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154193
+  },
+  "name": "MUSEUMS WEST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "NATIONAL COWBOY MUSEUM",
+    "addressLocality": "OKLAHOMA CITY",
+    "addressRegion": "OK",
+    "addressCountry": "United States",
+    "postalCode": "73111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.5122&mlon=-97.4837#map=15/35.5122/-97.4837",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.5122,
+    "longitude": -97.4837
+  },
+  "url": "http://www.museumswest.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404000547",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

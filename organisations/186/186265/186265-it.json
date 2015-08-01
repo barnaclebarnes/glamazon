@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186265
+  },
+  "name": "Museo della Grotta Gigante",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Borgo Grotta Gigante, 42/A",
+    "addressLocality": "Sgonico",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7097&mlon=13.7646#map=15/45.7097/13.7646",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7097,
+    "longitude": 13.7646
+  },
+  "url": "http://www.grottagigante.it/page/grotta-museo",
+  "telephone": "+39 040327312",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "11.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QWPWNKOKeHn-I8gqERjQPN17R-0=/1000x1000/museums/logos/000/186/265/original/16a322a67845fa8cc96c4afdecc30269f6fb5a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105039",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

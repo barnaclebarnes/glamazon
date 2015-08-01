@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140490
+  },
+  "name": "FILSON CLUB",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1310 S 3RD ST",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40208-2306"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2322&mlon=-85.7591#map=15/38.2322/-85.7591",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2322,
+    "longitude": -85.7591
+  },
+  "url": "http://filsonhistorical.org",
+  "telephone": "+1 (502) 635-5083",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100247",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

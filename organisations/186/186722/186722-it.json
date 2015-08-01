@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186722
+  },
+  "name": "Museo del merletto di Rapallo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Parco Casale, SNC",
+    "addressLocality": "Rapallo",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.346&mlon=9.2388#map=15/44.346/9.2388",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.346,
+    "longitude": 9.2388
+  },
+  "telephone": "+39 0185/63305",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103933",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

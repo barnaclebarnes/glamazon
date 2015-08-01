@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132800
+  },
+  "name": "LA JOLLA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2085",
+    "addressLocality": "LA JOLLA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92038-2085"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8454&mlon=-117.277#map=15/32.8454/-117.277",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8454,
+    "longitude": -117.277
+  },
+  "url": "http://lajollahistory.org/",
+  "telephone": "+1 (858) 459-5335",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602926",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

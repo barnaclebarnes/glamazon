@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186696
+  },
+  "name": "Museo dell’acqua e del gas",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Piacenza, 54",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4342&mlon=8.96086#map=15/44.4342/8.96086",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4342,
+    "longitude": 8.96086
+  },
+  "url": "http://www.fondazioneamga.org",
+  "telephone": "+39 010/5586163; 010/5586865",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107209",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182674
+  },
+  "name": "Furthmühle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Furtmühle 1",
+    "addressLocality": "Egenhofen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82281"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2934&mlon=11.1734#map=15/48.2934/11.1734",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2934,
+    "longitude": 11.1734
+  },
+  "url": "http://www.furthmuehle.de",
+  "telephone": "08134/99191",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182674",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

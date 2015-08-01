@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186419
+  },
+  "name": "Museo \"Emilio Greco\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Comune, ",
+    "addressLocality": "Sabaudia",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3003&mlon=13.0255#map=15/41.3003/13.0255",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3003,
+    "longitude": 13.0255
+  },
+  "url": "http://www.comune.sabaudia.latina.it",
+  "telephone": "+39 0773515791",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4g59ap3vDjePoRXChtAKiFdqEiI=/1000x1000/museums/logos/000/186/419/original/905d8b37e75a2f1fe7642af33ec927cc25140d6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101447",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

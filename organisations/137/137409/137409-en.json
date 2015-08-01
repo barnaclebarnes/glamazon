@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137409
+  },
+  "name": "NEWBERRY LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "60 W WALTON ST",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60610-7324"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8998&mlon=-87.6307#map=15/41.8998/-87.6307",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8998,
+    "longitude": -87.6307
+  },
+  "url": "http://www.newberry.org",
+  "telephone": "+1 (312) 943-9090",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700554",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

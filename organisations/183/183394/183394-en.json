@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183394
+  },
+  "name": "Spielzeugmuseum Nürnberg – Museum Lydia Bayer",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Karlstraße 13",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90403"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4546&mlon=11.0741#map=15/49.4546/11.0741",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4546,
+    "longitude": 11.0741
+  },
+  "url": "http://www.spielzeugmuseum-nuernberg.de",
+  "telephone": "0911/231-3164",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183394",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

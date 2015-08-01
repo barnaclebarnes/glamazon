@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132377
+  },
+  "name": "FREEDOM ARCHIVES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "522 VALENCIA STREET",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94110-1798"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7646&mlon=-122.422#map=15/37.7646/-122.422",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7646,
+    "longitude": -122.422
+  },
+  "url": "http://www.freedomarchives.org/",
+  "telephone": "+1 (415) 863-9977",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602503",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

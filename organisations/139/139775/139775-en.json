@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139775
+  },
+  "name": "EISENHOWER PRESIDENTIAL LIBRARY AND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 SE 4TH ST",
+    "addressLocality": "ABILENE",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67410"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9122&mlon=-97.2075#map=15/38.9122/-97.2075",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9122,
+    "longitude": -97.2075
+  },
+  "url": "http://www.eisenhower.utexas.edu",
+  "telephone": "+1 (785) 263-6700",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/IkeLibrary"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000101",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

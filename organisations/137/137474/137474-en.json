@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137474
+  },
+  "name": "LATVIAN FOLK ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4146 N ELSTON AVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60618"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9562&mlon=-87.7228#map=15/41.9562/-87.7228",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9562,
+    "longitude": -87.7228
+  },
+  "url": "http://chicagolatvianassociation.com",
+  "telephone": "+1 (773) 588-2085",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/91998941035"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700619",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

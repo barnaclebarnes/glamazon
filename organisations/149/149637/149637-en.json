@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149637
+  },
+  "name": "SKYSCRAPER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "39 BATTERY PL",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10280-1501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7056&mlon=-74.018#map=15/40.7056/-74.018",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7056,
+    "longitude": -74.018
+  },
+  "url": "http://www.skyscraper.org",
+  "telephone": "+1 (212) 968-1961",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600931",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

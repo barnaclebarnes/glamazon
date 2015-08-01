@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189848
+  },
+  "name": "ISM CHICAGO GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 W. RANDOLPH, SUITE 2-100",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.539&mlon=-97.9356#map=15/46.539/-97.9356",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.539,
+    "longitude": -97.9356
+  },
+  "url": "http://www.museum.state.il.us",
+  "telephone": "+1 (312) 814-5322",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701417",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

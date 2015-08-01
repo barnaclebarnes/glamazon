@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186208
+  },
+  "name": "Museo etnografico \"Sguri\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via degli Orsini , 4",
+    "addressLocality": "Ravenna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5142&mlon=12.1079#map=15/44.5142/12.1079",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5142,
+    "longitude": 12.1079
+  },
+  "url": "http://www.sistemamusei.ra.it",
+  "telephone": "+39 0544 533609",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111226",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

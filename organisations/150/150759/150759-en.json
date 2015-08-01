@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150759
+  },
+  "name": "PTA AT THE NYC MUSEUM SCHOOL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "333 W 17TH STREET",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10011"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7421&mlon=-74.0021#map=15/40.7421/-74.0021",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7421,
+    "longitude": -74.0021
+  },
+  "url": "http://www.nycmuseumschool.net",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602053",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

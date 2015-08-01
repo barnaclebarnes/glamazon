@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131473
+  },
+  "name": "POMONA FOX CORPORATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 W MISSION BLVD 110-300",
+    "addressLocality": "POMONA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91766-1711"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0551&mlon=-117.751#map=15/34.0551/-117.751",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0551,
+    "longitude": -117.751
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ALlgX2yb4gsio4QRqPjYMJhvtI4=/1000x1000/museums/logos/000/131/473/original/Pomona_Fox_Theater.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Pomona_Fox_Theater",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601599",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

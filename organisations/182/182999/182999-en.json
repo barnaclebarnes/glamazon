@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182999
+  },
+  "name": "Haslinger Hof",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ed 1",
+    "addressLocality": "Kirchham",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94148"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3515&mlon=13.2895#map=15/48.3515/13.2895",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3515,
+    "longitude": 13.2895
+  },
+  "url": "http://www.haslinger-hof.de",
+  "telephone": "08531/295-4200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182999",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

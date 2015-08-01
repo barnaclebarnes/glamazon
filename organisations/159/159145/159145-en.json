@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159145
+  },
+  "name": "SAY SI",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1518 S ALAMO ST",
+    "addressLocality": "SAN ANTONIO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78204-1763"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.4099&mlon=-98.4972#map=15/29.4099/-98.4972",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.4099,
+    "longitude": -98.4972
+  },
+  "url": "http://www.saysi.org",
+  "telephone": "+1 (210) 212-8666",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801245",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

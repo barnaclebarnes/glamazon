@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141109
+  },
+  "name": "BACKSTREET CULTURAL MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1116 HENRIETTE DELILLE ST",
+    "addressLocality": "NEW ORLEANS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70116-2330"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9646&mlon=-90.0664#map=15/29.9646/-90.0664",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9646,
+    "longitude": -90.0664
+  },
+  "url": "http://www.backstreetmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200392",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189718
+  },
+  "name": "ROCK CREEK PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3545 WILLIAMSBURG LANE  NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20008"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9365&mlon=-77.0505#map=15/38.9365/-77.0505",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9365,
+    "longitude": -77.0505
+  },
+  "telephone": "+1 (202) 895-6000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100241",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187037
+  },
+  "name": "Museo virgiliano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Parma, 34",
+    "addressLocality": "Virgilio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1133&mlon=10.8181#map=15/45.1133/10.8181",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1133,
+    "longitude": 10.8181
+  },
+  "url": "http://www.comune.virgilio.mn.it",
+  "telephone": "+39 0376440439",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rdGJSOV_IQqT6fN6v3CiUbD-3s4=/1000x1000/museums/logos/000/187/037/original/b6fdeb8a28da720cbc3fcfbb77218d6d9b49a9c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103762",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

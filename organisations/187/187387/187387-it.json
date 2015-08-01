@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187387
+  },
+  "name": "Galleria \"G. Cingolani\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Rossini, 5",
+    "addressLocality": "Montecassiano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3635&mlon=13.4365#map=15/43.3635/13.4365",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3635,
+    "longitude": 13.4365
+  },
+  "url": "http://www.turismo.marche.it",
+  "telephone": "+39 0733 299811",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111518",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

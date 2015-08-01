@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187933
+  },
+  "name": "Museo di antropologia criminale \"Cesare Lombroso\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pietro Giuria, 15, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0498&mlon=7.6796#map=15/45.0498/7.6796",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0498,
+    "longitude": 7.6796
+  },
+  "url": "http://www.museounito.it/lombroso",
+  "telephone": "+39 0116708195",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106590",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

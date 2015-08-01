@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186227
+  },
+  "name": "Museo civico del territorio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza XXIV Maggio, 22",
+    "addressLocality": "Cormons",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9608&mlon=13.4741#map=15/45.9608/13.4741",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9608,
+    "longitude": 13.4741
+  },
+  "url": "http://www.comune.cormons.go.it",
+  "telephone": "+39 0481637152",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100172",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161006
+  },
+  "name": "CHILDRENS MUSEUM OF RICHMOND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2626 W BROAD ST",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23220-1904"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5614&mlon=-77.4681#map=15/37.5614/-77.4681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5614,
+    "longitude": -77.4681
+  },
+  "url": "http://www.c-mor.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100512",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

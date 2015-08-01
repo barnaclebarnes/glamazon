@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142456
+  },
+  "name": "MEAD ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 5000",
+    "addressLocality": "AMHERST",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3755&mlon=-72.5086#map=15/42.3755/-72.5086",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3755,
+    "longitude": -72.5086
+  },
+  "url": "http://www.amherst.edu/mead.com",
+  "telephone": "+1 (413) 542-2335",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/meadartmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/meadartmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500086",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

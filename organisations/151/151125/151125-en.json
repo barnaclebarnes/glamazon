@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151125
+  },
+  "name": "HERITAGE OF WEST NYACK LTD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 46",
+    "addressLocality": "WEST NYACK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10994-0046"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0961&mlon=-73.9696#map=15/41.0961/-73.9696",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0961,
+    "longitude": -73.9696
+  },
+  "url": "http://www.heritageofwestnyack.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602419",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

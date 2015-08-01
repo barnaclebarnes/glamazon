@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188457
+  },
+  "name": "Museo archeologico regionale della Valle dell'Eleutero",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, 1",
+    "addressLocality": "Marineo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9541&mlon=13.4129#map=15/37.9541/13.4129",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9541,
+    "longitude": 13.4129
+  },
+  "url": "http://www.comune.marineo.pa.it",
+  "telephone": "+39 091 8726491",
+  "contactPoint": [
+
+  ],
+  "openingHours": "inv.: 9,00/18,30 (feriale) est.: 9,00/19,30 (feriale) Fest. : 9,00/13,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QWiMvhUFsjnmSdW4qOUoWkP6i6g=/1000x1000/museums/logos/000/188/457/original/6f64454a9a70b01dd4439f07b4edfc7dc74cebe.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101295",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

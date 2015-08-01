@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131628
+  },
+  "name": "REDWOOD DISCOVERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "501 3RD ST",
+    "addressLocality": "EUREKA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95501-0439"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8036&mlon=-124.166#map=15/40.8036/-124.166",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8036,
+    "longitude": -124.166
+  },
+  "telephone": "+1 (707) 443-9694",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/130604513621126"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601754",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

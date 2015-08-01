@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185748
+  },
+  "name": "MACA - Museo Arte Contemporanea Acri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Falcone, 1",
+    "addressLocality": "Acri",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.4879&mlon=16.3832#map=15/39.4879/16.3832",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.4879,
+    "longitude": 16.3832
+  },
+  "url": "http://www.museomaca.it",
+  "telephone": "+39 0984.953309 / 011.9422568",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/u6dvY3nIr9pHsa01ETv-RjWnbkg=/1000x1000/museums/logos/000/185/748/original/c2bfac7ecbe642eb36e55175e47817d63de532.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108434",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

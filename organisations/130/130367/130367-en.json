@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130367
+  },
+  "name": "ESCONDIDO CHILDREN'S MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "380 N ESCONDIDO BLVD",
+    "addressLocality": "ESCONDIDO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92025"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.1233&mlon=-117.086#map=15/33.1233/-117.086",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.1233,
+    "longitude": -117.086
+  },
+  "url": "http://www.escondidochildrensmuseum.org",
+  "telephone": "+1 (760) 233-7755",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/escondidochildrensmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600493",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

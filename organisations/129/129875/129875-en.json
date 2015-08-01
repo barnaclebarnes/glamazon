@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129875
+  },
+  "name": "WINCHESTER MYSTERY HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "525 S WINCHESTER BLVD",
+    "addressLocality": "SAN JOSE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95128"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.319&mlon=-121.95#map=15/37.319/-121.95",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.319,
+    "longitude": -121.95
+  },
+  "url": "http://www.winchestermysteryhouse.com",
+  "telephone": "+1 (408) 247-2101",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hiUelmTB_FD6ZaNRgslKEbPxII0=/1000x1000/museums/logos/000/129/875/original/Winchester_House_910px.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Winchester_Mystery_House",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

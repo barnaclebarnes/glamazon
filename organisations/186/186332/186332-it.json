@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186332
+  },
+  "name": "Casa Bruseschi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Superiore, 37",
+    "addressLocality": "Prato Carnico",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5214&mlon=12.808#map=15/46.5214/12.808",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5214,
+    "longitude": 12.808
+  },
+  "url": "http://www.carniamusei.org",
+  "telephone": "+39 043369057",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hUMctN7Y2LCiTK2Jb7ht66YjYRI=/1000x1000/museums/logos/000/186/332/original/5d6e9fd9f95e92edcf21f91b8cd3ac34874338f7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100300",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

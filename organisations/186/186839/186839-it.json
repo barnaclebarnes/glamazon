@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186839
+  },
+  "name": "Museo Giovan Battista Rubini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Comelli Rubini, 2",
+    "addressLocality": "Romano di Lombardia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5211&mlon=9.75465#map=15/45.5211/9.75465",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5211,
+    "longitude": 9.75465
+  },
+  "url": "http://www.fondazionerubini.it",
+  "telephone": "+39 0363910810",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica 10.00/12.00 anche a richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7swQzBYAib5_1tM133As47I3fO0=/1000x1000/museums/logos/000/186/839/original/372a2430ee53df9f71184a243e6e11e616c76.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103527",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

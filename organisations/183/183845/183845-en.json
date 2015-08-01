@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183845
+  },
+  "name": "Pflanzenkundliche Schausammlung",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Fridolin-Holzer-Straße 13",
+    "addressLocality": "Weiler-Simmerberg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "88171"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5826&mlon=9.91575#map=15/47.5826/9.91575",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5826,
+    "longitude": 9.91575
+  },
+  "url": "http://www.westallgaeuer-heimatmuseum.de/",
+  "telephone": "08387/2503",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183845",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

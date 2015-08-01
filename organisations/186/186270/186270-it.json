@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186270
+  },
+  "name": "Civico museo \"Revoltella\" e galleria d'arte moderna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Diaz, 27",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6468&mlon=13.7632#map=15/45.6468/13.7632",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6468,
+    "longitude": 13.7632
+  },
+  "url": "http://www.museorevoltella.it",
+  "telephone": "+39 0406754350",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da mercoledì al lunedì 10.00/19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "7,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bMcTNJVweng-uzPhjdaxjyVnO-8=/1000x1000/museums/logos/000/186/270/original/5a9a9c5fd3348181ab4c2e88371905e79b97620.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100230",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

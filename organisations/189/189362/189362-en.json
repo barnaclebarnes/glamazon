@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189362
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Misericordia, 1",
+    "addressLocality": "San Gemini",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6106&mlon=12.5453#map=15/42.6106/12.5453",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6106,
+    "longitude": 12.5453
+  },
+  "url": "http://www.sistemamuseo.it",
+  "telephone": "+39 0744331293",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0JASbnVjUQgAJO_WkV3YxUmQrYE=/1000x1000/museums/logos/000/189/362/original/69d07a36ce67db728a275c9ceefe6db1f25cf3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100794",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

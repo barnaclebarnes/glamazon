@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145606
+  },
+  "name": "MOTO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3441 OLIVE ST",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6367&mlon=-90.2289#map=15/38.6367/-90.2289",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6367,
+    "longitude": -90.2289
+  },
+  "url": "http://www.themotomuseum.com",
+  "telephone": "+1 (314) 446-1805",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900035",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

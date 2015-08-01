@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149995
+  },
+  "name": "ERIE CANAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "318 ERIE BLVD E",
+    "addressLocality": "SYRACUSE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13202-1106"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0509&mlon=-76.1489#map=15/43.0509/-76.1489",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0509,
+    "longitude": -76.1489
+  },
+  "url": "http://eriecanalmuseum.org",
+  "telephone": "+1 (315) 471-0593",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/ErieCanalMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ErieCanalMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601289",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

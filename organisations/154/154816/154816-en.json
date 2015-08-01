@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154816
+  },
+  "name": "WOODFORD MANSION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2300 N 33RD ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19132"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9918&mlon=-75.1864#map=15/39.9918/-75.1864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9918,
+    "longitude": -75.1864
+  },
+  "url": "http://www.woodfordmansion.org",
+  "telephone": "+1 (215) 229-6115",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200010",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

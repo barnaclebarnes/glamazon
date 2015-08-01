@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140202
+  },
+  "name": "OLATHE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1200 N KANSAS CITY RD",
+    "addressLocality": "OLATHE",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66061"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9099&mlon=-94.7764#map=15/38.9099/-94.7764",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9099,
+    "longitude": -94.7764
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000528",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

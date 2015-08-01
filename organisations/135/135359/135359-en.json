@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135359
+  },
+  "name": "DUTTON HOUSE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 246",
+    "addressLocality": "DELAND",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32724"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.0364&mlon=-81.2829#map=15/29.0364/-81.2829",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.0364,
+    "longitude": -81.2829
+  },
+  "url": "http://www.duttonhouse.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200914",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

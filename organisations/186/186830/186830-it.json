@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186830
+  },
+  "name": "Museo del presepio di Dalmine",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XXV Aprile, 179",
+    "addressLocality": "Dalmine",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6527&mlon=9.58539#map=15/45.6527/9.58539",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6527,
+    "longitude": 9.58539
+  },
+  "url": "http://www.museodelpresepio.com",
+  "telephone": "+39 035563383 - 3397658280",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 08/12 all'ultima domenica di Gennaio: festivi ore 14,30 - 17,30 per tutto l'anno: su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103514",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139218
+  },
+  "name": "INTERNATIONAL VIDEOGAME HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1211",
+    "addressLocality": "OTTUMWA",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52501-7211"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0232&mlon=-92.4181#map=15/41.0232/-92.4181",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0232,
+    "longitude": -92.4181
+  },
+  "url": "http://www.ivghof.com/index.php",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900255",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

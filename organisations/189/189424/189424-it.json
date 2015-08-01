@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189424
+  },
+  "name": "Museo archeologico cadorino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Tiziano, 2",
+    "addressLocality": "Pieve di Cadore",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.429&mlon=12.3758#map=15/46.429/12.3758",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.429,
+    "longitude": 12.3758
+  },
+  "url": "http://www.magnificacomunitadicadore.it",
+  "telephone": "+39 043532262",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UOvBtv0mKIDkLpzZsQSWnSla_Zw=/1000x1000/museums/logos/000/189/424/original/358f506036eb9fd18b136f45f41fc1489cf24d7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100883",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

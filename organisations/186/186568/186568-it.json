@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186568
+  },
+  "name": "Museo di chimica di Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Aldo Moro, 5",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9018&mlon=12.5121#map=15/41.9018/12.5121",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9018,
+    "longitude": 12.5121
+  },
+  "url": "http://www.chem.uniroma1.it/museo/menu.htm",
+  "telephone": "+39 06 49913167",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bEwngmwFOqQghtbPGD_1iNpG5S4=/1000x1000/museums/logos/000/186/568/original/c997d2229816b12c60aa30e3a9f778d49963804.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101565",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

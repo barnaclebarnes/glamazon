@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137494
+  },
+  "name": "PEACE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 N CENTRAL PARK AVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60624-1912"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8817&mlon=-87.7158#map=15/41.8817/-87.7158",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8817,
+    "longitude": -87.7158
+  },
+  "url": "http://www.peacemuseum.org",
+  "telephone": "+1 (312) 440-1860",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700639",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

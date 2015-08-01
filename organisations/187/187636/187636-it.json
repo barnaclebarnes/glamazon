@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187636
+  },
+  "name": "Ecomuseo della terracotta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma 10/12, ",
+    "addressLocality": "Ronco Biellese",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5813&mlon=8.09803#map=15/45.5813/8.09803",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5813,
+    "longitude": 8.09803
+  },
+  "telephone": "+39 015461105",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nHLFmg8gsd-7j9Qpmi76SHsO5Wg=/1000x1000/museums/logos/000/187/636/original/ae1983e4c778927984939f37603972e01f3b2.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102529",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163705
+  },
+  "name": "Bendigo TAFE",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.7587&mlon=144.284#map=15/-36.7587/144.284",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.7587,
+    "longitude": 144.284
+  },
+  "url": "http://www.bendigotafe.edu.au",
+  "telephone": "03 5434 1516 (Library)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "LIBRARY:- \r\nTerm Hours\r\n8.90am to 5.00pm Monday - Thursday\r\n8.00am to 4.00pm Friday\r\n\r\nTerm Break Times\r\n8.30am to 5.00pm Monday - Thursday\r\n8.30am to 4.00pm Friday\r\n\r\nClosed Public Holidays",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "bendigo-tafe",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/bendigo-tafe",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

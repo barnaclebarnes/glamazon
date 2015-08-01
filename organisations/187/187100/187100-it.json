@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187100
+  },
+  "name": "Teatro Alla Scala - Laboratori-Atelier ex Ansaldo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Bergognone, 34",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4526&mlon=9.16452#map=15/45.4526/9.16452",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4526,
+    "longitude": 9.16452
+  },
+  "url": "http://www.teatroallascala.org",
+  "telephone": "+39 02 43353521",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106853",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

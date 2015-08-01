@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132886
+  },
+  "name": "HISTORY COLORADO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1560 BROADWAY",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7354&mlon=-104.987#map=15/39.7354/-104.987",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7354,
+    "longitude": -104.987
+  },
+  "url": "http://www.historycolorado.org",
+  "telephone": "+1 (303) 866-3682",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/HistoryColorado"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/HistoryColorado"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800062",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

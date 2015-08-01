@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144886
+  },
+  "name": "LAKE SUPERIOR ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7210 FREMONT ST",
+    "addressLocality": "DULUTH",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55807-1854"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.7262&mlon=-92.1896#map=15/46.7262/-92.1896",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.7262,
+    "longitude": -92.1896
+  },
+  "url": "http://www.lszoo.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700326",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

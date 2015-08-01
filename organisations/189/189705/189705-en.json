@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189705
+  },
+  "name": "YALE UNIVERSITY ART GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1111 CHAPEL ST",
+    "addressLocality": "NEW HAVEN",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06510"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.315&mlon=-94.3793#map=15/35.315/-94.3793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.315,
+    "longitude": -94.3793
+  },
+  "url": "http://artgallery.yale.edu/",
+  "telephone": "+1 (203) 432-0600",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/7790667828"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/yaleartgallery"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900552",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

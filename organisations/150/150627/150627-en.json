@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150627
+  },
+  "name": "HISTORIC ITHACA INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "109 W STATE ST",
+    "addressLocality": "ITHACA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14850-5427"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4395&mlon=-76.4992#map=15/42.4395/-76.4992",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4395,
+    "longitude": -76.4992
+  },
+  "url": "http://www.historicithaca.com",
+  "telephone": "+1 (607) 273-6633",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601921",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

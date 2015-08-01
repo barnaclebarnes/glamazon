@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187583
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Alfieri, 2, ",
+    "addressLocality": "Asti",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9027&mlon=8.21319#map=15/44.9027/8.21319",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9027,
+    "longitude": 8.21319
+  },
+  "url": "http://www.comune.asti.it/cultura/san-pietro-consavia/indesc.shtml",
+  "telephone": "+39 0141353072",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/i1pnZii01FuBC03LUxVb6nPfoMs=/1000x1000/museums/logos/000/187/583/original/6d77422e2acd968a131a4b37cecbfcaf024fa0.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102485",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

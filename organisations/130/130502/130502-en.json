@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130502
+  },
+  "name": "BLITZSTEIN MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "428 N FAIRFAX AVE",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90036"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.079&mlon=-118.361#map=15/34.079/-118.361",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.079,
+    "longitude": -118.361
+  },
+  "url": "http://www.blitzstein.com",
+  "telephone": "+1 (310) 910-1938",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600628",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

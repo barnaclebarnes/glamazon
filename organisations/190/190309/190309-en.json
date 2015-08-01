@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190309
+  },
+  "name": "WILDWOOD PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 WILDWOOD WAY",
+    "addressLocality": "HARRISBURG",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17110"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.178&mlon=-117.328#map=15/34.178/-117.328",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.178,
+    "longitude": -117.328
+  },
+  "url": "http://www.wildwoodlake.org",
+  "telephone": "+1 (717) 221-0292",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201715",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137700
+  },
+  "name": "BUENA PARK NEIGHBORS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 13018",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60613-0018"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9526&mlon=-87.6565#map=15/41.9526/-87.6565",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9526,
+    "longitude": -87.6565
+  },
+  "url": "http://buenaparkneighbors.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700845",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

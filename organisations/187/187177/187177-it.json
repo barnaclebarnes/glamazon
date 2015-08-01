@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187177
+  },
+  "name": "Museo Vallivo Valfurva Mario Testorelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Forba, 1",
+    "addressLocality": "Valfurva",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4589&mlon=10.4231#map=15/46.4589/10.4231",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4589,
+    "longitude": 10.4231
+  },
+  "telephone": "+39 0342945291",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NlciL45HUkLzNGIvkI6qfqfmkpI=/1000x1000/museums/logos/000/187/177/original/12e0a390f9e8a4ee43472a452f4688cd4815552.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103798",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

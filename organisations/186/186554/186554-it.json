@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186554
+  },
+  "name": "Museo della civiltà romana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza G. Agnelli, 10",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8639&mlon=12.4481#map=15/41.8639/12.4481",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8639,
+    "longitude": 12.4481
+  },
+  "telephone": "+39 060608 tutti i giorni ore 9.00-21.00",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Il museo è temporaneamente chiuso per permettere lo svolgimento dei lavori di adeguamento necessari.",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SlmJc44X8C-Id8IF7W22sC5SgPo=/1000x1000/museums/logos/000/186/554/original/4a1ff568e0c138f8a2ff3f7a6d8eab7a574920c9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111534",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148149
+  },
+  "name": "LINCOLN GROUP OF NEW YORK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 220",
+    "addressLocality": "NEWTON",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "07860-0220"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0551&mlon=-74.7659#map=15/41.0551/-74.7659",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0551,
+    "longitude": -74.7659
+  },
+  "url": "http://lincolngroupny.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400517",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

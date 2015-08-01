@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188259
+  },
+  "name": "Museo parrocchiale di Selegas",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Chiesa, 8",
+    "addressLocality": "Selegas",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5843&mlon=9.11919#map=15/39.5843/9.11919",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5843,
+    "longitude": 9.11919
+  },
+  "url": "http://www.parrocchiasantanna.org  ",
+  "telephone": "+39 070985331",
+  "contactPoint": [
+
+  ],
+  "openingHours": "16,30 – 19,30 (sabato); 08,00 – 12,30 (domenica), altri giorni su richiesta)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta libera"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IvcKn03joDJjraIyRH7TG9ggUBM=/1000x1000/museums/logos/000/188/259/original/12f41cf2a3f2afa1b03c9bd97fa8c07913e14ab8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103319",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

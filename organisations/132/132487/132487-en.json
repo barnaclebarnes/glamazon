@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132487
+  },
+  "name": "PACIFIC ASIA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "46 N LOS ROBLES AVE",
+    "addressLocality": "PASADENA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91101-2009"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1468&mlon=-118.141#map=15/34.1468/-118.141",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1468,
+    "longitude": -118.141
+  },
+  "url": "http://www.pacificasiamuseum.org",
+  "telephone": "+1 (626) 449-2742",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/61920248618"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/PacAsiaMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602613",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

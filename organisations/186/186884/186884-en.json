@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186884
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 48",
+    "addressLocality": "Cedegolo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0752&mlon=10.3494#map=15/46.0752/10.3494",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0752,
+    "longitude": 10.3494
+  },
+  "url": "http://www.musil.bs.it/cedegolo/museo",
+  "telephone": "+39 030 3750663",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EYRYo_gFpeeXSE8hq2s94hT2Dcs=/1000x1000/museums/logos/000/186/884/original/10e44ed28569d1bba493e9a80cf1b7e91fc414.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106835",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133100
+  },
+  "name": "HISTORIC PUEBLO INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2386",
+    "addressLocality": "PUEBLO",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81004-0386"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.226&mlon=-104.642#map=15/38.226/-104.642",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.226,
+    "longitude": -104.642
+  },
+  "url": "http://www.historicpueblo.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800276",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

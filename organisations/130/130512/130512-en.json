@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130512
+  },
+  "name": "DUNSMUIR BOTANICAL GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 242",
+    "addressLocality": "DUNSMUIR",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "96025"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2139&mlon=-122.273#map=15/41.2139/-122.273",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2139,
+    "longitude": -122.273
+  },
+  "url": "http://www.dunsmuirbotanicalgardens.org",
+  "telephone": "+1 (530) 235-4740",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Zqd6yV6fQuVEBJkA-H2Ee2BD__o=/1000x1000/museums/logos/000/130/512/original/Dunsmuir_Botanical_Gardens_-_DSC02918.JPG",
+    "license": "CC0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Dunsmuir_Botanical_Gardens",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600638",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

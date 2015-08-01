@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183020
+  },
+  "name": "Heimat- und Industriemuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bahnhofstraße 12",
+    "addressLocality": "Kolbermoor",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83059"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8516&mlon=12.0645#map=15/47.8516/12.0645",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8516,
+    "longitude": 12.0645
+  },
+  "url": "http://www.heimatmuseum-kolbermoor.de.vu",
+  "telephone": "08031/9204-85",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183020",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

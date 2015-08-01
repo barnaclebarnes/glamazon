@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188082
+  },
+  "name": "Museo del mare di Monopoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Castello - Molo Margherita, ",
+    "addressLocality": "Monopoli",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9527&mlon=17.2994#map=15/40.9527/17.2994",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9527,
+    "longitude": 17.2994
+  },
+  "telephone": "+39 080930314",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Yh3t94MaChdH81eZ4-SUqsinNr8=/1000x1000/museums/logos/000/188/082/original/a52dfc8b61be3bb9c2e94ee7ce45c2ec27c17d3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107663",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

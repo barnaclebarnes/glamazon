@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182675
+  },
+  "name": "Schloss Egg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bernried",
+    "addressLocality": "Bernried",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94505"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.882&mlon=12.9217#map=15/48.882/12.9217",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.882,
+    "longitude": 12.9217
+  },
+  "url": "http://www.schloss-egg.de/",
+  "telephone": "09905/8001",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182675",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

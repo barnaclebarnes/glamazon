@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186902
+  },
+  "name": "Museo civico ornitologico Gustavo Adolfo Carlotto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Martiri della Libertà, 2",
+    "addressLocality": "Lonato del Garda",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4609&mlon=10.4845#map=15/45.4609/10.4845",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4609,
+    "longitude": 10.4845
+  },
+  "url": "http://www.comune.lonato.bs.it/museo_ornitologico",
+  "telephone": "+39 0309130060",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Jhnk6IcwdkJfgrSsE51efWeL-Qc=/1000x1000/museums/logos/000/186/902/original/d89f881ece3c3b59c7eabf61b1cee18a419c0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106001",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

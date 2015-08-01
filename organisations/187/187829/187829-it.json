@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187829
+  },
+  "name": "Museo del gusto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Principe Amedeo, 42/a, ",
+    "addressLocality": "Frossasco",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.934&mlon=7.34953#map=15/44.934/7.34953",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.934,
+    "longitude": 7.34953
+  },
+  "url": "http://www.museodelgusto.it",
+  "telephone": "+39 0121352398/0121 355158",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica e festivi 10,00-18,00 da lunedì a venerdì: su prenotazione per gruppi e scolaresche",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5.00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9S3i8irUMBtwAiTr5KTsn4Bht28=/1000x1000/museums/logos/000/187/829/original/5d1e496fa61c171da931dc964c31df65d058416f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106635",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

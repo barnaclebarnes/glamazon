@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132423
+  },
+  "name": "LANDMARK HERITAGE FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2315 DURANT AVENUE 306",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94704-1606"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8674&mlon=-122.262#map=15/37.8674/-122.262",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8674,
+    "longitude": -122.262
+  },
+  "url": "http://www.berkeleycityclub.com",
+  "telephone": "+1 (510) 848-7800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602549",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

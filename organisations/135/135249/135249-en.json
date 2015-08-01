@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135249
+  },
+  "name": "MIAMI CHILDRENS MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "980 MACARTHUR CSWY",
+    "addressLocality": "MIAMI",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33132-1604"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.7848&mlon=-80.176#map=15/25.7848/-80.176",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7848,
+    "longitude": -80.176
+  },
+  "url": "http://www.miamichildrensmuseum.org",
+  "telephone": "+1 (305) 373-5437",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200804",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

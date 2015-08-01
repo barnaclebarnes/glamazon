@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186922
+  },
+  "name": "Museo civico archeologico di Remedello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cappellazzi, 1",
+    "addressLocality": "Remedello",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2803&mlon=10.3714#map=15/45.2803/10.3714",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2803,
+    "longitude": 10.3714
+  },
+  "telephone": "+39 0309957477",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/oqN91sCa73WY3ZqnXGTKXaaVtto=/1000x1000/museums/logos/000/186/922/original/a8a7c8d83b4ecb4a60b48bf6e5a54585d4f6ae53.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103592",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

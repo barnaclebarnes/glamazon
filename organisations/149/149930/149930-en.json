@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149930
+  },
+  "name": "CATSKILL PUBLIC LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 FRANKLIN ST",
+    "addressLocality": "CATSKILL",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12414-1407"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2178&mlon=-73.8642#map=15/42.2178/-73.8642",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2178,
+    "longitude": -73.8642
+  },
+  "url": "http://catskillpubliclibrary.org",
+  "telephone": "+1 (518) 943-4230",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601224",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

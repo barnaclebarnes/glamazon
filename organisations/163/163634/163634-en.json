@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163634
+  },
+  "name": "Arts Centre Melbourne",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8434&mlon=144.978#map=15/-37.8434/144.978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8434,
+    "longitude": 144.978
+  },
+  "url": "http://www.artscentremelbourne.com.au/",
+  "telephone": "9281 8192",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Daily, 9am-late",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "arts-centre-melbourne---performing-arts-collection",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/arts-centre-melbourne---performing-arts-collection",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

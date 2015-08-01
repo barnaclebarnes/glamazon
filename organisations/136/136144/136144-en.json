@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136144
+  },
+  "name": "APEX MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "135 AUBURN AVENUE",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30303-2567"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7555&mlon=-84.3831#map=15/33.7555/-84.3831",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7555,
+    "longitude": -84.3831
+  },
+  "url": "http://www.apexmuseum.org",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/APEXMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/APEXMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300415",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

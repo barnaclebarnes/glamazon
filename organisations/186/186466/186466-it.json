@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186466
+  },
+  "name": "Museo storico dell'Aeronautica Militare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Circumlacuale, SNC",
+    "addressLocality": "Bracciano",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1036&mlon=12.1756#map=15/42.1036/12.1756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1036,
+    "longitude": 12.1756
+  },
+  "url": "http://www.aeronatuca.difesa.it/musestorico",
+  "telephone": "+39 06 99887500",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kblZBONTvM_ujtS0nuMQ_hSmSig=/1000x1000/museums/logos/000/186/466/original/9153abd5bdf589cc8d242490be8bdf49aa135954.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101484",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

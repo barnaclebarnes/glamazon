@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158121
+  },
+  "name": "HOUSTON MUSEUM OF NATURAL SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5555 HERMANN PARK DRIVE",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77030-1799"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7211&mlon=-95.3896#map=15/29.7211/-95.3896",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7211,
+    "longitude": -95.3896
+  },
+  "url": "http://hmns.org",
+  "telephone": "+1 (713) 639-4629",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/Natural.Science"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/hmns"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800221",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

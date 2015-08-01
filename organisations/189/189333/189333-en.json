@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189333
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Mazzini - località Civitella del Lago, 9",
+    "addressLocality": "Baschi",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7112&mlon=12.2812#map=15/42.7112/12.2812",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7112,
+    "longitude": 12.2812
+  },
+  "url": "http://www.ovopinto.it",
+  "telephone": "+39 340 8995074",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QKcsejQZ5L6pUsa5h1jc4VIA_Uw=/1000x1000/museums/logos/000/189/333/original/e3cd48ea10b19cdd6212ac9081489ab85d5bffa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108069",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

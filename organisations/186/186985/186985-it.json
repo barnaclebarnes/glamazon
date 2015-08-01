@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186985
+  },
+  "name": "Museo parrocchiale San Lorenzo Don Carlo Villa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Lorenzo, 6",
+    "addressLocality": "Calolziocorte",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.806&mlon=9.43833#map=15/45.806/9.43833",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.806,
+    "longitude": 9.43833
+  },
+  "telephone": "+39 0341643259",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato e festivi 10.00 /12.00-5.00/18.00 domenica 10.30/12.00-14.30/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00€"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103649",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

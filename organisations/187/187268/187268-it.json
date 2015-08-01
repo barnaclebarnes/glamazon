@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187268
+  },
+  "name": "Museo diocesano (Osimo)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 7",
+    "addressLocality": "Osimo",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4861&mlon=13.4804#map=15/43.4861/13.4804",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4861,
+    "longitude": 13.4804
+  },
+  "url": "http://www.duomodiosimo.it",
+  "telephone": "+39 0717231808",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato 9.30-10.30, domenica 16-19, con visita guidata. Aperto su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8B-8aB6Bnt88Z-57ArEruO_yaHo=/1000x1000/museums/logos/000/187/268/original/9c4ca52ecbf3475fef53230fd17d297ac2c2c1b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104073",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

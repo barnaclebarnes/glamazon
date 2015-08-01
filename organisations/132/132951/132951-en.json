@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132951
+  },
+  "name": "ESTES PARK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 FOURTH STREET",
+    "addressLocality": "ESTES PARK",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80517"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3752&mlon=-105.505#map=15/40.3752/-105.505",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3752,
+    "longitude": -105.505
+  },
+  "telephone": "+1 (970) 586-6256",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800127",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

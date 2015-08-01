@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158876
+  },
+  "name": "CITY OF AUSTIN PARKS AND RECREATION DEP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 SOUTH LAMAR BLVD",
+    "addressLocality": "AUSTIN",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78704-1046"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.2636&mlon=-97.7574#map=15/30.2636/-97.7574",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.2636,
+    "longitude": -97.7574
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800976",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186321
+  },
+  "name": "Museo etnografico di Lusevera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Capoluogo, 51",
+    "addressLocality": "Lusevera",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.276&mlon=13.2692#map=15/46.276/13.2692",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.276,
+    "longitude": 13.2692
+  },
+  "telephone": "+39 0432787032",
+  "contactPoint": [
+
+  ],
+  "openingHours": "apertura su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Uk2oO_4xKuBYTv3ze3RO1aWkV6k=/1000x1000/museums/logos/000/186/321/original/5a9bcb99ddb8e9419e9568fa26f4c7f755c9a5e6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105439",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

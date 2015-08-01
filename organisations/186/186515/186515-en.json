@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186515
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nomentana, 70",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9151&mlon=12.51#map=15/41.9151/12.51",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9151,
+    "longitude": 12.51
+  },
+  "url": "http://www.museivillatorlonia.it",
+  "telephone": "+39 0644250072",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NCTjhnctPNGjIbn6skGUuj9gfLM=/1000x1000/museums/logos/000/186/515/original/ff39e232d3030d29156d1d38427f85d9c45bc8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101534",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

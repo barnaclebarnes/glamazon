@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147526
+  },
+  "name": "SUTTON HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 457",
+    "addressLocality": "SOUTH SUTTON",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03273-0457"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.31&mlon=-71.9223#map=15/43.31/-71.9223",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.31,
+    "longitude": -71.9223
+  },
+  "url": "http://www.sutton-nh.gov/public_documents/suttonnh_historical/index",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300301",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

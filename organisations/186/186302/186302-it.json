@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186302
+  },
+  "name": "Museo d'arte della medaglia e della città di Buja",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Borgo San Lorenzo in Monte, SNC",
+    "addressLocality": "Buja",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0706&mlon=13.0184#map=15/46.0706/13.0184",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0706,
+    "longitude": 13.0184
+  },
+  "url": "http://www.comune.buia.ud.it/medaglia/arte_medaglia.htm",
+  "telephone": "+39 0432960151",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-FrNx3iAtoXT0KfJWMMLT6DUrjs=/1000x1000/museums/logos/000/186/302/original/3a5914b669adcec85575f4973ef494b5f9ef7ccb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100266",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150969
+  },
+  "name": "PROJECT BROWNSTONE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "133 WEST 131ST STREET",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10027-2099"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8121&mlon=-73.9441#map=15/40.8121/-73.9441",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8121,
+    "longitude": -73.9441
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602263",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

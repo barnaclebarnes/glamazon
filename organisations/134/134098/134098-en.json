@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134098
+  },
+  "name": "MIDDLETOWN MAIN STREET INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "19 W GREEN ST",
+    "addressLocality": "MIDDLETOWN",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19709-1315"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.4484&mlon=-75.7179#map=15/39.4484/-75.7179",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.4484,
+    "longitude": -75.7179
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000030",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

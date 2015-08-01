@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188153
+  },
+  "name": "Museo civico di Foggia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vincenzo Nigri 1 , ",
+    "addressLocality": "Foggia",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4651&mlon=15.545#map=15/41.4651/15.545",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4651,
+    "longitude": 15.545
+  },
+  "url": "http://www.apuliamuseum.com",
+  "telephone": "+39 0881726245",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Y3s59F8tAbRlQ1hlXE5TdNsstzs=/1000x1000/museums/logos/000/188/153/original/7711eaedd90e61c52a69fb7ec4a0bd8f2a72fa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102367",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

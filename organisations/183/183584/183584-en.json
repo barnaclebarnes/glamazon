@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183584
+  },
+  "name": "Inn-Museum ",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Innstraße 74",
+    "addressLocality": "Rosenheim",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83022"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8549&mlon=12.141#map=15/47.8549/12.141",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8549,
+    "longitude": 12.141
+  },
+  "url": "http://www.wwa-ro.bayern.de/wasser_erleben/inn_museum/index.htm",
+  "telephone": "08031/30501",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183584",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150312
+  },
+  "name": "BUFFALO FINE ARTS ACADEMY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1285 ELMWOOD AVE",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14222-1003"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9321&mlon=-78.877#map=15/42.9321/-78.877",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9321,
+    "longitude": -78.877
+  },
+  "url": "http://www.albrightknox.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601606",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

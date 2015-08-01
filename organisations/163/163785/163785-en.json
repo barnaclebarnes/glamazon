@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163785
+  },
+  "name": "City of Whitehorse",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8177&mlon=145.181#map=15/-37.8177/145.181",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8177,
+    "longitude": 145.181
+  },
+  "url": "http://www.whitehorse.vic.gov.au/Art-Collection.html",
+  "telephone": "(03) 9262 6333 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "city-of-whitehorse-arts-and-culture",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/city-of-whitehorse-arts-and-culture",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

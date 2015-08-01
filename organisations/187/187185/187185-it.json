@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187185
+  },
+  "name": "Museo del tessile e della tradizione industriale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Volta, 6/8",
+    "addressLocality": "Busto Arsizio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6138&mlon=8.84805#map=15/45.6138/8.84805",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6138,
+    "longitude": 8.84805
+  },
+  "url": "http://www.comune.bustoarsizio.va.it",
+  "telephone": "+39 0331627983",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FBLBDkzzZueOMjeXcG3ceMITGV4=/1000x1000/museums/logos/000/187/185/original/d44d183f8149aef5ff37c1291f9ff19b7dfb6bbb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103809",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

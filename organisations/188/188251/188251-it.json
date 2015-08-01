@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188251
+  },
+  "name": "Museo del territorio di Castiadas",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Castiadas centro - Ex Carceri, SNC",
+    "addressLocality": "Castiadas",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2375&mlon=9.50048#map=15/39.2375/9.50048",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2375,
+    "longitude": 9.50048
+  },
+  "url": "http://www.comune.castiadas.ca.it",
+  "telephone": "+39 070 994501 - 070 99450307",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,00 - 13,00 e 16,00 - 24,00 (da giugno a ottobre)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aBC4IWJQ_8y91EeBDoxZ9E59XWk=/1000x1000/museums/logos/000/188/251/original/b91512b46ffe94cf77889ad55e0b3b112a1747c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103326",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

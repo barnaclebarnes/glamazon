@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183308
+  },
+  "name": "Heimat- und Schulmuseum Mömlingen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Alte Schulstraße 1",
+    "addressLocality": "Mömlingen",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63853"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8595&mlon=9.08391#map=15/49.8595/9.08391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8595,
+    "longitude": 9.08391
+  },
+  "url": "http://www.geschichte-untermain.de/moem_schulmuseum.html",
+  "telephone": "06022/3735",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183308",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

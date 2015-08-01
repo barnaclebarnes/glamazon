@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130009
+  },
+  "name": "SILVERADO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1490 LIBRARY LN",
+    "addressLocality": "SAINT HELENA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94574"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5075&mlon=-122.47#map=15/38.5075/-122.47",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5075,
+    "longitude": -122.47
+  },
+  "url": "http://www.silveradomuseum.org",
+  "telephone": "+1 (707) 963-3757",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson_State_Park",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600135",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

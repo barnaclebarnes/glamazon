@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183796
+  },
+  "name": "Schloss und Hofgarten Veitshöchheim",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Echterstraße 10",
+    "addressLocality": "Veitshöchheim",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97209"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8317&mlon=9.87465#map=15/49.8317/9.87465",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8317,
+    "longitude": 9.87465
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/veitsho.htm",
+  "telephone": "0931/91582",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183796",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

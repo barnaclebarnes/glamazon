@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186025
+  },
+  "name": "Museo navale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Petrarca, 80",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8239&mlon=14.2159#map=15/40.8239/14.2159",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8239,
+    "longitude": 14.2159
+  },
+  "url": "http://www.uniparthenope.it",
+  "telephone": "+39 0815475417",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101862",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

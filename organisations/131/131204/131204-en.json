@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131204
+  },
+  "name": "LUX ART INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1550 SOUTH EL CAMINO REAL",
+    "addressLocality": "ENCINITAS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92024-4908"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.0274&mlon=-117.256#map=15/33.0274/-117.256",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.0274,
+    "longitude": -117.256
+  },
+  "url": "http://www.luxartinstitute.org",
+  "telephone": "+1 (760) 436-6611",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/42750182575"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601330",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186229
+  },
+  "name": "Collezione archeologica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Borgo Castello, 13",
+    "addressLocality": "Gorizia",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9428&mlon=13.6281#map=15/45.9428/13.6281",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9428,
+    "longitude": 13.6281
+  },
+  "telephone": "+39 0481533926",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_6dB1261iaS1HUiS19t64sFIZOU=/1000x1000/museums/logos/000/186/229/original/3290b6e4cb268881cb3a9e45e85fe728d81d2eff.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100177",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

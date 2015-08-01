@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187164
+  },
+  "name": "Museo dell’homo Salvadego",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": ", ?",
+    "addressLocality": "Cosio Valtellino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1361&mlon=9.55283#map=15/46.1361/9.55283",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1361,
+    "longitude": 9.55283
+  },
+  "url": "http://www.portedivaltellina.it",
+  "telephone": "+39 0342 617028",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106905",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

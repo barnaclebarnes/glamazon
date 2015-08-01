@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187591
+  },
+  "name": "Torre Troyana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Medici, 6, ",
+    "addressLocality": "Asti",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9009&mlon=8.20424#map=15/44.9009/8.20424",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9009,
+    "longitude": 8.20424
+  },
+  "url": "http://www.comune.asti.it",
+  "telephone": "+39 0141.399489",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da aprile a ottobre sabato e domenica 10,00/13,00– 16,00/19,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9UPeeyOESulDaWtfblZp1ljByXo=/1000x1000/museums/logos/000/187/591/original/c91e9c62bbbc3cd22680ab20e5e4a0bb9449179e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106641",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

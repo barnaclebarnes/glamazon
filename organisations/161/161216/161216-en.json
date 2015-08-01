@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161216
+  },
+  "name": "PORTSMOUTH PUBLIC LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "601 COURT ST",
+    "addressLocality": "PORTSMOUTH",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23704-3607"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8343&mlon=-76.3008#map=15/36.8343/-76.3008",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8343,
+    "longitude": -76.3008
+  },
+  "url": "http://www.portsmouthpubliclibrary.org",
+  "telephone": "+1 (603) 431-2000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100722",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

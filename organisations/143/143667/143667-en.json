@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143667
+  },
+  "name": "CARNEGIE MUSUEM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "105 HURON ST",
+    "addressLocality": "HOUGHTON",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49931"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.1218&mlon=-88.5681#map=15/47.1218/-88.5681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.1218,
+    "longitude": -88.5681
+  },
+  "telephone": "+1 (906) 482-7140",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600204",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

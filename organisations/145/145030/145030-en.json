@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145030
+  },
+  "name": "WELCOME HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 123",
+    "addressLocality": "WELCOME",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "56181"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6672&mlon=-94.6211#map=15/43.6672/-94.6211",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6672,
+    "longitude": -94.6211
+  },
+  "telephone": "+1 (507) 728-8617",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700470",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

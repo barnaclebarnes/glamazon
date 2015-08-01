@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189303
+  },
+  "name": "Museo diocesano e Basilica di Sant'Eufemia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Aurelio Saffi, 13",
+    "addressLocality": "Spoleto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7347&mlon=12.7381#map=15/42.7347/12.7381",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7347,
+    "longitude": 12.7381
+  },
+  "url": "http://www.spoletonorcia.it",
+  "telephone": "+39 0743 231022",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zF9n2lZDy9MrYjjtLzdt6zB_-Qg=/1000x1000/museums/logos/000/189/303/original/36aa7689803d85d6e17b6ec4953b5ded1e2ed5f9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108056",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159002
+  },
+  "name": "EDISON PLAZA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "350 PINE ST",
+    "addressLocality": "BEAUMONT",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77701-2437"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.0853&mlon=-94.0978#map=15/30.0853/-94.0978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.0853,
+    "longitude": -94.0978
+  },
+  "url": "http://www.edisonmuseum.org",
+  "telephone": "+1 (409) 839-3089",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801102",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

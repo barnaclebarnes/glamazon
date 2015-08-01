@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183708
+  },
+  "name": "Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Neustadt 14",
+    "addressLocality": "Sulzbach-Rosenberg",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92237"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5057&mlon=11.7411#map=15/49.5057/11.7411",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5057,
+    "longitude": 11.7411
+  },
+  "url": "http://www.sulzbach-rosenberg.de/index.php?id=175,75",
+  "telephone": "09661/87768-00",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183708",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

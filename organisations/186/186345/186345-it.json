@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186345
+  },
+  "name": "Casa natale di Padre David Maria Turoldo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Caterina Percoto, 7/1",
+    "addressLocality": "Sedegliano",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0294&mlon=12.9897#map=15/46.0294/12.9897",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0294,
+    "longitude": 12.9897
+  },
+  "url": "http://www.assoc-p-turoldo.org",
+  "telephone": "+39 0432916384",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ogni primo sabato e domenica del mese 9.00/12.00 -15.00/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nxed6in_FbxNq5nIGtyX0-xItP8=/1000x1000/museums/logos/000/186/345/original/c7fbc5211ff78217dd5dce20838a44e0c31.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100315",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

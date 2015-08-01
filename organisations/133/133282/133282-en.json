@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133282
+  },
+  "name": "FRED HARMAN ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 192",
+    "addressLocality": "PAGOSA SPRING",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81147-0192"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2563&mlon=-107.076#map=15/37.2563/-107.076",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2563,
+    "longitude": -107.076
+  },
+  "telephone": "+1 (970) 731-5785",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800458",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

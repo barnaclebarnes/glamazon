@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129370
+  },
+  "name": "ARIZONA HUMANE SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9226 N 13TH AVE",
+    "addressLocality": "PHOENIX",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85021-3022"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.5705&mlon=-112.089#map=15/33.5705/-112.089",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.5705,
+    "longitude": -112.089
+  },
+  "url": "http://www.azhumane.org",
+  "telephone": "+1 (602) 997-7585",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400272",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

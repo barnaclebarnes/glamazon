@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187948
+  },
+  "name": "Museo storico dei Vigili del Fuoco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Pietro in Vincoli, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0806&mlon=7.68048#map=15/45.0806/7.68048",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0806,
+    "longitude": 7.68048
+  },
+  "url": "http://www.vvf.to.it",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106620",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134290
+  },
+  "name": "NATIONAL PLASTICS MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1667 K ST NW STE 1000",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20006-1620"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9027&mlon=-77.0382#map=15/38.9027/-77.0382",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9027,
+    "longitude": -77.0382
+  },
+  "url": "http://www.plasticsmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100071",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

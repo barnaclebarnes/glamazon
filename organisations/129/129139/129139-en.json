@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129139
+  },
+  "name": "MUSICAL INSTRUMENT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4725 EAST MAYO BOULEVARD",
+    "addressLocality": "PHOENIX",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85050"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.6687&mlon=-111.979#map=15/33.6687/-111.979",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.6687,
+    "longitude": -111.979
+  },
+  "url": "http://mim.org/",
+  "telephone": "+1 (480) 478-6000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400041",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

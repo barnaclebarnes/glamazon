@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186127
+  },
+  "name": "National Art Gallery of Bologna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via delle Belle Arti 56, ",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4977&mlon=11.3532#map=15/44.4977/11.3532",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4977,
+    "longitude": 11.3532
+  },
+  "url": "http://www.pinacotecabologna.beniculturali.it",
+  "telephone": "+39 051 4209411\n        \n          (+39) 051 4209411",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tuesday and Wednesday 9.00- 3.30, Thursday 9.00-19.00, Friday and Saturday 14.00-19.00, Sunday and public holidays 14.00-19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/U4uTPYz-e8ZaPZxLeUayZ2b87T8=/1000x1000/museums/logos/000/186/127/original/78c9cbbdad759e5c3a347365b281c5b829acbe7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20150",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132454
+  },
+  "name": "ORANGE COUNTY MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "850 SAN CLEMENTE DR",
+    "addressLocality": "NEWPORT BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92660-6301"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.6212&mlon=-117.878#map=15/33.6212/-117.878",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.6212,
+    "longitude": -117.878
+  },
+  "url": "http://www.ocma.net",
+  "telephone": "+1 (949) 759-1122",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/OCMuseumofArt"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/OCMA"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602580",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

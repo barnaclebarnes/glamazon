@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186492
+  },
+  "name": "Museo di scienze naturali ed ambientali di Mentana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Repubblica, 22",
+    "addressLocality": "Mentana",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0354&mlon=12.6386#map=15/42.0354/12.6386",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0354,
+    "longitude": 12.6386
+  },
+  "telephone": "+39 069090699",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101501",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

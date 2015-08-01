@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189340
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via delle Rose, Loc. Castel dell'Aquila, ",
+    "addressLocality": "Montecastrilli",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6359&mlon=12.4052#map=15/42.6359/12.4052",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6359,
+    "longitude": 12.4052
+  },
+  "telephone": "+39 0744935114",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/I_F7XtDjiCxoMRfQ7WwihIzdSBM=/1000x1000/museums/logos/000/189/340/original/d41a4423aedecd8e2fe191aebe6e2b6117f234.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100776",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

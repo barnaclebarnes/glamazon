@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187208
+  },
+  "name": "Fondazione Museo Agusta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Agusta, 506",
+    "addressLocality": "Samarate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6315&mlon=8.74732#map=15/45.6315/8.74732",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6315,
+    "longitude": 8.74732
+  },
+  "url": "http://www.glaagusta.org",
+  "telephone": "+39 0331229348",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/L6lQ5V9pwP1GtSjOeBJ7F6XjGwY=/1000x1000/museums/logos/000/187/208/original/f9e53fb78f7ebeb82450a3936045bd277e9db85e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103833",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

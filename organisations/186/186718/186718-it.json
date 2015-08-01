@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186718
+  },
+  "name": "Museo di Colombo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Terrarossa Colombo, 54",
+    "addressLocality": "Moconesi",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.425&mlon=9.20062#map=15/44.425/9.20062",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.425,
+    "longitude": 9.20062
+  },
+  "telephone": "+39 0185/939001",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107170",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

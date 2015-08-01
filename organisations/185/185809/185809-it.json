@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185809
+  },
+  "name": "Museo d’arte sacra S. Giuseppe",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cinque Colli , ",
+    "addressLocality": "Rogliano",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9744&mlon=16.3174#map=15/38.9744/16.3174",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9744,
+    "longitude": 16.3174
+  },
+  "telephone": "+39 0984/961001",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2AaVK4e7DZdjtKOWSIfI5CunpFE=/1000x1000/museums/logos/000/185/809/original/44d1e9b91cb8451c8aeb63da92ef2331c1d2f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108238",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

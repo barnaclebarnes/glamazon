@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183095
+  },
+  "name": "Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bamberger Straße 3 a",
+    "addressLocality": "Lichtenfels",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96215"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1451&mlon=11.0613#map=15/50.1451/11.0613",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1451,
+    "longitude": 11.0613
+  },
+  "url": "http://www.lichtenfels-city.de/index.php?id=475,294",
+  "telephone": "09571/739422",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183095",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140487
+  },
+  "name": "MUSEUM OF THE AMERICAN PRINTING HOUSE FOR THE BLIND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1839 FRANKFORT AVE.",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40206"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2563&mlon=-85.7151#map=15/38.2563/-85.7151",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2563,
+    "longitude": -85.7151
+  },
+  "url": "http://www.aph.org/museum",
+  "telephone": "+1 (502) 895-2405",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100244",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

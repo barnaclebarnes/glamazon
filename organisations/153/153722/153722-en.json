@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153722
+  },
+  "name": "FRED JONES JRMUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "555 ELM AVE",
+    "addressLocality": "NORMAN",
+    "addressRegion": "OK",
+    "addressCountry": "United States",
+    "postalCode": "73019"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.2101&mlon=-97.4479#map=15/35.2101/-97.4479",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.2101,
+    "longitude": -97.4479
+  },
+  "url": "http://www.ou.edu/fjjma",
+  "telephone": "+1 (405) 325-3272",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404000076",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

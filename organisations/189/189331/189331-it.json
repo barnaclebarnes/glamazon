@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189331
+  },
+  "name": "Centro di paleontologia vegetale della foresta fossile di Dunarobba",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vocabolo Pennicchia, località Dunarobba, 46",
+    "addressLocality": "Avigliano Umbro",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6674&mlon=12.4616#map=15/42.6674/12.4616",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6674,
+    "longitude": 12.4616
+  },
+  "url": "http://www.forestafossile.it",
+  "telephone": "+39 0744940348",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jsimwdC33ZlbWoA_TwBblmZz4Nw=/1000x1000/museums/logos/000/189/331/original/c49e47b9bc4abdc7b51298c7d8eb96d674c925b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100804",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

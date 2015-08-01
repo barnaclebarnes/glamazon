@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160567
+  },
+  "name": "NEWTOWN HISTORY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5408 MAIN ST",
+    "addressLocality": "STEPHENS CITY",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22655"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0829&mlon=-78.2185#map=15/39.0829/-78.2185",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0829,
+    "longitude": -78.2185
+  },
+  "url": "http://www.newtownhistorycenter.org",
+  "telephone": "+1 (540) 869-1700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100073",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

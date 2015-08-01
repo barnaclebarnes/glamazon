@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187782
+  },
+  "name": "Museo archeologico comunale di Varallo Pombia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Palazzo Comunale di Villa Soranzo, Via Simonetta, 3, ",
+    "addressLocality": "Varallo Pombia",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6669&mlon=8.63377#map=15/45.6669/8.63377",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6669,
+    "longitude": 8.63377
+  },
+  "url": "http://comune.varallopombia.no.it",
+  "telephone": "+39 032195355",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102663",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

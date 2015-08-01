@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188283
+  },
+  "name": "Museo delle tradizioni agroalimentari della Sardegna - Casa Steri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 2",
+    "addressLocality": "Siddi",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6716&mlon=8.88858#map=15/39.6716/8.88858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6716,
+    "longitude": 8.88858
+  },
+  "url": "http://www.museocasasteri.it",
+  "telephone": "+39 3496304621",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 15 sett. al 15 giug. domenica 9.30/13.00 dal 16 giug. al 14 sett. domenica 18.00/20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Hh-8mReIAyf9VFbqZd537cBA22w=/1000x1000/museums/logos/000/188/283/original/6c9d921263e9fa30f5f3fa8ded697e16258db60.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103487",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

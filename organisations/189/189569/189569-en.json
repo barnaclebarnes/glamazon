@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189569
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Stazione, 44",
+    "addressLocality": "Trissino",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5907&mlon=11.3714#map=15/45.5907/11.3714",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5907,
+    "longitude": 11.3714
+  },
+  "url": "http://www.museotibaldo.it",
+  "telephone": "+39 0445491512",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6iWQBj7DHPFamhikxfNz8b0mAaY=/1000x1000/museums/logos/000/189/569/original/608216fdca2cce6a28ba52e753a4ca620db096.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106808",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188340
+  },
+  "name": "Museo del gioiello e costume sardo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Marconi, 4",
+    "addressLocality": "Milis",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0492&mlon=8.63727#map=15/40.0492/8.63727",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0492,
+    "longitude": 8.63727
+  },
+  "url": "http://www.comunedimilis.it",
+  "telephone": "+39 0783 51665",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/I2WsAlh14987M0LGj2b-8uZlUqY=/1000x1000/museums/logos/000/188/340/original/af6f2a75c9431429422e6da067d188df2aa18.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103406",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

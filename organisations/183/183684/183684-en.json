@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183684
+  },
+  "name": "Heimathaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sonnenstraße 1",
+    "addressLocality": "Sonthofen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87527"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5099&mlon=10.2792#map=15/47.5099/10.2792",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5099,
+    "longitude": 10.2792
+  },
+  "url": "http://www.sonthofen.de/Kultur/Museen/Heimathaus.aspx",
+  "telephone": "08321/3300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183684",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

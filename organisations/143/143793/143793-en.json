@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143793
+  },
+  "name": "MICHIGAN TRANSIT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 12",
+    "addressLocality": "MOUNT CLEMENS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48046-0012"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5971&mlon=-82.8817#map=15/42.5971/-82.8817",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5971,
+    "longitude": -82.8817
+  },
+  "url": "http://www.michigantransitmuseum.org/",
+  "telephone": "+1 (586) 463-1863",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600330",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

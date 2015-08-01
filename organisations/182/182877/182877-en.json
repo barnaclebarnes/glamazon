@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182877
+  },
+  "name": "Bauernhausmuseum Amerang des Bezirks Oberbayern",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hopfgarten 2",
+    "addressLocality": "Amerang",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0027&mlon=12.3055#map=15/48.0027/12.3055",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0027,
+    "longitude": 12.3055
+  },
+  "url": "http://www.bhm-amerang.de",
+  "telephone": "08075/91509-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182877",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

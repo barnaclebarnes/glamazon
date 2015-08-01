@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188486
+  },
+  "name": "Pinacoteca De Vita",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Montesano, 1",
+    "addressLocality": "Chiaramonte Gulfi",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0312&mlon=14.7039#map=15/37.0312/14.7039",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0312,
+    "longitude": 14.7039
+  },
+  "url": "http://www.comune.chiaramonte.rg.it",
+  "telephone": "+39 0932711239",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da lun. a ven. 8.30/13.30 sab. dom. 9.30/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "1,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EwSePMGk2vN4_RzLMwjarmtwOKc=/1000x1000/museums/logos/000/188/486/original/dd9735de4b3bcf4387940ee4366cae2ac56e4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101334",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

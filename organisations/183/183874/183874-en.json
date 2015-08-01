@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183874
+  },
+  "name": "Hudetz-Turm",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßplatz 1",
+    "addressLocality": "Wiesent",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0077&mlon=12.3796#map=15/49.0077/12.3796",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0077,
+    "longitude": 12.3796
+  },
+  "url": "http://www.wiesent.de/tourismus/hudetzturm/index.php",
+  "telephone": "09482/1386",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183874",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

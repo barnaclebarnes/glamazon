@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149449
+  },
+  "name": "METROPOLITAN MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 5TH AVE",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10028-0198"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7784&mlon=-73.9627#map=15/40.7784/-73.9627",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7784,
+    "longitude": -73.9627
+  },
+  "url": "http://www.metmuseum.org",
+  "telephone": "+1 (212) 472-2764",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/metmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/metmuseum"
+    }
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fSunhLAJFSmnx55GNJee2-YKcgE=/1000x1000/museums/logos/000/149/449/original/NYC_-_Metropolitan_-_Temple_of_Dendur.JPG",
+    "creator": "Jean-Christophe BENOIST",
+    "license": "CC BY 3.0"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600743",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

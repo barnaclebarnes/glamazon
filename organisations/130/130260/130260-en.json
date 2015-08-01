@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130260
+  },
+  "name": "LA PURISIMA MISSION SMP-DPR",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2295 PURISIMA ROAD",
+    "addressLocality": "LOMPAC",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93436"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.6698&mlon=-120.424#map=15/34.6698/-120.424",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.6698,
+    "longitude": -120.424
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/llMBTdexFkWmaTDLkONGzd_8nSc=/1000x1000/museums/logos/000/130/260/original/La_purisima_altar.jpg",
+    "creator": "Hannah Yates",
+    "license": "CC BY 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/La_Purisima_Mission",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600386",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187843
+  },
+  "name": "Collezioni della scuola agraria salesiana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Giovanni Bosco, 7, ",
+    "addressLocality": "Lombriasco",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8428&mlon=7.63909#map=15/44.8428/7.63909",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8428,
+    "longitude": 7.63909
+  },
+  "url": "http://www.salesianilombriasco.it",
+  "telephone": "+39 0112346311",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9-12 e 15-18",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Gratuito (eventuale offerta libera)"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102701",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

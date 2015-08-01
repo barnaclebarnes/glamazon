@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131430
+  },
+  "name": "SANTA ANA ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1801 E CHESNUT AVE.",
+    "addressLocality": "SANTA ANA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92701-5001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.742&mlon=-117.844#map=15/33.742/-117.844",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.742,
+    "longitude": -117.844
+  },
+  "telephone": "+1 (714) 836-4000",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Santa_Ana_Zoo",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601556",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

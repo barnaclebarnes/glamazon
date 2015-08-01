@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188895
+  },
+  "name": "Museo degli strumenti per il calcolo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Nicola Pisano, 25",
+    "addressLocality": "Pisa",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7166&mlon=10.3915#map=15/43.7166/10.3915",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7166,
+    "longitude": 10.3915
+  },
+  "url": "http://www.fondazionegalileogalilei.it",
+  "telephone": "+39 0502215212",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xsfLqRYmkzuw5idvsr7PsMneA0w=/1000x1000/museums/logos/000/188/895/original/437ea34b352214a1cf0b75f99a8bf628d24893.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103150",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

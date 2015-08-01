@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137107
+  },
+  "name": "BYRON MUSEUM OF HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "110 N UNION ST",
+    "addressLocality": "BYRON",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61010"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1258&mlon=-89.2559#map=15/42.1258/-89.2559",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1258,
+    "longitude": -89.2559
+  },
+  "url": "http://www.byronmuseum.org",
+  "telephone": "+1 (815) 234-5031",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700252",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

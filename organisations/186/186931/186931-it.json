@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186931
+  },
+  "name": "Museo Il forno di Tavernole",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Forno Fusorio, 1",
+    "addressLocality": "Tavernole sul Mella",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7497&mlon=10.2419#map=15/45.7497/10.2419",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7497,
+    "longitude": 10.2419
+  },
+  "url": "http://www.cm.valletrompia.it/musei",
+  "telephone": "+39 0308337494",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WZc4jijBAEtUaw_ckszMDGnbcw8=/1000x1000/museums/logos/000/186/931/original/70d513623fc751dab09531dcc9a85a1ec837fb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103599",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

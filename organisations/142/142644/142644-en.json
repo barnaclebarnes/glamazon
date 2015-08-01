@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142644
+  },
+  "name": "WILLIAMS COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "880 MAIN ST",
+    "addressLocality": "WILLIAMSTOWN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01267-2600"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7122&mlon=-73.2034#map=15/42.7122/-73.2034",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7122,
+    "longitude": -73.2034
+  },
+  "url": "http://www.williams.edu",
+  "telephone": "+1 (413) 597-3220",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500274",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

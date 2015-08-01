@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187353
+  },
+  "name": "Herbarium camerinense",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pontoni, 5",
+    "addressLocality": "Camerino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1373&mlon=13.0717#map=15/43.1373/13.0717",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1373,
+    "longitude": 13.0717
+  },
+  "url": "http://erbariitaliani@unipg.it",
+  "telephone": "+39 0737404510",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedí-Venerdí: 08.00 - 13.00 Lunedí e Mercoledí: 15.00 - 18.00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104162",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

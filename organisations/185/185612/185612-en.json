@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185612
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Oriente, 148",
+    "addressLocality": "Tagliacozzo",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0571&mlon=13.2785#map=15/42.0571/13.2785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0571,
+    "longitude": 13.2785
+  },
+  "url": "http://www.comune.tagliacozzo.aq.it",
+  "telephone": "+39 0863610257",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/K97CGOZcAKcympVUeDkVwANfbWU=/1000x1000/museums/logos/000/185/612/original/ac88226e624c91de5f4dbe55bcbb976b5155fc89.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100033",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

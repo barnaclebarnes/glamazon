@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183359
+  },
+  "name": "Dorfmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Seehalde 4",
+    "addressLocality": "Nonnenhorn",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "88149"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5747&mlon=9.60914#map=15/47.5747/9.60914",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5747,
+    "longitude": 9.60914
+  },
+  "telephone": "08382/888668",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183359",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

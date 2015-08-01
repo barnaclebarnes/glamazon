@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147634
+  },
+  "name": "WILLIAM TRENT HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 MARKET STREET",
+    "addressLocality": "TRENTON",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "08611"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2138&mlon=-74.7651#map=15/40.2138/-74.7651",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2138,
+    "longitude": -74.7651
+  },
+  "url": "http://williamtrenthouse.org",
+  "telephone": "+1 (609) 989-3027",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

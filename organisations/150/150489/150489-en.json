@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150489
+  },
+  "name": "HANNIBAL HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 150",
+    "addressLocality": "HANNIBAL",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13074"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.309&mlon=-76.5253#map=15/43.309/-76.5253",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.309,
+    "longitude": -76.5253
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601783",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

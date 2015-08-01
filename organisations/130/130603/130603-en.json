@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130603
+  },
+  "name": "WILSHIRE PARK ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5482 WILSHIRE BLVD #218",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90036-4218"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0622&mlon=-118.348#map=15/34.0622/-118.348",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0622,
+    "longitude": -118.348
+  },
+  "url": "http://wilshirepark.org",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4hhiggItX3ZirGwYsJOY0HMHmus=/1000x1000/museums/logos/000/130/603/original/3923_W._9th_St._2C_Los_Angeles.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Downtowngal\" title=\"User:Downtowngal\">Downtowngal</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Wilshire_Park,_Los_Angeles",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600729",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

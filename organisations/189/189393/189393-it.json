@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189393
+  },
+  "name": "Maison Musee Jean-Paul II",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": ", 37",
+    "addressLocality": "Introd",
+    "addressRegion": "Valle d'Aosta/Vallée d'Aoste",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7389&mlon=7.42619#map=15/45.7389/7.42619",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7389,
+    "longitude": 7.42619
+  },
+  "url": "http://www.maison-musee.it",
+  "telephone": "+39 0165 99290",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/h0W5NHNGo5XMIiw5-kl-0rjJrKM=/1000x1000/museums/logos/000/189/393/original/7f7593f4339af1bc847c1e2df31fe9694432d80.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100831",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

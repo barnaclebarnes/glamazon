@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131122
+  },
+  "name": "RIVESIDE HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 246",
+    "addressLocality": "RIVERSIDE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92502-9250"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9806&mlon=-117.374#map=15/33.9806/-117.374",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9806,
+    "longitude": -117.374
+  },
+  "url": "http://riversidehistoricalsociety.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601248",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

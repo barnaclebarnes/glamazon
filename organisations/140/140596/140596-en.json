@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140596
+  },
+  "name": "INTERNATIONAL BLUEGRASS MUSIC MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "207 E 2ND ST",
+    "addressLocality": "OWENSBORO",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "42303-4201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.775&mlon=-87.1099#map=15/37.775/-87.1099",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.775,
+    "longitude": -87.1099
+  },
+  "url": "http://www.bluegrass-museum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100353",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

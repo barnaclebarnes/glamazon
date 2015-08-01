@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150201
+  },
+  "name": "PARISH TOWN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 145",
+    "addressLocality": "PARISH",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13131-0145"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4136&mlon=-76.1123#map=15/43.4136/-76.1123",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4136,
+    "longitude": -76.1123
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601495",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

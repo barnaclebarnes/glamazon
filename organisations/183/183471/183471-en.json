@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183471
+  },
+  "name": "Orgelbaumuseum Schloss Hanstein e. V.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Paulinenstraße 20",
+    "addressLocality": "Ostheim",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97645"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.4586&mlon=10.235#map=15/50.4586/10.235",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.4586,
+    "longitude": 10.235
+  },
+  "url": "http://www.orgelbaumuseum.de",
+  "telephone": "09777/1743",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183471",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

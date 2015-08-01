@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183452
+  },
+  "name": "Neue Galerie im Höhmannhaus mit Grafischem Kabinett",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Maximilianstraße 48",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3648&mlon=10.8992#map=15/48.3648/10.8992",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3648,
+    "longitude": 10.8992
+  },
+  "url": "http://www.kunstsammlungen-museen.augsburg.de/index.php?id=19811",
+  "telephone": "0821/3244-102",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183452",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

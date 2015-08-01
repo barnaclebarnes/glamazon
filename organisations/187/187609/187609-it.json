@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187609
+  },
+  "name": "Museo del gesso - Castello di Moncucco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Castello di Moncucco, Piazza Statuto, 1, ",
+    "addressLocality": "Moncucco Torinese",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.068&mlon=7.93343#map=15/45.068/7.93343",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.068,
+    "longitude": 7.93343
+  },
+  "url": "http://www.comune.moncucco.asti.it",
+  "telephone": "+39 0119874701",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104955",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

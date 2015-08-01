@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183656
+  },
+  "name": "Schloss Neuschwanstein",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5576&mlon=10.7497#map=15/47.5576/10.7497",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5576,
+    "longitude": 10.7497
+  },
+  "url": "http://www.neuschwanstein.de",
+  "telephone": "08362/93988-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183656",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148564
+  },
+  "name": "THE POTATO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9908 LA PAZ NW",
+    "addressLocality": "ALBUQUERQUE",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87114"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1946&mlon=-106.718#map=15/35.1946/-106.718",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1946,
+    "longitude": -106.718
+  },
+  "url": "http://potatomuseum.com",
+  "telephone": "+1 (505) 401-8922",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500154",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

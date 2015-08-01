@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183709
+  },
+  "name": "Burgmuseum Sulzberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgruine Sulzberg",
+    "addressLocality": "Sulzberg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87477"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.654&mlon=10.3443#map=15/47.654/10.3443",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.654,
+    "longitude": 10.3443
+  },
+  "url": "http://www.burgfreunde-sulzberg.de.vu/",
+  "telephone": "08376/9201-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183709",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

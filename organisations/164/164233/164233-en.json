@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164233
+  },
+  "name": "Red Hill Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.0331&mlon=141.73#map=15/-37.0331/141.73",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.0331,
+    "longitude": 141.73
+  },
+  "telephone": "(03) 5588 6245",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "red-hill-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/red-hill-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

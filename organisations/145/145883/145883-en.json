@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145883
+  },
+  "name": "ST LOUIS ARTISTS GUILD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 OAK KNOLL PARK",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63105-3008"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6372&mlon=-90.319#map=15/38.6372/-90.319",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6372,
+    "longitude": -90.319
+  },
+  "url": "http://www.stlouisartistsguild.org",
+  "telephone": "+1 (314) 727-6266",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900312",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

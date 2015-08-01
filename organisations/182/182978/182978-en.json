@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182978
+  },
+  "name": "Befreiungshalle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Befreiungshallestraße 11",
+    "addressLocality": "Kelheim",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "93309"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9186&mlon=11.8603#map=15/48.9186/11.8603",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9186,
+    "longitude": 11.8603
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/kelheim.htm",
+  "telephone": "09441/68207-10",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182978",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

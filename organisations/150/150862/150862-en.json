@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150862
+  },
+  "name": "DAYTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 15",
+    "addressLocality": "DAYTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14041"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4065&mlon=-78.9728#map=15/42.4065/-78.9728",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4065,
+    "longitude": -78.9728
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602156",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

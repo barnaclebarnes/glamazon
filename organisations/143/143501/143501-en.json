@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143501
+  },
+  "name": "SLOAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1221 E KEARSLEY ST",
+    "addressLocality": "FLINT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48503"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0238&mlon=-83.6763#map=15/43.0238/-83.6763",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0238,
+    "longitude": -83.6763
+  },
+  "url": "http://www.sloanmuseum.com",
+  "telephone": "+1 (810) 237-3450",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600038",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

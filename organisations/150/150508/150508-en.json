@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150508
+  },
+  "name": "PERINTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18 PERRIN ST",
+    "addressLocality": "FAIRPORT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14450"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1004&mlon=-77.4439#map=15/43.1004/-77.4439",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1004,
+    "longitude": -77.4439
+  },
+  "url": "http://www.perintonhistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601802",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

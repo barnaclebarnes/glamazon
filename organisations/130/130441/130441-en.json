@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130441
+  },
+  "name": "BADE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1798 SCENIC AVE",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94709"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8763&mlon=-122.262#map=15/37.8763/-122.262",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8763,
+    "longitude": -122.262
+  },
+  "url": "http://bade.psr.edu",
+  "telephone": "+1 (510) 849-8286",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600567",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

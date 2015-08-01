@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130758
+  },
+  "name": "SAN FRANCISCO ARCHITECTURAL HERITAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2007 FRANKLIN ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94109-2909"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7933&mlon=-122.425#map=15/37.7933/-122.425",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7933,
+    "longitude": -122.425
+  },
+  "url": "http://www.sfheritage.org",
+  "telephone": "+1 (415) 441-3000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600884",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

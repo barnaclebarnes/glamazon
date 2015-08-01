@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131448
+  },
+  "name": "CALIFORNIA HERITAGE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2612 MAIN ST",
+    "addressLocality": "SANTA MONICA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90405-4002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0022&mlon=-118.484#map=15/34.0022/-118.484",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0022,
+    "longitude": -118.484
+  },
+  "url": "http://www.californiaheritagemuseum.org",
+  "telephone": "+1 (310) 392-8537",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601574",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186833
+  },
+  "name": "Tadini Academy Gallery",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Tadini, 40",
+    "addressLocality": "Lovere",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8145&mlon=10.073#map=15/45.8145/10.073",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8145,
+    "longitude": 10.073
+  },
+  "url": "http://www.accademiatadini.it",
+  "telephone": "+39 035962780",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cbBvjoYpiHqwKrj55MO4k2_LL_g=/1000x1000/museums/logos/000/186/833/original/b97e1bf69de57b28ad2acccb1c73bf07e694eca.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103518",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182934
+  },
+  "name": "Bayerisches Schulmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßplatz 3",
+    "addressLocality": "Ichenhausen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89335"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.372&mlon=10.3041#map=15/48.372/10.3041",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.372,
+    "longitude": 10.3041
+  },
+  "url": "http://www.bayerisches-nationalmuseum.de/Win/g/g09.htm",
+  "telephone": "08223/6189",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182934",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

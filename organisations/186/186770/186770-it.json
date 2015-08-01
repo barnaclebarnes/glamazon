@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186770
+  },
+  "name": "Museo dell'apicoltura",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Leone, 26",
+    "addressLocality": "Calice al Cornoviglio",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2431&mlon=9.83642#map=15/44.2431/9.83642",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2431,
+    "longitude": 9.83642
+  },
+  "url": "http://www.comune.calicealcornoviglio.sp.it",
+  "telephone": "+39 0187 935644",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kwXd-WNMhCdIg4H-G2ezf0CwvgM=/1000x1000/museums/logos/000/186/770/original/f4c3b63b839622a8b1938c64eab153e9c826b58f.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100430",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

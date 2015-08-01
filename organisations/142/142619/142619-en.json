@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142619
+  },
+  "name": "LOWELL GENERAL HOSPITAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "295 VARNUM AVE",
+    "addressLocality": "LOWELL",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01854-2134"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6465&mlon=-71.3406#map=15/42.6465/-71.3406",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6465,
+    "longitude": -71.3406
+  },
+  "url": "http://www.lowellgeneral.org",
+  "telephone": "+1 (978) 937-6247",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500249",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187999
+  },
+  "name": "Museo naturalistico Alpe Selviana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Agrano di Omegna - Via Selviana, 42, ",
+    "addressLocality": "Omegna",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8431&mlon=8.4259#map=15/45.8431/8.4259",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8431,
+    "longitude": 8.4259
+  },
+  "url": "http://www.lagodorta.net",
+  "telephone": "+39 032381287",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102813",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

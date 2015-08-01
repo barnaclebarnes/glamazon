@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186550
+  },
+  "name": "Museo del Tasso",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza S. Onofrio al Gianicolo, 2",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8955&mlon=12.4409#map=15/41.8955/12.4409",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8955,
+    "longitude": 12.4409
+  },
+  "telephone": "+39 06 6877347",
+  "contactPoint": [
+
+  ],
+  "openingHours": "solo su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WRP57-WXeDM-_dTrtG0VmPv_QoQ=/1000x1000/museums/logos/000/186/550/original/8a8189b8d724985e245abd83da264cbc3f15cb9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101546",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

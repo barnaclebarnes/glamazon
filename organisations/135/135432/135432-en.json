@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135432
+  },
+  "name": "FRIENDS OF THE MUSEUMS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "139 MIRACLE STRIP PARKWAY SE",
+    "addressLocality": "FORT WALTON BEACH",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32548"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4038&mlon=-86.6071#map=15/30.4038/-86.6071",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4038,
+    "longitude": -86.6071
+  },
+  "url": "http://friendsofthemuseums.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200987",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

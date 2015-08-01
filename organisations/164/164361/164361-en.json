@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164361
+  },
+  "name": "The Emily Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "url": "http://www.emilymuseum.com.au",
+  "telephone": "0419 329 886",
+  "contactPoint": [
+
+  ],
+  "openingHours": "By appointment only",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "emily-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/emily-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188475
+  },
+  "name": "Antiquarium di Solunto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Collegio Romano, SNC",
+    "addressLocality": "Santa Flavia",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0825&mlon=13.5276#map=15/38.0825/13.5276",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0825,
+    "longitude": 13.5276
+  },
+  "telephone": "+39 091931706",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriali dalle 9 alle 19, ultimo ingresso alle 18.30, per padiglione A e B - L'area arch.ca chiude alle 18 - festivi dalle 9 alle 13.30 (ultimo ingresso alle 13)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0dh_OPg9W1_jnus9JXIIWhHkfoY=/1000x1000/museums/logos/000/188/475/original/6e19e0f1af8dcc74da3aea6c6b82fef321553c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101329",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

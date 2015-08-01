@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186018
+  },
+  "name": "Museo di San Martino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo San Martino, 5",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8463&mlon=14.2316#map=15/40.8463/14.2316",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8463,
+    "longitude": 14.2316
+  },
+  "url": "http://www.polomusealenapoli.beniculturali.it/museo_sm/museo_sm.html",
+  "telephone": "+39 0039.081.2294541",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8.30- 19.30;Alcune sezioni del Museo sono visitabili con visite accompagnate ad orario",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XkmlZ4uu45t-hAPJVo1bV4rJtQo=/1000x1000/museums/logos/000/186/018/original/c65b98b8b3c671ea63df9723adcb8218a9fdf08.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20484",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186424
+  },
+  "name": "Museo diocesano d’arte sacra di Sermoneta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santa Maria, 15",
+    "addressLocality": "Sermoneta",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5485&mlon=12.9861#map=15/41.5485/12.9861",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5485,
+    "longitude": 12.9861
+  },
+  "telephone": "+39 0773694261",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UaqqhUqGgqsFW3k9j7R9URqFSTk=/1000x1000/museums/logos/000/186/424/original/6ea1c7bbcda2fb38d10fef516ea267bc736edb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101451",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

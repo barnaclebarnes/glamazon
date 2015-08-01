@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150090
+  },
+  "name": "THE BOSTON HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 31 9410 BOSTON STATE ROAD",
+    "addressLocality": "BOSTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14025-0031"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6134&mlon=-78.7301#map=15/42.6134/-78.7301",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6134,
+    "longitude": -78.7301
+  },
+  "url": "http://www.townofboston.com/historical_info.html",
+  "telephone": "+1 (716) 941-5015",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601384",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144164
+  },
+  "name": "CURIOUS KIDS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "415 LAKE BLVD",
+    "addressLocality": "SAINT JOSEPH",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49085-1231"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1086&mlon=-86.484#map=15/42.1086/-86.484",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1086,
+    "longitude": -86.484
+  },
+  "url": "http://www.curiouskidsmuseum.org",
+  "telephone": "+1 (269) 983-2543",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600701",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

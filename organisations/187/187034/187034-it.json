@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187034
+  },
+  "name": "Museo civico Polironiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Teofilo Folengo, 22",
+    "addressLocality": "San Benedetto Po",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0422&mlon=10.9284#map=15/45.0422/10.9284",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0422,
+    "longitude": 10.9284
+  },
+  "url": "http://www.museocivicopolironiano.it",
+  "telephone": "+39 0376 623036",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BhB30nX5XPWGP-6DfwS51WQ6Tvo=/1000x1000/museums/logos/000/187/034/original/4af8aa705818ccb82f6839cfc45a38f16269772.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106828",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

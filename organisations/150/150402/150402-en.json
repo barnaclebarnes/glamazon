@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150402
+  },
+  "name": "ARTO MONACO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 102",
+    "addressLocality": "UPPER JAY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12987"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3238&mlon=-73.7766#map=15/44.3238/-73.7766",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3238,
+    "longitude": -73.7766
+  },
+  "url": "http://www.artomonaco.org/index.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601696",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

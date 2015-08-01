@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142765
+  },
+  "name": "NORTH ADAMS HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 333",
+    "addressLocality": "NORTH ADAMS",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01247"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6978&mlon=-73.1117#map=15/42.6978/-73.1117",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6978,
+    "longitude": -73.1117
+  },
+  "url": "http://northadamshistory.org",
+  "telephone": "+1 (413) 664-4700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500395",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

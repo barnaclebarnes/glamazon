@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150321
+  },
+  "name": "AURORA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 472",
+    "addressLocality": "EAST AURORA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14052-0472"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7701&mlon=-78.6096#map=15/42.7701/-78.6096",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7701,
+    "longitude": -78.6096
+  },
+  "url": "http://www.aurorahistoricalsociety.com/",
+  "telephone": "+1 (716) 652-4735",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601615",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

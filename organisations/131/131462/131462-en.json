@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131462
+  },
+  "name": "MUSEUM OF RECONSTRUCTIONS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "71 9TH AVE APT 6",
+    "addressLocality": "SAN MATEO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94401"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5601&mlon=-122.32#map=15/37.5601/-122.32",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5601,
+    "longitude": -122.32
+  },
+  "url": "http://www.reconstructions.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601588",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

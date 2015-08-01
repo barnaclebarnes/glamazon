@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147230
+  },
+  "name": "WRIGHT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "77 CENTER ST",
+    "addressLocality": "WOLFEBORO",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03894"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5892&mlon=-71.2056#map=15/43.5892/-71.2056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5892,
+    "longitude": -71.2056
+  },
+  "url": "http://www.wrightmuseum.org",
+  "telephone": "+1 (603) 569-1212",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300005",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

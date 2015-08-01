@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187221
+  },
+  "name": "Museo di storia naturale A. Stoppani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pio XI, 32",
+    "addressLocality": "Venegono Inferiore",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7372&mlon=8.90629#map=15/45.7372/8.90629",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7372,
+    "longitude": 8.90629
+  },
+  "url": "http://www.seminario.milano.it",
+  "telephone": "+39 0331867111",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1a6Hs_nC53Y3aioMWmXq0wPE0X4=/1000x1000/museums/logos/000/187/221/original/8c8198de520d25c9fc5227f6ddbb6f51e3edf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103846",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

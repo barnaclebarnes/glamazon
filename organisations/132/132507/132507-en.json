@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132507
+  },
+  "name": "ARMORY CENTER FOR THE ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "145 N RAYMOND AVE",
+    "addressLocality": "PASADENA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91103-3921"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1485&mlon=-118.149#map=15/34.1485/-118.149",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1485,
+    "longitude": -118.149
+  },
+  "url": "http://www.armoryarts.org",
+  "telephone": "+1 (626) 792-5101",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/armoryarts"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602633",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

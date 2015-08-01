@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158080
+  },
+  "name": "LEONARD'S MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 CARROLL ST",
+    "addressLocality": "FORT WORTH",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76107"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7578&mlon=-97.3546#map=15/32.7578/-97.3546",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7578,
+    "longitude": -97.3546
+  },
+  "telephone": "+1 (817) 336-9111",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800180",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

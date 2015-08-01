@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141414
+  },
+  "name": "MARINE MAMMALS OF MAINE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3 INDIAN RIDGE DRIVE",
+    "addressLocality": "BIDDEFORD",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04005-9366"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3845&mlon=-70.5441#map=15/43.3845/-70.5441",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3845,
+    "longitude": -70.5441
+  },
+  "url": "http://mmome.org",
+  "telephone": "+1 (1800) 532-9551",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300263",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

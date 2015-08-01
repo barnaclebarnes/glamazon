@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188520
+  },
+  "name": "Museo civico della preistoria del Basso Belice",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Luigi Sturzo, 65",
+    "addressLocality": "Partanna",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7279&mlon=12.8854#map=15/37.7279/12.8854",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7279,
+    "longitude": 12.8854
+  },
+  "telephone": "+39 0924922750",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Fo0Rq1IurqGTxyyYDcXWrvqwunw=/1000x1000/museums/logos/000/188/520/original/4017a196433ec9be50e713c9fe143939ba7937.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104020",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

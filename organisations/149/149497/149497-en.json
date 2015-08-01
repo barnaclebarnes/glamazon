@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149497
+  },
+  "name": "DRAWING CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "35 WOOSTER ST",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10013-5300"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7223&mlon=-74.0027#map=15/40.7223/-74.0027",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7223,
+    "longitude": -74.0027
+  },
+  "url": "http://www.drawingcenter.org",
+  "telephone": "+1 (212) 219-2166",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600791",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182864
+  },
+  "name": "Oberfränkisches Textilmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Münchberger Straße 17",
+    "addressLocality": "Helmbrechts",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95233"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2388&mlon=11.7189#map=15/50.2388/11.7189",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2388,
+    "longitude": 11.7189
+  },
+  "url": "http://www.textilmuseum.de",
+  "telephone": "09252/924-30",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182864",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142209
+  },
+  "name": "THE BEAD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9600 KENSINGTON PKWY",
+    "addressLocality": "KENSINGTON",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "20895"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.5399&mlon=-112.183#map=15/33.5399/-112.183",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.5399,
+    "longitude": -112.183
+  },
+  "url": "http://www.thebeadmuseum.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400502",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

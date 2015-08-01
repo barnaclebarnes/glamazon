@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187214
+  },
+  "name": "Museo internazionale del presepio di Sumirago",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Giovanni Bosco, 2",
+    "addressLocality": "Sumirago",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7389&mlon=8.79402#map=15/45.7389/8.79402",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7389,
+    "longitude": 8.79402
+  },
+  "url": "http://www.museodeipresepi.it/",
+  "telephone": "+39 0331909145 - 3397658280",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 08/12 all'ultima domenica di Gennaio: festivi ore 14,30 - 17,30 per tutto l'anno: su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104960",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

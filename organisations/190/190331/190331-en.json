@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190331
+  },
+  "name": "AUDUBON NATURE INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6500 MAGAZINE ST",
+    "addressLocality": "NEW ORLEANS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70118"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3097&mlon=-71.1221#map=15/42.3097/-71.1221",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3097,
+    "longitude": -71.1221
+  },
+  "url": "http://www.auduboninstitute.org",
+  "telephone": "+1 (504) 212-5146",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400221",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

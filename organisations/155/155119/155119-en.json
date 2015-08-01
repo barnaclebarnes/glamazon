@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155119
+  },
+  "name": "CARNEGIE SCIENCE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ONE ALLEGHENY AVENUE",
+    "addressLocality": "PITTSBURGH",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "15212-5850"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4468&mlon=-80.0175#map=15/40.4468/-80.0175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4468,
+    "longitude": -80.0175
+  },
+  "url": "http://www.carnegiesciencecenter.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200313",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

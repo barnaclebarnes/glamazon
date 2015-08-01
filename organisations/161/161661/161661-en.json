@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161661
+  },
+  "name": "HENRY ART GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "UNIVERSITY OF WASHINGTON",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98195-1410"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6545&mlon=-122.312#map=15/47.6545/-122.312",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6545,
+    "longitude": -122.312
+  },
+  "telephone": "+1 (206) 543-2281",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/henryartgallery"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/henryartgallery"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300110",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

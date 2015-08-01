@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184040
+  },
+  "name": "Museum der Stadt Burgau",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Norbert-Schuster-Straße 11",
+    "addressLocality": "Burgau",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89331"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4311&mlon=10.4073#map=15/48.4311/10.4073",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4311,
+    "longitude": 10.4073
+  },
+  "url": "http://www.burgau.de",
+  "telephone": "08222/4006-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184040",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

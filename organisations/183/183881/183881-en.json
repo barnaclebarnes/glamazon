@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183881
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Untermarkt 10",
+    "addressLocality": "Wolfratshausen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82515"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9149&mlon=11.4188#map=15/47.9149/11.4188",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9149,
+    "longitude": 11.4188
+  },
+  "url": "http://www.heimatmuseum.wolfratshausen.de/",
+  "telephone": "08171/267838",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183881",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189297
+  },
+  "name": "Casa romana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via di Visiale, 9",
+    "addressLocality": "Spoleto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7342&mlon=12.7378#map=15/42.7342/12.7378",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7342,
+    "longitude": 12.7378
+  },
+  "url": "http://www.comune.spoleto.pg.it",
+  "telephone": "+39 0743224656",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2Zi98c6G8GmBs2pz8WYQxMyUFVs=/1000x1000/museums/logos/000/189/297/original/74dcd613a978a7711e6ada8c102ffadfed4eb2ae.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100747",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

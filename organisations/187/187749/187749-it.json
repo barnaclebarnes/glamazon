@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187749
+  },
+  "name": "Pinacoteca civica \"Carlo Sismonda\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Municipio, Via Maestra A. Sarti, 27, ",
+    "addressLocality": "Torre San Giorgio",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7367&mlon=7.52922#map=15/44.7367/7.52922",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7367,
+    "longitude": 7.52922
+  },
+  "url": "http://www.comune.torresangiorgio.cn.it",
+  "telephone": "+39 0172 96012",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato 8,30/12,30 dal lunedì al giovedì 14,30/16,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102629",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135234
+  },
+  "name": "THE HISTORICAL SOCIETY OF AVON PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3 N MUSEUM AVE",
+    "addressLocality": "AVON PARK",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33825-3153"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=27.5964&mlon=-81.5054#map=15/27.5964/-81.5054",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 27.5964,
+    "longitude": -81.5054
+  },
+  "url": "http://avonparkhistoricalsociety.com",
+  "telephone": "+1 (863) 453-3525",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200789",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

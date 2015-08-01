@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182681
+  },
+  "name": "Haus der Natur",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Eichenberg 1",
+    "addressLocality": "Eichendorf",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94428"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.6261&mlon=12.8793#map=15/48.6261/12.8793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.6261,
+    "longitude": 12.8793
+  },
+  "url": "http://www.schullandheim-eichenberg.de/index.php/informationen/naturkundemuseum",
+  "telephone": "09952/477",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182681",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

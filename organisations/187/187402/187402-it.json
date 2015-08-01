@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187402
+  },
+  "name": "Museo civico di Palazzo Cento",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 32",
+    "addressLocality": "Pollenza",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2669&mlon=13.3486#map=15/43.2669/13.3486",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2669,
+    "longitude": 13.3486
+  },
+  "url": "http://www.comune.pollenza.mc.it/?page_id=33",
+  "telephone": "+39 0733549387",
+  "contactPoint": [
+
+  ],
+  "openingHours": "orario invernale:10.00-13.00/15.00-18.00. orario estivo:10.00-13.00/16.00-19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iapcMPAxL55cByj06ZwF-00N3a8=/1000x1000/museums/logos/000/187/402/original/5a4e1549a981cdd3b696a7fcfe7f1da69ddccf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104215",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

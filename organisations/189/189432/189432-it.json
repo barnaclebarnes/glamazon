@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189432
+  },
+  "name": "Museo naturalistico di Villa Beatrice",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Monte Gemola, ",
+    "addressLocality": "Baone",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2445&mlon=11.6892#map=15/45.2445/11.6892",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2445,
+    "longitude": 11.6892
+  },
+  "url": "http://www.provincia.padova.it",
+  "telephone": "+39 0429601177",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/s9I4PaybmhXRnzrOew_FgKWz6Mc=/1000x1000/museums/logos/000/189/432/original/34409f33bc9539020376cfa0b796ffb5a24ca9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100896",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

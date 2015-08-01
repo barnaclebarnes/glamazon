@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187459
+  },
+  "name": "Museo d’arte sacra della Chiesa di San Marco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Barocci, 2",
+    "addressLocality": "Mombaroccio",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7968&mlon=12.855#map=15/43.7968/12.855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7968,
+    "longitude": 12.855
+  },
+  "url": "http://www.cultura.pesarourbino.it/elenco/musei/mombaroccio-museo-darte-sacra-della-chiesa-di-san-marco-muse.html",
+  "telephone": "+39 0721471103 (Comune)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "maggio a settembre: 9.00 - 12.00 e 16.00 - 19.00 ottobre a aprile 15.00 - 18.00 e mattino su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/89ij2l20GwlYChywNiYUUfIduO0=/1000x1000/museums/logos/000/187/459/original/b43bcae37dc8418da9169cb77714d01b632f8e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104284",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

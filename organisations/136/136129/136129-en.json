@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136129
+  },
+  "name": "CENTER FOR PUPPETRY ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1404 SPRING STREET NW",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30309-2820"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7928&mlon=-84.3892#map=15/33.7928/-84.3892",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7928,
+    "longitude": -84.3892
+  },
+  "url": "http://www.puppet.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300400",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

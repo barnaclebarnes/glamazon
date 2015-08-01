@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187252
+  },
+  "name": "Museo del biroccio marchigiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vicolo Beltrami, 2",
+    "addressLocality": "Filottrano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4356&mlon=13.3506#map=15/43.4356/13.3506",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4356,
+    "longitude": 13.3506
+  },
+  "url": "http://www.museodelbiroccio.it/",
+  "telephone": "+39 071 2072828 -  348 5226262",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mer. Gio. Ven. 10.00-17.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TQqHhfKaIKFffCBf-eiSh45roaw=/1000x1000/museums/logos/000/187/252/original/c27be676c1a08d412fd972bc634d85dc2f37579.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104055",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

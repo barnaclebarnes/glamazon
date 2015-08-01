@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183059
+  },
+  "name": "Herkomer-Museum am Mutterturm",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Von-Kühlmann-Straße 2",
+    "addressLocality": "Landsberg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86899"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0504&mlon=10.8709#map=15/48.0504/10.8709",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0504,
+    "longitude": 10.8709
+  },
+  "url": "http://www.landsberg.de/web.nsf/id/pa_herkomer.html",
+  "telephone": "08191/942328",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183059",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

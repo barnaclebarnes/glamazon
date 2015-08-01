@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188628
+  },
+  "name": "MNAF - Museo Nazionale Alinari della Fotografia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Santa Maria Novella, 14a r",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7743&mlon=11.2494#map=15/43.7743/11.2494",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7743,
+    "longitude": 11.2494
+  },
+  "url": "http://www.mnaf.it",
+  "telephone": "+39 055216310",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/--p1llngg8NKXQ5L1UTfPk2NQ9U=/1000x1000/museums/logos/000/188/628/original/d25e96aa6ff47da49feeae142248f7020f0fe.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102939",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

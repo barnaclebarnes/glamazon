@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183610
+  },
+  "name": "Museum für deutsch-amerikanische Nachkriegsgeschichte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Trieb 15",
+    "addressLocality": "Wasserlosen",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97535"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0617&mlon=10.0593#map=15/50.0617/10.0593",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0617,
+    "longitude": 10.0593
+  },
+  "url": "http://www.nachkriegsmuseum.de",
+  "telephone": "09726/ 3903",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183610",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

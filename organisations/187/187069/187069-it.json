@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187069
+  },
+  "name": "Museo d'arte e scienza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Quintino Sella, 4",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4701&mlon=9.18245#map=15/45.4701/9.18245",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4701,
+    "longitude": 9.18245
+  },
+  "url": "http://www.museoartescienza.com",
+  "telephone": "+39 0272022488",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/m6r3LcW_jKPHWGZnh4Hcu33hwaQ=/1000x1000/museums/logos/000/187/069/original/a61e929ea1757bc6eb3db8881f707cadefda25.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103700",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

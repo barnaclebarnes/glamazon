@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136801
+  },
+  "name": "POCATELLO ZOOLOGICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3101 AVENUE OF THE CHIEFS",
+    "addressLocality": "POCATELLO",
+    "addressRegion": "ID",
+    "addressCountry": "United States",
+    "postalCode": "83204-2135"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8337&mlon=-112.401#map=15/42.8337/-112.401",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8337,
+    "longitude": -112.401
+  },
+  "url": "http://www.pocatellozoo.org",
+  "telephone": "+1 (208) 234-6264",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401600151",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

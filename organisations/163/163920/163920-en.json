@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163920
+  },
+  "name": "Greensborough Historical Society",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7265&mlon=145.112#map=15/-37.7265/145.112",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7265,
+    "longitude": 145.112
+  },
+  "url": "http://greensboroughhistorical.blogspot.com.au/",
+  "telephone": "9439 5454",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Each Thursday 10:00am to 3:00pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "greensborough-historical-society",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/greensborough-historical-society",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

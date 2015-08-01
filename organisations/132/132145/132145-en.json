@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132145
+  },
+  "name": "HEALDSBURG MUSEUM AND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 952",
+    "addressLocality": "HEALDSBURG",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95448-0952"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6142&mlon=-122.865#map=15/38.6142/-122.865",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6142,
+    "longitude": -122.865
+  },
+  "url": "http://www.healdsburgmuseum.org",
+  "telephone": "+1 (707) 431-3325",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602271",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

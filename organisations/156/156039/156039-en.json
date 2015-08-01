@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156039
+  },
+  "name": "PITTSBURGH BOTANIC GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "850 POPLAR ST",
+    "addressLocality": "PITTSBURGH",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "15220-2828"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.42&mlon=-80.0496#map=15/40.42/-80.0496",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.42,
+    "longitude": -80.0496
+  },
+  "url": "http://pittsburghbotanicgarden.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201233",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

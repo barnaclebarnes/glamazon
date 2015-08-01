@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158324
+  },
+  "name": "HOUSTON BOTANIC GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 27510",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77098-3900"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7334&mlon=-95.4187#map=15/29.7334/-95.4187",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7334,
+    "longitude": -95.4187
+  },
+  "url": "http://www.houstonbotanicgarden.org/",
+  "telephone": "+1 (713) 715-9675",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800424",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

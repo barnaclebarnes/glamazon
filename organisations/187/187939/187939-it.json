@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187939
+  },
+  "name": "Museo egizio di Torino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Accademia delle Scienze, 6",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0684&mlon=7.68443#map=15/45.0684/7.68443",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0684,
+    "longitude": 7.68443
+  },
+  "url": "http://www.museoegizio.it",
+  "telephone": "+39 0115617776",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da martedì a domenica dalle 8:30 alle 19:30 (ultimo ingresso alle 18:30).",
+  "offers": {
+    "@Type": "Offer",
+    "description": "7,50 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/E4thBMHO9wlf9bZrT3W9zzqAKfE=/1000x1000/museums/logos/000/187/939/original/da57fbd404c4448bda9eda2b1332d57a2ec12.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102757",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

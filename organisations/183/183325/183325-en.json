@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183325
+  },
+  "name": "Schlossmuseum Neuburg – Abteilung Pfalz-Neuburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Residenzstraße A 2",
+    "addressLocality": "Neuburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86633"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7371&mlon=11.1805#map=15/48.7371/11.1805",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7371,
+    "longitude": 11.1805
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/neuburg.htm",
+  "telephone": "08431/6443-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183325",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

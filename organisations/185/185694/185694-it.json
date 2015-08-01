@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185694
+  },
+  "name": "Museo archeologico nazionale di Muro Lucano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Seminario, 6",
+    "addressLocality": "Muro Lucano",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7529&mlon=15.4883#map=15/40.7529/15.4883",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7529,
+    "longitude": 15.4883
+  },
+  "url": "http://www.basilicata.beniculturali.it/",
+  "telephone": "+39 097671778",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì, 9.00-13.00; lunedì e martedì 15.00-17.30; Su prenotazione, si possono effettuare visite il sabato o la domenica.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fc9q8PwRbLAAYFes7ILG2uk97UA=/1000x1000/museums/logos/000/185/694/original/8043ba9bbe36ba85b7ef7f6b8325b366a28ce0df.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100149",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147483
+  },
+  "name": "ALTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 536",
+    "addressLocality": "ALTON",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03809"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4617&mlon=-71.2095#map=15/43.4617/-71.2095",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4617,
+    "longitude": -71.2095
+  },
+  "telephone": "+1 (603) 569-2629",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300258",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

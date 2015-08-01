@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140024
+  },
+  "name": "BOTANICA INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "701 N AMIDON AVE",
+    "addressLocality": "WICHITA",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67203-3162"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6973&mlon=-97.3635#map=15/37.6973/-97.3635",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6973,
+    "longitude": -97.3635
+  },
+  "url": "http://www.botanica.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000350",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

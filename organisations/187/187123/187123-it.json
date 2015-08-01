@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187123
+  },
+  "name": "Museo della Certosa di Pavia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Monumento, 1",
+    "addressLocality": "Certosa di Pavia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.257&mlon=9.14788#map=15/45.257/9.14788",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.257,
+    "longitude": 9.14788
+  },
+  "url": "http://www.museo.certosadipavia.beniculturali.it/",
+  "telephone": "+39 0272263231",
+  "contactPoint": [
+
+  ],
+  "openingHours": "giovedì, venerdì, sabato: 14.30 - 17.00; domenica: 9.30 - 12.00 e 14.15 - 17.00 martedì e mercoledì: visita su prenotazione (a pagamento)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YjO5KiHWSTVlVtKTY1a89PpzcNk=/1000x1000/museums/logos/000/187/123/original/1449f4534ade647ee287a021dfa7ebd7da26ca8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106790",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

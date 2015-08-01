@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190429
+  },
+  "name": "FREDERICKSBURG AND SPOTSYLVANIA NMP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "120 CHATHAM LANE",
+    "addressLocality": "FREDERICKSBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22405"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3093&mlon=-77.4547#map=15/38.3093/-77.4547",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3093,
+    "longitude": -77.4547
+  },
+  "telephone": "+1 (540) 786-0205",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405101075",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

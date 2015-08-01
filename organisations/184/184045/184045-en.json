@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184045
+  },
+  "name": "Haus der Fotografie Dr. Robert-Gerlich-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burg 1",
+    "addressLocality": "Burghausen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84489"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.164&mlon=12.8326#map=15/48.164/12.8326",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.164,
+    "longitude": 12.8326
+  },
+  "url": "http://www.burghausen.de/fotografie",
+  "telephone": "08677/4734",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184045",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

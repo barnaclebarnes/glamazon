@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187576
+  },
+  "name": "Pinacoteca della Fondazione Cassa di Risparmio di Tortona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C/o Palazzetto medievale, Corso Leoniero, 6., ",
+    "addressLocality": "Tortona",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8974&mlon=8.86485#map=15/44.8974/8.86485",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8974,
+    "longitude": 8.86485
+  },
+  "url": "http://www.fondazionecrtortona.it/index.php/info-e-orari",
+  "telephone": "+39 0131 822965",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Magg. – Sett. sab. e dom., 15,30/19,00 Ott. – Apr. sab. e dom., 15,00/18,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qY5woc7EjJy76Wque2jSse1gbjw=/1000x1000/museums/logos/000/187/576/original/862e30527d315b20fb2d26cd2966a4a431ab0f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106234",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

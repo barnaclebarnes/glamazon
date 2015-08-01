@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183331
+  },
+  "name": "Mission EineWelt – Ausstellung \"einBlick\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 2",
+    "addressLocality": "Neuendettelsau",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91564"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.2873&mlon=10.7875#map=15/49.2873/10.7875",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.2873,
+    "longitude": 10.7875
+  },
+  "url": "http://www.mission-einewelt.de/index.php?id=104",
+  "telephone": "09874/91530",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183331",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

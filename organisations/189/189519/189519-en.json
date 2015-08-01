@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189519
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Spiazzi, 4",
+    "addressLocality": "Bosco Chiesanuova",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6221&mlon=11.029#map=15/45.6221/11.029",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6221,
+    "longitude": 11.029
+  },
+  "url": "http://www.lessinia.musei.it",
+  "telephone": "+39 0456780280",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KwsAR2OW7Fng921AyM9XBJR9PXU=/1000x1000/museums/logos/000/189/519/original/3ac4246c7e0ace5ba7d7cbac99c1297fa9593c0.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101112",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

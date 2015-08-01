@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187330
+  },
+  "name": "Museo diocesano di Fermo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Girfalco, 1",
+    "addressLocality": "Fermo",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1605&mlon=13.715#map=15/43.1605/13.715",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1605,
+    "longitude": 13.715
+  },
+  "url": "http://www.museicomuni.it/museo.php?idmus=37",
+  "telephone": "+39 073422935032",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 1 al 31 Ottobre Sab. 10-13 e 15.30-18; Dom. 10-13 e 15.30-19; dal 15 Giugno al 31 Agosto tutti i giorni 10-13 e 16-20; dal 1 al 30 Settembre Ven. 15.30-18; Sab. 10-13 e 15.30-18; Dom. 10-13 e 15.30-19",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tZR6KtrDAMkqj4WWGo-TPOdHE8c=/1000x1000/museums/logos/000/187/330/original/8ba3eabe14e730acf5459439a1e6484ba0f6cc87.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104108",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

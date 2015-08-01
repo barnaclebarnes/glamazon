@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134204
+  },
+  "name": "UNIVERSITY OF DELAWARE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "102 ELLIOT ST",
+    "addressLocality": "NEWARK",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19713-1607"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.674&mlon=-75.7256#map=15/39.674/-75.7256",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.674,
+    "longitude": -75.7256
+  },
+  "url": "http://www.udel.edu/museums",
+  "telephone": "+1 (302) 831-8037",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000136",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

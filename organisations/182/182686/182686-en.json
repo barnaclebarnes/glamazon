@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182686
+  },
+  "name": "Willibaldsburg – Jura-Museum Eichstätt",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Willibaldsburg 1",
+    "addressLocality": "Eichstätt",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85072"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.895&mlon=11.1685#map=15/48.895/11.1685",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.895,
+    "longitude": 11.1685
+  },
+  "url": "http://www.jura-museum.de",
+  "telephone": "08421/2956",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182686",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

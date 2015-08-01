@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142974
+  },
+  "name": "WITCH HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "310 ESSEX STREET",
+    "addressLocality": "SALEM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01970"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5213&mlon=-70.8988#map=15/42.5213/-70.8988",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5213,
+    "longitude": -70.8988
+  },
+  "url": "http://www.salemweb.com/witchhouse",
+  "telephone": "+1 (978) 744-8815",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500604",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

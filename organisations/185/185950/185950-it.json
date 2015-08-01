@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185950
+  },
+  "name": "Museo archeologico nazionale del Sannio Caudino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello",
+    "addressLocality": "Montesarchio",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0784&mlon=14.5729#map=15/41.0784/14.5729",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0784,
+    "longitude": 14.5729
+  },
+  "url": "http://www.archeosa.beniculturali.it",
+  "telephone": "+39 +39 0824 83 45 70",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni dalle 9,00 alle 19,00 (ultimo ingresso ore 18,30)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qMIQouPbHZr0ENiNbkZK0C8TjYc=/1000x1000/museums/logos/000/185/950/original/117372e35a8e15e9e1ab1b11c083c17783888.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20502",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188013
+  },
+  "name": "Museo del Paesaggio - Sezione Archeologica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ruga,  44",
+    "addressLocality": "Verbania",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9231&mlon=8.55126#map=15/45.9231/8.55126",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9231,
+    "longitude": 8.55126
+  },
+  "url": "http://www.museodelpaesaggio.it",
+  "telephone": "+39 0323556621",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10.00-12.00; 15:30-18:30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/D-0cfm755PvPNjkeMK6_G065GvI=/1000x1000/museums/logos/000/188/013/original/fa4191c82d57cdebf5c42c644b7a2bcacaf0f424.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "115003",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

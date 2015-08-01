@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157452
+  },
+  "name": "BELLE MEADE PLANTATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5025 HARDING ROAD",
+    "addressLocality": "NASHVILLE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37205-2810"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.1109&mlon=-86.8645#map=15/36.1109/-86.8645",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.1109,
+    "longitude": -86.8645
+  },
+  "url": "http://bellemeadeplantation.com",
+  "telephone": "+1 (615) 356-0501",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/BelleMeadeMansion"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700123",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183661
+  },
+  "name": "Kunsthalle Schweinfurt im ehemaligen Ernst-Sachs-Bad",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rüfferstraße 4",
+    "addressLocality": "Schweinfurt",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97421"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0438&mlon=10.2264#map=15/50.0438/10.2264",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0438,
+    "longitude": 10.2264
+  },
+  "url": "http://www.kunsthalle-schweinfurt.de",
+  "telephone": "09721/51479",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183661",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183171
+  },
+  "name": "Stiftsmuseum der Stadt Aschaffenburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stiftsgasse 1 a",
+    "addressLocality": "Aschaffenburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63739"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9738&mlon=9.14625#map=15/49.9738/9.14625",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9738,
+    "longitude": 9.14625
+  },
+  "url": "http://www.museen-aschaffenburg.de",
+  "telephone": "06021/4447950",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183171",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

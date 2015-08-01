@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163682
+  },
+  "name": "Ballarat Tramway Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.5504&mlon=143.822#map=15/-37.5504/143.822",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.5504,
+    "longitude": 143.822
+  },
+  "url": "http://www.btm.org.au",
+  "telephone": "5334 1580",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tram operations every weekend, Victorian school and public holidays between 1230 and 5pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "ballarat-tramway-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/ballarat-tramway-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

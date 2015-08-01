@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186133
+  },
+  "name": "San Michele in Bosco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale di San Michele in Bosco",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4819&mlon=11.3413#map=15/44.4819/11.3413",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4819,
+    "longitude": 11.3413
+  },
+  "telephone": "+39 051 6366315 Biblioteca",
+  "contactPoint": [
+
+  ],
+  "openingHours": "vedi note",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5HknWLyRIsWgMe_64h9aqJBEAcU=/1000x1000/museums/logos/000/186/133/original/52ad60d7d718a5c21dd9e4423b8c775718e5b87.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111092",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

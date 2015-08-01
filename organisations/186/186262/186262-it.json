@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186262
+  },
+  "name": "Mostra permanente del presepio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Calle San Francesco, 12",
+    "addressLocality": "Muggia",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6037&mlon=13.7664#map=15/45.6037/13.7664",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6037,
+    "longitude": 13.7664
+  },
+  "telephone": "+39 040271104",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pCTuQ0q8UF91gtcpUuxWBXaGC8k=/1000x1000/museums/logos/000/186/262/original/4c50274d6d65b3fe326f14827fa9e75fd9e011.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100223",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

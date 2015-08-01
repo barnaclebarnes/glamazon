@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132138
+  },
+  "name": "PALO ALTO ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1313 NEWELL ROAD",
+    "addressLocality": "PALO ALTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94303-2909"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4443&mlon=-122.14#map=15/37.4443/-122.14",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4443,
+    "longitude": -122.14
+  },
+  "telephone": "+1 (650) 329-2519",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602264",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

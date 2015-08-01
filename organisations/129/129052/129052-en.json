@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129052
+  },
+  "name": "ALASKA NATIVE HERITAGE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8800 HERITAGE CENTER DRIVE",
+    "addressLocality": "ANCHORAGE",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99504-6100"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=61.231&mlon=-149.737#map=15/61.231/-149.737",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 61.231,
+    "longitude": -149.737
+  },
+  "url": "http://www.alaskanative.net",
+  "telephone": "+1 (907) 330-8000",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/36670628470"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ANHC"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200123",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

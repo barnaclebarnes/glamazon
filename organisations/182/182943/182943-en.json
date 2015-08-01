@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182943
+  },
+  "name": "Museum Hofmühle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "An der Aach 14",
+    "addressLocality": "Immenstadt",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87509"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5618&mlon=10.2213#map=15/47.5618/10.2213",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5618,
+    "longitude": 10.2213
+  },
+  "url": "http://www.museum-hofmuehle.de",
+  "telephone": "08323/9988-545",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182943",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

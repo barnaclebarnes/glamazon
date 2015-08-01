@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183367
+  },
+  "name": "Dokumentationszentrum Reichsparteitagsgelände",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bayernstraße 100",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90478"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4326&mlon=11.1111#map=15/49.4326/11.1111",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4326,
+    "longitude": 11.1111
+  },
+  "url": "http://www.museen.nuernberg.de/dokuzentrum/index.html",
+  "telephone": "0911/231-5666",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183367",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

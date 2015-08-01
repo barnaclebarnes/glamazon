@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147496
+  },
+  "name": "PLAINFIELD HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 107",
+    "addressLocality": "PLAINFIELD",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03781"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5675&mlon=-72.3105#map=15/43.5675/-72.3105",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5675,
+    "longitude": -72.3105
+  },
+  "url": "http://www.phsnh.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300271",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

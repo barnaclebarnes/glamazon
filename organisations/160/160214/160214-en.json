@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160214
+  },
+  "name": "NEW ENGLAND MAPLE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4578 US ROUTE 7",
+    "addressLocality": "PITTSFORD",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05763"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7139&mlon=-73.0373#map=15/43.7139/-73.0373",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7139,
+    "longitude": -73.0373
+  },
+  "url": "http://maplemuseum.com",
+  "telephone": "+1 (802) 483-9414",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000020",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

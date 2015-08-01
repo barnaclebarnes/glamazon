@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152123
+  },
+  "name": "BUFFALO TRAILS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 22",
+    "addressLocality": "EPPING",
+    "addressRegion": "ND",
+    "addressCountry": "United States",
+    "postalCode": "58843-0022"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2792&mlon=-103.36#map=15/48.2792/-103.36",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2792,
+    "longitude": -103.36
+  },
+  "url": "http://buffalotrails.com",
+  "telephone": "+1 (701) 859-4361",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403800079",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

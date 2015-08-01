@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150998
+  },
+  "name": "THE TOWN OF GORHAM HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 90",
+    "addressLocality": "GORHAM",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14461"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.799&mlon=-77.1314#map=15/42.799/-77.1314",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.799,
+    "longitude": -77.1314
+  },
+  "url": "http://www.gorhamnyhistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602292",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

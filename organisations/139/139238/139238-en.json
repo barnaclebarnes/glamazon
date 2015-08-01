@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139238
+  },
+  "name": "BRENTON ARBORETUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "25141 260TH ST",
+    "addressLocality": "DALLAS CENTER",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50063-8336"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6727&mlon=-93.9812#map=15/41.6727/-93.9812",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6727,
+    "longitude": -93.9812
+  },
+  "url": "http://www.thebrentonarboretum.org",
+  "telephone": "+1 (515) 992-4211",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900275",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

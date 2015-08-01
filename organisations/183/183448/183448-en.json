@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183448
+  },
+  "name": "Kunstverein Augsburg e.V.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vorderer Lech 20",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3668&mlon=10.9011#map=15/48.3668/10.9011",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3668,
+    "longitude": 10.9011
+  },
+  "url": "http://www.kunstverein-augsburg.de",
+  "telephone": "0821/2413939",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183448",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164351
+  },
+  "name": "The Bible Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.6127&mlon=143.255#map=15/-36.6127/143.255",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.6127,
+    "longitude": 143.255
+  },
+  "url": "http://www.thebiblemuseum.com.au",
+  "telephone": "03 5495 1169",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10am to 5pm - Tuesday to Saturday.\r\nOpen on some Public Holidays.  Groups by appointment.",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "the-bible-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/the-bible-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

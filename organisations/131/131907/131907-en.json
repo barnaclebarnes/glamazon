@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131907
+  },
+  "name": "COMPUTER HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1401 N SHORELINE BLVD",
+    "addressLocality": "MOUNTAIN VIEW",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94043-1311"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4145&mlon=-122.078#map=15/37.4145/-122.078",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4145,
+    "longitude": -122.078
+  },
+  "url": "http://www.computerhistory.org",
+  "telephone": "+1 (650) 810-1010",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/computerhistory"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ComputerHistory"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602033",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

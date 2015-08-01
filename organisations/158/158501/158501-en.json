@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158501
+  },
+  "name": "MUSEUM OF EAST TEXAS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "503 N 2ND ST",
+    "addressLocality": "LUFKIN",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75901-3013"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.3427&mlon=-94.7262#map=15/31.3427/-94.7262",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.3427,
+    "longitude": -94.7262
+  },
+  "url": "http://www.metlufkin.org/",
+  "telephone": "+1 (936) 639-4434",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800601",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

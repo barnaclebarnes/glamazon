@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187804
+  },
+  "name": "Castello di Masino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via al Castello, 1, ",
+    "addressLocality": "Caravino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3992&mlon=7.96141#map=15/45.3992/7.96141",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3992,
+    "longitude": 7.96141
+  },
+  "url": "http://www.fondoambiente.it",
+  "telephone": "+39 0125778100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102675",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

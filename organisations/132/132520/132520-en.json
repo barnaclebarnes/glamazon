@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132520
+  },
+  "name": "SAN DIEGO PSYCHIATRIC SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5575 RUFFIN RD STE 250",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92123-1387"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8359&mlon=-117.127#map=15/32.8359/-117.127",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8359,
+    "longitude": -117.127
+  },
+  "url": "http://www.sandiegopsychiatricsociety.org",
+  "telephone": "+1 (858) 279-4586",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602646",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

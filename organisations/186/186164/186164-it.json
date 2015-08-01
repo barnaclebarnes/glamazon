@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186164
+  },
+  "name": "Museo Agostino Venanzio Reali",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Chiesa",
+    "addressLocality": "Sogliano al Rubicone",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8815&mlon=12.2016#map=15/43.8815/12.2016",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8815,
+    "longitude": 12.2016
+  },
+  "url": "http://www.terredelrubicone.it",
+  "telephone": "+39 0541 817311 - 329 2097279",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato 15-18, domenica 14,30-18,30; altri giorni su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OGvFu__0Xql-3yTu2Jarf-zmd1U=/1000x1000/museums/logos/000/186/164/original/84d6a13723af2eb5ba4109ae34a3be66c7144a.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111131",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

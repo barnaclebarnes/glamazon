@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190330
+  },
+  "name": "SOFAB INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1504 ORETHA C. HALEY BOULEVARD",
+    "addressLocality": "NEW ORLEANS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70113"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9257&mlon=-77.3409#map=15/38.9257/-77.3409",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9257,
+    "longitude": -77.3409
+  },
+  "url": "http://sofabinstitute.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400223",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

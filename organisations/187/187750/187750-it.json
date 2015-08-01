@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187750
+  },
+  "name": "Ecomuseo della segale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sant'Anna di Valdieri, ",
+    "addressLocality": "Valdieri",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2439&mlon=7.31619#map=15/44.2439/7.31619",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2439,
+    "longitude": 7.31619
+  },
+  "url": "http://www.parcoalpimarittime.it",
+  "telephone": "+39 017197397",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102630",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

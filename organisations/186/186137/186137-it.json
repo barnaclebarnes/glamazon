@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186137
+  },
+  "name": "Museo del Risorgimento di Imola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Emilia, 80, ",
+    "addressLocality": "Imola",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3537&mlon=11.7137#map=15/44.3537/11.7137",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3537,
+    "longitude": 11.7137
+  },
+  "telephone": "+39 0542602609",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NybRo1ESZR4sDyAsNlApW4yUNG0=/1000x1000/museums/logos/000/186/137/original/2735c541270d7a05561cdeb66ac76dfc31a61ac.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105545",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

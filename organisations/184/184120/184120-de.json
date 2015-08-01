@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184120
+  },
+  "name": "Gus Fisher Gallery",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:gusfishergallery@auckland.ac.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.8468&mlon=174.769#map=15/-36.8468/174.769",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.8468,
+    "longitude": 174.769
+  },
+  "url": "http://www.gusfishergallery.auckland.ac.nz/",
+  "telephone": "64 9 373 7599 ext 86646",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dienstag-Freitag 10:00-17:00 Samstag 12-16:00 Feiertage geschlossen",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Kostenlose"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/de/museums/184120",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

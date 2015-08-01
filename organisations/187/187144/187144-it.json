@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187144
+  },
+  "name": "Raccolta museale Franco Leoni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Stradella, 12",
+    "addressLocality": "Portalbera",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0938&mlon=9.31351#map=15/45.0938/9.31351",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0938,
+    "longitude": 9.31351
+  },
+  "url": "http://www.etnografico-trattori-francoleoni.it",
+  "telephone": "+39 0382927167",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato e domenica: 10.00/12.00 - 15.00/18.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1BSQ5CehD7JqwNjHPnBuFZrAR9g=/1000x1000/museums/logos/000/187/144/original/8eddf5d92e2c59b576d0d13eaafbefa1c2a7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103773",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

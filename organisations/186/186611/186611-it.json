@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186611
+  },
+  "name": "Museo civico archeologico di Santa Marinella",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Castello di Santa Severa, ",
+    "addressLocality": "Santa Marinella",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0204&mlon=11.9623#map=15/42.0204/11.9623",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0204,
+    "longitude": 11.9623
+  },
+  "url": "http://www.tesorintornoroma.it",
+  "telephone": "+39 0766570077",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mar-dom ore 9.00-13.00 e 15.00 -17.00 luglio e agosto: mar-dom ore 10.00-13.00; 17.00-20.00 e 21.00-24.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2iB6kjgpFlH6G_cXxMl-urTiDr8=/1000x1000/museums/logos/000/186/611/original/46e199ab7ea49c5ff1989e3d7a8ff2848ea2ffd1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101605",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

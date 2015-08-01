@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185896
+  },
+  "name": "Piccolo museo d’arte sacra di Vibo Valentia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Leoluca , ",
+    "addressLocality": "Vibo Valentia",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6774&mlon=16.1068#map=15/38.6774/16.1068",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6774,
+    "longitude": 16.1068
+  },
+  "telephone": "+39 0963/42040",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5cXjtUdb9m2XK7Z4iTCef9OBjmY=/1000x1000/museums/logos/000/185/896/original/7f9630c2bc341f4e2e8fbc734321bd1e38f3870.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108296",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

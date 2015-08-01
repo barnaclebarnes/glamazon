@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142572
+  },
+  "name": "BISBEE MILL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "66 EAST ST",
+    "addressLocality": "CHESTERFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01012"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3746&mlon=-72.8192#map=15/42.3746/-72.8192",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3746,
+    "longitude": -72.8192
+  },
+  "telephone": "+1 (413) 296-4465",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500202",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130002
+  },
+  "name": "SAN FRANCISCO MUSEUM OF CRAFT+DESIGN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "550 SUTTER ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7891&mlon=-122.41#map=15/37.7891/-122.41",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7891,
+    "longitude": -122.41
+  },
+  "url": "http://www.sfmcd.org",
+  "telephone": "+1 (415) 773-0303",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600128",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

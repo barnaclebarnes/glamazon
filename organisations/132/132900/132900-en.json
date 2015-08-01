@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132900
+  },
+  "name": "FORT MORGAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "414 MAIN ST",
+    "addressLocality": "FORT MORGAN",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80701-0184"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2432&mlon=-103.802#map=15/40.2432/-103.802",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2432,
+    "longitude": -103.802
+  },
+  "url": "http://www.cityoffortmorgan.com",
+  "telephone": "+1 (970) 542-4010",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800076",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189194
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Porta Leonina, ",
+    "addressLocality": "Cascia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7187&mlon=13.0156#map=15/42.7187/13.0156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7187,
+    "longitude": 13.0156
+  },
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LKXOJH2w5Cc-fHW0kLHeDYFh-qE=/1000x1000/museums/logos/000/189/194/original/2991a663dd14fa3681a23f29b13f476cc1784c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104435",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

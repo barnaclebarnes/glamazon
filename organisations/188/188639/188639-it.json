@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188639
+  },
+  "name": "Museo del ciclismo Gino Bartali",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Chiantigiana, 177",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7263&mlon=11.2931#map=15/43.7263/11.2931",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7263,
+    "longitude": 11.2931
+  },
+  "url": "http://www.ciclomuseo-bartali.it",
+  "telephone": "+39 055641272",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YxiSx2pJCDTSioEXRnan2QiBmtw=/1000x1000/museums/logos/000/188/639/original/3f30f9d43e949f707974a79573912af7bf4db459.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102956",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

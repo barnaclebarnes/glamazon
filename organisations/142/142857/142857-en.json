@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142857
+  },
+  "name": "HANDS ON ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "19 SANDERSON RD",
+    "addressLocality": "LITTLETON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01460-1430"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5347&mlon=-71.5154#map=15/42.5347/-71.5154",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5347,
+    "longitude": -71.5154
+  },
+  "telephone": "+1 (978) 952-2555",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500487",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

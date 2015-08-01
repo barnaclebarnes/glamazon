@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135478
+  },
+  "name": "ANIMAL PARK INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5701 GULF BREEZE PKWY",
+    "addressLocality": "GULF BREEZE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32563-9551"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4019&mlon=-86.9848#map=15/30.4019/-86.9848",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4019,
+    "longitude": -86.9848
+  },
+  "url": "http://www.gulfbreezezoo.org",
+  "telephone": "+1 (850) 932-2229",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201033",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

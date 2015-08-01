@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187701
+  },
+  "name": "Museo della montagna e della sua gente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Frazione Miroglio, ",
+    "addressLocality": "Frabosa Sottana",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2771&mlon=7.76783#map=15/44.2771/7.76783",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2771,
+    "longitude": 7.76783
+  },
+  "url": "http://www.frabosasottana.com",
+  "telephone": "+39 0174 24448",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da aprile a novembre tutti i giorni 9.00-12.00 / 15.00-18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eQZW3yFSgQpY5xcDdjOtvYJBZVc=/1000x1000/museums/logos/000/187/701/original/d063d4d3e7fbe347d1d7cda96672643b42ff79.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106672",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

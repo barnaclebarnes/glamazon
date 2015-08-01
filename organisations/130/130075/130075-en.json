@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130075
+  },
+  "name": "REEDLEY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1752 10TH ST",
+    "addressLocality": "REEDLEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93654"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.597&mlon=-119.452#map=15/36.597/-119.452",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.597,
+    "longitude": -119.452
+  },
+  "telephone": "+1 (559) 638-1913",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600201",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

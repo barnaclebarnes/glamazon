@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135741
+  },
+  "name": "UNCLE REMUS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "214 S OAK ST",
+    "addressLocality": "EATONTON",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "31024"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.3226&mlon=-83.387#map=15/33.3226/-83.387",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.3226,
+    "longitude": -83.387
+  },
+  "url": "http://www.uncleremus.com",
+  "telephone": "+1 (706) 485-6856",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300012",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

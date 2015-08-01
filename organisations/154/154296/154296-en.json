@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154296
+  },
+  "name": "HAT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1928 SE LADD AVE",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97214"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5092&mlon=-122.65#map=15/45.5092/-122.65",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5092,
+    "longitude": -122.65
+  },
+  "url": "http://www.thehatmuseum.com",
+  "telephone": "+1 (503) 232-0433",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100089",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

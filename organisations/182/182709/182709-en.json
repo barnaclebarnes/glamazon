@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182709
+  },
+  "name": "Kunstpalais Erlangen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 1",
+    "addressLocality": "Erlangen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91054"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5972&mlon=11.0037#map=15/49.5972/11.0037",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5972,
+    "longitude": 11.0037
+  },
+  "url": "http://www.kunstpalais.de/",
+  "telephone": "09131/86-2735",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/kunstpalais"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/kunstpalais"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182709",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

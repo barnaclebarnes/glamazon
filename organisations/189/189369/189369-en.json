@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189369
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Campofregoso- Area Ex Siri, ",
+    "addressLocality": "Terni",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5622&mlon=12.6533#map=15/42.5622/12.6533",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5622,
+    "longitude": 12.6533
+  },
+  "url": "http://www.comune.tr.it",
+  "telephone": "+39 07444221801",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mUpqS_TZv0OzAVu0Rwd9ccjBeBY=/1000x1000/museums/logos/000/189/369/original/6c42f3b2fdcaa58d71b7a7d3fdeb81a7252a5b1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100802",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

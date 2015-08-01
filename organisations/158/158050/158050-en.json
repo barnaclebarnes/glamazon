@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158050
+  },
+  "name": "NATIONAL MUSEUM OF THE PACIFIC WAR",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "340 E MAIN ST",
+    "addressLocality": "FREDERICKSBURG",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78624"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.2722&mlon=-98.8683#map=15/30.2722/-98.8683",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.2722,
+    "longitude": -98.8683
+  },
+  "telephone": "+1 (512) 997-4379",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/nationalmuseumofthepacificwar"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/NimitzMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800150",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

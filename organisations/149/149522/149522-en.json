@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149522
+  },
+  "name": "NEW YORK CITY FIRE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "278 SPRING STREET",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10013"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7258&mlon=-74.0069#map=15/40.7258/-74.0069",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7258,
+    "longitude": -74.0069
+  },
+  "telephone": "+1 (212) 691-1303",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/182401020492"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/FDNYMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600816",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

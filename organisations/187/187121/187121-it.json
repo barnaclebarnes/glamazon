@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187121
+  },
+  "name": "MUST-Museo del territorio Vimercatese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Emanuele II, 53",
+    "addressLocality": "Vimercate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5667&mlon=9.37531#map=15/45.5667/9.37531",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5667,
+    "longitude": 9.37531
+  },
+  "url": "http://www.museomust.it",
+  "telephone": "+39 039 6659488",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pYx8lzIB409dmiW52TqHMPwwKtQ=/1000x1000/museums/logos/000/187/121/original/d7f1cd18f228f1910825d2d7c95d949199b9ea.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106818",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

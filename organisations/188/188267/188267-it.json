@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188267
+  },
+  "name": "Museo civico di Carlo Forte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cisterna Del Re, 20/24",
+    "addressLocality": "Carloforte",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1468&mlon=8.30607#map=15/39.1468/8.30607",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1468,
+    "longitude": 8.30607
+  },
+  "url": "http://www.carloforte.net/museo",
+  "telephone": "+39 0781 855880",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HYh1bb2VrNrutWWG20rgkgWa3as=/1000x1000/museums/logos/000/188/267/original/a4885d8c775bf89b606a396c9722428efd278.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103342",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

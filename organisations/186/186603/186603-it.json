@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186603
+  },
+  "name": "Palazzo Altemps - Museo nazionale romano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via  Sant’ Apollinare, 46",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9011&mlon=12.4731#map=15/41.9011/12.4731",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9011,
+    "longitude": 12.4731
+  },
+  "url": "http://archeoroma.beniculturali.it",
+  "telephone": "+39 06684851",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Aperto tutti i giorni dalle 9 alle 19.45",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 7.00 (biglietto cumulativo valido tre gg.: Terme di Diocleziano, Palazzo Massimo, Palazzo Altemps)"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DUpxsYI1VTKW5wQMm9Q4BFNmM4U=/1000x1000/museums/logos/000/186/603/original/c1a012c196f1ae29d25d38e4c5ba147455dc56.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20232",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

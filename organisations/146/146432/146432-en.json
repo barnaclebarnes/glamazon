@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146432
+  },
+  "name": "MONTANA MUSEUM OF RAILROAD HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "400 3RD ST NW",
+    "addressLocality": "GREAT FALLS",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59404"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.512&mlon=-111.316#map=15/47.512/-111.316",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.512,
+    "longitude": -111.316
+  },
+  "url": "http://mmrh.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000075",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

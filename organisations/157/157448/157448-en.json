@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157448
+  },
+  "name": "AMERICAN MUSEUM OF SCIENCE AND ENERGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 S TULANE AVENUE",
+    "addressLocality": "OAK RIDGE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37830"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.0078&mlon=-84.2574#map=15/36.0078/-84.2574",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.0078,
+    "longitude": -84.2574
+  },
+  "telephone": "+1 (865) 576-8453",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/amse.org"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/A_M_S_E"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700119",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

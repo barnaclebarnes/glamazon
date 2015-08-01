@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182620
+  },
+  "name": "Schloss Ehrenburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßplatz 1",
+    "addressLocality": "Coburg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96450"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.258&mlon=10.9673#map=15/50.258/10.9673",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.258,
+    "longitude": 10.9673
+  },
+  "url": "http://www.sgvcoburg.de",
+  "telephone": "09561/8088-32",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182620",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

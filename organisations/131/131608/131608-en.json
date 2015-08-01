@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131608
+  },
+  "name": "ROCKLIN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1",
+    "addressLocality": "ROCKLIN",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95677-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7904&mlon=-121.235#map=15/38.7904/-121.235",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7904,
+    "longitude": -121.235
+  },
+  "url": "http://www.rocklinhistory.org/",
+  "telephone": "+1 (916) 624-3464",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601734",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

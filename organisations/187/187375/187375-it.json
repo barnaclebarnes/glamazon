@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187375
+  },
+  "name": "Museo civico di storia naturale di Macerata",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Santa Maria della Porta, 65",
+    "addressLocality": "Macerata",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3001&mlon=13.4553#map=15/43.3001/13.4553",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3001,
+    "longitude": 13.4553
+  },
+  "telephone": "+39 0733256385",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da lunedì a sabato: 9.00 - 12.00 Pomeriggio: solo su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104188",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161852
+  },
+  "name": "GOLDENDALE OBSERVATORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1602 OBSERVATORY DR",
+    "addressLocality": "GOLDENDALE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98620-3315"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8376&mlon=-120.816#map=15/45.8376/-120.816",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8376,
+    "longitude": -120.816
+  },
+  "url": "http://www.parks.wa.gov/parks",
+  "telephone": "+1 (509) 773-3141",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300301",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

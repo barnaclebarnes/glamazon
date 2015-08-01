@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133836
+  },
+  "name": "HARRIET BEECHER STOWE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "77 FOREST ST.",
+    "addressLocality": "HARTFORD",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06105-3296"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7656&mlon=-72.7002#map=15/41.7656/-72.7002",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7656,
+    "longitude": -72.7002
+  },
+  "url": "http://www.harrietbeecherstowe.org",
+  "telephone": "+1 (203) 522-9258",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/31337944597"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/HBStoweCenter"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900311",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

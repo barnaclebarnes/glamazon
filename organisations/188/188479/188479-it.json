@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188479
+  },
+  "name": "Casa museo liberty",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Montesano, 1",
+    "addressLocality": "Chiaramonte Gulfi",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0312&mlon=14.7039#map=15/37.0312/14.7039",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0312,
+    "longitude": 14.7039
+  },
+  "url": "http://www.comune.chiaramonte.it",
+  "telephone": "+39 0932711239",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lun. ven. 08.30/13.30 sab. 9.30/13.00-15.30/19.00 dom. 9.30-13.00/15.00-18.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dTf3PvV9-xV50NgECYXMT7gV8Kk=/1000x1000/museums/logos/000/188/479/original/1e67279cb8f99d837a4ef6e5060ef31f166ddb2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105494",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

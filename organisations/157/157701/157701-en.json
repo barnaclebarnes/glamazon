@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157701
+  },
+  "name": "HISTORIC NASHVILLE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 190516",
+    "addressLocality": "NASHVILLE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37219-3721"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.1645&mlon=-86.7811#map=15/36.1645/-86.7811",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.1645,
+    "longitude": -86.7811
+  },
+  "url": "http://www.historicnashvilleinc.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700372",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

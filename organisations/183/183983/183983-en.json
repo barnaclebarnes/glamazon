@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183983
+  },
+  "name": "Deutsches Schreibmaschinenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bernecker Straße 11",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95448"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9553&mlon=11.593#map=15/49.9553/11.593",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9553,
+    "longitude": 11.593
+  },
+  "url": "http://www.forschungsstaette.de/museum.htm",
+  "telephone": "0921/23445",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183983",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

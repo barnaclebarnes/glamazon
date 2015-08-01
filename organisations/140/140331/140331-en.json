@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140331
+  },
+  "name": "BARLOW HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "509 BROADWAY ST",
+    "addressLocality": "BARLOW",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "42024"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0517&mlon=-89.0454#map=15/37.0517/-89.0454",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0517,
+    "longitude": -89.0454
+  },
+  "telephone": "+1 (270) 334-3010",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100088",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

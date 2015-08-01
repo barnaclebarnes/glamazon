@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184118
+  },
+  "name": "Ashburton Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:museum@ashburton.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-43.9035&mlon=171.751#map=15/-43.9035/171.751",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -43.9035,
+    "longitude": 171.751
+  },
+  "url": "http://www.ashburtonmuseum.co.nz",
+  "telephone": "64-3-308 3167",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Weekdays 10am to 4pm.\r\nSaturday & Sunday 1pm-4pm.\r\nClosed statutory holidays.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Free, donations appreciated. Charges apply for research and copying."
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184118",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139108
+  },
+  "name": "AKRON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 252",
+    "addressLocality": "AKRON",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "51001-0252"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8085&mlon=-96.5275#map=15/42.8085/-96.5275",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8085,
+    "longitude": -96.5275
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900145",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

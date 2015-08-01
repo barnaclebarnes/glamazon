@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132649
+  },
+  "name": "LOS ANGELES CENTRAL LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "630 W 5TH ST",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90071-2002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0505&mlon=-118.254#map=15/34.0505/-118.254",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0505,
+    "longitude": -118.254
+  },
+  "url": "http://www.lapl.org",
+  "telephone": "+1 (213) 228-7000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602775",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

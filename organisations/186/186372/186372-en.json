@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186372
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Antonio Carnevale, loc. Madonna del PianoANO, 24",
+    "addressLocality": "Castro dei Volsci",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5077&mlon=13.4055#map=15/41.5077/13.4055",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5077,
+    "longitude": 13.4055
+  },
+  "url": "http://www.comunecastrodeivolsci.it/museo.htm",
+  "telephone": "+39 0775686829",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EXVTtVi6a7tZ6pkpeQMhfOeoahE=/1000x1000/museums/logos/000/186/372/original/577f4d7b3590eef6cc56f244afe672e41915507a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101410",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

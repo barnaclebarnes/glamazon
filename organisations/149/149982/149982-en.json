@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149982
+  },
+  "name": "CAYUGA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "203 GENESEE ST",
+    "addressLocality": "AUBURN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13021-3304"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9344&mlon=-76.5424#map=15/42.9344/-76.5424",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9344,
+    "longitude": -76.5424
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601276",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145824
+  },
+  "name": "HEROES WAY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 22",
+    "addressLocality": "GORDONVILLE",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63752-0022"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3133&mlon=-89.6668#map=15/37.3133/-89.6668",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3133,
+    "longitude": -89.6668
+  },
+  "url": "http://www.heroesway.org/",
+  "telephone": "+1 (573) 837-5088",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900253",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

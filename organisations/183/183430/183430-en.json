@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183430
+  },
+  "name": "Schwäbisches Volkskundemuseum Oberschönenfeld",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oberschönenfeld 4",
+    "addressLocality": "Gessertshausen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86459"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3125&mlon=10.7273#map=15/48.3125/10.7273",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3125,
+    "longitude": 10.7273
+  },
+  "url": "http://www.schwaebisches-volkskundemuseum.de",
+  "telephone": "08238/3001-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183430",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

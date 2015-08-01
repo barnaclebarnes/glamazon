@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131466
+  },
+  "name": "FRIENDS OF THE VILLA RIVIERA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 E OCEAN BLVD 100",
+    "addressLocality": "LONG BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90802-5463"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7662&mlon=-118.183#map=15/33.7662/-118.183",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7662,
+    "longitude": -118.183
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Villa_Riviera",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601592",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

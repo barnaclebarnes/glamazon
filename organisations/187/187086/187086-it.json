@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187086
+  },
+  "name": "Museo regionale della psichiatria - Museo d'arte Paolo Pini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ippocrate, 45",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5227&mlon=9.16376#map=15/45.5227/9.16376",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5227,
+    "longitude": 9.16376
+  },
+  "url": "http://www.mapp-arca.it/",
+  "telephone": "+39 02 64445326",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì - venerdì 9.30 - 16.00 Il parco è aperto tutti i giorni dalle 8.00 alle 19.00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103716",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

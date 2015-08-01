@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159746
+  },
+  "name": "PRESIDENTIAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4919 E UNIV BLVD",
+    "addressLocality": "ODESSA",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "79762"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.8816&mlon=-102.321#map=15/31.8816/-102.321",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.8816,
+    "longitude": -102.321
+  },
+  "url": "http://presidentialmuseums.com",
+  "telephone": "+1 (432) 363-7737",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801846",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

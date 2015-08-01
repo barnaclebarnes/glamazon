@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186433
+  },
+  "name": "Museo storico-archeologico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, ",
+    "addressLocality": "Ventotene",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7966&mlon=13.433#map=15/40.7966/13.433",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7966,
+    "longitude": 13.433
+  },
+  "telephone": "+39 077185193",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/l8EILHH2E2ymmD7Owdhy5UAUVKQ=/1000x1000/museums/logos/000/186/433/original/fab84d3ddfefefa9b92ef48625a64bb883d2ea1f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101455",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

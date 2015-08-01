@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186557
+  },
+  "name": "Museo della Via Ostiense - Porta San Paolo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Raffaele Persichetti, 3 (Porta S. Paolo), ",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8819&mlon=12.4753#map=15/41.8819/12.4753",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8819,
+    "longitude": 12.4753
+  },
+  "url": "http://archeoroma.beniculturali.it",
+  "telephone": "+39 065743193",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì martedì 9.00 - 16,30 mercoledì 9.00 - 13,30 giovedì 9.00 - 16,30 venerdì 9.00 - 13,30 sabato 9.00 - 13,30 domenica 9.00 - 13,30 (prima e terza domenica del mese)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/d43f4LWEOEfSXKLXMI2YfMCalt0=/1000x1000/museums/logos/000/186/557/original/53a090caeddba5d98666d41403754172e85e48f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106528",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

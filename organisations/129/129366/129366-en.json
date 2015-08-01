@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129366
+  },
+  "name": "HEARD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2301 N CENTRAL AVE",
+    "addressLocality": "PHOENIX",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85004-1323"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4732&mlon=-112.074#map=15/33.4732/-112.074",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4732,
+    "longitude": -112.074
+  },
+  "url": "http://www.heard.org",
+  "telephone": "+1 (602) 252-8840",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/HeardMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/HeardMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400268",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

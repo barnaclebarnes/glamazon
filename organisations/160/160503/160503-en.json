@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160503
+  },
+  "name": "VIRGINIA MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "205 MCCORMICK RD.",
+    "addressLocality": "CHARLOTTESVILLE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0368&mlon=-78.5046#map=15/38.0368/-78.5046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0368,
+    "longitude": -78.5046
+  },
+  "telephone": "+1 (276) 634-4141",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100009",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

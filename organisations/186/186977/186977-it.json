@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186977
+  },
+  "name": "Museo civico di Pizzighettone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, 18",
+    "addressLocality": "Pizzighettone",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1862&mlon=9.78139#map=15/45.1862/9.78139",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1862,
+    "longitude": 9.78139
+  },
+  "url": "http://www.comune.pizzighettone.cr.it",
+  "telephone": "+39 0372743347",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4CsLjgSnSuOAMcA4-MbPoe9xsl0=/1000x1000/museums/logos/000/186/977/original/263426f7ae587f6e364a4547245a63aca478b49.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103641",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

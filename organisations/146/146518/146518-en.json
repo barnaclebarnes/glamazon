@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146518
+  },
+  "name": "HOCKADAY MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "302 2ND AVE E",
+    "addressLocality": "KALISPELL",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59901-4942"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1961&mlon=-114.31#map=15/48.1961/-114.31",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1961,
+    "longitude": -114.31
+  },
+  "telephone": "+1 (406) 755-5268",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/HockadayMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000161",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

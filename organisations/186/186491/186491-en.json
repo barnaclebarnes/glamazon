@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186491
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Jacopa de’ Sottesoli snc, ",
+    "addressLocality": "Marino",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7701&mlon=12.6585#map=15/41.7701/12.6585",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7701,
+    "longitude": 12.6585
+  },
+  "telephone": "+39 069385681",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4_A5P4tqzWRXIn7YIheZ6Rd41Ik=/1000x1000/museums/logos/000/186/491/original/b5c378fc92d2b244ed65a8253110595a381e4319.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101498",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

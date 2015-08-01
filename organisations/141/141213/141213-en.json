@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141213
+  },
+  "name": "FRYEBURG HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "96 MAIN ST",
+    "addressLocality": "FRYEBURG",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04037"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1213&mlon=-70.978#map=15/44.1213/-70.978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1213,
+    "longitude": -70.978
+  },
+  "url": "http://www.fryeburghistorical.org",
+  "telephone": "+1 (207) 697-2044",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300062",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

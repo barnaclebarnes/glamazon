@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188323
+  },
+  "name": "Collezione Forteleoni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Carlo Alberto, 1",
+    "addressLocality": "Luras",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9366&mlon=9.17534#map=15/40.9366/9.17534",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9366,
+    "longitude": 9.17534
+  },
+  "url": "http://www.forteleoni.it",
+  "telephone": "+39 079 647547",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Zklo19dMmHk2grs7plOIYv6KDNs=/1000x1000/museums/logos/000/188/323/original/fc5b3663d6b0398942d8ea65cbac25f0a584f2e0.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103435",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

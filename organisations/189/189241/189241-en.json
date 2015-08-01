@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189241
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Convento di Sant'Ubaldo - V. M.Te Ingino, 5",
+    "addressLocality": "Gubbio",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3555&mlon=12.5734#map=15/43.3555/12.5734",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3555,
+    "longitude": 12.5734
+  },
+  "url": "http://www.basilicasantubaldo.it",
+  "telephone": "+39 075 9273872",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/PCOvYdqyCYY-KCd2U80jU6zdL7M=/1000x1000/museums/logos/000/189/241/original/24ff53909ef53f7087d2558d70aac828a0413748.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108133",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

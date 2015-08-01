@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142888
+  },
+  "name": "MUSEUM OF OUR INDUSTRIAL HERITAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 MEAD ST",
+    "addressLocality": "GREENFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01301-3862"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5838&mlon=-72.604#map=15/42.5838/-72.604",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5838,
+    "longitude": -72.604
+  },
+  "url": "http://industrialhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500518",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

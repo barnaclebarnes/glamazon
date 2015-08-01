@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186711
+  },
+  "name": "Raccolte Frugone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Capolungo, 9",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3814&mlon=9.04772#map=15/44.3814/9.04772",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3814,
+    "longitude": 9.04772
+  },
+  "url": "http://www.museidigenova.it",
+  "telephone": "+39 010/322396; 010/5574739",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100379",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184101
+  },
+  "name": "New Zealand Marine Studies Centre",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:marine-studies@otago.ac.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-45.8281&mlon=170.641#map=15/-45.8281/170.641",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -45.8281,
+    "longitude": 170.641
+  },
+  "url": "http://www.marine.ac.nz",
+  "telephone": "64-3-479 5826",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Open 7 days 10 am - 4.30pm\r\nGuided Tour 10.30am\r\nClosed Christmas Day",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Aquarium Entry\r\nAdults $12.50\r\nChild $6\r\nFamily $25 (2 adults and up to 3 school aged children)\r\n\r\nGuided Tour\r\nAdults $21.5\r\nChildren $11\r\nFamily $49"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184101",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

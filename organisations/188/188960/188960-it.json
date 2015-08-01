@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188960
+  },
+  "name": "Museo dell'opera del Duomo di Prato",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "del Duomo, 49",
+    "addressLocality": "Prato",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8819&mlon=11.0978#map=15/43.8819/11.0978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8819,
+    "longitude": 11.0978
+  },
+  "url": "http://www.diocesiprato.it/arteecultura/musei",
+  "telephone": "+39 0574433494",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hw8-JaZW5UmjnZsHZ47YRVKmcJc=/1000x1000/museums/logos/000/188/960/original/b3ad4f8e701486de2a9af21a4971891424be7d9c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103188",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

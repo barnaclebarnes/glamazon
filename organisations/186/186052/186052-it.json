@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186052
+  },
+  "name": "Museo archeologico di Atena Lucana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Maria",
+    "addressLocality": "Atena Lucana",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4555&mlon=15.5498#map=15/40.4555/15.5498",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4555,
+    "longitude": 15.5498
+  },
+  "url": "http://www.comunediatena.it/",
+  "telephone": "+39 09779050",
+  "contactPoint": [
+
+  ],
+  "openingHours": "visitabile su richiesta dal martedì alla domenica ore 9.00-14.00; Telefono: 0975.76001",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7dnJeDawdzhBPagANM1Afi4hz9A=/1000x1000/museums/logos/000/186/052/original/d3eefda676ff759025e9781841db783271d48d3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103903",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

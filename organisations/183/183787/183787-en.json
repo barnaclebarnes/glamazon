@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183787
+  },
+  "name": "Heimatmuseum Unterhaching",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 51",
+    "addressLocality": "Unterhaching",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82008"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0611&mlon=11.6185#map=15/48.0611/11.6185",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0611,
+    "longitude": 11.6185
+  },
+  "url": "http://www.Heimatmuseum-Unterhaching.de",
+  "telephone": "089/6251420",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183787",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

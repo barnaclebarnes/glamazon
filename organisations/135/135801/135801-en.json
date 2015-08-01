@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135801
+  },
+  "name": "GEORGIA MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "90 CARLTON ST",
+    "addressLocality": "ATHENS",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30602"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9444&mlon=-83.3787#map=15/33.9444/-83.3787",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9444,
+    "longitude": -83.3787
+  },
+  "url": "http://www.georgiamuseum.org",
+  "telephone": "+1 (706) 542-4662",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300072",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

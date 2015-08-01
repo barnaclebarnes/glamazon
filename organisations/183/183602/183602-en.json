@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183602
+  },
+  "name": "Heimat- und Handwerksmuseum Binder-Pehr-Haus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfarrstraße 5",
+    "addressLocality": "Rottenburg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84056"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.702&mlon=12.028#map=15/48.702/12.028",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.702,
+    "longitude": 12.028
+  },
+  "url": "http://www.heimatmuseum-rottenburg.de",
+  "telephone": "08781/3935",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183602",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

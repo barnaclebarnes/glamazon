@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186982
+  },
+  "name": "Museo Francesco Genala",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Filodrammatici, 18",
+    "addressLocality": "Soresina",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.288&mlon=9.85153#map=15/45.288/9.85153",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.288,
+    "longitude": 9.85153
+  },
+  "url": "http:// www.comune.soresina.cr.it/",
+  "telephone": "+39 0374349420",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NHbtZCf1XS5MeHKF3SumWtVLtrM=/1000x1000/museums/logos/000/186/982/original/2b928226772948c89a2047485519020c9bdf27.png"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103646",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

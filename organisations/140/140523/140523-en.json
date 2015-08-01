@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140523
+  },
+  "name": "UNIVERSITY ART GALLERIES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "604 FINE ARTS BUILDING",
+    "addressLocality": "MURRAY",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "42071"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.6159&mlon=-88.2993#map=15/36.6159/-88.2993",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.6159,
+    "longitude": -88.2993
+  },
+  "url": "http://www.murraystate.edu/artgallery",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100280",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

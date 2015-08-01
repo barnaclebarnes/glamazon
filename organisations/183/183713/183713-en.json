@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183713
+  },
+  "name": "Jagd- und Fischereimuseum Schloss Tambach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßallee 1 a",
+    "addressLocality": "Weitramsdorf",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96479"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2325&mlon=10.865#map=15/50.2325/10.865",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2325,
+    "longitude": 10.865
+  },
+  "url": "http://www.museum-tambach.de",
+  "telephone": "09567/18-61",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183713",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

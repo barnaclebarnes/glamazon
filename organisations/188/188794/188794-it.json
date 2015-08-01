@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188794
+  },
+  "name": "Open-air museum Italo Bolano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "San Martino, ",
+    "addressLocality": "Portoferraio",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.788&mlon=10.2786#map=15/42.788/10.2786",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.788,
+    "longitude": 10.2786
+  },
+  "telephone": "+39 0565914570",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MbSGr1gmyMcEZk0sruf6MXQ_kKA=/1000x1000/museums/logos/000/188/794/original/e2b8d33f66ace1ee7fc6ab46426e1268c3a21fb3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103065",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

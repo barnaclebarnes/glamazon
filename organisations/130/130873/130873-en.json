@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130873
+  },
+  "name": "MUSEUM OF TEACHING AND LEARNING MOTAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3820",
+    "addressLocality": "FULLERTON",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92834-3820"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8741&mlon=-117.904#map=15/33.8741/-117.904",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8741,
+    "longitude": -117.904
+  },
+  "url": "http://www.motal.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600999",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

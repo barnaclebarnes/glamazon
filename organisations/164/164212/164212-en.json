@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164212
+  },
+  "name": "Port of Echuca",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.1205&mlon=144.747#map=15/-36.1205/144.747",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.1205,
+    "longitude": 144.747
+  },
+  "url": "http://www.portofechuca.org.au",
+  "telephone": "03 54812852",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9am - 5pm ",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "port-of-echuca",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/port-of-echuca",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

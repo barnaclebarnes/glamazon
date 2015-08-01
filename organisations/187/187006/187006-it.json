@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187006
+  },
+  "name": "Museo di scienze naturali del Collegio S. Francesco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Francesco, 21-23, ?",
+    "addressLocality": "Lodi",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3149&mlon=9.50777#map=15/45.3149/9.50777",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3149,
+    "longitude": 9.50777
+  },
+  "url": "http://www.sanfrancesco.lodi.it/",
+  "telephone": "+39 0371420019",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì, 8,30/12,30. Su appuntamento telefonico in altri orari",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2d3o6uCjZ69mIeqbOY6mN4-ETjI=/1000x1000/museums/logos/000/187/006/original/f54f44e47a9415f8f897b6975e46744fbe82f52d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103668",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

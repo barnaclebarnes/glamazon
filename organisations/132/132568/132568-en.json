@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132568
+  },
+  "name": "MUSEUM OF CONTEMPORARY ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "250 S GRAND AVE",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90012-3007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0541&mlon=-118.25#map=15/34.0541/-118.25",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0541,
+    "longitude": -118.25
+  },
+  "url": "http://www.moca.org",
+  "telephone": "+1 (213) 621-2766",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602694",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

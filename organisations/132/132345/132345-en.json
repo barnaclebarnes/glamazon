@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132345
+  },
+  "name": "THE CONSTANCE CORCORAN MILLER FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3000 SAND HILL RD STE 250",
+    "addressLocality": "MENLO PARK",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94025-7113"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4183&mlon=-122.225#map=15/37.4183/-122.225",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4183,
+    "longitude": -122.225
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602471",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

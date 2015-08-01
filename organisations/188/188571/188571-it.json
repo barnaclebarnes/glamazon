@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188571
+  },
+  "name": "Museo dello sci di Stia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "dei Berignoli, 5",
+    "addressLocality": "Stia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8017&mlon=11.7073#map=15/43.8017/11.7073",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8017,
+    "longitude": 11.7073
+  },
+  "telephone": "+39 0575581323",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110092",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

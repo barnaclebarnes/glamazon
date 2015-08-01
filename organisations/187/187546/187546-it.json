@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187546
+  },
+  "name": "Casa di Fausto Coppi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fausto Coppi, 2, ",
+    "addressLocality": "Castellania",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7979&mlon=8.93074#map=15/44.7979/8.93074",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7979,
+    "longitude": 8.93074
+  },
+  "url": "http://www.faustocoppi.it",
+  "telephone": "+39 0143322118",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/psyMludPeZ8mlVUShYLz3_nBy2o=/1000x1000/museums/logos/000/187/546/original/15ef9d85b227eee41556b67298e85fc13ee778.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102454",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

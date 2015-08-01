@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137624
+  },
+  "name": "JOHN F. KENNEDY HEALTH WORLD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2400 E MAIN STREET SUITE #103-305",
+    "addressLocality": "BARRINGTON",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60174"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9207&mlon=-88.2859#map=15/41.9207/-88.2859",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9207,
+    "longitude": -88.2859
+  },
+  "url": "http://www.healthworldoutreach.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700769",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

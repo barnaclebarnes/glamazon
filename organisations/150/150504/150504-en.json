@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150504
+  },
+  "name": "MACEDON HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 303",
+    "addressLocality": "MACEDON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14502"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0941&mlon=-77.3513#map=15/43.0941/-77.3513",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0941,
+    "longitude": -77.3513
+  },
+  "url": "http://www.macedonhistoricalsociety.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601798",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

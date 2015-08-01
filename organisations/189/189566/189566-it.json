@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189566
+  },
+  "name": "Museo di Santa Giuseppina Bakhita",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via A. Fusinato, 51",
+    "addressLocality": "Schio",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7142&mlon=11.3625#map=15/45.7142/11.3625",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7142,
+    "longitude": 11.3625
+  },
+  "url": "http://patrimonioculturale.provincia.vicenza.it",
+  "telephone": "+39 0445 521044",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da lunedì alla domenica: Orario invernale: ore 07.00-12.00 / 15.00-19.00. Orario estivo: ore 07.00-12.00 / 15.30-19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "ingresso gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3VRTw7uzAWZj0jNOKOawlMOuGcw=/1000x1000/museums/logos/000/189/566/original/234da4cda123446cea1ef1488bb8f579cde35c9b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112125",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

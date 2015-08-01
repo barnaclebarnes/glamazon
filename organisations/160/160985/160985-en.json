@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160985
+  },
+  "name": "DMV MASS TRANSIT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4114",
+    "addressLocality": "MANASSAS",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "20108-0713"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7517&mlon=-77.4728#map=15/38.7517/-77.4728",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7517,
+    "longitude": -77.4728
+  },
+  "url": "http://www.dmvmtm.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100491",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

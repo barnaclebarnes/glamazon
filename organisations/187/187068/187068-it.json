@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187068
+  },
+  "name": "Museo civico di storia naturale di Milano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Venezia, 55",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4721&mlon=9.20271#map=15/45.4721/9.20271",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4721,
+    "longitude": 9.20271
+  },
+  "url": "http://www.comune.milano.it/museostorianaturale",
+  "telephone": "+39 0288463280",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4-JVXvBebt-y6PS-Ss064Dst0V4=/1000x1000/museums/logos/000/187/068/original/d86040d451863b65c7cffa6be1a8397411616a3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103703",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

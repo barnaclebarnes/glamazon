@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162896
+  },
+  "name": "MILWAUKEE ART MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "700 N ART MUSEUM DR",
+    "addressLocality": "MILWAUKEE",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53202-4007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0397&mlon=-87.8976#map=15/43.0397/-87.8976",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0397,
+    "longitude": -87.8976
+  },
+  "url": "http://www.mam.org",
+  "telephone": "+1 (414) 224-3200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500345",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

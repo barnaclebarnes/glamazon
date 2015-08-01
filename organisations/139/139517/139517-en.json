@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139517
+  },
+  "name": "IOWA CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1451 CORAL RIDGE AVE",
+    "addressLocality": "CORALVILLE",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52241-2800"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6913&mlon=-91.6084#map=15/41.6913/-91.6084",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6913,
+    "longitude": -91.6084
+  },
+  "url": "http://www.icm.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900554",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

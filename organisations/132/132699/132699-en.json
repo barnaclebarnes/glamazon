@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132699
+  },
+  "name": "FRED C HEIDRICK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1962 HAYS LN",
+    "addressLocality": "WOODLAND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95776-6216"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6756&mlon=-121.731#map=15/38.6756/-121.731",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6756,
+    "longitude": -121.731
+  },
+  "url": "http://www.aghistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602825",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

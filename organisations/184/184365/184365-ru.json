@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184365
+  },
+  "name": "Royal New Zealand Navy Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.8284&mlon=174.809#map=15/-36.8284/174.809",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.8284,
+    "longitude": 174.809
+  },
+  "url": "http://www.navymuseum.mil.nz",
+  "telephone": "64 09 445 5186",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10:00 утра до 4:30 вечера ежедневно за исключением Рождество, день подарков и Страстная пятница.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Free.  Donations gratefully accepted."
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/ru/museums/184365",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

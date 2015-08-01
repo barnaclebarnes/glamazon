@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143335
+  },
+  "name": "DESIGN MUSEUM BOSTON INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 990938",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02199"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3487&mlon=-71.0826#map=15/42.3487/-71.0826",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3487,
+    "longitude": -71.0826
+  },
+  "url": "http://www.designmuseumboston.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500965",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

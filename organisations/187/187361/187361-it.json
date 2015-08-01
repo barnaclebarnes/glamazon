@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187361
+  },
+  "name": "Museo del sidecar",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Valcarecce, 13",
+    "addressLocality": "Cingoli",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3942&mlon=13.1775#map=15/43.3942/13.1775",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3942,
+    "longitude": 13.1775
+  },
+  "url": "http://www.sidecar.it",
+  "telephone": "+39 0733602651",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/PfNuz1jNPIEbZNsLyYf6rsvJKBE=/1000x1000/museums/logos/000/187/361/original/7d5a20464baa96be69482945d158886667799ad4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104173",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

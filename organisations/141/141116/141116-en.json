@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141116
+  },
+  "name": "NEW ORLEANS MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 COLLINS DIBOLL CIR",
+    "addressLocality": "NEW ORLEANS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70124-4603"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9869&mlon=-90.093#map=15/29.9869/-90.093",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9869,
+    "longitude": -90.093
+  },
+  "url": "http://www.noma.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200399",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183702
+  },
+  "name": "Gäubodenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Fraunhoferstraße 23",
+    "addressLocality": "Straubing",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94315"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8834&mlon=12.5705#map=15/48.8834/12.5705",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8834,
+    "longitude": 12.5705
+  },
+  "url": "http://www.gaeubodenmuseum.de/",
+  "telephone": "09421/9741-10",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183702",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

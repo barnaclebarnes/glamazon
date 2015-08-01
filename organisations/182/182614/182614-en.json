@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182614
+  },
+  "name": "Coburger Puppen-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rückertstraße 2",
+    "addressLocality": "Coburg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96450"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2579&mlon=10.9665#map=15/50.2579/10.9665",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2579,
+    "longitude": 10.9665
+  },
+  "url": "http://www.coburger-puppenmuseum.de",
+  "telephone": "09561/891480",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182614",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

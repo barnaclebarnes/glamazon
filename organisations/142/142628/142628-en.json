@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142628
+  },
+  "name": "MUSEUM OF SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 SCIENCE PARK",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02114-1099"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3683&mlon=-71.0717#map=15/42.3683/-71.0717",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3683,
+    "longitude": -71.0717
+  },
+  "url": "http://www.mos.org",
+  "telephone": "+1 (617) 723-2500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500258",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130728
+  },
+  "name": "SAN JOSE MUSEUM OF ART ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "110 S MARKET ST",
+    "addressLocality": "SAN JOSE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95113-2307"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3335&mlon=-121.891#map=15/37.3335/-121.891",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3335,
+    "longitude": -121.891
+  },
+  "url": "http://www.sjmusart.org",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TQtI9fReCAT3qpdaNQpAoVRinkw=/1000x1000/museums/logos/000/130/728/original/San_Jose_Museum_of_Art.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:JaGa\" title=\"User:JaGa\">JaGa</a>",
+    "license": "GFDL"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/San_Jose_Museum_of_Art",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600854",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

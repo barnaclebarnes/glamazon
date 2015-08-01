@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183458
+  },
+  "name": "Schwäbisches Handwerkermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Beim Rabenbad 6",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3608&mlon=10.9037#map=15/48.3608/10.9037",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3608,
+    "longitude": 10.9037
+  },
+  "url": "http://www.hwk-schwaben.de/webview71/view?onr=71&pnr=252",
+  "telephone": "0821/3259-1270",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183458",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186195
+  },
+  "name": "Museo della stampa del quotidiano \"Libertà\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Benedettine, 66",
+    "addressLocality": "Piacenza",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0523&mlon=9.70213#map=15/45.0523/9.70213",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0523,
+    "longitude": 9.70213
+  },
+  "url": "http://www.liberta.it/",
+  "telephone": "+39 0523 393939",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato dalle ore 17.00 alle ore 19.00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111189",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

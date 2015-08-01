@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150507
+  },
+  "name": "NEWFIELD HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "262 VAN KIRK ROAD",
+    "addressLocality": "NEWFIELD",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14867"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3367&mlon=-76.6028#map=15/42.3367/-76.6028",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3367,
+    "longitude": -76.6028
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601801",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137925
+  },
+  "name": "NAUVOO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "POST OFFICE BOX 69",
+    "addressLocality": "NAUVOO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62354"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.53&mlon=-91.3694#map=15/40.53/-91.3694",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.53,
+    "longitude": -91.3694
+  },
+  "url": "http://www.nauvoohistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701070",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

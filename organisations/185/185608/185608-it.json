@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185608
+  },
+  "name": "Museo civico Santissima Annunziata",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Ovidio, SNC",
+    "addressLocality": "Sulmona",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0468&mlon=13.9256#map=15/42.0468/13.9256",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0468,
+    "longitude": 13.9256
+  },
+  "telephone": "+39 0864210216",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ypC1lLahya5sGMVoSTjgI0oF5Z4=/1000x1000/museums/logos/000/185/608/original/5fbd9f3f2de6bc41d8ef90fe61ce6429c9b859f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100026",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

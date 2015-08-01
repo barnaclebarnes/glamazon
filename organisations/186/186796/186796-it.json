@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186796
+  },
+  "name": "Museo del C'era una volta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Frazione Borgo di Riofreddo, 8",
+    "addressLocality": "Murialdo",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.318&mlon=8.16922#map=15/44.318/8.16922",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.318,
+    "longitude": 8.16922
+  },
+  "url": "http://www.comunemurialdo.it/it-it/storia/museo.aspx",
+  "telephone": "+39 0199 5831",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Domenica e festivi 14.00-18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DF4j-j5cQSN20f-gIe4KkD6WiwU=/1000x1000/museums/logos/000/186/796/original/b64337ae8243337156a29f38ce309fa910975.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100462",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

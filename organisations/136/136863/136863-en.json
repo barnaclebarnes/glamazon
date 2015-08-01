@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136863
+  },
+  "name": "WASHINGTON PARK BOTANICAL GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2500 SOUTH ELEVENTH ST",
+    "addressLocality": "SPRINGFIELD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62703"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7905&mlon=-89.6835#map=15/39.7905/-89.6835",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7905,
+    "longitude": -89.6835
+  },
+  "url": "http://www.springfieldparks.org/garden",
+  "telephone": "+1 (217) 546-4116",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700008",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

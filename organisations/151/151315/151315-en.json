@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151315
+  },
+  "name": "ELSEWHERE INCORPORATED",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "606 S ELM ST",
+    "addressLocality": "GREENSBORO",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27406-1328"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.0657&mlon=-79.7908#map=15/36.0657/-79.7908",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.0657,
+    "longitude": -79.7908
+  },
+  "url": "http://www.goelsewhere.org",
+  "telephone": "+1 (336) 549-5555",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700186",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

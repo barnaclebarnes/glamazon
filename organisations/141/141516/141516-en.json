@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141516
+  },
+  "name": "SPIRITS ALIVE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 18209",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04112-8209"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6588&mlon=-70.2572#map=15/43.6588/-70.2572",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6588,
+    "longitude": -70.2572
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300365",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

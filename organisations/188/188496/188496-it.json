@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188496
+  },
+  "name": "Museo etnografico \"Nuzio Bruno\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Umberto, 27",
+    "addressLocality": "Floridia",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0822&mlon=15.1518#map=15/37.0822/15.1518",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0822,
+    "longitude": 15.1518
+  },
+  "url": "http://www.museofloridia.it/",
+  "telephone": "+39 0931949301",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedi al venerdi dalle ore 17,30 - alle ore 20,30 sab./dom. su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ncq7rvMxTadyG205bMGY7GpCLYM=/1000x1000/museums/logos/000/188/496/original/4fdb2c1ab6c98398083e3ee7f5dd0f7bc66a272.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106113",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

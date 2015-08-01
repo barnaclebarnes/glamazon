@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183880
+  },
+  "name": "Museum Wolfram von Eschenbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wolfram-von-Eschenbach-Platz 9",
+    "addressLocality": "Wolframs-Eschenbach",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91639"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.2266&mlon=10.7262#map=15/49.2266/10.7262",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.2266,
+    "longitude": 10.7262
+  },
+  "url": "http://www.wolframs-eschenbach.de/showpage.php?SiteID=42&lang=1",
+  "telephone": "09875/9755-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183880",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

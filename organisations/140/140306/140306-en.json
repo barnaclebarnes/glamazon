@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140306
+  },
+  "name": "GARRARD COUNTY JAIL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "STANFORD ST",
+    "addressLocality": "LANCASTER",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6159&mlon=-84.5793#map=15/37.6159/-84.5793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6159,
+    "longitude": -84.5793
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100062",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144854
+  },
+  "name": "WALKER ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1750 HENNEPIN AVE",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55403-2115"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9675&mlon=-93.2883#map=15/44.9675/-93.2883",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9675,
+    "longitude": -93.2883
+  },
+  "url": "http://www.walkerart.org",
+  "telephone": "+1 (612) 375-7600",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/walkerartcenter"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/walkerartcenter"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700294",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

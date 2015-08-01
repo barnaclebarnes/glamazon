@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160254
+  },
+  "name": "FAIRBANKS MUSEUM AND PLANETARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1302 MAIN ST",
+    "addressLocality": "ST JOHNSBURY",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05819-2248"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4202&mlon=-72.0202#map=15/44.4202/-72.0202",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4202,
+    "longitude": -72.0202
+  },
+  "url": "http://www.fairbanksmuseum.org",
+  "telephone": "+1 (802) 748-2372",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000060",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

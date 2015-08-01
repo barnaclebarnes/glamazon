@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142815
+  },
+  "name": "HISTORY PROJECT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "29 STANHOPE ST",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02116-5111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3485&mlon=-71.0729#map=15/42.3485/-71.0729",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3485,
+    "longitude": -71.0729
+  },
+  "url": "http://www.historyproject.org",
+  "telephone": "+1 (617) 266-7733",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500445",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

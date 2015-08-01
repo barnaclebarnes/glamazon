@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184005
+  },
+  "name": "Deutsches Pinsel- und Bürstenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dinkelsbühler Straße 21",
+    "addressLocality": "Bechhofen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91572"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1575&mlon=10.5481#map=15/49.1575/10.5481",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1575,
+    "longitude": 10.5481
+  },
+  "url": "http://www.pinselmuseum-bechhofen.de",
+  "telephone": "09822/60614",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184005",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

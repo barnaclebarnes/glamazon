@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185972
+  },
+  "name": "Museo della civiltà contadina di Prata Sannita",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello snc, ",
+    "addressLocality": "Prata Sannita",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4273&mlon=14.1999#map=15/41.4273/14.1999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4273,
+    "longitude": 14.1999
+  },
+  "telephone": "+39 0823941080",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UHB1KwBQCiEwsZX35G2OJLhw4Mo=/1000x1000/museums/logos/000/185/972/original/5cda911f4e1a8bdc9dd67553157c7ff04ff759.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101814",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

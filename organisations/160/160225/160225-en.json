@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160225
+  },
+  "name": "FLEMING MUSEUM OF UVM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "61 COLCHESTER AVE",
+    "addressLocality": "BURLINGTON",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05405"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4807&mlon=-73.1972#map=15/44.4807/-73.1972",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4807,
+    "longitude": -73.1972
+  },
+  "url": "http://www.flemingmuseum.org",
+  "telephone": "+1 (802) 656-0750",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000031",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

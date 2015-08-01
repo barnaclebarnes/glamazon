@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163655
+  },
+  "name": "Australian Racing Museum & Hall of Fame",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8191&mlon=144.984#map=15/-37.8191/144.984",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8191,
+    "longitude": 144.984
+  },
+  "url": "http://www.nsm.org.au/Exhibitions/Champions%20Racing%20Gallery.aspx",
+  "telephone": "1300 139 407",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "australian-racing-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/australian-racing-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

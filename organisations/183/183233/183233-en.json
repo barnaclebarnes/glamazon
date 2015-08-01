@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183233
+  },
+  "name": "Galerie der Künstler, BBK - Berufsverband bildender Künstler München und Oberbayern e.V.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Maximilianstr. 42",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80538"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1377&mlon=11.5855#map=15/48.1377/11.5855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1377,
+    "longitude": 11.5855
+  },
+  "url": "http://www.bbk-muc-obb.de",
+  "telephone": "089/22 04 63",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183233",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

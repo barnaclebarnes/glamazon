@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149567
+  },
+  "name": "ART BEYOND SIGHT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "589 BROADWAY",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10012-3231"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7249&mlon=-73.9972#map=15/40.7249/-73.9972",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7249,
+    "longitude": -73.9972
+  },
+  "url": "http://www.artbeyondsight.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600861",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

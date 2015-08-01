@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187534
+  },
+  "name": "Museo degli antichi mestieri di Basaluzzo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mulino, ",
+    "addressLocality": "Basaluzzo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7649&mlon=8.7005#map=15/44.7649/8.7005",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7649,
+    "longitude": 8.7005
+  },
+  "telephone": "+39 0143489107",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ys3VSXM_zrIGJo1shAkKY3lxTMc=/1000x1000/museums/logos/000/187/534/original/558963f9c3e4ba7e0955dfe53f1ddbae908273.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102442",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

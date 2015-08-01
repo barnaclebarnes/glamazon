@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130410
+  },
+  "name": "CSU FULLERTON ART GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 N STATE COLLEGE BLVD",
+    "addressLocality": "FULLERTON",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92634-9480"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8797&mlon=-117.89#map=15/33.8797/-117.89",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8797,
+    "longitude": -117.89
+  },
+  "url": "http://www.fullerton.edu/arts/",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/CSUF_Grand_Central_Art_Center",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600536",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

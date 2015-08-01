@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187254
+  },
+  "name": "Museo speleopaleontologico ed archeologico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "fraz. San Vittore, 7",
+    "addressLocality": "Genga",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4027&mlon=12.9699#map=15/43.4027/12.9699",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4027,
+    "longitude": 12.9699
+  },
+  "url": "http://turismo.comunedigenga.it/museo_speleo_paleontologico.html",
+  "telephone": "+39 073290241",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal Lunedì al Sabato dalle ore 10:00 alle ore 13:00 e dalle 14:30 alle 18:30 Domenica, festivi e Agosto dalle 8:30 alle 19:30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4cA8bKqpQT8stgMvYwvkuKauV8k=/1000x1000/museums/logos/000/187/254/original/7d38d730ea66c040f9c87dca1e6bfdc9d55fde7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104057",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

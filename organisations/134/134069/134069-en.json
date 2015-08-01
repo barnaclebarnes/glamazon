@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134069
+  },
+  "name": "ZWAANENDAEL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "102 KINGS HWY",
+    "addressLocality": "LEWES",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19958"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7743&mlon=-75.1391#map=15/38.7743/-75.1391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7743,
+    "longitude": -75.1391
+  },
+  "url": "http://history.delaware.gov/museums/zm/zm_main.shtml",
+  "telephone": "+1 (302) 645-1148",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/216971454130"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

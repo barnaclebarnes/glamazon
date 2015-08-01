@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187102
+  },
+  "name": "Villa Necchi Campiglio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mozart, 14",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.469&mlon=9.20227#map=15/45.469/9.20227",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.469,
+    "longitude": 9.20227
+  },
+  "url": "http://www.fondoambiente.it",
+  "telephone": "+39 02 76340121",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da mercoledì a domenica 10-18",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5ISd237AOcMfa1tYU7qgJQwsJIU=/1000x1000/museums/logos/000/187/102/original/59a8d5698c3dae2578a1910b4965fbcdb5cdd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106885",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

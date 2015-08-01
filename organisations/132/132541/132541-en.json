@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132541
+  },
+  "name": "ANAHEIM HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 927",
+    "addressLocality": "ANAHEIM",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92815"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8235&mlon=-117.937#map=15/33.8235/-117.937",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8235,
+    "longitude": -117.937
+  },
+  "url": "http://www.anaheimhistoricalsociety.com",
+  "telephone": "+1 (714) 397-9182",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602667",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

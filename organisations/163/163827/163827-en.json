@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163827
+  },
+  "name": "Deakin University Art Collection",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8495&mlon=145.113#map=15/-37.8495/145.113",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8495,
+    "longitude": 145.113
+  },
+  "url": "http://www.deakin.edu.au/art-collection/",
+  "telephone": "(03) 9244 5344",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tuesday-Friday 10-4 pm\r\nSaturday 1-5 pm\r\nClosed on public holidays",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "deakin-university-art-collection",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/deakin-university-art-collection",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

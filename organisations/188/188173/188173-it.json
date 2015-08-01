@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188173
+  },
+  "name": "Museo civico - San Ferdinando di Puglia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Giovanni Paolo II, 11",
+    "addressLocality": "San Giovanni Rotondo",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7&mlon=15.7268#map=15/41.7/15.7268",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7,
+    "longitude": 15.7268
+  },
+  "url": "http://www.reciproca.foggia.it",
+  "telephone": "+39 0883621310",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e giovedì 16-18; anche a richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102379",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

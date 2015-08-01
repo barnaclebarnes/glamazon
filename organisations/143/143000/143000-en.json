@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143000
+  },
+  "name": "THE HANOVER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 156",
+    "addressLocality": "HANOVER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02339-0156"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1254&mlon=-70.8495#map=15/42.1254/-70.8495",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1254,
+    "longitude": -70.8495
+  },
+  "url": "http://hanoverhistoricalsociety.com",
+  "telephone": "+1 (781) 826-9575",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500630",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

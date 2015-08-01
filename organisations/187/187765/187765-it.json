@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187765
+  },
+  "name": "Sala manzoniana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fontana, 18, ",
+    "addressLocality": "Lesa",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8325&mlon=8.56636#map=15/45.8325/8.56636",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8325,
+    "longitude": 8.56636
+  },
+  "telephone": "+39 032276421",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102650",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128889
+  },
+  "name": "BIRMINGHAM HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 SLOSS QUARTERS",
+    "addressLocality": "BIRMINGHAM",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "35222-1243"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.5264&mlon=-86.7865#map=15/33.5264/-86.7865",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.5264,
+    "longitude": -86.7865
+  },
+  "url": "http://bhistorical.org",
+  "telephone": "+1 (205) 251-1880",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100419",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

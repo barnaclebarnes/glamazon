@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161074
+  },
+  "name": "POE FOUNDATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1914 E MAIN ST",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23223-6964"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.532&mlon=-77.4262#map=15/37.532/-77.4262",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.532,
+    "longitude": -77.4262
+  },
+  "url": "http://www.poemuseum.org/index.php",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100580",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

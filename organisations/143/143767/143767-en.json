@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143767
+  },
+  "name": "MICHIGAN SCIENCE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5020 JOHN R ST",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48226-3692"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3585&mlon=-83.0626#map=15/42.3585/-83.0626",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3585,
+    "longitude": -83.0626
+  },
+  "url": "http://www.mi-sci.org",
+  "telephone": "+1 (313) 577-8400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600304",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

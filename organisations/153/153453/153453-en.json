@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153453
+  },
+  "name": "AKRON ZOOLOGICAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 EDGEWOOD AVE",
+    "addressLocality": "AKRON",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44307-2114"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0772&mlon=-81.5398#map=15/41.0772/-81.5398",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0772,
+    "longitude": -81.5398
+  },
+  "url": "http://www.akronzoo.org",
+  "telephone": "+1 (330) 375-2550",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901231",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

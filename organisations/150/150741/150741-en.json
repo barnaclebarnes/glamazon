@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150741
+  },
+  "name": "TOWN OF OSSIAN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4706 OSSIAN HILL ROAD",
+    "addressLocality": "DANSVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14437-9117"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5214&mlon=-77.7793#map=15/42.5214/-77.7793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5214,
+    "longitude": -77.7793
+  },
+  "url": "http://townofossianny.us/historical.htm",
+  "telephone": "+1 (585) 335-7600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602035",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

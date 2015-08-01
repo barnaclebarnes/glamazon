@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140299
+  },
+  "name": "JEFFERSONTOWN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10635 WATTERSON TRL",
+    "addressLocality": "JEFFERSONTOWN",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40299"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1987&mlon=-85.5601#map=15/38.1987/-85.5601",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1987,
+    "longitude": -85.5601
+  },
+  "url": "http://www.jeffersontownky.com",
+  "telephone": "+1 (502) 261-8290",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100055",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

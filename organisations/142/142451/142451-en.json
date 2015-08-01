@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142451
+  },
+  "name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "265 MASSACHUSETTS AVENUE",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02139"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3618&mlon=-71.0976#map=15/42.3618/-71.0976",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3618,
+    "longitude": -71.0976
+  },
+  "telephone": "+1 (617) 253-4494",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500081",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

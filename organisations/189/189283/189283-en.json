@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189283
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vannucci, 66",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1103&mlon=12.3884#map=15/43.1103/12.3884",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1103,
+    "longitude": 12.3884
+  },
+  "url": "http://www.fondazionecrpg.it",
+  "telephone": "+39 075 5734760",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XQH8tA6OIpvsKSwx4rYnrfwELRc=/1000x1000/museums/logos/000/189/283/original/f7ebbe46ae5d58199d8b3718492e9a39e45b56c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108054",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

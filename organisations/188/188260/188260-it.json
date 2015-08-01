@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188260
+  },
+  "name": "Museo \"Sa domu nosta\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Scaledda, 1",
+    "addressLocality": "Senorbì",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5339&mlon=9.13194#map=15/39.5339/9.13194",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5339,
+    "longitude": 9.13194
+  },
+  "url": "http://www.museosadomunosta.it/",
+  "telephone": "+39 0709809071",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 13.00 e 16.00 - 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TimOsIqRj0-JdlsfquAAGEeyOoQ=/1000x1000/museums/logos/000/188/260/original/1ed0aa274581957bcb8f621b3b2964e4b3c434c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103320",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

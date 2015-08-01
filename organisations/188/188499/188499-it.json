@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188499
+  },
+  "name": "Museo civico archeologico di Noto (Italia)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vittorio Emanuele II, 146",
+    "addressLocality": "Noto",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8904&mlon=15.0724#map=15/36.8904/15.0724",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8904,
+    "longitude": 15.0724
+  },
+  "url": "http://www.comune.noto.sr.it",
+  "telephone": "+39 0931836462",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a sabato 9,00-18,00; domenica e festivi 9,00-13,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "8,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kTdXCNqcz1hnn634zNxmxdUH1wk=/1000x1000/museums/logos/000/188/499/original/27748b39457feac4befd969114b26fb359e781.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101353",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

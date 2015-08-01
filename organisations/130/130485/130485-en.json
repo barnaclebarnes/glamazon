@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130485
+  },
+  "name": "BUNNY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1933 JEFFERSON DR",
+    "addressLocality": "PASADENA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91104"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1701&mlon=-118.111#map=15/34.1701/-118.111",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1701,
+    "longitude": -118.111
+  },
+  "url": "http://www.thebunnymuseum.com",
+  "telephone": "+1 (626) 798-8848",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/The_Bunny_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600611",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

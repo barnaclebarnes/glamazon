@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131186
+  },
+  "name": "LAGUNA ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "307 CLIFF DR",
+    "addressLocality": "LAGUNA BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92651-1623"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.5436&mlon=-117.788#map=15/33.5436/-117.788",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.5436,
+    "longitude": -117.788
+  },
+  "url": "http://www.lagunaartmuseum.org",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/LagunaMuseum"
+    }
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Laguna_Art_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601312",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

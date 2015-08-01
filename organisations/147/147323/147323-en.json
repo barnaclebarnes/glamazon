@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147323
+  },
+  "name": "CONANT PUBLIC LIBRARY HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "111 MAIN STREET",
+    "addressLocality": "WINCHESTER",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03470"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7698&mlon=-72.3869#map=15/42.7698/-72.3869",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7698,
+    "longitude": -72.3869
+  },
+  "url": "http://www.conantlibrary.org",
+  "telephone": "+1 (603) 239-4331",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300098",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

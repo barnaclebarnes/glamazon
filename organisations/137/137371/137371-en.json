@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137371
+  },
+  "name": "MUSEUMS IN HAND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "233 S WACKER DR UNIT 9370",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60606"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8787&mlon=-87.6368#map=15/41.8787/-87.6368",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8787,
+    "longitude": -87.6368
+  },
+  "url": "http://www.museumsinhand.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700516",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

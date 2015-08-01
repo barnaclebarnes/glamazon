@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140719
+  },
+  "name": "USS KIDD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "305 RIVER RD N",
+    "addressLocality": "BATON ROUGE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4503&mlon=-91.1905#map=15/30.4503/-91.1905",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4503,
+    "longitude": -91.1905
+  },
+  "telephone": "+1 (225) 342-1942",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

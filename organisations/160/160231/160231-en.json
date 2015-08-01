@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160231
+  },
+  "name": "BENNINGTON CENTER FOR ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "44 GYPSY LN",
+    "addressLocality": "BENNINGTON",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8827&mlon=-73.2285#map=15/42.8827/-73.2285",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8827,
+    "longitude": -73.2285
+  },
+  "url": "http://www.thebennington.org",
+  "telephone": "+1 (802) 442-7158",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000037",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

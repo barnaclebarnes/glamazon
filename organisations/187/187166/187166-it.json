@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187166
+  },
+  "name": "Museo civico Visconti Venosta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Visconti Venosta, 2",
+    "addressLocality": "Grosio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.2972&mlon=10.2739#map=15/46.2972/10.2739",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.2972,
+    "longitude": 10.2739
+  },
+  "url": "http://protocollocomune.grosio.so.it",
+  "telephone": "+39 0342841228",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9sskib4N8QS0LjGIDgO-kDIHBlU=/1000x1000/museums/logos/000/187/166/original/4b90fed0eac2a34c4e6337bae176c57c43746c6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103788",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188279
+  },
+  "name": "Polo espositivo \"Casa Zapata\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Giovanni XXIII, snc",
+    "addressLocality": "Barumini",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7027&mlon=9.00376#map=15/39.7027/9.00376",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7027,
+    "longitude": 9.00376
+  },
+  "url": "http://www.comunebarumini.it",
+  "telephone": "+39 070 9368476",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10,00-20,00 in estate; 10,00-13,00 e 15,00-17,00 in inverno",
+  "offers": {
+    "@Type": "Offer",
+    "description": "7€; 10€ compreso Nuraghe Su Nuraxi"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/w6091_3zTOApoPgPjNb3X4-LZnE=/1000x1000/museums/logos/000/188/279/original/d5d4dc71c4ae38852a7d9b7197dc29376c8a010.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104024",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

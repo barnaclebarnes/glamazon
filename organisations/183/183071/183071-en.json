@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183071
+  },
+  "name": "Skulpturenmuseum im Hofberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Prantlgarten 1",
+    "addressLocality": "Landshut",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84028"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5333&mlon=12.1552#map=15/48.5333/12.1552",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5333,
+    "longitude": 12.1552
+  },
+  "url": "http://www.skulpturenmuseum-im-hofberg.de",
+  "telephone": "0871/890-21",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183071",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

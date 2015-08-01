@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186494
+  },
+  "name": "Pinacoteca di San Silvestro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Silvestro, 72",
+    "addressLocality": "Monte Compatri",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.805&mlon=12.7337#map=15/41.805/12.7337",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.805,
+    "longitude": 12.7337
+  },
+  "url": "http://www.carmelitaniroma.it",
+  "telephone": "+39 06 9485023",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9NciO9OFPUI3J4xn0Z9kVC5DSvY=/1000x1000/museums/logos/000/186/494/original/ee63f6cea684d8afbfe3c9c0d2a415792f509f.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101503",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

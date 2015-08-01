@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182773
+  },
+  "name": "kunst galerie fürth",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Königsplatz 1",
+    "addressLocality": "Fürth",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90762"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4777&mlon=10.9899#map=15/49.4777/10.9899",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4777,
+    "longitude": 10.9899
+  },
+  "url": "http://www.kunst-galerie-fuerth.de",
+  "telephone": "0911/974-1690",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182773",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134131
+  },
+  "name": "DELAWARE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2301 KENTMERE PKWY",
+    "addressLocality": "WILMINGTON",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19806-2019"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7649&mlon=-75.5651#map=15/39.7649/-75.5651",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7649,
+    "longitude": -75.5651
+  },
+  "url": "http://www.delart.org",
+  "telephone": "+1 (302) 571-9590",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/delawareartmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000063",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

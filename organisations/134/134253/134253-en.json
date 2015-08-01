@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134253
+  },
+  "name": "NATIONAL GEOGRAPHIC MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1145 17TH ST NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20036"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9046&mlon=-77.0385#map=15/38.9046/-77.0385",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9046,
+    "longitude": -77.0385
+  },
+  "url": "http://www.nationalgeographic.com",
+  "telephone": "+1 (202) 857-7588",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/NatGeoMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/NatGeoExhibit"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100033",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186621
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso della Repubblica, 347",
+    "addressLocality": "Velletri",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6828&mlon=12.7758#map=15/41.6828/12.7758",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6828,
+    "longitude": 12.7758
+  },
+  "telephone": "+39 069628838",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JvD0piJE5IEp7K2uRFW6vUsUQAc=/1000x1000/museums/logos/000/186/621/original/37292fa64a51d379a022192ca8704a4c39ccf29.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101613",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

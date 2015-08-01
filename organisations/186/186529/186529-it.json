@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186529
+  },
+  "name": "Galleria nazionale d'Arte antica in Palazzo Corsini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Lungara, 10, ",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8932&mlon=12.467#map=15/41.8932/12.467",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8932,
+    "longitude": 12.467
+  },
+  "url": "http://galleriacorsini.beniculturali.it/",
+  "telephone": "+39 0668802323",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì 8.30 - 19.30 Mercoledì/Domenica 8.30 - 19.30 La biglietteria chiude alle 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Yp_-T-OCYQhojCe57bP2xKZNrXo=/1000x1000/museums/logos/000/186/529/original/cf5e8d9b42289b8c3d5dc614fe4ba46228652c1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20394",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150800
+  },
+  "name": "THOMAS COLE HISTORIC HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 426",
+    "addressLocality": "CATSKILL",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12414-0426"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2204&mlon=-73.8904#map=15/42.2204/-73.8904",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2204,
+    "longitude": -73.8904
+  },
+  "url": "http://www.thomascole.org",
+  "telephone": "+1 (518) 943-7465",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602094",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

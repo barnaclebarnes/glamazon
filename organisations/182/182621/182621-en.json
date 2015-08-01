@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182621
+  },
+  "name": "Krügemuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Rennsteig 8",
+    "addressLocality": "Creußen",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95473"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8447&mlon=11.6217#map=15/49.8447/11.6217",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8447,
+    "longitude": 11.6217
+  },
+  "url": "http://www.kruegemuseum.de",
+  "telephone": "09270/5805",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182621",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

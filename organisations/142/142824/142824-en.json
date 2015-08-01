@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142824
+  },
+  "name": "COMMONWEALTH ZOOLOGICAL CORPORATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 FRANKLIN PARK RD",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02121-3252"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3034&mlon=-71.0853#map=15/42.3034/-71.0853",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3034,
+    "longitude": -71.0853
+  },
+  "url": "http://www.zoonewengland.org",
+  "telephone": "+1 (617) 989-2000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500454",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

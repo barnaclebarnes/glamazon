@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131442
+  },
+  "name": "MUSEUM OF PERFORMANCE & DESIGN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "VETERANS BUILDING 4TH FLOOR",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6641&mlon=-122.394#map=15/37.6641/-122.394",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6641,
+    "longitude": -122.394
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1pmi2CsnN4Kel1NT8iY_bIrRjZg=/1000x1000/museums/logos/000/131/442/original/SF_Bay_area_USGS.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Museum_of_Performance_%26_Design",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601568",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

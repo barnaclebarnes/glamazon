@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143025
+  },
+  "name": "DORCHESTER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "195 BOSTON ST",
+    "addressLocality": "DORCHESTER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02125-1613"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3232&mlon=-71.0606#map=15/42.3232/-71.0606",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3232,
+    "longitude": -71.0606
+  },
+  "url": "http://www.dorchesterhistoricalsociety.org",
+  "telephone": "+1 (617) 265-7802",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500655",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139117
+  },
+  "name": "ANTIQUE CAR MUSEUM OF IOWA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C/O DEAN OAKES 2969 PRAIRIE DU",
+    "addressLocality": "IOWA CITY",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52240"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6489&mlon=-91.5217#map=15/41.6489/-91.5217",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6489,
+    "longitude": -91.5217
+  },
+  "url": "http://www.acmoi.com",
+  "telephone": "+1 (319) 354-3310",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900154",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

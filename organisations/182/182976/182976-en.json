@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182976
+  },
+  "name": "Stadtmuseum Kaufbeuren",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kaisergäßchen 14",
+    "addressLocality": "Kaufbeuren",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87600"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8797&mlon=10.6193#map=15/47.8797/10.6193",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8797,
+    "longitude": 10.6193
+  },
+  "url": "http://www.stadtmuseum-kaufbeuren.de",
+  "telephone": "08341/9668390",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182976",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

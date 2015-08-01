@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137718
+  },
+  "name": "MILLENIUM PARK INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 E RANDOLPH ST",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60601-6530"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8843&mlon=-87.6222#map=15/41.8843/-87.6222",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8843,
+    "longitude": -87.6222
+  },
+  "url": "http://www.millenniumpark.org",
+  "telephone": "+1 (312) 742-1168",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700863",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

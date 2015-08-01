@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189556
+  },
+  "name": "Museo dell'arte serica e laterizia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cardinal De Lai, 2",
+    "addressLocality": "Malo",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6559&mlon=11.4078#map=15/45.6559/11.4078",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6559,
+    "longitude": 11.4078
+  },
+  "url": "http://www.retemusealealtovicentino.it",
+  "telephone": "+39 0445602413",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cw4zcrACz949qZHyak-diAKAeuw=/1000x1000/museums/logos/000/189/556/original/6a8e514d83b375062a547d9fde99fb4afcb5ee.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101070",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

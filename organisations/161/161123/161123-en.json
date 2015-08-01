@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161123
+  },
+  "name": "BELLE GROVE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 537",
+    "addressLocality": "MIDDLETOWN",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22645-0537"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0232&mlon=-78.2647#map=15/39.0232/-78.2647",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0232,
+    "longitude": -78.2647
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100629",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

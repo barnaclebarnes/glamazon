@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182861
+  },
+  "name": "Heimatkundliche Sammlung",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 24",
+    "addressLocality": "Heideck",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91180"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1325&mlon=11.1261#map=15/49.1325/11.1261",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1325,
+    "longitude": 11.1261
+  },
+  "url": "http://www.heideck.de/2234_DEU_WWW.php",
+  "telephone": "09177/4940-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182861",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

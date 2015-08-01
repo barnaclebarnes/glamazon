@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187001
+  },
+  "name": "Museo Cabriniano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. F. Cabrini, 3",
+    "addressLocality": "Codogno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1588&mlon=9.70242#map=15/45.1588/9.70242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1588,
+    "longitude": 9.70242
+  },
+  "telephone": "+39 037732370",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aBV1sO4DEKeP2kbQMUNBq9BV-BE=/1000x1000/museums/logos/000/187/001/original/e676bdc9726376831b1c305549a659e0bd276dcc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105634",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145682
+  },
+  "name": "THE SHELDON ART GALLERIES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3648 WASHINGTON BLVD",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6397&mlon=-90.2323#map=15/38.6397/-90.2323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6397,
+    "longitude": -90.2323
+  },
+  "url": "http://www.thesheldon.org/galleries.asp",
+  "telephone": "+1 (314) 533-9900",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900111",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

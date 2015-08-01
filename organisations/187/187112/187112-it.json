@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187112
+  },
+  "name": "Museo miniatura della vita contadina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Libertà, 18",
+    "addressLocality": "Cavenago di Brianza",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.585&mlon=9.41602#map=15/45.585/9.41602",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.585,
+    "longitude": 9.41602
+  },
+  "url": "http://www.comune.cavenagobrianza.mb.it",
+  "telephone": "+39 02 952414912",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106834",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149643
+  },
+  "name": "YESHIVA UNIVERSITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 WEST 185TH STREET",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10033-3201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7376&mlon=-73.9932#map=15/40.7376/-73.9932",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7376,
+    "longitude": -73.9932
+  },
+  "url": "http://www.yumuseum.org/",
+  "telephone": "+1 (212) 294-8330",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/YeshivaUniversityMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/YUMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600937",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

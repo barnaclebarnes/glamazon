@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164344
+  },
+  "name": "TarraWarra Museum of Art",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.6551&mlon=145.487#map=15/-37.6551/145.487",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.6551,
+    "longitude": 145.487
+  },
+  "url": "http://twma.com.au/",
+  "telephone": "5957 3100",
+  "contactPoint": [
+
+  ],
+  "openingHours": "11am - 5pm daily except Mondays. Open public holidays.",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "tarrawarra-museum-of-art",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/tarrawarra-museum-of-art",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

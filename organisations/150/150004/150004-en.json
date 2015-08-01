@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150004
+  },
+  "name": "KLEINHANS MUSIC HALL MANAGEMENT INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "370 PENNSYLVANIA ST",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14201-1202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9012&mlon=-78.8832#map=15/42.9012/-78.8832",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9012,
+    "longitude": -78.8832
+  },
+  "url": "http://kleinhansbuffalo.org",
+  "telephone": "+1 (716) 883-3560",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601298",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

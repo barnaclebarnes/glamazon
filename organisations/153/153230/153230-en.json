@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153230
+  },
+  "name": "NEW KNOXVILLE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "105 EAST GERMAN STREET",
+    "addressLocality": "NEW KNOXVILLE",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45871"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4936&mlon=-84.3165#map=15/40.4936/-84.3165",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4936,
+    "longitude": -84.3165
+  },
+  "url": "http://www.nktelco.net/historicalsociety/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901008",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

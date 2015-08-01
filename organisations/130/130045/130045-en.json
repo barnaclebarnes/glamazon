@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130045
+  },
+  "name": "SACRAMENTO HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 EYE STREET",
+    "addressLocality": "SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95814"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6794&mlon=-121.22#map=15/38.6794/-121.22",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6794,
+    "longitude": -121.22
+  },
+  "telephone": "+1 (916) 808-7059",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/International_Printing_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600171",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

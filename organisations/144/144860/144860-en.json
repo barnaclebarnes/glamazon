@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144860
+  },
+  "name": "MINNESOTA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "345 KELLOGG BLVD W",
+    "addressLocality": "SAINT PAUL",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55102-1903"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9481&mlon=-93.1052#map=15/44.9481/-93.1052",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9481,
+    "longitude": -93.1052
+  },
+  "url": "http://www.mnhs.org",
+  "telephone": "+1 (507) 426-7888",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700300",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

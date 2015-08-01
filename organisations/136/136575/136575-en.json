@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136575
+  },
+  "name": "IOLANI PALACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2259",
+    "addressLocality": "HONOLULU",
+    "addressRegion": "HI",
+    "addressCountry": "United States",
+    "postalCode": "96804-2259"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=21.3059&mlon=-157.859#map=15/21.3059/-157.859",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 21.3059,
+    "longitude": -157.859
+  },
+  "url": "http://www.iolanipalace.org",
+  "telephone": "+1 (808) 522-0822",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/iolanipalace"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/IolaniPalaceHI"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401500114",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143423
+  },
+  "name": "SOUTH HADLEY HISTORICAL INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4 N MAIN ST",
+    "addressLocality": "SOUTH HADLEY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01075-1303"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2159&mlon=-72.5988#map=15/42.2159/-72.5988",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2159,
+    "longitude": -72.5988
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501053",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

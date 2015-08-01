@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186660
+  },
+  "name": "Museo della Casa di Santa Rosa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Casa di Santa Rosa, ",
+    "addressLocality": "Viterbo",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4201&mlon=12.1087#map=15/42.4201/12.1087",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4201,
+    "longitude": 12.1087
+  },
+  "telephone": "+39 0761 342887",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,30-12,00 /16,00-17,00. Estivo 9,30-12,00/16,00-18,00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101647",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

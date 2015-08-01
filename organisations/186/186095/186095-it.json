@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186095
+  },
+  "name": "Antiquarium di Sala Consilina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Grancia Certosina, via Cavour",
+    "addressLocality": "Sala Consilina",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4019&mlon=15.5908#map=15/40.4019/15.5908",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4019,
+    "longitude": 15.5908
+  },
+  "telephone": "+39 097522026",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Chiuso al pubblico per allestimento museale",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3Pnb7OvXIQMjxk3lvmyCeSr3AUM=/1000x1000/museums/logos/000/186/095/original/23ee386515efe010a3c59ef5e1bcec6c8feecbdb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20724",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186791
+  },
+  "name": "Museo alpino di Carcare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi - Lungobormida, ",
+    "addressLocality": "Carcare",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3575&mlon=8.29031#map=15/44.3575/8.29031",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3575,
+    "longitude": 8.29031
+  },
+  "telephone": "+39 0195 11631",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sabato 10.00/12.00 Domenica 10.00/12.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100457",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137335
+  },
+  "name": "BELLEVILLE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 23682",
+    "addressLocality": "BELLEVILLE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62223-0682"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5516&mlon=-90.0465#map=15/38.5516/-90.0465",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5516,
+    "longitude": -90.0465
+  },
+  "url": "http://bellevillehistoricalsociety.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700480",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

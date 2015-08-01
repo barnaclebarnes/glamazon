@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131142
+  },
+  "name": "AQUARIUM OF THE PACIFIC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 AQUARIUM WAY",
+    "addressLocality": "LONG BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90802-8126"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7633&mlon=-118.197#map=15/33.7633/-118.197",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7633,
+    "longitude": -118.197
+  },
+  "url": "http://www.aquariumofpacific.org",
+  "telephone": "+1 (562) 590-3100",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Aquarium_of_the_Pacific",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601268",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

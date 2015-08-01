@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187758
+  },
+  "name": "Forte Albertino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vittorio Veneto, ",
+    "addressLocality": "Vinadio",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3068&mlon=7.17358#map=15/44.3068/7.17358",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3068,
+    "longitude": 7.17358
+  },
+  "url": "http://www.fortedivinadio.it",
+  "telephone": "+39 0171 959151",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/olQycoENBlxv6lN8jXl5HjtzsrA=/1000x1000/museums/logos/000/187/758/original/77409f2061f1f499333324f6bd52c39ed0fe19c7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102636",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

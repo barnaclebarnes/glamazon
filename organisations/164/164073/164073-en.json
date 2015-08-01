@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164073
+  },
+  "name": "Melbourne Water",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.814&mlon=144.947#map=15/-37.814/144.947",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.814,
+    "longitude": 144.947
+  },
+  "url": "http://www.melbournewater.com.au/aboutus/historyandheritage/pages/history-and-heritage.aspx",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "melbourne-water",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/melbourne-water",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

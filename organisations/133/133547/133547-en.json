@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133547
+  },
+  "name": "NORWALK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "41 NORTH MAIN ST.",
+    "addressLocality": "SOUTH NORWALK",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06854"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1001&mlon=-73.4189#map=15/41.1001/-73.4189",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1001,
+    "longitude": -73.4189
+  },
+  "telephone": "+1 (203) 866-0202",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900022",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139256
+  },
+  "name": "JOHN AND MARY PAPPAJOHN ART FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "666 WALNUT STREET",
+    "addressLocality": "DES MOINES",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50309-3907"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5857&mlon=-93.6253#map=15/41.5857/-93.6253",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5857,
+    "longitude": -93.6253
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900293",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

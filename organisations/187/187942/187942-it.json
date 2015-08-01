@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187942
+  },
+  "name": "Museo Franchetti - Colibri' del Collegio S. Giuseppe",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Francesco da Paola, 23, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0636&mlon=7.6856#map=15/45.0636/7.6856",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0636,
+    "longitude": 7.6856
+  },
+  "url": "http://www.collegiosangiuseppe.it",
+  "telephone": "+39 3498456272",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tYdc0C2SEOCwhkQDR7KmUm_9Ehc=/1000x1000/museums/logos/000/187/942/original/db40cd9cb3f4a485949e526770d1dd5fdababb.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102770",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

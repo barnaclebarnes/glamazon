@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187401
+  },
+  "name": "Museo della carta e della filigrana di Pioraco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Giacomo Leopardi, 1",
+    "addressLocality": "Pioraco",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1789&mlon=12.9846#map=15/43.1789/12.9846",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1789,
+    "longitude": 12.9846
+  },
+  "telephone": "+39 073742142",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sabato 10:30 - 12:30 16:30 - 18:00 Domenica 10:30 - 12:30 16:30 - 18:00 L'orario estivo và dalle 10:00 - 13:00 e dalle 15:00 - 19:00 tutti i giorni, chiuso lunedì.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 1.50 - € 2.50"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104214",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

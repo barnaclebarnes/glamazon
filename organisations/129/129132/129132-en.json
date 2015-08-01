@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129132
+  },
+  "name": "PHOENIX TROLLEY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1218 N CENTRAL AVE",
+    "addressLocality": "PHOENIX",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85004"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.462&mlon=-112.074#map=15/33.462/-112.074",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.462,
+    "longitude": -112.074
+  },
+  "url": "http://phoenixtrolley.com",
+  "telephone": "+1 (602) 254-0307",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/phoenixtrolley"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400034",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

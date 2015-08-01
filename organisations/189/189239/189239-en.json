@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189239
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Federico da Montefeltro, 22",
+    "addressLocality": "Gubbio",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3531&mlon=12.5803#map=15/43.3531/12.5803",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3531,
+    "longitude": 12.5803
+  },
+  "url": "http://www.museogubbio.it",
+  "telephone": "+39 075 9274920",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gIhEhljS0KIzxzYFNUZlijAB3XI=/1000x1000/museums/logos/000/189/239/original/8ffe93e49f7237cc6b2c44fbaeeec5b218044d7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108150",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

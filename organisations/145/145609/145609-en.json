@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145609
+  },
+  "name": "MUSEUM OF TRANSPORTATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3015 BARRETT STATION RD",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63122"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5733&mlon=-90.4617#map=15/38.5733/-90.4617",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5733,
+    "longitude": -90.4617
+  },
+  "url": "http://www.museumoftransport.org",
+  "telephone": "+1 (314) 615-8668",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/168145031020"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900038",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

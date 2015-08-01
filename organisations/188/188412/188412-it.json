@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188412
+  },
+  "name": "Museo nazionale italiano del te'",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, 45",
+    "addressLocality": "Raddusa",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4737&mlon=14.5312#map=15/37.4737/14.5312",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4737,
+    "longitude": 14.5312
+  },
+  "url": "http://www.casadelte.it",
+  "telephone": "+39 095662193",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YkSdRJ_WXfH5wYa_cXfH-l_GeGA=/1000x1000/museums/logos/000/188/412/original/1ef998fe913cbb1e3ad27a2891d59be6ffd436d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101221",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

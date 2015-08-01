@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150207
+  },
+  "name": "QUINCY SQUARE MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "37 WEST MAIN STREET",
+    "addressLocality": "EARLVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13332"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7395&mlon=-75.5499#map=15/42.7395/-75.5499",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7395,
+    "longitude": -75.5499
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601501",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

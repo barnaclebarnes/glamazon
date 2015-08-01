@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150503
+  },
+  "name": "WESTPORT HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 446",
+    "addressLocality": "WESTPORT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12993"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2048&mlon=-73.4476#map=15/44.2048/-73.4476",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2048,
+    "longitude": -73.4476
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601797",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

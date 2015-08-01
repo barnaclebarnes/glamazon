@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161003
+  },
+  "name": "CHERRY HILL FARM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "312 PARK AVENUE",
+    "addressLocality": "FALLS CHURCH",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22046"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8857&mlon=-77.174#map=15/38.8857/-77.174",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8857,
+    "longitude": -77.174
+  },
+  "url": "http://cherryhillfallschurch.org",
+  "telephone": "+1 (703) 248-5175",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100509",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

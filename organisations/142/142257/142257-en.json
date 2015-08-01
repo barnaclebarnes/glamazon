@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142257
+  },
+  "name": "WASHINGTON ARTS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9811 CAPITOL VIEW AVE",
+    "addressLocality": "SILVER SPRING",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "20910"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0172&mlon=-77.0583#map=15/39.0172/-77.0583",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0172,
+    "longitude": -77.0583
+  },
+  "url": "http://www.wamuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400550",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

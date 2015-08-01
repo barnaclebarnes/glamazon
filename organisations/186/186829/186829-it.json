@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186829
+  },
+  "name": "MAT - Museo Arte Tempo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Clara Maffei, 3",
+    "addressLocality": "Clusone",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.89&mlon=9.94726#map=15/45.89/9.94726",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.89,
+    "longitude": 9.94726
+  },
+  "url": "http://www.museoartetempo.it",
+  "telephone": "+39 034625915",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZM7gGlOs48uV5B_iwo-egQFK66U=/1000x1000/museums/logos/000/186/829/original/3456bff0b83d4848eaf5edeb6ac5813af1f1758.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103513",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

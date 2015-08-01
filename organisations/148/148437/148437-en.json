@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148437
+  },
+  "name": "ROSWELL MUSEUM AND ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 W. 11TH STREET",
+    "addressLocality": "ROSWELL",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "88201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4046&mlon=-104.523#map=15/33.4046/-104.523",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4046,
+    "longitude": -104.523
+  },
+  "telephone": "+1 (575) 627-0918",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/309942490195"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500027",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

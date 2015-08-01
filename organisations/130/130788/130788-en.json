@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130788
+  },
+  "name": "MENLO PARK HISTORICAL ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1002",
+    "addressLocality": "MENLO PARK",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94026-1002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4519&mlon=-122.183#map=15/37.4519/-122.183",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4519,
+    "longitude": -122.183
+  },
+  "telephone": "+1 (650) 330-2522",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600914",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186065
+  },
+  "name": "Antiquarium di Palinuro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ficorella, 50",
+    "addressLocality": "Centola",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.035&mlon=15.2869#map=15/40.035/15.2869",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.035,
+    "longitude": 15.2869
+  },
+  "url": "http:// http://www.comune.centola.sa.it/paese/antiquarium.asp",
+  "telephone": "+39 0974930771",
+  "contactPoint": [
+
+  ],
+  "openingHours": "nei mesi estivi aperto tutti i giorni 8.00-21.00. Il resto dell'anno aperto dalle 8.00 alle 18.00 tutti i giorni, Tel. 0974.370717 (Comune)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gI7aJsd9Iti559hgkXrgg6Q8Zqk=/1000x1000/museums/logos/000/186/065/original/2f82435c84e59f87c26c35be905f758afc1acf1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101892",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

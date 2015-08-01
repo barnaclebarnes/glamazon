@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186531
+  },
+  "name": "Galleria Spada",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Capo di Ferro 13, ",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8943&mlon=12.472#map=15/41.8943/12.472",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8943,
+    "longitude": 12.472
+  },
+  "url": "http://galleriaspada.beniculturali.it/",
+  "telephone": "+39 066874896 066861158",
+  "contactPoint": [
+
+  ],
+  "openingHours": "titti i giorni 8.30 - 19.30; chiuso lunedì",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bx4QgxqNab5pcUshOpTLI6KE2ME=/1000x1000/museums/logos/000/186/531/original/edd391d9adbcb95e8a46333497bcac4c188ba49.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20388",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

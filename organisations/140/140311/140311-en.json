@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140311
+  },
+  "name": "CREATION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2800 BULLITTSBURG CHURCH RD",
+    "addressLocality": "PETERSBURG",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "41080"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0843&mlon=-84.7846#map=15/39.0843/-84.7846",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0843,
+    "longitude": -84.7846
+  },
+  "url": "http://www.creationmuseum.org",
+  "telephone": "+1 (888) 582-4253",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100067",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

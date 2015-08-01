@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131767
+  },
+  "name": "MUSEUM OF AMERICAN HERITAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "351 HOMER AVE",
+    "addressLocality": "PALO ALTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94301-2727"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4443&mlon=-122.157#map=15/37.4443/-122.157",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4443,
+    "longitude": -122.157
+  },
+  "url": "http://www.moah.org",
+  "telephone": "+1 (650) 321-1004",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601893",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

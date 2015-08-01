@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160404
+  },
+  "name": "NORTHEASTERN ANTHROPOLOGICAL ASSOC NEAA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "45 STATE ST STE 251",
+    "addressLocality": "MONTPELIER",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05602-2946"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2605&mlon=-72.577#map=15/44.2605/-72.577",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2605,
+    "longitude": -72.577
+  },
+  "url": "http://www.neaa.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000210",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

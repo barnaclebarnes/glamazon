@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186412
+  },
+  "name": "Museo archeologico malacologico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, ",
+    "addressLocality": "Ponza",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8948&mlon=12.9667#map=15/40.8948/12.9667",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8948,
+    "longitude": 12.9667
+  },
+  "url": "http://www.comune.ponza.lt.it",
+  "telephone": "+39 0771 80108 - 0348 2818065",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105515",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

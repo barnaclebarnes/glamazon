@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164285
+  },
+  "name": "Seaworks Maritime Discovery Centre",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8634&mlon=144.907#map=15/-37.8634/144.907",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8634,
+    "longitude": 144.907
+  },
+  "url": "http://www.seaworks.com.au",
+  "telephone": "0417 292 021",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Refer events calendar at www.seaworks.com.au",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "seaworks-foundation",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/seaworks-foundation",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

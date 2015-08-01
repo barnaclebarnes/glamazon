@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187012
+  },
+  "name": "Museo civico Goffredo Bellini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giuseppe Garibaldi, 7",
+    "addressLocality": "Asola",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2215&mlon=10.4125#map=15/45.2215/10.4125",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2215,
+    "longitude": 10.4125
+  },
+  "url": "http://www.comune.asola.mn.it",
+  "telephone": "+39 0376710171",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DyaiqaL8b0ipsI3JDy8DpVUL16M=/1000x1000/museums/logos/000/187/012/original/b681bd66daa93ba3cbf79cc7bd97b853d029232f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103735",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

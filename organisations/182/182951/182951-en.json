@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182951
+  },
+  "name": "Lechner Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Esplanade 9",
+    "addressLocality": "Ingolstadt",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85049"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7668&mlon=11.4304#map=15/48.7668/11.4304",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7668,
+    "longitude": 11.4304
+  },
+  "url": "http://www.lechner-museum.de",
+  "telephone": "0841/305-2250",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182951",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186769
+  },
+  "name": "Museo diocesano di Brugnato",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Pietro, 1",
+    "addressLocality": "Brugnato",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2776&mlon=9.74651#map=15/44.2776/9.74651",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2776,
+    "longitude": 9.74651
+  },
+  "url": "http://www.diocesilaspezia.it",
+  "telephone": "+39 (0039) 0187 895814 - 896530",
+  "contactPoint": [
+
+  ],
+  "openingHours": "estivo: sabato e domenica, ore 15:00 - 19:00 - invernale: sabato e domenica, ore 15:00 - 18:00 (visita guidata a richiesta, dando alcuni giorni di preavviso)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/h5_VwA9iplBg8kUk8rKqoVsThhU=/1000x1000/museums/logos/000/186/769/original/af4b4eeccdf38ceaa70fac15d991f5dc44eb14e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111323",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

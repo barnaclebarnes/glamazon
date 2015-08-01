@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183958
+  },
+  "name": "Meerrettichmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Judengasse 11",
+    "addressLocality": "Baiersdorf",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91083"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6573&mlon=11.0327#map=15/49.6573/11.0327",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6573,
+    "longitude": 11.0327
+  },
+  "url": "http://www.schamel.de/DEU/index.php",
+  "telephone": "09133/603040",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183958",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

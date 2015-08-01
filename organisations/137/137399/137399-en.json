@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137399
+  },
+  "name": "MORTON ARBORETUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4100 ILLINOIS RT 53",
+    "addressLocality": "LISLE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60532-1288"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8135&mlon=-88.074#map=15/41.8135/-88.074",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8135,
+    "longitude": -88.074
+  },
+  "url": "http://www.mortonarb.org",
+  "telephone": "+1 (630) 968-0074",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700544",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

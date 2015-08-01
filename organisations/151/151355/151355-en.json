@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151355
+  },
+  "name": "TRANSYLVANIA HERITAGE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2347",
+    "addressLocality": "BREVARD",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28712-2347"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.2351&mlon=-82.7372#map=15/35.2351/-82.7372",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.2351,
+    "longitude": -82.7372
+  },
+  "url": "http://transylvaniaheritage.org/",
+  "telephone": "+1 (828) 884-2347",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/Transylvania.Heritage.Museum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700226",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

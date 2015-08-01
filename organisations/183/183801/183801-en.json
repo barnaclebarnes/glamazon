@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183801
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stadtplatz 39",
+    "addressLocality": "Vilsbiburg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84137"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4494&mlon=12.3537#map=15/48.4494/12.3537",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4494,
+    "longitude": 12.3537
+  },
+  "url": "http://www.museum-vilsbiburg.de",
+  "telephone": "08741/7828",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183801",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

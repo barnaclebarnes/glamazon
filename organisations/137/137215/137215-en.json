@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137215
+  },
+  "name": "PEORIA ART GUILD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1831 N KNOXVILLE AVE",
+    "addressLocality": "PEORIA",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61603-3027"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.71&mlon=-89.594#map=15/40.71/-89.594",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.71,
+    "longitude": -89.594
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700360",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

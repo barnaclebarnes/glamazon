@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183865
+  },
+  "name": "KunstMuseum Donau-Ries",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Jahnstraße 1",
+    "addressLocality": "Wemding",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86650"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8704&mlon=10.7181#map=15/48.8704/10.7181",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8704,
+    "longitude": 10.7181
+  },
+  "url": "http://www.kunstmuseum-donauries.de",
+  "telephone": "09092/389",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183865",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

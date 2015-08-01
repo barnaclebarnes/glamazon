@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150708
+  },
+  "name": "YAPHANK HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 111",
+    "addressLocality": "YAPHANK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11980-0111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.835&mlon=-72.9357#map=15/40.835/-72.9357",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.835,
+    "longitude": -72.9357
+  },
+  "url": "http://www.yaphankhistorical.org/",
+  "telephone": "+1 (631) 924-3401",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

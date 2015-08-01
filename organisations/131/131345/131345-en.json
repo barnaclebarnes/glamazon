@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131345
+  },
+  "name": "LOS ANGELES HISTORICAL BOTTLE CLUB",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "12634 WESTWAY LANE",
+    "addressLocality": "VICTORVILLE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92392"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.4801&mlon=-117.396#map=15/34.4801/-117.396",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.4801,
+    "longitude": -117.396
+  },
+  "url": "http://www.lahbc.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601471",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

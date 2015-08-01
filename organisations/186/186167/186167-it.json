@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186167
+  },
+  "name": "Museo civico di ecologia e storia naturale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Matteotti, 28, ",
+    "addressLocality": "Marano sul Panaro",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4559&mlon=10.966#map=15/44.4559/10.966",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4559,
+    "longitude": 10.966
+  },
+  "telephone": "+39 059744103",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MI-FtthOUNzKhKrFWwlR4-o7uKs=/1000x1000/museums/logos/000/186/167/original/6b497dce63be562e29539782dca10b453dcec1b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102101",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

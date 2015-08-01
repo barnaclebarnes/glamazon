@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143421
+  },
+  "name": "ATTLEBORO AREA INDUSTRIAL MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "42 UNION STREET",
+    "addressLocality": "ATTLEBORO",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02703-2948"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9433&mlon=-71.2819#map=15/41.9433/-71.2819",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9433,
+    "longitude": -71.2819
+  },
+  "url": "http://www.industrialmuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501051",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

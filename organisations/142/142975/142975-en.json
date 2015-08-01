@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142975
+  },
+  "name": "MASSACHUSETTS COLLEGE OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "621 HUNTINGTON AVENUE",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02115"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3361&mlon=-71.0999#map=15/42.3361/-71.0999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3361,
+    "longitude": -71.0999
+  },
+  "url": "http://www.massart.edu",
+  "telephone": "+1 (617) 879-7000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500605",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

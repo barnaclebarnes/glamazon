@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186129
+  },
+  "name": "Quadreria dei Poveri Vergognosi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Marsala, 7/a",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4975&mlon=11.3442#map=15/44.4975/11.3442",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4975,
+    "longitude": 11.3442
+  },
+  "url": "http://poverivergognosi.it",
+  "telephone": "+39 051 2966258 -  2966211",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mercoledì dalle ore 15 alle ore 18; sabato dalle 10 alle 13",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111089",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

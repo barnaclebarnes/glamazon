@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133345
+  },
+  "name": "THE ROCKY MOUNTAIN MAP SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1790 HUDSON ST",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80220-1453"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7453&mlon=-104.923#map=15/39.7453/-104.923",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7453,
+    "longitude": -104.923
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800521",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

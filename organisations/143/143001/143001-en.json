@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143001
+  },
+  "name": "UNITARIAN HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "27 GROVE ST",
+    "addressLocality": "SCITUATE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02066"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1994&mlon=-70.7826#map=15/42.1994/-70.7826",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1994,
+    "longitude": -70.7826
+  },
+  "url": "http://www.uua.org/uuhs",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500631",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187219
+  },
+  "name": "Museo L. Pogliaghi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Beata Giuliana, 5",
+    "addressLocality": "Varese",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8593&mlon=8.79388#map=15/45.8593/8.79388",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8593,
+    "longitude": 8.79388
+  },
+  "telephone": "+39 02 806921",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106851",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

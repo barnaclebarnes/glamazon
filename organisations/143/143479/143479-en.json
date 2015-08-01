@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143479
+  },
+  "name": "WATERLOO FARM MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9998 WATERLOO MUNITH RD",
+    "addressLocality": "GRASS LAKE",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49240"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3548&mlon=-84.1401#map=15/42.3548/-84.1401",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3548,
+    "longitude": -84.1401
+  },
+  "url": "http://www.waterloofarmmuseum.org",
+  "telephone": "+1 (517) 596-2254",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600016",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

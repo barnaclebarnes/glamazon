@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130412
+  },
+  "name": "DISCOVERY MUSEUM OF ORANGE COUNTY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3101 WEST HARVARD STREET",
+    "addressLocality": "SANTA ANA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92704"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7202&mlon=-117.911#map=15/33.7202/-117.911",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7202,
+    "longitude": -117.911
+  },
+  "telephone": "+1 (714) 540-0504",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Discovery_Cube_Orange_County",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600538",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

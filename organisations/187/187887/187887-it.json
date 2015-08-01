@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187887
+  },
+  "name": "Museo della viticoltura",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Libertà, 20 - Frazione San Bartolomeo, ",
+    "addressLocality": "Prarostino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8674&mlon=7.26876#map=15/44.8674/7.26876",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8674,
+    "longitude": 7.26876
+  },
+  "url": "http://www.comune.prarostino.to.it/museo.html",
+  "telephone": "+39 0121500128",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102736",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

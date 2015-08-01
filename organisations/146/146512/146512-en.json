@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146512
+  },
+  "name": "BOZEMAN ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10573 KELLY CANYON RD",
+    "addressLocality": "BOZEMAN",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59715-9687"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6695&mlon=-110.973#map=15/45.6695/-110.973",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6695,
+    "longitude": -110.973
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000155",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

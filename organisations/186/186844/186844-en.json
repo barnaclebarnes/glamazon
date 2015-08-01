@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186844
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Goi, 4",
+    "addressLocality": "Schilpario",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0086&mlon=10.1583#map=15/46.0086/10.1583",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0086,
+    "longitude": 10.1583
+  },
+  "telephone": "+39 034655393",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/K4WqpKw7-lvSlStXb4oZbpBQfYI=/1000x1000/museums/logos/000/186/844/original/45ea131ccde86e7b5323f8fceb55fde7431435.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103532",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143735
+  },
+  "name": "MUSEUM OF CONTEMPORARY ART DETROIT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4454 WOODWARD AVE",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48201-1822"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3535&mlon=-83.0621#map=15/42.3535/-83.0621",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3535,
+    "longitude": -83.0621
+  },
+  "url": "http://www.mocadetroit.org",
+  "telephone": "+1 (313) 832-6622",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600272",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

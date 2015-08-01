@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137056
+  },
+  "name": "CHI-AM MUSEUM CHICAGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "601 W 31ST ST",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60616"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8381&mlon=-87.6416#map=15/41.8381/-87.6416",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8381,
+    "longitude": -87.6416
+  },
+  "telephone": "+1 (312) 949-1000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700201",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

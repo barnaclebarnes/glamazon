@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130078
+  },
+  "name": "RONALD REAGAN PRESIDENTIAL LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "40 PRESIDENTIAL DR",
+    "addressLocality": "SIMI VALLEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93065"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.2572&mlon=-118.819#map=15/34.2572/-118.819",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.2572,
+    "longitude": -118.819
+  },
+  "url": "http://www.reaganlibrary.com",
+  "telephone": "+1 (805) 522-9953",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Ronald_Reagan_Presidential_Library",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600204",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146702
+  },
+  "name": "NEBRASKA STATE CAPITOL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "521 S. 14TH STREET, STE. 500",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68508"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8092&mlon=-96.6998#map=15/40.8092/-96.6998",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8092,
+    "longitude": -96.6998
+  },
+  "url": "http://capitol.org/",
+  "telephone": "+1 (402) 471-6691",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100041",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

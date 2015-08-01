@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141240
+  },
+  "name": "MAINE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "489 CONGRESS ST STE 2",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04101-3415"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6567&mlon=-70.2601#map=15/43.6567/-70.2601",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6567,
+    "longitude": -70.2601
+  },
+  "url": "http://www.mainehistory.org",
+  "telephone": "+1 (207) 774-1822",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300089",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

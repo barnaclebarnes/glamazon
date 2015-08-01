@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131001
+  },
+  "name": "CAMPAIGN FOR THE PRESERVATION OF MISSION SAN ANTONIO DE PADU",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 803",
+    "addressLocality": "JOLON",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93928-0803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.968&mlon=-121.176#map=15/35.968/-121.176",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.968,
+    "longitude": -121.176
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BiOad-GbKDEHr1Sf3xyFI1b9ogY=/1000x1000/museums/logos/000/131/001/original/Mission_San_Antonio_de_Padua_modern.jpg",
+    "creator": "Robert Stokstad",
+    "license": "Copyrighted free use"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Mission_San_Antonio_de_Padua",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601127",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

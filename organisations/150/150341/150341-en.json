@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150341
+  },
+  "name": "FENTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "67 WASHINGTON ST",
+    "addressLocality": "JAMESTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14701-6631"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0919&mlon=-79.2385#map=15/42.0919/-79.2385",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0919,
+    "longitude": -79.2385
+  },
+  "url": "http://www.fentonhistorycenter.org",
+  "telephone": "+1 (716) 664-6256",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601635",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

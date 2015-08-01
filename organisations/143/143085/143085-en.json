@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143085
+  },
+  "name": "NORTHBOROUGH HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 BALL ST",
+    "addressLocality": "NORTHBOROUGH",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01532"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3486&mlon=-71.6786#map=15/42.3486/-71.6786",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3486,
+    "longitude": -71.6786
+  },
+  "url": "http://www.northboughhistsoc.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500715",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

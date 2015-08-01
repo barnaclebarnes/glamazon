@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186452
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Risorgimento, 3",
+    "addressLocality": "Albano Laziale",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7256&mlon=12.6627#map=15/41.7256/12.6627",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7256,
+    "longitude": 12.6627
+  },
+  "url": "http://www.museicivicialbano.it",
+  "telephone": "+39 069323490",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gsojwwzd6KbvwU8Yi9oTx7mma9o=/1000x1000/museums/logos/000/186/452/original/906262a018903751e2e79bf0dbdb9a42f96fec1a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106121",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

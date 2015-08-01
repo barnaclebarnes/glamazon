@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185613
+  },
+  "name": "Museo delle tradizioni del lavoro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Municipio, SNC",
+    "addressLocality": "Villalago",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9353&mlon=13.8381#map=15/41.9353/13.8381",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9353,
+    "longitude": 13.8381
+  },
+  "telephone": "+39 0864 740134",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriale 15,30 – 18,30 apertura su appuntamento agosto ore 16,00/ 18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100034",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186645
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XIII settembre, ",
+    "addressLocality": "Nepi",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2427&mlon=12.3488#map=15/42.2427/12.3488",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2427,
+    "longitude": 12.3488
+  },
+  "url": "http://www.museonepi.com",
+  "telephone": "+39 0761570604",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/N_RCAdm8U-KTPJlJ2Xe2ubGTzXE=/1000x1000/museums/logos/000/186/645/original/afc34cdb424c276c4d48371a3342394c595251.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101633",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

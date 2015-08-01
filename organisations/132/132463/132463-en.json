@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132463
+  },
+  "name": "PALM SPRINGS ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2310",
+    "addressLocality": "PALM SPRINGS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92262"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8392&mlon=-116.533#map=15/33.8392/-116.533",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8392,
+    "longitude": -116.533
+  },
+  "url": "http://www.psmuseum.org",
+  "telephone": "+1 (760) 322-4800",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/PalmSpringsArtMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602589",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

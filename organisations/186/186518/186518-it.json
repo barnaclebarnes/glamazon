@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186518
+  },
+  "name": "Collezione storica Federico Buccellati",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Condotti, 31",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9049&mlon=12.48#map=15/41.9049/12.48",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9049,
+    "longitude": 12.48
+  },
+  "url": "http://www.federicobuccellati.it",
+  "telephone": "+39 06 6790329",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101523",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

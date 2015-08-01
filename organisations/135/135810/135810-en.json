@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135810
+  },
+  "name": "HAY HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "934 GEORGIA AVENUE",
+    "addressLocality": "MACON",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "31201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8407&mlon=-83.6333#map=15/32.8407/-83.6333",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8407,
+    "longitude": -83.6333
+  },
+  "url": "http://www.hayhousemacon.org",
+  "telephone": "+1 (912) 742-8155",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300081",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139623
+  },
+  "name": "BARNS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5506 B AVE",
+    "addressLocality": "MARCUS",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "51035-7007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.72&mlon=-95.8405#map=15/42.72/-95.8405",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.72,
+    "longitude": -95.8405
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900660",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

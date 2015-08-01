@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183053
+  },
+  "name": "museum wiegen & messen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfarrer-Kneipp-Straße 1",
+    "addressLocality": "Bechhofen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91572"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1471&mlon=10.5443#map=15/49.1471/10.5443",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1471,
+    "longitude": 10.5443
+  },
+  "url": "http://www.museumsland.de",
+  "telephone": "09822/5856",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183053",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

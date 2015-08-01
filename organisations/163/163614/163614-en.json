@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163614
+  },
+  "name": "Alfred Archives",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8454&mlon=144.983#map=15/-37.8454/144.983",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8454,
+    "longitude": 144.983
+  },
+  "url": "http://www.alfred.org.au/Department.aspx?ID=121",
+  "telephone": "(03) 9076 2022",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "alfred-archives",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/alfred-archives",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

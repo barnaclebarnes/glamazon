@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150567
+  },
+  "name": "AVON PRESERVATION & HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "553 COLLINS STREET",
+    "addressLocality": "AVON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14414"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9121&mlon=-77.7376#map=15/42.9121/-77.7376",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9121,
+    "longitude": -77.7376
+  },
+  "url": "http://www.avonhistorical.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601861",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

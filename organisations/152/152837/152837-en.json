@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152837
+  },
+  "name": "THURBER HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "77 JEFFERSON AVE.",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43215"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9658&mlon=-82.985#map=15/39.9658/-82.985",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9658,
+    "longitude": -82.985
+  },
+  "url": "http://www.thurberhouse.org",
+  "telephone": "+1 (614) 464-1032",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900614",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185626
+  },
+  "name": "Museo delle genti d'Abruzzo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via delle Caserme, 24",
+    "addressLocality": "Pescara",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4616&mlon=14.2124#map=15/42.4616/14.2124",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4616,
+    "longitude": 14.2124
+  },
+  "telephone": "+39 0854510026",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/o7_LhxVOEavYP4qqVodP3r6GYlU=/1000x1000/museums/logos/000/185/626/original/42511c63ca765d5b1b099dc21143d3dda2d7fac.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100077",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188361
+  },
+  "name": "Museo Palazzo di Città",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": " Corso Vittorio Emanuele II ",
+    "addressLocality": "Sassari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7286&mlon=8.55911#map=15/40.7286/8.55911",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7286,
+    "longitude": 8.55911
+  },
+  "url": "http://www.sardegnacultura.it",
+  "telephone": "+39 079 2015122",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Novembre-Aprile: da lunedì a sabato 9.00-14.00; 16.00-20.00 Maggio-Ottobre: da lunedì a sabato 9.00-14.00; 16.00-21.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Y4uP_KXVBMPxQFC0dVmBoAqiqzs=/1000x1000/museums/logos/000/188/361/original/c0b6afbea33c371378925a43c01136d3a9058a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111716",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184001
+  },
+  "name": "Richard Wagner Museum mit Nationalarchiv der Richard-Wagner-Stiftung Bayreuth",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wahnfriedstr. 2 ",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9409&mlon=11.5821#map=15/49.9409/11.5821",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9409,
+    "longitude": 11.5821
+  },
+  "url": "http://www.wagnermuseum.de",
+  "telephone": "0921/75728-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184001",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

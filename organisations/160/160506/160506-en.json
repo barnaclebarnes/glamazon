@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160506
+  },
+  "name": "VIRGINIA HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4301 SULGRAVE RD",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23221"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5539&mlon=-77.5027#map=15/37.5539/-77.5027",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5539,
+    "longitude": -77.5027
+  },
+  "url": "http://www.vahistorical.org/your-visit/virginia-house",
+  "telephone": "+1 (804) 353-4251",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100012",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

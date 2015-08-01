@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137402
+  },
+  "name": "FIELD MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1400 S LAKE SHORE DR",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60605-2827"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.865&mlon=-87.619#map=15/41.865/-87.619",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.865,
+    "longitude": -87.619
+  },
+  "url": "http://www.fieldmuseum.org",
+  "telephone": "+1 (312) 922-9410",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700547",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

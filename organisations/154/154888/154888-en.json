@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154888
+  },
+  "name": "PALMER MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PENNSYLVANIA STATE UNIVERSITY",
+    "addressLocality": "UNIVERSITY PARK",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "16802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8033&mlon=-77.8535#map=15/40.8033/-77.8535",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8033,
+    "longitude": -77.8535
+  },
+  "telephone": "+1 (814) 865-7672",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/PalmerMuseumofArt"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200082",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

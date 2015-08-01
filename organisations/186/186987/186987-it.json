@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186987
+  },
+  "name": "Museo etnografico dell'Alta Brianza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Bertarelli, 11",
+    "addressLocality": "Galbiate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.818&mlon=9.37151#map=15/45.818/9.37151",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.818,
+    "longitude": 9.37151
+  },
+  "url": "http://www.parcobarro.it",
+  "telephone": "+39 0341542266",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì, il mercoledì e il venerdì dalle 9:00 alle 12:30; il sabato e la domenica 9,00/12,30 - 14,00/18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xlM7aC4NwgXunZj85NuGgmSrlnY=/1000x1000/museums/logos/000/186/987/original/9c6d8224226e8d559d4bc511a2d1eeb9f515199.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103652",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

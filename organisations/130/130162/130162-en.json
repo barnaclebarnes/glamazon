@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130162
+  },
+  "name": "MILLBRAE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "450 POPLAR AVE",
+    "addressLocality": "MILLBRAE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94030"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.602&mlon=-122.397#map=15/37.602/-122.397",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.602,
+    "longitude": -122.397
+  },
+  "url": "http://www.millbraehs.org",
+  "telephone": "+1 (650) 692-5786",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600288",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

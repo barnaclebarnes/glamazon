@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187428
+  },
+  "name": "Museo civico archeologico di Treia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Nazario Sauro, SNC",
+    "addressLocality": "Treia",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3116&mlon=13.3125#map=15/43.3116/13.3125",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3116,
+    "longitude": 13.3125
+  },
+  "url": "http://www.treia.sinp.net",
+  "telephone": "+39 0733218703",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato, domenica e festivi dalle ore 9.00 alle ore 12 nel pomeriggio dalle ore 15.30 alle ore 19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104250",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

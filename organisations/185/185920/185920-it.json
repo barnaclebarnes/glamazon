@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185920
+  },
+  "name": "Biblioteca Pubblica statale con annesso Archivio del Monumento nazionale di Montevergine",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Loreto,1",
+    "addressLocality": "Mercogliano",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9206&mlon=14.7394#map=15/40.9206/14.7394",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9206,
+    "longitude": 14.7394
+  },
+  "url": "http://www.bibliotecastataledimontevergine.beniculturali.it/",
+  "telephone": "+39 0825 787191 0825 789933",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì, mercoledì e venerdì: ore 08.15-13.30 Martedì e giovedì: ore 08.15-17.15 SABATO CHIUSO",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Vd2UcgCHjLYqPGCN7_Yw9McP4nc=/1000x1000/museums/logos/000/185/920/original/56c890c217232797a0711dcc67af6e1c2182646a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20013",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

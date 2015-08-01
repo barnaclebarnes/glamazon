@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189747
+  },
+  "name": "BISCAYNE NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9700 SW 328TH ST.",
+    "addressLocality": "HOMESTEAD",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33033"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.4633&mlon=-80.3388#map=15/25.4633/-80.3388",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.4633,
+    "longitude": -80.3388
+  },
+  "telephone": "+1 (305) 230-1144",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201310",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

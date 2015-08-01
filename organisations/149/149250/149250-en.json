@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149250
+  },
+  "name": "LANDMARK ON MAIN STREET INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "232 MAIN STREET",
+    "addressLocality": "PORT WASHINGTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11050-3241"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8312&mlon=-73.6959#map=15/40.8312/-73.6959",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8312,
+    "longitude": -73.6959
+  },
+  "url": "http://www.landmarkonmainstreet.org",
+  "telephone": "+1 (516) 767-1384",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600544",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

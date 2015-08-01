@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186511
+  },
+  "name": "Archivio storico e Museo Birra Peroni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via R. Birolli, 8",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9048&mlon=12.5984#map=15/41.9048/12.5984",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9048,
+    "longitude": 12.5984
+  },
+  "url": "http://www.peroni.it",
+  "telephone": "+39 0622544267",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FHTNXY4YsvRi4KouJVSxaR1ZnU0=/1000x1000/museums/logos/000/186/511/original/be4a86111e10365837f149b547b9c35a887a45d8.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101536",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

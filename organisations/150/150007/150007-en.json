@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150007
+  },
+  "name": "MEMORIAL ART GALLERY OF THE UNIVERSITY OF ROCHESTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 UNIVERSITY AVE",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14607"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1571&mlon=-77.5889#map=15/43.1571/-77.5889",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1571,
+    "longitude": -77.5889
+  },
+  "url": "http://memorialartgallery.rochester.edu",
+  "telephone": "+1 (585) 276-8900",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/MAGRochester"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/magur"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601301",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

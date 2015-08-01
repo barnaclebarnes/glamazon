@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141242
+  },
+  "name": "ABBE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 286",
+    "addressLocality": "BAR HARBOR",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04609-0286"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3872&mlon=-68.2061#map=15/44.3872/-68.2061",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3872,
+    "longitude": -68.2061
+  },
+  "url": "http://www.abbemuseum.org",
+  "telephone": "+1 (207) 288-3519",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/103011610767"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/abbemuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300091",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

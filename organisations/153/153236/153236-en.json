@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153236
+  },
+  "name": "JEFFERSON DEPOT INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "147 EAST JEFFERSON STREET PO BOX 22",
+    "addressLocality": "JEFFERSON",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44047-0022"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7383&mlon=-80.7619#map=15/41.7383/-80.7619",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7383,
+    "longitude": -80.7619
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901014",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

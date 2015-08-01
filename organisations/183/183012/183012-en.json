@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183012
+  },
+  "name": "Triasmuseum an der Ochsenfurt",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Judengasse 3",
+    "addressLocality": "Ochsenfurt",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97199"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6736&mlon=10.048#map=15/49.6736/10.048",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6736,
+    "longitude": 10.048
+  },
+  "url": "http://www.fossilienmuseum-franken.de",
+  "telephone": "09331/2873",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183012",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

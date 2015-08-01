@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150019
+  },
+  "name": "LANDMARK SOCIETY OF WESTERN NEW YORK INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "133 FITZHUGH ST S",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14608-2204"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1505&mlon=-77.6122#map=15/43.1505/-77.6122",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1505,
+    "longitude": -77.6122
+  },
+  "url": "http://www.landmarksociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601313",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187926
+  },
+  "name": "Museo dell'automobile di Torino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Unità d'Italia, 40, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0315&mlon=7.67451#map=15/45.0315/7.67451",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0315,
+    "longitude": 7.67451
+  },
+  "url": "http://www.museoauto.it",
+  "telephone": "+39 011677668",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102774",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

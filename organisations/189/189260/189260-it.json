@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189260
+  },
+  "name": "Pinacoteca Mariottini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pietro Vannucci, 1",
+    "addressLocality": "Panicale",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0294&mlon=12.1002#map=15/43.0294/12.1002",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0294,
+    "longitude": 12.1002
+  },
+  "url": "http://www.comune.panicale.pg.it",
+  "telephone": "+39 0758375831",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ozDS1SS6qGaGnXvKdKowvMpOaCE=/1000x1000/museums/logos/000/189/260/original/a9bd93dea8b4d32bffadff8dd2f0a8f2c8855a66.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100727",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

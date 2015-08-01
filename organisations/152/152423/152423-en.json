@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152423
+  },
+  "name": "ALLEN MEMORIAL ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "OBERLIN COLLEGE, 87 NORTH MAIN ST.",
+    "addressLocality": "OBERLIN",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44074"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2898&mlon=-82.2175#map=15/41.2898/-82.2175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2898,
+    "longitude": -82.2175
+  },
+  "telephone": "+1 (216) 775-8665",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/35324667314"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900200",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

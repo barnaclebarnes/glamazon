@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164476
+  },
+  "name": "Williamstown High School",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8626&mlon=144.895#map=15/-37.8626/144.895",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8626,
+    "longitude": 144.895
+  },
+  "url": "http://www.willihigh.vic.edu.au/",
+  "telephone": "03 93939027",
+  "contactPoint": [
+
+  ],
+  "openingHours": "By appointment during school hours.",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "williamstown-high-school",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/williamstown-high-school",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

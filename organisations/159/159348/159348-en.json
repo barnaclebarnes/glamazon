@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159348
+  },
+  "name": "MUSEUM OF THE PLAINS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1200 N MAIN ST",
+    "addressLocality": "PERRYTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "79070-2314"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.4182&mlon=-100.803#map=15/36.4182/-100.803",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.4182,
+    "longitude": -100.803
+  },
+  "url": "http://www.museumoftheplains.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801448",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

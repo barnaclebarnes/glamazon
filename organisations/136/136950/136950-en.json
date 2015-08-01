@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136950
+  },
+  "name": "MUSEUM OF CONTEMPORARY PHOTOGRAPHY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "600 SOUTH MICHIGAN AVENUE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60605"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8743&mlon=-87.6243#map=15/41.8743/-87.6243",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8743,
+    "longitude": -87.6243
+  },
+  "telephone": "+1 (312) 663-5554",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/MuseumOfContemporaryPhotography"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/MoCP_Chicago"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700095",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

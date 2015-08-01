@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189222
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "L'Antica Deruta. Fabbrica Maioliche d'Arte SS. E 45 - Km 73, ",
+    "addressLocality": "Deruta",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9817&mlon=12.4138#map=15/42.9817/12.4138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9817,
+    "longitude": 12.4138
+  },
+  "telephone": "+39 0759711171",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Lgny8ypnxefRtQV1FwbCItmHtgk=/1000x1000/museums/logos/000/189/222/original/286364f9097f827406f123e77a1f888327bac2a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100703",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

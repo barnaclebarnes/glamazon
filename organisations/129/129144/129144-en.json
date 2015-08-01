@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129144
+  },
+  "name": "INTERNATIONAL WILDLIFE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4800 W GATES PASS RD",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85745"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2339&mlon=-111.066#map=15/32.2339/-111.066",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2339,
+    "longitude": -111.066
+  },
+  "url": "http://www.thewildlifemuseum.org",
+  "telephone": "+1 (520) 629-0100",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/WildlifeMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400046",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

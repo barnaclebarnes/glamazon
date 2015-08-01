@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183375
+  },
+  "name": "Kaiserburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burg 13",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90403"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.458&mlon=11.0762#map=15/49.458/11.0762",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.458,
+    "longitude": 11.0762
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/nbg_burg.htm",
+  "telephone": "0911/244659-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183375",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

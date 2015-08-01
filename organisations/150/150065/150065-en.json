@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150065
+  },
+  "name": "WARSAW HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 PERRY AVENUE",
+    "addressLocality": "WARSAW",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14569"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7409&mlon=-78.1347#map=15/42.7409/-78.1347",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7409,
+    "longitude": -78.1347
+  },
+  "url": "http://www.warsawhistory.org",
+  "telephone": "+1 (585) 786-2030",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601359",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

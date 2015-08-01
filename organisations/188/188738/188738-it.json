@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188738
+  },
+  "name": "Centro di documentazione archeologica di Magliano in Toscana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Garibaldi, 12",
+    "addressLocality": "Magliano in Toscana",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.599&mlon=11.2927#map=15/42.599/11.2927",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.599,
+    "longitude": 11.2927
+  },
+  "url": "http://www.comune.magliano-in-toscana.gr.it",
+  "telephone": "+39 0564593431",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103009",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

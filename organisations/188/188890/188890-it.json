@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188890
+  },
+  "name": "Blu Palazzo Museo d’arte e cultura",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gambacorti, 32",
+    "addressLocality": "Pisa",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7157&mlon=10.3982#map=15/43.7157/10.3982",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7157,
+    "longitude": 10.3982
+  },
+  "url": "http://www.palazzoblu.it/",
+  "telephone": "+39 050916911",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ukvMoWDwyS8Ae_TxOhwC6pIqzSQ=/1000x1000/museums/logos/000/188/890/original/4cdfe0746e197d4d5415d4374f4635202856e85b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110488",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

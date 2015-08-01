@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186448
+  },
+  "name": "Museo del Monastero di Santa Filippa Mareri",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2944&mlon=13.0688#map=15/42.2944/13.0688",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2944,
+    "longitude": 13.0688
+  },
+  "telephone": "+39 0746558134",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 8,30-12,30 /16,00-18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DFLQ6EjgOYOy5fhXTN9te-7yL5Q=/1000x1000/museums/logos/000/186/448/original/a149b138d8634e422bb877919f0a67e245c9c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101471",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

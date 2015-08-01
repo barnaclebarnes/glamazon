@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133824
+  },
+  "name": "HARTFORD PUBLIC LIBRARY",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7623&mlon=-72.6744#map=15/41.7623/-72.6744",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7623,
+    "longitude": -72.6744
+  },
+  "url": "http://www.hplct.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900299",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

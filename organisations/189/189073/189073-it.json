@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189073
+  },
+  "name": "Museo civico di Chiusa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fraghes, 1",
+    "addressLocality": "Chiusa/Klausen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6387&mlon=11.5713#map=15/46.6387/11.5713",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6387,
+    "longitude": 11.5713
+  },
+  "url": "http://www.klausen.it",
+  "telephone": "+39 0472846148",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aprile - inizio novembre mar-sab ore 9.30-12 e 15.30-18",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/33nM-7yXOr4dQiJByO3RauQVTEU=/1000x1000/museums/logos/000/189/073/original/924b38cc28e7baf85cc486c726d3ab5ceafc864b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100534",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

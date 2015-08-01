@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186420
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Verbania, 1",
+    "addressLocality": "Sabaudia",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.299&mlon=13.0298#map=15/41.299/13.0298",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.299,
+    "longitude": 13.0298
+  },
+  "url": "http://www.comune.sabaudia.latina.it",
+  "telephone": "+39 0773511340",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aRpN-JdAnBalb68k6XVJfnfcMW8=/1000x1000/museums/logos/000/186/420/original/1e1a592d8d4ebd9b4666bed06a9512d8f651fc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101446",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

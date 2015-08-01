@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188943
+  },
+  "name": "Museo del carbonaio di Baggio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "di Baggio, 36a",
+    "addressLocality": "Pistoia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9555&mlon=10.9454#map=15/43.9555/10.9454",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9555,
+    "longitude": 10.9454
+  },
+  "url": "http://web.tiscali.it/museocarbonaio",
+  "telephone": "+39 057346422",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eB7ui31LPZ8PZuftNUTV8p5HZlc=/1000x1000/museums/logos/000/188/943/original/6857f296b4db91cca5841b43e2430271c4e9a6d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103220",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

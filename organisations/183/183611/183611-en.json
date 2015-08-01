@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183611
+  },
+  "name": "Europäisches Museum für Modernes Glas",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rosenau 10",
+    "addressLocality": "Rödental",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96472"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2959&mlon=11.0205#map=15/50.2959/11.0205",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2959,
+    "longitude": 11.0205
+  },
+  "url": "http://www.kunstsammlungen-coburg.de",
+  "telephone": "09563/1606",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183611",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

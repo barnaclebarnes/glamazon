@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150523
+  },
+  "name": "SCIENCENTER DISCOVERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "601 1ST ST",
+    "addressLocality": "ITHACA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14850-3507"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4495&mlon=-76.5048#map=15/42.4495/-76.5048",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4495,
+    "longitude": -76.5048
+  },
+  "url": "http://www.sciencenter.org",
+  "telephone": "+1 (607) 272-0600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601817",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

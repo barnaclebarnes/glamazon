@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150725
+  },
+  "name": "HISTORIC GRAND PRIX",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4 FINCH RD",
+    "addressLocality": "NORTH SALEM",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10560-1505"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.356&mlon=-73.5651#map=15/41.356/-73.5651",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.356,
+    "longitude": -73.5651
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602019",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

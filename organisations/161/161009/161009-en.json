@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161009
+  },
+  "name": "AMERICAN STUDIES CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1100 N GLEBE RD STE 900",
+    "addressLocality": "ARLINGTON",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22201-4798"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8837&mlon=-77.1166#map=15/38.8837/-77.1166",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8837,
+    "longitude": -77.1166
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100515",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

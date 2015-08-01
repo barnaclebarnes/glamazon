@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164370
+  },
+  "name": "The Knox School Archives",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8639&mlon=145.219#map=15/-37.8639/145.219",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8639,
+    "longitude": 145.219
+  },
+  "url": "http://www.knox.vic.edu.au",
+  "telephone": "(03) 8805 3800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "knox-school-archives",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/knox-school-archives",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

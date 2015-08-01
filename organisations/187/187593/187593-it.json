@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187593
+  },
+  "name": "Galleria \"Luigi Bosca\" d’arte moderna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giuliani, 21, ",
+    "addressLocality": "Canelli",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7236&mlon=8.28346#map=15/44.7236/8.28346",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7236,
+    "longitude": 8.28346
+  },
+  "url": "http://www.bosca.it",
+  "telephone": "+39 0141967711",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105820",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

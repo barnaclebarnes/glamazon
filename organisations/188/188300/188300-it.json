@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188300
+  },
+  "name": "Museo delle maschere mediterranee",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Europa, 15",
+    "addressLocality": "Mamoiada",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2116&mlon=9.28393#map=15/40.2116/9.28393",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2116,
+    "longitude": 9.28393
+  },
+  "url": "http://ww.museodellemaschere.it",
+  "telephone": "+39 0784 569018",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal martedi alla domenica 9.00/13.00 - 15.00/19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NvU2b2VzGEg4Ny0Om9eDMhxDFY8=/1000x1000/museums/logos/000/188/300/original/ca05cb163384193e625f53f9f2944c7713c3db.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103374",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

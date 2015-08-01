@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188765
+  },
+  "name": "Museo d'arte sacra di Campiglia Marittima",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Libertà, 15",
+    "addressLocality": "Campiglia Marittima",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0594&mlon=10.6173#map=15/43.0594/10.6173",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0594,
+    "longitude": 10.6173
+  },
+  "telephone": "+39 0565838788",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nZ3RFU-K-G5o_7GRonEehcyg-20=/1000x1000/museums/logos/000/188/765/original/8b7115df4be7dda363599c94d57f7b628949e9d4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103040",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

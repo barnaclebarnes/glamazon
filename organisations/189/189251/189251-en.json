@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189251
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Caprera, ",
+    "addressLocality": "Nocera Umbra",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.111&mlon=12.7901#map=15/43.111/12.7901",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.111,
+    "longitude": 12.7901
+  },
+  "url": "http://www.sistemamuseo.it",
+  "telephone": "+39 0742818640",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/g4DJk-exReQElfxGWCTP0GjXvQw=/1000x1000/museums/logos/000/189/251/original/3c7edd9688ead793992791643661799f289ab9a8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100721",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

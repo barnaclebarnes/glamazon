@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163495
+  },
+  "name": "ALLIANCE FOR HISTORIC WYOMING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 51201",
+    "addressLocality": "CASPER",
+    "addressRegion": "WY",
+    "addressCountry": "United States",
+    "postalCode": "82605"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8546&mlon=-106.282#map=15/42.8546/-106.282",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8546,
+    "longitude": -106.282
+  },
+  "url": "http://www.historicwyoming.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405600075",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158446
+  },
+  "name": "THE CONCHO COWBOY CO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "32 WEST 32ND STREET",
+    "addressLocality": "SAN ANGELO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76903-2314"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.4925&mlon=-100.457#map=15/31.4925/-100.457",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.4925,
+    "longitude": -100.457
+  },
+  "url": "http://www.conchocowboyco.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800546",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

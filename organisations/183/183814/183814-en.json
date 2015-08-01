@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183814
+  },
+  "name": "Kreismuseum Walderbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchstraße 5",
+    "addressLocality": "Walderbach",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93194"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1843&mlon=12.3783#map=15/49.1843/12.3783",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1843,
+    "longitude": 12.3783
+  },
+  "url": "http://www.kreismuseum-walderbach.de",
+  "telephone": "09464/676",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183814",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

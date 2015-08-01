@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150621
+  },
+  "name": "CHENANGO COUNTY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "45 REXFORD ST",
+    "addressLocality": "NORWICH",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13815-1121"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5371&mlon=-75.5195#map=15/42.5371/-75.5195",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5371,
+    "longitude": -75.5195
+  },
+  "url": "http://www.co.chenango.ny.us/historian/",
+  "telephone": "+1 (607) 337-1845",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601915",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

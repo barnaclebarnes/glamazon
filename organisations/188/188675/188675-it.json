@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188675
+  },
+  "name": "Villa Corsini a Castello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Petraia, 38",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8187&mlon=11.2351#map=15/43.8187/11.2351",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8187,
+    "longitude": 11.2351
+  },
+  "telephone": "+39 055450752",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal 1 aprile al 30 settembre 1°-3° ven . e tutti i sab. dalle 14 alle 18; 2^ e 4^ dom. di ogni mese dalle 9 alle 14. Dal 1 ottobre al 31 marzo 2^ e 4^ dom. di ogni mese dalle 9 alle ore 14.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IXfWt81-DoWv_9Oa0nQqiAjhqo0=/1000x1000/museums/logos/000/188/675/original/d6321e43b87ab5365633644e38319c0d6b6231.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20071",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186298
+  },
+  "name": "Museo geologico della Carnia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza zona libera della Carnia 1944, 5",
+    "addressLocality": "Ampezzo",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4163&mlon=12.7946#map=15/46.4163/12.7946",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4163,
+    "longitude": 12.7946
+  },
+  "url": "http://www.carniamusei.org",
+  "telephone": "+39 0433 811030 -  0433 487779 - 0433 80758",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ptnIkyTiNdB5NuweFVnaQivHsEo=/1000x1000/museums/logos/000/186/298/original/99b057693d1bb41affdd9b4e1ae2d5594c858fd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100262",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

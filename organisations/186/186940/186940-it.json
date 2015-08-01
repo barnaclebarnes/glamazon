@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186940
+  },
+  "name": "Museo della Valle di Cavargna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via alla Chiesa, 12/14",
+    "addressLocality": "Cavargna",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0925&mlon=9.11312#map=15/46.0925/9.11312",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0925,
+    "longitude": 9.11312
+  },
+  "url": "http://www.valcavargna.com/",
+  "telephone": "+39 031306205",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/os6EGflgPX-iAf_FWVNEt7ZP97s=/1000x1000/museums/logos/000/186/940/original/ff8a1718d33aaa110b4e482775f399ab472c51e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103607",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

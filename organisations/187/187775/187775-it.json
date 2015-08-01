@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187775
+  },
+  "name": "Sacro Monte di Orta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sacro Monte, ",
+    "addressLocality": "Orta San Giulio",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7974&mlon=8.41224#map=15/45.7974/8.41224",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7974,
+    "longitude": 8.41224
+  },
+  "url": "http://www.sacromonteorta.it",
+  "telephone": "+39 0322911960",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106741",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

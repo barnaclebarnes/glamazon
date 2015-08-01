@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185768
+  },
+  "name": "Ecomuseo del paesaggio della Valle del Raganello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Castellano",
+    "addressLocality": "Civita",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8288&mlon=16.3113#map=15/39.8288/16.3113",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8288,
+    "longitude": 16.3113
+  },
+  "url": "http://www.ecomuseoraganello.net",
+  "telephone": "+39 0981 73012",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni 09.00-13.00 e 16.00-19.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/thhNzROvM0gKs1jMKVne-fkdUXc=/1000x1000/museums/logos/000/185/768/original/19ff6fb230453b9a4a3d80e32792e18cab61e1db.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110939",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

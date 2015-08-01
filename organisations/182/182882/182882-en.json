@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182882
+  },
+  "name": "Jägerndorfer Heimatsammlungen Ansbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Martin-Luther-Platz 1",
+    "addressLocality": "Ansbach",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91522"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.3027&mlon=10.5723#map=15/49.3027/10.5723",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.3027,
+    "longitude": 10.5723
+  },
+  "url": "http://www.jaegerndorf-sudetenland.de",
+  "telephone": "08638/4767",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182882",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

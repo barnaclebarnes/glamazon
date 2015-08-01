@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183734
+  },
+  "name": "Leonhardi-Museum Aigen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Penninger Weg 7",
+    "addressLocality": "Bad Füssing",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94072"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.313&mlon=13.2631#map=15/48.313/13.2631",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.313,
+    "longitude": 13.2631
+  },
+  "url": "http://www.leonhardimuseum.de",
+  "telephone": "08537/91089",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183734",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

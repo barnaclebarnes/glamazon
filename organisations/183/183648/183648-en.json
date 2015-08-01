@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183648
+  },
+  "name": "Museum und Galerie der Stadt",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Holzheystraße 12",
+    "addressLocality": "Schwabmünchen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86830"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1808&mlon=10.7608#map=15/48.1808/10.7608",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1808,
+    "longitude": 10.7608
+  },
+  "url": "http://www.museum-schwabmuenchen.de",
+  "telephone": "08232/950260",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183648",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

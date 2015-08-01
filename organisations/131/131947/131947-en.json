@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131947
+  },
+  "name": "PI MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "923 ISLAND AVENUE",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7104&mlon=-117.156#map=15/32.7104/-117.156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7104,
+    "longitude": -117.156
+  },
+  "url": "http://www.pimuseum.org",
+  "telephone": "+1 (212) 542-0566",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602073",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

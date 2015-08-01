@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186771
+  },
+  "name": "Piccolo museo Pietro Rosa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Del Leone, 26",
+    "addressLocality": "Calice al Cornoviglio",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2431&mlon=9.83642#map=15/44.2431/9.83642",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2431,
+    "longitude": 9.83642
+  },
+  "url": "http://www.comune.calicealcornoviglio.sp.it",
+  "telephone": "+39 0187935644",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HaoGb5VgaI1HAC279Ipom_LuY3U=/1000x1000/museums/logos/000/186/771/original/bb297834e651e9345d3e9f4b17c3050797134fa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104888",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

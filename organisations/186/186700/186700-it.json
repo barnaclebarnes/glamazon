@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186700
+  },
+  "name": "Museo di fisica \"G. Boato\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Dodecaneso, 33",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.404&mlon=8.97168#map=15/44.404/8.97168",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.404,
+    "longitude": 8.97168
+  },
+  "url": "http://www.fisica.unige.it",
+  "telephone": "+39 0103536386",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100375",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

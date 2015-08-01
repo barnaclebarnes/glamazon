@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132312
+  },
+  "name": "HABITOT CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1563 SOLANO AVE 326",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94707-2116"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8911&mlon=-122.285#map=15/37.8911/-122.285",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8911,
+    "longitude": -122.285
+  },
+  "url": "http://www.habitot.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602438",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

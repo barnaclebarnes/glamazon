@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188149
+  },
+  "name": "Museo del grano di Cerignola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piano San Rocco , ",
+    "addressLocality": "Cerignola",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2639&mlon=15.8957#map=15/41.2639/15.8957",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2639,
+    "longitude": 15.8957
+  },
+  "telephone": "+39 0885420036",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TruFa9PGTv3N5WHvfzWg46xaMBs=/1000x1000/museums/logos/000/188/149/original/4b1abbab3618ad5ce3b7bb704650e42ecd6bfe78.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106341",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

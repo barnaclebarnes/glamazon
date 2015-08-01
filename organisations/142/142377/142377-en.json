@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142377
+  },
+  "name": "WILLIAMS COLLEGE MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MAIN STREET",
+    "addressLocality": "WILLIAMSTOWN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01267-2606"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7127&mlon=-73.205#map=15/42.7127/-73.205",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7127,
+    "longitude": -73.205
+  },
+  "telephone": "+1 (413) 597-2318",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/26731511265"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

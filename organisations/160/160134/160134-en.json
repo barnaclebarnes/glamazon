@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160134
+  },
+  "name": "DINOSAUR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "754 S 200 W",
+    "addressLocality": "BLANDING",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84511-3909"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.614&mlon=-109.482#map=15/37.614/-109.482",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.614,
+    "longitude": -109.482
+  },
+  "url": "http://www.dinosaur-museum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900200",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

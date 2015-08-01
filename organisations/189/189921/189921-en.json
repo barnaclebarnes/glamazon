@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189921
+  },
+  "name": "HARVARD MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "26 OXFORD STREET",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "2138"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5875&mlon=-122.663#map=15/45.5875/-122.663",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5875,
+    "longitude": -122.663
+  },
+  "url": "http://www.hmnh.harvard.edu/",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/20101645677"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/HarvardMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501105",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

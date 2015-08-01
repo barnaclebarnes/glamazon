@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132103
+  },
+  "name": "CLARKE MEMORIAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "240 E ST",
+    "addressLocality": "EUREKA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95501-0433"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8036&mlon=-124.168#map=15/40.8036/-124.168",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8036,
+    "longitude": -124.168
+  },
+  "url": "http://www.clarkemuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602229",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

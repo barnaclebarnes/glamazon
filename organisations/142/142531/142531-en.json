@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142531
+  },
+  "name": "CLARA BARTON BIRTHPLACE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "66 CLARA BARTON ROAD",
+    "addressLocality": "NORTH OXFORD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01537"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1541&mlon=-71.8909#map=15/42.1541/-71.8909",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1541,
+    "longitude": -71.8909
+  },
+  "url": "http://clarabartonbirthplace.org",
+  "telephone": "+1 (508) 987-2056",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500161",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

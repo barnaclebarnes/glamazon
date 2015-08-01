@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145870
+  },
+  "name": "CRANE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10665 OLD HWY 40",
+    "addressLocality": "WILLIAMSBURG",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63388"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9214&mlon=-91.7077#map=15/38.9214/-91.7077",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9214,
+    "longitude": -91.7077
+  },
+  "url": "http://cranesmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900299",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

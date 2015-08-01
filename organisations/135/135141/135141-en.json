@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135141
+  },
+  "name": "HERITAGE MUSEUM ASSOCIATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "115 WESTVIEW AVE",
+    "addressLocality": "VALPARAISO",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32580-1387"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.5047&mlon=-86.4898#map=15/30.5047/-86.4898",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.5047,
+    "longitude": -86.4898
+  },
+  "url": "http://www.heritage-museum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200696",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185585
+  },
+  "name": "Pinacoteca Patiniana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": " Palazzo De Petra, Via del Leone",
+    "addressLocality": "Castel di Sangro",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7459&mlon=14.0387#map=15/41.7459/14.0387",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7459,
+    "longitude": 14.0387
+  },
+  "url": "http://www.comune.casteldisangro.aq.it/",
+  "telephone": "+39 0864 8242202 / 0864 840837",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Giovedì e Venerdì ore 17.00-19.00; Sabato e Domenica ore 10.30-12.30 e 17.00-19.00.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "1,00 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UNs5IYnmJ0wNEzbKGkhK0aiMkDI=/1000x1000/museums/logos/000/185/585/original/e07436f3dfb08cbb8af64f89209a137b9871e15d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110798",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

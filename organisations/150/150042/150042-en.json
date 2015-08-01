@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150042
+  },
+  "name": "CASTILE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17 PARK ROAD EAST PO BOX 134",
+    "addressLocality": "CASTILE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14427"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6316&mlon=-78.0494#map=15/42.6316/-78.0494",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6316,
+    "longitude": -78.0494
+  },
+  "telephone": "+1 (585) 493-5370",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601336",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185888
+  },
+  "name": "Museo provinciale Murattiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Musolino , 1",
+    "addressLocality": "Pizzo",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7355&mlon=16.1603#map=15/38.7355/16.1603",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7355,
+    "longitude": 16.1603
+  },
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XfsATjYDAdWEUvqBDpDPUS5Ud0k=/1000x1000/museums/logos/000/185/888/original/8c901b42f0ebe886ca21eb41574d5d5820d0c4aa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108466",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

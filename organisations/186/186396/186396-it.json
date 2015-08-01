@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186396
+  },
+  "name": "Museo archeologico di Gaeta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Annunziata, 7",
+    "addressLocality": "Gaeta",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2126&mlon=13.5804#map=15/41.2126/13.5804",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2126,
+    "longitude": 13.5804
+  },
+  "telephone": "+39 0771 464293",
+  "contactPoint": [
+
+  ],
+  "openingHours": "16.30-19.30; anche a richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111265",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

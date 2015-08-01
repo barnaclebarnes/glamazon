@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139924
+  },
+  "name": "UNIVERSITY OF KANSAS CENTER FOR RESEARC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2385 IRVING HILL ROAD",
+    "addressLocality": "LAWRENCE",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66045-7568"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9518&mlon=-95.266#map=15/38.9518/-95.266",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9518,
+    "longitude": -95.266
+  },
+  "url": "http://www.nhm.ku.edu",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000250",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

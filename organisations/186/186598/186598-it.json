@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186598
+  },
+  "name": "Museo storico dell’arma dei Carabinieri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Risorgimento, 46",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9063&mlon=12.459#map=15/41.9063/12.459",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9063,
+    "longitude": 12.459
+  },
+  "url": "http://www.carabinieri.it/internet/arma/ieri/museo storico",
+  "telephone": "+39 066896696",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni della settimana dalle ore 08:30 alle ore 12:30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TXmx7XGLNbib7E_jSRSvWY20wII=/1000x1000/museums/logos/000/186/598/original/2cfa9ce09a90cbfc6f5d8673377643c492bc2f4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105522",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

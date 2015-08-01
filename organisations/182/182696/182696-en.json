@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182696
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Brunnenstraße 4",
+    "addressLocality": "Eltmann",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97483"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9722&mlon=10.6666#map=15/49.9722/10.6666",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9722,
+    "longitude": 10.6666
+  },
+  "url": "http://www.hassberge.de/837.html",
+  "telephone": "09522/6754",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182696",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

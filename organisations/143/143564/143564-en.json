@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143564
+  },
+  "name": "HUNTER HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 W MAPLE RD",
+    "addressLocality": "BIRMINGHAM",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48009"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5464&mlon=-83.2201#map=15/42.5464/-83.2201",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5464,
+    "longitude": -83.2201
+  },
+  "url": "http://hunterhousemuseum.org",
+  "telephone": "+1 (248) 647-7588",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600101",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

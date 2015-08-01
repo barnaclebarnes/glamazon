@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156501
+  },
+  "name": "RISD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "224 BENEFIT ST",
+    "addressLocality": "PROVIDENCE",
+    "addressRegion": "RI",
+    "addressCountry": "United States",
+    "postalCode": "02903"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8269&mlon=-71.4073#map=15/41.8269/-71.4073",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8269,
+    "longitude": -71.4073
+  },
+  "url": "http://www.risdmuseum.org",
+  "telephone": "+1 (401) 454-6500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400005",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

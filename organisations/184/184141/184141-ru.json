@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184141
+  },
+  "name": "National Library Gallery",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:peter.ireland@natlib.govt.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-41.277&mlon=174.779#map=15/-41.277/174.779",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -41.277,
+    "longitude": 174.779
+  },
+  "url": "http://www.natlib.govt.nz",
+  "telephone": "64-4-474 3000",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Понедельник Пятница 9 утра - 5 вечера СБ 9 утра - 4:30 pm Sun 1 pm - 4:30 pm",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Бесплатно"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/ru/museums/184141",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

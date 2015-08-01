@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150320
+  },
+  "name": "VILLAGE HALL OF WYOMING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 SOUTH ACADEMY STREET",
+    "addressLocality": "WYOMING",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14591-9728"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8272&mlon=-78.089#map=15/42.8272/-78.089",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8272,
+    "longitude": -78.089
+  },
+  "telephone": "+1 (716) 495-6616",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601614",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

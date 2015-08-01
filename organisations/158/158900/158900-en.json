@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158900
+  },
+  "name": "MUSEUM OF FINE ARTS HOUSTON",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1001 BISSONNET ST",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77005-1803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7261&mlon=-95.3906#map=15/29.7261/-95.3906",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7261,
+    "longitude": -95.3906
+  },
+  "url": "http://www.mfah.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801000",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

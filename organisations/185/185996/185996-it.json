@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185996
+  },
+  "name": "Museo dell'Osservatorio vesuviano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dell'Osservatorio snc, ",
+    "addressLocality": "Ercolano",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8061&mlon=14.3529#map=15/40.8061/14.3529",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8061,
+    "longitude": 14.3529
+  },
+  "url": "http://www.ov.ingv.it",
+  "telephone": "+39 0816108483",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Hc646fWtO7b2iXRp1tpTRm2vz4o=/1000x1000/museums/logos/000/185/996/original/b4dc729f1faab4a987923c99a2435d239830e4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101876",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

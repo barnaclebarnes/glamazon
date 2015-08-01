@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182760
+  },
+  "name": "Museum im Schloss Friedberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßstraße 21",
+    "addressLocality": "Friedberg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86316"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3577&mlon=10.9787#map=15/48.3577/10.9787",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3577,
+    "longitude": 10.9787
+  },
+  "url": "http://www.museum-friedberg.de",
+  "telephone": "0821/6002148",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182760",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

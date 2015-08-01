@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184289
+  },
+  "name": "Coaltown Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:info@coaltown.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-41.7541&mlon=171.599#map=15/-41.7541/171.599",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -41.7541,
+    "longitude": 171.599
+  },
+  "url": "http://www.coaltown.co.nz",
+  "telephone": "+64 3 789 6658",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Abierto los 7 días a la semana de mayo – horario de invierno de septiembre 10:00 a 16:00 los fines de semana y días laborables de 9:00 a 17:00 de octubre - horario de verano de abril 9:00-17:00 7 días a la semana",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Adults\t$15.00\r\nSenior Citizens\t$13.50\r\nStudents 16y+\t$13.50\r\nChildren\t$7\r\nFamily Pass 2A\r\n+ up to 3C\t$38\r\nPre School\tFree"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/es/museums/184289",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163281
+  },
+  "name": "COUNTY OF BROWN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "210 MUSEUM PLACE",
+    "addressLocality": "GREEN BAY",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "54303"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5177&mlon=-88.0193#map=15/44.5177/-88.0193",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5177,
+    "longitude": -88.0193
+  },
+  "telephone": "+1 (920) 434-2632",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500730",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

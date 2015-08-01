@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183634
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lautererstraße 6",
+    "addressLocality": "Schliersee",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83727"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7345&mlon=11.8633#map=15/47.7345/11.8633",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7345,
+    "longitude": 11.8633
+  },
+  "url": "http://www.schliersee.de/heimatmuseum.html",
+  "telephone": "08026/2329",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183634",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

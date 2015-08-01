@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188306
+  },
+  "name": "Museo Nivola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gonare, 2",
+    "addressLocality": "Orani",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2474&mlon=9.18088#map=15/40.2474/9.18088",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2474,
+    "longitude": 9.18088
+  },
+  "url": "http://www.museonivola.it",
+  "telephone": "+39 0784 730063",
+  "contactPoint": [
+
+  ],
+  "openingHours": "inv. dal 1 ott. al 31 mar.10,00/13,00 - 15,30/19,00 est. dal 1 apr. al 30 sett. 10,00/13,00- 16,30/20,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zpoazeH_jiyvFG2Au10dGRdRJpU=/1000x1000/museums/logos/000/188/306/original/f5aea8cf935364644f4dea1276ee82982ef5f3d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103381",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

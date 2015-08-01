@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185555
+  },
+  "name": "Raccolta comunale di beni culturali di Crecchio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, ",
+    "addressLocality": "Crecchio",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.297&mlon=14.3263#map=15/42.297/14.3263",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.297,
+    "longitude": 14.3263
+  },
+  "telephone": "+39 0871941310",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100047",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

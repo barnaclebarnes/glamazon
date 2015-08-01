@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186217
+  },
+  "name": "Museo paleontologico comunale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Maggiore, 1, ",
+    "addressLocality": "Mondaino",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.856&mlon=12.6715#map=15/43.856/12.6715",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.856,
+    "longitude": 12.6715
+  },
+  "url": "http://www.mondaino.com",
+  "telephone": "+39 0541981674",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/z8A0xz9W6AdiT2Q8e0jltfkA048=/1000x1000/museums/logos/000/186/217/original/7aa8186f244ec444f08a1acfa46af6c31712c0e3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102278",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

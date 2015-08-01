@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149035
+  },
+  "name": "EMPIRE STATE PLAZA ART COLL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2978 CORNING TOWER",
+    "addressLocality": "ALBANY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12242"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6521&mlon=-73.7578#map=15/42.6521/-73.7578",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6521,
+    "longitude": -73.7578
+  },
+  "url": "http://ogs.ny.gov/plaza/",
+  "telephone": "+1 (518) 473-7521",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600329",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

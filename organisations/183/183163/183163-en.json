@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183163
+  },
+  "name": "Museum Kloster Asbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kloster Asbach",
+    "addressLocality": "Rotthalmünster",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94094"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3963&mlon=13.1782#map=15/48.3963/13.1782",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3963,
+    "longitude": 13.1782
+  },
+  "url": "http://www.museum-asbach.eu",
+  "telephone": "08533/2300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183163",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

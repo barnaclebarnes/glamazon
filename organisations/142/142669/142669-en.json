@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142669
+  },
+  "name": "JOHN WOODMAN HIGGINS ARMORY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 BARBER AVE",
+    "addressLocality": "WORCESTER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01606-2464"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2981&mlon=-71.7984#map=15/42.2981/-71.7984",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2981,
+    "longitude": -71.7984
+  },
+  "url": "http://www.higgins.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500299",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

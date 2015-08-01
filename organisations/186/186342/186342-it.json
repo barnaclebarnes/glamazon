@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186342
+  },
+  "name": "Museo del territorio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Udine, 4",
+    "addressLocality": "San Daniele del Friuli",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "url": "http://www.comune.sandanieledelfriuli.ud.it",
+  "telephone": "+39 0432954484",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HLhNM1SFsCN5jFTsHLlN0gprdn8=/1000x1000/museums/logos/000/186/342/original/ce203c8c42be2efbb1951a386e9923115dd5d54d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100311",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

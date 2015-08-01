@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143041
+  },
+  "name": "LITTLETON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 721",
+    "addressLocality": "LITTLETON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01460-2721"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5402&mlon=-71.4758#map=15/42.5402/-71.4758",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5402,
+    "longitude": -71.4758
+  },
+  "url": "http://www.littletonhistoricalsociety.org",
+  "telephone": "+1 (978) 486-8202",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500671",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187992
+  },
+  "name": "Museo dell'arte del cappello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Belvedere, 279, ",
+    "addressLocality": "Ghiffa",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9638&mlon=8.62267#map=15/45.9638/8.62267",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9638,
+    "longitude": 8.62267
+  },
+  "url": "http://www.museodellartedelcappello.it",
+  "telephone": "+39 032359209",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102804",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

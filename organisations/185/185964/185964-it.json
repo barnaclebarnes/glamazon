@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185964
+  },
+  "name": "Museo d’arte contemporanea di Caserta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo San Sebastiano, 10; sede distaccata: Real Belvedere di San Leucio, 6",
+    "addressLocality": "Caserta",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0999&mlon=14.3159#map=15/41.0999/14.3159",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0999,
+    "longitude": 14.3159
+  },
+  "url": "http://www.comune.caserta.it/index.php?id_sezione=594&sid=96f8888074759c02e95b279132b62bff",
+  "telephone": "+39 0823 273803",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kZAgR4B28RJntn5rhQ4olm1rG0Y=/1000x1000/museums/logos/000/185/964/original/fed8c2b5312bae8714bd43f982326c9e8e8b4de.png"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107079",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

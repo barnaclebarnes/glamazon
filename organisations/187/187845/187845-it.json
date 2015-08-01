@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187845
+  },
+  "name": "M.A.C.A.M. - Museo d'arte contemporanea all'aperto di Maglione",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello, 2, ",
+    "addressLocality": "Maglione",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3466&mlon=8.01162#map=15/45.3466/8.01162",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3466,
+    "longitude": 8.01162
+  },
+  "url": "http://www.macam.org",
+  "telephone": "+39 0161400113",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102703",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

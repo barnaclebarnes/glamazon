@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186881
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Adro, 37",
+    "addressLocality": "Capriolo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6326&mlon=9.94107#map=15/45.6326/9.94107",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6326,
+    "longitude": 9.94107
+  },
+  "url": "http://www.riccicurbastro.it",
+  "telephone": "+39 030736094",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/E2Tahi5Tvn6jKm7ElHnWxFtMvdE=/1000x1000/museums/logos/000/186/881/original/ad792f11553ec80fff6b7d45d31a2c7558ffed.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103560",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

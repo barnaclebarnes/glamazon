@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183097
+  },
+  "name": "Stadtmuseum Lindau",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 6",
+    "addressLocality": "Lindau",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "88131"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5471&mlon=9.68655#map=15/47.5471/9.68655",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5471,
+    "longitude": 9.68655
+  },
+  "url": "http://www.kultur-lindau.de/stadtmuseum/",
+  "telephone": "08382/944073",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183097",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

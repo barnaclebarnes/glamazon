@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132626
+  },
+  "name": "REDONDO BEACH HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 978",
+    "addressLocality": "REDONDO BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90277"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8319&mlon=-118.386#map=15/33.8319/-118.386",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8319,
+    "longitude": -118.386
+  },
+  "url": "http://www.redondobeachhistorical.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602752",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

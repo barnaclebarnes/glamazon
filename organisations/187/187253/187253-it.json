@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187253
+  },
+  "name": "Museo di \"San Clemente\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza S. Clemente, 2",
+    "addressLocality": "Genga",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4287&mlon=12.9359#map=15/43.4287/12.9359",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4287,
+    "longitude": 12.9359
+  },
+  "telephone": "+39 +39 073290090",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da Lun. a Ven. - 15.00-18.00 - Sab. Dom. 11.00-18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104056",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

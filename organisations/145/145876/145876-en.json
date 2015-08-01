@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145876
+  },
+  "name": "THE STEPHENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "411 CENTRAL METHODIST SQUARE",
+    "addressLocality": "FAYETTE",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "65248"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1481&mlon=-92.685#map=15/39.1481/-92.685",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1481,
+    "longitude": -92.685
+  },
+  "url": "http://www.centralmethodist.edu/about/museum.php",
+  "telephone": "+1 (660) 248-3391",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900305",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

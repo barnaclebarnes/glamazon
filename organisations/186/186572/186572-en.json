@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186572
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sant'Egidio, ",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8899&mlon=12.4691#map=15/41.8899/12.4691",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8899,
+    "longitude": 12.4691
+  },
+  "url": "http://www.comune.roma.it/museodiroma.trastevere",
+  "telephone": "+39 065899359",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hxwA9Qr_NwE43lBsUxt6hXoy1Q0=/1000x1000/museums/logos/000/186/572/original/774187e15a9338470a0a1515dce91e98bf9ff46.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101574",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

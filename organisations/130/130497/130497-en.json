@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130497
+  },
+  "name": "BRADFORD HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "136 E PALM DR",
+    "addressLocality": "PLACENTIA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92870"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8891&mlon=-117.865#map=15/33.8891/-117.865",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8891,
+    "longitude": -117.865
+  },
+  "url": "http://www.bradfordhouse.com",
+  "telephone": "+1 (714) 993-2470",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/A._S._Bradford_House",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600623",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

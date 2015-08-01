@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152307
+  },
+  "name": "MUSEUM GALLERY/GALLERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1218 SYCAMORE ST",
+    "addressLocality": "CINCINNATI",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1098&mlon=-84.5102#map=15/39.1098/-84.5102",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1098,
+    "longitude": -84.5102
+  },
+  "url": "http://www.mg-gm.com",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/191809037201"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900084",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

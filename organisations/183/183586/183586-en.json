@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183586
+  },
+  "name": "Lokschuppen Rosenheim",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausstraße 24",
+    "addressLocality": "Rosenheim",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83022"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8527&mlon=12.1283#map=15/47.8527/12.1283",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8527,
+    "longitude": 12.1283
+  },
+  "url": "http://www.lokschuppen.de",
+  "telephone": "08031/365-9036",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/Lokschuppen"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/lokschuppenro"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183586",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

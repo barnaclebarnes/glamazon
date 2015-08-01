@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183934
+  },
+  "name": "Friedensmuseum Nürnberg e.V.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kaulbachstr. 2",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90408"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4628&mlon=11.0771#map=15/49.4628/11.0771",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4628,
+    "longitude": 11.0771
+  },
+  "url": "http://www.friedensmuseum.odn.de",
+  "telephone": "0911/3609577",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183934",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

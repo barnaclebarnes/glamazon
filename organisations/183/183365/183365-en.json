@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183365
+  },
+  "name": "Albrecht-Dürer-Haus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Albrecht-Dürer-Straße 39",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90403"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4572&mlon=11.0739#map=15/49.4572/11.0739",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4572,
+    "longitude": 11.0739
+  },
+  "url": "http://www.museen.nuernberg.de/duererhaus/index.html",
+  "telephone": "0911/231-2568",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183365",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

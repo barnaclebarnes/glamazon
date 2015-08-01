@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190114
+  },
+  "name": "MUSEUM OF THE ALBEMARLE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "501 S. WATER ST",
+    "addressLocality": "ELIZABETH CITY",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27909-7629"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4458&mlon=-76.4851#map=15/42.4458/-76.4851",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4458,
+    "longitude": -76.4851
+  },
+  "url": "http://www.ncdcr.gov/ncmoa/",
+  "telephone": "+1 (252) 335-1453",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/244675596533"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700917",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

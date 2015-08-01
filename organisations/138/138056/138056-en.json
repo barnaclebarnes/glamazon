@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138056
+  },
+  "name": "UNIVERSITY OF ILLINOIS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MB 502, (MC 551)",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60612-7205"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8702&mlon=-87.6715#map=15/41.8702/-87.6715",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8702,
+    "longitude": -87.6715
+  },
+  "url": "http://www.kam.illinois.edu",
+  "telephone": "+1 (434) 666-3722",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701201",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

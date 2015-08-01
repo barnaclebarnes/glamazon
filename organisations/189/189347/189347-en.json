@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189347
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Bernardo, 12",
+    "addressLocality": "Narni",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5205&mlon=12.5144#map=15/42.5205/12.5144",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5205,
+    "longitude": 12.5144
+  },
+  "url": "http://www.narnisotterranea.it",
+  "telephone": "+39 0744722292",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/T3lRjp3Ohzec4F-Psx5dPNPpvjM=/1000x1000/museums/logos/000/189/347/original/c0bcbc593f6284c7b92ddd43a88f48b72eff9ecb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100781",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

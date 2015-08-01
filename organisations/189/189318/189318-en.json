@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189318
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guglielmi, ",
+    "addressLocality": "Tuoro sul Trasimeno",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1762&mlon=12.09#map=15/43.1762/12.09",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1762,
+    "longitude": 12.09
+  },
+  "url": "http://www.lagodarte.com",
+  "telephone": "+39 0758254233",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xoW8aHaYYQcVLQAc9wurGxWMpak=/1000x1000/museums/logos/000/189/318/original/41a94a8441e55c1bcfdab7fe0885e5fb547e369.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100763",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

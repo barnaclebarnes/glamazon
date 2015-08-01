@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129717
+  },
+  "name": "MUSEUM OF DISCOVERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 PRES CLINTON AVE STE 150",
+    "addressLocality": "LITTLE ROCK",
+    "addressRegion": "AR",
+    "addressCountry": "United States",
+    "postalCode": "72201-1757"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.7474&mlon=-92.2654#map=15/34.7474/-92.2654",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.7474,
+    "longitude": -92.2654
+  },
+  "url": "http://www.museumofdiscovery.org",
+  "telephone": "+1 (501) 396-7050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400500153",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183694
+  },
+  "name": "Heimatmuseum Stein in Mittelfranken",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mühlstraße 1",
+    "addressLocality": "Stein",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90547"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4157&mlon=11.0175#map=15/49.4157/11.0175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4157,
+    "longitude": 11.0175
+  },
+  "url": "http://www.heimat-und-kulturverein-stein.de",
+  "telephone": "0911/6804757",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183694",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

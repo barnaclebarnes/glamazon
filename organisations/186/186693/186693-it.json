@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186693
+  },
+  "name": "Museo dei beni culturali cappuccini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale IV Novembre, 5",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4081&mlon=8.93948#map=15/44.4081/8.93948",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4081,
+    "longitude": 8.93948
+  },
+  "url": "http://www.bccgenova.org",
+  "telephone": "+39 010580652",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato e domenica dalle 15.00 alle 18.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NqrzlloFD04tOh32hDdutIQe_4Y=/1000x1000/museums/logos/000/186/693/original/29227716f8f9eac01c2af99c95b53247b38611ca.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100372",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

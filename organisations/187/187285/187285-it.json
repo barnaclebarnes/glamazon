@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187285
+  },
+  "name": "Lapidario di Ascoli Piceno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Arringo, 7",
+    "addressLocality": "Ascoli Piceno",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8535&mlon=13.5767#map=15/42.8535/13.5767",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8535,
+    "longitude": 13.5767
+  },
+  "url": "http://www.turismo.marche.it",
+  "telephone": "+39 0736 298282",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mart-giov 10-13; merc-ven 15-18; sab-dom (festivi e prefestivi) 10-19.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111448",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

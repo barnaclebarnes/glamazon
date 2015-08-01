@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148447
+  },
+  "name": "NEW MEXICO MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "107 W PALACE AVE",
+    "addressLocality": "SANTA FE",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.6878&mlon=-105.938#map=15/35.6878/-105.938",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.6878,
+    "longitude": -105.938
+  },
+  "url": "http://www.nmartmuseum.org",
+  "telephone": "+1 (505) 476-5072",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/NewMexicoMuseumArt"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/NMMuseumofArt"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500037",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

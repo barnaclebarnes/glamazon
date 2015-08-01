@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152525
+  },
+  "name": "THOMAS EDISON BIRTHPLACE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 451",
+    "addressLocality": "MILAN",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44846-0451"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3&mlon=-82.6041#map=15/41.3/-82.6041",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3,
+    "longitude": -82.6041
+  },
+  "url": "http://www.tomedison.org/",
+  "telephone": "+1 (419) 499-2135",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900302",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

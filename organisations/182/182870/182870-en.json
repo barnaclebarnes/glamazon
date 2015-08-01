@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182870
+  },
+  "name": "Neues Schloss Herrenchiemsee",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Herrenchiemsee 1",
+    "addressLocality": "Herrenchiemsee",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83209"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8604&mlon=12.4019#map=15/47.8604/12.4019",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8604,
+    "longitude": 12.4019
+  },
+  "url": "http://www.herren-chiemsee.de/deutsch/n_schloss/index.htm",
+  "telephone": "08051/6887-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182870",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

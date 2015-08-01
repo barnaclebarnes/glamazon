@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185767
+  },
+  "name": "Museo dei Bretti e del Mare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Popolo, Palazzo del Trono , 11",
+    "addressLocality": "Cetraro",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5168&mlon=15.941#map=15/39.5168/15.941",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5168,
+    "longitude": 15.941
+  },
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cYb0q4Cr0bDXRh4MnCRxGfzVIZU=/1000x1000/museums/logos/000/185/767/original/b4497684b15194116ae43a9c9d3c11892d079ca.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108276",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

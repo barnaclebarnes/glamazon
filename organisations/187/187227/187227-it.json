@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187227
+  },
+  "name": "Museo diocesano \"Mons. Cesare Recanatini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 9",
+    "addressLocality": "Ancona",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.625&mlon=13.5101#map=15/43.625/13.5101",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.625,
+    "longitude": 13.5101
+  },
+  "url": "http://www.diocesi.ancona.it",
+  "telephone": "+39 071200391",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da Ottobre ad Aprile: Sabato e Domenica 10.00 – 12.30 / 15.00 – 18.00 Da Maggio a Settembre: Sabato e Domenica 10.00 – 12.30 / 16.00 – 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Ingresso libero con visite guidate"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105689",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

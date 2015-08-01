@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186263
+  },
+  "name": "Museo di Muggia e del territorio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Calle Oberdan, 14",
+    "addressLocality": "Muggia",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6038&mlon=13.7679#map=15/45.6038/13.7679",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6038,
+    "longitude": 13.7679
+  },
+  "telephone": "+39 0403360340",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aF6qtRAdvF6KVuBek5i6QWxPvkI=/1000x1000/museums/logos/000/186/263/original/6345ddc4ec70d6b5315d87a2752b9b4b5445d024.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100224",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

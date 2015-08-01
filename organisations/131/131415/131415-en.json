@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131415
+  },
+  "name": "CENTRAL CALIFORNIA KOREAN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1674 E SHADOW GLEN DR",
+    "addressLocality": "FRESNO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93730-3531"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8898&mlon=-119.752#map=15/36.8898/-119.752",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8898,
+    "longitude": -119.752
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Korean_American_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601541",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

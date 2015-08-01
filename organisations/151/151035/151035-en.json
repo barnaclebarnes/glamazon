@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151035
+  },
+  "name": "MUSEUM OF MAGIC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 297037",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11229-7037"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5997&mlon=-73.9484#map=15/40.5997/-73.9484",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5997,
+    "longitude": -73.9484
+  },
+  "url": "http://www.museumofmagic.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602329",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

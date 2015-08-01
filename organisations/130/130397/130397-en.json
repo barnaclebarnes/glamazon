@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130397
+  },
+  "name": "CRAFT AND FOLK ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5800 WILSHIRE BLVD.",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90036"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0624&mlon=-118.355#map=15/34.0624/-118.355",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0624,
+    "longitude": -118.355
+  },
+  "url": "http://www.cafam.org",
+  "telephone": "+1 (323) 937-4230",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/CAFAM"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/WeAreFolk"
+    }
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/a-VvZKrnqh8XvRWPO3SimjxNnFw=/1000x1000/museums/logos/000/130/397/original/CAFAM_Exterior.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Craft_and_Folk_Art_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600523",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189105
+  },
+  "name": "Museo delle miniere - area museale Monteneve",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giovo, 1",
+    "addressLocality": "Racines/Ratschings",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.885&mlon=11.4116#map=15/46.885/11.4116",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.885,
+    "longitude": 11.4116
+  },
+  "url": "http://www.museominiere.it",
+  "telephone": "+39 0472656364",
+  "contactPoint": [
+
+  ],
+  "openingHours": "26 marzo - 3 novembre 2013 Martedi - domenica dalle 9.30 alle 16.30. Nel mese di agosto e giorni festivi aperto anche di lunedi!",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 10.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/blsAf6OyScmD7edp_oBZ9vtTF-8=/1000x1000/museums/logos/000/189/105/original/3f54f7303c135b7f60924f5364991defa6d23448.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100556",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

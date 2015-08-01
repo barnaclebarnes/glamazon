@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183111
+  },
+  "name": "Heimatmuseum Markt Schwaben",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bahnhofstraße 28",
+    "addressLocality": "Markt Schwaben",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85570"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1939&mlon=11.864#map=15/48.1939/11.864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1939,
+    "longitude": 11.864
+  },
+  "url": "http://www.markt-schwaben.de/index.php?id=0,123",
+  "telephone": "08121/3252",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183111",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

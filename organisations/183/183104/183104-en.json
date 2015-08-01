@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183104
+  },
+  "name": "Rieser Bauernmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klosterhof 3 und 8",
+    "addressLocality": "Maihingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86747"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.929&mlon=10.4914#map=15/48.929/10.4914",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.929,
+    "longitude": 10.4914
+  },
+  "url": "http://www.rieser-bauernmuseum.de",
+  "telephone": "09087/920717-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183104",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

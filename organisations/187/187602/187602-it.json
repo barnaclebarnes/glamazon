@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187602
+  },
+  "name": "Museo arti e mestieri di un tempo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Castello Medioevale, Piazza Maggiore Hope 1, ",
+    "addressLocality": "Cisterna d'Asti",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8251&mlon=8.00384#map=15/44.8251/8.00384",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8251,
+    "longitude": 8.00384
+  },
+  "url": "http://www.museoartiemestieri.it",
+  "telephone": "+39 0141979021",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WJIcW4YG5_n_3dK3I4rsBuPOqvo=/1000x1000/museums/logos/000/187/602/original/a295d6f775709e8a8069c13a4ad27aed930c92e.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102495",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

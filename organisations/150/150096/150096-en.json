@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150096
+  },
+  "name": "NAPLES HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 489",
+    "addressLocality": "NAPLES",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14512-0489"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.618&mlon=-77.4006#map=15/42.618/-77.4006",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.618,
+    "longitude": -77.4006
+  },
+  "telephone": "+1 (585) 374-6752",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601390",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

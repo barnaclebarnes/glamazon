@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186300
+  },
+  "name": "Museo archeologico nazionale di Aquileia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 1, ",
+    "addressLocality": "Aquileia",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.768&mlon=13.3684#map=15/45.768/13.3684",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.768,
+    "longitude": 13.3684
+  },
+  "url": "http://www.museoarcheologicoaquileia.beniculturali.it/",
+  "telephone": "+39 043191016 043191035 (Direzione)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal martedì alla domenica dalle 8.30 alle 19.30, con chiusura cassa alle 19.00. Chiuso il 25 dicembre, l'1 gennaio e l'1 maggio",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AJrY_q45KYz-D2dUHtyK5A1X1oM=/1000x1000/museums/logos/000/186/300/original/1c27656964848eaa681feebcfd456ea718d6bb4d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20332",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

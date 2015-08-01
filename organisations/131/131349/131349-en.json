@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131349
+  },
+  "name": "OAKLAND MUSEUM OF CALIFORNIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 OAK STREET",
+    "addressLocality": "OAKLAND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94607-4820"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7989&mlon=-122.264#map=15/37.7989/-122.264",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7989,
+    "longitude": -122.264
+  },
+  "url": "http://www.museumca.org",
+  "telephone": "+1 (510) 318-8400",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/E89U3sO7Fdu4KkyS4W3wXyMKJC0=/1000x1000/museums/logos/000/131/349/original/Albert_Bierstadt_Yosemite_Valley_1868.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Oakland_Museum_of_California",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601475",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

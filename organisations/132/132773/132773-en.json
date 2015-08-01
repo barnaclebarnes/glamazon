@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132773
+  },
+  "name": "CALIFORNIA LIVING MUSEUM (CALM)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10500 ALFRED HARRELL HWY.",
+    "addressLocality": "BAKERSFIELD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93306"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.4458&mlon=-118.917#map=15/35.4458/-118.917",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.4458,
+    "longitude": -118.917
+  },
+  "url": "http://www.calmzoo.org",
+  "telephone": "+1 (661) 872-2256",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602899",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

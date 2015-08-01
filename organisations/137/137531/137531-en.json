@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137531
+  },
+  "name": "SEWARD HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO 44",
+    "addressLocality": "SEWARD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61077"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.236&mlon=-89.358#map=15/42.236/-89.358",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.236,
+    "longitude": -89.358
+  },
+  "url": "http://www.aeroinc.net/users/sewardnet/sewardhistorical.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700676",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

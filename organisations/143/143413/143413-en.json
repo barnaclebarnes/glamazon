@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143413
+  },
+  "name": "HISTORIC WINSLOW HOUSE ASSOCIATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 CANAL ST",
+    "addressLocality": "MARSHFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02050-4212"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0735&mlon=-70.6554#map=15/42.0735/-70.6554",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0735,
+    "longitude": -70.6554
+  },
+  "url": "http://www.winslowhouse.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501043",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

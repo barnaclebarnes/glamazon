@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186535
+  },
+  "name": "MACRO Museo d'Arte Contemporanea Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nizza, 138",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9137&mlon=12.503#map=15/41.9137/12.503",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9137,
+    "longitude": 12.503
+  },
+  "url": "http://www.macro.roma.museum",
+  "telephone": "+39 06671070400",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/D6IowfFW1iqNyKQT4Ln7iZSzCEA=/1000x1000/museums/logos/000/186/535/original/db602acbb960fe8ac2677e30dad8b7c43568a63a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101531",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

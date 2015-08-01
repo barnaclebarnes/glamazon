@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189335
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavour, ",
+    "addressLocality": "Castel Viscardo",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7546&mlon=12.0022#map=15/42.7546/12.0022",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7546,
+    "longitude": 12.0022
+  },
+  "telephone": "+39 0763361010",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sRmsWF3s1azaJH70OkI-h5dSZkM=/1000x1000/museums/logos/000/189/335/original/31e89aaa7d35f74fd8245bcf7b92a86c58268b6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100772",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

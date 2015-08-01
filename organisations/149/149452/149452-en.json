@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149452
+  },
+  "name": "NEW YORK HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "170 CENTRAL PARK W",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10024-5152"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.779&mlon=-73.9739#map=15/40.779/-73.9739",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.779,
+    "longitude": -73.9739
+  },
+  "url": "http://www.nyhistory.org",
+  "telephone": "+1 (212) 873-3400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600746",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

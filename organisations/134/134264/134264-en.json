@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134264
+  },
+  "name": "KREEGER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2401 FOXHALL ROAD NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9222&mlon=-77.0895#map=15/38.9222/-77.0895",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9222,
+    "longitude": -77.0895
+  },
+  "url": "http://www.kreegermuseum.org/",
+  "telephone": "+1 (202) 337-3050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100045",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

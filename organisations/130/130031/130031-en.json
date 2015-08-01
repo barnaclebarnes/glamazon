@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130031
+  },
+  "name": "OAKDALE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "212 W F ST",
+    "addressLocality": "OAKDALE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95361"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7651&mlon=-120.851#map=15/37.7651/-120.851",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7651,
+    "longitude": -120.851
+  },
+  "url": "http://www.hieoakdale.com",
+  "telephone": "+1 (209) 847-9229",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600157",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

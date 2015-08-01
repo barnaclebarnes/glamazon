@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164042
+  },
+  "name": "Maffra Sugarbeet Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9678&mlon=146.974#map=15/-37.9678/146.974",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9678,
+    "longitude": 146.974
+  },
+  "url": "http://www.maffra.net.au/heritage/musmaf.htm",
+  "telephone": "0418 573 828",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Museum 10am to 2pm first Sunday of the month, Archives at Maffra Library 1pm to 3pm Thursdays.",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "maffra-sugarbeet-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/maffra-sugarbeet-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

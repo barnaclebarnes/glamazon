@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187101
+  },
+  "name": "Triennale di Milano - Triennale design museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Alemagna, 6",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4718&mlon=9.17371#map=15/45.4718/9.17371",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4718,
+    "longitude": 9.17371
+  },
+  "url": "http://www.triennale.it",
+  "telephone": "+39 02724341",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/m0EURshsDnyspHcDDeKv4o8eU30=/1000x1000/museums/logos/000/187/101/original/1e1da3ef20cf323fdabf38bb97bcc5e3672efe.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103699",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

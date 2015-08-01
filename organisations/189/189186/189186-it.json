@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189186
+  },
+  "name": "Museo Pericle Fazzini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Garibaldi, Santa Maria degli Angeli, 1/C",
+    "addressLocality": "Assisi",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0585&mlon=12.5793#map=15/43.0585/12.5793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0585,
+    "longitude": 12.5793
+  },
+  "url": "http://www.museo.periclefazzini.it",
+  "telephone": "+39 0758044586",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DzH9DtlxGjGCp6FjNrD3Cehm8X0=/1000x1000/museums/logos/000/189/186/original/831129b6c7811c1be7bb4bf18923111e2f5e9f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100676",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

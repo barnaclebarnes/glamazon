@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183834
+  },
+  "name": "Dorfmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ohrnbachtalstraße 23",
+    "addressLocality": "Weilbach",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63937"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6745&mlon=9.1764#map=15/49.6745/9.1764",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6745,
+    "longitude": 9.1764
+  },
+  "telephone": "09373/2741",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183834",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

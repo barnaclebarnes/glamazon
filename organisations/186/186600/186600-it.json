@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186600
+  },
+  "name": "Museo storico nazionale dell'arte sanitaria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lungotevere in Sassia, 3",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9003&mlon=12.4628#map=15/41.9003/12.4628",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9003,
+    "longitude": 12.4628
+  },
+  "url": "http://www.sameint.it/accade/museo.htm",
+  "telephone": "+39 06 6893051 /06 6787864",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xt6mpJ3fqFk0OO-EIXqIbIb-XG8=/1000x1000/museums/logos/000/186/600/original/c07f8d3ae55b7734862e369e69acc6cf3ff9cc7.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101597",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

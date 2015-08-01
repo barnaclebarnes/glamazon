@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145502
+  },
+  "name": "MISSISSIPPI CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 55409",
+    "addressLocality": "JACKSON",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "39296-5409"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.3345&mlon=-90.1756#map=15/32.3345/-90.1756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.3345,
+    "longitude": -90.1756
+  },
+  "url": "http://www.mississippichildrensmuseum.com",
+  "telephone": "+1 (601) 981-5469",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800209",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

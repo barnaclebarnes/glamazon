@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186729
+  },
+  "name": "Museo degli alpini di Savignone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via alpino Angelo Caprile, 12",
+    "addressLocality": "Savignone",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5637&mlon=8.98796#map=15/44.5637/8.98796",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5637,
+    "longitude": 8.98796
+  },
+  "url": "http://www.alpinigenova.org",
+  "telephone": "+39 010936930",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100402",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

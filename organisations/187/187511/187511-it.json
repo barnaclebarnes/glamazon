@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187511
+  },
+  "name": "Museo civico della pietra \"Chiara Marinelli\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Leonardo Da Vinci, 1",
+    "addressLocality": "Pescopennataro",
+    "addressRegion": "Molise",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8806&mlon=14.2511#map=15/41.8806/14.2511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8806,
+    "longitude": 14.2511
+  },
+  "url": "http://www.almosava.it/la-lavorazione-della-pietra-di-pescopennataro/",
+  "telephone": "+39 0865941131",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedi a venedi dalle ore 9,00 alle ore 12,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Qi92d7hNJO16XdeCIDYF3eokaNI=/1000x1000/museums/logos/000/187/511/original/e88fc30757956cdf37e5621116c99273eced56.bmp"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100507",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

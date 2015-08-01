@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150209
+  },
+  "name": "TOY TOWN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 238",
+    "addressLocality": "EAST AURORA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14052-0238"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7701&mlon=-78.6096#map=15/42.7701/-78.6096",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7701,
+    "longitude": -78.6096
+  },
+  "url": "http://www.toytownusa.com",
+  "telephone": "+1 (716) 687-5151",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601503",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

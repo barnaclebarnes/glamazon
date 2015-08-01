@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183824
+  },
+  "name": "Stiftlandmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Museumsstraße 1",
+    "addressLocality": "Waldsassen",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "95652"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0025&mlon=12.308#map=15/50.0025/12.308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0025,
+    "longitude": 12.308
+  },
+  "url": "http://www.waldsassen.de/tourismus/sehenswertes/stiftlandmuseum.html",
+  "telephone": "09632/91247",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183824",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150452
+  },
+  "name": "LINCOLN DEPOT FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "50 HUDSON AVE",
+    "addressLocality": "PEEKSKILL",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10566-2066"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2859&mlon=-73.93#map=15/41.2859/-73.93",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2859,
+    "longitude": -73.93
+  },
+  "url": "http://www.lincolndepotmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601746",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

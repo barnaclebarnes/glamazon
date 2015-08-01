@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186350
+  },
+  "name": "Civici musei e gallerie di storia ed arte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale del Castello, ",
+    "addressLocality": "Udine",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0652&mlon=13.2367#map=15/46.0652/13.2367",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0652,
+    "longitude": 13.2367
+  },
+  "url": "http://www.comune.udine.it",
+  "telephone": "+39 0432 271591",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8t2wVYSnNKYswkZeMRycL4v9UlM=/1000x1000/museums/logos/000/186/350/original/1b20689d12904a30fc7d65c8f0395de67e441c8.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100324",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

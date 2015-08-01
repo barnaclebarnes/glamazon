@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187528
+  },
+  "name": "Museo del fiume di Alessandria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Rettoria, 13, ",
+    "addressLocality": "Alessandria",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9268&mlon=8.62161#map=15/44.9268/8.62161",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9268,
+    "longitude": 8.62161
+  },
+  "url": "http://www.cultural.it/musei/fiume.asp",
+  "telephone": "+39 0131222212",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1H2sXyCD5qcrkM30uib4xRLjGQY=/1000x1000/museums/logos/000/187/528/original/9e1387f5e0351cafb6311ff1839c7cbbb0a1bf37.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102438",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

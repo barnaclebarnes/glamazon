@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150509
+  },
+  "name": "ULYSSES HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 455",
+    "addressLocality": "TRUMANSBURG",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14886-0455"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5372&mlon=-76.6705#map=15/42.5372/-76.6705",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5372,
+    "longitude": -76.6705
+  },
+  "url": "http://www.ulysses.ny.us/history",
+  "telephone": "+1 (607) 387-6666",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601803",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

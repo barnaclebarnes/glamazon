@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134226
+  },
+  "name": "TUDOR PLACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1644 31ST ST NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9118&mlon=-77.0625#map=15/38.9118/-77.0625",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9118,
+    "longitude": -77.0625
+  },
+  "url": "http://www.tudorplace.org",
+  "telephone": "+1 (202) 965-0400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100006",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

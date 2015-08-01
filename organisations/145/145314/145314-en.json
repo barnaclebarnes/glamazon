@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145314
+  },
+  "name": "MANSHIP HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "420 EAST FORTIFICATION STREET",
+    "addressLocality": "JACKSON",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "39202-2340"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.3122&mlon=-90.1809#map=15/32.3122/-90.1809",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.3122,
+    "longitude": -90.1809
+  },
+  "url": "http://mdah.state.ms.us/museum/manship.html",
+  "telephone": "+1 (601) 961-4724",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800021",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

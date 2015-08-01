@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141911
+  },
+  "name": "DORCHESTER COUNTY HISTORICAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1003 GREENWAY DR",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21613-2053"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5668&mlon=-76.0596#map=15/38.5668/-76.0596",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5668,
+    "longitude": -76.0596
+  },
+  "url": "http://www.historicdorchester.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400204",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

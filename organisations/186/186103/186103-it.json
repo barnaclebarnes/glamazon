@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186103
+  },
+  "name": "Museo Roberto Papi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trotula De Ruggiero, 23",
+    "addressLocality": "Salerno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6812&mlon=14.756#map=15/40.6812/14.756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6812,
+    "longitude": 14.756
+  },
+  "url": "http://www.museopapi.org",
+  "telephone": "+39 089 253190",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0n-0BgHuzOmbQDGErVCOL6ZNwhM=/1000x1000/museums/logos/000/186/103/original/e28393d967f6f57bc84d087b2e74b5446b84c16.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107072",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

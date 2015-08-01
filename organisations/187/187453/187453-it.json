@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187453
+  },
+  "name": "Museo civico archeologico e paleontologico di Macerata Feltria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Abstemio Castello, 2",
+    "addressLocality": "Macerata Feltria",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8039&mlon=12.4413#map=15/43.8039/12.4413",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8039,
+    "longitude": 12.4413
+  },
+  "url": "http://comune.maceratafeltria.pu.it",
+  "telephone": "+39 072273231",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 15 giugno al 30 settembre: tutti i giorni ore 10-12,30, 16,30 - 19,30 dal periodo pasquale al 1° maggio: sabato - domenica e festivi ore 15,30 - 18,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tSPPBoyNq-0mYfUX_g5Vg0JKLwg=/1000x1000/museums/logos/000/187/453/original/529173b62b1c4a7508f501bad484af137b4b2f4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104279",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

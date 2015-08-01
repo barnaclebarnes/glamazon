@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183897
+  },
+  "name": "Residenz – Martin-von-Wagner-Museum der Universität Würzburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Residenzplatz 2",
+    "addressLocality": "Würzburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97070"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7925&mlon=9.93868#map=15/49.7925/9.93868",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7925,
+    "longitude": 9.93868
+  },
+  "url": "http://www.uni-wuerzburg.de/museum",
+  "telephone": "0931/3182288",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183897",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

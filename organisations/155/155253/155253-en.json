@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155253
+  },
+  "name": "COLLEGE OF PHYSICIANS OF PHILADELPHIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "19 S 22ND ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19103-3001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9534&mlon=-75.1768#map=15/39.9534/-75.1768",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9534,
+    "longitude": -75.1768
+  },
+  "url": "http://www.collphyphil.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200447",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

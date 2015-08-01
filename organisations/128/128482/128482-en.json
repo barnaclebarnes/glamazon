@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128482
+  },
+  "name": "SPRINGVILLE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6496 US HIGHWAY 11",
+    "addressLocality": "SPRINGVILLE",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "35146"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7757&mlon=-86.4706#map=15/33.7757/-86.4706",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7757,
+    "longitude": -86.4706
+  },
+  "telephone": "+1 (205) 467-2339",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100012",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132899
+  },
+  "name": "FRISCO SCHOOLHOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "120 MAIN ST",
+    "addressLocality": "FRISCO",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80443"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5755&mlon=-106.101#map=15/39.5755/-106.101",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5755,
+    "longitude": -106.101
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800075",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

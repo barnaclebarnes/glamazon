@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132380
+  },
+  "name": "PALO ALTO JUNIOR MUSEUM AND ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1451 MIDDLEFIELD ROAD",
+    "addressLocality": "PALO ALTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94301"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4433&mlon=-122.145#map=15/37.4433/-122.145",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4433,
+    "longitude": -122.145
+  },
+  "url": "http://www.cityofpaloalto.org/jmz",
+  "telephone": "+1 (650) 329-2111",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602506",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186239
+  },
+  "name": "Fototeca del Consorzio culturale del Monfalconese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza dell'Unità, 24",
+    "addressLocality": "Ronchi dei Legionari",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8233&mlon=13.5007#map=15/45.8233/13.5007",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8233,
+    "longitude": 13.5007
+  },
+  "url": "http://www.ccm.it",
+  "telephone": "+39 0481474298",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100189",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

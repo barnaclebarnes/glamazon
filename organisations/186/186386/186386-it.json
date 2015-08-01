@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186386
+  },
+  "name": "Museo della media valle del Liri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Christian Mayer Ross, ",
+    "addressLocality": "Sora",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7189&mlon=13.6131#map=15/41.7189/13.6131",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7189,
+    "longitude": 13.6131
+  },
+  "url": "http://www.menteantica.it/museo_sora.htm",
+  "telephone": "+39 0776833327",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kSObqnxhBD9xqPVbtF9gqcydTi4=/1000x1000/museums/logos/000/186/386/original/5756f2766c6a83f20d46e96f46511eea62cc077.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101423",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140613
+  },
+  "name": "HARRISON CO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 411",
+    "addressLocality": "CYNTHIANA",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "41031-4103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3904&mlon=-84.2974#map=15/38.3904/-84.2974",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3904,
+    "longitude": -84.2974
+  },
+  "url": "http://harrisoncountyky.us/historical-society/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100370",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182824
+  },
+  "name": "Museum im Wächterhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Großgründlacher Hauptstraße 47",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90427"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5299&mlon=11.0111#map=15/49.5299/11.0111",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5299,
+    "longitude": 11.0111
+  },
+  "url": "http://www.unser-grossgruendlach.de/wachter_haus.html",
+  "telephone": "0911/301147",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182824",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

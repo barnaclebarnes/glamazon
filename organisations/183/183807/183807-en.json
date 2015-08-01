@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183807
+  },
+  "name": "Schelfenhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schelfengasse 1",
+    "addressLocality": "Volkach",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97332"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8666&mlon=10.2265#map=15/49.8666/10.2265",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8666,
+    "longitude": 10.2265
+  },
+  "url": "http://www.museen-kitzingerland.de/museen/uebersicht/art12,80.html",
+  "telephone": "09381/40112",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183807",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

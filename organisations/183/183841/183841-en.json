@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183841
+  },
+  "name": "Glas-Knopf-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kristallstraße 5",
+    "addressLocality": "Weidenberg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95466"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9466&mlon=11.7194#map=15/49.9466/11.7194",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9466,
+    "longitude": 11.7194
+  },
+  "url": "http://www.weidenberg.de",
+  "telephone": "09278/308",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183841",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

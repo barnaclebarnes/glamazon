@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189091
+  },
+  "name": "Museo ebraico e sinagoga",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Schiller, 14",
+    "addressLocality": "Merano/Meran",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6679&mlon=11.1577#map=15/46.6679/11.1577",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6679,
+    "longitude": 11.1577
+  },
+  "url": "http://www.meran.eu",
+  "telephone": "+39 0473236127",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Martedì e mercoledì: ore 15:00 – 18:00 Giovedì e venerdì: ore 9:00 – 12:00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100549",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142529
+  },
+  "name": "DANFORTH MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 UNION AVE.",
+    "addressLocality": "FRAMINGHAM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01702"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2813&mlon=-71.4186#map=15/42.2813/-71.4186",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2813,
+    "longitude": -71.4186
+  },
+  "telephone": "+1 (508) 620-0050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500159",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

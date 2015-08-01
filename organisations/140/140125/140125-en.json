@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140125
+  },
+  "name": "DEPOT HERITAGE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1764",
+    "addressLocality": "LIBERAL",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67905-1764"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0428&mlon=-100.922#map=15/37.0428/-100.922",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0428,
+    "longitude": -100.922
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000451",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

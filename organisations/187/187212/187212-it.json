@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187212
+  },
+  "name": "Museo storico Padre Monti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Legnani, 4",
+    "addressLocality": "Saronno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6289&mlon=9.03864#map=15/45.6289/9.03864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6289,
+    "longitude": 9.03864
+  },
+  "url": "http://www.padremonti.org",
+  "telephone": "+39 02 96702105",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nj1SakSNAJAW7LsfLxa_fzstEWc=/1000x1000/museums/logos/000/187/212/original/11224dfdff5d313e7ba37c4be524ea2ab97bfc6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106822",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

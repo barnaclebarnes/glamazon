@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148891
+  },
+  "name": "MUSEUM AT FIT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "SEVENTH AVE",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7517&mlon=-73.9901#map=15/40.7517/-73.9901",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7517,
+    "longitude": -73.9901
+  },
+  "url": "http://fitnyc.edu/3662.asp",
+  "telephone": "+1 (212) 217-4558",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/TheMuseumAtFIT"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/museumatFIT"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600185",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

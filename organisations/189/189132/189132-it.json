@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189132
+  },
+  "name": "Museo Casa Porfido - Ente Sviluppo Porfido",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Don Luigi Albasini, 8",
+    "addressLocality": "Albiano",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1444&mlon=11.1941#map=15/46.1444/11.1941",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1444,
+    "longitude": 11.1941
+  },
+  "url": "http://www.casaporfido.it/",
+  "telephone": "+39 0461 689799",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato e domenica 10.00 – 12.00 / 14.00 – 18.00. Dal Lunedì al Venerdì: aperto solo su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WdKGV9_sRDCt-PO2X86A7RPA7sk=/1000x1000/museums/logos/000/189/132/original/de3ffdbe192ecbed0d04ad4ccf4c343ad673c19.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111744",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

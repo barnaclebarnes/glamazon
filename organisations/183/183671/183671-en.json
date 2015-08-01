@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183671
+  },
+  "name": "Römermuseum Bedaium",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Römerstraße 3",
+    "addressLocality": "Seebruck",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83358"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9333&mlon=12.4768#map=15/47.9333/12.4768",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9333,
+    "longitude": 12.4768
+  },
+  "url": "http://www.roemermuseum-bedaium.byseum.de",
+  "telephone": "08667/7503",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183671",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

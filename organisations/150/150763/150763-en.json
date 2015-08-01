@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150763
+  },
+  "name": "MUSEUM AT BETHEL WOODS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 222",
+    "addressLocality": "LIBERTY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12754-0222"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6842&mlon=-74.8731#map=15/41.6842/-74.8731",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6842,
+    "longitude": -74.8731
+  },
+  "url": "http://www.bethelwoodscenter.org",
+  "telephone": "+1 (866) 781-2922",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602057",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

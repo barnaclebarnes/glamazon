@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144634
+  },
+  "name": "GOLDSTEIN MUSEUM OF DESIGN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1985 BUFORD AVE",
+    "addressLocality": "SAINT PAUL",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9845&mlon=-93.1862#map=15/44.9845/-93.1862",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9845,
+    "longitude": -93.1862
+  },
+  "url": "http://goldstein.design.umn.edu",
+  "telephone": "+1 (612) 624-7434",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/29682069629"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/goldsteinmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700074",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

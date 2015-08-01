@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186437
+  },
+  "name": "Museo storico militare di Antrodoco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Ponte, 8",
+    "addressLocality": "Antrodoco",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4175&mlon=13.08#map=15/42.4175/13.08",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4175,
+    "longitude": 13.08
+  },
+  "telephone": "+39 074 6578185",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriali: 17,00 /20,00; festivi: 10,00/13,00 e 17,00/20,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UeHrlc1SeAS3wklAfwstCwkhIq4=/1000x1000/museums/logos/000/186/437/original/4b989edd2f99d6bd58ae2256732dea6fd83c9dc.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101458",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

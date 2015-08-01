@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149661
+  },
+  "name": "NEW YORK CITY POLICE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "111 E 59TH ST",
+    "addressLocality": "MANHATTAN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10005-3539"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7627&mlon=-73.9692#map=15/40.7627/-73.9692",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7627,
+    "longitude": -73.9692
+  },
+  "url": "http://www.nycpolicemuseum.org",
+  "telephone": "+1 (212) 480-3100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600955",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

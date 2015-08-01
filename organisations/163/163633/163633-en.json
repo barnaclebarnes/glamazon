@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163633
+  },
+  "name": "Art Gallery of Ballarat",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.5596&mlon=143.858#map=15/-37.5596/143.858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.5596,
+    "longitude": 143.858
+  },
+  "url": "http://www.balgal.com/",
+  "telephone": "(03) 5320 5858",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10am - 5pm 7 days",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "art-gallery-of-ballarat",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/art-gallery-of-ballarat",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

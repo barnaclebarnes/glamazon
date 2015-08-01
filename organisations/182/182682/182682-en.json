@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182682
+  },
+  "name": "C. O. Müller-Galerie",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Residenzplatz 1",
+    "addressLocality": "Eichstätt",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85072"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8917&mlon=11.1827#map=15/48.8917/11.1827",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8917,
+    "longitude": 11.1827
+  },
+  "url": "http://www.lk-eichstaett.de/co-mueller/",
+  "telephone": "08421/70220",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182682",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

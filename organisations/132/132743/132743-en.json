@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132743
+  },
+  "name": "THE HOLLYWOOD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1660 N HIGHLAND AVE",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90028-6121"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1007&mlon=-118.339#map=15/34.1007/-118.339",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1007,
+    "longitude": -118.339
+  },
+  "url": "http://www.thehollywoodmuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602869",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

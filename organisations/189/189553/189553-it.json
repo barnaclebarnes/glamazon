@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189553
+  },
+  "name": "Museo naturalistico delle Bregonze",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Marola, SNC",
+    "addressLocality": "Chiuppano",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7649&mlon=11.4628#map=15/45.7649/11.4628",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7649,
+    "longitude": 11.4628
+  },
+  "url": "http://www.museobregonze.it",
+  "telephone": "+39 3488894124",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101059",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185849
+  },
+  "name": "Museo diocesano di Gerace",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Tribuna , ",
+    "addressLocality": "Gerace",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2724&mlon=16.2183#map=15/38.2724/16.2183",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2724,
+    "longitude": 16.2183
+  },
+  "telephone": "+39 0964.356323",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sUxkpRWAx03ZhtMLfUJPpB8kZa8=/1000x1000/museums/logos/000/185/849/original/aaebc45b43c41b6165482189017e21fc0fc1a60.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108495",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

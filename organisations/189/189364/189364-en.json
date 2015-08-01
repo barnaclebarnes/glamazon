@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189364
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Parco dei Sette Frati - Monte Peglia, ",
+    "addressLocality": "San Venanzo",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8704&mlon=12.2701#map=15/42.8704/12.2701",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8704,
+    "longitude": 12.2701
+  },
+  "telephone": "+39 0763 831075",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OoNmbHWOAUEG8i15WIBfY7FF-m8=/1000x1000/museums/logos/000/189/364/original/93311d2b47d4bff64d4587bf2148c8abb376b72c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108051",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131523
+  },
+  "name": "EXPLORIT SCIENCE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1288",
+    "addressLocality": "DAVIS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95617-1288"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.552&mlon=-121.714#map=15/38.552/-121.714",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.552,
+    "longitude": -121.714
+  },
+  "url": "http://www.explorit.org",
+  "telephone": "+1 (530) 756-0191",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601649",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

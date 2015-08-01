@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189327
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza A. Lupi, 52",
+    "addressLocality": "Allerona",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8114&mlon=11.9739#map=15/42.8114/11.9739",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8114,
+    "longitude": 11.9739
+  },
+  "telephone": "+39 0763 628312",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vur_RUDM9JuLbEvfACWp71a0cnc=/1000x1000/museums/logos/000/189/327/original/e9968319920abab9f8e1083dc22cef589ae981a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108073",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

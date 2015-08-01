@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137485
+  },
+  "name": "BURLINGTON ROUTE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 456",
+    "addressLocality": "LA GRANGE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60525-0456"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7924&mlon=-87.8703#map=15/41.7924/-87.8703",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7924,
+    "longitude": -87.8703
+  },
+  "url": "http://www.burlingtonroute.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700630",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

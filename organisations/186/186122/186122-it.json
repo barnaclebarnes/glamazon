@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186122
+  },
+  "name": "Museo internazionale e biblioteca della musica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada Maggiore, 34, ",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4928&mlon=11.3502#map=15/44.4928/11.3502",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4928,
+    "longitude": 11.3502
+  },
+  "url": "http://www.museomusicabologna.it",
+  "telephone": "+39 0512757711",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vcjFq7ACN_on2FQDz_j1prE6-TU=/1000x1000/museums/logos/000/186/122/original/18a6f0fb5dc3d957d76abbfa946a4f8feb7ace45.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101963",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

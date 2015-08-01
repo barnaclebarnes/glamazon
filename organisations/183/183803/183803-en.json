@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183803
+  },
+  "name": "Färbermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pleysteiner Straße 5",
+    "addressLocality": "Vohenstrauß",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92648"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6244&mlon=12.3424#map=15/49.6244/12.3424",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6244,
+    "longitude": 12.3424
+  },
+  "telephone": "0941/40839",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183803",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131896
+  },
+  "name": "WILDLING MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 907",
+    "addressLocality": "LOS OLIVOS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93441-0907"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.6651&mlon=-120.115#map=15/34.6651/-120.115",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.6651,
+    "longitude": -120.115
+  },
+  "url": "http://www.wildlingmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602022",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

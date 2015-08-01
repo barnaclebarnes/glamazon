@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188961
+  },
+  "name": "Museo della deportazione",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "di Cantagallo, 250",
+    "addressLocality": "Prato",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9242&mlon=11.0924#map=15/43.9242/11.0924",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9242,
+    "longitude": 11.0924
+  },
+  "url": "http://deportazione.po-net.prato.it",
+  "telephone": "+39 0574470728",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7S0v3VY12XkBhGIhp7L7VFt00WI=/1000x1000/museums/logos/000/188/961/original/425ccf9c55d55ba35757ef36881ae9c16964968.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103187",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

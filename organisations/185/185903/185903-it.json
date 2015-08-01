@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185903
+  },
+  "name": "Museo diocesano di Ariano Irpino e Lacedonia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Annunziata snc, ",
+    "addressLocality": "Ariano Irpino",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1525&mlon=15.0876#map=15/41.1525/15.0876",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1525,
+    "longitude": 15.0876
+  },
+  "telephone": "+39 0823651222",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/buyinfyFzaURsgOe3wcGZ-EBJLc=/1000x1000/museums/logos/000/185/903/original/67a4d6dcdde99b974bc887ba5a3edd2e12c5117.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101768",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

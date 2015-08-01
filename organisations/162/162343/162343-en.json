@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162343
+  },
+  "name": "HOGE HOUSE FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3389 WINFIELD ROAD",
+    "addressLocality": "WINFIELD",
+    "addressRegion": "WV",
+    "addressCountry": "United States",
+    "postalCode": "25213-9370"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4447&mlon=-81.8461#map=15/38.4447/-81.8461",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4447,
+    "longitude": -81.8461
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405400056",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

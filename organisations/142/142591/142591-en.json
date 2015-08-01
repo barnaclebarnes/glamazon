@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142591
+  },
+  "name": "GEORGETOWN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 376",
+    "addressLocality": "GEORGETOWN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01833"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7244&mlon=-70.9907#map=15/42.7244/-70.9907",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7244,
+    "longitude": -70.9907
+  },
+  "url": "http://www.georgetownhistoricalsociety.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500221",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

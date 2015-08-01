@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144232
+  },
+  "name": "MICHIGAN MILITARY AIR LAND/SEA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 888212",
+    "addressLocality": "GRAND RAPIDS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49588-8212"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8835&mlon=-85.5492#map=15/42.8835/-85.5492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8835,
+    "longitude": -85.5492
+  },
+  "telephone": "+1 (616) 974-1955",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600769",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

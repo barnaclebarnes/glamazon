@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186209
+  },
+  "name": "The National Museum of Ravenna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Vitale, 17",
+    "addressLocality": "Ravenna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4195&mlon=12.1975#map=15/44.4195/12.1975",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4195,
+    "longitude": 12.1975
+  },
+  "url": "http://www.soprintendenzaravenna.beniculturali.it",
+  "telephone": "+39 0544 543711\n        \n          (+39) 0544 543711",
+  "contactPoint": [
+
+  ],
+  "openingHours": "from Tuesday to Sunday 8.30-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 5,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/A3-3cRHwW4tDoahDFu1brA-_iDU=/1000x1000/museums/logos/000/186/209/original/6659ee2d87c37250983e7dd9776b6e445e74.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20269",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

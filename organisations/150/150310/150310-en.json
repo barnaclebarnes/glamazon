@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150310
+  },
+  "name": "BUFFALO AND ERIE COUNTY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 MUSEUM CT",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14216-3160"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9396&mlon=-78.8746#map=15/42.9396/-78.8746",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9396,
+    "longitude": -78.8746
+  },
+  "url": "http://www.buffalohistory.org",
+  "telephone": "+1 (716) 873-9644",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601604",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

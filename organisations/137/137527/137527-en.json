@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137527
+  },
+  "name": "ELGIN PUBLIC MUSEUM INCORPORATED",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "225 GRAND BLVD",
+    "addressLocality": "ELGIN",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60120-4278"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0411&mlon=-88.2638#map=15/42.0411/-88.2638",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0411,
+    "longitude": -88.2638
+  },
+  "url": "http://www.elginpublicmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700672",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

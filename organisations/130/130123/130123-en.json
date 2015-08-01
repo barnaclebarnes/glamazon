@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130123
+  },
+  "name": "MISSION INN FOUNDATION AND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3696 MAIN STREET",
+    "addressLocality": "RIVERSIDE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9831&mlon=-117.374#map=15/33.9831/-117.374",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9831,
+    "longitude": -117.374
+  },
+  "telephone": "+1 (909) 341-6574",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/The_Mission_Inn_Hotel_%26_Spa",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600249",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

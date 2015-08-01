@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160009
+  },
+  "name": "WILD WEST PARK INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1484 E 390 N",
+    "addressLocality": "SPANISH FORK",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84660-5688"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1149&mlon=-111.63#map=15/40.1149/-111.63",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1149,
+    "longitude": -111.63
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900075",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

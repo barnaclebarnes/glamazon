@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183442
+  },
+  "name": "Schlossmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vorderschloß 1",
+    "addressLocality": "Ortenburg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94496"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5505&mlon=13.2302#map=15/48.5505/13.2302",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5505,
+    "longitude": 13.2302
+  },
+  "url": "http://www.schloss-ortenburg.de",
+  "telephone": "08542/8984060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183442",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

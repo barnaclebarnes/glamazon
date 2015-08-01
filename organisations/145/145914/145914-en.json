@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145914
+  },
+  "name": "ST LOUIS SOCCER HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5208 AUTUMNWINDS DR",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63129-2462"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4322&mlon=-90.3229#map=15/38.4322/-90.3229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4322,
+    "longitude": -90.3229
+  },
+  "url": "http://www.stlsoccerhalloffame.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900343",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

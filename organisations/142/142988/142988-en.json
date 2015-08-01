@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142988
+  },
+  "name": "WAKEFIELD HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 DAVIDSON RD",
+    "addressLocality": "WAKEFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01880-1880"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5066&mlon=-71.0864#map=15/42.5066/-71.0864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5066,
+    "longitude": -71.0864
+  },
+  "url": "http://www.wakefieldhistory.org",
+  "telephone": "+1 (781) 246-3070",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500618",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

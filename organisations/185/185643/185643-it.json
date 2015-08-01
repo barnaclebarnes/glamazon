@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185643
+  },
+  "name": "Museo Cappella de' Bartolomei",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Libertà, SNC",
+    "addressLocality": "Giulianova",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7538&mlon=13.9665#map=15/42.7538/13.9665",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7538,
+    "longitude": 13.9665
+  },
+  "url": "http://www.comune.giulianova.te.it",
+  "telephone": "+39 085 8021215",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì/Venerdì 9.00/12.00 -15.30/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100100",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

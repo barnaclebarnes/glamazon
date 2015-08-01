@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186406
+  },
+  "name": "Museo sessano, 50- Dalla Lestra al Podere",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Don Orlando Biral, 2",
+    "addressLocality": "Latina",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5148&mlon=12.8539#map=15/41.5148/12.8539",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5148,
+    "longitude": 12.8539
+  },
+  "url": "http://www.digilander.libero.it/sessano",
+  "telephone": "+39 0773 637005",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aperto su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta libera"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105514",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

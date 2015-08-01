@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140015
+  },
+  "name": "BIG BRUTUS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 25",
+    "addressLocality": "WEST MINERAL",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66782-0025"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2818&mlon=-94.9206#map=15/37.2818/-94.9206",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2818,
+    "longitude": -94.9206
+  },
+  "url": "http://www.bigbrutus.org/",
+  "telephone": "+1 (620) 827-6177",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000341",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

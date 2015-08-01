@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183131
+  },
+  "name": "Kreisgalerie",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 5",
+    "addressLocality": "Mellrichstadt",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97638"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.43&mlon=10.3033#map=15/50.43/10.3033",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.43,
+    "longitude": 10.3033
+  },
+  "url": "http://www.rhoenline.de/kreisgalerie.html",
+  "telephone": "09776/7213",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183131",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

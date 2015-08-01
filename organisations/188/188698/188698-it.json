@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188698
+  },
+  "name": "Museo Masaccio d'arte sacra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Casaromolo, 2a",
+    "addressLocality": "Reggello",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6755&mlon=11.5302#map=15/43.6755/11.5302",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6755,
+    "longitude": 11.5302
+  },
+  "url": "http://www.museomasaccio.it",
+  "telephone": "+39 0558665433",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6BylgiGbSDpMYjK7tX5OB415U3E=/1000x1000/museums/logos/000/188/698/original/1db592fea499ebf27f0ae399f664248d3a4a526.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102973",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

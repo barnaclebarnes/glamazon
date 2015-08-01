@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129876
+  },
+  "name": "UC MUSEUM OF PALEONTOLOGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1101 VALLEY LIFE SCIENCES BLDG",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94720"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8755&mlon=-122.242#map=15/37.8755/-122.242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8755,
+    "longitude": -122.242
+  },
+  "url": "http://www.ucmp.berkeley.edu",
+  "telephone": "+1 (510) 642-1821",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/inzxmWbNbwB4DnTJWqhUBSkH8QA=/1000x1000/museums/logos/000/129/876/original/VLSB.jpeg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/University_of_California_Museum_of_Paleontology",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

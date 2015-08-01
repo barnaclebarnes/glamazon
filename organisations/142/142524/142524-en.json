@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142524
+  },
+  "name": "CODMAN HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "36 CODMAN RD",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01773"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4169&mlon=-71.3322#map=15/42.4169/-71.3322",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4169,
+    "longitude": -71.3322
+  },
+  "telephone": "+1 (781) 259-8843",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500154",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186904
+  },
+  "name": "Museo della civiltà contadina Dino Gregorio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Matteotti, 1",
+    "addressLocality": "Mairano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4787&mlon=10.0387#map=15/45.4787/10.0387",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4787,
+    "longitude": 10.0387
+  },
+  "telephone": "+39 0309975332",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GF7IinNKtPBUPIt-nSUd6sgW3JY=/1000x1000/museums/logos/000/186/904/original/0674a88cc624b02ffef4edb910edab79a81f6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103580",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

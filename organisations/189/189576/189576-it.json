@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189576
+  },
+  "name": "Museo diocesano di Vicenza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 12",
+    "addressLocality": "Vicenza",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5459&mlon=11.5435#map=15/45.5459/11.5435",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5459,
+    "longitude": 11.5435
+  },
+  "url": "http://www.vicenza.chiesacattolica.it",
+  "telephone": "+39 0444226400",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GzmFdirOmcSvro4pfTOlmQ1jgdk=/1000x1000/museums/logos/000/189/576/original/d997cd317b184e78257a627cfa10c962243d1f.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101105",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

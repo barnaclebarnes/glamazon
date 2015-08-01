@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154210
+  },
+  "name": "WASHINGTON COUNTY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17677 NW SPRINGVILLE RD",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97229"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.563&mlon=-122.858#map=15/45.563/-122.858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.563,
+    "longitude": -122.858
+  },
+  "url": "http://www.washingtoncountymuseum.org",
+  "telephone": "+1 (503) 645-5353",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

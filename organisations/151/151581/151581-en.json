@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151581
+  },
+  "name": "DUKE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2001 CAMPUS DRIVE",
+    "addressLocality": "DURHAM",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27705"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.0&mlon=-78.9276#map=15/36.0/-78.9276",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.0,
+    "longitude": -78.9276
+  },
+  "url": "http://www.nasher.duke.edu",
+  "telephone": "+1 (919) 668-3527",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700452",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163635
+  },
+  "name": "Arts Project Australia",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7827&mlon=144.997#map=15/-37.7827/144.997",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7827,
+    "longitude": 144.997
+  },
+  "url": "http://www.artsproject.org.au",
+  "telephone": "03 9482 4484",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Monday to Friday 9am - 5pm\r\nSaturday 10am - 5pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "arts-project-australia",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/arts-project-australia",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

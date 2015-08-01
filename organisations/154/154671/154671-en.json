@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154671
+  },
+  "name": "CORVALLIS ENVIRONMENTAL CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "214 NW MONROE AVE",
+    "addressLocality": "CORVALLIS",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97339-2189"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5641&mlon=-123.26#map=15/44.5641/-123.26",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5641,
+    "longitude": -123.26
+  },
+  "url": "http://www.corvallisenvironmentalcenter.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100464",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

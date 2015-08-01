@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130875
+  },
+  "name": "HORSETOWN USA HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2190 CABALLEROS ROAD",
+    "addressLocality": "NORCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92860-2503"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9136&mlon=-117.573#map=15/33.9136/-117.573",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9136,
+    "longitude": -117.573
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

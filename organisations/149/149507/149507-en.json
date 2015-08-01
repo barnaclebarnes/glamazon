@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149507
+  },
+  "name": "NEW MUSEUM OF CONTEMPORARY ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "235 BOWERY",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10002-1218"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7224&mlon=-73.9932#map=15/40.7224/-73.9932",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7224,
+    "longitude": -73.9932
+  },
+  "url": "http://www.newmuseum.org",
+  "telephone": "+1 (212) 219-1222",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600801",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

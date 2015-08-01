@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129118
+  },
+  "name": "SIERRA VISTA HISTORICAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2950 E TACOMA ST",
+    "addressLocality": "SIERRA VISTA",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85635"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.566&mlon=-110.271#map=15/31.566/-110.271",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.566,
+    "longitude": -110.271
+  },
+  "url": "http://www.sierravistaaz.gov",
+  "telephone": "+1 (520) 459-3739",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400020",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187743
+  },
+  "name": "Casa museo di Nuto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Piana, ",
+    "addressLocality": "Santo Stefano Belbo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6972&mlon=8.18194#map=15/44.6972/8.18194",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6972,
+    "longitude": 8.18194
+  },
+  "url": "http://www.fondazionecesarepavese.it",
+  "telephone": "+39 0141843730",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qgM-WSNgJEZ8n5aUGW9YDZr4_S8=/1000x1000/museums/logos/000/187/743/original/cbcc1da1cc361fe42ec3aad4fcdc182f0c6bd5f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104916",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190010
+  },
+  "name": "HANNIBAL HISTORY MUSEUM FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 N. MAIN STREET",
+    "addressLocality": "HANNIBAL",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": " 63401"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9779&mlon=-93.239#map=15/44.9779/-93.239",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9779,
+    "longitude": -93.239
+  },
+  "url": "http://hannibalhistorymuseum.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900792",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

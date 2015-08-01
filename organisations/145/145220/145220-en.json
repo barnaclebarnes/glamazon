@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145220
+  },
+  "name": "BILL & BONNIE DANIELS FIREFIGHTERS HALL & MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "664 22ND AVE NE",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55418-3553"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.01&mlon=-93.2546#map=15/45.01/-93.2546",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.01,
+    "longitude": -93.2546
+  },
+  "url": "http://firehallmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700660",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

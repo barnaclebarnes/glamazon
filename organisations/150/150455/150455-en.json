@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150455
+  },
+  "name": "THE MUSEUM OF DEMOCRACY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "510 PARK AVENUE APT3B",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10022-6640"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7633&mlon=-73.9697#map=15/40.7633/-73.9697",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7633,
+    "longitude": -73.9697
+  },
+  "telephone": "+1 (212) 371-3272",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601749",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148856
+  },
+  "name": "NEUBERGER MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "735 ANDERSON HILL ROAD",
+    "addressLocality": "PURCHASE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10577-1400"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0379&mlon=-73.7032#map=15/41.0379/-73.7032",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0379,
+    "longitude": -73.7032
+  },
+  "url": "https://www.neuberger.org/",
+  "telephone": "+1 (914) 251-6100",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/neubergermuseumofart"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600150",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

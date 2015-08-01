@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186105
+  },
+  "name": "Orto botanico Giardino della Minerva",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ferrante Sanseverino, 1",
+    "addressLocality": "Salerno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6812&mlon=14.754#map=15/40.6812/14.754",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6812,
+    "longitude": 14.754
+  },
+  "url": "http://www.giardinodellaminerva.it",
+  "telephone": "+39 089 252423",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qZAoBJwu5fwswvHdJaU9zRv7IyE=/1000x1000/museums/logos/000/186/105/original/c95364c1fa89d06ebb8ce715d9480a58468bfad.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107097",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

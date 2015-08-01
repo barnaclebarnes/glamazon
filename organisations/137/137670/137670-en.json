@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137670
+  },
+  "name": "WARREN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 61",
+    "addressLocality": "WARREN",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61087-0061"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4952&mlon=-89.9887#map=15/42.4952/-89.9887",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4952,
+    "longitude": -89.9887
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700815",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

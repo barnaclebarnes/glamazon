@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189254
+  },
+  "name": "Museo civico e diocesano di Norcia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Benedetto, ",
+    "addressLocality": "Norcia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7924&mlon=13.0924#map=15/42.7924/13.0924",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7924,
+    "longitude": 13.0924
+  },
+  "url": "http://www.artenorcia.net",
+  "telephone": "+39 0743817030",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/V7bVQ5ETy6C2nm6gXGrOdlsO-TQ=/1000x1000/museums/logos/000/189/254/original/6b12404e20aaf31fc6da1dcfef8b210bb0b591.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100724",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

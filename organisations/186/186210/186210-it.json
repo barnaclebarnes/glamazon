@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186210
+  },
+  "name": "Museo archeologico di Brescello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via F. Cavallotti, 37, ",
+    "addressLocality": "Brescello",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9011&mlon=10.5138#map=15/44.9011/10.5138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9011,
+    "longitude": 10.5138
+  },
+  "url": "http://www.comune.brescello.re.it",
+  "telephone": "+39 0522482528",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cdvT6JIEnYqgQMpzX8pxx-MUY0k=/1000x1000/museums/logos/000/186/210/original/f9689914f9e876a7342e620ea40618d48c8b831.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104908",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

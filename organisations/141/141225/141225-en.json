@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141225
+  },
+  "name": "BAR HARBOR WHALE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "52 WEST ST",
+    "addressLocality": "BAR HARBOR",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04609"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3911&mlon=-68.206#map=15/44.3911/-68.206",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3911,
+    "longitude": -68.206
+  },
+  "url": "http://www.barharborwhalemuseum.org",
+  "telephone": "+1 (207) 288-0288",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300074",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

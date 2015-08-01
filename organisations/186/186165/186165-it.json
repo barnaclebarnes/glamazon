@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186165
+  },
+  "name": "Museo della Linea Christa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Garibaldi, 12",
+    "addressLocality": "Sogliano al Rubicone",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0043&mlon=12.3#map=15/44.0043/12.3",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0043,
+    "longitude": 12.3
+  },
+  "url": "http://www.terredelrubicone.it",
+  "telephone": "+39 0541 817311 - 3292097279",
+  "contactPoint": [
+
+  ],
+  "openingHours": "estate: sabato dalle ore 9.00 alle 12.30,inverno: domenica dalle 15.30 alle 18.30,altri giorni su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/b65-2F3x3-Yke63jq30S3Ta0JNI=/1000x1000/museums/logos/000/186/165/original/f587699fdbe13dd83cd6e4f997d62e1bb799f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111132",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

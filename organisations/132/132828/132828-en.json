@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132828
+  },
+  "name": "UNIVERSITY OF DENVER CHAMBERLIN OBSERVATORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2112 E. WESLEY AVE.",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80208"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.673&mlon=-104.963#map=15/39.673/-104.963",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.673,
+    "longitude": -104.963
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800004",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132033
+  },
+  "name": "UNITED STATES DISTRICT COURT FOR THE EASTERN DIST OF CA HIST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1313",
+    "addressLocality": "SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95812-1313"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.582&mlon=-121.495#map=15/38.582/-121.495",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.582,
+    "longitude": -121.495
+  },
+  "url": "http://courthistory.tripod.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602159",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

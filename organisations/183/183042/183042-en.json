@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183042
+  },
+  "name": "Bergbau-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatz 3",
+    "addressLocality": "Kupferberg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95362"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1395&mlon=11.576#map=15/50.1395/11.576",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1395,
+    "longitude": 11.576
+  },
+  "url": "http://www.bergbau-kupferberg.de",
+  "telephone": "09227/5342",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183042",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

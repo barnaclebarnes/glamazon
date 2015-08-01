@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160319
+  },
+  "name": "VERMONT AGRICULTURAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "22 N MAIN STREET",
+    "addressLocality": "RANDOLPH",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05060"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.924&mlon=-72.6653#map=15/43.924/-72.6653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.924,
+    "longitude": -72.6653
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000125",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

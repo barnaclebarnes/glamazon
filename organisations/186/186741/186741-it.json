@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186741
+  },
+  "name": "Museo del presepe - Pinacoteca civica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 11",
+    "addressLocality": "Imperia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8753&mlon=8.01422#map=15/43.8753/8.01422",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8753,
+    "longitude": 8.01422
+  },
+  "url": "http://www.comune.imperia.it",
+  "telephone": "+39 0183/61136; 0183/701559",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107152",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

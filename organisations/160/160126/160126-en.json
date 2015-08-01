@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160126
+  },
+  "name": "SANTA CLARA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2518 VINEYARD DR",
+    "addressLocality": "SANTA CLARA",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84765"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.127&mlon=-113.643#map=15/37.127/-113.643",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.127,
+    "longitude": -113.643
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900192",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

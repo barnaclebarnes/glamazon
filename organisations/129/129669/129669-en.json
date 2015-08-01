@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129669
+  },
+  "name": "US MARSHALS MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14 N 3RD ST STE D",
+    "addressLocality": "FORT SMITH",
+    "addressRegion": "AR",
+    "addressCountry": "United States",
+    "postalCode": "72901-1476"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.3893&mlon=-94.4278#map=15/35.3893/-94.4278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.3893,
+    "longitude": -94.4278
+  },
+  "url": "http://usmarshalsmuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400500105",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

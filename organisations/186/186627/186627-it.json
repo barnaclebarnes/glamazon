@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186627
+  },
+  "name": "Museo etrusco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sant'Angelo, 2",
+    "addressLocality": "Barbarano Romano",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2512&mlon=12.0666#map=15/42.2512/12.0666",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2512,
+    "longitude": 12.0666
+  },
+  "url": "http://www.tusciaitalia.it/",
+  "telephone": "+39 076 1414531",
+  "contactPoint": [
+
+  ],
+  "openingHours": "giovedì-venerdì 10.00-13.00 sabato-domenica 10.00-13.00/15.00-18.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/au_2lkjPGwSfkx8iJRnzphby4QM=/1000x1000/museums/logos/000/186/627/original/f3b5d9dd7539416b61397df41896ecff1542ae6.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105524",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149538
+  },
+  "name": "CONEY ISLAND USA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 SURF AVE",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11224-2811"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5754&mlon=-73.9779#map=15/40.5754/-73.9779",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5754,
+    "longitude": -73.9779
+  },
+  "url": "http://www.coneyisland.com",
+  "telephone": "+1 (718) 265-2100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600832",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

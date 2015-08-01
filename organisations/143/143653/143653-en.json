@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143653
+  },
+  "name": "CLAWSON HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "41 FISHER CT",
+    "addressLocality": "CLAWSON",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48017"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5365&mlon=-83.1456#map=15/42.5365/-83.1456",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5365,
+    "longitude": -83.1456
+  },
+  "url": "http://www.cityofclawson.com/museum.htm",
+  "telephone": "+1 (248) 588-9169",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600190",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

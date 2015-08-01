@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140123
+  },
+  "name": "TOPEKA CHAPTER OF THE NATIONAL RAILWAY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4446",
+    "addressLocality": "TOPEKA",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66604-6660"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0572&mlon=-95.7172#map=15/39.0572/-95.7172",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0572,
+    "longitude": -95.7172
+  },
+  "url": "http://www.nrhs.com/chapters/topeka",
+  "telephone": "+1 (785) 273-1691",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000449",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183636
+  },
+  "name": "Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 25",
+    "addressLocality": "Schlüsselfeld",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96132"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.757&mlon=10.6192#map=15/49.757/10.6192",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.757,
+    "longitude": 10.6192
+  },
+  "url": "http://www.schluesselfeld.de/tourismus___sehenswertes/stadtmuseum/",
+  "telephone": "09552/9222-10",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183636",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

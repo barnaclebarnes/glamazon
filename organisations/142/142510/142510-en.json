@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142510
+  },
+  "name": "FOURTH WALL PROJECT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "132 BROOKLINE AVE",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02215"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3452&mlon=-71.1005#map=15/42.3452/-71.1005",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3452,
+    "longitude": -71.1005
+  },
+  "url": "http://fourthwallproject.com",
+  "telephone": "+1 (617) 927-1737",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500140",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160178
+  },
+  "name": "UTAH STATE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2400 OLD MAIN HI",
+    "addressLocality": "LOGAN",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84322"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7442&mlon=-111.801#map=15/41.7442/-111.801",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7442,
+    "longitude": -111.801
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900244",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

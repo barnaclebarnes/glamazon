@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143705
+  },
+  "name": "YPSILANTI AUTOMOTIVE HERITAGE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 E CROSS ST",
+    "addressLocality": "YPSILANTI",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48198-2936"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.246&mlon=-83.6081#map=15/42.246/-83.6081",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.246,
+    "longitude": -83.6081
+  },
+  "url": "http://www.ypsiautoheritage.org",
+  "telephone": "+1 (734) 482-5200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600242",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

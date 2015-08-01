@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187366
+  },
+  "name": "Museo Casa natale \"Filippo Corridoni\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trincea delle Frasche, 29",
+    "addressLocality": "Corridonia",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2499&mlon=13.5106#map=15/43.2499/13.5106",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2499,
+    "longitude": 13.5106
+  },
+  "url": "http://www.museocorridoni.it",
+  "telephone": "+39 0733 439901",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Domenica 17-19, oppure su richiesta",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FNVoiVI9AMrsb7lRhG4tHApmOGg=/1000x1000/museums/logos/000/187/366/original/852292391a3438af75199a0ec678433e82511a2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111488",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130627
+  },
+  "name": "SACRAMENTO CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2701 PROSPECT PARK DR",
+    "addressLocality": "RANCHO CORDOVA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95670-6406"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5891&mlon=-121.283#map=15/38.5891/-121.283",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5891,
+    "longitude": -121.283
+  },
+  "url": "http://www.sackids.org",
+  "telephone": "+1 (916) 638-7225",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Sacramento_Children%27s_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600753",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

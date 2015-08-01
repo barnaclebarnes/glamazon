@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142414
+  },
+  "name": "PIERCE HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "24 OAKTON AVE",
+    "addressLocality": "DORCHESTER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02122"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2868&mlon=-71.0533#map=15/42.2868/-71.0533",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2868,
+    "longitude": -71.0533
+  },
+  "telephone": "+1 (617) 288-6041",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500044",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

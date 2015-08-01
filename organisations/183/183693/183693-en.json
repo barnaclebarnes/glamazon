@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183693
+  },
+  "name": "Michael-Kirschner-Kulturmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stauf 16",
+    "addressLocality": "Thalmässing",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91177"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1168&mlon=11.2139#map=15/49.1168/11.2139",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1168,
+    "longitude": 11.2139
+  },
+  "url": "http://www.kulturmuseum-stauf.de/index.html",
+  "telephone": "09173/1011",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183693",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

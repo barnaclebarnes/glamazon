@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140009
+  },
+  "name": "COLUMBUS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 211",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66725-0211"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1578&mlon=-94.8499#map=15/37.1578/-94.8499",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1578,
+    "longitude": -94.8499
+  },
+  "telephone": "+1 (620) 429-2160",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000335",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

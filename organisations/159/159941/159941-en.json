@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159941
+  },
+  "name": "WASHINGTON CITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "25 E TELEGRAPH ST",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84780"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1302&mlon=-113.509#map=15/37.1302/-113.509",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1302,
+    "longitude": -113.509
+  },
+  "telephone": "+1 (435) 986-4228",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

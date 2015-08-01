@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129979
+  },
+  "name": "SAN FRANCISCO JEWELRY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "888 BRANNAN ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9377&mlon=-122.369#map=15/37.9377/-122.369",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9377,
+    "longitude": -122.369
+  },
+  "url": "http://www.museumofjewelry.com",
+  "telephone": "+1 (510) 237-8828",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600105",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

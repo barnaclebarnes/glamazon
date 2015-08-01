@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131177
+  },
+  "name": "OCEAN BEACH HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 7895",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92167-0895"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.746&mlon=-117.248#map=15/32.746/-117.248",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.746,
+    "longitude": -117.248
+  },
+  "telephone": "+1 (619) 222-6066",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BH1yKd2cKG0xSIHDe9O4AW4R6Fc=/1000x1000/museums/logos/000/131/177/original/Sunset_pier.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://es.wikipedia.org/wiki/Ocean_Beach",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601303",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

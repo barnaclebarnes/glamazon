@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132876
+  },
+  "name": "MUSEUM OF CONTEMPORARY ART/DENVER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1275 19TH ST",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7519&mlon=-104.994#map=15/39.7519/-104.994",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7519,
+    "longitude": -104.994
+  },
+  "url": "http://www.mcartdenver.org",
+  "telephone": "+1 (303) 298-7554",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800052",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

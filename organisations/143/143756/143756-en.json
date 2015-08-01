@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143756
+  },
+  "name": "CLASSIC CAR CLUB OF AMERICA MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2113",
+    "addressLocality": "DEARBORN",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48123-2113"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4421&mlon=-85.421#map=15/42.4421/-85.421",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4421,
+    "longitude": -85.421
+  },
+  "url": "http://www.cccamuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600293",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

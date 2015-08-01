@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189501
+  },
+  "name": "Museo archeologico nazionale di Venezia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzetta S. Marco",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4336&mlon=12.3394#map=15/45.4336/12.3394",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4336,
+    "longitude": 12.3394
+  },
+  "url": "http://www.polomuseale.venezia.beniculturali.it/index.php?it/6/museo-archeologico-nazionale",
+  "telephone": "+39 0415225978",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni dalle 10.00 alle 17.00 (dal 1 novembre al 31 marzo) e dalle 10.00 alle 19.00 (dal 1 aprile al 31 ottobre)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "17,00 euro (biglietto unico integrato \\*)"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8c9IT51ro4OyePGFLFz7-rXDScQ=/1000x1000/museums/logos/000/189/501/original/49e7ff417543cb5f4a4b5f07d78feb42ba9aaa3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107779",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

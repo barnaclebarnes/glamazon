@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153612
+  },
+  "name": "THE PURE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "522 WOODLAWN AVE",
+    "addressLocality": "ZANESVILLE",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43701-4944"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9309&mlon=-82.0085#map=15/39.9309/-82.0085",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9309,
+    "longitude": -82.0085
+  },
+  "url": "http://purecenter.org",
+  "telephone": "+1 (740) 450-3100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901390",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

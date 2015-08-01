@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136959
+  },
+  "name": "MCDONALD'S MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "400 LEE ST",
+    "addressLocality": "DES PLAINES",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60016"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0461&mlon=-87.8858#map=15/42.0461/-87.8858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0461,
+    "longitude": -87.8858
+  },
+  "url": "http://mcdonalds.com/corp/about/museum_info.html",
+  "telephone": "+1 (847) 297-5022",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700104",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

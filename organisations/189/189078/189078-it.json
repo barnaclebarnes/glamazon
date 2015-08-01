@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189078
+  },
+  "name": "Museo di cultura popolare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Andreas Hofer, 50",
+    "addressLocality": "Egna/Neumarkt",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.3124&mlon=11.2698#map=15/46.3124/11.2698",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.3124,
+    "longitude": 11.2698
+  },
+  "url": "http://www.musei-altoadige.it/it/musei.asp?muspo_id=666",
+  "telephone": "+39 +39 0471 812290, +39 333 2394540",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì dopo Pasqua - Ognissanti dom, mar ore 10-12, mar-ven ore 16-18 dal 15 settembre al 20 ottobre: mar-ven aperto anche la mattina gruppi a partire da 10 persone previo appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta libera"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZuTEBHDWM0BoXlNNnPovxyzXQuM=/1000x1000/museums/logos/000/189/078/original/ab5a6017279876bfe318495812de5557f8169.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100538",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

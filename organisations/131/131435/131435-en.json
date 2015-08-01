@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131435
+  },
+  "name": "SAN MATEO ARBORETUM SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 9TH AVE",
+    "addressLocality": "SAN MATEO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94401-4202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5603&mlon=-122.32#map=15/37.5603/-122.32",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5603,
+    "longitude": -122.32
+  },
+  "url": "http://www.sanmateoarboretum.org",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/San_Mateo_Arboretum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601561",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185805
+  },
+  "name": "Museo del presente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nicolaj Lenin , ",
+    "addressLocality": "Rende",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.3258&mlon=16.2417#map=15/39.3258/16.2417",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.3258,
+    "longitude": 16.2417
+  },
+  "telephone": "+39 0984.462493",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LUe5iJ2r-vkSqpwAHWWPHGQEx2U=/1000x1000/museums/logos/000/185/805/original/3e46484f86fc0bd713ac7f41512e13f9757c6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108366",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161455
+  },
+  "name": "HILL HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "221 NORTH ST",
+    "addressLocality": "PORTSMOUTH",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23704-2601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8384&mlon=-76.2989#map=15/36.8384/-76.2989",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8384,
+    "longitude": -76.2989
+  },
+  "telephone": "+1 (757) 393-0241",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100961",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

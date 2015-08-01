@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160628
+  },
+  "name": "HAMPTON ROADS NAVAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 WATERSIDE DR",
+    "addressLocality": "NORFOLK",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23510"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8468&mlon=-76.2939#map=15/36.8468/-76.2939",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8468,
+    "longitude": -76.2939
+  },
+  "url": "http://www.hrnm.navy.mil",
+  "telephone": "+1 (757) 322-2987",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/35965678215"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100134",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

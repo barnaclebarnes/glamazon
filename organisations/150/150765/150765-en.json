@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150765
+  },
+  "name": "ITHACA AVA'TION HERITAGE FUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "119 E SENECA ST APT 400",
+    "addressLocality": "ITHACA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14850-4359"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4404&mlon=-76.498#map=15/42.4404/-76.498",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4404,
+    "longitude": -76.498
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602059",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

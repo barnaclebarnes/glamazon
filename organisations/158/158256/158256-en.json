@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158256
+  },
+  "name": "BEER CAN HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "222 MALONE ST",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7637&mlon=-95.4193#map=15/29.7637/-95.4193",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7637,
+    "longitude": -95.4193
+  },
+  "url": "http://www.beercanhouse.org",
+  "telephone": "+1 (713) 880-2008",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800356",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

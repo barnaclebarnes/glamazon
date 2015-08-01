@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137805
+  },
+  "name": "WINNETKA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 365",
+    "addressLocality": "WINNETKA",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60093-0365"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1024&mlon=-87.7336#map=15/42.1024/-87.7336",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1024,
+    "longitude": -87.7336
+  },
+  "url": "http://www.winnetkahistory.org",
+  "telephone": "+1 (847) 446-0001",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700950",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

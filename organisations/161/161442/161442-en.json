@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161442
+  },
+  "name": "JAMES MADISON UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7101 DUKE HALL JMU",
+    "addressLocality": "HARRISONBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22807-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4413&mlon=-78.8743#map=15/38.4413/-78.8743",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4413,
+    "longitude": -78.8743
+  },
+  "url": "http://www.jmu.edu",
+  "telephone": "+1 (540) 568-8829",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100948",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

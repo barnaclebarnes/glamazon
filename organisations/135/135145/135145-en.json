@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135145
+  },
+  "name": "MUSEUM OF SOUTHERN HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4304 HERSCHEL ST",
+    "addressLocality": "JACKSONVILLE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32210-2210"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.283&mlon=-81.7135#map=15/30.283/-81.7135",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.283,
+    "longitude": -81.7135
+  },
+  "url": "http://www.museumsouthernhistory.com",
+  "telephone": "+1 (904) 388-3574",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200700",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

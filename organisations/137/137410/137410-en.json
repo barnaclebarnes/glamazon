@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137410
+  },
+  "name": "NORTHWESTERN UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "633 CLARK STREETCROWN C",
+    "addressLocality": "EVANSTON",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60208-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0496&mlon=-87.6786#map=15/42.0496/-87.6786",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0496,
+    "longitude": -87.6786
+  },
+  "url": "http://www.northwestern.edu",
+  "telephone": "+1 (847) 491-3741",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700555",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

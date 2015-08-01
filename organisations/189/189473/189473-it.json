@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189473
+  },
+  "name": "Museo di storia naturale e archeologia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Piave, 51",
+    "addressLocality": "Montebelluna",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7786&mlon=12.0583#map=15/45.7786/12.0583",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7786,
+    "longitude": 12.0583
+  },
+  "url": "http://www.museomontebelluna.it",
+  "telephone": "+39 0423300465",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1iBFD_dOzC-UTr1z3UFKWfnl6CY=/1000x1000/museums/logos/000/189/473/original/1ff025869cbb6a969ed3342c079c3e254d6f61b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100977",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

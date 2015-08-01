@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158042
+  },
+  "name": "MUSEUM OF WEIRD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "412 E 6TH ST",
+    "addressLocality": "AUSTIN",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78701"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.2669&mlon=-97.7388#map=15/30.2669/-97.7388",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.2669,
+    "longitude": -97.7388
+  },
+  "url": "http://www.museumoftheweird.com",
+  "telephone": "+1 (512) 476-5493",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800142",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

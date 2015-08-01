@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186404
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza S. Marco, ",
+    "addressLocality": "Latina",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4649&mlon=12.9032#map=15/41.4649/12.9032",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4649,
+    "longitude": 12.9032
+  },
+  "url": "http://www.comune.latina.it",
+  "telephone": "+39 0773486913",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/v7bWYVuADdFvuDUSfPgKSByeAO4=/1000x1000/museums/logos/000/186/404/original/76994291e3e4af7ccee664bf2c68aacd19fef.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101435",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

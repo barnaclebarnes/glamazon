@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187972
+  },
+  "name": "Appartamenti reali del Borgo Castello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Carlo Emanuele II, 256 (entrata Ponte Verde), ",
+    "addressLocality": "Venaria Reale",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1342&mlon=7.62905#map=15/45.1342/7.62905",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1342,
+    "longitude": 7.62905
+  },
+  "url": "http://www.parks.it/parco.mandria",
+  "telephone": "+39 0114993311",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì - domenica 10.30 - 17.30 Dal 01-12-2013 al 28-02-2014 su prenotazione venerdì - domenica 10.30 - 17.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 8.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lkx1UFeGJ0P80vhtamj9bPSGD8E=/1000x1000/museums/logos/000/187/972/original/ecaf64ac5ef03ea98a547b1765f1e0ccc49216e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102789",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

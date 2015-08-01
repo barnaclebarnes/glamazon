@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156312
+  },
+  "name": "JOHN COLTRANE HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1431 FITZWATER STREET",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19146-2227"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.942&mlon=-75.1672#map=15/39.942/-75.1672",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.942,
+    "longitude": -75.1672
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201506",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

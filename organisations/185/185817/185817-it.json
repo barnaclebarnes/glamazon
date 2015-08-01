@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185817
+  },
+  "name": "Museo diocesano di San Marco Argentano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vincenzo Selvaggi , ",
+    "addressLocality": "San Marco Argentano",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5579&mlon=16.118#map=15/39.5579/16.118",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5579,
+    "longitude": 16.118
+  },
+  "telephone": "+39 0984-511618",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/agqQhbsvf6E-P-vYenn74GGabk4=/1000x1000/museums/logos/000/185/817/original/2f2e71ba11899f68485927740385bd2d7608f3e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108416",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

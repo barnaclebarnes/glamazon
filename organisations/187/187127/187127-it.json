@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187127
+  },
+  "name": "Il Museo degli stucchi della Basilica di Santa Maria Maggiore",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castrovecchio",
+    "addressLocality": "Lomello",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1228&mlon=8.79362#map=15/45.1228/8.79362",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1228,
+    "longitude": 8.79362
+  },
+  "url": "http://www.parrocchiadilommelo.it",
+  "telephone": "+39 3392051058",
+  "contactPoint": [
+
+  ],
+  "openingHours": "15.00-18.00 sabato e domenica; su appuntamento da lunedì a venerdì (tel. 339 2051058)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Ch-RWo4eZREaOkUI_7aEh7uts2E=/1000x1000/museums/logos/000/187/127/original/bac95135eb4058da8b3ed5f8f27aeac7c8b739f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "113321",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

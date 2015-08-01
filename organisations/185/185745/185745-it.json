@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185745
+  },
+  "name": "Museo civico di Taverna (Italia)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del popolo, 1",
+    "addressLocality": "Taverna",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0205&mlon=16.5821#map=15/39.0205/16.5821",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0205,
+    "longitude": 16.5821
+  },
+  "url": "http://www.museiditaverna.it/",
+  "telephone": "+39 0961924824",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101712",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

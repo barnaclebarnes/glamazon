@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161072
+  },
+  "name": "AMERICAN HORTICULTURAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7931 EAST BOULEVARD DRIVE",
+    "addressLocality": "ALEXANDRIA",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22308-1300"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7425&mlon=-77.0478#map=15/38.7425/-77.0478",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7425,
+    "longitude": -77.0478
+  },
+  "url": "http://www.ahs.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100578",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

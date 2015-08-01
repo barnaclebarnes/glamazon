@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146239
+  },
+  "name": "WESTPORT HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4000 BALTIMORE AVE",
+    "addressLocality": "KANSAS CITY",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "64111-2234"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0539&mlon=-94.5875#map=15/39.0539/-94.5875",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0539,
+    "longitude": -94.5875
+  },
+  "url": "http://www.westporthistorical.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900668",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

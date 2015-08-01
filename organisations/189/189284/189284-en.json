@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189284
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Danti, 18",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1126&mlon=12.3899#map=15/43.1126/12.3899",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1126,
+    "longitude": 12.3899
+  },
+  "url": "http://www.comune.perugia.it",
+  "telephone": "+39 0755733669",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/t4NQfnlbtPuEuSWB5Zm7AH4dshQ=/1000x1000/museums/logos/000/189/284/original/4c95842c2cf6bd2b96b9ae12d1f3785b4db666.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100739",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

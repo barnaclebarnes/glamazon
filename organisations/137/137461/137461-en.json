@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137461
+  },
+  "name": "HYDE PARK HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5529 S LAKE PARK AVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60637-1916"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7946&mlon=-87.5875#map=15/41.7946/-87.5875",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7946,
+    "longitude": -87.5875
+  },
+  "url": "http://www.hydeparkhistory.org/",
+  "telephone": "+1 (773) 493-1994",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700606",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

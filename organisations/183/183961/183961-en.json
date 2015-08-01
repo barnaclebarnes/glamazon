@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183961
+  },
+  "name": "E.T.A. Hoffmann-Haus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schillerplatz 26",
+    "addressLocality": "Bamberg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96047"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8898&mlon=10.8908#map=15/49.8898/10.8908",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8898,
+    "longitude": 10.8908
+  },
+  "url": "http://www.etahg.de/etahaus/",
+  "telephone": "0951/2976-200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183961",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

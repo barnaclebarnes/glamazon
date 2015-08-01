@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162127
+  },
+  "name": "THE AMERICAN MUSEUM OF RADIO AND ELECTRICITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1312 BAY ST",
+    "addressLocality": "BELLINGHAM",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98225-4322"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7515&mlon=-122.481#map=15/48.7515/-122.481",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7515,
+    "longitude": -122.481
+  },
+  "url": "http://amre.us",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300576",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

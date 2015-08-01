@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146023
+  },
+  "name": "MINIATURE MUSEUM OF GREATER ST LOUIS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4746 GRAVOIS AVE",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63116-2437"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5817&mlon=-90.2667#map=15/38.5817/-90.2667",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5817,
+    "longitude": -90.2667
+  },
+  "url": "http://www.miniaturemuseum.org",
+  "telephone": "+1 (314) 832-7790",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900452",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

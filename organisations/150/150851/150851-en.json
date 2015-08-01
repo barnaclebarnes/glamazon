@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150851
+  },
+  "name": "22 MAIN STREET COOPERSTOWN INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 731",
+    "addressLocality": "COOPERSTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13326-0731"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7084&mlon=-74.9124#map=15/42.7084/-74.9124",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7084,
+    "longitude": -74.9124
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602145",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

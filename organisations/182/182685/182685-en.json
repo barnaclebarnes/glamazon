@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182685
+  },
+  "name": "Willibaldsburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgstraße 19",
+    "addressLocality": "Eichstätt",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85072"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8944&mlon=11.1696#map=15/48.8944/11.1696",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8944,
+    "longitude": 11.1696
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/eichsta.htm",
+  "telephone": "08421/4730",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182685",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

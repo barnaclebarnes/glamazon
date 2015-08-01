@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187178
+  },
+  "name": "Civico museo archeologico di Angera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Marconi, 2",
+    "addressLocality": "Angera",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7733&mlon=8.57659#map=15/45.7733/8.57659",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7733,
+    "longitude": 8.57659
+  },
+  "telephone": "+39 0331931915",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9eoKPvg6hsQUTj4g0bCVB6HmAWs=/1000x1000/museums/logos/000/187/178/original/a7147cffa8e0e1c7bcf5519ac195bbde1451f4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103800",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

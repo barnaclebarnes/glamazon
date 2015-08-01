@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188434
+  },
+  "name": "Acquario di Messina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Unità d'Italia, ",
+    "addressLocality": "Messina",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.199&mlon=15.5576#map=15/38.199/15.5576",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.199,
+    "longitude": 15.5576
+  },
+  "url": "http://www.acquariomessina.it",
+  "telephone": "+39 09048897",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mar.-sab. 9,00–13,00/ 15,00–19,00, dom. 9,00– 13,00 V. guidate dal mart. al ven. dalle 9,00 alle 12,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/PznWzB9g30c28cc45F5f3cpDuEg=/1000x1000/museums/logos/000/188/434/original/74b33d4a61a630f1ab1bc2f52e3cf5dd77208289.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101250",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

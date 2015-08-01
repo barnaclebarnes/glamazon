@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137609
+  },
+  "name": "CHICAGO BLUES MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 81410",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60681-0410"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8845&mlon=-87.6227#map=15/41.8845/-87.6227",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8845,
+    "longitude": -87.6227
+  },
+  "telephone": "+1 (773) 828-8118",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700754",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

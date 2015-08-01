@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182721
+  },
+  "name": "Künstlerhaus Exter",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Blumenweg 5",
+    "addressLocality": "Übersee",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83236"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8358&mlon=12.484#map=15/47.8358/12.484",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8358,
+    "longitude": 12.484
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/ub_exter.htm",
+  "telephone": "08642/895083",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182721",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

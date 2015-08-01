@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186309
+  },
+  "name": "Museo civico archeologico di Codroipo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Maria Maggiore, SNC",
+    "addressLocality": "Codroipo",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9621&mlon=12.9771#map=15/45.9621/12.9771",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9621,
+    "longitude": 12.9771
+  },
+  "url": "http://www.comune.codroipo.it",
+  "telephone": "+39 0432 824696",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e domenica 9.30-12.30; su richiesta in altri giorni e orari",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UT1fd6-AHXQY4lqDob9EXY953S4=/1000x1000/museums/logos/000/186/309/original/243d0bc8e84d8d31ec1b19efefe3697a1a343c7.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100276",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

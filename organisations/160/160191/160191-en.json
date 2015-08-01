@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160191
+  },
+  "name": "JOHN HUTCHINGS MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "55 N CENTER ST",
+    "addressLocality": "LEHI",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84043-1826"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3885&mlon=-111.849#map=15/40.3885/-111.849",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3885,
+    "longitude": -111.849
+  },
+  "url": "http://www.hutchingsmuseum.org",
+  "telephone": "+1 (801) 768-7180",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900257",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

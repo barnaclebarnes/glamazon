@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135523
+  },
+  "name": "ORMOND MEMORIAL ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "78 E GRANADA BLVD",
+    "addressLocality": "ORMOND BEACH",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32176-6534"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.29&mlon=-81.0448#map=15/29.29/-81.0448",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.29,
+    "longitude": -81.0448
+  },
+  "url": "http://www.ormondartmuseum.org",
+  "telephone": "+1 (386) 676-3347",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201078",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

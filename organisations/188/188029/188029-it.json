@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188029
+  },
+  "name": "Museo di scienze naturali di Guardabosone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, ",
+    "addressLocality": "Guardabosone",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.702&mlon=8.24933#map=15/45.702/8.24933",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.702,
+    "longitude": 8.24933
+  },
+  "url": "http://www.museostorianaturale.org",
+  "telephone": "+39 015761116",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102834",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143450
+  },
+  "name": "HANDS ON HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "51 MACON ROAD",
+    "addressLocality": "BURLINGTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01803-2311"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5141&mlon=-71.2149#map=15/42.5141/-71.2149",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5141,
+    "longitude": -71.2149
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501080",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146726
+  },
+  "name": "FRANK HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2010 UNIVERSITY DRIVE UNIVERSITY OF NEBRASKA-KEARNEY",
+    "addressLocality": "KEARNEY",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68849"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7022&mlon=-99.0964#map=15/40.7022/-99.0964",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7022,
+    "longitude": -99.0964
+  },
+  "url": "http://www.frankhouse.org",
+  "telephone": "+1 (308) 865-8284",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100065",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

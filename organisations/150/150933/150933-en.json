@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150933
+  },
+  "name": "MADRID HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 233",
+    "addressLocality": "MADRID",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13660-0233"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7493&mlon=-75.1533#map=15/44.7493/-75.1533",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7493,
+    "longitude": -75.1533
+  },
+  "url": "http://www.madridhistoricalsociety.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602227",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

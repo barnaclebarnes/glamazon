@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130877
+  },
+  "name": "FRIENDS OF ALAMEDA THEATRE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2504 SANTA CLARA AVENUE 2",
+    "addressLocality": "ALAMEDA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94501-3070"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7643&mlon=-122.24#map=15/37.7643/-122.24",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7643,
+    "longitude": -122.24
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3NqxZhKGEjzDL_8G8XPGaSLLEoA=/1000x1000/museums/logos/000/130/877/original/AlamedaTheatre.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Alameda_Theatre_(Alameda,_California)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

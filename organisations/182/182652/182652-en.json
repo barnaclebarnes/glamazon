@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182652
+  },
+  "name": "Archäologisches Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Reichsstraße 34",
+    "addressLocality": "Donauwörth",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86609"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7192&mlon=10.7788#map=15/48.7192/10.7788",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7192,
+    "longitude": 10.7788
+  },
+  "url": "http://www.donauwoerth.de/html/user_de_Museen+ArchaeologischesMuseum.html",
+  "telephone": "0906/789-170",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182652",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

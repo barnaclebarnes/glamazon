@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188272
+  },
+  "name": "Museo mineralogico sardo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 49",
+    "addressLocality": "Iglesias",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.3121&mlon=8.53132#map=15/39.3121/8.53132",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.3121,
+    "longitude": 8.53132
+  },
+  "telephone": "+39 3334479980",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,30- 13,00 tutti i giorni",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Elmg3d7MHSNhvOa5VLE2-FAowbA=/1000x1000/museums/logos/000/188/272/original/7f5c31c49a43bb6fe864bde3ae3bc2b8ecfb3390.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106289",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

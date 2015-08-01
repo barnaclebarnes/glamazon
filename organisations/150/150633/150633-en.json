@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150633
+  },
+  "name": "HISTORICAL SOCIETY OF GREATER PORT JEFFERSON",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "115 PROSPECT ST",
+    "addressLocality": "PRT JEFFERSON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11777-1812"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9456&mlon=-73.0666#map=15/40.9456/-73.0666",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9456,
+    "longitude": -73.0666
+  },
+  "url": "http://portjeffhistorical.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601927",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

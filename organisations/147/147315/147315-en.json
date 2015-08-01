@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147315
+  },
+  "name": "MOUNT WASHINGTON OBSERVATORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2779 WHITE MOUNTAIN HWY",
+    "addressLocality": "NORTH CONWAY",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03860-5194"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0565&mlon=-71.1313#map=15/44.0565/-71.1313",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0565,
+    "longitude": -71.1313
+  },
+  "url": "http://www.mountwashington.org",
+  "telephone": "+1 (603) 356-2137",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300090",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

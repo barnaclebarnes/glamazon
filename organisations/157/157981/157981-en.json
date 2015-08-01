@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157981
+  },
+  "name": "SID RICHARDSON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "309 MAIN ST",
+    "addressLocality": "FORT WORTH",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7557&mlon=-97.3319#map=15/32.7557/-97.3319",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7557,
+    "longitude": -97.3319
+  },
+  "url": "http://www.sidrichardsonmuseum.org",
+  "telephone": "+1 (817) 332-6554",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/sidrichardsonmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/SidRichardson"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800081",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

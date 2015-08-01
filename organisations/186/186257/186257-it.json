@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186257
+  },
+  "name": "Museo provinciale della vita contadina \"Diogene Penzi\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Altan, 43",
+    "addressLocality": "San Vito al Tagliamento",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9132&mlon=12.8572#map=15/45.9132/12.8572",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9132,
+    "longitude": 12.8572
+  },
+  "url": "http://www.provincia.pordenone.it",
+  "telephone": "+39 0434833275",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato dalle ore 9.00 alle 13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eSm0-D1TdomzKxopXNsktD0F9x8=/1000x1000/museums/logos/000/186/257/original/b08cc8133173ce50c5c0aed07b1f78e5d395c7d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100214",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

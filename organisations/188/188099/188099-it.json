@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188099
+  },
+  "name": "Museo della Cattedrale di Barletta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo , ",
+    "addressLocality": "Barletta",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3209&mlon=16.285#map=15/41.3209/16.285",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3209,
+    "longitude": 16.285
+  },
+  "telephone": "+39 0883345522",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZIeoMXjGqPP8yfhsx-zD_vlPaCE=/1000x1000/museums/logos/000/188/099/original/19db96d24a7341526bc38eabf81145374f665f66.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104952",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

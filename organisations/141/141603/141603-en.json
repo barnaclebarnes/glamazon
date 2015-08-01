@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141603
+  },
+  "name": "MOOSEHEAD HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1116",
+    "addressLocality": "GREENVILLE",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04441-1116"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5127&mlon=-69.5543#map=15/45.5127/-69.5543",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5127,
+    "longitude": -69.5543
+  },
+  "url": "http://mooseheadhistory.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300452",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

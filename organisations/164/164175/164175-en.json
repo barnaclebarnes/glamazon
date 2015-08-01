@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164175
+  },
+  "name": "Old Treasury Building Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8161&mlon=144.964#map=15/-37.8161/144.964",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8161,
+    "longitude": 144.964
+  },
+  "url": "http://www.oldtreasurybuilding.org.au",
+  "telephone": "03 9651 2233",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sunday to Friday 10am to 4pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "old-treasury-building",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/old-treasury-building",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

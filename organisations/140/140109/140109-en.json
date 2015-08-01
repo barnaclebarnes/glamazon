@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140109
+  },
+  "name": "WICHITA ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1400 WEST MUSEUM BLVD",
+    "addressLocality": "WICHITA",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67203-3296"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6942&mlon=-97.3557#map=15/37.6942/-97.3557",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6942,
+    "longitude": -97.3557
+  },
+  "url": "http://wichitaartmuseum.org",
+  "telephone": "+1 (316) 268-4921",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/60250058208"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/WAMinWichita"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000435",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

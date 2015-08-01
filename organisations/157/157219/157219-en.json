@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157219
+  },
+  "name": "SOUTH DAKOTA NATIONAL GUARD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 EAST DAKOTA AVE",
+    "addressLocality": "PIERRE",
+    "addressRegion": "SD",
+    "addressCountry": "United States",
+    "postalCode": "57501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3641&mlon=-100.352#map=15/44.3641/-100.352",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3641,
+    "longitude": -100.352
+  },
+  "url": "http://mva.sd.gov/natl_guard_museum.html",
+  "telephone": "+1 (605) 224-9991",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404600104",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

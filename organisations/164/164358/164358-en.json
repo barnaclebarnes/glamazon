@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164358
+  },
+  "name": "The Dax Centre",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.779&mlon=144.946#map=15/-37.779/144.946",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.779,
+    "longitude": 144.946
+  },
+  "url": "http://www.daxcentre.org",
+  "telephone": "9035 6753",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Wednesday 10am - 5pm, Thursday 10am - 8pm, Friday 10am -5pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "the-dax-centre",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/the-dax-centre",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

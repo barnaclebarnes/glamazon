@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145908
+  },
+  "name": "KANSAS CITY ZOOLOGICAL GARDENS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6700 ZOO DRIVE",
+    "addressLocality": "KANSAS CITY",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "64132"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0056&mlon=-94.532#map=15/39.0056/-94.532",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0056,
+    "longitude": -94.532
+  },
+  "url": "http://www.kansascityzoo.org/",
+  "telephone": "+1 (816) 595-1234",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900337",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

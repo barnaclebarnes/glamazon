@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182815
+  },
+  "name": "Kultur- und Militärmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Martin-Posser-Straße 14",
+    "addressLocality": "Grafenwöhr",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92655"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7205&mlon=11.9038#map=15/49.7205/11.9038",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7205,
+    "longitude": 11.9038
+  },
+  "url": "http://www.museum-grafenwoehr.de/",
+  "telephone": "09641/8501",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182815",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

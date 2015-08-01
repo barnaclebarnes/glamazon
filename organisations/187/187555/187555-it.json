@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187555
+  },
+  "name": "Castello di Montaldeo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ambrogio Doria, 4, ",
+    "addressLocality": "Montaldeo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6697&mlon=8.72962#map=15/44.6697/8.72962",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6697,
+    "longitude": 8.72962
+  },
+  "url": "http://www.altomonferrato.it",
+  "telephone": "+39 0143849113 - 0143 849121",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/T6L8-CeSCd_g9LVHLxKUV-4X9-c=/1000x1000/museums/logos/000/187/555/original/42e7785cddf122fcc57621162a9774da18afc70.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106716",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

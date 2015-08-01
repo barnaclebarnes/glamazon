@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144356
+  },
+  "name": "RAILS ON WHEELS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "525 E MICHIGAN AVE STE 151",
+    "addressLocality": "SALINE",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48176-1588"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1717&mlon=-83.7704#map=15/42.1717/-83.7704",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1717,
+    "longitude": -83.7704
+  },
+  "url": "http://railsonwheels.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600893",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

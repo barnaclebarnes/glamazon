@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130323
+  },
+  "name": "FULLERTON ART GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 N POMONA AVE",
+    "addressLocality": "FULLERTON",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92634-9480"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8724&mlon=-117.922#map=15/33.8724/-117.922",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8724,
+    "longitude": -117.922
+  },
+  "url": "http://www.cityoffullerton.com/depts/museum/",
+  "telephone": "+1 (714) 773-3262",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600449",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

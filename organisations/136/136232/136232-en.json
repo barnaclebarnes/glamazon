@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136232
+  },
+  "name": "MUSEUM OF DESIGN ATLANTA INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "GROUND FLOOR",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30309-7515"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7905&mlon=-84.385#map=15/33.7905/-84.385",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7905,
+    "longitude": -84.385
+  },
+  "url": "http://www.museumofdesign.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300503",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

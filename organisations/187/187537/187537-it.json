@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187537
+  },
+  "name": "Museo aziendale Sutter",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Stabilimento Sutter - Località Leigozze, ",
+    "addressLocality": "Borghetto di Borbera",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7307&mlon=8.9438#map=15/44.7307/8.9438",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7307,
+    "longitude": 8.9438
+  },
+  "url": "http://www.sutter.it",
+  "telephone": "+39 01436311",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QhkNMklUYMYcSB8TyUfCUYc4R4A=/1000x1000/museums/logos/000/187/537/original/e6635893e489abaaedf58452bc6312d5b9b05aaa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102445",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

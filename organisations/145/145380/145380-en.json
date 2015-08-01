@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145380
+  },
+  "name": "NATCHEZ HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 49",
+    "addressLocality": "NATCHEZ",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "39121-3912"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.5626&mlon=-91.4043#map=15/31.5626/-91.4043",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.5626,
+    "longitude": -91.4043
+  },
+  "url": "http://www.natchezhistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800087",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

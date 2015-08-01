@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186375
+  },
+  "name": "Museo dell'arte orafa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trocchio, ",
+    "addressLocality": "Cervaro",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4798&mlon=13.9027#map=15/41.4798/13.9027",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4798,
+    "longitude": 13.9027
+  },
+  "telephone": "+39 0776367001",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hZ2LzQmJ7t-sxsPCj3a-7KwBNrY=/1000x1000/museums/logos/000/186/375/original/6d3299ff9f57238b2464b1dd4c117ff85de25b5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101413",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131219
+  },
+  "name": "CALIFORNIA HETHUSHKA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 5041",
+    "addressLocality": "TORRANCE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90510-5041"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8295&mlon=-118.329#map=15/33.8295/-118.329",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8295,
+    "longitude": -118.329
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601345",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

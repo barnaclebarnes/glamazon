@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188263
+  },
+  "name": "Museo archeologico di Villasimius",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via A. Frau, 5",
+    "addressLocality": "Villasimius",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1438&mlon=9.51845#map=15/39.1438/9.51845",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1438,
+    "longitude": 9.51845
+  },
+  "url": "http://villasimiusweb.com",
+  "telephone": "+39 0707930290",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XZGHFi17-ynvMYez-YRkJshAw1E=/1000x1000/museums/logos/000/188/263/original/4f17df412e83a864dee85780b3dd5925d6545342.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103325",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

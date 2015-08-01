@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145168
+  },
+  "name": "HISTORIC HUTCHINSON",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 667",
+    "addressLocality": "HUTCHINSON",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55350-0667"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8886&mlon=-94.3801#map=15/44.8886/-94.3801",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8886,
+    "longitude": -94.3801
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700608",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

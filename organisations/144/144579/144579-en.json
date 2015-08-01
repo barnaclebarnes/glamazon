@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144579
+  },
+  "name": "SPAM MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1101 N MAIN ST",
+    "addressLocality": "AUSTIN",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55912"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6758&mlon=-92.9747#map=15/43.6758/-92.9747",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6758,
+    "longitude": -92.9747
+  },
+  "url": "http://www.spam.com",
+  "telephone": "+1 (507) 437-5100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700019",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

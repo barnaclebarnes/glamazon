@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141465
+  },
+  "name": "FRIENDSHIP MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 226",
+    "addressLocality": "FRIENDSHIP",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04547-0226"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9873&mlon=-69.3421#map=15/43.9873/-69.3421",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9873,
+    "longitude": -69.3421
+  },
+  "url": "http://www.friendshipmuseum.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300314",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189226
+  },
+  "name": "Pinacoteca comunale di Deruta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza dei Consoli, 15",
+    "addressLocality": "Deruta",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9822&mlon=12.4201#map=15/42.9822/12.4201",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9822,
+    "longitude": 12.4201
+  },
+  "url": "http://www.sistemamuseo.it",
+  "telephone": "+39 0759711000",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/98-h4R5S1Gs8prVWUELb7RgUiUA=/1000x1000/museums/logos/000/189/226/original/59aea5b755d2bd35ac671c5ddb78ca422fef49.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100706",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

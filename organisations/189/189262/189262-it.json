@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189262
+  },
+  "name": "Cappella di San Severo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Raffaello, 13",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1128&mlon=12.3921#map=15/43.1128/12.3921",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1128,
+    "longitude": 12.3921
+  },
+  "url": "http://www.comune.perugia.it",
+  "telephone": "+39 0755733864",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xCMoU-q7HxzkmzhBqOyMKPXdCZ0=/1000x1000/museums/logos/000/189/262/original/231e85ca3852771561deab793d5c284ee13b6e8c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100729",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

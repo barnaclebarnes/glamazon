@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160104
+  },
+  "name": "KIMBALL ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "638 PARK AVE",
+    "addressLocality": "PARK CITY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84060"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6463&mlon=-111.498#map=15/40.6463/-111.498",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6463,
+    "longitude": -111.498
+  },
+  "url": "http://www.kimballartcenter.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900170",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189299
+  },
+  "name": "Laboratorio di scienze della terra - Collezione Toni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Ermini, ",
+    "addressLocality": "Spoleto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7453&mlon=12.7384#map=15/42.7453/12.7384",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7453,
+    "longitude": 12.7384
+  },
+  "url": "http://www.lst-spoleto.it/museo.html",
+  "telephone": "+39 0743225700",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kxka6n-Qi-MBOfLsq0tQeqM-8KA=/1000x1000/museums/logos/000/189/299/original/db6d9229d3458a5288a65592596d423ecd2d63fd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100749",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187666
+  },
+  "name": "Il filatoio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Matteotti, 44, ",
+    "addressLocality": "Caraglio",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4257&mlon=7.42767#map=15/44.4257/7.42767",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4257,
+    "longitude": 7.42767
+  },
+  "url": "http://www.marcovaldo.it",
+  "telephone": "+39 0171618300",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rJluzml4f9T8Li_wDmbryo6v4u8=/1000x1000/museums/logos/000/187/666/original/f2c7ce94ebfa18fa67b612f12bd35f3b3cfdae2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102557",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

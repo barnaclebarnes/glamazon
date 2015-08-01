@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189280
+  },
+  "name": "Museo storico della Perugina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale San Sisto, 207/C",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0814&mlon=12.3388#map=15/43.0814/12.3388",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0814,
+    "longitude": 12.3388
+  },
+  "telephone": "+39 0755276796",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Ji1dLRjlle6oT9CE5MwQABkZB10=/1000x1000/museums/logos/000/189/280/original/9211928851fff78f418febd4c08f546acf145.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100735",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

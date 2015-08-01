@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150819
+  },
+  "name": "SI 350",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "258 BARBARA STREET",
+    "addressLocality": "STATEN ISLAND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10306-1841"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.569&mlon=-74.1373#map=15/40.569/-74.1373",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.569,
+    "longitude": -74.1373
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602113",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

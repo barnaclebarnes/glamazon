@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139500
+  },
+  "name": "HISTORIC PELLA TRUST INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1",
+    "addressLocality": "PELLA",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50219"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4119&mlon=-92.9096#map=15/41.4119/-92.9096",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4119,
+    "longitude": -92.9096
+  },
+  "url": "http://historicpellatrust.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900537",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

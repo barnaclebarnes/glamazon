@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163876
+  },
+  "name": "Footscray Historical Society",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8042&mlon=144.902#map=15/-37.8042/144.902",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8042,
+    "longitude": 144.902
+  },
+  "url": "http://footscrayhistoricalsociety.org.au/",
+  "telephone": "(03) 9689 3820",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "footscray-historical-society",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/footscray-historical-society",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

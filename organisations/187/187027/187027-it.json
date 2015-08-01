@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187027
+  },
+  "name": "Museo civico archeologico di Ostiglia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cornelio Nepote, 2",
+    "addressLocality": "Ostiglia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0663&mlon=11.1326#map=15/45.0663/11.1326",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0663,
+    "longitude": 11.1326
+  },
+  "url": "http://www.comune.ostiglia.mn.it",
+  "telephone": "+39 0386302562",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/m4pgsO0fgy9C3077dr0mCYOCQsA=/1000x1000/museums/logos/000/187/027/original/266cc78b81b571b60731185d46e9852c0bd1340.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103753",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

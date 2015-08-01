@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182814
+  },
+  "name": "Zündholzmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schönbuchener Straße 31",
+    "addressLocality": "Grafenwiesen",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93479"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.2008&mlon=12.8833#map=15/49.2008/12.8833",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.2008,
+    "longitude": 12.8833
+  },
+  "url": "http://www.deutsches-zuendholzmuseum.de",
+  "telephone": "09941/9403-17",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182814",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

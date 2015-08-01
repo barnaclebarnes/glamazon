@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187216
+  },
+  "name": "Civico museo archeologico di Villa Mirabello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Motta, 4",
+    "addressLocality": "Varese",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8157&mlon=8.8237#map=15/45.8157/8.8237",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8157,
+    "longitude": 8.8237
+  },
+  "url": "http://www.comune.varese.it",
+  "telephone": "+39 0332255485",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/O6-HuYkjQyrUUsSUrXs5Ca5b7vI=/1000x1000/museums/logos/000/187/216/original/5fb1af2364bbea630fc764e15cd4f3b3679ba.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103843",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

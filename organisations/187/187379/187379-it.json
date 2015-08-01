@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187379
+  },
+  "name": "Museo archeologico comunale di Matelica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Francesco, ",
+    "addressLocality": "Matelica",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2572&mlon=13.0106#map=15/43.2572/13.0106",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2572,
+    "longitude": 13.0106
+  },
+  "url": "http://www.comune.matelica.mc.it",
+  "telephone": "+39 0737787244",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ottobre - giugno lunedì - venerdì 10.30 - 12.30 sabato e domenica (festivi e prefestivi) 10,30 - 12,30; 16,30 – 18,30 luglio – settembre lunedì - domenica 10,30 – 13,00; 16,30 – 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4D9DdLDCeAPhQ-y859YxLN8I0m0=/1000x1000/museums/logos/000/187/379/original/77a56eec533fb9c41230d416b5b7952bf7d1214f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104194",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

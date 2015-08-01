@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187439
+  },
+  "name": "Museo dei colori naturali \"Delio Bischi\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dell'Abbazia, 7",
+    "addressLocality": "Borgo Pace",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6225&mlon=12.2551#map=15/43.6225/12.2551",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6225,
+    "longitude": 12.2551
+  },
+  "url": "http://www.oasisanbenedetto.it/museocolori.htm",
+  "telephone": "+39 072280133",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da marzo al 5 novembre: sabato, domenica e festivi 9.00 - 13.00 e 15.00 - 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wFeTnNVwK390FeNF8dBptwLKXSU=/1000x1000/museums/logos/000/187/439/original/ea9a4cb47aa22619c7ab5088d99f8b65952d13.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104260",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134471
+  },
+  "name": "THE KNOTT HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 S. BRONOUGH STREET",
+    "addressLocality": "TALLAHASSEE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32399-0250"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.438&mlon=-84.2844#map=15/30.438/-84.2844",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.438,
+    "longitude": -84.2844
+  },
+  "url": "http://www.museumoffloridahistory.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200025",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153069
+  },
+  "name": "OHIO ACADEMY OF SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1500 W 3RD AVE STE 228",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43212-2817"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9852&mlon=-83.0449#map=15/39.9852/-83.0449",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9852,
+    "longitude": -83.0449
+  },
+  "url": "http://www.ohiosci.org",
+  "telephone": "+1 (614) 488-2228",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900846",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

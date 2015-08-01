@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164132
+  },
+  "name": "Murray Arts",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.0933&mlon=146.904#map=15/-36.0933/146.904",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.0933,
+    "longitude": 146.904
+  },
+  "url": "http://www.murrayarts.org.au/",
+  "telephone": "(02) 6021 5034",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "murray-arts",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/murray-arts",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

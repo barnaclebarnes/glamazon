@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132109
+  },
+  "name": "ROBERT LOUIS STEVENSON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1490 LIBRARY LANE",
+    "addressLocality": "ST. HELENA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94574"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5075&mlon=-122.47#map=15/38.5075/-122.47",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5075,
+    "longitude": -122.47
+  },
+  "url": "http://www.stevensonmuseum.org",
+  "telephone": "+1 (707) 963-3757",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602235",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

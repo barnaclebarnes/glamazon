@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135245
+  },
+  "name": "LEESBURG HERITAGE SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "111 SOUTH 6TH STREET",
+    "addressLocality": "LEESBURG",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "34748-5874"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=28.8107&mlon=-81.878#map=15/28.8107/-81.878",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.8107,
+    "longitude": -81.878
+  },
+  "url": "http://leesburgflorida.gov",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200800",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

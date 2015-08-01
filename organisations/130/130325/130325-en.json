@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130325
+  },
+  "name": "GEOGRAPHY MAP LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "CALIFORNIA STATE UNIVERSITY, NORTHRIDGE 18111 NORDHOFF STREET",
+    "addressLocality": "NORTHRIDGE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91330-8249"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.2355&mlon=-118.528#map=15/34.2355/-118.528",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.2355,
+    "longitude": -118.528
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600451",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

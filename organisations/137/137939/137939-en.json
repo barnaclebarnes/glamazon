@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137939
+  },
+  "name": "ILLINOIS MILITARY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "RR 1",
+    "addressLocality": "GREENUP",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62428-9801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2446&mlon=-88.1588#map=15/39.2446/-88.1588",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2446,
+    "longitude": -88.1588
+  },
+  "telephone": "+1 (217) 923-3235",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701084",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

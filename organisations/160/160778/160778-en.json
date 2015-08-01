@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160778
+  },
+  "name": "FRIENDS OF THE BLUE RIDGE MOUNTAINS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1002",
+    "addressLocality": "PURCELLVILLE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "20134-1002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1394&mlon=-77.7138#map=15/39.1394/-77.7138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1394,
+    "longitude": -77.7138
+  },
+  "url": "http://www.friendsofblueridge.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100284",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

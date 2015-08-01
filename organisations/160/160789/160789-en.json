@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160789
+  },
+  "name": "DANVILLE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 6",
+    "addressLocality": "DANVILLE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24543"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.586&mlon=-79.3954#map=15/36.586/-79.3954",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.586,
+    "longitude": -79.3954
+  },
+  "url": "http://danvillehistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100295",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

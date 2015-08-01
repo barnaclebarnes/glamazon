@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137147
+  },
+  "name": "BARN KEEPERS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 261",
+    "addressLocality": "BLOOMINGTON",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61702-0261"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4887&mlon=-88.9562#map=15/40.4887/-88.9562",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4887,
+    "longitude": -88.9562
+  },
+  "url": "http://www.barnkeepers.org/",
+  "telephone": "+1 (309) 378-2406",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700292",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189826
+  },
+  "name": "CHICAGO PARK DISTRICT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7059 S. SOUTH SHORE DR.",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60649"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5193&mlon=-122.677#map=15/45.5193/-122.677",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5193,
+    "longitude": -122.677
+  },
+  "url": "http://www.chicagoparkdistrict.com",
+  "telephone": "+1 (773) 256-0595",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701394",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

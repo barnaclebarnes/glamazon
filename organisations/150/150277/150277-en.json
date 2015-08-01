@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150277
+  },
+  "name": "TOWN OF LEXINGTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 247",
+    "addressLocality": "LEXINGTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12452"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2437&mlon=-74.3768#map=15/42.2437/-74.3768",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2437,
+    "longitude": -74.3768
+  },
+  "url": "http://www.lexingtonnyhistoricalsociety.com/",
+  "telephone": "+1 (518) 989-9570",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601571",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

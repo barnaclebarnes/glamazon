@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186828
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nazionale, 67",
+    "addressLocality": "Casazza",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7505&mlon=9.90863#map=15/45.7505/9.90863",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7505,
+    "longitude": 9.90863
+  },
+  "url": "http://www.museocavellas.it",
+  "telephone": "+39 035810640",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sYPnw3fZgvTO5a2R8MnRwUvgjZw=/1000x1000/museums/logos/000/186/828/original/a921c73ff47a0efe9ab1dbdb5279271406b1a78.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103511",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

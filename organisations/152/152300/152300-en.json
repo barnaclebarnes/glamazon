@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152300
+  },
+  "name": "MUSEUM AT FRIENDS HOME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "115 S 4TH ST",
+    "addressLocality": "WAYNESVILLE",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45068"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5298&mlon=-84.0909#map=15/39.5298/-84.0909",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5298,
+    "longitude": -84.0909
+  },
+  "url": "http://www.friendshomemuseum.org",
+  "telephone": "+1 (513) 897-1607",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900077",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

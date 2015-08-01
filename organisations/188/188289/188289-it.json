@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188289
+  },
+  "name": "Museo d'arte moderna e contemporanea \"Antonio Ortiz Echague\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Antonio Ortiz Echague, 1",
+    "addressLocality": "Atzara",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9929&mlon=9.07649#map=15/39.9929/9.07649",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9929,
+    "longitude": 9.07649
+  },
+  "telephone": "+39 078465508",
+  "contactPoint": [
+
+  ],
+  "openingHours": "est. 10,00 - 13,00 e 15,00 - 19,00; inv. 10,00 - 13,00 e 16,00 - 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1PRFyrhGIgvvqbwb3dllp4Y_X28=/1000x1000/museums/logos/000/188/289/original/f611aff6659c3527af5f3c777bfcefa842c0c1c9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103358",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

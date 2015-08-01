@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185718
+  },
+  "name": "Museo naturalistico Libero Gatti di Catanzaro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cattaneo , 4 ",
+    "addressLocality": "Catanzaro",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8263&mlon=16.608#map=15/38.8263/16.608",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8263,
+    "longitude": 16.608
+  },
+  "telephone": "+39 0961 911530",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MIuNZUx7c48OIavWxgN5PE3AnCc=/1000x1000/museums/logos/000/185/718/original/46f0ef92f29718983b42a2a5c8b2605a18c779.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108278",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

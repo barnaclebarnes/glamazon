@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159978
+  },
+  "name": "HYRUM MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "50 W MAIN ST",
+    "addressLocality": "HYRUM",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84319"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6341&mlon=-111.857#map=15/41.6341/-111.857",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6341,
+    "longitude": -111.857
+  },
+  "url": "http://www.hyrumlibrary.com",
+  "telephone": "+1 (435) 245-0208",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900044",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

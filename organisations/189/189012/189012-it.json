@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189012
+  },
+  "name": "Museo archeologico di Siena",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo - Spedale di S. Maria della Scala, 2",
+    "addressLocality": "Siena",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3172&mlon=11.3283#map=15/43.3172/11.3283",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3172,
+    "longitude": 11.3283
+  },
+  "telephone": "+39 057749153",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì e giovedì 9.00-17.00 , martedì, mercoledì, venerdì e sabato 9.00/14.00; 2° e 3° domenica del",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20336",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

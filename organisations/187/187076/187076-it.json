@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187076
+  },
+  "name": "Museo di Milano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Andrea, 6",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4685&mlon=9.19596#map=15/45.4685/9.19596",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4685,
+    "longitude": 9.19596
+  },
+  "url": "http://www.museodimilano.mi.it",
+  "telephone": "+39 02 76006964",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AUVCidQsKTlHkXbVkBvZhrdkdOU=/1000x1000/museums/logos/000/187/076/original/2a2b3c1644149ce8a70d69e1ef5617d6eb7d6f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103724",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

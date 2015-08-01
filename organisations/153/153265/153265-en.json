@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153265
+  },
+  "name": "ROCK AND ROLL HALL OF FAME AND MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 KEY PLAZA",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44114"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.508&mlon=-81.6945#map=15/41.508/-81.6945",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.508,
+    "longitude": -81.6945
+  },
+  "url": "http://www.rockhall.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901043",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

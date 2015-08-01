@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142509
+  },
+  "name": "GEORGE A. SMITH MUSEUM-JASON RUSSELL HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7-10 JASON STREET",
+    "addressLocality": "ARLINGTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02174"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4146&mlon=-71.1592#map=15/42.4146/-71.1592",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4146,
+    "longitude": -71.1592
+  },
+  "url": "http://www.arlingtonhistorical.org/visit/george-a-smith-museum/",
+  "telephone": "+1 (781) 648-4300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500139",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

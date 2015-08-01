@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182816
+  },
+  "name": "Museum der Stadt Grafing",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bahnhofstraße 10",
+    "addressLocality": "Grafing",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85567"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0457&mlon=11.964#map=15/48.0457/11.964",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0457,
+    "longitude": 11.964
+  },
+  "url": "http://www.museum-grafing.de",
+  "telephone": "08092/32105",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182816",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

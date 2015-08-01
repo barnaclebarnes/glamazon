@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186187
+  },
+  "name": "Museo della Resistenza di Valmozzola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vicolo delle Asse, 5",
+    "addressLocality": "Valmozzola",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5689&mlon=9.88288#map=15/44.5689/9.88288",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5689,
+    "longitude": 9.88288
+  },
+  "url": "http://www.istitutostoricoparma.it",
+  "telephone": "+39 +39 0521 287190",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Martedì - Mercoledì - Venerdì: 9.00 – 13.00 / 14.30 – 18.00 Sabato 9.30 – 12.30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111209",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

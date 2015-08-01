@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150420
+  },
+  "name": "NEW NETHERLAND ROUTES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1710",
+    "addressLocality": "SCHENECTADY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12301-1710"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8156&mlon=-73.9391#map=15/42.8156/-73.9391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8156,
+    "longitude": -73.9391
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601714",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

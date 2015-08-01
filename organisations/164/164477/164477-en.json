@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164477
+  },
+  "name": "Williamstown Historical Society",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8633&mlon=144.899#map=15/-37.8633/144.899",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8633,
+    "longitude": 144.899
+  },
+  "url": "http://williamstownhistsoc.org.au",
+  "telephone": "9397 1534",
+  "contactPoint": [
+
+  ],
+  "openingHours": "1st and 3rd Sundays - 2-5pm and by appointment.",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "williamstown-historical-society-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/williamstown-historical-society-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

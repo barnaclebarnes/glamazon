@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189088
+  },
+  "name": "Museo civico di Merano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via delle Corse, 42",
+    "addressLocality": "Merano/Meran",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6717&mlon=11.1594#map=15/46.6717/11.1594",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6717,
+    "longitude": 11.1594
+  },
+  "url": "http://www.comune.merano.bz.it",
+  "telephone": "+39 0473236015",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100546",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

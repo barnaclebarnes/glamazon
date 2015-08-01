@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148645
+  },
+  "name": "SITE SANTA FE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1606 PASEO DE PERALTA",
+    "addressLocality": "SANTA FE",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87501-3724"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.6817&mlon=-105.949#map=15/35.6817/-105.949",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.6817,
+    "longitude": -105.949
+  },
+  "url": "http://www.sitesantafe.org",
+  "telephone": "+1 (505) 989-1199",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/sitesantafe"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/SITESantaFe"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500235",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164430
+  },
+  "name": "Victorian College of the Arts Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8245&mlon=144.969#map=15/-37.8245/144.969",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8245,
+    "longitude": 144.969
+  },
+  "url": "http://vca.unimelb.edu.au/gallery",
+  "telephone": "+61 3 9685 9468",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "victorian-college-arts-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/victorian-college-arts-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

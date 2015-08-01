@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153110
+  },
+  "name": "OBERLIN COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "70 N PROFESSOR ST",
+    "addressLocality": "OBERLIN",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44074-1019"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2934&mlon=-82.22#map=15/41.2934/-82.22",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2934,
+    "longitude": -82.22
+  },
+  "url": "https://home.oberlin.edu/",
+  "telephone": "+1 (440) 775-8411",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900888",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

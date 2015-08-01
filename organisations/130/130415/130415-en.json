@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130415
+  },
+  "name": "CHEROKEE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4226 CHEROKEE RD",
+    "addressLocality": "OROVILLE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95965"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6458&mlon=-121.539#map=15/39.6458/-121.539",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6458,
+    "longitude": -121.539
+  },
+  "telephone": "+1 (530) 533-1849",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600541",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

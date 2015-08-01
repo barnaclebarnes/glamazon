@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134230
+  },
+  "name": "OCTAGON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1799 NEW YORK AVE NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20006"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8961&mlon=-77.0413#map=15/38.8961/-77.0413",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8961,
+    "longitude": -77.0413
+  },
+  "url": "http://www.theoctagon.org",
+  "telephone": "+1 (202) 638-3221",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100010",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

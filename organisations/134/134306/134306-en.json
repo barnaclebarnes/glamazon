@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134306
+  },
+  "name": "NEWSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "555 PENNSYLVANIA AVENUE NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20001-2114"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8927&mlon=-77.0194#map=15/38.8927/-77.0194",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8927,
+    "longitude": -77.0194
+  },
+  "url": "http://www.newseum.org",
+  "telephone": "+1 (202) 292-6100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100087",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

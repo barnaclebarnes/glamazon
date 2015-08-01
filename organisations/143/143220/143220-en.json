@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143220
+  },
+  "name": "ASHFIELD HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 277",
+    "addressLocality": "ASHFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01330-0277"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5261&mlon=-72.7903#map=15/42.5261/-72.7903",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5261,
+    "longitude": -72.7903
+  },
+  "url": "http://www.ashfieldhistorical.org/",
+  "telephone": "+1 (413) 628-0001",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500850",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

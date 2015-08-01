@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161558
+  },
+  "name": "WHATCOM MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "250 FLORA ST",
+    "addressLocality": "BELLINGHAM",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98225"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7529&mlon=-122.479#map=15/48.7529/-122.479",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7529,
+    "longitude": -122.479
+  },
+  "url": "http://www.whatcommuseum.org",
+  "telephone": "+1 (360) 778-8930",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187057
+  },
+  "name": "Fondazione museo Luciano Minguzzi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Palermo, 11",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4753&mlon=9.18514#map=15/45.4753/9.18514",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4753,
+    "longitude": 9.18514
+  },
+  "telephone": "+39 0236565440",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3-XcbbZvdV5DGaqIs2F8-UM2F_A=/1000x1000/museums/logos/000/187/057/original/da7a68bf4febcd6b18d7e8321e9f87addb97f0a6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103713",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

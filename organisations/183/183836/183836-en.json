@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183836
+  },
+  "name": "Eisenbahnmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bahnhofstraße 28 a",
+    "addressLocality": "Weiden",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92637"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6684&mlon=12.1541#map=15/49.6684/12.1541",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6684,
+    "longitude": 12.1541
+  },
+  "url": "http://www.eisenbahnmuseum-weiden.de",
+  "telephone": "0961/401-7651",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183836",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

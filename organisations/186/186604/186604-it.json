@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186604
+  },
+  "name": "Palazzo Massimo - Museo nazionale romano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo di Villa Peretti, 1",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9016&mlon=12.4979#map=15/41.9016/12.4979",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9016,
+    "longitude": 12.4979
+  },
+  "url": "http://archeoroma.beniculturali.it",
+  "telephone": "+39 06 480201 -  06 39967700",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriali e festivi: 9.00 - 19.45",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 7.00 ( biglietto unico valido 3 giorni per 4 siti (Palazzo Massimo, Palazzo Altemps, Crypta Balbi, Terme di Diocleziano)."
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0WZfNvZ0FSiibiO_njYxdFnE3-8=/1000x1000/museums/logos/000/186/604/original/66f871e9205af007f9d3499753a654465b37.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20231",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

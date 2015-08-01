@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151011
+  },
+  "name": "VENETIAN HERITAGE",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7621&mlon=-73.9702#map=15/40.7621/-73.9702",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7621,
+    "longitude": -73.9702
+  },
+  "url": "http://www.venetianheritage.eu/cms/index.php?lang=eng",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602305",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

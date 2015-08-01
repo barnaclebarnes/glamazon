@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187108
+  },
+  "name": "Museo delle pentole nella storia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Curiel, 242",
+    "addressLocality": "Rozzano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3879&mlon=9.17128#map=15/45.3879/9.17128",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3879,
+    "longitude": 9.17128
+  },
+  "url": "http://www.amc.info",
+  "telephone": "+39 02575481",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su appuntamento",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LIaJDZDOMT6QHEiN23DnkZRz7GI=/1000x1000/museums/logos/000/187/108/original/f99ee8d21d6c325afc95e4129f4a6c80e4c0f251.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105096",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

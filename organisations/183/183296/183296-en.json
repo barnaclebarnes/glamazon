@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183296
+  },
+  "name": "Sudetendeutsches Haus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochstraße 8",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "81669"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1306&mlon=11.5891#map=15/48.1306/11.5891",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1306,
+    "longitude": 11.5891
+  },
+  "url": "http://www.sudetendeutsche-stiftung.de/sudetendeutscheshaus/index.html",
+  "telephone": "089/4800030",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183296",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

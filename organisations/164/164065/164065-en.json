@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164065
+  },
+  "name": "Melbourne Cricket Club",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8187&mlon=144.985#map=15/-37.8187/144.985",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8187,
+    "longitude": 144.985
+  },
+  "url": "http://www.mcc.org.au/About%20the%20MCC/Heritage/MCC%20Museum.aspx",
+  "telephone": "03 9657 8940",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "melbourne-cricket-club-library--museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/melbourne-cricket-club-library--museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

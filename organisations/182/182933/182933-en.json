@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182933
+  },
+  "name": "Schlossmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßplatz 19",
+    "addressLocality": "Höchstädt",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95186"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0947&mlon=12.0845#map=15/50.0947/12.0845",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0947,
+    "longitude": 12.0845
+  },
+  "url": "http://www.rvonh.de/museum.html",
+  "telephone": "09235/1464",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182933",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

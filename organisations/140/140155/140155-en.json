@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140155
+  },
+  "name": "KANSAS KIDS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1500 EAST 11TH AVENUE SPACE C-15",
+    "addressLocality": "HUTCHINSON",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67501-3701"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0649&mlon=-97.9012#map=15/38.0649/-97.9012",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0649,
+    "longitude": -97.9012
+  },
+  "url": "http://www.kansaskidsmuseum.com",
+  "telephone": "+1 (620) 669-5156",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000481",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

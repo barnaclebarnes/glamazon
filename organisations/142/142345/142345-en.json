@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142345
+  },
+  "name": "HISTORIC GLYNDON INCORPORATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3641",
+    "addressLocality": "GLYNDON",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21071"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.4739&mlon=-76.8141#map=15/39.4739/-76.8141",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.4739,
+    "longitude": -76.8141
+  },
+  "url": "http://www.historicglyndon.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400638",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

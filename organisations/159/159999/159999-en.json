@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159999
+  },
+  "name": "CLARK PLANETARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "110 S 400 W",
+    "addressLocality": "SALT LAKE CITY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7661&mlon=-111.903#map=15/40.7661/-111.903",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7661,
+    "longitude": -111.903
+  },
+  "url": "http://clarkplanetarium.org",
+  "telephone": "+1 (801) 456-7827",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900065",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

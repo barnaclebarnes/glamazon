@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189615
+  },
+  "name": "GRAND CANYON NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "P.O. BOX 129",
+    "addressLocality": "GRAND CANYON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "86023"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.9712&mlon=-112.127#map=15/35.9712/-112.127",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.9712,
+    "longitude": -112.127
+  },
+  "telephone": "+1 (928) 638-7769",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400479",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129502
+  },
+  "name": "MUSEUM OF CONTEMPORARY ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "265 S CHURCH AVE",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85701-1610"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.218&mlon=-110.972#map=15/32.218/-110.972",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.218,
+    "longitude": -110.972
+  },
+  "url": "http://www.moca-tucson.org",
+  "telephone": "+1 (520) 624-5019",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400404",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

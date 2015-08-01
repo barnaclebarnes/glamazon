@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142513
+  },
+  "name": "GEORGE PEABODY HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "205 WASHINGTON ST",
+    "addressLocality": "PEABODY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01960"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5201&mlon=-70.939#map=15/42.5201/-70.939",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5201,
+    "longitude": -70.939
+  },
+  "url": "http://www.peabodymuseums.org",
+  "telephone": "+1 (978) 531-0355",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500143",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

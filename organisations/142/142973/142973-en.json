@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142973
+  },
+  "name": "WILMINGTON TOWN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "430 SALEM STREET",
+    "addressLocality": "WILMINGTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01887"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5793&mlon=-71.1473#map=15/42.5793/-71.1473",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5793,
+    "longitude": -71.1473
+  },
+  "url": "http://www.town.wilmington.ma.us/tavern1.htm",
+  "telephone": "+1 (978) 658-5475",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500603",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

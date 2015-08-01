@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187182
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trieste, 24",
+    "addressLocality": "Brinzio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8893&mlon=8.79149#map=15/45.8893/8.79149",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8893,
+    "longitude": 8.79149
+  },
+  "url": "http://www.museo.brinzio.va.it",
+  "telephone": "+39 0332 435714",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VIScXMbfuJjbObwMehLdZfr4GEc=/1000x1000/museums/logos/000/187/182/original/cde525d51871cd121d631e116e4dee583dd5c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106904",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

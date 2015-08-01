@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187747
+  },
+  "name": "Palazzo Taffini D'Acceglio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sant'Andrea, 53, ",
+    "addressLocality": "Savigliano",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6441&mlon=7.65615#map=15/44.6441/7.65615",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6441,
+    "longitude": 7.65615
+  },
+  "url": "http://www.castelliaperti.it/pagine/ita/scheda.lasso?-id=37",
+  "telephone": "+39 0172711714",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato e domenica 10.00/12.30 e 14.30/18.30 martedì e venerdì 9.00/12.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/E1u4ETyMSBHYzvpUXqmWSzj3OCI=/1000x1000/museums/logos/000/187/747/original/7a3c819bb4f6dd13ed3a53ffffbf98cc1aeafd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102627",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

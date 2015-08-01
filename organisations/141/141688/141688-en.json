@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141688
+  },
+  "name": "SPACE GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "538 CONGRESS ST",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04101-3310"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6556&mlon=-70.2616#map=15/43.6556/-70.2616",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6556,
+    "longitude": -70.2616
+  },
+  "url": "http://www.space538.org",
+  "telephone": "+1 (207) 828-5600",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/SPACE538"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300537",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144044
+  },
+  "name": "FREDERIK MEIJER GARDENS AND SCULPTURE PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 E BELTLINE AVE NE",
+    "addressLocality": "GRAND RAPIDS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49525-5804"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.98&mlon=-85.5904#map=15/42.98/-85.5904",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.98,
+    "longitude": -85.5904
+  },
+  "url": "http://www.meijergardens.org",
+  "telephone": "+1 (616) 957-1580",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/MeijerGardens"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/meijergardens"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600581",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

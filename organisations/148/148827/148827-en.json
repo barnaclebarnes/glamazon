@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148827
+  },
+  "name": "ROBERT INGERSOLL BIRTHPLACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MAIN ST",
+    "addressLocality": "DRESDEN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14441"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6602&mlon=-77.0532#map=15/42.6602/-77.0532",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6602,
+    "longitude": -77.0532
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600121",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

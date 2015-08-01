@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134227
+  },
+  "name": "SEWALL-BELMONT HOUSE AND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "144 CONSTITUTION AVE NE",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.892&mlon=-77.0046#map=15/38.892/-77.0046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.892,
+    "longitude": -77.0046
+  },
+  "url": "http://www.sewallbelmont.org",
+  "telephone": "+1 (202) 546-1210",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/SewallBelmont"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/SBHMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

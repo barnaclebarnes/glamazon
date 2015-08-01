@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151556
+  },
+  "name": "MCCOLL CENTER FOR VISUAL ART",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.2322&mlon=-80.836#map=15/35.2322/-80.836",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.2322,
+    "longitude": -80.836
+  },
+  "url": "http://mccollcenter.org/",
+  "telephone": "+1 (704) 332-5535",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/McCollCenterNC"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/mccollcenternc"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700427",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

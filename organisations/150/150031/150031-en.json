@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150031
+  },
+  "name": "CENTRAL NEW YORK CHAPTER NRHS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 229",
+    "addressLocality": "MARCELLUS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13108-0229"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9814&mlon=-76.333#map=15/42.9814/-76.333",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9814,
+    "longitude": -76.333
+  },
+  "url": "http://www.cnynrhs.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601325",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

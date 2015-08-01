@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186707
+  },
+  "name": "Museo navale di Pegli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza C. Bonavino, 7",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4285&mlon=8.81526#map=15/44.4285/8.81526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4285,
+    "longitude": 8.81526
+  },
+  "url": "http://www.museonavale.it",
+  "telephone": "+39 010/6969885",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100368",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

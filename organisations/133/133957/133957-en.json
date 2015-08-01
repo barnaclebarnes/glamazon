@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133957
+  },
+  "name": "BRUCE MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MUSEUM DRIVE",
+    "addressLocality": "GREENWICH",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06830"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.019&mlon=-73.6235#map=15/41.019/-73.6235",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.019,
+    "longitude": -73.6235
+  },
+  "url": "http://www.brucemuseum.org",
+  "telephone": "+1 (203) 869-0376",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900432",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

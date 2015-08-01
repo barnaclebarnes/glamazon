@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183231
+  },
+  "name": "Erwin von Kreibig-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Südliches Schloßrondell 1",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80638"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1578&mlon=11.5092#map=15/48.1578/11.5092",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1578,
+    "longitude": 11.5092
+  },
+  "url": "http://kreibig-museum.com",
+  "telephone": "089/1781169",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183231",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

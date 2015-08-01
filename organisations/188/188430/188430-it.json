@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188430
+  },
+  "name": "Museo archeologico di Giardini Naxos",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Lungomare Schisò, SNC",
+    "addressLocality": "Giardini-Naxos",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8253&mlon=15.2668#map=15/37.8253/15.2668",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8253,
+    "longitude": 15.2668
+  },
+  "telephone": "+39 094251001",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 9,00/19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eqXz88nnGSlQCP5oUfWoiJILtrI=/1000x1000/museums/logos/000/188/430/original/341682edc9fdc4d479921c9955e7d5dd8ffd231e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101246",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

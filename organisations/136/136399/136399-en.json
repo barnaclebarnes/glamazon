@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136399
+  },
+  "name": "FERNBANK INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "767 CLIFTON RD NE",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30307-1221"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7751&mlon=-84.3297#map=15/33.7751/-84.3297",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7751,
+    "longitude": -84.3297
+  },
+  "url": "http://www.fernbankmuseum.org",
+  "telephone": "+1 (404) 929-6300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300670",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

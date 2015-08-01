@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185708
+  },
+  "name": "Museo della civiltà rurale di Vaglio Basilicata",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 28",
+    "addressLocality": "Vaglio Basilicata",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6658&mlon=15.9221#map=15/40.6658/15.9221",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6658,
+    "longitude": 15.9221
+  },
+  "url": "http://www.comune.vagliobasilicata.pz.it",
+  "telephone": "+39 0971305011",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì - venerdì 18.00 - 20.00 altri giorni su prenotazione",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ktjYg8ftK7daYJVBAJLiPIKGRSE=/1000x1000/museums/logos/000/185/708/original/27a6e53acf556e879014f91a74e289accebfe8a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104885",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

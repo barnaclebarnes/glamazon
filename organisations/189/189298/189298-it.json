@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189298
+  },
+  "name": "Centro visita Monteluco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Monteluco, ",
+    "addressLocality": "Spoleto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7231&mlon=12.7535#map=15/42.7231/12.7535",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7231,
+    "longitude": 12.7535
+  },
+  "telephone": "+39 0743 56133",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Q8ZZ-maKFlMtVGvcW9nkGcgTBFg=/1000x1000/museums/logos/000/189/298/original/f7439d211576566de661dceec96dbdeb67468fe.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108046",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

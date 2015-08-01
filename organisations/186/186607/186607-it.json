@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186607
+  },
+  "name": "Museo della civiltà contadina Valle dell’Aniene",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Giovanni, ",
+    "addressLocality": "Roviano",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0262&mlon=12.9937#map=15/42.0262/12.9937",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0262,
+    "longitude": 12.9937
+  },
+  "url": "http://www.comuneroviano.rm.it/Museo.aspx",
+  "telephone": "+39 0774903143",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mar., giov., sab., dom. 10,00-13,00/16.00-18.30 Chiuso: lunedì e venerdì",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lNqMtrSKssj-vf-fBi4Bpc5CldY=/1000x1000/museums/logos/000/186/607/original/c0f74d0f726b2b2f0a775f6f107e8d44ff83.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103963",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

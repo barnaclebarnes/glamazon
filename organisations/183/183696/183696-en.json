@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183696
+  },
+  "name": "Heimat- und Braunkohlemuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfarrer-Gschwendtner-Straße 5",
+    "addressLocality": "Steinberg am See",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92449"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.2759&mlon=12.1797#map=15/49.2759/12.1797",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.2759,
+    "longitude": 12.1797
+  },
+  "url": "http://www.hak-steinberg-am-see.de",
+  "telephone": "09431/5819",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183696",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

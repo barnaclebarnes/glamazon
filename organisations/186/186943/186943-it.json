@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186943
+  },
+  "name": "Museo didattico della Seta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castelnuovo, 9",
+    "addressLocality": "Como",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8032&mlon=9.09435#map=15/45.8032/9.09435",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8032,
+    "longitude": 9.09435
+  },
+  "url": "http://www.museosetacomo.com",
+  "telephone": "+39 031303180",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KmY1e3wQqCbHz7LS2vq3ln0dIkw=/1000x1000/museums/logos/000/186/943/original/8ffac354b3e3b4193c794d246f66a8c7d72e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103609",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

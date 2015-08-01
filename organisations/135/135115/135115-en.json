@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135115
+  },
+  "name": "FLORIDA A&M UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "400 FOOTE HILYER ADMINISTRATION CENTER",
+    "addressLocality": "TALLAHASSEE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32307"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4252&mlon=-84.2872#map=15/30.4252/-84.2872",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4252,
+    "longitude": -84.2872
+  },
+  "url": "http://www.famu.edu",
+  "telephone": "+1 (850) 599-3050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200670",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

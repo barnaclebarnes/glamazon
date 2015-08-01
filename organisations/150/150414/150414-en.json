@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150414
+  },
+  "name": "EMCARTS",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8064&mlon=-73.9481#map=15/40.8064/-73.9481",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8064,
+    "longitude": -73.9481
+  },
+  "url": "http://www.emcarts.org/",
+  "telephone": "+1 (212) 362-8541",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601708",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

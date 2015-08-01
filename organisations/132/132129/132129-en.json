@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132129
+  },
+  "name": "HERITAGE MUSEUM OF SAN FRANCISCO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2800 FILBERT ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7968&mlon=-122.446#map=15/37.7968/-122.446",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7968,
+    "longitude": -122.446
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602255",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

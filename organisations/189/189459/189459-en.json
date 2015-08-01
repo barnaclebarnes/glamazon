@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189459
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Matteotti, 85",
+    "addressLocality": "Bergantino",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0597&mlon=11.2517#map=15/45.0597/11.2517",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0597,
+    "longitude": 11.2517
+  },
+  "url": "http://www.museodellagiostra.it",
+  "telephone": "+39 0425805446",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5svJUwp7hfB6fTA8I8LTbbiogbY=/1000x1000/museums/logos/000/189/459/original/e3734d15eb182ba21f423ddfd11d39afb415dbb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100953",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

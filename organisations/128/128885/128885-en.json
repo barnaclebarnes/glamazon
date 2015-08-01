@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128885
+  },
+  "name": "PALISADES PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1225 PALISADES PARKWAY",
+    "addressLocality": "ONEONTA",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "35121"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9858&mlon=-86.4616#map=15/33.9858/-86.4616",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9858,
+    "longitude": -86.4616
+  },
+  "telephone": "+1 (205) 274-0017",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100415",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

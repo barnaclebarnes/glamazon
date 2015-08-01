@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183436
+  },
+  "name": "Heimatmuseum Oettingen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hofgasse 14",
+    "addressLocality": "Oettingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86732"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9525&mlon=10.6063#map=15/48.9525/10.6063",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9525,
+    "longitude": 10.6063
+  },
+  "url": "http://www.heimatmuseum-oettingen.de",
+  "telephone": "09082/2315",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183436",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

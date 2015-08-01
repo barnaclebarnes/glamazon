@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189311
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Pian di Porto - Bodoglie Alte, 172",
+    "addressLocality": "Todi",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8033&mlon=12.4168#map=15/42.8033/12.4168",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8033,
+    "longitude": 12.4168
+  },
+  "telephone": "+39 0758989402",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-p00PNNZfH6SXCdI21BHnWXVxOA=/1000x1000/museums/logos/000/189/311/original/9252bb9b4e394dd17d569db29cf88a71719a5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100757",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

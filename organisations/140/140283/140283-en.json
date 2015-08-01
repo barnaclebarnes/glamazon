@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140283
+  },
+  "name": "MY OLD KENTUCKY HOME STATE PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "501 E. STEPHEN FOSTER AVE.",
+    "addressLocality": "BARDSTOWN",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40004-0323"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8074&mlon=-85.4539#map=15/37.8074/-85.4539",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8074,
+    "longitude": -85.4539
+  },
+  "url": "http://parks.ky.gov",
+  "telephone": "+1 (502) 348-3502",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100039",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186004
+  },
+  "name": "Museo archeologico nazionale di Napoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Museo Nazionale,  19",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8534&mlon=14.2511#map=15/40.8534/14.2511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8534,
+    "longitude": 14.2511
+  },
+  "url": "http://cir.campania.beniculturali.it/museoarcheologiconazionale/",
+  "telephone": "+39 +39.081.4422149 (Punto informazioni del Museo); +39.081.4422111 (centralino)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Giorni feriali e festivi: 9.00 - 19.30 (in agosto l’orario di apertura potrà subire variazioni)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/plGOJLnx9CjaJW00rNqhZ13DI50=/1000x1000/museums/logos/000/186/004/original/766e24eb1754cbcdf5289f6d91a19e2d2f23b15.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20333",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

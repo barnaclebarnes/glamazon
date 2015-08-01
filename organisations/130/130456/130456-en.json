@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130456
+  },
+  "name": "ADAMSON HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "23200 PACIFIC COAST HIGHWAY",
+    "addressLocality": "MALIBU",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90265"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.035&mlon=-118.681#map=15/34.035/-118.681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.035,
+    "longitude": -118.681
+  },
+  "url": "http://www.adamsonhouse.org",
+  "telephone": "+1 (310) 456-9497",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Adamson_House",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600582",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

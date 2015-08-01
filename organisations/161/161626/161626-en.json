@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161626
+  },
+  "name": "NAVAL UNDERSEA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "610 DOWELL ST",
+    "addressLocality": "KEYPORT",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98345"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7025&mlon=-122.624#map=15/47.7025/-122.624",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7025,
+    "longitude": -122.624
+  },
+  "url": "http://www.navalunderseamuseum.org",
+  "telephone": "+1 (360) 396-4148",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/88326793693"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300075",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

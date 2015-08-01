@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186215
+  },
+  "name": "Casa museo archeologico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 16/a",
+    "addressLocality": "Casteldelci",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7921&mlon=12.1535#map=15/43.7921/12.1535",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7921,
+    "longitude": 12.1535
+  },
+  "url": "http://www.comune.casteldelci.rn.it",
+  "telephone": "+39 (+39) 0541 915423",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Orario estivo 09:00 - 12:00/15:00 - 18:00 Domenica 09:00 - 12:00/15:00 - 18:00 in inverno su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111250",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

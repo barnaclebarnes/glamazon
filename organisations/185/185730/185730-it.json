@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185730
+  },
+  "name": "Ecomuseo Luogo della Memoria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Ferruccio , 3",
+    "addressLocality": "Lamezia Terme",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9978&mlon=16.2829#map=15/38.9978/16.2829",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9978,
+    "longitude": 16.2829
+  },
+  "telephone": "+39 0968 436765",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/u0RQCvofHo3m5PmzAz5Kg_T78TQ=/1000x1000/museums/logos/000/185/730/original/bb3438eb6a1654356642c24896652c8bab62bdf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108250",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188413
+  },
+  "name": "Museo archeologico civico di Ramacca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Archimede, 10",
+    "addressLocality": "Ramacca",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3839&mlon=14.6935#map=15/37.3839/14.6935",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3839,
+    "longitude": 14.6935
+  },
+  "telephone": "+39 095654462",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 09.00/13.00 - 16.00/20.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_2n_dbvU59s0eKdcDUsuikV8hrU=/1000x1000/museums/logos/000/188/413/original/a0895de06a92159475e5a7b21e2b5f9c316b1f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101222",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

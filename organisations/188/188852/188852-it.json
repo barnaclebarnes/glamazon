@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188852
+  },
+  "name": "MAM - Museo archivio della memoria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marconi, 7",
+    "addressLocality": "Bagnone",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3154&mlon=9.99442#map=15/44.3154/9.99442",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3154,
+    "longitude": 9.99442
+  },
+  "url": "http://museoarchiviodellamemoria.it",
+  "telephone": "+39 0187427844",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XgzUjn4H15gHV3mU89xity03skw=/1000x1000/museums/logos/000/188/852/original/4ff5ac999add1f1f1e7f3f8afd3e92fef9e42c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103114",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

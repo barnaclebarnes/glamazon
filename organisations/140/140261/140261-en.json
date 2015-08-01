@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140261
+  },
+  "name": "THOMAS EDISON HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "729 E WASHINGTON ST",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2555&mlon=-85.7391#map=15/38.2555/-85.7391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2555,
+    "longitude": -85.7391
+  },
+  "url": "http://www.edisonhouse.org",
+  "telephone": "+1 (502) 585-5247",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100017",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

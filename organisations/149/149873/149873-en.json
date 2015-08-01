@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149873
+  },
+  "name": "LIBERTY MUSEUM AND ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17 NORTH MAIN ST",
+    "addressLocality": "LIBERTY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12754-1807"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7998&mlon=-74.746#map=15/41.7998/-74.746",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7998,
+    "longitude": -74.746
+  },
+  "url": "http://www.libertymuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601167",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

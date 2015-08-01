@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189438
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Pelagio, 34",
+    "addressLocality": "Due Carrare",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3148&mlon=11.8217#map=15/45.3148/11.8217",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3148,
+    "longitude": 11.8217
+  },
+  "url": "http://www.museodellaria.it/castellodisanpelagio",
+  "telephone": "+39 0499125008",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OHKBjnWg85S4dgog5HGF2AFuYig=/1000x1000/museums/logos/000/189/438/original/493db8646f8997ef5a9c1e2ea2957c8d526152b4.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100949",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

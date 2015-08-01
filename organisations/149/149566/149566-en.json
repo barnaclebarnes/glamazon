@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149566
+  },
+  "name": "LOWER EAST SIDE TENEMENT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "91 ORCHARD STREET",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10002-3132"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7185&mlon=-73.99#map=15/40.7185/-73.99",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7185,
+    "longitude": -73.99
+  },
+  "url": "http://www.tenement.org",
+  "telephone": "+1 (212) 982-8420",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/114377373747"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/tenementmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600860",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

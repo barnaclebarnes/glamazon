@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150193
+  },
+  "name": "AMHERST MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3755 TONAWANDA CREEK RD",
+    "addressLocality": "AMHERST",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14228-1563"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0835&mlon=-78.7332#map=15/43.0835/-78.7332",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0835,
+    "longitude": -78.7332
+  },
+  "url": "http://www.amherstmuseum.org",
+  "telephone": "+1 (716) 689-1440",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601487",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

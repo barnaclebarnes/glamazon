@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189451
+  },
+  "name": "Palazzo Zuckermann",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Garibaldi, 33",
+    "addressLocality": "Padova",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4115&mlon=11.8785#map=15/45.4115/11.8785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4115,
+    "longitude": 11.8785
+  },
+  "url": "http://padovacultura.padovanet.it/musei/archivio/cat_sedi_civiche",
+  "telephone": "+39 049665567",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/k98dMZ0Zo8VLe78Vm_9B6jH669s=/1000x1000/museums/logos/000/189/451/original/54ebebd7b52adad53566735b3ad76bd58ee96920.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100934",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

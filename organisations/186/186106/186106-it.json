@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186106
+  },
+  "name": "Pinacoteca provinciale di Salerno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Pinto - Via Mercanti, 63",
+    "addressLocality": "Salerno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.679&mlon=14.76#map=15/40.679/14.76",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.679,
+    "longitude": 14.76
+  },
+  "telephone": "+39 0818236509",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/21kr1hLIKQgi8mHhAjiU9-pZDGY=/1000x1000/museums/logos/000/186/106/original/f6b114cca04ba415f9b8c2ca9fd6a729be3f16ab.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101922",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

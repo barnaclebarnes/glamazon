@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186888
+  },
+  "name": "Collezione d'arte orientale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Carera, 28",
+    "addressLocality": "Coccaglio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5625&mlon=9.98298#map=15/45.5625/9.98298",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5625,
+    "longitude": 9.98298
+  },
+  "url": "http://www.fondazione-mazzocchi.it",
+  "telephone": "+39 0307722837",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EI_VOpF7QPmdGM8kZNDQbcNZPKc=/1000x1000/museums/logos/000/186/888/original/6cdffb83d419e9cf1ed652c8a1f8e77fc56e47eb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103565",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

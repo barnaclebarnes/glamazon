@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130001
+  },
+  "name": "SARATOGA HISTORICAL PARK AND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "20450 SARATOGA LOS GATOS RD",
+    "addressLocality": "SARATOGA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95070"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.258&mlon=-122.031#map=15/37.258/-122.031",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.258,
+    "longitude": -122.031
+  },
+  "url": "http://www.californiahistoricalsociety.org",
+  "telephone": "+1 (408) 867-4311",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RsVvmcqI7dqMDs9LgUESonwVT_I=/1000x1000/museums/logos/000/130/001/original/SaratogaHistoricParkSign.JPG",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:UpstateNYer\" title=\"User:UpstateNYer\" class=\"mw-redirect\">UpstateNYer</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Saratoga_National_Historical_Park",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600127",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

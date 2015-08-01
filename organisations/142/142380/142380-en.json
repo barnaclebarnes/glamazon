@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142380
+  },
+  "name": "WARREN ANATOMICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 SHATTUCK STREET",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02115"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3354&mlon=-71.1043#map=15/42.3354/-71.1043",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3354,
+    "longitude": -71.1043
+  },
+  "url": "http://www.countway.harvard.edu/warren/index/shtml",
+  "telephone": "+1 (617) 432-6196",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500010",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

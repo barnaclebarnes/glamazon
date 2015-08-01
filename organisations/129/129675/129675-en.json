@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129675
+  },
+  "name": "PARK CENTRAL LITTLE ROCK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 567",
+    "addressLocality": "LITTLE ROCK",
+    "addressRegion": "AR",
+    "addressCountry": "United States",
+    "postalCode": "72203-0567"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.7431&mlon=-92.2651#map=15/34.7431/-92.2651",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.7431,
+    "longitude": -92.2651
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400500111",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

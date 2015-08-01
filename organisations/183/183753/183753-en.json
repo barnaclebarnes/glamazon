@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183753
+  },
+  "name": "Fränkisches Freilandmuseum mit Archäologiemuseum und Museum \"Kirche in Franken\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Eisweiherweg 1",
+    "addressLocality": "Bad Windsheim",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91438"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4975&mlon=10.4189#map=15/49.4975/10.4189",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4975,
+    "longitude": 10.4189
+  },
+  "url": "http://www.freilandmuseum.de",
+  "telephone": "09841/6680-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183753",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

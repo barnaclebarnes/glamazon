@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140474
+  },
+  "name": "LOUISVILLE CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1312 ISLEWORTH DR",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40245-4024"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2622&mlon=-85.489#map=15/38.2622/-85.489",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2622,
+    "longitude": -85.489
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100231",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146663
+  },
+  "name": "UNIVERSITY OF NEBRASKA STATE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1335 U ST",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68588"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8198&mlon=-96.6904#map=15/40.8198/-96.6904",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8198,
+    "longitude": -96.6904
+  },
+  "url": "http://www-museum.unl.edu",
+  "telephone": "+1 (402) 472-2642",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

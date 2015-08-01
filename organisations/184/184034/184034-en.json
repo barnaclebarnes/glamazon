@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184034
+  },
+  "name": "Rundfunkmuseum Schloss Brunn",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Schloß 2",
+    "addressLocality": "Emskirchen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91448"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5735&mlon=10.7089#map=15/49.5735/10.7089",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5735,
+    "longitude": 10.7089
+  },
+  "url": "http://www.rundfunkmuseum-brunn.de/",
+  "telephone": "09104/2482",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184034",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

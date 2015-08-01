@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146146
+  },
+  "name": "LEWIS LIBRARY OF GLASGOW",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "315 MARKET STREET",
+    "addressLocality": "GLASGOW",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "65254"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2261&mlon=-92.8446#map=15/39.2261/-92.8446",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2261,
+    "longitude": -92.8446
+  },
+  "url": "http://www.glasgowmo.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900575",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

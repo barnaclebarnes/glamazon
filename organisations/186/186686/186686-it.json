@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186686
+  },
+  "name": "Centro di documentazione per la Storia, l’arte e l’immagine di Genova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via ai Quattro Canti di San Francesco, 49-51",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4108&mlon=8.93322#map=15/44.4108/8.93322",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4108,
+    "longitude": 8.93322
+  },
+  "url": "http://www.museigenova.it",
+  "telephone": "+39 010/5574958",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103935",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

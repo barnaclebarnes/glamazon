@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186505
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Costanza Garibaldi, 10",
+    "addressLocality": "Riofreddo",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0596&mlon=12.9978#map=15/42.0596/12.9978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0596,
+    "longitude": 12.9978
+  },
+  "url": "http://www.comunediriofreddo.it/museo.htm",
+  "telephone": "+39 0774929186",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/un3w9m17jwJwsTstMy08y-mZCmk=/1000x1000/museums/logos/000/186/505/original/da35eec67ca8351cd71228b0742d9630e3c031.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103955",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

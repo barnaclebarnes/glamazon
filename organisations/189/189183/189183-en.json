@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189183
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Francesco, 15",
+    "addressLocality": "Assisi",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0731&mlon=12.6089#map=15/43.0731/12.6089",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0731,
+    "longitude": 12.6089
+  },
+  "telephone": "+39 075812280",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7Fo8GgvFC-V5PUnnWAn6tllu85Y=/1000x1000/museums/logos/000/189/183/original/ea3154603dc4931d2d12ebda78cc4f4531e748b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100672",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

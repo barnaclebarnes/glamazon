@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189100
+  },
+  "name": "Museo Bagni Egart - K.U.K. - Museo reale e imperiale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Stazione, 17",
+    "addressLocality": "Parcines/Partschins",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6711&mlon=11.0797#map=15/46.6711/11.0797",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6711,
+    "longitude": 11.0797
+  },
+  "url": "http://www.sentres.com",
+  "telephone": "+39 +39 0473 967342",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dall'1 aprile al 9 novembre mar-dom ore 10.30-16 e ore 18.30-20",
+  "offers": {
+    "@Type": "Offer",
+    "description": "8.50 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/M9QQHYJgAq11K3sdU_eH1aqf06w=/1000x1000/museums/logos/000/189/100/original/a0a7d97e5ee0f836b7437eb690541429f2484b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111940",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

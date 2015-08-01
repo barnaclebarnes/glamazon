@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156177
+  },
+  "name": "AUGUST WILSON CENTER FOR AFRICAN AMERICAN CULTURE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "980 LIBERTY AVE",
+    "addressLocality": "PITTSBURGH",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "15222-3736"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4434&mlon=-79.996#map=15/40.4434/-79.996",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4434,
+    "longitude": -79.996
+  },
+  "url": "http://www.augustwilsoncenter.org",
+  "telephone": "+1 (412) 258-2700",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/AugustWilsonCenter"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/AWC_Pittsburgh"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201371",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

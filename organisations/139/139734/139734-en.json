@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139734
+  },
+  "name": "KU NATURAL HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1345 JAYHAWK BLVD",
+    "addressLocality": "LAWRENCE",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66045"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9582&mlon=-95.2434#map=15/38.9582/-95.2434",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9582,
+    "longitude": -95.2434
+  },
+  "url": "http://www.nhm.ku.edu",
+  "telephone": "+1 (785) 864-4450",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000060",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

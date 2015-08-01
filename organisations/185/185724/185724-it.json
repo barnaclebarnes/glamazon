@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185724
+  },
+  "name": "Antiquarium di Cropani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Complesso Monumentale di Santa Caterina d'Alessandria, ",
+    "addressLocality": "Cropani",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9683&mlon=16.7813#map=15/38.9683/16.7813",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9683,
+    "longitude": 16.7813
+  },
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mNgI5qMKJ0gNvXNh0bIK27Fr_lo=/1000x1000/museums/logos/000/185/724/original/243bb021dfb72dab0d874b56521f65254bfe.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108248",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

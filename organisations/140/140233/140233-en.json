@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140233
+  },
+  "name": "ROSE HILL HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 36",
+    "addressLocality": "ROSE HILL",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67133"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5765&mlon=-97.1335#map=15/37.5765/-97.1335",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5765,
+    "longitude": -97.1335
+  },
+  "url": "http://www.rosehillhistoricalsociety.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000559",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

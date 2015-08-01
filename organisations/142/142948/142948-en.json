@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142948
+  },
+  "name": "HEBERT ARBORETUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 344 874 NORTH ST",
+    "addressLocality": "PITTSFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4496&mlon=-73.2499#map=15/42.4496/-73.2499",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4496,
+    "longitude": -73.2499
+  },
+  "url": "http://hebertarboretum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500578",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

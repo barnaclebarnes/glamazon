@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183160
+  },
+  "name": "Museum Torfwerk Ainring",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mühlreit 5",
+    "addressLocality": "Ainring",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83404"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8348&mlon=12.929#map=15/47.8348/12.929",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8348,
+    "longitude": 12.929
+  },
+  "url": "http://www.ainringer-moos.de",
+  "telephone": "08656/9899-99",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183160",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

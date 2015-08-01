@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160251
+  },
+  "name": "BENNINGTON FREE LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 SILVER ST",
+    "addressLocality": "BENNINGTON",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05201-2868"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8778&mlon=-73.1938#map=15/42.8778/-73.1938",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8778,
+    "longitude": -73.1938
+  },
+  "url": "http://www.benningtonfreelibrary.org",
+  "telephone": "+1 (802) 442-9051",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000057",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

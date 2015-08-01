@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187404
+  },
+  "name": "Pinacoteca comunale \" A. Moroni\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Brancondi, 1",
+    "addressLocality": "Porto Recanati",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4361&mlon=13.6635#map=15/43.4361/13.6635",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4361,
+    "longitude": 13.6635
+  },
+  "url": "http://www.portorecanati.turismo.it",
+  "telephone": "+39 0717591283",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì al sabato, dalle ore 16:00 alle ore 19:00. Nel periodo invernale visite su richiesta previo appuntamento telefonico.",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GBHrP8Ws06UMx2Ruu9hh5HndlKA=/1000x1000/museums/logos/000/187/404/original/9fe646b03db121d2dc4150de5c234364fe2dd4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104217",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

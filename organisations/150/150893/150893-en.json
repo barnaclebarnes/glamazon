@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150893
+  },
+  "name": "PITTSTOWN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 252",
+    "addressLocality": "VALLEY FALLS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12185-0252"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8975&mlon=-73.5437#map=15/42.8975/-73.5437",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8975,
+    "longitude": -73.5437
+  },
+  "url": "http://pittstown.us/historical_society/pittstown_historical_society.htm",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602187",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

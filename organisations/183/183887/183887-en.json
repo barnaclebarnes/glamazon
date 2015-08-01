@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183887
+  },
+  "name": "Domschatz",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Plattnerstraße",
+    "addressLocality": "Würzburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97070"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7923&mlon=9.93175#map=15/49.7923/9.93175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7923,
+    "longitude": 9.93175
+  },
+  "url": "http://www.museen.bistum-wuerzburg.de/domschatz/index.htm",
+  "telephone": "0931/3866-5600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183887",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

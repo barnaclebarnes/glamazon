@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182749
+  },
+  "name": "Lokwelt Freilassing",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Westendstraße 5",
+    "addressLocality": "Freilassing",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83395"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8379&mlon=12.9661#map=15/47.8379/12.9661",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8379,
+    "longitude": 12.9661
+  },
+  "url": "http://www.lokwelt.freilassing.de",
+  "telephone": "08654/771224",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182749",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

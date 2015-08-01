@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158494
+  },
+  "name": "DALLAS ARBORETUM & BOTANICAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8617 GARLAND RD",
+    "addressLocality": "DALLAS",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75218-3914"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8234&mlon=-96.7147#map=15/32.8234/-96.7147",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8234,
+    "longitude": -96.7147
+  },
+  "url": "http://www.dallasarboretum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800594",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

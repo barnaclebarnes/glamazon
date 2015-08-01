@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188448
+  },
+  "name": "Museo comunale città di Savoca storico-etno-antropologico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Michele, SNC",
+    "addressLocality": "Savoca",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9558&mlon=15.3396#map=15/37.9558/15.3396",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9558,
+    "longitude": 15.3396
+  },
+  "url": "http://www.comunedisavoca.it",
+  "telephone": "+39 0942761006",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,00/13,00 - 16,00/20,00; agosto 9,00/13,00-16,00/24,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "1,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WGPDoqOVvoVQzEPkMPCg7MNS6j4=/1000x1000/museums/logos/000/188/448/original/196c16493301bd460481d3f7a6c1bc6329697a4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101270",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189245
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vocabolo Schiaccia, 84",
+    "addressLocality": "Massa Martana",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7165&mlon=12.5408#map=15/42.7165/12.5408",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7165,
+    "longitude": 12.5408
+  },
+  "telephone": "+39 075 889371,347 8487128",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ekaBX_vUf4NhSx8XJWTnatsEWGw=/1000x1000/museums/logos/000/189/245/original/7246c0ac1a1bf39d1eabbda2cffb52969ab7b4b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108098",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142633
+  },
+  "name": "HAMMOND MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "80 HESPERUS AVE",
+    "addressLocality": "GLOUCESTER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01930-5273"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5857&mlon=-70.6929#map=15/42.5857/-70.6929",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5857,
+    "longitude": -70.6929
+  },
+  "url": "http://www.hammondcastle.org",
+  "telephone": "+1 (978) 283-2080",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500263",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132234
+  },
+  "name": "MUSEUM OF ANCIENT AND MODERN ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 975",
+    "addressLocality": "PENN VALLEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95946-0975"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.224&mlon=-121.192#map=15/39.224/-121.192",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.224,
+    "longitude": -121.192
+  },
+  "telephone": "+1 (530) 432-3080",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602360",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

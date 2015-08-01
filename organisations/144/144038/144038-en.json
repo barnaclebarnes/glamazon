@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144038
+  },
+  "name": "CITY OF LANSING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 E NORTH ST",
+    "addressLocality": "LANSING",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48906-4333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7516&mlon=-84.5525#map=15/42.7516/-84.5525",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7516,
+    "longitude": -84.5525
+  },
+  "telephone": "+1 (517) 483-4220",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600575",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

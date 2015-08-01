@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161205
+  },
+  "name": "CHESAPEAKE ARBORETUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "624 OAK GROVE RD",
+    "addressLocality": "CHESAPEAKE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23320-3726"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.7389&mlon=-76.2398#map=15/36.7389/-76.2398",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.7389,
+    "longitude": -76.2398
+  },
+  "url": "http://www.chesarbor.org/",
+  "telephone": "+1 (757) 382-7060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100711",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

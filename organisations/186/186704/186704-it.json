@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186704
+  },
+  "name": "Museo ebraico di Genova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Bertora, 6",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4125&mlon=8.94183#map=15/44.4125/8.94183",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4125,
+    "longitude": 8.94183
+  },
+  "telephone": "+39 010/8391513",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100354",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

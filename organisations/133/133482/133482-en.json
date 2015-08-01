@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133482
+  },
+  "name": "REGENTS OF THE UNIVERSITY OF COLORADO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3100 MARINE STREET - ROOM 479",
+    "addressLocality": "BOULDER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80303-1058"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0136&mlon=-105.253#map=15/40.0136/-105.253",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0136,
+    "longitude": -105.253
+  },
+  "url": "http://www.colorado.edu/ocg/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800658",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

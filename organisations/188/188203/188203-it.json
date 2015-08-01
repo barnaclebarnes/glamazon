@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188203
+  },
+  "name": "Museo etnografico e Museo del vino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Scorrano, 8",
+    "addressLocality": "Parabita",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0509&mlon=18.1267#map=15/40.0509/18.1267",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0509,
+    "longitude": 18.1267
+  },
+  "url": "http://www.infolecce.it",
+  "telephone": "+39 +39 388 6993620",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/F1ymBJZ7pEaNUHUVHEi1gUNGk0k=/1000x1000/museums/logos/000/188/203/original/a2eca87708fc44adde937adcaf6ec14815cdd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111570",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

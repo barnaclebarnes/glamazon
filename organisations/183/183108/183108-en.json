@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183108
+  },
+  "name": "kelten römer museum manching",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Im Erlet 2",
+    "addressLocality": "Manching",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85077"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7128&mlon=11.4924#map=15/48.7128/11.4924",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7128,
+    "longitude": 11.4924
+  },
+  "url": "http://www.museum-manching.de",
+  "telephone": "08459/323730",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183108",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

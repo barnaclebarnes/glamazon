@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189257
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Belvedere, ",
+    "addressLocality": "Panicale",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0284&mlon=12.1037#map=15/43.0284/12.1037",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0284,
+    "longitude": 12.1037
+  },
+  "telephone": "+39 075 837319",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/S9P280uftvshmmP79EHeX1LCg78=/1000x1000/museums/logos/000/189/257/original/8e6f34d7ae89f21944298374d759188a3699c913.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108077",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

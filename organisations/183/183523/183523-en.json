@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183523
+  },
+  "name": "Galerie im Alten Rathaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Alte Rathausstraße 22",
+    "addressLocality": "Prien",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83209"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8554&mlon=12.3414#map=15/47.8554/12.3414",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8554,
+    "longitude": 12.3414
+  },
+  "url": "http://www.prien.de/de/main/kunst_und_kultur.htm",
+  "telephone": "08051/92928",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183523",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

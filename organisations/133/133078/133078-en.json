@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133078
+  },
+  "name": "COLORADO MUSIC HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "930 W 7TH AVE",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80204-4444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7273&mlon=-104.999#map=15/39.7273/-104.999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7273,
+    "longitude": -104.999
+  },
+  "url": "http://cmhof.org/about-us",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800254",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

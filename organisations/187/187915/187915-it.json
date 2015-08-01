@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187915
+  },
+  "name": "Fondazione teatro regio - Itinerario storico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, 215, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0708&mlon=7.68723#map=15/45.0708/7.68723",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0708,
+    "longitude": 7.68723
+  },
+  "url": "http://www.teatroregio.torino.it",
+  "telephone": "+39 01188151",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102780",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

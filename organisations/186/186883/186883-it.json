@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186883
+  },
+  "name": "Presepi del mondo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Tito Speri, 11",
+    "addressLocality": "Cazzago San Martino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5943&mlon=10.0437#map=15/45.5943/10.0437",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5943,
+    "longitude": 10.0437
+  },
+  "url": "http://www.presepidelmondo.it",
+  "telephone": "+39 030725385",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 14 dicembre 2013 al 12 gennaio 2014 : Festivi e prefestivi 10.00/12.00 - 14.00/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta libera"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sY2VTju89MnYn7NskV5VXmveTlQ=/1000x1000/museums/logos/000/186/883/original/abaa88252ede842bbfcfe6ee0f61139411b61.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103562",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

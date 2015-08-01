@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186986
+  },
+  "name": "Museo archeologico del Barro - MAB",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sede Parco: Via Bertarelli, 11",
+    "addressLocality": "Galbiate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.818&mlon=9.37151#map=15/45.818/9.37151",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.818,
+    "longitude": 9.37151
+  },
+  "url": "http://parcobarro.it",
+  "telephone": "+39 0341240215",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mercoledì 14,00/17,00 - sabato e domenica 10,00/12,00 - 14,00/17,00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103651",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

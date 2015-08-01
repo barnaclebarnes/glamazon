@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163907
+  },
+  "name": "Glen Eira Historical Society",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8899&mlon=145.046#map=15/-37.8899/145.046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8899,
+    "longitude": 145.046
+  },
+  "url": "http://www.gehs.org.au/",
+  "telephone": "03 9077 5395",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9 am -12noon Tuesday and Friday mornings",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "glen-eira-historical-society",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/glen-eira-historical-society",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

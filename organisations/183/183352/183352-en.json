@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183352
+  },
+  "name": "Museum der Deutschen Spielzeugindustrie mit Trachtenpuppensammlung",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hindenburgplatz 1",
+    "addressLocality": "Neustadt",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96465"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.3231&mlon=11.1214#map=15/50.3231/11.1214",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.3231,
+    "longitude": 11.1214
+  },
+  "url": "http://www.spielzeugmuseum-neustadt.de",
+  "telephone": "09568/5600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183352",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

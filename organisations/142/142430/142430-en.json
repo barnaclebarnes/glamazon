@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142430
+  },
+  "name": "QUINCY HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18 MUIRHEAD ST",
+    "addressLocality": "QUINCY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02170"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2712&mlon=-71.0153#map=15/42.2712/-71.0153",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2712,
+    "longitude": -71.0153
+  },
+  "telephone": "+1 (617) 471-4508",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500060",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

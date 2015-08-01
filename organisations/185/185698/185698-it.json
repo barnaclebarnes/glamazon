@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185698
+  },
+  "name": "Museo archeologico nazionale della Basilicata \"Dinu Adamesteanu\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Andrea Serrao - Palazzo Loffredo, 11",
+    "addressLocality": "Potenza",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6394&mlon=15.8066#map=15/40.6394/15.8066",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6394,
+    "longitude": 15.8066
+  },
+  "url": "http://www.archeobasilicata.beniculturali.it",
+  "telephone": "+39 097121719",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lun 14.00 - 20.00; mar - dom 9.00-20.00;",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4QrhXBgADR8aehL-ZMpAgMlPUEM=/1000x1000/museums/logos/000/185/698/original/b01e5383636dbb67f41a4934d9dea4ab8661aa1e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20033",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

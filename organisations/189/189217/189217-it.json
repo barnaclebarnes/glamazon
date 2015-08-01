@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189217
+  },
+  "name": "Museo della Pievania \"Giuseppe Laudati\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Tarragone, ",
+    "addressLocality": "Corciano",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1284&mlon=12.2863#map=15/43.1284/12.2863",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1284,
+    "longitude": 12.2863
+  },
+  "url": "http://www.comune.corciano.pg.it",
+  "telephone": "+39 0755188256",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/P9aJ3j3qJnhtQEu0gB4t6cmtJlI=/1000x1000/museums/logos/000/189/217/original/2496a3a9ff2a5b992adef4a317d5dcd09d57ce78.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100701",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

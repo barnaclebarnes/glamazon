@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145247
+  },
+  "name": "RECONNECTING AMERICA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "570 ASBURY ST STE 207",
+    "addressLocality": "SAINT PAUL",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55104-1850"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9585&mlon=-93.1653#map=15/44.9585/-93.1653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9585,
+    "longitude": -93.1653
+  },
+  "url": "http://www.reconnectingamerica.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700687",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

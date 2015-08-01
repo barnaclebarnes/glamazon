@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187463
+  },
+  "name": "Museo della corda e degli antichi mestieri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cosimo Betti, SNC",
+    "addressLocality": "Orciano di Pesaro",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6866&mlon=12.9628#map=15/43.6866/12.9628",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6866,
+    "longitude": 12.9628
+  },
+  "url": "http://www.comune.orciano.pu.it/ci/3351.aspx",
+  "telephone": "+39 072197424",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sabato 9.30-12.00 16.00-19.00 Domenica e festivi 16.00-19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tUo9Q09BhYrgylZreP3rveGVx6Y=/1000x1000/museums/logos/000/187/463/original/73312db531faa6874ddd408828587d8675f8e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105057",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132829
+  },
+  "name": "WYMAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "94350 E HIGHWAY 40",
+    "addressLocality": "CRAIG",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81625"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5147&mlon=-107.488#map=15/40.5147/-107.488",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5147,
+    "longitude": -107.488
+  },
+  "url": "http://www.wymanmuseum.com",
+  "telephone": "+1 (970) 824-6346",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800005",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

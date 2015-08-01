@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161762
+  },
+  "name": "ISSAQUAH HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 695",
+    "addressLocality": "ISSAQUAH",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98027-0026"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5248&mlon=-122.039#map=15/47.5248/-122.039",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5248,
+    "longitude": -122.039
+  },
+  "url": "http://www.issaquahhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300211",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

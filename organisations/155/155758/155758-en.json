@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155758
+  },
+  "name": "CARPENTERS COMPANY OF THE CITY AND COUNTY OF PHILADELPHIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "320 CHESTNUT ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19106-2708"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9487&mlon=-75.1464#map=15/39.9487/-75.1464",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9487,
+    "longitude": -75.1464
+  },
+  "url": "http://www.ushistory.org/carpentershall",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200952",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

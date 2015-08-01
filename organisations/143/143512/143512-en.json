@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143512
+  },
+  "name": "PUBLIC POOL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3309 CANIFF ST",
+    "addressLocality": "HAMTRAMCK",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48212"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4012&mlon=-83.056#map=15/42.4012/-83.056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4012,
+    "longitude": -83.056
+  },
+  "url": "http://apublicpool.com",
+  "telephone": "+1 (313) 405-7665",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600049",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

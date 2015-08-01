@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138150
+  },
+  "name": "BARTLETT HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "228 S. MAIN STREET",
+    "addressLocality": "BARTLETT",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9911&mlon=-88.1846#map=15/41.9911/-88.1846",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9911,
+    "longitude": -88.1846
+  },
+  "url": "http://www.village.bartlett.il.us/museum/museumhistory.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701295",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

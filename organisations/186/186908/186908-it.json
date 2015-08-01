@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186908
+  },
+  "name": "Fondazione Giacomini Meo Fiorot onlus - Musei Mazzucchelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mazzucchelli, 2",
+    "addressLocality": "Mazzano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.494&mlon=10.3436#map=15/45.494/10.3436",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.494,
+    "longitude": 10.3436
+  },
+  "url": "http://www.museimazzucchelli.it",
+  "telephone": "+39 0302120975",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da lunedì a venerdì 10.00/18.00 sabato e domenica 10.00/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "8,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Q0BByT3Q14S8WvKawqs-vRw8XuA=/1000x1000/museums/logos/000/186/908/original/d14330bf22e7d7e8d2910237c6f8a6184c11274.png"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103583",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

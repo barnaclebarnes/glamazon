@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186319
+  },
+  "name": "Museo Renato Raffaelli - Santuario Sant'Antonio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Padre Osmolowski, 12",
+    "addressLocality": "Gemona del Friuli",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.279&mlon=13.1368#map=15/46.279/13.1368",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.279,
+    "longitude": 13.1368
+  },
+  "url": "http://www.provincia.udine.it ",
+  "telephone": "+39 043 2981113",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aperto su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iMH88Q6kDXu5OrMDwnypRNs0nHQ=/1000x1000/museums/logos/000/186/319/original/5a1e4523839c14cb397761b54ef121add62aa45d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100286",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

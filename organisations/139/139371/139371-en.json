@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139371
+  },
+  "name": "JOHN WAYNE BIRTHPLACE SOCIETY LTD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "216 S 2ND ST",
+    "addressLocality": "WINTERSET",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50273-1910"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3333&mlon=-94.0122#map=15/41.3333/-94.0122",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3333,
+    "longitude": -94.0122
+  },
+  "url": "http://www.johnwaynebirthplace.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900408",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

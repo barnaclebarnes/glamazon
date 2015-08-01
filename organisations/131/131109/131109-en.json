@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131109
+  },
+  "name": "COUNTY OF LOS ANGELES FIRE MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3325",
+    "addressLocality": "ALHAMBRA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90706-4612"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8862&mlon=-118.124#map=15/33.8862/-118.124",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8862,
+    "longitude": -118.124
+  },
+  "telephone": "+1 (562) 925-0234",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Los_Angeles_County_Fire_Department",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601235",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

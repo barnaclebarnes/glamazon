@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145444
+  },
+  "name": "KHAFRE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 64",
+    "addressLocality": "INDIANOLA",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "38751-0064"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4455&mlon=-90.6486#map=15/33.4455/-90.6486",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4455,
+    "longitude": -90.6486
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800151",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

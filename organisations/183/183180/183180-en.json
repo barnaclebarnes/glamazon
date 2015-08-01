@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183180
+  },
+  "name": "Die Kiste – Augsburger Puppentheatermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Spitalgasse 15",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3604&mlon=10.9032#map=15/48.3604/10.9032",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3604,
+    "longitude": 10.9032
+  },
+  "url": "http://www.diekiste.net",
+  "telephone": "0821/450345-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183180",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

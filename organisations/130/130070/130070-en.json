@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130070
+  },
+  "name": "REDWOOD VALLEY RAILWAY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "GRIZZLY PEAK BLVD",
+    "addressLocality": "ORINDA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94563"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8663&mlon=-122.223#map=15/37.8663/-122.223",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8663,
+    "longitude": -122.223
+  },
+  "url": "http://www.redwoodvalleyrailway.com",
+  "telephone": "+1 (510) 548-6100",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Redwood_Valley_Railway",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600196",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

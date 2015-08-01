@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150430
+  },
+  "name": "BURNS SOCIETY OF THE CITY OF NEW YORK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "150 E 55TH STREET",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10022-4514"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7593&mlon=-73.9693#map=15/40.7593/-73.9693",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7593,
+    "longitude": -73.9693
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601724",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

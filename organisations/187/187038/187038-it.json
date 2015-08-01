@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187038
+  },
+  "name": "Museo storico Alfa Romeo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Alfa Romeo, ?",
+    "addressLocality": "Arese",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5585&mlon=9.05229#map=15/45.5585/9.05229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5585,
+    "longitude": 9.05229
+  },
+  "url": "http://www.alfaromeo.it",
+  "telephone": "+39 0244429322",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103674",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

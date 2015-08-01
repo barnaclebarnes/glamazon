@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182745
+  },
+  "name": "Höhlenmuseum mit Dorfmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schulstraße 7",
+    "addressLocality": "Frasdorf",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83112"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8023&mlon=12.2856#map=15/47.8023/12.2856",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8023,
+    "longitude": 12.2856
+  },
+  "url": "http://www.hukv-frasdorf.de/hukvfrasdorfmuseen/index.html",
+  "telephone": "08052/179625",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182745",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

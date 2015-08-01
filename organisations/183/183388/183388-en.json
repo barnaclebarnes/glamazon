@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183388
+  },
+  "name": "Museum Tucherschloss und Hirsvogelsaal",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hirschelgasse 11",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90403"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4576&mlon=11.0842#map=15/49.4576/11.0842",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4576,
+    "longitude": 11.0842
+  },
+  "url": "http://www.museen.nuernberg.de/tucherschloss/index.html",
+  "telephone": "0911/231-8355",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183388",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

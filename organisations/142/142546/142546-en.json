@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142546
+  },
+  "name": "EMILY DICKINSON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "280 MAIN ST",
+    "addressLocality": "AMHERST",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3759&mlon=-72.5139#map=15/42.3759/-72.5139",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3759,
+    "longitude": -72.5139
+  },
+  "url": "http://www.emilydickinsonmuseum.org",
+  "telephone": "+1 (413) 542-8161",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500176",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

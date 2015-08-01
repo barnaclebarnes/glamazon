@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134421
+  },
+  "name": "PHILLIPS COLLECTION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1600 21ST ST NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20009-1003"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9117&mlon=-77.0466#map=15/38.9117/-77.0466",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9117,
+    "longitude": -77.0466
+  },
+  "url": "http://www.phillipscollection.org",
+  "telephone": "+1 (202) 387-2151",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100202",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

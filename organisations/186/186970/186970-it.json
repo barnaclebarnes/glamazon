@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186970
+  },
+  "name": "Museo organologico didattico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Colletta, 5",
+    "addressLocality": "Cremona",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1345&mlon=10.0177#map=15/45.1345/10.0177",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1345,
+    "longitude": 10.0177
+  },
+  "telephone": "+39 037238689",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hC4AyNPPVVOCUy3XSK_qWhxznx4=/1000x1000/museums/logos/000/186/970/original/9d99969be7950999624ee4ef7e44cf5239fa3fd.png"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103634",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

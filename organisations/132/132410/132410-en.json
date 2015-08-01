@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132410
+  },
+  "name": "LINDSAY WILDLIFE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1931 1ST AVE",
+    "addressLocality": "WALNUT CREEK",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94597-2540"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.924&mlon=-122.076#map=15/37.924/-122.076",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.924,
+    "longitude": -122.076
+  },
+  "url": "http://www.wildlife-museum.org",
+  "telephone": "+1 (925) 935-1978",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/195512037183"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/lindsaywildlife"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602536",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

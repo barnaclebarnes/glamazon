@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185594
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Borgo Rivera",
+    "addressLocality": "L'Aquila",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3499&mlon=13.3907#map=15/42.3499/13.3907",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3499,
+    "longitude": 13.3907
+  },
+  "url": "http://www.museonazionaleabruzzo.beniculturali.it/",
+  "telephone": "+39 0862633239",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cu_se_Calz9sdqkHMDTAOnPNyH0=/1000x1000/museums/logos/000/185/594/original/3c78fd93b7518ebb1a67c502a37ebe317af5d.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20257",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

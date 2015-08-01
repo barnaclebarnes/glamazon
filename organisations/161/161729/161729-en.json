@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161729
+  },
+  "name": "WING LUKE ASIAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "407 7TH AVE S",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98104-2948"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5984&mlon=-122.323#map=15/47.5984/-122.323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5984,
+    "longitude": -122.323
+  },
+  "url": "http://www.wingluke.org/",
+  "telephone": "+1 (206) 623-5124",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/34549168087"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300178",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

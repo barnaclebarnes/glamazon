@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185917
+  },
+  "name": "Museo diocesano San Gelardo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza De Sanctis, ",
+    "addressLocality": "Lacedonia",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0503&mlon=15.4231#map=15/41.0503/15.4231",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0503,
+    "longitude": 15.4231
+  },
+  "url": "http://www.lacedonia.com",
+  "telephone": "+39 082785081",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101777",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

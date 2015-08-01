@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152725
+  },
+  "name": "ZOOLOGICAL SOCIETY OF CINCINNATI",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3400 VINE ST",
+    "addressLocality": "CINCINNATI",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45220-1333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1425&mlon=-84.5094#map=15/39.1425/-84.5094",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1425,
+    "longitude": -84.5094
+  },
+  "url": "http://cincinnatizoo.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900502",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

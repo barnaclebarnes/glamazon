@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157862
+  },
+  "name": "SMITH COUNTY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 73",
+    "addressLocality": "CARTHAGE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37030-0073"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.262&mlon=-85.9532#map=15/36.262/-85.9532",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.262,
+    "longitude": -85.9532
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700533",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

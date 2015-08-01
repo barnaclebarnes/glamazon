@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183358
+  },
+  "name": "Stadtmuseum Nittenau",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatz 2",
+    "addressLocality": "Nittenau",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93149"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1977&mlon=12.2712#map=15/49.1977/12.2712",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1977,
+    "longitude": 12.2712
+  },
+  "url": "http://www.stadtmuseum-nittenau.de",
+  "telephone": "09436/902729",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183358",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

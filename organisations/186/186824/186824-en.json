@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186824
+  },
+  "name": "Carrara Academy",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza G. Carrara, 82",
+    "addressLocality": "Bergamo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7039&mlon=9.67561#map=15/45.7039/9.67561",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7039,
+    "longitude": 9.67561
+  },
+  "url": "http://www.accademiacarrara.bg.it",
+  "telephone": "+39 035399640",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uh8pEP8My2uo68KDgo8_PYVqvss=/1000x1000/museums/logos/000/186/824/original/796c825845d1fdcb78e8236743d67902a143f1d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103502",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186763
+  },
+  "name": "Museo ferroviario ligure - onlus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via 1 maggio, 38",
+    "addressLocality": "Taggia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8323&mlon=7.85352#map=15/43.8323/7.85352",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8323,
+    "longitude": 7.85352
+  },
+  "url": "http://www.museoferroviarioligure.it",
+  "telephone": "+39 3388498217",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100425",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

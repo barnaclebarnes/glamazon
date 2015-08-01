@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186426
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Bruno Buozzi, 1",
+    "addressLocality": "Sezze",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4984&mlon=13.058#map=15/41.4984/13.058",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4984,
+    "longitude": 13.058
+  },
+  "url": "http://www.comune.sezze.lt.it",
+  "telephone": "+39 077388179",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/icvMnH5uRCprdAwAE1fmZg1TMhI=/1000x1000/museums/logos/000/186/426/original/49e8f1dde5f9ad69c00ba6ef6617a86908a82fa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105516",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

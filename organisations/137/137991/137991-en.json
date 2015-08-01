@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137991
+  },
+  "name": "ABRAHAM LINCOLN PRESIDENTIAL LIBRARY & MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "212 N. 6TH STREET",
+    "addressLocality": "SPRINGFIELD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62701-1004"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.803&mlon=-89.6478#map=15/39.803/-89.6478",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.803,
+    "longitude": -89.6478
+  },
+  "url": "http://www.presidentlincoln.org",
+  "telephone": "+1 (217) 782-5764",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/Lincoln.Museum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ALPLM"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701136",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

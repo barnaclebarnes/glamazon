@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185813
+  },
+  "name": "Museo virtuale del Bizantino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Plebiscito",
+    "addressLocality": "Rossano",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5741&mlon=16.634#map=15/39.5741/16.634",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5741,
+    "longitude": 16.634
+  },
+  "telephone": "+39 0983 5291 Comune",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110962",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

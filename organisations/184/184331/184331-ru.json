@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184331
+  },
+  "name": "Yaldhurst Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:info@yaldhurstmuseum.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-43.471&mlon=172.678#map=15/-43.471/172.678",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -43.471,
+    "longitude": 172.678
+  },
+  "url": "http://www.yaldhurstmuseum.co.nz",
+  "telephone": "64 3 342 7914",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Ежедневно 10 утра - 5 вечера или по договоренности между 5 вечера и 9 вечера (закрыт Рождество и все июня)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Adult $15.00\r\nChildren $5.00\r\nFamily Concesion 2 Adults and up to 3 Children $30.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/ru/museums/184331",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

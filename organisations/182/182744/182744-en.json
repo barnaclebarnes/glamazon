@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182744
+  },
+  "name": "Fuhrmann und Schneider Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hinterdorf 10",
+    "addressLocality": "Frammersbach",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97833"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0599&mlon=9.47811#map=15/50.0599/9.47811",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0599,
+    "longitude": 9.47811
+  },
+  "url": "http://www.fuhrmannundschneidermuseum.de",
+  "telephone": "09355/9712-25",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182744",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

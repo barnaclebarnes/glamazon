@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163947
+  },
+  "name": "Heritage Victoria",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8144&mlon=144.972#map=15/-37.8144/144.972",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8144,
+    "longitude": 144.972
+  },
+  "url": "http://www.heritage.vic.gov.au",
+  "telephone": "(03) 8644 8800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "heritage-victoria",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/heritage-victoria",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

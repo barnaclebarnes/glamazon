@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188485
+  },
+  "name": "Museo strumenti etnico musicali",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Montesano, 1",
+    "addressLocality": "Chiaramonte Gulfi",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0312&mlon=14.7039#map=15/37.0312/14.7039",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0312,
+    "longitude": 14.7039
+  },
+  "url": "http://www.comune.chiaramonte.rg.it",
+  "telephone": "+39 0932711239",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da Lun. a Ven. 8.30/13.30 Sab. Dom. 9.30/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FLV3yU_BheDQjtHhJZmY_UOWr0U=/1000x1000/museums/logos/000/188/485/original/ccf42e4cba871e2ab99e7e8ea1fda75e8a91695e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105498",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186742
+  },
+  "name": "Museo dell' olivo di Imperia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garessio, 13",
+    "addressLocality": "Imperia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8885&mlon=8.03892#map=15/43.8885/8.03892",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8885,
+    "longitude": 8.03892
+  },
+  "url": "http://www.museodellolivo.com",
+  "telephone": "+39 0183295462",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100414",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

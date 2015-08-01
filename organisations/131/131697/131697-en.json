@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131697
+  },
+  "name": "GEHAMS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2827",
+    "addressLocality": "BAKERSFIELD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93303-2827"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.4366&mlon=-119.069#map=15/35.4366/-119.069",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.4366,
+    "longitude": -119.069
+  },
+  "url": "http://gehams.org/",
+  "telephone": "+1 (661) 588-2770",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601823",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

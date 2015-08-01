@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150347
+  },
+  "name": "HISTORICAL SOCIETY OF DUNKIRK NEW YORK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "513 WASHINGTON AVE",
+    "addressLocality": "DUNKIRK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14048-2522"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4809&mlon=-79.3323#map=15/42.4809/-79.3323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4809,
+    "longitude": -79.3323
+  },
+  "url": "http://dunkirkhistoricalmuseum.org",
+  "telephone": "+1 (716) 366-3797",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601641",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132448
+  },
+  "name": "SANTA BARBARA MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2559 PUESTA DEL SOL",
+    "addressLocality": "SANTA BARBARA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93105-2936"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.4413&mlon=-119.715#map=15/34.4413/-119.715",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.4413,
+    "longitude": -119.715
+  },
+  "url": "http://www.sbnature.org",
+  "telephone": "+1 (805) 682-4711",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602574",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

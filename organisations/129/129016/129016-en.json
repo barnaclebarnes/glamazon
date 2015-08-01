@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129016
+  },
+  "name": "ALASKA ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4731 OMALLEY RD",
+    "addressLocality": "ANCHORAGE",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99507-6573"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=61.1231&mlon=-149.793#map=15/61.1231/-149.793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 61.1231,
+    "longitude": -149.793
+  },
+  "url": "http://www.alaskazoo.org",
+  "telephone": "+1 (907) 346-2133",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200087",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155453
+  },
+  "name": "NATIONAL CONSTITUTION CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "525 ARCH ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19106-1514"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9526&mlon=-75.1489#map=15/39.9526/-75.1489",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9526,
+    "longitude": -75.1489
+  },
+  "url": "http://www.constitutioncenter.org",
+  "telephone": "+1 (215) 409-6600",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/constitutioncenter"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200647",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

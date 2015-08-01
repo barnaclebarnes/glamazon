@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134618
+  },
+  "name": "FRED BEAR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "SW 41ST BLVD",
+    "addressLocality": "GAINESVILLE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32608"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.6096&mlon=-82.3808#map=15/29.6096/-82.3808",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.6096,
+    "longitude": -82.3808
+  },
+  "telephone": "+1 (352) 376-2411",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200172",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

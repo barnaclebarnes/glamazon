@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183479
+  },
+  "name": "Vulkanerlebnis Parkstein",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schlossgasse 5",
+    "addressLocality": "Parkstein",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92711"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7321&mlon=12.0676#map=15/49.7321/12.0676",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7321,
+    "longitude": 12.0676
+  },
+  "url": "http://www.vulkanerlebnis-parkstein.de",
+  "telephone": "09602/6163910",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183479",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

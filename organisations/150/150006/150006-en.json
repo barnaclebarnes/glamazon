@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150006
+  },
+  "name": "ST. BONAVENTURE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3261 WEST STATE STREET",
+    "addressLocality": "SAINT BONAVEN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14778-2284"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0832&mlon=-78.4859#map=15/42.0832/-78.4859",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0832,
+    "longitude": -78.4859
+  },
+  "url": "http://www.sbu.edu",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601300",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

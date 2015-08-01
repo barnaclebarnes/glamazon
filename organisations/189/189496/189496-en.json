@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189496
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "San Polo 2794, ",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4363&mlon=12.3284#map=15/45.4363/12.3284",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4363,
+    "longitude": 12.3284
+  },
+  "url": "http://www.carlogoldoni.visitmuve.it",
+  "telephone": "+39 0412759325",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DAAghnzaW5bsjpmJYDRo6_9xPzc=/1000x1000/museums/logos/000/189/496/original/a3b01ea519a149be110db232ceba3dd8a39b6fd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106810",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

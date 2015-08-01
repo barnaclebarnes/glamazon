@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187674
+  },
+  "name": "Casa - museo Pellegrino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cardinal Pellegrino - Frazione Roata Chiusani, ",
+    "addressLocality": "Centallo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4634&mlon=7.59215#map=15/44.4634/7.59215",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4634,
+    "longitude": 7.59215
+  },
+  "telephone": "+39 0171719329",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ebBGnzuhJ2yghV9M78uw5aZUerY=/1000x1000/museums/logos/000/187/674/original/33a70669b84b05bf459e67b7317f65fa03cb399.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102563",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

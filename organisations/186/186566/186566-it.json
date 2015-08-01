@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186566
+  },
+  "name": "Museo di antropologia \"Giuseppe Sergi\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Aldo Moro, 5",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9018&mlon=12.5121#map=15/41.9018/12.5121",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9018,
+    "longitude": 12.5121
+  },
+  "url": "http://serverbau.bio.uniroma1.it",
+  "telephone": "+39 06 49912271",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mercoledì e Venerdì,10,00/13,00; venerdì anche di pomeriggio",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VsKomTG-75vOH4yucBeTNcufXIo=/1000x1000/museums/logos/000/186/566/original/486e29944721a92be521e4e3b49a2402d8be39c.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101563",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

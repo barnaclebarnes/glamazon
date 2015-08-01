@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145611
+  },
+  "name": "MARGARET HARWELL ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "421 NORTH MAIN STREET",
+    "addressLocality": "POPLAR BLUFF",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.7601&mlon=-90.3938#map=15/36.7601/-90.3938",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.7601,
+    "longitude": -90.3938
+  },
+  "url": "http://www.mham.org",
+  "telephone": "+1 (573) 686-8002",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/265985775662"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900040",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

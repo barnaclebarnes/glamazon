@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186962
+  },
+  "name": "Museo civico di Castelleone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 67",
+    "addressLocality": "Castelleone",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2931&mlon=9.7628#map=15/45.2931/9.7628",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2931,
+    "longitude": 9.7628
+  },
+  "url": "http://www.comune.castelleone.cr.it",
+  "telephone": "+39 0374356344",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2wVTlA3F4-YBt5X0tAw3uXxuUz8=/1000x1000/museums/logos/000/186/962/original/93c80f8e21fc6c87d5a28f7204de4939455bb6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103626",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

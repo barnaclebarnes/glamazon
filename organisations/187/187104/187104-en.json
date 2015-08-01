@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187104
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via delle Industrie, 3",
+    "addressLocality": "Noviglio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.341&mlon=9.09254#map=15/45.341/9.09254",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.341,
+    "longitude": 9.09254
+  },
+  "url": "http://www.kartell.it",
+  "telephone": "+39 0290012269",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6b_CaRHlb6swM0AGVjN7QTUazMs=/1000x1000/museums/logos/000/187/104/original/5cae1681def1b1ddd4d4a1f71f7ea17a4120bb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103728",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

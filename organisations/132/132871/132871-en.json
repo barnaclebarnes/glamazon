@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132871
+  },
+  "name": "MEEKER HOME MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1324 9TH AVE",
+    "addressLocality": "GREELEY",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80631"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.418&mlon=-104.693#map=15/40.418/-104.693",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.418,
+    "longitude": -104.693
+  },
+  "url": "http://www.ci.greeley.co.us",
+  "telephone": "+1 (970) 350-9220",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800047",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

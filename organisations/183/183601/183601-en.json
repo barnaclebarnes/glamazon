@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183601
+  },
+  "name": "Bayerisches Moor- und Torfmuseum Rottau",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ende der Hackenstraße",
+    "addressLocality": "Rottau",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83224"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8135&mlon=12.4279#map=15/47.8135/12.4279",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8135,
+    "longitude": 12.4279
+  },
+  "url": "http://www.torfbahnhof-rottau.de",
+  "telephone": "08051/9674701",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183601",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

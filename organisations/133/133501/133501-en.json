@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133501
+  },
+  "name": "ROSEMOUNT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "419 W 14TH ST",
+    "addressLocality": "PUEBLO",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81003-2707"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2798&mlon=-104.613#map=15/38.2798/-104.613",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2798,
+    "longitude": -104.613
+  },
+  "url": "http://www.rosemount.org/",
+  "telephone": "+1 (719) 545-5290",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800677",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

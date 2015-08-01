@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183943
+  },
+  "name": "Pocci-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bergkramerhof 1",
+    "addressLocality": "Wolfratshausen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82515"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9067&mlon=11.4006#map=15/47.9067/11.4006",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9067,
+    "longitude": 11.4006
+  },
+  "url": "http://www.grafpocci-gesellschaft.de",
+  "telephone": "08177/8424",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183943",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

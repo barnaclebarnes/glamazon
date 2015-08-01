@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161076
+  },
+  "name": "VIRGINIA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 7311",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23221-0311"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5577&mlon=-77.4858#map=15/37.5577/-77.4858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5577,
+    "longitude": -77.4858
+  },
+  "url": "http://www.vahistorical.org",
+  "telephone": "+1 (804) 358-4901",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/29594152350"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100582",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186656
+  },
+  "name": "Museo della ceramica di Vasanello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "San Salvatore, 21",
+    "addressLocality": "Vasanello",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4173&mlon=12.3461#map=15/42.4173/12.3461",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4173,
+    "longitude": 12.3461
+  },
+  "telephone": "+39 076140891",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nE604hT5HGXTrE_ELISEm5J6jWE=/1000x1000/museums/logos/000/186/656/original/a785f78cd8a4a5683fae3422f9d9ef452af60dc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104941",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

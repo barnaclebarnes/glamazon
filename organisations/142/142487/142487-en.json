@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142487
+  },
+  "name": "JFK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "397 MAIN ST",
+    "addressLocality": "HYANNIS",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6526&mlon=-70.2842#map=15/41.6526/-70.2842",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6526,
+    "longitude": -70.2842
+  },
+  "url": "http://jfkhyannismuseum.org",
+  "telephone": "+1 (508) 790-3077",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500117",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

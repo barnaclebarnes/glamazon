@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183363
+  },
+  "name": "Akademie der Bildenden Künste",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bingstraße 60",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90480"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4459&mlon=11.1364#map=15/49.4459/11.1364",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4459,
+    "longitude": 11.1364
+  },
+  "url": "http://www.adbk-nuernberg.de",
+  "telephone": "0911/94040",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183363",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

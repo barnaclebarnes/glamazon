@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186701
+  },
+  "name": "Museo di Palazzo Reale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Balbi, 10",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4154&mlon=8.92541#map=15/44.4154/8.92541",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4154,
+    "longitude": 8.92541
+  },
+  "url": "http://www.palazzorealegenova.beniculturali.it/",
+  "telephone": "+39 010 2710236/286",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì chiuso da martedì a sabato 9.00/19.00 (ultimo ingresso ore 18.30) domenica 13.30/19.00 (ultimo ingresso ore 18.30) prima domenica del mese 9.00/19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Mof3psMXb50EF2Ay_8zNh2ReUQA=/1000x1000/museums/logos/000/186/701/original/89c01a31c1530da7eeadbbd43cc25d785c27ee4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20784",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

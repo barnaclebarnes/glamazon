@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129779
+  },
+  "name": "MAIN STREET ELDORADO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1325",
+    "addressLocality": "EL DORADO",
+    "addressRegion": "AR",
+    "addressCountry": "United States",
+    "postalCode": "71731-1325"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.214&mlon=-92.662#map=15/33.214/-92.662",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.214,
+    "longitude": -92.662
+  },
+  "url": "http://www.mainstreeteldorado.org/",
+  "telephone": "+1 (870) 862-4747",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400500215",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

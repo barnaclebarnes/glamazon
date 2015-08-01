@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185600
+  },
+  "name": "Museo civico parrocchiale dell'arte presepiale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Teofilo Pachini, 3",
+    "addressLocality": "Rivisondoli",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8707&mlon=14.0664#map=15/41.8707/14.0664",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8707,
+    "longitude": 14.0664
+  },
+  "url": "http://comune.rivisondoli.aq.it",
+  "telephone": "+39 0864 69114 / 0864 212962",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì-domenica 9,00-13,00 / 15,30-18,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3€"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100019",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

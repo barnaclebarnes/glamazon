@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137467
+  },
+  "name": "SKOKIE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8035 FLORAL AVENUE",
+    "addressLocality": "SKOKIE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60077"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0272&mlon=-87.756#map=15/42.0272/-87.756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0272,
+    "longitude": -87.756
+  },
+  "url": "http://www.skokieparkdistrict.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700612",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

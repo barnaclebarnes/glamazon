@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163454
+  },
+  "name": "JACKSON HOLE HISTORICAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "105 MERCILL AVE",
+    "addressLocality": "JACKSON",
+    "addressRegion": "WY",
+    "addressCountry": "United States",
+    "postalCode": "83001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4834&mlon=-110.764#map=15/43.4834/-110.764",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4834,
+    "longitude": -110.764
+  },
+  "url": "http://www.jacksonholehistory.org",
+  "telephone": "+1 (307) 733-9605",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405600034",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

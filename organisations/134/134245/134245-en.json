@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134245
+  },
+  "name": "NAVAL HISTORICAL CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "805 KIDDER BREEZE ST SE",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20374"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8748&mlon=-76.9949#map=15/38.8748/-76.9949",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8748,
+    "longitude": -76.9949
+  },
+  "url": "http://www.history.navy.mil",
+  "telephone": "+1 (202) 433-4882",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100025",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

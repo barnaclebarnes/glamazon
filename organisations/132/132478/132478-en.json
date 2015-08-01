@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132478
+  },
+  "name": "CALIFORNIA SCIENCE CENTER FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "700 EXPOSITION PARK DR",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90037"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0153&mlon=-118.286#map=15/34.0153/-118.286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0153,
+    "longitude": -118.286
+  },
+  "url": "http://www.californiasciencecenter.org/",
+  "telephone": "+1 (323) 724-3623",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SUWwfYE2HQQslWSZURi7L3rKpYw=/1000x1000/museums/logos/000/132/478/original/California_Science_Center.jpg",
+    "creator": "Richard Kim",
+    "license": "CC BY 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/California_Science_Center",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602604",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

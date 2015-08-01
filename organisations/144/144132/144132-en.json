@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144132
+  },
+  "name": "MUSIC HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 297",
+    "addressLocality": "ACME",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49610-0297"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7936&mlon=-85.4864#map=15/44.7936/-85.4864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7936,
+    "longitude": -85.4864
+  },
+  "url": "http://www.musichouse.org",
+  "telephone": "+1 (231) 938-9300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600669",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

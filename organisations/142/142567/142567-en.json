@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142567
+  },
+  "name": "ABRAHAM BROWNE HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "562 MAIN ST",
+    "addressLocality": "WATERTOWN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02472-2224"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3723&mlon=-71.2003#map=15/42.3723/-71.2003",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3723,
+    "longitude": -71.2003
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500197",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

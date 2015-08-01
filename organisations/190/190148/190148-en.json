@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190148
+  },
+  "name": "ELGIN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "119 MAIN STREET NORTH",
+    "addressLocality": "ELGIN",
+    "addressRegion": "ND",
+    "addressCountry": "United States",
+    "postalCode": "58533"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8138&mlon=-87.6357#map=15/41.8138/-87.6357",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8138,
+    "longitude": -87.6357
+  },
+  "telephone": "+1 (701) 584-2900",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403800201",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

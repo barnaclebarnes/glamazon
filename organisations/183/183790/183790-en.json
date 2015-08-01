@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183790
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausplatz 1",
+    "addressLocality": "Unterschleißheim",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85716"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2729&mlon=11.5708#map=15/48.2729/11.5708",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2729,
+    "longitude": 11.5708
+  },
+  "url": "http://www.forum-unterschleissheim.de/museen/heimatmuseum/",
+  "telephone": "089/3106343",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183790",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

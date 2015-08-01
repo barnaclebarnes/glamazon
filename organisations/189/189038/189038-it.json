@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189038
+  },
+  "name": "Pinacoteca nazionale di Siena",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Pietro, 29",
+    "addressLocality": "Siena",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.315&mlon=11.3305#map=15/43.315/11.3305",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.315,
+    "longitude": 11.3305
+  },
+  "url": "http://pinacotecanazionale.siena.it/",
+  "telephone": "+39 0577281161 0577286143",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8.30 - 13.30 (lunedì); 9.00 - 19.00 (dal martedì al sabato); 8.00 - 13.00/14.00 - 20.00 (domenica);",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4.00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uQy0dgvwwPngpZaQdqQ6f1x8OBQ=/1000x1000/museums/logos/000/189/038/original/2baac9cc91b9cca396405a2dac6477dd7e375f9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20149",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

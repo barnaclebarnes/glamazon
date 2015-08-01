@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183469
+  },
+  "name": "Heimatmuseum Bad Aibling",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wilhelm-Leibl-Platz 2",
+    "addressLocality": "Bad Aibling",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83043"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8616&mlon=12.0082#map=15/47.8616/12.0082",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8616,
+    "longitude": 12.0082
+  },
+  "url": "http://www.hv-aibling.de/html/heimatmuseum.html",
+  "telephone": "08061/7283",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183469",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

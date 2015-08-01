@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182891
+  },
+  "name": "Graslitzer Gedenk- und Informationsraum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wermbachstraße 15",
+    "addressLocality": "Aschaffenburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63739"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9739&mlon=9.14805#map=15/49.9739/9.14805",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9739,
+    "longitude": 9.14805
+  },
+  "url": "http://www.graslitz.de",
+  "telephone": "06188/5261",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182891",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

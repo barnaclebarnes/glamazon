@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145791
+  },
+  "name": "SPACE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "HIGHWAY 76 WEST",
+    "addressLocality": "BRANSON",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "65616"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.7333&mlon=-93.4055#map=15/36.7333/-93.4055",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.7333,
+    "longitude": -93.4055
+  },
+  "url": "http://space-mo.org",
+  "telephone": "+1 (573) 358-1200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900220",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

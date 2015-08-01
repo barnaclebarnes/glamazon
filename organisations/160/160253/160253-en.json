@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160253
+  },
+  "name": "GOODRICH LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "202 MAIN ST",
+    "addressLocality": "NEWPORT",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05855-5000"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9355&mlon=-72.2101#map=15/44.9355/-72.2101",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9355,
+    "longitude": -72.2101
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000059",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

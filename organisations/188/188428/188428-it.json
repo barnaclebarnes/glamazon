@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188428
+  },
+  "name": "Parco Museo Jalari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": ", ",
+    "addressLocality": "Barcellona Pozzo di Gotto",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1473&mlon=15.2128#map=15/38.1473/15.2128",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1473,
+    "longitude": 15.2128
+  },
+  "telephone": "+39 0909746245",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kPa2PP_WrtMGaR6Y6xgUunH4XTw=/1000x1000/museums/logos/000/188/428/original/33e3805d3e0c6423d5327499805978f849ae.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101242",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

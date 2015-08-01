@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130180
+  },
+  "name": "MUSEE MECANIQUE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PIER 45",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8098&mlon=-122.417#map=15/37.8098/-122.417",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8098,
+    "longitude": -122.417
+  },
+  "url": "http://www.museemecanique.com",
+  "telephone": "+1 (415) 346-2000",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Mus%C3%A9e_M%C3%A9canique",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600306",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

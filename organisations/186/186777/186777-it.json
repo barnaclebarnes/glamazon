@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186777
+  },
+  "name": "Museo del sigillo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Prione, 236",
+    "addressLocality": "La Spezia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.107&mlon=9.81835#map=15/44.107/9.81835",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.107,
+    "longitude": 9.81835
+  },
+  "url": "http://www.laspeziacultura.it",
+  "telephone": "+39 0187/778544",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100437",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

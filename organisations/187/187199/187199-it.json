@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187199
+  },
+  "name": "Civico museo di storia naturale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Don Luigi Mauri, ?",
+    "addressLocality": "Jerago con Orago",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7032&mlon=8.80098#map=15/45.7032/8.80098",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7032,
+    "longitude": 8.80098
+  },
+  "url": "http://www.comune.jeragoconorago.va.it",
+  "telephone": "+39 0331217210",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ksPz7imubRj7pZjUBZov2K06d4Q=/1000x1000/museums/logos/000/187/199/original/1d889a43a781bb618f2533affdc35bb4aaaf819.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103824",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

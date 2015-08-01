@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140801
+  },
+  "name": "BIG BEND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8554 HIGHWAY 451",
+    "addressLocality": "MOREAUVILLE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "71355"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.3629&mlon=-103.654#map=15/30.3629/-103.654",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.3629,
+    "longitude": -103.654
+  },
+  "url": "http://www.museumofthebigbend.com",
+  "telephone": "+1 (432) 837-8730",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200083",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

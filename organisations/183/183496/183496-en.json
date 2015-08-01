@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183496
+  },
+  "name": "Heimathaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 30",
+    "addressLocality": "Pfaffenhausen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87772"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1196&mlon=10.455#map=15/48.1196/10.455",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1196,
+    "longitude": 10.455
+  },
+  "url": "http://www.freunde-pfaffenhausens.de",
+  "telephone": "08265/9698-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183496",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

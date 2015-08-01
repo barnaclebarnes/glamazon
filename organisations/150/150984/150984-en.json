@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150984
+  },
+  "name": "HISTORICAL SOCIETY OF THE MERRICKS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2279 MERRICK AVENUE",
+    "addressLocality": "MERRICK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11566"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.661&mlon=-73.5511#map=15/40.661/-73.5511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.661,
+    "longitude": -73.5511
+  },
+  "url": "http://www.merrickhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602278",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

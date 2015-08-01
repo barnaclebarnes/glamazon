@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187566
+  },
+  "name": "Castello di Prasco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gallesio, 1 - Piazza Chiesa, 2 e 4, ",
+    "addressLocality": "Prasco",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6397&mlon=8.55241#map=15/44.6397/8.55241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6397,
+    "longitude": 8.55241
+  },
+  "url": "http://www.castelliaperti.it/ita/lista_castelli.lasso?provincia=alessandria",
+  "telephone": "+39 0144 375769",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RpIXE2Sa9dtuJHDEPTW31-rQE1c=/1000x1000/museums/logos/000/187/566/original/393088a9dbcb1bbe33959cd46d7b2886b8ec937.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102468",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187194
+  },
+  "name": "Primo museo italiano della pipa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Chiostro, 5",
+    "addressLocality": "Gavirate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8412&mlon=8.72097#map=15/45.8412/8.72097",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8412,
+    "longitude": 8.72097
+  },
+  "url": "http://www.museologia.it",
+  "telephone": "+39 0332744745",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QYBh6io5EeKaZxUIvkpxqvKRsbU=/1000x1000/museums/logos/000/187/194/original/d426df59136a3846d66e5ca011d415f9bc1bf2a9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103821",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

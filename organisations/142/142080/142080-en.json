@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142080
+  },
+  "name": "BALTIMORE MUSEUM OF INDUSTRY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1415 KEY HWY",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21230-5115"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2733&mlon=-76.6017#map=15/39.2733/-76.6017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2733,
+    "longitude": -76.6017
+  },
+  "telephone": "+1 (410) 727-4808",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400373",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

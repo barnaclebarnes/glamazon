@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130119
+  },
+  "name": "MEUX HOME MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1007 R ST",
+    "addressLocality": "FRESNO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93721"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.7399&mlon=-119.782#map=15/36.7399/-119.782",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.7399,
+    "longitude": -119.782
+  },
+  "url": "http://www.meux.mus.ca.us",
+  "telephone": "+1 (559) 233-8007",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600245",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

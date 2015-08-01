@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186821
+  },
+  "name": "Museo storico di Bergamo età veneta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vecchia, ?",
+    "addressLocality": "Bergamo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.704&mlon=9.66308#map=15/45.704/9.66308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.704,
+    "longitude": 9.66308
+  },
+  "url": "http://www.bergamoestoria.it",
+  "telephone": "+39 035 247116",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106913",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

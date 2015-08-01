@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188957
+  },
+  "name": "Museo Casa Francesco Datini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ser Lapo Mazzei, 43",
+    "addressLocality": "Prato",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.88&mlon=11.0953#map=15/43.88/11.0953",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.88,
+    "longitude": 11.0953
+  },
+  "url": "http://www.museocasadatini.it",
+  "telephone": "+39 057421391",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HFkVaJ9pse4t-eBP66PJG23dxhI=/1000x1000/museums/logos/000/188/957/original/2d7abc75799729336a247ec3729de90dca4d1f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110426",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

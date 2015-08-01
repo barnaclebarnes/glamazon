@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186794
+  },
+  "name": "Museo archeologico del Finale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Complesso monumentale di Santa Caterina, ",
+    "addressLocality": "Finale Ligure",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1758&mlon=8.32653#map=15/44.1758/8.32653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1758,
+    "longitude": 8.32653
+  },
+  "url": "http://www.museoarcheofinale.it",
+  "telephone": "+39 019-690020",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100459",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130632
+  },
+  "name": "MODESTO ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "404 PATRICK LN",
+    "addressLocality": "MODESTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95350-1015"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6863&mlon=-120.999#map=15/37.6863/-120.999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6863,
+    "longitude": -120.999
+  },
+  "url": "http://modestoartmuseum.org",
+  "telephone": "+1 (209) 236-1333",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600758",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

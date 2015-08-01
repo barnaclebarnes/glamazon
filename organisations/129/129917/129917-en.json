@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129917
+  },
+  "name": "UNIVERSITY HERBARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1001 VALLEY LIFE SCIENCES BLDG",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94720"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8755&mlon=-122.242#map=15/37.8755/-122.242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8755,
+    "longitude": -122.242
+  },
+  "url": "http://ucjeps.berkeley.edu/uc",
+  "telephone": "+1 (510) 642-2465",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600043",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

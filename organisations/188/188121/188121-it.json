@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188121
+  },
+  "name": "Museo diocesano Giovanni Tarantini di Brindisi.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 12",
+    "addressLocality": "Brindisi",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6395&mlon=17.9449#map=15/40.6395/17.9449",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6395,
+    "longitude": 17.9449
+  },
+  "url": "http://www.brindisiweb.it/arcidiocesi/enti/museo_br.htm",
+  "telephone": "+39 0831523053",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ie1J7J_n-K5e_1osxhiMEoIqYQA=/1000x1000/museums/logos/000/188/121/original/6f23f3ba2a24cfa28ed0c1eb74587726fc455b6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102337",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

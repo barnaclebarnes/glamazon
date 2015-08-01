@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142409
+  },
+  "name": "SALEM MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "32 DERBY SQ",
+    "addressLocality": "SALEM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01970"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.521&mlon=-70.8948#map=15/42.521/-70.8948",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.521,
+    "longitude": -70.8948
+  },
+  "url": "http://www.thesalemmuseum.org",
+  "telephone": "+1 (978) 744-0007",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500039",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

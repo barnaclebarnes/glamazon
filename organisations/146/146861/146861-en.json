@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146861
+  },
+  "name": "OMAHA CHILDRENS MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 S 20TH ST",
+    "addressLocality": "OMAHA",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68102-2508"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2549&mlon=-95.9423#map=15/41.2549/-95.9423",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2549,
+    "longitude": -95.9423
+  },
+  "url": "http://www.ocm.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100200",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

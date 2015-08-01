@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185679
+  },
+  "name": "Museo interattivo del giocattolo povero e del gioco di strada",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Salvo D'acquisto, ",
+    "addressLocality": "Albano di Lucania",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5865&mlon=16.0374#map=15/40.5865/16.0374",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5865,
+    "longitude": 16.0374
+  },
+  "url": "http://www.museogiocattolopovero.it",
+  "telephone": "+39 0971984006",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VojlGeQYC9PHJcOi3SWm1L5w4uw=/1000x1000/museums/logos/000/185/679/original/6f9740b321f7ecd0eada6ab360ca2758bdabb337.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100136",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

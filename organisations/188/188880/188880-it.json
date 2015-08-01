@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188880
+  },
+  "name": "Museo delle attività agricole",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "della Cella, 4/b",
+    "addressLocality": "Lari",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5511&mlon=10.5909#map=15/43.5511/10.5909",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5511,
+    "longitude": 10.5909
+  },
+  "telephone": "+39 0587685047",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7M7AEGuL0iE-y-gVf1aKWX_v_lM=/1000x1000/museums/logos/000/188/880/original/9fe9b675638efe777af636526cff33e5341aa50.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106273",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186039
+  },
+  "name": "Museo del mare di Procida",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Libertà, 40",
+    "addressLocality": "Procida",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7649&mlon=14.0215#map=15/40.7649/14.0215",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7649,
+    "longitude": 14.0215
+  },
+  "telephone": "+39 0818960977",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101875",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

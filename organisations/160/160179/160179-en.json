@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160179
+  },
+  "name": "ECCLES COMMUNITY ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2580 JEFFERSON AVE",
+    "addressLocality": "OGDEN",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84401-2411"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2189&mlon=-111.965#map=15/41.2189/-111.965",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2189,
+    "longitude": -111.965
+  },
+  "url": "http://www.ogden4arts.org",
+  "telephone": "+1 (801) 392-6935",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/79845845735"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900245",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

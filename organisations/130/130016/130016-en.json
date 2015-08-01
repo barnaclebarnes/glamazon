@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130016
+  },
+  "name": "PACIFIC SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "23923 CROSSON DR",
+    "addressLocality": "WOODLAND HILLS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91367"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1783&mlon=-118.648#map=15/34.1783/-118.648",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1783,
+    "longitude": -118.648
+  },
+  "url": "http://www.pacificscience.com",
+  "telephone": "+1 (818) 888-8631",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Pacific_Science_Center",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600142",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

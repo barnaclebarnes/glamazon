@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186124
+  },
+  "name": "Museo per la memoria di Ustica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Saliceto",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5669&mlon=11.3786#map=15/44.5669/11.3786",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5669,
+    "longitude": 11.3786
+  },
+  "url": "http://www.mambo-bologna.org/museoustica/",
+  "telephone": "+39 +39 051 377680",
+  "contactPoint": [
+
+  ],
+  "openingHours": "venerdì, sabato e domenica 10.00 - 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111076",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

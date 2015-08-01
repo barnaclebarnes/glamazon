@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154874
+  },
+  "name": "RODIN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "BENJAMIN FRANKLIN PKWY",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9605&mlon=-75.1745#map=15/39.9605/-75.1745",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9605,
+    "longitude": -75.1745
+  },
+  "url": "http://www.rodinmuseum.org",
+  "telephone": "+1 (215) 763-8100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200068",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

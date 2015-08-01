@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150580
+  },
+  "name": "MID-HUDSON CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "75 N WATER ST",
+    "addressLocality": "POUGHKEEPSIE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12601-1720"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7075&mlon=-73.9392#map=15/41.7075/-73.9392",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7075,
+    "longitude": -73.9392
+  },
+  "url": "http://www.mhcm.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601874",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

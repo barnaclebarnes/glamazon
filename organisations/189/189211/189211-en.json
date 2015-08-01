@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189211
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Cannoniera, 22/A",
+    "addressLocality": "Città di Castello",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5156&mlon=12.3392#map=15/43.5156/12.3392",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5156,
+    "longitude": 12.3392
+  },
+  "telephone": "+39 0758554202",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/M0zpbrKx8FhyJBp1-rxH0H0uVw0=/1000x1000/museums/logos/000/189/211/original/76f44ec29dc03e0f456f4e9f968b77b24281022.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100695",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

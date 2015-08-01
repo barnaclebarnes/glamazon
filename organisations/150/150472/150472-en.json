@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150472
+  },
+  "name": "SHAKER HERITAGE SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "875 WATERVLIET SHAKER R",
+    "addressLocality": "ALBANY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12211-1051"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7411&mlon=-73.8115#map=15/42.7411/-73.8115",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7411,
+    "longitude": -73.8115
+  },
+  "url": "http://www.shakerheritage.org",
+  "telephone": "+1 (518) 456-7890",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601766",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

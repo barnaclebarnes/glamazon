@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151696
+  },
+  "name": "DARE COUNTY ARTS COUNCIL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "104 SIR WALTER RALEIGH",
+    "addressLocality": "MANTEO",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27954-9419"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.9096&mlon=-75.6698#map=15/35.9096/-75.6698",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.9096,
+    "longitude": -75.6698
+  },
+  "url": "http://www.darearts.org",
+  "telephone": "+1 (252) 473-5558",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/150989567414"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700567",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

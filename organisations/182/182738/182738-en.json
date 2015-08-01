@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182738
+  },
+  "name": "KZ-Gedenkstätte Flossenbürg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gedächtnisallee 5",
+    "addressLocality": "Flossenbürg",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92696"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7363&mlon=12.3552#map=15/49.7363/12.3552",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7363,
+    "longitude": 12.3552
+  },
+  "url": "http://www.gedenkstaette-flossenbuerg.de",
+  "telephone": "09603/90390-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182738",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

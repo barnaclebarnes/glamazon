@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186648
+  },
+  "name": "Museo delle confraternite",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Popolo, SNC",
+    "addressLocality": "Orte",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4603&mlon=12.3864#map=15/42.4603/12.3864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4603,
+    "longitude": 12.3864
+  },
+  "url": "http://www.museodelleconfraternite.it/cms/",
+  "telephone": "+39 0761 403180",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZB5Zl71jr3zDOZRGkc5VpDJgIZ0=/1000x1000/museums/logos/000/186/648/original/fce67663ba6fd41e4e7628581e358d33b62db.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101635",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

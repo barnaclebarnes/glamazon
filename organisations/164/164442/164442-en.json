@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164442
+  },
+  "name": "Walhalla Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9417&mlon=146.452#map=15/-37.9417/146.452",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9417,
+    "longitude": 146.452
+  },
+  "url": "http://www.visitwalhalla.com",
+  "telephone": "03 5165 6250",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10 AM to 4 PM Monday to Friday\r\n10 AM to 5 PM Saturday \r\n10 AM to 4.30 PM Sunday\r\n",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "walhalla-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/walhalla-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

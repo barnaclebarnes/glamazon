@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188963
+  },
+  "name": "Museo di pittura murale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "S. Domenico, 8",
+    "addressLocality": "Prato",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8431&mlon=11.0425#map=15/43.8431/11.0425",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8431,
+    "longitude": 11.0425
+  },
+  "url": "http://www.diocesiprato.i/arteecultura/musei",
+  "telephone": "+39 0574440501",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rzxs5cEi86pzsOIRFfXedLhW0aw=/1000x1000/museums/logos/000/188/963/original/9793e77032933cf753f1729953998f170a67b8b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103189",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

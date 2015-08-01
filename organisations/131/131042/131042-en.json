@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131042
+  },
+  "name": "YANKEE HILL HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4031",
+    "addressLocality": "YANKEE HILL",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95965"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7292&mlon=-121.526#map=15/39.7292/-121.526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7292,
+    "longitude": -121.526
+  },
+  "url": "http://yankeehillhistory.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601168",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

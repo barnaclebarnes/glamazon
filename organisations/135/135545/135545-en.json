@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135545
+  },
+  "name": "USA 1ST INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "97017 CASTLE RIDGE DR",
+    "addressLocality": "YULEE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32097-5065"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.6796&mlon=-81.5404#map=15/30.6796/-81.5404",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.6796,
+    "longitude": -81.5404
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201100",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

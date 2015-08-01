@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183672
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 66",
+    "addressLocality": "Seeg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87637"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6517&mlon=10.6064#map=15/47.6517/10.6064",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6517,
+    "longitude": 10.6064
+  },
+  "url": "http://www.seeg.de/museum.html",
+  "telephone": "08364/9830-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183672",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

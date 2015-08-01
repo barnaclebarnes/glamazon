@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160589
+  },
+  "name": "MANASSAS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9101 PRINCE WILLIAM ST",
+    "addressLocality": "MANASSAS",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "20110"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7496&mlon=-77.4718#map=15/38.7496/-77.4718",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7496,
+    "longitude": -77.4718
+  },
+  "url": "http://www.manassasmuseum.org",
+  "telephone": "+1 (703) 368-1873",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100095",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

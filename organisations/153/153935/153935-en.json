@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153935
+  },
+  "name": "OKLAHOMA ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2000 REMINGTON PLACE",
+    "addressLocality": "OKLAHOMA CITY",
+    "addressRegion": "OK",
+    "addressCountry": "United States",
+    "postalCode": "73111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.5261&mlon=-97.4773#map=15/35.5261/-97.4773",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.5261,
+    "longitude": -97.4773
+  },
+  "url": "http://okczoo.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404000289",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

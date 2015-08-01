@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140720
+  },
+  "name": "UCM MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "22275 HIGHWAY 36",
+    "addressLocality": "ABITA SPRINGS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70420"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4775&mlon=-90.0366#map=15/30.4775/-90.0366",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4775,
+    "longitude": -90.0366
+  },
+  "url": "http://abitamysteryhouse.com",
+  "telephone": "+1 (985) 892-2624",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

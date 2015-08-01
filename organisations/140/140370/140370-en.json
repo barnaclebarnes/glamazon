@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140370
+  },
+  "name": "HILLERICH & BRADSBY CO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 35700",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40232-5700"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.195&mlon=-85.7003#map=15/38.195/-85.7003",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.195,
+    "longitude": -85.7003
+  },
+  "telephone": "+1 (502) 588-7228",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100127",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

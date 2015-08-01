@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142310
+  },
+  "name": "ACADEMY ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "106 SOUTH ST",
+    "addressLocality": "EASTON",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7724&mlon=-76.0741#map=15/38.7724/-76.0741",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7724,
+    "longitude": -76.0741
+  },
+  "url": "http://www.art-academy.org",
+  "telephone": "+1 (410) 822-8121",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/123124894427768"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/AAMEaston"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400603",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

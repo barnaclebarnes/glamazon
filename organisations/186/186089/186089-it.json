@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186089
+  },
+  "name": "Museo archeologico nazionale di Pontecagnano \"Gli Etruschi di frontiera\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Lucania",
+    "addressLocality": "Pontecagnano Faiano",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6399&mlon=14.8786#map=15/40.6399/14.8786",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6399,
+    "longitude": 14.8786
+  },
+  "url": "http://www.archeosa.beniculturali.it",
+  "telephone": "+39 089848181",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aperto dal martedì alla domenica dalle 9.00 alle 19.00 (ultimo ingresso 18.30)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/99dkBC0buyr-NurKSRpCWdEuJO8=/1000x1000/museums/logos/000/186/089/original/b03ec21e68d8cb2ae928eea8757c6dbfa782a87.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20250",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

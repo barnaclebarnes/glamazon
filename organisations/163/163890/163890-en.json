@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163890
+  },
+  "name": "Geelong Botanic Gardens",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.1506&mlon=144.374#map=15/-38.1506/144.374",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.1506,
+    "longitude": 144.374
+  },
+  "url": "http://www.geelongaustralia.com.au/gbg/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "geelong-botanic-gardens",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/geelong-botanic-gardens",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

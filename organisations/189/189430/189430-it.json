@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189430
+  },
+  "name": "Casa del Petrarca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Valleselle, 4",
+    "addressLocality": "Arquà Petrarca",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2705&mlon=11.7157#map=15/45.2705/11.7157",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2705,
+    "longitude": 11.7157
+  },
+  "url": "http://padovacultura.padovanet.it/musei/archivio/cat_sedi_civiche",
+  "telephone": "+39 0429718294",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/92TQZikbxCbQg6St6tWjfnLBYX4=/1000x1000/museums/logos/000/189/430/original/2bbcb20d1e236b1b2aede79e1795ff69f4e15.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100894",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

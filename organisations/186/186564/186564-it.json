@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186564
+  },
+  "name": "Museo dell’ordine dei Ministri degli infermi Camilliani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Maddalena, 53",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9002&mlon=12.4766#map=15/41.9002/12.4766",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9002,
+    "longitude": 12.4766
+  },
+  "url": "http://www.camilliani.org",
+  "telephone": "+39 06 899281",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2eMngXICcDev_lKYzzF6VTXMtTQ=/1000x1000/museums/logos/000/186/564/original/26897f5017b1b4d1490dc52834b76a41dba7962.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104899",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142028
+  },
+  "name": "HISTORIC ANNAPOLIS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18 PINKNEY STREET",
+    "addressLocality": "ANNAPOLIS",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21401-1763"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9785&mlon=-76.4872#map=15/38.9785/-76.4872",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9785,
+    "longitude": -76.4872
+  },
+  "url": "http://www.annapolis.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400321",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

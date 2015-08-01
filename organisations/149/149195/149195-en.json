@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149195
+  },
+  "name": "YORKTOWN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 355",
+    "addressLocality": "YORKTOWN HEIGHTS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10598"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2958&mlon=-73.7933#map=15/41.2958/-73.7933",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2958,
+    "longitude": -73.7933
+  },
+  "url": "http://yorktownhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600489",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

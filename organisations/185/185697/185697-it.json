@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185697
+  },
+  "name": "Galleria espositiva della Biblioteca nazionale di Potenza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Gallitello, 103",
+    "addressLocality": "Potenza",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6344&mlon=15.7864#map=15/40.6344/15.7864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6344,
+    "longitude": 15.7864
+  },
+  "url": "http://www.bibliotecanazionale.potenza.it",
+  "telephone": "+39 097154829",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lun-ven 9.00 alle 19.00; sab 9.00 alle 13.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NH29_77_Xi3VWca2gxvmqWkukWU=/1000x1000/museums/logos/000/185/697/original/b0236af859c2b3ea2bf764682824a3494744b9a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106556",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

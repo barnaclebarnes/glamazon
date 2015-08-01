@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147263
+  },
+  "name": "NASHUA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5 ABBOTT STREET",
+    "addressLocality": "NASHUA",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03060-2119"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7658&mlon=-71.4685#map=15/42.7658/-71.4685",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7658,
+    "longitude": -71.4685
+  },
+  "url": "http://www.nashuahistoricalsociety.org/",
+  "telephone": "+1 (603) 883-0015",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300038",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

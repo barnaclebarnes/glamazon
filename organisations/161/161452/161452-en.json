@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161452
+  },
+  "name": "MAYMONT FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1700 HAMPTON ST",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23220-6819"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5345&mlon=-77.4742#map=15/37.5345/-77.4742",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5345,
+    "longitude": -77.4742
+  },
+  "url": "http://www.maymont.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100958",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

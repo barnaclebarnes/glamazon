@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186649
+  },
+  "name": "Museo d’arte sacra di Orte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Colonna, 8",
+    "addressLocality": "Orte",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.46&mlon=12.3864#map=15/42.46/12.3864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.46,
+    "longitude": 12.3864
+  },
+  "telephone": "+39 3476160276",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RCjpZQ7TFR05ZxvijXz-Wcv9xj4=/1000x1000/museums/logos/000/186/649/original/1c709decba1f7d810bb55e0c8463050417448.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101636",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

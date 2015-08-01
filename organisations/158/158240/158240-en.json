@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158240
+  },
+  "name": "CROW COLLECTION OF ASIAN ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2010 FLORA ST",
+    "addressLocality": "DALLAS",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7878&mlon=-96.8001#map=15/32.7878/-96.8001",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7878,
+    "longitude": -96.8001
+  },
+  "url": "http://www.crowcollection.org",
+  "telephone": "+1 (214) 979-6430",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/CrowCollection"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800340",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

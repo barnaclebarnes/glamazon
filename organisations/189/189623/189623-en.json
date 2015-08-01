@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189623
+  },
+  "name": "SAGUARO NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3693 S. OLD SPANISH TRAIL",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85730"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.1795&mlon=-110.738#map=15/32.1795/-110.738",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.1795,
+    "longitude": -110.738
+  },
+  "telephone": "+1 (520) 733-5100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400485",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

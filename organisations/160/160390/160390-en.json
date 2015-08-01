@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160390
+  },
+  "name": "MAIN STREET MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "58 BRIDGE ST",
+    "addressLocality": "WHITE RIVER JUNCITON",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05001-1909"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6499&mlon=-72.3188#map=15/43.6499/-72.3188",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6499,
+    "longitude": -72.3188
+  },
+  "url": "http://www.mainstreetmuseum.org",
+  "telephone": "+1 (802) 356-2776",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000196",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

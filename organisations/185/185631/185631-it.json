@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185631
+  },
+  "name": "Pinacoteca dantesca \"F. Bellonzi\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Carrozza, 22",
+    "addressLocality": "Torre de' Passeri",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2421&mlon=13.9257#map=15/42.2421/13.9257",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2421,
+    "longitude": 13.9257
+  },
+  "telephone": "+39 085 8885532",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "€3,00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100085",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

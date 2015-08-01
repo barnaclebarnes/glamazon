@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187595
+  },
+  "name": "Museo Gancia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Libertà, 66",
+    "addressLocality": "Canelli",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "url": "http://www.gancia.it",
+  "telephone": "+39 0141 8301",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7I_2yhsz0S2LdyCm8io-pExmj-A=/1000x1000/museums/logos/000/187/595/original/3efd55c242cef44d3bc424a112be64ba3f61e4eb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102490",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

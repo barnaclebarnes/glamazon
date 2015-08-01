@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156590
+  },
+  "name": "FRIENDS OF BELLEVUE AVENUE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "50 S MAIN STREET SUITE 201",
+    "addressLocality": "PROVIDENCE",
+    "addressRegion": "RI",
+    "addressCountry": "United States",
+    "postalCode": "02903-2919"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.825&mlon=-71.4073#map=15/41.825/-71.4073",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.825,
+    "longitude": -71.4073
+  },
+  "url": "http://www.friendsofbellevue.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400094",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

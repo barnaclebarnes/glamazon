@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147815
+  },
+  "name": "PRINCETON UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "701 CARNEGIT CENTER SUITE 154",
+    "addressLocality": "PRINCETON",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "08540"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3104&mlon=-74.6435#map=15/40.3104/-74.6435",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3104,
+    "longitude": -74.6435
+  },
+  "url": "http://www.princeton.edu/main/",
+  "telephone": "+1 (609) 258-3000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400183",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

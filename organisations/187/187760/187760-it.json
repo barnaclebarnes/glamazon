@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187760
+  },
+  "name": "Museo civico archeologico di Arona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Graziano, 36, ",
+    "addressLocality": "Arona",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7605&mlon=8.56083#map=15/45.7605/8.56083",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7605,
+    "longitude": 8.56083
+  },
+  "url": "http://www.archeomuseo.it",
+  "telephone": "+39 032248294",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102642",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183274
+  },
+  "name": "Residenz München – Schatzkammer",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Residenzstraße 1",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1411&mlon=11.5778#map=15/48.1411/11.5778",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1411,
+    "longitude": 11.5778
+  },
+  "url": "http://www.residenz-muenchen.de",
+  "telephone": "089/29067-1",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183274",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163730
+  },
+  "name": "Brighton Historical Society",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.911&mlon=144.999#map=15/-37.911/144.999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.911,
+    "longitude": 144.999
+  },
+  "url": "http://www.brightonhistorical.org.au",
+  "telephone": "(03) 9553 8650",
+  "contactPoint": [
+
+  ],
+  "openingHours": "The rooms are open to visitors &amp; researchers on Thursdays, from 12 noon to 5:00 pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "brighton-historical-society",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/brighton-historical-society",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

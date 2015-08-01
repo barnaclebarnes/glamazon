@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186254
+  },
+  "name": "Museo civico di storia naturale \"Silvia Zenari\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Motta, 16",
+    "addressLocality": "Pordenone",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9553&mlon=12.6612#map=15/45.9553/12.6612",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9553,
+    "longitude": 12.6612
+  },
+  "url": "http://www.comune.pordenone.it",
+  "telephone": "+39 0434 392315 - 0434 392950",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a sabato 15.30-19.30 domenica 10.00- 13.00 e 15.30-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ytvtfb3uGdSF243gm0IFpQTG7k8=/1000x1000/museums/logos/000/186/254/original/e4f7a374d7fa2979f84a654823ccc81a792e1f9c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100209",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

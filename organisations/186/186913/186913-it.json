@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186913
+  },
+  "name": "Museo archeologico multimediale di Montichiari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XXV Aprile, 40",
+    "addressLocality": "Montichiari",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4116&mlon=10.3908#map=15/45.4116/10.3908",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4116,
+    "longitude": 10.3908
+  },
+  "url": "http://www.archeologiamontechiari.it",
+  "telephone": "+39 030962724",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutte le Domeniche10.00/12.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103584",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185953
+  },
+  "name": "Museo civico Pucinaro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ariella, 66",
+    "addressLocality": "Pietrelcina",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1664&mlon=14.8911#map=15/41.1664/14.8911",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1664,
+    "longitude": 14.8911
+  },
+  "telephone": "+39 348 7788947",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gLv1roGsvVLUrFBWHpUYpaUNetw=/1000x1000/museums/logos/000/185/953/original/93b2d89450416773c653fdd8513312388ed8ae.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107106",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

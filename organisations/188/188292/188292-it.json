@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188292
+  },
+  "name": "Museo archeologico Dorgali",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Lamarmora, SNC",
+    "addressLocality": "Dorgali",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2938&mlon=9.58924#map=15/40.2938/9.58924",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2938,
+    "longitude": 9.58924
+  },
+  "url": "http://www.ghivine.com",
+  "telephone": "+39 3388341618",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.30 - 13.00 15.30 - 18.00 (luglio-agosto 16.00 - 19.00)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dLCzrSgROsHKV9VvWA-g8ZfXh3c=/1000x1000/museums/logos/000/188/292/original/326675c33d46fbd69a8fea3cd1dd8dd9eadaae48.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103363",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

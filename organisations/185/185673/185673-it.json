@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185673
+  },
+  "name": "Museo nazionale della Siritide",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Colombo, 8",
+    "addressLocality": "Policoro",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2144&mlon=16.6753#map=15/40.2144/16.6753",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2144,
+    "longitude": 16.6753
+  },
+  "url": "http://www.archeobasilicata.beniculturali.it",
+  "telephone": "+39 0835972154",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lun, mer - dom 9.00 - 20.00; mar 14.00 -20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50 comprensivo dell'ingresso all'area archeologica"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qyYp3RlhKsJruy4KT6RElD5C6eY=/1000x1000/museums/logos/000/185/673/original/75396cbc89a1928958886fa4fed5c46ea23d9bb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20253",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

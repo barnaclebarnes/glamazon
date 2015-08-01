@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154809
+  },
+  "name": "UNIVERSITY OF PENNSYLVANIA MUSEUM OF ARCHAEOLOGY AND ANTHROPOLOGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1527 SPRUCE ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9501&mlon=-75.1914#map=15/39.9501/-75.1914",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9501,
+    "longitude": -75.1914
+  },
+  "url": "http://www.penn.museum",
+  "telephone": "+1 (215) 898-4000",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/pennmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/PhilTheSphinx"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

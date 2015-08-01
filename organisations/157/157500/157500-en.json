@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157500
+  },
+  "name": "MEMPHIS ZOO INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2000 PRENTISS PL",
+    "addressLocality": "MEMPHIS",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "38112-5033"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1482&mlon=-89.995#map=15/35.1482/-89.995",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1482,
+    "longitude": -89.995
+  },
+  "url": "http://www.memphiszoo.org",
+  "telephone": "+1 (901) 333-6500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700171",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

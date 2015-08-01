@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187406
+  },
+  "name": "Casa Leopardi srl",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Leopardi, 14",
+    "addressLocality": "Recanati",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3987&mlon=13.5526#map=15/43.3987/13.5526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3987,
+    "longitude": 13.5526
+  },
+  "url": "http://www.giacomoleopardi.it",
+  "telephone": "+39 0717577492 - 0717573380",
+  "contactPoint": [
+
+  ],
+  "openingHours": "autunno – inverno 9,30-12,30 - 14,30-17,30 primavera – estate 9,00-18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RJKUzucqDdgE51XUj5Gv-luoL_4=/1000x1000/museums/logos/000/187/406/original/ec93b21fb81ce54613c0a93abc3b7247a51dc8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104220",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

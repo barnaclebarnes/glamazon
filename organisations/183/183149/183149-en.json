@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183149
+  },
+  "name": "Museum.Burg.Miltenberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burg Miltenberg",
+    "addressLocality": "Miltenberg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63897"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6986&mlon=9.2507#map=15/49.6986/9.2507",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6986,
+    "longitude": 9.2507
+  },
+  "url": "http://www.museum-miltenberg.de/pages/museum.burg.-miltenberg.php",
+  "telephone": "09371/668504",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183149",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

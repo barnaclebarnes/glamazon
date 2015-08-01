@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186928
+  },
+  "name": "Museo archivio audiovisivo gardesano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Panorama, 16",
+    "addressLocality": "Salò",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5953&mlon=10.5101#map=15/45.5953/10.5101",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5953,
+    "longitude": 10.5101
+  },
+  "url": "http://www.ondastudios.com",
+  "telephone": "+39 036540602",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/G0QCKfUCOcvZv_qwfIu2NRSgjzM=/1000x1000/museums/logos/000/186/928/original/dd47efbb886c63f59823d2259fc76575f4ba72.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103596",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

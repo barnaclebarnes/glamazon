@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187914
+  },
+  "name": "Cemed (Centro museo e documentazione storica del Politecnico di Torino)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavalli, 22 H, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0714&mlon=7.66026#map=15/45.0714/7.66026",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0714,
+    "longitude": 7.66026
+  },
+  "url": "http://www.museoarchiviopolitecnico.it",
+  "telephone": "+39 0114330923",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106599",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

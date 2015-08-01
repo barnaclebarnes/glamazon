@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150405
+  },
+  "name": "MUSEUM OF COMPUTER ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "515 E 19 ST",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11226"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6384&mlon=-73.96#map=15/40.6384/-73.96",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6384,
+    "longitude": -73.96
+  },
+  "url": "http://moca.virtual.museum",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601699",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

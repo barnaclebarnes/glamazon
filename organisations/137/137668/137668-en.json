@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137668
+  },
+  "name": "ELMHURST ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "150 S COTTAGE HL AVE",
+    "addressLocality": "ELMHURST",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60126-3329"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8978&mlon=-87.9424#map=15/41.8978/-87.9424",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8978,
+    "longitude": -87.9424
+  },
+  "url": "http://www.elmhurstartmuseum.org",
+  "telephone": "+1 (630) 834-0202",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700813",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

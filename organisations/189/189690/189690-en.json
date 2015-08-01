@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189690
+  },
+  "name": "ROCKY MOUNTAIN NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 HIGHWAY 36",
+    "addressLocality": "ESTES PARK",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80517"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3754&mlon=-105.506#map=15/40.3754/-105.506",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3754,
+    "longitude": -105.506
+  },
+  "telephone": "+1 (970) 586-1340",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800717",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189995
+  },
+  "name": "CHARLES BABBAGE INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "211 ANDERSEN LIBRARY",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55455"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3747&mlon=-71.1145#map=15/42.3747/-71.1145",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3747,
+    "longitude": -71.1145
+  },
+  "url": "http://www.cbi.umn.edu/",
+  "telephone": "+1 (612) 624-5050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700747",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182818
+  },
+  "name": "Freilandmuseum Grassemann",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Grassemann 3",
+    "addressLocality": "Warmensteinach",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95485"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.019&mlon=11.7889#map=15/50.019/11.7889",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.019,
+    "longitude": 11.7889
+  },
+  "url": "http://www.warmensteinach.de/Grassemann.freilandmuseum_warmensteinach.0.html",
+  "telephone": "09277/6105",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182818",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

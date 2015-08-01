@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182644
+  },
+  "name": "Museum Dingolfing",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Obere Stadt 19",
+    "addressLocality": "Dingolfing",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84130"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.627&mlon=12.4956#map=15/48.627/12.4956",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.627,
+    "longitude": 12.4956
+  },
+  "url": "http://www.museum-dingolfing.de",
+  "telephone": "08731/312228",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182644",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

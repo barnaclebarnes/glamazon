@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141592
+  },
+  "name": "GULF OF MAINE AQUARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "97A EXCHANGE ST",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04101-5016"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6518&mlon=-70.2567#map=15/43.6518/-70.2567",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6518,
+    "longitude": -70.2567
+  },
+  "url": "http://www.gmri.org",
+  "telephone": "2077722321 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300441",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

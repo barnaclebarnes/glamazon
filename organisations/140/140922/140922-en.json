@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140922
+  },
+  "name": "CHILDRENS MUSEUM OF ACADIANA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 E CONGRESS ST",
+    "addressLocality": "LAFAYETTE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70501-6919"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.225&mlon=-92.0174#map=15/30.225/-92.0174",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.225,
+    "longitude": -92.0174
+  },
+  "url": "http://www.childrensmuseumofacadiana.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200204",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

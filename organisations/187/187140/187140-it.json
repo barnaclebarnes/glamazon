@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187140
+  },
+  "name": "Museo della tecnica elettrica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ferrata, 1",
+    "addressLocality": "Pavia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2021&mlon=9.13662#map=15/45.2021/9.13662",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2021,
+    "longitude": 9.13662
+  },
+  "url": "http://www-3.unipv.it/museotecnica/",
+  "telephone": "+39 0382.984104",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104803",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

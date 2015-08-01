@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137597
+  },
+  "name": "CHICAGO ATHENAEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "601 S PROSPECT ST",
+    "addressLocality": "GALENA",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61036-2519"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4115&mlon=-90.4326#map=15/42.4115/-90.4326",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4115,
+    "longitude": -90.4326
+  },
+  "url": "http://chi-athenaeum.org",
+  "telephone": "+1 (312) 372-1083",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700742",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

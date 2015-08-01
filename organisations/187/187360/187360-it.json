@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187360
+  },
+  "name": "Museo archeologico statale di Cingoli Moscosi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vittorio Emanuele II, 25",
+    "addressLocality": "Cingoli",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3739&mlon=13.2162#map=15/43.3739/13.2162",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3739,
+    "longitude": 13.2162
+  },
+  "url": "http://www.archeomarche.beniculturali.it/",
+  "telephone": "+39 0733603399  0733603146",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lun – Mar – Mer – 1^, 3^ e 5^ Domenica del mese 8,30 - 13,30; Gio – Ven – Sab 15,00 – 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1s7kfXRse_DbxZeWNS-gNw7_xsI=/1000x1000/museums/logos/000/187/360/original/8b6557cde59220bab81838d6daccf4a08e34488.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20299",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

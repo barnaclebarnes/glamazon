@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186803
+  },
+  "name": "Museo Istituto Tecnico Nautico Leon Pancaldo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cavallotti, 2",
+    "addressLocality": "Savona",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3066&mlon=8.48301#map=15/44.3066/8.48301",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3066,
+    "longitude": 8.48301
+  },
+  "telephone": "+39 0198 21508",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VF-F0ewd_kHPIDn9bEYqDqzeNX4=/1000x1000/museums/logos/000/186/803/original/b717dadc8ff6f4d1af8f23b1293f9cc67b18d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100475",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

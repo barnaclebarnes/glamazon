@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185775
+  },
+  "name": "M.A.B.- Museo all'Aperto Bilotti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Mazzini",
+    "addressLocality": "Cosenza",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2969&mlon=16.2543#map=15/39.2969/16.2543",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2969,
+    "longitude": 16.2543
+  },
+  "url": "http://www.cosenzaturismo.it",
+  "telephone": "+39 0984 23303",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dC4fYNXBj1WIi7AzrFPRNgyP1EU=/1000x1000/museums/logos/000/185/775/original/ed68fad1d9a622b07cbfd84e3c33a629ca1bda7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110942",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

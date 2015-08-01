@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150027
+  },
+  "name": "ZOOLOGICAL SOCIETY OF BUFFALO INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 PARKSIDE AVE",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14214-1963"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9381&mlon=-78.8506#map=15/42.9381/-78.8506",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9381,
+    "longitude": -78.8506
+  },
+  "url": "http://buffalozoo.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601321",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

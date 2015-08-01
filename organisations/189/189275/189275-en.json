@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189275
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Italia, ",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1089&mlon=12.3879#map=15/43.1089/12.3879",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1089,
+    "longitude": 12.3879
+  },
+  "url": "http://www.perugiacittamuseo.it",
+  "telephone": "+39 075 5725778",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QpXVfemCzfIJW3u5vtkS9smpD9w=/1000x1000/museums/logos/000/189/275/original/b316b8b7fef51a182b73a6ad64251e173e3708f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108096",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

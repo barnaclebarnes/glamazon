@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129037
+  },
+  "name": "MUSEUMS ALASKA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3004",
+    "addressLocality": "ANCHORAGE",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99603"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=59.6638&mlon=-151.477#map=15/59.6638/-151.477",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 59.6638,
+    "longitude": -151.477
+  },
+  "url": "http://museumsalaska.org/",
+  "telephone": "+1 (425) 312-2235",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200108",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

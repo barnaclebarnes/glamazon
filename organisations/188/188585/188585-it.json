@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188585
+  },
+  "name": "Villa medicea di Cerreto Guidi e Museo storico della caccia e del territorio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ponti Medicei, 7",
+    "addressLocality": "Cerreto Guidi",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.759&mlon=10.879#map=15/43.759/10.879",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.759,
+    "longitude": 10.879
+  },
+  "url": "http://www.polomuseale.firenze.it/musei/?m=cerretoguidi",
+  "telephone": "+39 057155707",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 1 novembre 2014: da gennaio a marzo 10-18; da aprile a settembre 9-18; da ottobre a dicembre 10-18. Domenica sempre aperto dalle 10 alle 19",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qwJuLCCtafn8gcpQqsp39bkyF_8=/1000x1000/museums/logos/000/188/585/original/4ebff0bd83a0e921d7f3899568b5d1399354eb8c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20251",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

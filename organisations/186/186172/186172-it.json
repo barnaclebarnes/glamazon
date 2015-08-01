@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186172
+  },
+  "name": "Museo civico del Risorgimento",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Vittorio Veneto 5, ",
+    "addressLocality": "Modena",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6482&mlon=10.9211#map=15/44.6482/10.9211",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6482,
+    "longitude": 10.9211
+  },
+  "url": "http://www.comune.modena.it/museoarte",
+  "telephone": "+39 0592033100",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/f6bOCLDLfyeu9Uffbc4CyB6PY9I=/1000x1000/museums/logos/000/186/172/original/67bcd7454c49877905cb69a7f15bc5b3921974.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105551",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

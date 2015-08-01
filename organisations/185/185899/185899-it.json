@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185899
+  },
+  "name": "Museo della civiltà contadina e artigiana di Andretta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Libertà, 45",
+    "addressLocality": "Andretta",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9329&mlon=15.3228#map=15/40.9329/15.3228",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9329,
+    "longitude": 15.3228
+  },
+  "telephone": "+39 082732009",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dPNfvOF-4ZqFG3WJhCcIovEEZHE=/1000x1000/museums/logos/000/185/899/original/86c7dc753340fb45b16ba56a8e37fd4f6ecfb15b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101765",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

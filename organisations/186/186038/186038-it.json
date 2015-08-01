@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186038
+  },
+  "name": "Museo diocesano di Pozzuoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Campi Flegrei, SNC",
+    "addressLocality": "Pozzuoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8459&mlon=14.0933#map=15/40.8459/14.0933",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8459,
+    "longitude": 14.0933
+  },
+  "url": "http://www.diocesipozzuoli.org",
+  "telephone": "+39 0813031073",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101874",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

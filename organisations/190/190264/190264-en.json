@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190264
+  },
+  "name": "THE WILDERNESS CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "P.O. BOX 202",
+    "addressLocality": "WILMOT",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44689-0202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3777&mlon=-71.1142#map=15/42.3777/-71.1142",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3777,
+    "longitude": -71.1142
+  },
+  "url": "http://www.wildernesscenter.org",
+  "telephone": "+1 (330) 359-5235",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901445",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

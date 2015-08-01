@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186476
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Carpinetana Sud, 144",
+    "addressLocality": "Colleferro",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7224&mlon=13.0116#map=15/41.7224/13.0116",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7224,
+    "longitude": 13.0116
+  },
+  "telephone": "+39 069781169",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QLJwgVZ_cvk4PQ0hLrBRQTwA44E=/1000x1000/museums/logos/000/186/476/original/79da1293f0ba32c3e9d9e156cd68af52126a357.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101491",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

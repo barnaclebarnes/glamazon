@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186703
+  },
+  "name": "Museo diocesano - Arcidiocesi di Genova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Tommaso Reggio, 20R",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4079&mlon=8.93182#map=15/44.4079/8.93182",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4079,
+    "longitude": 8.93182
+  },
+  "url": "http://www.diocesi.genova.it/museodiocesano",
+  "telephone": "+39 0102532408",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7xwwcpu6bbBdNkg5AlZI4iMERiE=/1000x1000/museums/logos/000/186/703/original/da911fd37d3ff1238c9395c18be8e272e5e58c.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100387",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

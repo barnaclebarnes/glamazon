@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159577
+  },
+  "name": "GASTON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 301",
+    "addressLocality": "JOINERVILLE",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75658-0301"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.1777&mlon=-94.9078#map=15/32.1777/-94.9078",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.1777,
+    "longitude": -94.9078
+  },
+  "url": "http://www.gastonmuseum.org/",
+  "telephone": "+1 (903) 847-2205",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801677",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

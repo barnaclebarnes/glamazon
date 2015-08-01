@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186870
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Manestro, 107/111",
+    "addressLocality": "Brescia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5765&mlon=10.2218#map=15/45.5765/10.2218",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5765,
+    "longitude": 10.2218
+  },
+  "url": "http://www.musil.bs.it",
+  "telephone": "+39 0303750663",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5pEOH-wGGf8vh0qOQnwX0eaTS_o=/1000x1000/museums/logos/000/186/870/original/b671f5264f6abfe209a11c9bddfa59af6976794.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105631",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

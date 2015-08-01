@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188442
+  },
+  "name": "Museo d'arte sacra di Naso (Italia)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Como, snc",
+    "addressLocality": "Naso",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1203&mlon=14.7863#map=15/38.1203/14.7863",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1203,
+    "longitude": 14.7863
+  },
+  "url": "http://www.diocesipatti.it/Musei_01.htm",
+  "telephone": "+39 0941961439",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato 9,30/13,00-15,30/19,00 domenica 10,00/13,30- 5,30/19,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XBA7eYea5wOWT8P7BJkySf6wtQc=/1000x1000/museums/logos/000/188/442/original/24a4d6da42cf293f6486ead8bf16b7bc6b89581.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101259",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

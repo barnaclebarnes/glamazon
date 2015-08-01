@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185579
+  },
+  "name": "Museo civico aufidenate \"Antonio De Nino\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Mansueto De Amicis, SNC",
+    "addressLocality": "Alfedena",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7342&mlon=14.0325#map=15/41.7342/14.0325",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7342,
+    "longitude": 14.0325
+  },
+  "url": "http://www.comune.alfedena.aq.it",
+  "telephone": "+39 0864 87114",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3Mxc43i7RPmx27Dtn7okgWCcB7w=/1000x1000/museums/logos/000/185/579/original/dee59e183754fd19635b93c463fc887e1d419cb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100000",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

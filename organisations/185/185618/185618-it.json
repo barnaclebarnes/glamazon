@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185618
+  },
+  "name": "Museo civico l. Chiavetta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Grottone, SNC",
+    "addressLocality": "Città Sant'Angelo",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5192&mlon=14.0602#map=15/42.5192/14.0602",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5192,
+    "longitude": 14.0602
+  },
+  "url": "http://www.comune.cittasantangelo.pe.it",
+  "telephone": "+39 0859696216",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100070",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

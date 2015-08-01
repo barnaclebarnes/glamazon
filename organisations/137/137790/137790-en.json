@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137790
+  },
+  "name": "LYRIC OPERA OF CHICAGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "20 N WACKER DR",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60606-2806"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8824&mlon=-87.637#map=15/41.8824/-87.637",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8824,
+    "longitude": -87.637
+  },
+  "url": "http://www.lyricopera.org",
+  "telephone": "+1 (312) 332-2244",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700935",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

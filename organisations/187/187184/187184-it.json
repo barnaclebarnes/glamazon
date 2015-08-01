@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187184
+  },
+  "name": "Fondazione Bandera per l’arte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Andrea Costa, 29",
+    "addressLocality": "Busto Arsizio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.611&mlon=8.87014#map=15/45.611/8.87014",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.611,
+    "longitude": 8.87014
+  },
+  "url": "http://www.fondazionebanbera.it",
+  "telephone": "+39 0331322311",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Martedì- Mercoledì-Giovedì 15:00 - 19:00 Venerdì-Sabato-Domenica 10:00 - 12:30/ 15:00 - 19:00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103807",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

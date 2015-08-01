@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132958
+  },
+  "name": "AURORA HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15151 E. ALAMEDA PARKWAY",
+    "addressLocality": "AURORA",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80012"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7087&mlon=-104.812#map=15/39.7087/-104.812",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7087,
+    "longitude": -104.812
+  },
+  "url": "http://www.auroramuseum.org",
+  "telephone": "+1 (303) 739-6670",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/AuroraHistoryMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800134",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

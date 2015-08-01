@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140566
+  },
+  "name": "DOWNTOWN FRANKFORT INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 CAPITOL AVE",
+    "addressLocality": "FRANKFORT",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40601-2831"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1959&mlon=-84.8742#map=15/38.1959/-84.8742",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1959,
+    "longitude": -84.8742
+  },
+  "url": "http://www.downtownfrankfort.com",
+  "telephone": "+1 (502) 223-2261",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100323",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

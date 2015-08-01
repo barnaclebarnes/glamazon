@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189491
+  },
+  "name": "Museo della bonifica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Primavera, 45",
+    "addressLocality": "San Donà di Piave",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6244&mlon=12.5839#map=15/45.6244/12.5839",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6244,
+    "longitude": 12.5839
+  },
+  "url": "http://www.museobonifica.sandonadipiave.net",
+  "telephone": "+39 042142047",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101016",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

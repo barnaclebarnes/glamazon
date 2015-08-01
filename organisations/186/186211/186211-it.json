@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186211
+  },
+  "name": "Museo del sughero",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza 1° Maggio",
+    "addressLocality": "Busana",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.369&mlon=10.3241#map=15/44.369/10.3241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.369,
+    "longitude": 10.3241
+  },
+  "url": "http://www.unionecomuni.re.it",
+  "telephone": "+39 0522 890655",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111231",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

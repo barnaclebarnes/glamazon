@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141272
+  },
+  "name": "LINCOLN HISTORICAL SOCIETY I",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9 RAILROAD STREET",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04457-1411"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3682&mlon=-68.5053#map=15/45.3682/-68.5053",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3682,
+    "longitude": -68.5053
+  },
+  "url": "http://lincolnhistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300121",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

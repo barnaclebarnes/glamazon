@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186617
+  },
+  "name": "Museo civico degli ex-voto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Italia, 2",
+    "addressLocality": "Vallepietra",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9268&mlon=13.2308#map=15/41.9268/13.2308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9268,
+    "longitude": 13.2308
+  },
+  "url": "http://beni-culturali.provincia.roma.it/content/museo-civico-degli-ex-voto",
+  "telephone": "+39 0774899031",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101610",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

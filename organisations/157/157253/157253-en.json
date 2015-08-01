@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157253
+  },
+  "name": "SMITH-ZIMMERMANN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "221 NE 8TH ST",
+    "addressLocality": "MADISON",
+    "addressRegion": "SD",
+    "addressCountry": "United States",
+    "postalCode": "57042"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0134&mlon=-97.1122#map=15/44.0134/-97.1122",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0134,
+    "longitude": -97.1122
+  },
+  "url": "http://www.smith-zimmermann.dsu.edu",
+  "telephone": "+1 (605) 256-5308",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404600138",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

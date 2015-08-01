@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131557
+  },
+  "name": "SAN FRANCISCO MUSEUM & HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 420470",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94142-0470"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.783&mlon=-122.407#map=15/37.783/-122.407",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.783,
+    "longitude": -122.407
+  },
+  "url": "http://www.sanfranciscomuseum.org",
+  "telephone": "+1 (415) 537-1105",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/San_Francisco_Museum_and_Historical_Society",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601683",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

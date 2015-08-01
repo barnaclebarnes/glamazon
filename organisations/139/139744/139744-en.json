@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139744
+  },
+  "name": "JESSE JAMES MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "555 W DOUGLAS AVE",
+    "addressLocality": "WICHITA",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67213"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6844&mlon=-97.3462#map=15/37.6844/-97.3462",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6844,
+    "longitude": -97.3462
+  },
+  "url": "http://jessejames.stjomo.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000070",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

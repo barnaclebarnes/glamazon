@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187910
+  },
+  "name": "Armeria Reale di Torino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza  Castello, 191",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0715&mlon=7.68643#map=15/45.0715/7.68643",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0715,
+    "longitude": 7.68643
+  },
+  "url": "http://www.artito.arti.beniculturali.it",
+  "telephone": "+39 011543889  0115184358",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì al venerdì 9 - 14 sabato, domenica e festivi 13,30 - 19,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "8,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pU3G0hMBZ2qxJ7Q8U5_rAE-ZfBM=/1000x1000/museums/logos/000/187/910/original/2f6dc51e7aa2e127104b7b2c2f63531c3e10711f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20567",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

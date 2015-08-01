@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188225
+  },
+  "name": "Museo della civiltà del vino Primitivo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fabio Massimo, 19",
+    "addressLocality": "Manduria",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4052&mlon=17.6378#map=15/40.4052/17.6378",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4052,
+    "longitude": 17.6378
+  },
+  "url": "http://www.museodelprimitivo.it",
+  "telephone": "+39 0999735332",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uw15-A23bmaN0wl7-eGZHHNVFNA=/1000x1000/museums/logos/000/188/225/original/e98b72ac24e9612b34d505f6e649547b1ed159.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102425",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

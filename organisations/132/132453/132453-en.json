@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132453
+  },
+  "name": "ZOOLOGICAL SOCIETY OF SAN DIEGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 120551",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92112-0551"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.736&mlon=-117.149#map=15/32.736/-117.149",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.736,
+    "longitude": -117.149
+  },
+  "url": "http://www.sandiegozoo.or",
+  "telephone": "+1 (619) 231-1515",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602579",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

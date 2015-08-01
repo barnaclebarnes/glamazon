@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131207
+  },
+  "name": "SAN DIEGO NATURAL HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1788 EL PARDO",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7188&mlon=-117.162#map=15/32.7188/-117.162",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7188,
+    "longitude": -117.162
+  },
+  "telephone": "+1 (619) 232-3821",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/SanDiegoNaturalHistoryMuseum"
+    }
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/San_Diego_Natural_History_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601333",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

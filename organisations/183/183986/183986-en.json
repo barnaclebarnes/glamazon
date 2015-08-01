@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183986
+  },
+  "name": "Historisches Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatz 4",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9435&mlon=11.5743#map=15/49.9435/11.5743",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9435,
+    "longitude": 11.5743
+  },
+  "url": "http://www.bayreuth.de/museumsuebersicht/historisches_museum_308.html",
+  "telephone": "0921/76401-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183986",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

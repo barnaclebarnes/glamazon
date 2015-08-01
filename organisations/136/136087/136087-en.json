@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136087
+  },
+  "name": "EMORY UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1599 CLIFTON RD",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30322"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7993&mlon=-84.3247#map=15/33.7993/-84.3247",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7993,
+    "longitude": -84.3247
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300358",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

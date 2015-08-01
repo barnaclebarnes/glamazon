@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186059
+  },
+  "name": "Museo narrante del Santuario di Hera Argiva alla foce del Sele",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Barizzo Foce Sele, 29",
+    "addressLocality": "Capaccio",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4923&mlon=14.9882#map=15/40.4923/14.9882",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4923,
+    "longitude": 14.9882
+  },
+  "url": "http://www.museopaestum.beniculturali.it",
+  "telephone": "+39 0828.861440",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì al sabato dalle ore 08:30 alle ore 15:30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xXky2zXd0GkYGZGvE9C1E4zzo1o=/1000x1000/museums/logos/000/186/059/original/dde5e1be4e69f153a676ebd524d595f1c5bbfa0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108519",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

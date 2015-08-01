@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187641
+  },
+  "name": "Museo della passione",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Petiva, 1",
+    "addressLocality": "Sordevolo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5736&mlon=7.9763#map=15/45.5736/7.9763",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5736,
+    "longitude": 7.9763
+  },
+  "url": "http://www.passionedicristo.org",
+  "telephone": "+39 0152 562486",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dalle 14.00 alle 18.00, dal 17 novembre al 15 dicembre",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102532",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

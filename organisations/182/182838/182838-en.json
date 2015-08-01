@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182838
+  },
+  "name": "Stadtmuseum Gunzenhausen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausstraße 12",
+    "addressLocality": "Gunzenhausen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91710"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.115&mlon=10.7552#map=15/49.115/10.7552",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.115,
+    "longitude": 10.7552
+  },
+  "url": "http://www.gunzenhausen.de/geschichte/stadtmuseum/indexstadtmuseum.html",
+  "telephone": "09831/508-306",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182838",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

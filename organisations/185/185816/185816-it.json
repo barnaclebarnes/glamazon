@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185816
+  },
+  "name": "Museo civico Mario Morelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma , 1",
+    "addressLocality": "San Marco Argentano",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5566&mlon=16.1186#map=15/39.5566/16.1186",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5566,
+    "longitude": 16.1186
+  },
+  "telephone": "+39 0984-512265",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/G20XQZnpy6SJmo2il1s9xtT5dYc=/1000x1000/museums/logos/000/185/816/original/d5f6fadb7f15a3f16e3ee1f6349ed22b1e1f8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108368",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

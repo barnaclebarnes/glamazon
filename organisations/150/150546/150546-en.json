@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150546
+  },
+  "name": "JAVA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4441 MAIN STREET",
+    "addressLocality": "JAVA VILLLAGE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14083"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6743&mlon=-78.4367#map=15/42.6743/-78.4367",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6743,
+    "longitude": -78.4367
+  },
+  "telephone": "+1 (585) 457-3436",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601840",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

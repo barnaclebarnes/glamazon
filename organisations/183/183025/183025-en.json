@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183025
+  },
+  "name": "Bronzezeit-Bayern Museum Kranzberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pantaleonstraße 18",
+    "addressLocality": "Kranzberg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85402"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4045&mlon=11.6156#map=15/48.4045/11.6156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4045,
+    "longitude": 11.6156
+  },
+  "url": "http://bronzezeit-bayern-museum.de/de/museum",
+  "telephone": "08166/68960",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183025",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

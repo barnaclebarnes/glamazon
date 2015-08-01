@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151881
+  },
+  "name": "USS NORTH CAROLINA BATTLESHIP COMMISSIO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 BATTLESHIP ROAD",
+    "addressLocality": "WILMINGTON",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28401"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.2348&mlon=-77.9533#map=15/34.2348/-77.9533",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.2348,
+    "longitude": -77.9533
+  },
+  "url": "http://www.battleshipnc.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700752",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186570
+  },
+  "name": "Museo di mineralogia di Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Aldo Moro, 5",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9018&mlon=12.5121#map=15/41.9018/12.5121",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9018,
+    "longitude": 12.5121
+  },
+  "url": "http://www.musei.uniroma1.it/informamuseonew.asp?ID=15",
+  "telephone": "+39 06 49914887",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì dalle 9,30 alle 13,30 pomeriggio: da concordare con la segreteria",
+  "offers": {
+    "@Type": "Offer",
+    "description": "visita guidata 40,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CfAC1G0BXgERfQX1-9aSlMqAepw=/1000x1000/museums/logos/000/186/570/original/9b7ff8e329eb2a52c13eb9ac6b160c46b4a8276.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101570",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

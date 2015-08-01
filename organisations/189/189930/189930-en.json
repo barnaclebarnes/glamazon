@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189930
+  },
+  "name": "FISHER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "324 NORTH MAIN STREET",
+    "addressLocality": "PETERSHAM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "3166"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9264&mlon=-90.1314#map=15/29.9264/-90.1314",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9264,
+    "longitude": -90.1314
+  },
+  "url": "http://harvardforest.fas.harvard.edu/fisher-museum",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501119",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

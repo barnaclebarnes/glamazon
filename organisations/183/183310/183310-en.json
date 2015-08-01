@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183310
+  },
+  "name": "Kirchenburgmuseum Mönchsondheim",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "An der Kirchenburg 5",
+    "addressLocality": "Iphofen",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97346"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6671&mlon=10.2781#map=15/49.6671/10.2781",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6671,
+    "longitude": 10.2781
+  },
+  "url": "http://www.kirchenburgmuseum.de",
+  "telephone": "09326/1224",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183310",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

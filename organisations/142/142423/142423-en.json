@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142423
+  },
+  "name": "PLUMBING MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "80 ROSEDALE RD",
+    "addressLocality": "WATERTOWN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02472"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3688&mlon=-71.1993#map=15/42.3688/-71.1993",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3688,
+    "longitude": -71.1993
+  },
+  "url": "http://theplumbingmuseum.org",
+  "telephone": "+1 (617) 926-2111",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500053",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129888
+  },
+  "name": "WHALEY HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2482 SAN DIEGO AVE.",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92110"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7526&mlon=-117.195#map=15/32.7526/-117.195",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7526,
+    "longitude": -117.195
+  },
+  "telephone": "+1 (619) 298-2482",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WLGtSyW8onVlQvJ4B238EdGtSdo=/1000x1000/museums/logos/000/129/888/original/San_Diego_-_Whaley_House_01.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Whaley_House_%28San_Diego,_California%29",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600014",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

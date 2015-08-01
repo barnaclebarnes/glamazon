@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150812
+  },
+  "name": "WESTERN NEW YORK CHAPTER 13 NAWCC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "45 MIDVALE DR",
+    "addressLocality": "FAIRPORT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14450-1243"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1087&mlon=-77.4662#map=15/43.1087/-77.4662",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1087,
+    "longitude": -77.4662
+  },
+  "url": "http://community.nawcc.org/chapter13/home",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602106",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

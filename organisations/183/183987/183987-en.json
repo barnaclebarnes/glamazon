@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183987
+  },
+  "name": "Iwalewa Haus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Münzgasse 9",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9446&mlon=11.5797#map=15/49.9446/11.5797",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9446,
+    "longitude": 11.5797
+  },
+  "url": "http://www.iwalewa.uni-bayreuth.de",
+  "telephone": "0921/554601",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183987",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

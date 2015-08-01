@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160272
+  },
+  "name": "CABOT HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 275",
+    "addressLocality": "CABOT",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05647-5647"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4038&mlon=-72.3098#map=15/44.4038/-72.3098",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4038,
+    "longitude": -72.3098
+  },
+  "url": "http://www.cabothistory.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000078",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

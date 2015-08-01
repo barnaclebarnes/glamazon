@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186964
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Comune, 8",
+    "addressLocality": "Cremona",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1337&mlon=10.0247#map=15/45.1337/10.0247",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1337,
+    "longitude": 10.0247
+  },
+  "url": "http://musei.comune.cremona.it",
+  "telephone": "+39 0372407017",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/U7C40URfj2gOAM3inmlIFMssIUo=/1000x1000/museums/logos/000/186/964/original/62bd873171bd1f864682c41cc5c4c74dd2ca1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103629",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

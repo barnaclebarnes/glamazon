@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159523
+  },
+  "name": "MARSHALL DEPOT INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 N WASHINGTON AVE",
+    "addressLocality": "MARSHALL",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75670-2063"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.5511&mlon=-94.3674#map=15/32.5511/-94.3674",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.5511,
+    "longitude": -94.3674
+  },
+  "url": "http://www.marshalldepot.org",
+  "telephone": "+1 (903) 938-9495",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801623",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

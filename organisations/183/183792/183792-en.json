@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183792
+  },
+  "name": "Klostermuseum Ursberg mit Klosterbibliothek",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klosterhof 2",
+    "addressLocality": "Ursberg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86513"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2666&mlon=10.4443#map=15/48.2666/10.4443",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2666,
+    "longitude": 10.4443
+  },
+  "url": "http://www.ursberg.de/St.Josefskongregation/Einrichtungen/Klostermuseum",
+  "telephone": "08281/92-3330",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183792",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

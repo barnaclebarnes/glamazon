@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186863
+  },
+  "name": "Museo di auto e moto d’epoca Nostalgia Club",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Tassara, 11",
+    "addressLocality": "Breno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9586&mlon=10.3047#map=15/45.9586/10.3047",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9586,
+    "longitude": 10.3047
+  },
+  "url": "http://www.nostalgiaclub.com",
+  "telephone": "+39 0364 321055",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JBp0gwSWMQBLHZxB-f3R2u9ga8k=/1000x1000/museums/logos/000/186/863/original/52ffa044fc9b942eac3466de52ccf47f6f621bba.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106841",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

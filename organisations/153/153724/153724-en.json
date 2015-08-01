@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153724
+  },
+  "name": "GEOSCIENCE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8801 S YALE AVE",
+    "addressLocality": "TULSA",
+    "addressRegion": "OK",
+    "addressCountry": "United States",
+    "postalCode": "74137"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.1502&mlon=-95.9894#map=15/36.1502/-95.9894",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.1502,
+    "longitude": -95.9894
+  },
+  "url": "http://tulsageosciencecenter.org",
+  "telephone": "+1 (918) 392-4556",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404000078",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

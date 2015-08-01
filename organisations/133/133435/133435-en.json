@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133435
+  },
+  "name": "GOLDEN TRIANGLE MUSEUM DISTRICT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "213 W THIRTEENTH AVENUE",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80204"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7369&mlon=-104.99#map=15/39.7369/-104.99",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7369,
+    "longitude": -104.99
+  },
+  "url": "http://www.qtmd.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800611",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186391
+  },
+  "name": "Museo delle scritture Aldo Manuzio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Aldo Manuzio, 117",
+    "addressLocality": "Bassiano",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5493&mlon=13.0323#map=15/41.5493/13.0323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5493,
+    "longitude": 13.0323
+  },
+  "url": "http://www.comune.bassiano.lt.it",
+  "telephone": "+39 0773 355013",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mart.- sab. 09,30-12,30, 15,00-18,00 dom. 15,00-18,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-qcUBN1VvM6Cf3mz8xZaX3NTZmo=/1000x1000/museums/logos/000/186/391/original/a5672de88d497239c601dafa3d15a4c4a2ecdc1.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105510",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

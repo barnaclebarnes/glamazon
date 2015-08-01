@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160551
+  },
+  "name": "PRESIDENT'S PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "211 WATER COUNTRY PKWY",
+    "addressLocality": "WILLIAMSBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23185"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2619&mlon=-76.6429#map=15/37.2619/-76.6429",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2619,
+    "longitude": -76.6429
+  },
+  "url": "http://www.presidentspark.org",
+  "telephone": "+1 (757) 259-1121",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100057",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

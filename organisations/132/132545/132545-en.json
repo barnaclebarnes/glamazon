@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132545
+  },
+  "name": "LOS ANGELES CONSERVANCY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "523 W 6TH ST STE 826",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90014-1248"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0482&mlon=-118.254#map=15/34.0482/-118.254",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0482,
+    "longitude": -118.254
+  },
+  "url": "http://www.laconservancy.org",
+  "telephone": "+1 (213) 623-2489",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602671",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

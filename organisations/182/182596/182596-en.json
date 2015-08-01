@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182596
+  },
+  "name": "Mozarthaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Frauentorstraße 30",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86152"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3756&mlon=10.8957#map=15/48.3756/10.8957",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3756,
+    "longitude": 10.8957
+  },
+  "url": "http://www.kunstsammlungen-museen.augsburg.de/index.php?id=19792",
+  "telephone": "0821/4507945",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182596",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

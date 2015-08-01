@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185908
+  },
+  "name": "MDAO - Museo d’Arte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Degli Imbimbo, 47",
+    "addressLocality": "Avellino",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9201&mlon=14.7865#map=15/40.9201/14.7865",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9201,
+    "longitude": 14.7865
+  },
+  "url": "http://www.irpinia.info",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì, giovedì e venerdì 17.00 - 19-30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LWTQlze_Ju4jMqF-drMtiv1xFZw=/1000x1000/museums/logos/000/185/908/original/6ab484aa5625e261b250f87a2d95ee2950a0f4ec.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111069",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

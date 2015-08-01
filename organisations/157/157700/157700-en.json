@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157700
+  },
+  "name": "DIXON GALLERY AND GARDENS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4339 PARK AVE",
+    "addressLocality": "MEMPHIS",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "38117-4626"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1072&mlon=-89.9176#map=15/35.1072/-89.9176",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1072,
+    "longitude": -89.9176
+  },
+  "url": "http://www.dixon.org",
+  "telephone": "+1 (901) 761-5250",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/121100808173"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700371",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

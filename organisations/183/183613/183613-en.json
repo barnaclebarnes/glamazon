@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183613
+  },
+  "name": "HEIMAT.MUSEUM:Röhrnbach.Kaltenbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausplatz 1",
+    "addressLocality": "Röhrnbach",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94133"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7407&mlon=13.5208#map=15/48.7407/13.5208",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7407,
+    "longitude": 13.5208
+  },
+  "url": "http://www.marktroehrnbach.de/?id=41",
+  "telephone": "08582/9609-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183613",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

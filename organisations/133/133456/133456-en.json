@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133456
+  },
+  "name": "DURANGO RAILROAD HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 654",
+    "addressLocality": "DURANGO",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81302-0654"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2726&mlon=-107.883#map=15/37.2726/-107.883",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2726,
+    "longitude": -107.883
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800632",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

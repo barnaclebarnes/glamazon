@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148869
+  },
+  "name": "NEW YORK STATE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 EMPIRE STATE PLZ",
+    "addressLocality": "ALBANY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12223"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.652&mlon=-73.7577#map=15/42.652/-73.7577",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.652,
+    "longitude": -73.7577
+  },
+  "url": "http://www.nysparks.com",
+  "telephone": "+1 (518) 474-0456",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600163",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

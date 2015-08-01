@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162335
+  },
+  "name": "A LIGHT IN THE WORLD MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO 302",
+    "addressLocality": "BUNKER HILL",
+    "addressRegion": "WV",
+    "addressCountry": "United States",
+    "postalCode": "25413-0302"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.3135&mlon=-78.0475#map=15/39.3135/-78.0475",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.3135,
+    "longitude": -78.0475
+  },
+  "url": "http://www.alightintheworld.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405400048",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

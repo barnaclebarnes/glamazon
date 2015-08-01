@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129200
+  },
+  "name": "ARIZONA STATE CAPITOL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1700 W. WASHINGTON ST.",
+    "addressLocality": "PHOENIX",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4492&mlon=-112.094#map=15/33.4492/-112.094",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4492,
+    "longitude": -112.094
+  },
+  "telephone": "+1 (602) 542-4675",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400102",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

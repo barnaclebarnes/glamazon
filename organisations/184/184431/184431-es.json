@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184431
+  },
+  "name": "Tauranga Art Gallery",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:office@artgallery.org.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.6831&mlon=176.169#map=15/-37.6831/176.169",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.6831,
+    "longitude": 176.169
+  },
+  "url": "http://www.artgallery.org.nz",
+  "telephone": "07 578 7933",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Abierto de 10:00 – 16:30 todos los días (cerrado día de Navidad, Boxing Day, nueva años Día & ANZAC mañana hasta 13:00)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Ingreso por donación"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/es/museums/184431",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

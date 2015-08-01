@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187653
+  },
+  "name": "Augusta Bagiennorum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Cascina ¿ELLENA¿ frazione Roncaglia, ",
+    "addressLocality": "Bene Vagienna",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5597&mlon=7.85562#map=15/44.5597/7.85562",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5597,
+    "longitude": 7.85562
+  },
+  "url": "http://www.benevagienna.it",
+  "telephone": "+39 0172 654152",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato 15,00/18,30 domenica 10,00/12,00 e 15,00/18,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€2,00 con possibilità di biglietto comulativo"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102543",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

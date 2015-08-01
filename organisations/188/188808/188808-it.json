@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188808
+  },
+  "name": "Antiquarium - Museo civico archeologico di Borgo a Mozzano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Umberto I, 1",
+    "addressLocality": "Borgo a Mozzano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9785&mlon=10.5434#map=15/43.9785/10.5434",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9785,
+    "longitude": 10.5434
+  },
+  "telephone": "+39 0583820472",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/16vVLqG58LXsLT_UlpMFSsiMvX8=/1000x1000/museums/logos/000/188/808/original/8a92314c1af34ba3325ce91138cbdff4c8631a63.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103080",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

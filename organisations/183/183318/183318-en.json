@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183318
+  },
+  "name": "Skigeschichte Nesselwang",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 1 a",
+    "addressLocality": "Nesselwang",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87484"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6213&mlon=10.5015#map=15/47.6213/10.5015",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6213,
+    "longitude": 10.5015
+  },
+  "url": "http://www.nesselwang.de/museen.0.html",
+  "telephone": "08361/723",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183318",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

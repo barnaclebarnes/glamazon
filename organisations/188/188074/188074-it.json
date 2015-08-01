@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188074
+  },
+  "name": "Museo archeologico nazionale di Gioia del Colle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza dei Martiri ",
+    "addressLocality": "Gioia del Colle",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8004&mlon=16.9229#map=15/40.8004/16.9229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8004,
+    "longitude": 16.9229
+  },
+  "url": "http://www.archeopuglia.beniculturali.it/",
+  "telephone": "+39 0803481305",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni 8,30 - 19,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,50 visita del Museo"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zhF9AojH9gcxAYWbtAgwbEsWmck=/1000x1000/museums/logos/000/188/074/original/9544e24d888e2dd1126d9812fdc3ca0a4272532.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20264",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

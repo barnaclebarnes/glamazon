@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140000
+  },
+  "name": "US CAVALRY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 HUEBNER RD",
+    "addressLocality": "FORT RILEY",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66442"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0742&mlon=-96.7774#map=15/39.0742/-96.7774",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0742,
+    "longitude": -96.7774
+  },
+  "url": "http://www.uscavalry.org",
+  "telephone": "+1 (785) 784-5797",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000326",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

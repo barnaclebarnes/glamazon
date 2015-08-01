@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146880
+  },
+  "name": "NATIONAL MUSEUM OF ROLLER SKATING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 6579",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68506-1256"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7917&mlon=-96.6543#map=15/40.7917/-96.6543",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7917,
+    "longitude": -96.6543
+  },
+  "url": "http://www.rollerskatingmuseum.com",
+  "telephone": "+1 (402) 483-7551",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100219",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

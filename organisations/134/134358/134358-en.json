@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134358
+  },
+  "name": "FRIENDS OF THE ART MUSEUM OF THE AMERICAS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1889 F STREET NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20006"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8921&mlon=-77.0417#map=15/38.8921/-77.0417",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8921,
+    "longitude": -77.0417
+  },
+  "url": "http://www.museum.oas.org/friends.ht",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/258514301313"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100139",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128645
+  },
+  "name": "CAPITAL CITIES USA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11120 LIGHTER DRIVE",
+    "addressLocality": "NORTHPORT",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "35475-3323"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.3495&mlon=-87.565#map=15/33.3495/-87.565",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.3495,
+    "longitude": -87.565
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100175",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

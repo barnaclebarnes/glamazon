@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130218
+  },
+  "name": "JACK LONDON STATE HISTORIC PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2400 LONDON RANCH ROAD",
+    "addressLocality": "GLEN ELLEN",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95442"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3554&mlon=-122.544#map=15/38.3554/-122.544",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3554,
+    "longitude": -122.544
+  },
+  "telephone": "+1 (707) 938-9549",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rBwUTU1W-JsHBxctm0SeyAzv9tQ=/1000x1000/museums/logos/000/130/218/original/LondonCottage.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Jack_London_State_Historic_Park",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600344",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185814
+  },
+  "name": "Museo etnografico San Nilo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Croce, 32",
+    "addressLocality": "San Demetrio Corone",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5705&mlon=16.3652#map=15/39.5705/16.3652",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5705,
+    "longitude": 16.3652
+  },
+  "telephone": "+39 0984 956033",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wvfGq8ySQE56ZygXsCxTS-CCKLg=/1000x1000/museums/logos/000/185/814/original/da2b34676f7bb4437dc3ee207fc148c399084.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110968",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

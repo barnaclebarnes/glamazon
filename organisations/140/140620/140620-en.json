@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140620
+  },
+  "name": "GEORGETOWN-SCOTT COUNTY MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "229 E MAIN ST",
+    "addressLocality": "GEORGETOWN",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40324-1759"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2098&mlon=-84.5571#map=15/38.2098/-84.5571",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2098,
+    "longitude": -84.5571
+  },
+  "url": "http://www.scottcountymuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100377",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

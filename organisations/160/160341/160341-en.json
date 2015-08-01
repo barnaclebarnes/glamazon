@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160341
+  },
+  "name": "ELMORE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 123",
+    "addressLocality": "LAKE ELMORE",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05657"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5422&mlon=-72.5259#map=15/44.5422/-72.5259",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5422,
+    "longitude": -72.5259
+  },
+  "url": "http://www.elmorehistoricalsociety.org",
+  "telephone": "+1 (802) 888-3618",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000147",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

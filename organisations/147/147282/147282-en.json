@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147282
+  },
+  "name": "GILMAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 MAIN ST",
+    "addressLocality": "ALTON",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03809"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4527&mlon=-71.2157#map=15/43.4527/-71.2157",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4527,
+    "longitude": -71.2157
+  },
+  "telephone": "+1 (603) 875-0201",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300057",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

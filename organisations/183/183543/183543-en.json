@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183543
+  },
+  "name": "Museum St. Ulrich",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Domplatz 2",
+    "addressLocality": "Regensburg",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93047"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0192&mlon=12.0993#map=15/49.0192/12.0993",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0192,
+    "longitude": 12.0993
+  },
+  "url": "http://www.bistumsmuseen-regensburg.de",
+  "telephone": "0941/51688",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183543",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

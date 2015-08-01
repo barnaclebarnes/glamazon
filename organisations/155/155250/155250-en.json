@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155250
+  },
+  "name": "LA SALLE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1900 W OLNEY AVE",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19141-1108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0393&mlon=-75.1529#map=15/40.0393/-75.1529",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0393,
+    "longitude": -75.1529
+  },
+  "telephone": "+1 (215) 951-1825",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200444",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

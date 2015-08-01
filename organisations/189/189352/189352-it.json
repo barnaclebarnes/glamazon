@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189352
+  },
+  "name": "Museo delle maioliche medievali e rinascimentali orvietane",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Cava, 8",
+    "addressLocality": "Orvieto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7184&mlon=12.1054#map=15/42.7184/12.1054",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7184,
+    "longitude": 12.1054
+  },
+  "url": "http://www.ceramicunderground.org",
+  "telephone": "+39 0763 344149",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0JyFE7k7VloCxPVXaVV-xtUz4SU=/1000x1000/museums/logos/000/189/352/original/3fc3e4f4e427321633e85124666bb3af467d1f2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108086",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

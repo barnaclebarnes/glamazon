@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187145
+  },
+  "name": "Museo civico di arte contadina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello, ?",
+    "addressLocality": "Romagnese",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8379&mlon=9.32898#map=15/44.8379/9.32898",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8379,
+    "longitude": 9.32898
+  },
+  "url": "http://www.varziviva.net/museo_romagnese.htm",
+  "telephone": "+39 0383580001",
+  "contactPoint": [
+
+  ],
+  "openingHours": "estate sabato e domenica 10,00 /12,00; nel periodo invernale previo appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FB4vdVbbcf--zg5y-aoAdUFAVm4=/1000x1000/museums/logos/000/187/145/original/21b3c6426850d26e637aeec6ca67d07a32c9c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103774",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

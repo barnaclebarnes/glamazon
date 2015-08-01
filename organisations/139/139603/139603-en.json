@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139603
+  },
+  "name": "FIGGE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "225 W 2ND ST",
+    "addressLocality": "DAVENPORT",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52801-1804"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5213&mlon=-90.576#map=15/41.5213/-90.576",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5213,
+    "longitude": -90.576
+  },
+  "url": "http://www.figgeartmuseum.org",
+  "telephone": "+1 (319) 326-7804",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/60431874278"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/FiggeArtMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900640",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

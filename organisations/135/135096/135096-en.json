@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135096
+  },
+  "name": "FAIRCHILD TROPICAL BOTANIC GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10901 OLD CUTLER RD",
+    "addressLocality": "CORAL GABLES",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33156-4233"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.6768&mlon=-80.2767#map=15/25.6768/-80.2767",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.6768,
+    "longitude": -80.2767
+  },
+  "url": "http://www.fairchildgarden.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200651",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

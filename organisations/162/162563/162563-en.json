@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162563
+  },
+  "name": "WISCONSIN VETERANS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "30 W. MIFFLIN STREET",
+    "addressLocality": "MADISON",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53703"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0749&mlon=-89.3862#map=15/43.0749/-89.3862",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0749,
+    "longitude": -89.3862
+  },
+  "url": "http://museum.dva.state.wi.us/",
+  "telephone": "+1 (608) 266-1009",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500012",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

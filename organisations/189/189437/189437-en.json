@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189437
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stradella del Cristo, ",
+    "addressLocality": "Cittadella",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6476&mlon=11.7844#map=15/45.6476/11.7844",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6476,
+    "longitude": 11.7844
+  },
+  "telephone": "+39 0499404485",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1CZMc-O5oO2bfwYGi_NiHPGrVgU=/1000x1000/museums/logos/000/189/437/original/3923b44172313cc89a1672b62226c1af8fba6cd2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106083",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

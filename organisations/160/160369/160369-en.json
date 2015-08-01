@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160369
+  },
+  "name": "MANCHESTER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 363",
+    "addressLocality": "MANCHESTER",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05254"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1627&mlon=-73.075#map=15/43.1627/-73.075",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1627,
+    "longitude": -73.075
+  },
+  "url": "http://manchesterhistoricalsocietyvt.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000175",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

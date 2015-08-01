@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185945
+  },
+  "name": "Museo del Sannio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santa Sofia snc, ",
+    "addressLocality": "Benevento",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1304&mlon=14.7812#map=15/41.1304/14.7812",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1304,
+    "longitude": 14.7812
+  },
+  "telephone": "+39 082421818",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8eVbW6TDrwaUkObnBWEestn0FK0=/1000x1000/museums/logos/000/185/945/original/ca2ac4aa44b019fc69e98cbb1344b634dfd8893e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101791",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

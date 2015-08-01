@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183040
+  },
+  "name": "Plassenburg – Deutsches Zinnfigurenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Festungsberg 26",
+    "addressLocality": "Kulmbach",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95326"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1079&mlon=11.4632#map=15/50.1079/11.4632",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1079,
+    "longitude": 11.4632
+  },
+  "url": "http://www.plassenburg.de",
+  "telephone": "09221/947505",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183040",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

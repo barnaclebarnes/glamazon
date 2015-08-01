@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160531
+  },
+  "name": "STONEWALL JACKSON'S HEADQUARTERS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "415 N BRADDOCK ST",
+    "addressLocality": "WINCHESTER",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1892&mlon=-78.1653#map=15/39.1892/-78.1653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1892,
+    "longitude": -78.1653
+  },
+  "url": "http://www.winchesterhistory.org/stonewall_jackson.htm",
+  "telephone": "+1 (540) 667-5505",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100037",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

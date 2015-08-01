@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161507
+  },
+  "name": "VIRGINIA CAPITOL FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 396",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23218-0396"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5399&mlon=-77.4326#map=15/37.5399/-77.4326",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5399,
+    "longitude": -77.4326
+  },
+  "url": "http://www.virginiacapitol.gov/",
+  "telephone": "+1 (804) 786-1010",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405101013",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187169
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Chiesa, ?",
+    "addressLocality": "Novate Mezzola",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1515&mlon=9.50798#map=15/46.1515/9.50798",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1515,
+    "longitude": 9.50798
+  },
+  "url": "http://valcodera.org",
+  "telephone": "+39 034362037",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zoqiw5h7ytDQna_jt97uNYpueS0=/1000x1000/museums/logos/000/187/169/original/fdf9b7ce2f1b10b13747e2517534b7165e9a850.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103792",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

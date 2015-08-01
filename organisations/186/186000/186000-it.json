@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186000
+  },
+  "name": "Appartamento storico di Napoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Plebiscito, 1",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8351&mlon=14.2486#map=15/40.8351/14.2486",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8351,
+    "longitude": 14.2486
+  },
+  "url": "http://www.palazzorealenapoli.it",
+  "telephone": "+39 0815808111 - 081400547 biglietteria - numero verde 848800288",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jGus64pspeaVCTVPlFGQwNWv4gU=/1000x1000/museums/logos/000/186/000/original/64732368e220db6a106d52fc0e7ffd4b062f31.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108509",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189558
+  },
+  "name": "Museo ornitologico \"Massimino della Riva\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cansignorio della Scala, 2",
+    "addressLocality": "Marostica",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7489&mlon=11.6495#map=15/45.7489/11.6495",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7489,
+    "longitude": 11.6495
+  },
+  "url": "http://www.museoornitologico.org",
+  "telephone": "+39 +39 346 3003681",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutte le domeniche da Marzo a fine Ottobre, dalle ore 10.00 alle 12.00 e dalle 15.00 alle 18.00 Gli altri giorni solo su prenotazione.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00 € adulti e bambini dai 14 anni in su"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2C5qUtXOma1B7qKARa-hVH4ehi4=/1000x1000/museums/logos/000/189/558/original/c4ed49ed7217a123f73f576c58b6348bfe27dc1d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112114",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

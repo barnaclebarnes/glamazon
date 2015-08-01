@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187292
+  },
+  "name": "Antiquarium comunale di Carassai",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Matteotti, 4",
+    "addressLocality": "Carassai",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.032&mlon=13.6837#map=15/43.032/13.6837",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.032,
+    "longitude": 13.6837
+  },
+  "url": "http://www.comune.carassai.ap.it/",
+  "telephone": "+39 0734919002",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104098",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

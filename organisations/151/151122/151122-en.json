@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151122
+  },
+  "name": "MUSEUM OF MARITIME NAVIGATION AND COMMUNICATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1208 BAY STREET",
+    "addressLocality": "STATEN ISLAND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10305-3120"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6138&mlon=-74.0659#map=15/40.6138/-74.0659",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6138,
+    "longitude": -74.0659
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602416",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

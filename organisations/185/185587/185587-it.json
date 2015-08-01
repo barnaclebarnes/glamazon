@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185587
+  },
+  "name": "Museo civico di Cerchio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sandro Pertini, SNC",
+    "addressLocality": "Cerchio",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0647&mlon=13.6019#map=15/42.0647/13.6019",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0647,
+    "longitude": 13.6019
+  },
+  "url": "http://www.comunedicerchio.it",
+  "telephone": "+39 0863 78116",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì – Sababato 08,00 – 14,00 Domenica 10,00 – 12,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100007",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

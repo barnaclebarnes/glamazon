@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160996
+  },
+  "name": "VIRGINIA MUSEUM OF FINE ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 765",
+    "addressLocality": "WARRENTON",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "20188"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7109&mlon=-77.7898#map=15/38.7109/-77.7898",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7109,
+    "longitude": -77.7898
+  },
+  "url": "http://www.vmfa.state.va.us",
+  "telephone": "+1 (804) 340-1405",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100502",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

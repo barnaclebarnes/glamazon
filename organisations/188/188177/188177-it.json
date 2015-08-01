@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188177
+  },
+  "name": "Museo civico di San Severo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Francesco, 48",
+    "addressLocality": "San Severo",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6873&mlon=15.3791#map=15/41.6873/15.3791",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6873,
+    "longitude": 15.3791
+  },
+  "telephone": "+39 0882334409",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mar.- ven. 9.00-13.30/17.30-20.30 sab. 18.00-21.00 dom. 10.30-13.30/18.00-21.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito; visite guidate a pagamento"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FllYxOr7aRq6yTTDXaNDyHqGuk4=/1000x1000/museums/logos/000/188/177/original/caf22d02844b167a64eb6edaced15bcd5b52aad.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102382",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

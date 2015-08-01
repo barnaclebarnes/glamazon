@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189541
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Bra, 28",
+    "addressLocality": "Verona",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4383&mlon=10.9915#map=15/45.4383/10.9915",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4383,
+    "longitude": 10.9915
+  },
+  "url": "http://www.comune.verona.it/castelvecchio/cvsito",
+  "telephone": "+39 045590087",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IN4LsbJ9yeIbT2T-cTqM3Epeero=/1000x1000/museums/logos/000/189/541/original/fef3dd18746eac608cc637dce9c9c15ba5b23c6f.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101152",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

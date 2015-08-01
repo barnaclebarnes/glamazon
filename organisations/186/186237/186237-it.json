@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186237
+  },
+  "name": "Museo lirico permanente Beniamino Gigli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Falcone e Borsellino, 7",
+    "addressLocality": "Monfalcone",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8088&mlon=13.5347#map=15/45.8088/13.5347",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8088,
+    "longitude": 13.5347
+  },
+  "telephone": "+39 0481411005",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SGzfYfg982zz-CaYTHuCXKvNgM4=/1000x1000/museums/logos/000/186/237/original/e4b463bef7db3b8351511e779632392b4112f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100186",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

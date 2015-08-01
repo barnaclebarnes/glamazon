@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189103
+  },
+  "name": "Museo delle miniere - Miniere di Predoi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hormanngasse, 38/A",
+    "addressLocality": "Predoi/Prettau",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.0378&mlon=12.1031#map=15/47.0378/12.1031",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0378,
+    "longitude": 12.1031
+  },
+  "url": "http://www.bergbaumuseum.it",
+  "telephone": "+39 +39 0474 654298",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 1° aprile fino al 31 Ottobre 2014 da Martedí a domenica dalle ore 9,30 fino alle ore 16,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "10.00 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/x7G3Du2u1hem4xwytFWsQOC0NyM=/1000x1000/museums/logos/000/189/103/original/8f7f62e895d41f2c3f7bc1345cc3fafc5322543d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111958",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

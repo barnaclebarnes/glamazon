@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130163
+  },
+  "name": "MARSTON HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3525 7TH AVE",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7415&mlon=-117.158#map=15/32.7415/-117.158",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7415,
+    "longitude": -117.158
+  },
+  "url": "http://www.sohosandiego.org/main/marston2.htm",
+  "telephone": "+1 (619) 297-9327",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/George_W._Marston_House",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600289",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

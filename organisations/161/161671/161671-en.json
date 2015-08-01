@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161671
+  },
+  "name": "CHILDREN'S MUSEUM OF TACOMA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "936 BROADWAY",
+    "addressLocality": "TACOMA",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98402"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.2486&mlon=-122.438#map=15/47.2486/-122.438",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.2486,
+    "longitude": -122.438
+  },
+  "url": "http://www.childrensmuseumoftacoma.org",
+  "telephone": "+1 (253) 627-6031",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/ChildrensMuseumofTacoma"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/CMTacoma"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300120",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

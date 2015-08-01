@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143926
+  },
+  "name": "KALAMAZOO INSTITUTE OF ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "314 S PARK ST",
+    "addressLocality": "KALAMAZOO",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49007-5102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2895&mlon=-85.5872#map=15/42.2895/-85.5872",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2895,
+    "longitude": -85.5872
+  },
+  "url": "http://www.kiarts.org",
+  "telephone": "+1 (269) 349-7775",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600463",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

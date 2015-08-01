@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160647
+  },
+  "name": "COLD WAR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10824 W 1ST ST",
+    "addressLocality": "FAIRFAX",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22030"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8519&mlon=-77.3191#map=15/38.8519/-77.3191",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8519,
+    "longitude": -77.3191
+  },
+  "url": "http://www.coldwar.org",
+  "telephone": "+1 (703) 273-2381",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100153",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164335
+  },
+  "name": "Supreme Court of Victoria Library",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8141&mlon=144.958#map=15/-37.8141/144.958",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8141,
+    "longitude": 144.958
+  },
+  "url": "http://www.supremecourt.vic.gov.au",
+  "telephone": "0417 526 258",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Monday to Thursday 8.30am to 6pm Friday 8.30 am to 5pm ",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "supreme-court-library",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/supreme-court-library",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

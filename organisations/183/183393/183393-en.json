@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183393
+  },
+  "name": "Memorium Nürnberger Prozesse – Saal 600",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bärenschanzstraße 72",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90429"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4544&mlon=11.0482#map=15/49.4544/11.0482",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4544,
+    "longitude": 11.0482
+  },
+  "url": "http://www.memorium-nuernberg.de",
+  "telephone": "0911/321-79372",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183393",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

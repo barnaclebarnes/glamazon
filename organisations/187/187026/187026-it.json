@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187026
+  },
+  "name": "Civica raccolta d'arte di Medole",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, ?",
+    "addressLocality": "Medole",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3248&mlon=10.5094#map=15/45.3248/10.5094",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3248,
+    "longitude": 10.5094
+  },
+  "url": "http://www.comune.medole.mn.it",
+  "telephone": "+39 0376868748",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/p-fQMP6f0o0tz2ZiYlcgBqPA0xw=/1000x1000/museums/logos/000/187/026/original/63a2db9ea0e1d4095bb83c8cf75a9ea2ddf2b56.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103752",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

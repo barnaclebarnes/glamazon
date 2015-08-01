@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130118
+  },
+  "name": "MUSEUM ON MAIN STREET",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "603 MAIN ST",
+    "addressLocality": "PLEASANTON",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94566"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6615&mlon=-121.875#map=15/37.6615/-121.875",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6615,
+    "longitude": -121.875
+  },
+  "url": "http://www.museumonmain.org",
+  "telephone": "+1 (925) 462-2766",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600244",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189493
+  },
+  "name": "Museo del paesaggio di Torre di Mosto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Boccafossa ",
+    "addressLocality": "Torre di Mosto",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6499&mlon=12.7476#map=15/45.6499/12.7476",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6499,
+    "longitude": 12.7476
+  },
+  "url": "http://museodelpaesaggio.ve.it",
+  "telephone": "+39 0421 324440",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sabato 16.00 - 19.00 Domenica 10.00 - 12.00/16.00 - 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "ingresso libero"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2xzfXT0QhYQjLNsgXujGXtT90WI=/1000x1000/museums/logos/000/189/493/original/522b1d3641983d2a675da8993c6718cba27db91.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112099",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

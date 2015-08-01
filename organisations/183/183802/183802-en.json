@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183802
+  },
+  "name": "Erstes Deutsches Türmermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 13",
+    "addressLocality": "Vilseck",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92249"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6119&mlon=11.8067#map=15/49.6119/11.8067",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6119,
+    "longitude": 11.8067
+  },
+  "url": "http://www.tuermermuseum.de/",
+  "telephone": "09662/701811",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183802",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

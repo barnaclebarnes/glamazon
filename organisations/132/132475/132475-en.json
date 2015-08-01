@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132475
+  },
+  "name": "MARITIME MUSEUM ASSOCIATION OF SAN DIEGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1492 N HARBOR DR",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101-3309"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7206&mlon=-117.173#map=15/32.7206/-117.173",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7206,
+    "longitude": -117.173
+  },
+  "url": "http://www.sdmaritime.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602601",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

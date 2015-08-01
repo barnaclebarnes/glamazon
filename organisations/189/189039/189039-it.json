@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189039
+  },
+  "name": "Simus - Archivio e percorso storico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Banchi di Sotto, 55",
+    "addressLocality": "Siena",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3193&mlon=11.3313#map=15/43.3193/11.3313",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3193,
+    "longitude": 11.3313
+  },
+  "telephone": "+39 0577232382",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110024",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

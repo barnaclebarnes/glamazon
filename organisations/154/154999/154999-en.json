@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154999
+  },
+  "name": "GETTYSBURG MUSEUM OF HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "219 BALTIMORE ST",
+    "addressLocality": "GETTYSBURG",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17325"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.828&mlon=-77.2311#map=15/39.828/-77.2311",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.828,
+    "longitude": -77.2311
+  },
+  "url": "http://www.gettysburgmuseumofhistory.com",
+  "telephone": "+1 (717) 337-2035",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200193",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

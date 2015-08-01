@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185624
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Marconi, 45",
+    "addressLocality": "Pescara",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4615&mlon=14.2164#map=15/42.4615/14.2164",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4615,
+    "longitude": 14.2164
+  },
+  "url": "http://muvi.org/museocascella",
+  "telephone": "+39 085428315",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DxhaG2KidDi7fgtJK7fc2j9tADA=/1000x1000/museums/logos/000/185/624/original/cc9d8624e80ffac8f11b7562899b93fab72b898.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100075",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

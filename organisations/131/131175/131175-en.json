@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131175
+  },
+  "name": "OCEANSIDE MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "704 PIER VIEW WAY",
+    "addressLocality": "OCEANSIDE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92054-2802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.1977&mlon=-117.379#map=15/33.1977/-117.379",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.1977,
+    "longitude": -117.379
+  },
+  "url": "http://www.oma-online.org/cms/index.php",
+  "telephone": "+1 (760) 435-3720",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/oma.org"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/oceansidemuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601301",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

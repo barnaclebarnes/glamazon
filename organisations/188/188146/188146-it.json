@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188146
+  },
+  "name": "Museo diocesano di Bovino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Castello, ",
+    "addressLocality": "Bovino",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2511&mlon=15.341#map=15/41.2511/15.341",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2511,
+    "longitude": 15.341
+  },
+  "url": "http://www.comune.bovino.it",
+  "telephone": "+39 0881961051",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/57lz2y4OeWfPJ8bhexo1T4EmJlU=/1000x1000/museums/logos/000/188/146/original/681e5ea33bd74033b029b021daea5a2af21129ae.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102362",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

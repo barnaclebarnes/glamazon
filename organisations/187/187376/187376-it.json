@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187376
+  },
+  "name": "Museo della tessitura",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vicolo Vecchio , 6",
+    "addressLocality": "Macerata",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.267&mlon=13.3487#map=15/43.267/13.3487",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.267,
+    "longitude": 13.3487
+  },
+  "url": "http://www.comune.macerata.it",
+  "telephone": "+39 0733 232527",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì dalle ore 9.00 alle 12.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0fgxrz0wx_T8DQIDjQZJBB774-k=/1000x1000/museums/logos/000/187/376/original/fa56d0bd7256b89ea41841af8d4b4e98989426.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111500",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132645
+  },
+  "name": "HEAL THE BAY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3220 NEBRASKA AVE",
+    "addressLocality": "SANTA MONICA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90404-4214"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0327&mlon=-118.462#map=15/34.0327/-118.462",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0327,
+    "longitude": -118.462
+  },
+  "url": "http://www.healthebay.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602771",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

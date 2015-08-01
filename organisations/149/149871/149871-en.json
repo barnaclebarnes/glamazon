@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149871
+  },
+  "name": "HISTORICAL SOCIETY OF WHITEHALL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 238",
+    "addressLocality": "WHITEHALL",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12887-0238"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5546&mlon=-73.4006#map=15/43.5546/-73.4006",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5546,
+    "longitude": -73.4006
+  },
+  "url": "http://www.whitehallhistory.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601165",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

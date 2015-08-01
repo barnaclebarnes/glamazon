@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188163
+  },
+  "name": "Museo nazionale archeologico di Manfredonia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Ferri ",
+    "addressLocality": "Manfredonia",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6302&mlon=15.9142#map=15/41.6302/15.9142",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6302,
+    "longitude": 15.9142
+  },
+  "telephone": "+39 0884587838",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8.30 - 13.30 / 15.30 - 19.30; 8.30 -13.30/15.30 - 19.30/21.00 - 24.00 (sabato) dal 1° giugno al 30 s",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/U_TZV4awY3jU__yqTp5uKad4bhg=/1000x1000/museums/logos/000/188/163/original/2385fea9cd338315769f2993cff7fe6f38d2bdb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20331",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

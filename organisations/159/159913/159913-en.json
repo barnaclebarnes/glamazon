@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159913
+  },
+  "name": "USS CHARA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1322 RIVERCREST BLVD SUITE 5831",
+    "addressLocality": "ALLEN",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75002-2921"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.1091&mlon=-96.6384#map=15/33.1091/-96.6384",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.1091,
+    "longitude": -96.6384
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404802013",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

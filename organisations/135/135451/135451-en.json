@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135451
+  },
+  "name": "PANAMA CANAL MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7985 113TH STREET",
+    "addressLocality": "SEMINOLE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33772-4784"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=27.845&mlon=-82.7952#map=15/27.845/-82.7952",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 27.845,
+    "longitude": -82.7952
+  },
+  "url": "http://www.panamacanalmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201006",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186860
+  },
+  "name": "Fucina museo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Artigiani, 15",
+    "addressLocality": "Bienno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9342&mlon=10.292#map=15/45.9342/10.292",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9342,
+    "longitude": 10.292
+  },
+  "url": "http://www.bienno.info",
+  "telephone": "+39 0364406002",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Ts0nd5jrcusp_SaaS7n3QIY-v64=/1000x1000/museums/logos/000/186/860/original/67bdb95011a9259c94f43398935e0334f9378d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103546",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

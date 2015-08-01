@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186865
+  },
+  "name": "Associazione Museo della Mille Miglia Città di Brescia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale della Bornata, 123",
+    "addressLocality": "Brescia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5235&mlon=10.2678#map=15/45.5235/10.2678",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5235,
+    "longitude": 10.2678
+  },
+  "url": "http://www.museomillemiglia.it",
+  "telephone": "+39 030 3365631",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DyfefuNa6VtI6RI8Zf1CsraI0M8=/1000x1000/museums/logos/000/186/865/original/293f336309baaf621d9ab8df8b864c8d5281bb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106909",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

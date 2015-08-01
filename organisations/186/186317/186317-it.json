@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186317
+  },
+  "name": "Museo Civico di Gemona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Elti - Via Bini, 9",
+    "addressLocality": "Gemona del Friuli",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.2767&mlon=13.1405#map=15/46.2767/13.1405",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.2767,
+    "longitude": 13.1405
+  },
+  "url": "http://www.gemonaweb.it",
+  "telephone": "+39 0432973258",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100284",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

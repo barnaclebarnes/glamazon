@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186855
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mazzini, 3",
+    "addressLocality": "Zogno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7943&mlon=9.66538#map=15/45.7943/9.66538",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7943,
+    "longitude": 9.66538
+  },
+  "url": "http://www.brembana.info/musei/m_valle.html",
+  "telephone": "+39 034591473",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rAgNAXMw8WRTO5pogzk7dwPIo2Q=/1000x1000/museums/logos/000/186/855/original/e72a3fed9f787428aa548e8f2b14ad47cc5c69.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103545",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

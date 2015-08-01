@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188667
+  },
+  "name": "Museo Pietro Annigoni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Costa a San Giorgio, 2",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7629&mlon=11.2549#map=15/43.7629/11.2549",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7629,
+    "longitude": 11.2549
+  },
+  "url": "http://www.museoannigoni.it/",
+  "telephone": "+39 05520066206",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Y0ysNTu8VtMOhoUGMdaMF-eYUQY=/1000x1000/museums/logos/000/188/667/original/25da3aeed649dfb7a1b6ee0888a36339d775d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110712",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

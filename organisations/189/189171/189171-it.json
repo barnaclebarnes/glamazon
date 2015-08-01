@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189171
+  },
+  "name": "Museo Pietra Viva",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1155&mlon=11.2973#map=15/46.1155/11.2973",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1155,
+    "longitude": 11.2973
+  },
+  "url": "http://www.museopietraviva.it",
+  "telephone": "+39 339 8159225",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì, mercoledì, sabato e domenica: 9 - 12/13 - 16 Martedì: 13 - 16",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5.00 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WUHW2ulXW3cwZfIig0AEfTmotRc=/1000x1000/museums/logos/000/189/171/original/5df6198456cd3cd3d6975a950c491d9e46bc10.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111831",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

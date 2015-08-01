@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128529
+  },
+  "name": "DISCOVERY 2000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 19TH STREET NORTH",
+    "addressLocality": "BIRMINGHAM",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "35203-3117"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.5147&mlon=-86.8077#map=15/33.5147/-86.8077",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.5147,
+    "longitude": -86.8077
+  },
+  "telephone": "+1 (205) 558-2003",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100059",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

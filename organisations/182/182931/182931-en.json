@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182931
+  },
+  "name": "Schloss Höchstädt – Museum Deutscher Fayencen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Herzogin-Anna-Straße 52",
+    "addressLocality": "Höchstädt",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89420"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.6101&mlon=10.5735#map=15/48.6101/10.5735",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.6101,
+    "longitude": 10.5735
+  },
+  "url": "http://www.schloss-hoechstaedt.de",
+  "telephone": "09074/9585-700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182931",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

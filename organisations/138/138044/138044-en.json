@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138044
+  },
+  "name": "ILLINOIS RT 66 HERITAGE PROJECT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "700 E ADAMS ST",
+    "addressLocality": "SPRINGFIELD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62701-1617"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8006&mlon=-89.6464#map=15/39.8006/-89.6464",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8006,
+    "longitude": -89.6464
+  },
+  "url": "http://illinoisroute66.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701189",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

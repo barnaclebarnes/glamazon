@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160228
+  },
+  "name": "ETHAN ALLEN HOMESTEAD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 ETHAN ALLEN HOMESTEAD",
+    "addressLocality": "BURLINGTON",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05408"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5027&mlon=-73.2301#map=15/44.5027/-73.2301",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5027,
+    "longitude": -73.2301
+  },
+  "url": "http://www.ethanallenhomestead.org",
+  "telephone": "+1 (802) 865-4556",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000034",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187691
+  },
+  "name": "Villa Oldofredi Tadini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ercole Oldofredi Tadini, 19 - Madonna dell'Olmo, ",
+    "addressLocality": "Cuneo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4042&mlon=7.53573#map=15/44.4042/7.53573",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4042,
+    "longitude": 7.53573
+  },
+  "url": "http://www.villaoldofreditadini.it",
+  "telephone": "+39 0171611489",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103887",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

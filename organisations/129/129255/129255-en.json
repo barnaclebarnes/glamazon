@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129255
+  },
+  "name": "FRIENDS OF OCONNOR HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4455 E CAMELBACK RD A215",
+    "addressLocality": "PHOENIX",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85018-5360"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4949&mlon=-111.988#map=15/33.4949/-111.988",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4949,
+    "longitude": -111.988
+  },
+  "url": "http://www.oconnorhouse.org",
+  "telephone": "+1 (602) 730-3300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400157",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

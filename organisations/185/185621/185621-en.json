@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185621
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Madonna del Piano, 1",
+    "addressLocality": "Nocciano",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3342&mlon=13.9843#map=15/42.3342/13.9843",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3342,
+    "longitude": 13.9843
+  },
+  "url": "http://www.museodelleartinocciano.it",
+  "telephone": "+39 085847135; 3496096186",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Y2oVWampLlrPV9WuctMBWrPmRZg=/1000x1000/museums/logos/000/185/621/original/430f13679627a36bd4449588e6f13de4ae69fb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100073",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

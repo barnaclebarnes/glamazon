@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164156
+  },
+  "name": "NGV (National Gallery of Victoria)",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8178&mlon=144.969#map=15/-37.8178/144.969",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8178,
+    "longitude": 144.969
+  },
+  "url": "http://www.ngv.vic.gov.au/",
+  "telephone": "(03) 8620 2222",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "ngv-australia",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/ngv-australia",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

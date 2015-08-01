@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150024
+  },
+  "name": "LEROY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 176",
+    "addressLocality": "LE ROY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14482-0176"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9773&mlon=-77.9825#map=15/42.9773/-77.9825",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9773,
+    "longitude": -77.9825
+  },
+  "url": "http://www.leroy.org",
+  "telephone": "+1 (716) 768-7433",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601318",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

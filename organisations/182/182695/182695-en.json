@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182695
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 21",
+    "addressLocality": "Elsenfeld",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63820"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8461&mlon=9.16052#map=15/49.8461/9.16052",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8461,
+    "longitude": 9.16052
+  },
+  "url": "http://www.museum-elsenfeld.de/",
+  "telephone": "06022/8488",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182695",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

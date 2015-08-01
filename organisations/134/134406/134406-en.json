@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134406
+  },
+  "name": "SEGD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 VERMONT AVE NW STE 400",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20005-4921"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9032&mlon=-77.0334#map=15/38.9032/-77.0334",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9032,
+    "longitude": -77.0334
+  },
+  "telephone": "+1 (202) 638-5555",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100187",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

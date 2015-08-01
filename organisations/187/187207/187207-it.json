@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187207
+  },
+  "name": "Museo Ogliari - Museo europeo dei trasporti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Alberto, 99",
+    "addressLocality": "Ranco",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7968&mlon=8.58257#map=15/45.7968/8.58257",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7968,
+    "longitude": 8.58257
+  },
+  "telephone": "+39 0255181832 - custode 0331 975198",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal 1 aprile al 30 settembre 10:00 - 11:00/15:00 - 17:30 Dal 1 ottobre al 31 marzo 10:00 - 11:30/14:00 - 15:30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103832",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

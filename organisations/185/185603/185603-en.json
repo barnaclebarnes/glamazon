@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185603
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "GROTTE DI STIFFE, Via del Mulino",
+    "addressLocality": "San Demetrio ne' Vestini",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2563&mlon=13.5456#map=15/42.2563/13.5456",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2563,
+    "longitude": 13.5456
+  },
+  "url": "http://grottestiffe.it",
+  "telephone": "+39 086286142",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IKMSbx9HK5-jVqlJwL5eF_xnmxM=/1000x1000/museums/logos/000/185/603/original/11645a369f6dcdc4ef75bcf5180a2c063aef36c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100022",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

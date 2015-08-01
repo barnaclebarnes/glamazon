@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150081
+  },
+  "name": "SMITHVILLE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 176",
+    "addressLocality": "SMITHVILLE FLATS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13841-0176"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4076&mlon=-75.8227#map=15/42.4076/-75.8227",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4076,
+    "longitude": -75.8227
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601375",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

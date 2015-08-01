@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142649
+  },
+  "name": "MASSACHUSETTS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1154 BOYLSTON ST",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02215-3695"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3467&mlon=-71.09#map=15/42.3467/-71.09",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3467,
+    "longitude": -71.09
+  },
+  "url": "http://www.masshist.org",
+  "telephone": "+1 (617) 536-1608",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500279",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

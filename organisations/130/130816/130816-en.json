@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130816
+  },
+  "name": "LOS ALTOS HILLS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "12769 DIANNE DRIVE",
+    "addressLocality": "LOS ALTOS HILLS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94022"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3683&mlon=-122.123#map=15/37.3683/-122.123",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3683,
+    "longitude": -122.123
+  },
+  "url": "http://www.losaltoshillshistory.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600942",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

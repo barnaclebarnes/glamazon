@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188930
+  },
+  "name": "Museo del bonsai",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lucchese, 159",
+    "addressLocality": "Pescia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8915&mlon=10.6629#map=15/43.8915/10.6629",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8915,
+    "longitude": 10.6629
+  },
+  "url": "http://www.franchi-bonsai.it/franchi_home_ita.html",
+  "telephone": "+39 0572429262",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103205",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150316
+  },
+  "name": "JAMESTOWN AUDUBON SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1600 RIVERSIDE ROAD",
+    "addressLocality": "JAMESTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14701-9340"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0199&mlon=-79.1664#map=15/42.0199/-79.1664",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0199,
+    "longitude": -79.1664
+  },
+  "url": "http://www.jamestownaudubon.org/",
+  "telephone": "+1 (716) 569-2345",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601610",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

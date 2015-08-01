@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130466
+  },
+  "name": "BERKELEY MUSEUM OF ZOOLOGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3101 VALLEY LIFE SCIENCES BLDG",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94720"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8755&mlon=-122.242#map=15/37.8755/-122.242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8755,
+    "longitude": -122.242
+  },
+  "url": "http://mvz.berkeley.edu",
+  "telephone": "+1 (510) 642-3567",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Museum_of_Vertebrate_Zoology",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600592",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

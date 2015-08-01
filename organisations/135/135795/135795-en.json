@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135795
+  },
+  "name": "LAUREL AND HARDY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "250 N LOUISVILLE ST",
+    "addressLocality": "HARLEM",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30814"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4168&mlon=-82.312#map=15/33.4168/-82.312",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4168,
+    "longitude": -82.312
+  },
+  "url": "http://www.laurelandhardymuseum.org",
+  "telephone": "+1 (706) 556-0401",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300066",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

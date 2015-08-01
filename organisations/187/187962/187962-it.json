@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187962
+  },
+  "name": "Museo del mulino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Molino, ",
+    "addressLocality": "Torre Pellice",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8189&mlon=7.21083#map=15/44.8189/7.21083",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8189,
+    "longitude": 7.21083
+  },
+  "url": "http://www.montagnedoc.com",
+  "telephone": "+39 0121 953221",
+  "contactPoint": [
+
+  ],
+  "openingHours": "gennaio-dicembre: su prenotazione",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4FRy3vRS5rgP2-1Ms8bktkKL9H8=/1000x1000/museums/logos/000/187/962/original/6f7d53dce384937837a131d3fe8e16c8666324.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102782",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

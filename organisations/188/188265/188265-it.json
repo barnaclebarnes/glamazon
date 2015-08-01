@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188265
+  },
+  "name": "Museo del carbone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Miniera di Serbariu, ",
+    "addressLocality": "Carbonia",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1576&mlon=8.54016#map=15/39.1576/8.54016",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1576,
+    "longitude": 8.54016
+  },
+  "url": "http://www.museodelcarbone.it",
+  "telephone": "+39 0781670591",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103339",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

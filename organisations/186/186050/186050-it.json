@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186050
+  },
+  "name": "Museo di civiltà contadina arti e mestieri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via delle Cartiere, 55",
+    "addressLocality": "Amalfi",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6399&mlon=14.5996#map=15/40.6399/14.5996",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6399,
+    "longitude": 14.5996
+  },
+  "url": "http://www.museincampania.it/spip.php?page=musei_dettaglio&id_museo=150",
+  "telephone": "+39 089873211",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sHv8BsZCR-xlJN4AjTc7jYa6L6g=/1000x1000/museums/logos/000/186/050/original/e6ad92243dca9facaec6f4d993464af214aff4a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101885",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

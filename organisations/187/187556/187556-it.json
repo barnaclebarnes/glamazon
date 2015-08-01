@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187556
+  },
+  "name": "Castello di Montecastello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Castello, 5, ",
+    "addressLocality": "Montecastello",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9899&mlon=8.67106#map=15/44.9899/8.67106",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9899,
+    "longitude": 8.67106
+  },
+  "url": "http://www.comune.montecastello.al.it",
+  "telephone": "+39 0131 355136",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kY9rgkMAEeLuNlGkXLgXvi-jS1k=/1000x1000/museums/logos/000/187/556/original/f1dcbb511ade7e4f6df2aa24ebb11e47d164ad16.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106711",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186532
+  },
+  "name": "Istituto centrale per la grafica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della stamperia, 6",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9016&mlon=12.4835#map=15/41.9016/12.4835",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9016,
+    "longitude": 12.4835
+  },
+  "url": "http://www.grafica.beniculturali.it/",
+  "telephone": "+39 06699801",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 9.00-13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hEy_IPU9xg3kiX0yRioewPJbRTk=/1000x1000/museums/logos/000/186/532/original/4693568f555271f264f0aafcaaf6fbda58767a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107785",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

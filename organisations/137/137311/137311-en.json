@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137311
+  },
+  "name": "AQUARIUM FISH SANCTUARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3652 SOUTH HAMILTON",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60609"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.827&mlon=-87.6788#map=15/41.827/-87.6788",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.827,
+    "longitude": -87.6788
+  },
+  "url": "http://www.aquariumfishsanctuary.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700456",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186110
+  },
+  "name": "Museo diocesano di Vallo della Lucania",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Francesco Cammarota, 2",
+    "addressLocality": "Vallo della Lucania",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2275&mlon=15.2648#map=15/40.2275/15.2648",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2275,
+    "longitude": 15.2648
+  },
+  "url": "http://www.diocesivallodellalucania.it",
+  "telephone": "+39 097475794",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/laFMe2AmyX8UKb8H3ri42wseods=/1000x1000/museums/logos/000/186/110/original/89dff076aadd38c313b9a1d33830923c8d4ba3f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101928",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

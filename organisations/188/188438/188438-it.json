@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188438
+  },
+  "name": "Antiquarium di Milazzo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": " Via Impallomeni",
+    "addressLocality": "Milazzo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.227&mlon=15.2418#map=15/38.227/15.2418",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.227,
+    "longitude": 15.2418
+  },
+  "url": "http://www.regione.sicilia.it",
+  "telephone": "+39 090 9223471",
+  "contactPoint": [
+
+  ],
+  "openingHours": "&nbsp;Lunedi' dalle ore 9,00 alle 14,00 - da martedi' a sabato dalle ore 9,00 alle 19,00 - domenica e festivi infrasettimanali dalle ore 14,00 alle ore 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pxHlxXAX5odCyq5NzS1FRRZpoUQ=/1000x1000/museums/logos/000/188/438/original/5ab5365776b4bd1d5e20b87a2efcbfa971675e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111612",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

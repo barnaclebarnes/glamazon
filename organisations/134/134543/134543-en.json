@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134543
+  },
+  "name": "MUSEUM OF FLORIDA HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 E PARK AVE",
+    "addressLocality": "TALLAHASSEE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32301"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4418&mlon=-84.2793#map=15/30.4418/-84.2793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4418,
+    "longitude": -84.2793
+  },
+  "url": "http://www.museumoffloridahistory.com",
+  "telephone": "+1 (850) 922-2459",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/museumoffloridahistory"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200097",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

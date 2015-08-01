@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187277
+  },
+  "name": "Pinacoteca diocesana di arte sacra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Garibaldi, 3",
+    "addressLocality": "Senigallia",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7141&mlon=13.2148#map=15/43.7141/13.2148",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7141,
+    "longitude": 13.2148
+  },
+  "url": "http://www.diocesisenigallia.it",
+  "telephone": "+39 07165758",
+  "contactPoint": [
+
+  ],
+  "openingHours": "giugno-settembre, mercoledì e domenica 21-24, sabato 9-12 e 16.30-19.30; ottobre-dicembre e aprile-maggio, sabato e domenica 9-12 e 16-19",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104082",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

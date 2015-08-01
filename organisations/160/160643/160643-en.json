@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160643
+  },
+  "name": "HARRISONBURG CHILDREN'S MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "30 N MAIN ST",
+    "addressLocality": "HARRISONBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4496&mlon=-78.8686#map=15/38.4496/-78.8686",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4496,
+    "longitude": -78.8686
+  },
+  "url": "http://www.hcmuseum.org/cms",
+  "telephone": "+1 (540) 442-8900",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100149",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

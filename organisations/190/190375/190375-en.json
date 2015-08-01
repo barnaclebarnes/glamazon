@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190375
+  },
+  "name": "HOUSTON ARBORETUM & NATURE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4501 WOODWAY DRIVE",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77024"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3083&mlon=-72.9311#map=15/41.3083/-72.9311",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3083,
+    "longitude": -72.9311
+  },
+  "url": "http://www.houstonarboretum.org",
+  "telephone": "+1 (713) 681-8433",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404802049",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

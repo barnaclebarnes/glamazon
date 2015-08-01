@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154282
+  },
+  "name": "JACKSONVILLE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "206 N 5TH ST",
+    "addressLocality": "JACKSONVILLE",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97530"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3147&mlon=-122.965#map=15/42.3147/-122.965",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3147,
+    "longitude": -122.965
+  },
+  "url": "http://www.oregonmuseums.org",
+  "telephone": "+1 (541) 773-6536",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100075",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150122
+  },
+  "name": "SUSQUEHANNA VALLEY RAILWAY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2415",
+    "addressLocality": "BINGHAMTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13902-2415"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1017&mlon=-75.9066#map=15/42.1017/-75.9066",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1017,
+    "longitude": -75.9066
+  },
+  "url": "http://www.trainweb.org/svrhs/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601416",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

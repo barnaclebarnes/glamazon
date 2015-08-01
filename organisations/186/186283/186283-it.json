@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186283
+  },
+  "name": "Museo della comunità ebraica di Trieste Carlo e Vera Wagner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Del Monte, 5/7",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6493&mlon=13.7746#map=15/45.6493/13.7746",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6493,
+    "longitude": 13.7746
+  },
+  "url": "http://www.triestebraica.it/museoebraicotrieste/",
+  "telephone": "+39 040633819",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e giovedì 16.00 – 19.00 mercoledì 10.00 – 13.00 (orari provvisori fino a riapertura totale)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00€ (gratuito fino a riapertura totale)"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VZVheINLvPuMhS7mdHa-Gku_t3Y=/1000x1000/museums/logos/000/186/283/original/703fd5c0451e7267198f42bab7aeb065972d5ec.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100244",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

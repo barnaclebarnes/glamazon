@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183175
+  },
+  "name": "Spitalmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 33",
+    "addressLocality": "Aub",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97239"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5531&mlon=10.0633#map=15/49.5531/10.0633",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5531,
+    "longitude": 10.0633
+  },
+  "url": "http://www.spitalmuseum.de",
+  "telephone": "09335/97100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183175",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132459
+  },
+  "name": "SAN DIEGO MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1450 EL PRADO",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101-1618"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7315&mlon=-117.151#map=15/32.7315/-117.151",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7315,
+    "longitude": -117.151
+  },
+  "telephone": "+1 (619) 232-7931",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/TheSanDiegoMuseumOfArt"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/SDMA"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602585",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

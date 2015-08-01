@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187106
+  },
+  "name": "Museo storico Carla Musazzi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Randaccio, 11",
+    "addressLocality": "Parabiago",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.555&mlon=8.94842#map=15/45.555/8.94842",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.555,
+    "longitude": 8.94842
+  },
+  "telephone": "+39 0331553979",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Domenica: ore 15.00 – 18.00 Venerdì: ore 15.00 – 17.00/17.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103730",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

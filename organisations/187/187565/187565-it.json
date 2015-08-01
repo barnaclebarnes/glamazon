@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187565
+  },
+  "name": "Castello di Pozzolo Formigaro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, 1, ",
+    "addressLocality": "Pozzolo Formigaro",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7934&mlon=8.78176#map=15/44.7934/8.78176",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7934,
+    "longitude": 8.78176
+  },
+  "url": "http://www.comunepozzolo.it",
+  "telephone": "+39 0143 417893",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aZHWoLonFFRg-K_6YhvmLSFk-aw=/1000x1000/museums/logos/000/187/565/original/f3de7f1074c2f3d6e64b132ceaf69d95808576da.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102467",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

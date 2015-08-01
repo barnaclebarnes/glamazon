@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183945
+  },
+  "name": "Wassermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstr. 34",
+    "addressLocality": "Zell a. Main",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97299"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8063&mlon=9.87462#map=15/49.8063/9.87462",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8063,
+    "longitude": 9.87462
+  },
+  "url": "http://www.zell-main.de",
+  "telephone": "0931/468780",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183945",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

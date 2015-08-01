@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186148
+  },
+  "name": "Museo di Casa Romei",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Savonarola, 28-30",
+    "addressLocality": "Ferrara",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8335&mlon=11.6258#map=15/44.8335/11.6258",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8335,
+    "longitude": 11.6258
+  },
+  "url": "http://www.soprintendenzaravenna.beniculturali.it/index.php?it/128/museo-di-casa-romei",
+  "telephone": "+39 0532 234130\n        \n          (+39) 0532 234130",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dalla domenica al mercoledì 8.30-14.00; dal giovedì al sabato 14.00-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0-Lx4RUjOlhGEYbARl176A_DSLo=/1000x1000/museums/logos/000/186/148/original/10e197e4b75a68f140f57ed0284ba6e19f774a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20532",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

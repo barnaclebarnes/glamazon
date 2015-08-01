@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183267
+  },
+  "name": "Neue Pinakothek",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Barer Straße 29",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80799"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1499&mlon=11.5713#map=15/48.1499/11.5713",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1499,
+    "longitude": 11.5713
+  },
+  "url": "http://www.pinakothek.de/neue-pinakothek/",
+  "telephone": "089/23805-195",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183267",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

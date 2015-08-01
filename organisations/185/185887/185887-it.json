@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185887
+  },
+  "name": "Museo del mare di Pizzo Forno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Prangi ",
+    "addressLocality": "Pizzo",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7338&mlon=16.1629#map=15/38.7338/16.1629",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7338,
+    "longitude": 16.1629
+  },
+  "url": "http://www.pizzocalabro.it/Pro_loco/Museo_del_mare/museo_del_mare.htm",
+  "telephone": "+39 0963 534903",
+  "contactPoint": [
+
+  ],
+  "openingHours": "per appuntamento",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jSFp0AXBW92lMuj5ZuZD2eSPJG0=/1000x1000/museums/logos/000/185/887/original/2a924ae1c99ca8c78d8fd1293c7201c2f349110.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111050",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

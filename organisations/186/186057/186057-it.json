@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186057
+  },
+  "name": "Musei nei percorsi del Gran Tour",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vittorio Veneto, 24 (Convento dei Frati Francescani)",
+    "addressLocality": "Capaccio",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4248&mlon=15.077#map=15/40.4248/15.077",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4248,
+    "longitude": 15.077
+  },
+  "url": "http://www.fondazionegbvico.org",
+  "telephone": "+39 08281962202",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì al sabato mattina 10.00 - 13.00/ pomeriggio 16.00 - 19.00; domenica dalle 10.00 alle 13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2.50 euro"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106177",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

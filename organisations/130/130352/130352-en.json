@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130352
+  },
+  "name": "DAVIS ARBORETUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "UNIVERSITY OF CALIFORNIA",
+    "addressLocality": "DAVIS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95616"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5539&mlon=-121.756#map=15/38.5539/-121.756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5539,
+    "longitude": -121.756
+  },
+  "telephone": "+1 (530) 752-8579",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/University_of_California,_Davis_Arboretum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600478",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

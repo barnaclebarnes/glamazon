@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187147
+  },
+  "name": "Museo contadino della Bassa Pavese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza 25 Aprile, ?",
+    "addressLocality": "Santa Cristina e Bissone",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2048&mlon=9.36255#map=15/45.2048/9.36255",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2048,
+    "longitude": 9.36255
+  },
+  "url": "http://museo.comune.santacristinaebissone.pv.it/",
+  "telephone": "+39 038270121",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/umfs9_Y-JoK0e1ujk22dyvQec8g=/1000x1000/museums/logos/000/187/147/original/22be2105558466c0a17d19ae8d743d32ec20b0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103775",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

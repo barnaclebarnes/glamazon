@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132314
+  },
+  "name": "CENTER FOR LAND USE INTERPRETATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9331 VENICE BLVD",
+    "addressLocality": "CULVER CITY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90232-2621"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0259&mlon=-118.395#map=15/34.0259/-118.395",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0259,
+    "longitude": -118.395
+  },
+  "url": "http://www.clui.org",
+  "telephone": "+1 (310) 839-5722",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602440",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

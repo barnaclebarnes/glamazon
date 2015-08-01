@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140246
+  },
+  "name": "WEATHERFORD PLANETARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "SCIENCE BLDG",
+    "addressLocality": "BEREA",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40403"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5699&mlon=-84.2936#map=15/37.5699/-84.2936",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5699,
+    "longitude": -84.2936
+  },
+  "telephone": "+1 (859) 985-3351",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

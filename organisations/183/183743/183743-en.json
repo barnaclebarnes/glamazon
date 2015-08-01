@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183743
+  },
+  "name": "Pfingstritt-Museum Bad Kötzting",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Herrenstraße 11",
+    "addressLocality": "Bad Kötzting",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1743&mlon=12.8574#map=15/49.1743/12.8574",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1743,
+    "longitude": 12.8574
+  },
+  "url": "http://www.bad-koetzting.de",
+  "telephone": "09941/602-150",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183743",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

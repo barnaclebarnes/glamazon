@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134455
+  },
+  "name": "USF CONTEMPORARY ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3821 HOLLY DR",
+    "addressLocality": "TAMPA",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33620"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=28.0653&mlon=-82.4177#map=15/28.0653/-82.4177",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.0653,
+    "longitude": -82.4177
+  },
+  "url": "http://www.ira.usf.edu",
+  "telephone": "+1 (813) 974-4133",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/USFCAMfan"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200009",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

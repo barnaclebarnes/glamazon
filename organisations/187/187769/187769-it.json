@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187769
+  },
+  "name": "Museo di storia naturale Farraggiana Ferrandi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gaudenzio Ferrari, 13",
+    "addressLocality": "Novara",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4491&mlon=8.62059#map=15/45.4491/8.62059",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4491,
+    "longitude": 8.62059
+  },
+  "url": "http://www.comune.novara.it/città/musei",
+  "telephone": "+39 3213702755",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a venerdì: 9.00/12.30 sabato e domenica: 14.00/19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito per ingresso al museo; laboratorio e didattica 2,00€"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102653",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186271
+  },
+  "name": "Civico museo d'arte orientale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Sebastiano, 1",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6491&mlon=13.7676#map=15/45.6491/13.7676",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6491,
+    "longitude": 13.7676
+  },
+  "url": "http://www.triestecultura.it",
+  "telephone": "+39 0403220736",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedìì a domenica 10.00/17.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fcBdSyYV3wUDqEU7U6z1f5DxdpQ=/1000x1000/museums/logos/000/186/271/original/e0524c2a32ceaab52336b1602aee56877c1a16b9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100231",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

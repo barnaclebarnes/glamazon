@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186109
+  },
+  "name": "Museo diocesano \"San Pietro\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Pietro, 1",
+    "addressLocality": "Teggiano",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3785&mlon=15.5411#map=15/40.3785/15.5411",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3785,
+    "longitude": 15.5411
+  },
+  "url": "http://www.paradhosis.it",
+  "telephone": "+39 097579930",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ewD96YJHvmIJ7ZqdsNo5Mtfm5PA=/1000x1000/museums/logos/000/186/109/original/71daa62fce0d7226b9baf392a26467d709f8281.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101927",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

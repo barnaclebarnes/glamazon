@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186587
+  },
+  "name": "Museo nazionale dell’alto Medioevo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Lincoln, 3, ",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8327&mlon=12.4723#map=15/41.8327/12.4723",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8327,
+    "longitude": 12.4723
+  },
+  "url": "http://archeoroma.beniculturali.it",
+  "telephone": "+39 0654228199",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Aperto tutti i giorni dalle 9.00 alle 14.00, chiusura della biglietteria alle 13.30; mercoledì, giovedì e domenica aperto fino alle 19.30, chiusura della biglietteria alle 19.00.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ryMRkEv1tcfqnd1IqmkdsvV0Ics=/1000x1000/museums/logos/000/186/587/original/d3dec0786d50232667b5215795e923b373ca074.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106529",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187468
+  },
+  "name": "Musei civici di Pesaro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Toschi Mosca, 29",
+    "addressLocality": "Pesaro",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9112&mlon=12.9133#map=15/43.9112/12.9133",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9112,
+    "longitude": 12.9133
+  },
+  "url": "http://www.pesaromusei.it/sedi.asp?id=14",
+  "telephone": "+39 0721 387541-474",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 14 settembre al 31 maggio martedì, venerdì, sabato 10-13, 15.30-19 mercoledì, giovedì, domenica 10-13. Dal 1 ottobre al 31 maggio: martedì, mercoledì, giovedì 10-13, da venerdì a domenica 10-13, 15.30-18.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/h3jmBSD3GNcvpLXMZQ_Y1Cx6EM4=/1000x1000/museums/logos/000/187/468/original/d59e4f193fa188968520a5479afdb78bf875c7f0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104298",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

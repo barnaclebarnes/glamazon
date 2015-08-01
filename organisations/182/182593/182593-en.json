@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182593
+  },
+  "name": "Gerätemuseum des Coburger Landes",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schäferei 2",
+    "addressLocality": "Ahorn",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96482"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2317&mlon=10.9484#map=15/50.2317/10.9484",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2317,
+    "longitude": 10.9484
+  },
+  "url": "http://www.geraetemuseum-ahorn.de",
+  "telephone": "09561/1304",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182593",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

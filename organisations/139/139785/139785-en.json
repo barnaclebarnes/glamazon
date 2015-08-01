@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139785
+  },
+  "name": "BUSHTON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "218 S MAIN ST",
+    "addressLocality": "BUSHTON",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67427"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5131&mlon=-98.3971#map=15/38.5131/-98.3971",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5131,
+    "longitude": -98.3971
+  },
+  "telephone": "+1 (620) 562-3411",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000111",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

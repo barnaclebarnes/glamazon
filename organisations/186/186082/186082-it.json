@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186082
+  },
+  "name": "Museo Alfonsiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza S. Alfonso, 1",
+    "addressLocality": "Pagani",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7426&mlon=14.6112#map=15/40.7426/14.6112",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7426,
+    "longitude": 14.6112
+  },
+  "url": "http://www.museoalfonsiano.it",
+  "telephone": "+39 081916054",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XieGWZcJukUedzSrAeWXq81NzqM=/1000x1000/museums/logos/000/186/082/original/4fc24b498481ec2ae79cf2edea844613fc32e4ea.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101909",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

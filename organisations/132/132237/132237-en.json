@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132237
+  },
+  "name": "DUBLIN HERITAGE PARK & MUSEUMS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 CIVIC PLAZA",
+    "addressLocality": "DUBLIN",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94568"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7044&mlon=-121.916#map=15/37.7044/-121.916",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7044,
+    "longitude": -121.916
+  },
+  "url": "http://www.ci.dublin.ca.us/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602363",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

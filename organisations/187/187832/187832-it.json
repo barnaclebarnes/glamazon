@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187832
+  },
+  "name": "Museo del grande Torino e della leggenda granata",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Villa Claretta Assandri, via La Salle, 87, ",
+    "addressLocality": "Grugliasco",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0624&mlon=7.57827#map=15/45.0624/7.57827",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0624,
+    "longitude": 7.57827
+  },
+  "url": "http://www.museodeltoro.it",
+  "telephone": "+39 0117801560",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato 14.00-19.00; domenica 10.00-19.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fO__gYLQ1jtvuVsKsrmDtT4wt0w=/1000x1000/museums/logos/000/187/832/original/e273ac27e5a52c5d4ff3e3dada902d39d177393.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106636",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

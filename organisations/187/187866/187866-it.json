@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187866
+  },
+  "name": "Museo d'arte preistorica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Giolitti, 1, ",
+    "addressLocality": "Pinerolo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8859&mlon=7.33544#map=15/44.8859/7.33544",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8859,
+    "longitude": 7.33544
+  },
+  "url": "http://www.cesmap.it",
+  "telephone": "+39 0121794382",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102716",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

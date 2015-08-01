@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184408
+  },
+  "name": "Akaroa Museum  Te Whare Taonga",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:akaroa.museum@ccc.govt.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-43.8051&mlon=172.967#map=15/-43.8051/172.967",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -43.8051,
+    "longitude": 172.967
+  },
+  "telephone": "64-3-304 1013",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10.30am-4.30pm Summer, 10.30am-4pm Winter",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Adult $4.00 \r\n Child $1.00 \r\nFamily $8.00\r\n Concessions available"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184408",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

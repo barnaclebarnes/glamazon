@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137416
+  },
+  "name": "EVANSTON HISTORY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "225 GREENWOOD ST",
+    "addressLocality": "EVANSTON",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60201-4713"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0426&mlon=-87.6735#map=15/42.0426/-87.6735",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0426,
+    "longitude": -87.6735
+  },
+  "url": "http://www.evanstonhistorical.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700561",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182746
+  },
+  "name": "Glasmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Museumspark 1",
+    "addressLocality": "Frauenau",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94258"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9883&mlon=13.2985#map=15/48.9883/13.2985",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9883,
+    "longitude": 13.2985
+  },
+  "url": "http://www.glasmuseum-frauenau.de",
+  "telephone": "09926/9410-20",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182746",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

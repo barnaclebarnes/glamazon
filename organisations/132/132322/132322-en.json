@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132322
+  },
+  "name": "RALSTON HALL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1500 RALSTON AVE",
+    "addressLocality": "BELMONT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94002-1908"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5149&mlon=-122.285#map=15/37.5149/-122.285",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5149,
+    "longitude": -122.285
+  },
+  "telephone": "+1 (415) 508-3722",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602448",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

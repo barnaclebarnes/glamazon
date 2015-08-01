@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186880
+  },
+  "name": "Museo della Guerra 1915-18 e dei reperti bellici",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XXIV Maggio, 9",
+    "addressLocality": "Capovalle",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7551&mlon=10.5492#map=15/45.7551/10.5492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7551,
+    "longitude": 10.5492
+  },
+  "telephone": "+39 0365750021",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eu2EjDGhI1oQ7RVlXtFy_ZU2S2o=/1000x1000/museums/logos/000/186/880/original/7e93c75cef54aa29c8a1721e6446bb18a13efe9e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103559",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

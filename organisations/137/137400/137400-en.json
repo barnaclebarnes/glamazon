@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137400
+  },
+  "name": "HARRY AND DELLA BURPEE MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "813 N MAIN ST",
+    "addressLocality": "ROCKFORD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61103-6905"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.278&mlon=-89.0887#map=15/42.278/-89.0887",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.278,
+    "longitude": -89.0887
+  },
+  "url": "http://www.burpee.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700545",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

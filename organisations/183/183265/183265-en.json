@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183265
+  },
+  "name": "Münchner Sanitätsmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Boschetsrieder Straße 33",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "81379"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0998&mlon=11.5369#map=15/48.0998/11.5369",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0998,
+    "longitude": 11.5369
+  },
+  "url": "http://www.brk-museum.de",
+  "telephone": "0172/8250577",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183265",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

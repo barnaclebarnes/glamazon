@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150748
+  },
+  "name": "PINE HOLLOW ARBORETUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "34 PINE HOLLOW ROAD",
+    "addressLocality": "SLINGERLANDS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12159-9654"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6335&mlon=-73.855#map=15/42.6335/-73.855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6335,
+    "longitude": -73.855
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602042",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

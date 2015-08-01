@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150827
+  },
+  "name": "CAIRO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 803",
+    "addressLocality": "CAIRO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12413-0803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3034&mlon=-74.0129#map=15/42.3034/-74.0129",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3034,
+    "longitude": -74.0129
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602121",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

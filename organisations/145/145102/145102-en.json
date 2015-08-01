@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145102
+  },
+  "name": "WRIGHT AIR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4859 US HWY 12 SW",
+    "addressLocality": "WAVERLY",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55390-8407"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0649&mlon=-93.9896#map=15/45.0649/-93.9896",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0649,
+    "longitude": -93.9896
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700542",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

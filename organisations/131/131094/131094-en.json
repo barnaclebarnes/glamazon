@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131094
+  },
+  "name": "CALIFORNIA SURF MUSEUM ENCINITAS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "223 N COAST HWY",
+    "addressLocality": "OCEANSIDE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92054-2821"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.1961&mlon=-117.38#map=15/33.1961/-117.38",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.1961,
+    "longitude": -117.38
+  },
+  "url": "http://www.surfmuseum.org",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iqk2c4aqqI4xkxpLV09nrBD3HGg=/1000x1000/museums/logos/000/131/094/original/CA_Surf_Museum.jpg",
+    "license": "CC0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/California_Surf_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601220",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

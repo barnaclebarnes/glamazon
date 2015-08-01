@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186440
+  },
+  "name": "Museo civico archeologico di Fara Sabina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Del Duomo, 3",
+    "addressLocality": "Fara in Sabina",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2093&mlon=12.7289#map=15/42.2093/12.7289",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2093,
+    "longitude": 12.7289
+  },
+  "url": "http://www.principisabini.it",
+  "telephone": "+39 07652770321",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da mart. a dom. 9,00-13,00 merc. solo su prenotazione venerdì 14,00-18,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xnDc8wiAvEj3PDnKUs0d2mDlQOg=/1000x1000/museums/logos/000/186/440/original/d561e8b981f3f734f83b4d4dfcc73f79920175d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101461",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

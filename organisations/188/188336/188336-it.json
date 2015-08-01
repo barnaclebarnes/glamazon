@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188336
+  },
+  "name": "Casa museo di Antonio Gramsci - Centro di documentazione, ricerca e attività museale onlus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Umberto I, 36",
+    "addressLocality": "Ghilarza",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1238&mlon=8.83809#map=15/40.1238/8.83809",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1238,
+    "longitude": 8.83809
+  },
+  "url": "http://www.casagramscighilarza.org",
+  "telephone": "+39 0785 54164",
+  "contactPoint": [
+
+  ],
+  "openingHours": "il sabato e la domenica dalle 10,00 alle 13,00 e dalle 15.30 alle 18.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IbVRMizZv5FMLPJmbkZi8PsExSY=/1000x1000/museums/logos/000/188/336/original/c6bc5f95a82dbe456b491b94369766c63a3c19b.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103403",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

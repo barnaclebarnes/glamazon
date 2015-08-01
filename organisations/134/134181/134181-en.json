@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134181
+  },
+  "name": "FRIENDS OF THE DELAWARE ARCHIVES INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 287",
+    "addressLocality": "FREDERICA",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19946-0287"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.158&mlon=-75.5233#map=15/39.158/-75.5233",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.158,
+    "longitude": -75.5233
+  },
+  "url": "http://archives.delaware.gov/friends.shtml",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000113",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

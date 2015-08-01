@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187134
+  },
+  "name": "Museo d'arte e tradizione contadina di Olevano di Lomellina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Uberto Da Olevano, 3",
+    "addressLocality": "Olevano di Lomellina",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2127&mlon=8.71578#map=15/45.2127/8.71578",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2127,
+    "longitude": 8.71578
+  },
+  "url": "http://www.olevanolomellina.it/museo",
+  "telephone": "+39 0381690370",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0sxXrK8JdINvA9YsFP7VDh6TP3c=/1000x1000/museums/logos/000/187/134/original/cd727add6d3514e8d95dd43e2cb5994186a54c7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103769",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

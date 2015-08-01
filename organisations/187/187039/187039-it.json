@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187039
+  },
+  "name": "Museo civico Carlo Verri di Binasco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Martino, 1",
+    "addressLocality": "Binasco",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3213&mlon=9.13523#map=15/45.3213/9.13523",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3213,
+    "longitude": 9.13523
+  },
+  "url": "http://www.museobiassono.it",
+  "telephone": "+39 039220101",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Venerdi 9.30/12.00 e 15.00/18.30 Sabato 15.00/19.00 Altri gg.: su richiesta",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103675",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

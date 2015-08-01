@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134263
+  },
+  "name": "THE INTERNATIONAL SPY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 F STREET",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20004"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8972&mlon=-77.0236#map=15/38.8972/-77.0236",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8972,
+    "longitude": -77.0236
+  },
+  "url": "http://www.spymuseum.org/",
+  "telephone": "+1 (101) 393-7798",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/InternationalSpyMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/IntlSpyMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100044",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

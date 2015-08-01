@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153010
+  },
+  "name": "CINCINNATI OBSERVATORY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3489 OBSERVATORY PL",
+    "addressLocality": "CINCINNATI",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45208-2563"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1384&mlon=-84.4227#map=15/39.1384/-84.4227",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1384,
+    "longitude": -84.4227
+  },
+  "url": "http://www.cincinnatiobservatory.org",
+  "telephone": "+1 (513) 321-5186",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900787",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

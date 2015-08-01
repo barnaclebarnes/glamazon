@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186809
+  },
+  "name": "Museo etnografico della Torre",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via. S. Maria, 10",
+    "addressLocality": "Albino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7696&mlon=9.80815#map=15/45.7696/9.80815",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7696,
+    "longitude": 9.80815
+  },
+  "telephone": "+39 035753710",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1GlMSqmE0QThDCR9CxBFLScXjC4=/1000x1000/museums/logos/000/186/809/original/47f57a8ffd5991a58a45b7a68e4b3136db2b1be.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103497",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

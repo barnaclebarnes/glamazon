@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189059
+  },
+  "name": "Museo archeologico dell'Ato Adige",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Museo, 43",
+    "addressLocality": "Bolzano/Bozen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5&mlon=11.3496#map=15/46.5/11.3496",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5,
+    "longitude": 11.3496
+  },
+  "url": "http://www.iceman.it",
+  "telephone": "+39 0471320100",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì - domenica: ore 10.00 - 18.00.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 9.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4SyJ6LQr09SgFu8NI7_kOxXLPvI=/1000x1000/museums/logos/000/189/059/original/e3d18b9b79ae0d9139e6035ca182ed73a1affb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100518",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

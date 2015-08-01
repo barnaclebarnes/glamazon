@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188055
+  },
+  "name": "Museo De Romita",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Cavour, 249",
+    "addressLocality": "Bari",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1184&mlon=16.8727#map=15/41.1184/16.8727",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1184,
+    "longitude": 16.8727
+  },
+  "telephone": "+39 0805240095",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vO9dS7zFCw5NibCGVg5xUKwrqos=/1000x1000/museums/logos/000/188/055/original/819ecb4654619c27d5be93d7133253c13a472db4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102305",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186249
+  },
+  "name": "Museo dell'arte fabbrile e delle coltellerie",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mestri del Lavoro, 1",
+    "addressLocality": "Maniago",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1651&mlon=12.7066#map=15/46.1651/12.7066",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1651,
+    "longitude": 12.7066
+  },
+  "telephone": "+39 0427709063",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RSQgsLNzAy18WNQEDnIsYzRIQlQ=/1000x1000/museums/logos/000/186/249/original/e2921a9b3d817e22eaac218b3937d34e96c8a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100201",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

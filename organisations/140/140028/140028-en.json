@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140028
+  },
+  "name": "AUGUSTA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "303 STATE ST",
+    "addressLocality": "AUGUSTA",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67010-1103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6737&mlon=-96.979#map=15/37.6737/-96.979",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6737,
+    "longitude": -96.979
+  },
+  "url": "http://www.augustahistoricalsociety.net",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000354",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

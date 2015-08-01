@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142332
+  },
+  "name": "COASTAL HERITAGE ALLIANCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 313",
+    "addressLocality": "ST MICHAELS",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21663-0313"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7845&mlon=-76.2241#map=15/38.7845/-76.2241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7845,
+    "longitude": -76.2241
+  },
+  "url": "http://coastalheritage.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400625",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

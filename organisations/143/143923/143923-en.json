@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143923
+  },
+  "name": "HISTORICAL SOCIETY OF MICHIGAN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5815 EXECUTIVE DRIVE",
+    "addressLocality": "LANSING",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48911-5340"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6731&mlon=-84.5346#map=15/42.6731/-84.5346",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6731,
+    "longitude": -84.5346
+  },
+  "url": "http://hsmichigan.org",
+  "telephone": "+1 (517) 324-1828",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600460",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

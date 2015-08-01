@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186343
+  },
+  "name": "Centro etnografico \"S Haus Van Der Zahre\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sauris di Sopra, 3/A",
+    "addressLocality": "Sauris",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4665&mlon=12.7077#map=15/46.4665/12.7077",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4665,
+    "longitude": 12.7077
+  },
+  "telephone": "+39 043386262",
+  "contactPoint": [
+
+  ],
+  "openingHours": "giov. e ven. 10.00/12.00 e 16.00/18.00; sab. e dom. 10.00/ 12.00 e 15.00/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-ptI35_eOk_nTuh3GXH2_E7faFQ=/1000x1000/museums/logos/000/186/343/original/f341634096469e92468a177dbcd331f542ea77.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100313",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

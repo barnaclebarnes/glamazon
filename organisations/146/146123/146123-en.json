@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146123
+  },
+  "name": "CHESTERFIELD ARTS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17905 WILD HORSE CREEK RD",
+    "addressLocality": "CHESTERFIELD",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63005-3613"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6488&mlon=-90.6474#map=15/38.6488/-90.6474",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6488,
+    "longitude": -90.6474
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900552",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

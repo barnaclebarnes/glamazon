@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163830
+  },
+  "name": "Department of Transport Library",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8128&mlon=144.97#map=15/-37.8128/144.97",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8128,
+    "longitude": 144.97
+  },
+  "url": "http://www.transport.vic.gov.au/services/library",
+  "telephone": "+61 3 9655 8600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "department-transport-library",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/department-transport-library",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

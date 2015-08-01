@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162229
+  },
+  "name": "WOODLAND PARK ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "601 N 59TH ST",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98103-5858"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6717&mlon=-122.351#map=15/47.6717/-122.351",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6717,
+    "longitude": -122.351
+  },
+  "url": "http://www.zoo.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300678",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

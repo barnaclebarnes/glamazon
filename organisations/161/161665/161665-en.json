@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161665
+  },
+  "name": "EMP MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "325 5TH AVE N",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6214&mlon=-122.348#map=15/47.6214/-122.348",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6214,
+    "longitude": -122.348
+  },
+  "url": "http://www.empmuseum.org",
+  "telephone": "+1 (206) 770-2700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300114",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

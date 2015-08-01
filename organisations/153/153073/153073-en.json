@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153073
+  },
+  "name": "DAYTON HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 CARILLON BLVD",
+    "addressLocality": "DAYTON",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45409-2023"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7316&mlon=-84.1965#map=15/39.7316/-84.1965",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7316,
+    "longitude": -84.1965
+  },
+  "url": "http://www.daytonhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900850",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

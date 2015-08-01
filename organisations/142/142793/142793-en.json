@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142793
+  },
+  "name": "ADAMS HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "92 PARK ST",
+    "addressLocality": "ADAMS",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01220-2096"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6237&mlon=-73.1199#map=15/42.6237/-73.1199",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6237,
+    "longitude": -73.1199
+  },
+  "url": "http://www.adamshistorical.us",
+  "telephone": "+1 (413) 743-1799",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500423",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187322
+  },
+  "name": "Museo ittico \"A. Capriotti\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Banchina di Riva Malfizia, 19",
+    "addressLocality": "San Benedetto del Tronto",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.961&mlon=13.8746#map=15/42.961/13.8746",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.961,
+    "longitude": 13.8746
+  },
+  "url": "http://www.museoitticocapriotti.com",
+  "telephone": "+39 0735588550",
+  "contactPoint": [
+
+  ],
+  "openingHours": "16 settembre - 14 giugno: Venerdì, sabato e domenica dalle 10:00 alle 13:00 e dalle 15.30 alle 18.30 15 giugno - 15 settembre: dalle 18:00 alle 24:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "per singola sezione museale € 2,00 per i complessivi € 5,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ttSos6Xwoz4x5NqHtXMVpO1IQ_A=/1000x1000/museums/logos/000/187/322/original/f0b5caa5318168cd18ae56e189c7b2b76658ac55.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104149",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

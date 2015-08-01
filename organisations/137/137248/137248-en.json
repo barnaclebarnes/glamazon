@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137248
+  },
+  "name": "MIDWEST ARCHIVES CONFERENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "210 W GREEN ST",
+    "addressLocality": "URBANA",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61801-3953"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1108&mlon=-88.2092#map=15/40.1108/-88.2092",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1108,
+    "longitude": -88.2092
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700393",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

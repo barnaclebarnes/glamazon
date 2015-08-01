@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188508
+  },
+  "name": "Museo civico selinuntino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, 50",
+    "addressLocality": "Castelvetrano",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6344&mlon=12.7455#map=15/37.6344/12.7455",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6344,
+    "longitude": 12.7455
+  },
+  "telephone": "+39 0924909605",
+  "contactPoint": [
+
+  ],
+  "openingHours": "09:00 – 13:00, 15:00 - 18:30 (lunedì - sabato) 09:00 - 13:00 (domenica e festivi)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eA0UBADZqDFdOz-zNsaa8a2AKzs=/1000x1000/museums/logos/000/188/508/original/c78b39cc55557f7dd2b5bde1c5a34b92d19a9a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104013",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

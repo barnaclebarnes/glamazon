@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186339
+  },
+  "name": "Raccolta etnografica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "San Giorgio di Resia, ",
+    "addressLocality": "Resia",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.3779&mlon=13.2861#map=15/46.3779/13.2861",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.3779,
+    "longitude": 13.2861
+  },
+  "url": "http://www.rezija.com",
+  "telephone": "+39 043353428",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/slNYkZ4QBnK9yUnhLq97ZU9811Q=/1000x1000/museums/logos/000/186/339/original/ef4c1dab518ce679d2c254034bfee6ab3b9bef.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100307",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

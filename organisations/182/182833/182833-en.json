@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182833
+  },
+  "name": "Heimatmuseum Gundremmingen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausplatz 1",
+    "addressLocality": "Gundremmingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89355"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5005&mlon=10.4043#map=15/48.5005/10.4043",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5005,
+    "longitude": 10.4043
+  },
+  "url": "http://www.gundremmingen.de",
+  "telephone": "08224/96800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182833",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

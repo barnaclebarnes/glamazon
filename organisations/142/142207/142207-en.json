@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142207
+  },
+  "name": "WYE GRIST MILL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 277",
+    "addressLocality": "WYE MILLS",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21679-0277"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9409&mlon=-76.0808#map=15/38.9409/-76.0808",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9409,
+    "longitude": -76.0808
+  },
+  "url": "http://www.oldwyemill.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400500",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

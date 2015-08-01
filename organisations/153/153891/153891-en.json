@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153891
+  },
+  "name": "BILLBOARD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 446",
+    "addressLocality": "BETHANY",
+    "addressRegion": "OK",
+    "addressCountry": "United States",
+    "postalCode": "73008-0446"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.5079&mlon=-97.6401#map=15/35.5079/-97.6401",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.5079,
+    "longitude": -97.6401
+  },
+  "url": "http://billboardmuseum.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404000245",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

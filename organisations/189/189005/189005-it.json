@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189005
+  },
+  "name": "Museo della Vernaccia di San Gimignano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "della Rocca, ",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4682&mlon=11.0419#map=15/43.4682/11.0419",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4682,
+    "longitude": 11.0419
+  },
+  "telephone": "+39 0577940008",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110013",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

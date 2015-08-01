@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185678
+  },
+  "name": "Museo diocesano d’arte sacra di Acerenza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo del Seminario, 2",
+    "addressLocality": "Acerenza",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7965&mlon=15.9397#map=15/40.7965/15.9397",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7965,
+    "longitude": 15.9397
+  },
+  "telephone": "+39 0971749221; 0971741299",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TlO1kvKAzXtRsYvBmPBh2foOGR4=/1000x1000/museums/logos/000/185/678/original/aac4d28febeab17eb335e68ec83ee8aeb63a24e9.gif"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104883",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

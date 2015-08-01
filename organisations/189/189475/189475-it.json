@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189475
+  },
+  "name": "Museo di storia naturale Brandolini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Brandolini, 6",
+    "addressLocality": "Oderzo",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7724&mlon=12.4886#map=15/45.7724/12.4886",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7724,
+    "longitude": 12.4886
+  },
+  "telephone": "+39 0422712041",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1rcvMqFURvPC0dZXGyI0BGygoUE=/1000x1000/museums/logos/000/189/475/original/e6c18a5f41d7565fffcbbd59c7d4c8b53ab68d.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100981",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

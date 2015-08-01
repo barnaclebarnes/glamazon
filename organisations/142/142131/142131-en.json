@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142131
+  },
+  "name": "THE OXFORD MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 131",
+    "addressLocality": "OXFORD",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21654-0131"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6891&mlon=-76.1728#map=15/38.6891/-76.1728",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6891,
+    "longitude": -76.1728
+  },
+  "url": "http://www.oxfordmuseum.org/",
+  "telephone": "+1 (410) 226-0191",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400424",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

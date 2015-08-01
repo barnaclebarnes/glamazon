@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160450
+  },
+  "name": "BETHEL HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 25",
+    "addressLocality": "BETHEL",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05032"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8318&mlon=-72.6402#map=15/43.8318/-72.6402",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8318,
+    "longitude": -72.6402
+  },
+  "url": "http://bethelvermont.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000256",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

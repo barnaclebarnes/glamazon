@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189377
+  },
+  "name": "Museo parrocchiale di Arnad",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Arnad Levieux, 40",
+    "addressLocality": "Arnad",
+    "addressRegion": "Valle d'Aosta/Vallée d'Aoste",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7389&mlon=7.42619#map=15/45.7389/7.42619",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7389,
+    "longitude": 7.42619
+  },
+  "telephone": "+39 0125966116",
+  "contactPoint": [
+
+  ],
+  "openingHours": "a richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100814",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

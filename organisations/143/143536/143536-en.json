@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143536
+  },
+  "name": "MICHIGAN HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "702 W. KALAMAZOO",
+    "addressLocality": "LANSING",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48909"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.73&mlon=-84.5624#map=15/42.73/-84.5624",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.73,
+    "longitude": -84.5624
+  },
+  "url": "http://www.michigan.gov/mhc/,4726,7-282-618_62766---,.html",
+  "telephone": "+1 (517) 373-3559",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/MichiganHistoricalMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600073",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150639
+  },
+  "name": "SONNENBERG GARDENS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "151 CHARLOTTE ST",
+    "addressLocality": "CANANDAIGUA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14424-1363"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.897&mlon=-77.2751#map=15/42.897/-77.2751",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.897,
+    "longitude": -77.2751
+  },
+  "url": "http://www.sonnenberg.org",
+  "telephone": "+1 (585) 394-4922",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601933",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

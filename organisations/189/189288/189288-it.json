@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189288
+  },
+  "name": "Museo della scuola chirurgica preciana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza G. Marconi",
+    "addressLocality": "Preci",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8866&mlon=12.9227#map=15/42.8866/12.9227",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8866,
+    "longitude": 12.9227
+  },
+  "url": "http://www.musei.regioneumbria.eu",
+  "telephone": "+39 0743 93781",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da lunedì a venerdì dalle 8.00 alle 14.00, il martedì e giovedì anche dalle 15.00 alle 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/N3gPBzOVXPjQCUKGHv4dpy65BGc=/1000x1000/museums/logos/000/189/288/original/c4728fad18cad2acee86c5c4defe5d7775d723d6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111987",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

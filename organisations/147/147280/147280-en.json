@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147280
+  },
+  "name": "FROST PLACE",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2122&mlon=-71.757#map=15/44.2122/-71.757",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2122,
+    "longitude": -71.757
+  },
+  "url": "http://frostplace.org/museum/",
+  "telephone": "+1 (802) 356-2234",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300055",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

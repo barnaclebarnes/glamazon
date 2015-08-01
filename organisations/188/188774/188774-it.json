@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188774
+  },
+  "name": "Pinacoteca comunale Carlo Servolini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Umberto I, 63-65",
+    "addressLocality": "Collesalvetti",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5916&mlon=10.4757#map=15/43.5916/10.4757",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5916,
+    "longitude": 10.4757
+  },
+  "telephone": "+39 0586980255",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/o3FprG5i0uo1KvGvLhAaDqG3DjE=/1000x1000/museums/logos/000/188/774/original/a87caf364e7b32fc5fb57ed7998c34c27b8ea.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105384",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

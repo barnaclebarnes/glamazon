@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143010
+  },
+  "name": "GROTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 202",
+    "addressLocality": "GROTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01450-0202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.603&mlon=-71.5663#map=15/42.603/-71.5663",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.603,
+    "longitude": -71.5663
+  },
+  "url": "http://www.grotonhistoricalsociety.org",
+  "telephone": "+1 (978) 448-2046",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500640",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

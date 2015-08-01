@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186548
+  },
+  "name": "Museo dei Fori Imperiali nei mercati di Traiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "IV Novembre, 94",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8961&mlon=12.486#map=15/41.8961/12.486",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8961,
+    "longitude": 12.486
+  },
+  "url": "http://www.mercatiditraiano.it",
+  "telephone": "+39 060608",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CZPUsjDBDN92gGmy__W419lW5iI=/1000x1000/museums/logos/000/186/548/original/3dfbcce41a3c11f2357fc48a3ca5e92ce92c49.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108178",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

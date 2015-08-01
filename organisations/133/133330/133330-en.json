@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133330
+  },
+  "name": "FRIENDS OF THE GREELEY MUSEUMS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "714 8TH ST",
+    "addressLocality": "GREELEY",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80631"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4249&mlon=-104.69#map=15/40.4249/-104.69",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4249,
+    "longitude": -104.69
+  },
+  "url": "http://greeleymuseums.com/",
+  "telephone": "+1 (970) 350-9220",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800506",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

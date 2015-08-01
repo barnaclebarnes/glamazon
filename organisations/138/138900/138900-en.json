@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138900
+  },
+  "name": "HISTORIC MIDDLETOWN INCORPORATED",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 54",
+    "addressLocality": "MIDDLETOWN",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "47356-4735"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0562&mlon=-85.5326#map=15/40.0562/-85.5326",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0562,
+    "longitude": -85.5326
+  },
+  "url": "http://historicmiddletown.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800686",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

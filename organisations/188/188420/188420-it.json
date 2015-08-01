@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188420
+  },
+  "name": "Casa della memoria e delle arti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Maria dei Greci, 121",
+    "addressLocality": "Vizzini",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1609&mlon=14.7469#map=15/37.1609/14.7469",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1609,
+    "longitude": 14.7469
+  },
+  "telephone": "+39 0933965675",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni di mattina dalle ore 9,30 alle 12,30, e il pomeriggio dalle ore 17,00 alle 20,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZxIbZU6f7bo8s8U_cDsy-M7Lndg=/1000x1000/museums/logos/000/188/420/original/d72cc26a0c4df4162ee4a9f7b4494cf99d39114.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101232",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

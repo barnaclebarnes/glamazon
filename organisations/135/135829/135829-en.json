@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135829
+  },
+  "name": "COLUMBUS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1251 WYNNTON ROAD",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "31906-2898"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.4663&mlon=-84.9745#map=15/32.4663/-84.9745",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.4663,
+    "longitude": -84.9745
+  },
+  "telephone": "+1 (404) 649-0713",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300100",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

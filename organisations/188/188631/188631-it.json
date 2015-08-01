@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188631
+  },
+  "name": "Museo \"Firenze com'era\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "dell`Oriuolo, 24",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7723&mlon=11.2602#map=15/43.7723/11.2602",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7723,
+    "longitude": 11.2602
+  },
+  "url": "http://www.comune.fi.it/citta/arte/musei",
+  "telephone": "+39 0552616545",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/S_jkdq3ad-yQGS5J_0wNQIRt6zU=/1000x1000/museums/logos/000/188/631/original/cefd6c8d5b519ebe66feeefff31ca5b3a7e256.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102947",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

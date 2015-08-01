@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131595
+  },
+  "name": "SACRAMENTO POLICE-SHERIFFS MEMORIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "550 BERCUT DRIVE",
+    "addressLocality": "SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95811-0109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5999&mlon=-121.501#map=15/38.5999/-121.501",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5999,
+    "longitude": -121.501
+  },
+  "url": "http://www.sacmemorial.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601721",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

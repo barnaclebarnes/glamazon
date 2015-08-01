@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147658
+  },
+  "name": "PATERSON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 MARKET STREET",
+    "addressLocality": "PATERSON",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "07501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9136&mlon=-74.1792#map=15/40.9136/-74.1792",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9136,
+    "longitude": -74.1792
+  },
+  "telephone": "+1 (201) 881-3874",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400026",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

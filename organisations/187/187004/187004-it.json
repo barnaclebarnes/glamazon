@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187004
+  },
+  "name": "Museo civico e pinacoteca di Lodi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": ", ?",
+    "addressLocality": "Lodi",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3129&mlon=9.49785#map=15/45.3129/9.49785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3129,
+    "longitude": 9.49785
+  },
+  "url": "http://www.comune.lodi.it",
+  "telephone": "+39 numero di telefono non disponibile",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106868",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

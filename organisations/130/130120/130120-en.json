@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130120
+  },
+  "name": "MORGAN HILL HISTORICAL SOCIETY MORGAN HILL HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17860 MONTEREY ST",
+    "addressLocality": "MORGAN HILL",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95037"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1345&mlon=-121.658#map=15/37.1345/-121.658",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1345,
+    "longitude": -121.658
+  },
+  "url": "http://www.morganhill.org",
+  "telephone": "+1 (408) 779-5755",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FU2RZEa186Rjryq9PGJ1TTfdo2k=/1000x1000/museums/logos/000/130/120/original/USA-Morgan_Hill-El_Toro_Hill-1.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:EugeneZelenko\" title=\"User:EugeneZelenko\">Eugene Zelenko</a>",
+    "license": "GFDL"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Morgan_Hill,_California",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600246",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

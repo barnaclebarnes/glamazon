@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150350
+  },
+  "name": "BROOKLYN CITY STREETCAR COMPANY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1360 OCEAN PARKWAY STE 6L",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11230-5623"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6155&mlon=-73.9691#map=15/40.6155/-73.9691",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6155,
+    "longitude": -73.9691
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601644",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

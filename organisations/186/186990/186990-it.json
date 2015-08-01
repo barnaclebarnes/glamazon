@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186990
+  },
+  "name": "Galleria comunale d’arte di Lecco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Don Guanella, 1",
+    "addressLocality": "Lecco",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.853&mlon=9.39007#map=15/45.853/9.39007",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.853,
+    "longitude": 9.39007
+  },
+  "url": "http://www.museilecco.org",
+  "telephone": "+39 0341 481247",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/F-8HKQShZChK7WDvWRQWE1O3F7Q=/1000x1000/museums/logos/000/186/990/original/c79d6457764a6ffcd83872546115f557f3edd0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106891",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

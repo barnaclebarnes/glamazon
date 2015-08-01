@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151997
+  },
+  "name": "RALEIGH CITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "220 FAYETTEVILLE ST STE 100",
+    "addressLocality": "RALEIGH",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27601-1358"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.7776&mlon=-78.6393#map=15/35.7776/-78.6393",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.7776,
+    "longitude": -78.6393
+  },
+  "url": "http://www.raleighcitymuseum.org",
+  "telephone": "+1 (919) 832-3775",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/115222483577"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700868",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

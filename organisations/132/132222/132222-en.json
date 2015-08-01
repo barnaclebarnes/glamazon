@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132222
+  },
+  "name": "SAUSALITO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "420 LITHO ST",
+    "addressLocality": "SAUSALITO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94965-1933"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8595&mlon=-122.488#map=15/37.8595/-122.488",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8595,
+    "longitude": -122.488
+  },
+  "url": "http://www.sausalitohistoricalsociety.com",
+  "telephone": "+1 (415) 289-4117",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602348",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

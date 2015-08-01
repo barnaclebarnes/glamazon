@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188195
+  },
+  "name": "Museum of the Environment (Science and Nature History)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via per Monteroni, Centro Ecotekne, ",
+    "addressLocality": "Lecce",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3515&mlon=18.175#map=15/40.3515/18.175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3515,
+    "longitude": 18.175
+  },
+  "url": "http://www.siba3.unile.it/ctle/mda/",
+  "telephone": "+39 0832361176",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Tc7QlidE4yw753vkhagPvBU8PKE=/1000x1000/museums/logos/000/188/195/original/7e952bd9d87a9fdcd363342ee9b7ab906e192c7e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105105",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

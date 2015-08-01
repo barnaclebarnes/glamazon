@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186450
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vittorio Emanuele II, 2",
+    "addressLocality": "Rieti",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4026&mlon=12.8609#map=15/42.4026/12.8609",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4026,
+    "longitude": 12.8609
+  },
+  "url": "http://www.comune.rieti.it",
+  "telephone": "+39 0746287212",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9wcBMZ_MNvqBchWFRxcREoL7pBE=/1000x1000/museums/logos/000/186/450/original/9338da9d2a61495be65cb081d4da9b748a88f8e9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101473",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

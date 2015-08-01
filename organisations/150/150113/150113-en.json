@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150113
+  },
+  "name": "FORT BREWERTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 392",
+    "addressLocality": "BREWERTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13029"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2286&mlon=-76.1434#map=15/43.2286/-76.1434",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2286,
+    "longitude": -76.1434
+  },
+  "url": "http://www.fortbrewerton.org",
+  "telephone": "+1 (315) 668-8801",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601407",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

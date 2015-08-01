@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183527
+  },
+  "name": "Kaiserin Elisabeth Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßberg 2",
+    "addressLocality": "Pöcking",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82343"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9619&mlon=11.3068#map=15/47.9619/11.3068",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9619,
+    "longitude": 11.3068
+  },
+  "url": "http://www.kaiserin-elisabeth-museum-ev.de",
+  "telephone": "08157/925932",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183527",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

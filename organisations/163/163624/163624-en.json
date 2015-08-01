@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163624
+  },
+  "name": "Ansett Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7421&mlon=142.035#map=15/-37.7421/142.035",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7421,
+    "longitude": 142.035
+  },
+  "url": "http://www.ansettmuseum.com.au/",
+  "telephone": "03 5571 2767",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Open Daily, 10:00 am to 4:00 pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "ansett-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/ansett-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

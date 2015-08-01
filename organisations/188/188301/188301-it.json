@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188301
+  },
+  "name": "Museo archeologico nazionale G. Asproni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Manno, 1",
+    "addressLocality": "Nuoro",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.328&mlon=9.30896#map=15/40.328/9.30896",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.328,
+    "longitude": 9.30896
+  },
+  "url": "http://www.museoarcheologiconuoro.beniculturali.it/",
+  "telephone": "+39 0784 31688",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00- 13.00 / 15.00-17.00 (martedì e giovedì) 9.00-13.00 (mercoledì,venerdì e sabato)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/S_0IMyQX7-D1XAwW89ywv_P2gQs=/1000x1000/museums/logos/000/188/301/original/8ce0f4ddf7bb198bd657a095fe74efb7b49ecd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106495",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

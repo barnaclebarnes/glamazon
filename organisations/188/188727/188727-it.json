@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188727
+  },
+  "name": "Museo multimediale della Casa Rossa Ximenes",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "S.S. 322",
+    "addressLocality": "Castiglione della Pescaia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7639&mlon=10.875#map=15/42.7639/10.875",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7639,
+    "longitude": 10.875
+  },
+  "url": "http://www.museidimaremma.it",
+  "telephone": "+39 0564 20298 - 484581 - 348 7743201 - 389 0031369",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal 15 giugno al 15 settembre dal martedì alla domenica dalle ore 15.30 alle ore 20.30; dal 16 settembre al 14 giugno dal giovedì alla domenica dalle ore 15.00 al tramonto",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50 €;ingresso Museo + Escursione in barchino all'interno della Riserva Naturale Provinciale Diaccia Botrona:12,00 € adulti; 10,00 € gruppi (oltre 10 persone), over 65; € 6,00 bambini da 4 a 12 anni"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cQgBlgOYiJVE7RthI6RvlzxfGqs=/1000x1000/museums/logos/000/188/727/original/2cb5a4633622fb219ca96914dee9e8243cf6211b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111849",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

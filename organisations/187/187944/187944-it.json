@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187944
+  },
+  "name": "Museo nazionale del Risorgimento italiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Accademia delle Scienze, 5, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0688&mlon=7.68476#map=15/45.0688/7.68476",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0688,
+    "longitude": 7.68476
+  },
+  "url": "http://www.museorisorgimentotorino.it/",
+  "telephone": "+39 0115621147",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102772",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

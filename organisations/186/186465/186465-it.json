@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186465
+  },
+  "name": "Museo civico di Bracciano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Umberto I, 5",
+    "addressLocality": "Bracciano",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1036&mlon=12.1768#map=15/42.1036/12.1768",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1036,
+    "longitude": 12.1768
+  },
+  "url": "http://www.culturalazio.it/musei/bracciano/",
+  "telephone": "+39 0699805106",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 15/09 al 31/05: da martedì a venerdì ore 9/13; sabato, domenica e festivi ore 10/18. dal 1/06 al 14/09: da martedì a venerdì ore 17/20 sabato, domenica e festivi ore 10/13 e 17/20",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/d3Vx4rGMNdT-WiQ_b1OWJrxDjjI=/1000x1000/museums/logos/000/186/465/original/30da35c7df521d4f86560e63a7df4637cb0ef.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101482",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

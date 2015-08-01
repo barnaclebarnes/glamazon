@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189070
+  },
+  "name": "Castel Tures (Burg Taufers)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Winkel , 4",
+    "addressLocality": "Campo Tures/Sand in Taufers",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.9196&mlon=11.952#map=15/46.9196/11.952",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.9196,
+    "longitude": 11.952
+  },
+  "url": "http://www.burgeninstitut.com",
+  "telephone": "+39 0474678053",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "Visita con guida 7,00 € Visita della parte esterna senza guida 3,00 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/20BeFvWdb_3_Zj-m1k87gX3ljTo=/1000x1000/museums/logos/000/189/070/original/afaab98e9348ad3894c33774be12b2eb5ff887.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100530",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

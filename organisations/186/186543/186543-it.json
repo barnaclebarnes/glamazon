@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186543
+  },
+  "name": "Museo Canova Tadolini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Del Babuino, 150/A",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9077&mlon=12.4798#map=15/41.9077/12.4798",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9077,
+    "longitude": 12.4798
+  },
+  "url": "http://www.museoateliercanovatadolini.it",
+  "telephone": "+39 06 32110702",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì-sabato ore 8.00/20.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/oQ4fzmhZ7HXzLPd7HLM027znJvU=/1000x1000/museums/logos/000/186/543/original/1783f8b2dd5e32e5c693a8992e1021574e4efcc3.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103960",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

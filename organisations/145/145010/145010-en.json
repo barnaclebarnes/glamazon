@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145010
+  },
+  "name": "MINNESOTA AMATEUR BASEBALL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 7705",
+    "addressLocality": "SAINT CLOUD",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "56302-7705"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.561&mlon=-94.1645#map=15/45.561/-94.1645",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.561,
+    "longitude": -94.1645
+  },
+  "telephone": "+1 (320) 251-6961",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700450",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188407
+  },
+  "name": "Casa museo di arte contemporanea \"Antonio Cannata\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale XX Settembre, 8",
+    "addressLocality": "Militello in Val di Catania",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2762&mlon=14.7929#map=15/37.2762/14.7929",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2762,
+    "longitude": 14.7929
+  },
+  "url": "http://www.antoniocannata.it",
+  "telephone": "+39 095656609",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/skEGKtFuF-GIbljx7M-9axW6quI=/1000x1000/museums/logos/000/188/407/original/9462493bad88a1a7827f3cf3cc9678d4ede9fa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101214",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

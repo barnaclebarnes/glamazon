@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189516
+  },
+  "name": "Sale monumentali della Biblioteca nazionale Marciana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Marco (Ala napoleonica: ingresso dal Museo Correr)",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4341&mlon=12.3345#map=15/45.4341/12.3345",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4341,
+    "longitude": 12.3345
+  },
+  "url": "http://marciana.venezia.sbn.it/",
+  "telephone": "+39 041.2407223",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni. Dal 1° aprile al 31 ottobre: dalle 10 alle 19. Dal 1 novembre al 31 marzo: dalle 10.00 alle 17.00. Chiuso il 25 dicembre e il 1° gennaio.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "16.00 euro Biglietto del Percorso integrato dei Musei di Piazza San Marco (che comprende: Palazzo Ducale, Museo Correr, Museo Archeologico Nazionale e Sale Monumentali della Biblioteca Nazionale Marciana)."
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JgHDaQggSNFgGkdS92zv25tT_n8=/1000x1000/museums/logos/000/189/516/original/b07f4b31b3367d1bfd6b339d32cec312ff98393.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "113127",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

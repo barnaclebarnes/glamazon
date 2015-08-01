@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189540
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Castelvecchio, 2",
+    "addressLocality": "Verona",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4393&mlon=10.9881#map=15/45.4393/10.9881",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4393,
+    "longitude": 10.9881
+  },
+  "url": "http://www.comune.verona.it/castelvecchio/cvsito",
+  "telephone": "+39 0458062611",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BDuB2iEchyj0_gyncg-dStp1t5s=/1000x1000/museums/logos/000/189/540/original/634994d5bb14576d082634d7c554583c85ce869.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101151",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

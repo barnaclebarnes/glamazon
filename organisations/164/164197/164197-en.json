@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164197
+  },
+  "name": "Point Cook Coastal Park & Historic Homestead",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9205&mlon=144.784#map=15/-37.9205/144.784",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9205,
+    "longitude": 144.784
+  },
+  "url": "http://parkweb.vic.gov.au/explore/parks/point-cook-coastal-park",
+  "telephone": "131 963",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "point-cook-coastal-park-historic-homestead",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/point-cook-coastal-park-historic-homestead",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

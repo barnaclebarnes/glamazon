@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130023
+  },
+  "name": "PALM SPRINGS DESERT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 MUSEUM DR.",
+    "addressLocality": "PALM SPRINGS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92262"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8249&mlon=-116.549#map=15/33.8249/-116.549",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8249,
+    "longitude": -116.549
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nrseTwhVyKZuQjEp_2dW9el4i34=/1000x1000/museums/logos/000/130/023/original/Palm_Springs_Art_Museum.jpg",
+    "license": "CC0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Palm_Springs_Art_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600149",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

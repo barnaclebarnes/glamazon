@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132446
+  },
+  "name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1200 E CALIFORNIA BLVD",
+    "addressLocality": "PASADENA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91125"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1359&mlon=-118.128#map=15/34.1359/-118.128",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1359,
+    "longitude": -118.128
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602572",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

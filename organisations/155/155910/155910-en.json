@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155910
+  },
+  "name": "ERIE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "411 STATE ST",
+    "addressLocality": "ERIE",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "16501-1106"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1313&mlon=-80.0864#map=15/42.1313/-80.0864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1313,
+    "longitude": -80.0864
+  },
+  "url": "http://www.erieartmuseum.org",
+  "telephone": "+1 (814) 459-5477",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201104",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163810
+  },
+  "name": "Cornish College",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.0469&mlon=145.15#map=15/-38.0469/145.15",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.0469,
+    "longitude": 145.15
+  },
+  "url": "http://www.cornishcollege.vic.edu.au/",
+  "telephone": "9773 1011",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Archive open by appointment",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "cornish-college",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/cornish-college",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

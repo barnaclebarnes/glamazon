@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189099
+  },
+  "name": "Mondo treno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Gerold, 3",
+    "addressLocality": "Parcines/Partschins",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6696&mlon=11.0597#map=15/46.6696/11.0597",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6696,
+    "longitude": 11.0597
+  },
+  "url": "http://www.eisenbahnwelt.eu",
+  "telephone": "+39 +39 0473 521460",
+  "contactPoint": [
+
+  ],
+  "openingHours": "- 4/9 - 11 2014 da martedi alla domenica 10.00 - 17.00 dal 10-11-2014 fino natale aperto solo le domeniche dal 26 dicembre fino al 6 gennaio 2015 sempre aperto",
+  "offers": {
+    "@Type": "Offer",
+    "description": "vedi note"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IulJdNhO3TIVBs_xFzepEOA4yFY=/1000x1000/museums/logos/000/189/099/original/9abd9e196fe1d83c3054a9ea40b2d4f9c8b760.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111943",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183821
+  },
+  "name": "Stadtmuseum Waldkraiburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Braunauer Straße 10",
+    "addressLocality": "Waldkraiburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84478"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2077&mlon=12.4065#map=15/48.2077/12.4065",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2077,
+    "longitude": 12.4065
+  },
+  "url": "http://www.museum-waldkraiburg.de/",
+  "telephone": "08638/959335",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183821",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

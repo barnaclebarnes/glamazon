@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158113
+  },
+  "name": "HOUSTON POLICE ACADEMY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17000 ALDINE WESTFIELD RD",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77073"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9682&mlon=-95.3641#map=15/29.9682/-95.3641",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9682,
+    "longitude": -95.3641
+  },
+  "telephone": "+1 (281) 230-2300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800213",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

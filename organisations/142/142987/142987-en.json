@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142987
+  },
+  "name": "MILTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1370 CANTON AVE",
+    "addressLocality": "MILTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02186-2435"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2343&mlon=-71.109#map=15/42.2343/-71.109",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2343,
+    "longitude": -71.109
+  },
+  "url": "http://www.miltonhistoricalsociety.org",
+  "telephone": "+1 (617) 333-9700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500617",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

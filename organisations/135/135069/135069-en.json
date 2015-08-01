@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135069
+  },
+  "name": "PIAG MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 163209",
+    "addressLocality": "MIAMI",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33116-3209"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.6721&mlon=-80.3732#map=15/25.6721/-80.3732",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.6721,
+    "longitude": -80.3732
+  },
+  "url": "http://www.piagmuseum.org",
+  "telephone": "+1 (305) 443-0770",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200623",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

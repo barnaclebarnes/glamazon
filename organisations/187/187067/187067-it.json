@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187067
+  },
+  "name": "Museo Cappuccini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via A. Kramer, 5",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.469&mlon=9.20854#map=15/45.469/9.20854",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.469,
+    "longitude": 9.20854
+  },
+  "url": "http://www.bccmuseum.org",
+  "telephone": "+39 02 77122321",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Martedi dalle ore 10,00 alle ore 18,30 ultimo ingresso alle ore 18,00 Da mercoledi a sabato dalle ore 13,30 alle ore 18,00 ultimo ingresso alle ore 17,30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103704",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

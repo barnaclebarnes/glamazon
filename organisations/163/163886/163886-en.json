@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163886
+  },
+  "name": "Furphy's Foundry",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.3719&mlon=145.423#map=15/-36.3719/145.423",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.3719,
+    "longitude": 145.423
+  },
+  "url": "http://www.furphyfoundry.com.au",
+  "telephone": "(03) 5831 2777",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "furphys-foundry",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/furphys-foundry",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

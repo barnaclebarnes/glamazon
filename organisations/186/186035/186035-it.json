@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186035
+  },
+  "name": "Museo storico archeologico di Nola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Senatore Cocozza,  2",
+    "addressLocality": "Nola",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9253&mlon=14.5302#map=15/40.9253/14.5302",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9253,
+    "longitude": 14.5302
+  },
+  "url": "http://sbanap.campaniabeniculturali.it",
+  "telephone": "+39 +39.081.5127184 (Ufficio per i beni archeologici di Nola)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Giorni feriali e festivi: 9.00-19.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mHiQ_MIANp6ePZof50Y5mgisSew=/1000x1000/museums/logos/000/186/035/original/e5215ba3b62e1d9bfb87d9c4963123a50591a3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20223",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

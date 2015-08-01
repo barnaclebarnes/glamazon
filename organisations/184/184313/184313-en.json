@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184313
+  },
+  "name": "Auckland War Memorial Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:info@aucklandmuseum.com"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.859&mlon=174.775#map=15/-36.859/174.775",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.859,
+    "longitude": 174.775
+  },
+  "url": "http://www.aucklandmuseum.com",
+  "telephone": "Phone 64 9 309 0443 (reception) or 64 9 306 7067 (automated infoline)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Open Daily 10am-5pm (Closed Christmas Day). Māori Culture Performance 3 x daily - 11am, 12pm, 1.30pm.  Guided Tours leave the Front Foyer daily at 10.30 and 2pm.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "No donation is requested from visitors from the Auckland region. A donation of $10 per adult is suggested for all non-Aucklanders and international residents. Charges may apply for special exhibitions and programmes. Aucklanders, please bring your I AM AUCKLAND MUSEUM card or proof of residence. Children aged 15 years and under are free."
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184313",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

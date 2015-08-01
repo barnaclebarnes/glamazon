@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159155
+  },
+  "name": "TEXAS HORSE RACING HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 47535",
+    "addressLocality": "SAN ANTONIO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78265-7535"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.5348&mlon=-98.4111#map=15/29.5348/-98.4111",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.5348,
+    "longitude": -98.4111
+  },
+  "url": "http://www.txhorseracingmuseumandhalloffame.org/hall-of-fame-history.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801255",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

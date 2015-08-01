@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186650
+  },
+  "name": "Museo della civiltà contadina di Proceno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Libertà, SNC",
+    "addressLocality": "Proceno",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7583&mlon=11.8306#map=15/42.7583/11.8306",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7583,
+    "longitude": 11.8306
+  },
+  "url": "http://www.percorsifrancigena.eu",
+  "telephone": "+39 0763 710092",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/b4peQhe1WEJ954ECmhPQ3qQCWF8=/1000x1000/museums/logos/000/186/650/original/1324818793b4c62f4e276241d7fe832b22cb18d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101637",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

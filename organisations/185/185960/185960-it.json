@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185960
+  },
+  "name": "Museo provinciale campano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 68",
+    "addressLocality": "Capua",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1109&mlon=14.2132#map=15/41.1109/14.2132",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1109,
+    "longitude": 14.2132
+  },
+  "url": "http://www.provincia.caserta.it/museocampano",
+  "telephone": "+39 0823620037",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7-RDDEERf-O9YFjC-H-d5jdb3sQ=/1000x1000/museums/logos/000/185/960/original/e8b9f031db42b51c364a9528ea5513a1fe9924.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101804",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

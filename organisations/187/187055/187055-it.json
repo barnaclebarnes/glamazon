@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187055
+  },
+  "name": "Erbario museo botanico dell'Istituto di botanica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Celoria, 26",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4768&mlon=9.23322#map=15/45.4768/9.23322",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4768,
+    "longitude": 9.23322
+  },
+  "url": "http://www.erbario.unimi.it",
+  "telephone": "+39 0250314847",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SawuLgZ3xSdGV-xXAzuADlRydp8=/1000x1000/museums/logos/000/187/055/original/1e44ac8e671e08328e410426c3056bf2589d520.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103694",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

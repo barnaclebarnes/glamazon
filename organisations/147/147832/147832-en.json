@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147832
+  },
+  "name": "HUNTERDON ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7 LOWER CENTER ST",
+    "addressLocality": "CLINTON",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "08809-1303"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6365&mlon=-74.9118#map=15/40.6365/-74.9118",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6365,
+    "longitude": -74.9118
+  },
+  "url": "http://www.hunterdonartmuseum.org",
+  "telephone": "+1 (908) 735-8415",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/78709192499"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400200",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

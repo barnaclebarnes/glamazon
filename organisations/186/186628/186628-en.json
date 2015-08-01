@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186628
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Umberto I, ",
+    "addressLocality": "Blera",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.272&mlon=12.0292#map=15/42.272/12.0292",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.272,
+    "longitude": 12.0292
+  },
+  "telephone": "+39 0761471057",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/q-fsK-IAR6eljASfEZDxmnFGPhs=/1000x1000/museums/logos/000/186/628/original/f548c7b8d3df2a01ed3218ec16971e87f535260.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101618",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

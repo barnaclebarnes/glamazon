@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160602
+  },
+  "name": "HISTORIC SMITHFIELD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 SMITHFIELD PLANTATION RD",
+    "addressLocality": "BLACKSBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24060"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.218&mlon=-80.4315#map=15/37.218/-80.4315",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.218,
+    "longitude": -80.4315
+  },
+  "url": "http://www.smithfieldplantation.org",
+  "telephone": "+1 (540) 231-3947",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100108",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

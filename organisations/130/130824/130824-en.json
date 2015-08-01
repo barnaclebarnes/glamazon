@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130824
+  },
+  "name": "SANTA ANA HISTORICAL PRESERVATION SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "120 W CIVIC CENTER DR",
+    "addressLocality": "SANTA ANA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92701"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7506&mlon=-117.868#map=15/33.7506/-117.868",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7506,
+    "longitude": -117.868
+  },
+  "url": "http://www.santaanahistory.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600950",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

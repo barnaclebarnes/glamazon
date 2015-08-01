@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188194
+  },
+  "name": "Museo del teatro romano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via degli Ammirati, 5",
+    "addressLocality": "Lecce",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3519&mlon=18.1706#map=15/40.3519/18.1706",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3519,
+    "longitude": 18.1706
+  },
+  "telephone": "+39 0832279196",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VkticuOg3l2Viw4eK90znCTbRYY=/1000x1000/museums/logos/000/188/194/original/de522529cd788aeda09a48b5e2f4862bd9b94ed.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102402",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

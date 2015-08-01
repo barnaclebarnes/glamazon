@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143652
+  },
+  "name": "DEVOS ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1401 PRESQUE ISLE AVE",
+    "addressLocality": "MARQUETTE",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49855"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5567&mlon=-87.3963#map=15/46.5567/-87.3963",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5567,
+    "longitude": -87.3963
+  },
+  "url": "http://art.nmu.edu/department/museum/index.htm",
+  "telephone": "+1 (906) 227-1481",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600189",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

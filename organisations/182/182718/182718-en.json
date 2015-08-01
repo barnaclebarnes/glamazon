@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182718
+  },
+  "name": "Terra Triassica Euerdorf",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gerichtsgasse 22",
+    "addressLocality": "Euerdorf",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97717"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1489&mlon=10.0217#map=15/50.1489/10.0217",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1489,
+    "longitude": 10.0217
+  },
+  "url": "http://www.terra-triassica.de",
+  "telephone": "09704/9131-21",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182718",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

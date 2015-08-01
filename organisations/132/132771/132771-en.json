@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132771
+  },
+  "name": "LOS ANGELES, CITY OF",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 N MAIN STREET",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90012"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0533&mlon=-118.242#map=15/34.0533/-118.242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0533,
+    "longitude": -118.242
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602897",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134486
+  },
+  "name": "SOUTH FLORIDA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 10TH STREET WEST",
+    "addressLocality": "BRADENTON",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "34205"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=27.4983&mlon=-82.5719#map=15/27.4983/-82.5719",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 27.4983,
+    "longitude": -82.5719
+  },
+  "telephone": "+1 (813) 746-4132",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/SouthFLMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/SouthFLMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200040",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

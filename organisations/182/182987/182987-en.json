@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182987
+  },
+  "name": "Alpinmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Landwehrstraße 4",
+    "addressLocality": "Kempten",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87439"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7295&mlon=10.3116#map=15/47.7295/10.3116",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7295,
+    "longitude": 10.3116
+  },
+  "url": "http://www.bayerisches-nationalmuseum.de/Win/g/g11.htm",
+  "telephone": "0831/2525740",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182987",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

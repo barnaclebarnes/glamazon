@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186636
+  },
+  "name": "Museo Marco Scacchi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Lorenzo Filippini, ",
+    "addressLocality": "Gallese",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3732&mlon=12.4037#map=15/42.3732/12.4037",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3732,
+    "longitude": 12.4037
+  },
+  "telephone": "+39 0761495503",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QgyGTd119K1RGcsD9OBcveInkKY=/1000x1000/museums/logos/000/186/636/original/33b75d278ea89e61c71eb73739c8962194498511.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101625",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

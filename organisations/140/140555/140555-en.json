@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140555
+  },
+  "name": "LINCOLN MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "66 LINCOLN SQ",
+    "addressLocality": "HODGENVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "42748-1551"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5739&mlon=-85.7406#map=15/37.5739/-85.7406",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5739,
+    "longitude": -85.7406
+  },
+  "url": "http://www.lincolnmuseum-ky.org",
+  "telephone": "+1 (270) 358-3163",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100312",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

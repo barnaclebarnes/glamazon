@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183333
+  },
+  "name": "Waldnaabtal-Museum in der Burg Neuhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgstraße 13",
+    "addressLocality": "Windischeschenbach",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92670"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7994&mlon=12.163#map=15/49.7994/12.163",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7994,
+    "longitude": 12.163
+  },
+  "url": "http://www.windischeschenbach.de/Museum_home.html",
+  "telephone": "09681/534",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183333",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

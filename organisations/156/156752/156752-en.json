@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156752
+  },
+  "name": "GREENVILLE COUNTY MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "420 COLLEGE STREET",
+    "addressLocality": "GREENVILLE",
+    "addressRegion": "SC",
+    "addressCountry": "United States",
+    "postalCode": "29601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.8554&mlon=-82.4012#map=15/34.8554/-82.4012",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.8554,
+    "longitude": -82.4012
+  },
+  "url": "http://gcma.org",
+  "telephone": "+1 (803) 271-7570",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/36976997560"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404500047",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

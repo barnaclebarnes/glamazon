@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189592
+  },
+  "name": "PRATT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3779 BARTLETT STREET",
+    "addressLocality": "HOMER",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99603"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.8443&mlon=-122.317#map=15/46.8443/-122.317",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.8443,
+    "longitude": -122.317
+  },
+  "url": "http://www.prattmuseum.org/",
+  "telephone": "+1 (907) 235-8635",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200173",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

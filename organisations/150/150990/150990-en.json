@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150990
+  },
+  "name": "MANLIUS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 28",
+    "addressLocality": "MANLIUS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13104-0028"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0014&mlon=-75.9827#map=15/43.0014/-75.9827",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0014,
+    "longitude": -75.9827
+  },
+  "url": "http://www.manliushistory.org",
+  "telephone": "+1 (315) 682-6660",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602284",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

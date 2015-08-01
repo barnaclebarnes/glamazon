@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183922
+  },
+  "name": "Die Kehrseite der Medaille",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Karl und Martin Neuner Platz 1",
+    "addressLocality": "Garmisch-Partenkirchen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82467"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.4823&mlon=11.1185#map=15/47.4823/11.1185",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.4823,
+    "longitude": 11.1185
+  },
+  "url": "http://www.gapa.de",
+  "telephone": "08821/9105255",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183922",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

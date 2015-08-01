@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189292
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Loc. Selci Lama - Viale F. Nardi, 12",
+    "addressLocality": "San Giustino",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5133&mlon=12.1957#map=15/43.5133/12.1957",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5133,
+    "longitude": 12.1957
+  },
+  "telephone": "+39 075 8582115",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/idyCzvLT5d_0q5NGTEdLqWOWkOw=/1000x1000/museums/logos/000/189/292/original/198641cf19fbd03a9f0fa7df5dfb3a0b56de4f3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108048",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185873
+  },
+  "name": "Piccolo museo S. Paolo di Reggio di Calabria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Reggio Campi, 4",
+    "addressLocality": "Reggio di Calabria",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1096&mlon=15.6497#map=15/38.1096/15.6497",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1096,
+    "longitude": 15.6497
+  },
+  "telephone": "+39 0965/892426",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/q5YWM2v9TGTqW36iFONk12nEdTw=/1000x1000/museums/logos/000/185/873/original/7daf236338afdfd2d5be964ca6a94388d2d6cae7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108246",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

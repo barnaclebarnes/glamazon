@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187321
+  },
+  "name": "Museo delle anfore",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Colombo, 92",
+    "addressLocality": "San Benedetto del Tronto",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9559&mlon=13.8829#map=15/42.9559/13.8829",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9559,
+    "longitude": 13.8829
+  },
+  "telephone": "+39 0735592177",
+  "contactPoint": [
+
+  ],
+  "openingHours": "16 settembre - 14 giugno: Venerdì, sabato e domenica dalle 10:00 alle 13:00 e dalle 15.30 alle 18.30 15 giugno - 15 settembre: dalle 18:00 alle 24:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "per singola sezione museale € 2,00 complessive € 5,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/krgtbpBEqr4R31rplsNYMF5Mbf8=/1000x1000/museums/logos/000/187/321/original/7142abc1ac83ae7b3ea181cfee26db54210ec.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104148",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183971
+  },
+  "name": "Staatsgalerie in der Neuen Residenz",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Domplatz 8",
+    "addressLocality": "Bamberg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96049"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8917&mlon=10.8813#map=15/49.8917/10.8813",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8917,
+    "longitude": 10.8813
+  },
+  "url": "http://www.pinakothek.de/zweiggalerien/bamberg.php",
+  "telephone": "0951/51939-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183971",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

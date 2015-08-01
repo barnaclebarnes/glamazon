@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143203
+  },
+  "name": "ARBORETUM PARK CONSERVANCY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3 POST OFFICE SQUARE 3RD FLOOR",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02109-3905"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3575&mlon=-71.0564#map=15/42.3575/-71.0564",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3575,
+    "longitude": -71.0564
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500833",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

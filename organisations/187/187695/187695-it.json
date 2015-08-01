@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187695
+  },
+  "name": "Museo Malle'",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via IV Novembre, 54 - (Ingresso temporaneo in Via Valmala, 9), ",
+    "addressLocality": "Dronero",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4677&mlon=7.35827#map=15/44.4677/7.35827",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4677,
+    "longitude": 7.35827
+  },
+  "url": "http://www.museomalle.it",
+  "telephone": "+39 0171909329",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NciGuA2Ix56GODKFy7G4GB40CZk=/1000x1000/museums/logos/000/187/695/original/5cb84838c255505e3e5398a69965c6d75ae26e9.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102579",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

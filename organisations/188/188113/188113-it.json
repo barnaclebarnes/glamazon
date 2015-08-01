@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188113
+  },
+  "name": "Castello di Trani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Manfredi, 16",
+    "addressLocality": "Trani",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2814&mlon=16.4161#map=15/41.2814/16.4161",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2814,
+    "longitude": 16.4161
+  },
+  "url": "http://www.castelloditrani.beniculturali.it/",
+  "telephone": "+39 0883 506603",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni dalle ore 8.30 alle ore 19.30 La biglietteria chiude alle ore 19.0025 dic, 1° gen e 1° mag.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Fixa18Vk1o8tZAX8-zwMLa5Gwx8=/1000x1000/museums/logos/000/188/113/original/3ee50c05e1250229df3c35481a9092c31a5a24.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107791",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

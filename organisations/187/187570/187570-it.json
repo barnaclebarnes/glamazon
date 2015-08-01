@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187570
+  },
+  "name": "Collezione d'arte moderna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Biblioteca Comunale ¿Roberto Allegri¿ ¿ Piazza Carducci 4, ",
+    "addressLocality": "Serravalle Scrivia",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7225&mlon=8.85721#map=15/44.7225/8.85721",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7225,
+    "longitude": 8.85721
+  },
+  "url": "http://www.comune.serravalle-scrivia.al.it",
+  "telephone": "+39 0143 633627",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lun., mart. e ven. 8.30-12.30 e 15-18.30, mer. 8.30-12.30, giov. 15-18.30, sab. 8.15-11.45",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kuECIxlHeh4T5X2vxrXo-tvGL_w=/1000x1000/museums/logos/000/187/570/original/24e22ccea7a0751dbbdc0a2446fa4fdd37264aa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102472",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

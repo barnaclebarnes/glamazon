@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183731
+  },
+  "name": "Deutsches Fahrradmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Heinrich-von-Bibra-Straße 24",
+    "addressLocality": "Bad Brückenau",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97769"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.3033&mlon=9.74402#map=15/50.3033/9.74402",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.3033,
+    "longitude": 9.74402
+  },
+  "url": "http://www.deutsches-fahrradmuseum.de",
+  "telephone": "09741/93825-5",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183731",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

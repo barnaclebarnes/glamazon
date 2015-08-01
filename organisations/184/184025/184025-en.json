@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184025
+  },
+  "name": "Bayerisches Brauereimuseum Kulmbach mit Bäckerei- und Brotmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hofer Straße 20",
+    "addressLocality": "Kulmbach",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95326"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1146&mlon=11.4686#map=15/50.1146/11.4686",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1146,
+    "longitude": 11.4686
+  },
+  "url": "http://www.bayerisches-brauereimuseum.de",
+  "telephone": "09221/805-14",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184025",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140104
+  },
+  "name": "ST JOHN SCIENTIFIC MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "312 NORTH MAIN",
+    "addressLocality": "SAINT JOHN",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67576-1733"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0017&mlon=-98.7617#map=15/38.0017/-98.7617",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0017,
+    "longitude": -98.7617
+  },
+  "url": "http://www.stjohnsciencemuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000430",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

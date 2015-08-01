@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188031
+  },
+  "name": "Castello di Moncrivello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Duchessa Jolanda, 8, ",
+    "addressLocality": "Moncrivello",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3309&mlon=7.99599#map=15/45.3309/7.99599",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3309,
+    "longitude": 7.99599
+  },
+  "url": "http://www.castellodimoncrivello.it",
+  "telephone": "+39 0161 401175",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ENXinVHSdJDnuS8YLCVEQH1Jcec=/1000x1000/museums/logos/000/188/031/original/cd5257d3142a73a07f37faa38ec7f3d15e317b84.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102836",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

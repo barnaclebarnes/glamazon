@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182878
+  },
+  "name": "Templerhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bädersweg 1",
+    "addressLocality": "Amorbach",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63916"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.645&mlon=9.21693#map=15/49.645/9.21693",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.645,
+    "longitude": 9.21693
+  },
+  "url": "http://www.amorbach.de/index.php?c=hcpg&p=282",
+  "telephone": "09373/200-574",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182878",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

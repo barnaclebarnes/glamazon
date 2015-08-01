@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137721
+  },
+  "name": "SOUTH LOOP NEIGHBORS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "47 W POLK ST SUITE 100-218",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60605-2000"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8723&mlon=-87.6292#map=15/41.8723/-87.6292",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8723,
+    "longitude": -87.6292
+  },
+  "url": "http://www.southloopneighbors.org",
+  "telephone": "+1 (312) 409-1700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700866",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142555
+  },
+  "name": "BLACKBURN TAVERN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 MAIN ST",
+    "addressLocality": "GLOUCESTER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01930"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6173&mlon=-70.6509#map=15/42.6173/-70.6509",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6173,
+    "longitude": -70.6509
+  },
+  "url": "http://blackburntavern.com",
+  "telephone": "+1 (978) 282-1919",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500185",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

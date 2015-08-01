@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185871
+  },
+  "name": "Museo etnografico di Reggio di Calabria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Quattronari, 36",
+    "addressLocality": "Reggio di Calabria",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0246&mlon=15.6612#map=15/38.0246/15.6612",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0246,
+    "longitude": 15.6612
+  },
+  "telephone": "+39 3496193813",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/b9LkQ6DGClyQYV0dmiABgpBJRMU=/1000x1000/museums/logos/000/185/871/original/981f282b5fbf829a7146628434ab14e2a53140.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105530",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

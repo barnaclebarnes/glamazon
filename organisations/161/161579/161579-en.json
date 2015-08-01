@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161579
+  },
+  "name": "SEATTLE'S MUSEUM OF HISTORY AND INDUSTRY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MCCURDY PARK 2700 24TH AVENUE EAST",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98112-2099"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.645&mlon=-122.302#map=15/47.645/-122.302",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.645,
+    "longitude": -122.302
+  },
+  "telephone": "+1 (206) 324-1126",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300028",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139044
+  },
+  "name": "HERITAGE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "310 FIFTH STREET",
+    "addressLocality": "CORALVILLE",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52241"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6739&mlon=-91.5695#map=15/41.6739/-91.5695",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6739,
+    "longitude": -91.5695
+  },
+  "telephone": "+1 (313) 875-2264",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900081",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

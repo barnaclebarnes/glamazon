@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186075
+  },
+  "name": "Museo etnografico di Morigerati",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Granatelli, 3",
+    "addressLocality": "Morigerati",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1396&mlon=15.5542#map=15/40.1396/15.5542",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1396,
+    "longitude": 15.5542
+  },
+  "telephone": "+39 0974982016",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/t5eK5B1HZy-bg430_sG8XeXJnLg=/1000x1000/museums/logos/000/186/075/original/b2e193d98d2eb2a8f515fcf37dfbc85a12c3e4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101904",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

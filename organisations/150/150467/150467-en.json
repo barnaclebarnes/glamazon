@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150467
+  },
+  "name": "HISTORIC PITTSFORD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18 MONROE AVE",
+    "addressLocality": "PITTSFORD",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14534"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0914&mlon=-77.5168#map=15/43.0914/-77.5168",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0914,
+    "longitude": -77.5168
+  },
+  "telephone": "+1 (585) 381-2941",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601761",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

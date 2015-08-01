@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186834
+  },
+  "name": "Museo civico di scienze naturali di Lovere",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Marconi, 23",
+    "addressLocality": "Lovere",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8193&mlon=10.0793#map=15/45.8193/10.0793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8193,
+    "longitude": 10.0793
+  },
+  "url": "http://www.museoscienzelovere.it",
+  "telephone": "+39 035983729",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/l3CQaOknfBkatTKiXPEp0EgkNDY=/1000x1000/museums/logos/000/186/834/original/d19e486e446d85d4f4fc80ef1dde93fbf31e335.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103519",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

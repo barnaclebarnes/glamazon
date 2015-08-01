@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188298
+  },
+  "name": "Museo etnografico \"Le arti antiche\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Umberto, 225",
+    "addressLocality": "Macomer",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2676&mlon=8.77627#map=15/40.2676/8.77627",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2676,
+    "longitude": 8.77627
+  },
+  "url": "http://www.esedraescursioni.it",
+  "telephone": "+39 0785743044",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10,00 - 13,00 e 16,30 – 20,00 da lunedì a venerdì; 9,30 – 13,00 sabato; domenica su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RBYJNaUPKtviVnNWZP3WhnocX5Q=/1000x1000/museums/logos/000/188/298/original/f9084f2832cf33345c121693ebca4ef095f79b.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103373",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

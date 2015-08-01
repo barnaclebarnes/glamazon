@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186279
+  },
+  "name": "Lapidario tergestino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cattedrale, 3",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6468&mlon=13.7725#map=15/45.6468/13.7725",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6468,
+    "longitude": 13.7725
+  },
+  "url": "http://www.triestecultura.it",
+  "telephone": "+39 040309362",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da aprile ad ottobre 9.00/ 19.00 da novembre a marzo 10.00/17.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qwPFrg0l4qkcG9mGQQX0bFowKCU=/1000x1000/museums/logos/000/186/279/original/363b22dee91e9f22745ab5bdb554705bbbc96e5.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100241",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

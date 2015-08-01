@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189238
+  },
+  "name": "Museo della Maiolica a Lustro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Dante, 24",
+    "addressLocality": "Gubbio",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3498&mlon=12.5838#map=15/43.3498/12.5838",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3498,
+    "longitude": 12.5838
+  },
+  "telephone": "+39 0759275872",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5tVsm-4OvR-YbbbqbUBqAZ4qGao=/1000x1000/museums/logos/000/189/238/original/f283bc5590d5aa68ecf712f4652a9a49c09ff72.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100714",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

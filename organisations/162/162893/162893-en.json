@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162893
+  },
+  "name": "MARQUETTE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3141",
+    "addressLocality": "MILWAUKEE",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53201-1881"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0387&mlon=-87.928#map=15/43.0387/-87.928",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0387,
+    "longitude": -87.928
+  },
+  "url": "http://www.marquette.edu",
+  "telephone": "+1 (414) 288-7250",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500342",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

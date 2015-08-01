@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144123
+  },
+  "name": "CHARLEVOIX HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 525",
+    "addressLocality": "CHARLEVOIX",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49720-0525"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3021&mlon=-85.2525#map=15/45.3021/-85.2525",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3021,
+    "longitude": -85.2525
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600660",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

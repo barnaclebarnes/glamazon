@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189567
+  },
+  "name": "Museo specializzato del treno in miniatura",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Baratto , 39",
+    "addressLocality": "Schio",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.718&mlon=11.3593#map=15/45.718/11.3593",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.718,
+    "longitude": 11.3593
+  },
+  "url": "http://patrimonioculturale.provincia.vicenza.it",
+  "telephone": "+39 0445 691392",
+  "contactPoint": [
+
+  ],
+  "openingHours": "venerdì dalle 21.00 alle 23.00; prima domenica del mese 15.00-18.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "ingresso gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yspIr_XiLjOA6iCL1XTicpnZxNo=/1000x1000/museums/logos/000/189/567/original/7f44bdc85636c5a70a3e2e3e4c3a80b935c4cb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112123",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

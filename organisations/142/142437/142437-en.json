@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142437
+  },
+  "name": "SALEM WITCH MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "19 WASHINGTON SQ",
+    "addressLocality": "SALEM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01970"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.523&mlon=-70.8873#map=15/42.523/-70.8873",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.523,
+    "longitude": -70.8873
+  },
+  "url": "http://www.salemwitchmuseum.com",
+  "telephone": "+1 (978) 744-1692",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500067",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

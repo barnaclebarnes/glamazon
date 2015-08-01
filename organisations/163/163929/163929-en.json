@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163929
+  },
+  "name": "Hamilton Art Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.742&mlon=142.025#map=15/-37.742/142.025",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.742,
+    "longitude": 142.025
+  },
+  "url": "http://www.hamiltongallery.org",
+  "telephone": "03 55730460",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mon - Fri 10am - 5pm, Sat 10am - 12 noon &amp; 2pm - 5pm, Sun 2pm - 5pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "hamilton-art-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/hamilton-art-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

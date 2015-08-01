@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187884
+  },
+  "name": "Museo valdese di Prali",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ex Tempio Valdese - Frazione Ghigo, ",
+    "addressLocality": "Prali",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8897&mlon=7.05086#map=15/44.8897/7.05086",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8897,
+    "longitude": 7.05086
+  },
+  "url": "http://www.fondazionevaldese.org",
+  "telephone": "+39 0121950203",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102732",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

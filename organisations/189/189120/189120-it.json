@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189120
+  },
+  "name": "Museo agricolo di Brunnenburg (Castel Fontana)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello, 17",
+    "addressLocality": "Tirolo/Tirol",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6913&mlon=11.1512#map=15/46.6913/11.1512",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6913,
+    "longitude": 11.1512
+  },
+  "url": "http://www.brunnenburg.net",
+  "telephone": "+39 0473923533",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Pasqua - Ognissanti dom-gio ore 10-17",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 5,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/grbBPR9jG79xS1pvB6sVinEvSCU=/1000x1000/museums/logos/000/189/120/original/771549a3aad2e368d85d9134106a11b57913d679.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100572",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

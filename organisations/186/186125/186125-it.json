@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186125
+  },
+  "name": "Museo speleologico \"L. Fantini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza VII Novembre 1944, 7, ",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5026&mlon=11.3332#map=15/44.5026/11.3332",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5026,
+    "longitude": 11.3332
+  },
+  "url": "http://www.gsb-usb.it",
+  "telephone": "+39 051521133",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SIpkJUFrK2LK_siyvPDGPOGPYVs=/1000x1000/museums/logos/000/186/125/original/1d7a513513f56b47d6df5bf183f12c75daa6ee3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101949",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

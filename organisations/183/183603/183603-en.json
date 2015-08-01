@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183603
+  },
+  "name": "Radiomuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Neufahrner Straße 3",
+    "addressLocality": "Rottenburg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84056"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7025&mlon=12.0287#map=15/48.7025/12.0287",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7025,
+    "longitude": 12.0287
+  },
+  "url": "http://www.rmrl.de",
+  "telephone": "08781/2789",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183603",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

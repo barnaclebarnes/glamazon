@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160187
+  },
+  "name": "DISCOVERY GATEWAY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "444 W 100 S",
+    "addressLocality": "SALT LAKE CTY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84101-1195"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7672&mlon=-111.904#map=15/40.7672/-111.904",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7672,
+    "longitude": -111.904
+  },
+  "url": "http://www.childmuseum.org",
+  "telephone": "+1 (801) 456-5437",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900253",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

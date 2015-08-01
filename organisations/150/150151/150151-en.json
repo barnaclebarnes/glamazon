@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150151
+  },
+  "name": "TOWN OF BROOKFIELD HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 214",
+    "addressLocality": "BROOKFIELD",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13314"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.813&mlon=-75.3155#map=15/42.813/-75.3155",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.813,
+    "longitude": -75.3155
+  },
+  "url": "http://www.brookfieldnyhistory.org/",
+  "telephone": "+1 (315) 899-3333",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601445",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

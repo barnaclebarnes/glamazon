@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182879
+  },
+  "name": "EFA – Museum für Deutsche Automobilgeschichte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wasserburger Straße 38",
+    "addressLocality": "Amerang",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9959&mlon=12.3072#map=15/47.9959/12.3072",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9959,
+    "longitude": 12.3072
+  },
+  "url": "http://www.efa-automuseum.de",
+  "telephone": "08075/8141",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182879",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

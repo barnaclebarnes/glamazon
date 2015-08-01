@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186439
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del duomo, 3",
+    "addressLocality": "Fara in Sabina",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2095&mlon=12.7288#map=15/42.2095/12.7288",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2095,
+    "longitude": 12.7288
+  },
+  "telephone": "+39 0765277321",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/K_MbKvR3I5QRUnksXg2fxcoi31A=/1000x1000/museums/logos/000/186/439/original/2226665dd6fee16916bfbdceb376aafb67af14b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101460",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

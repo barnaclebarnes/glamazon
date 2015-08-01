@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149976
+  },
+  "name": "CORNELL UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "377 PINE TREE RD",
+    "addressLocality": "ITHACA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14850"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.438&mlon=-76.4653#map=15/42.438/-76.4653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.438,
+    "longitude": -76.4653
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601270",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135653
+  },
+  "name": "PROJECT DISCOVERY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "401 SW 2ND STREET",
+    "addressLocality": "FORT LAUDERDALE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33312-1707"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=26.1205&mlon=-80.1475#map=15/26.1205/-80.1475",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 26.1205,
+    "longitude": -80.1475
+  },
+  "url": "http://www.mods.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201208",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

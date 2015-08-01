@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188959
+  },
+  "name": "Museo del tessuto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "S. Chiara, 24",
+    "addressLocality": "Prato",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8773&mlon=11.0987#map=15/43.8773/11.0987",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8773,
+    "longitude": 11.0987
+  },
+  "url": "http://www.museodeltessuto.it",
+  "telephone": "+39 0574611503",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Ja8am985XjwEyGbwju2h_N_P1oU=/1000x1000/museums/logos/000/188/959/original/bb6b4e5b912ea42316713cf935e6f664105ad7d5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103186",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

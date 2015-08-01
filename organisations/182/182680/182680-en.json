@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182680
+  },
+  "name": "Pfefferminzmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Parkstraße 43",
+    "addressLocality": "Eichenau",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82223"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1666&mlon=11.3196#map=15/48.1666/11.3196",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1666,
+    "longitude": 11.3196
+  },
+  "url": "http://www.minzmuseum.de",
+  "telephone": "08141/7646",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182680",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183344
+  },
+  "name": "Schloss Neunhof",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Neunhofer Schloßplatz 1",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90427"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5185&mlon=11.0509#map=15/49.5185/11.0509",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5185,
+    "longitude": 11.0509
+  },
+  "url": "http://www.gnm.de/dependancen.html",
+  "telephone": "0911/1331-238",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183344",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

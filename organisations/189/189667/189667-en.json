@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189667
+  },
+  "name": "SAN FRANCISCO MARITIME NHP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "BUILDING E",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8006&mlon=-122.434#map=15/37.8006/-122.434",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8006,
+    "longitude": -122.434
+  },
+  "telephone": "+1 (415) 561-7050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602985",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

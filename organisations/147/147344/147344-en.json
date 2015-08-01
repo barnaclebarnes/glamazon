@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147344
+  },
+  "name": "NEW ENGLAND SKI MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 267",
+    "addressLocality": "FRANCONIA",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03580-0267"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1871&mlon=-71.735#map=15/44.1871/-71.735",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1871,
+    "longitude": -71.735
+  },
+  "url": "http://newenglandskimuseum.org/",
+  "telephone": "+1 (603) 823-7177",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300119",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189358
+  },
+  "name": "Antiquarium comunale di Otricoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Emanuele III, 13/15",
+    "addressLocality": "Otricoli",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4234&mlon=12.4783#map=15/42.4234/12.4783",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4234,
+    "longitude": 12.4783
+  },
+  "url": "http://www.comuneotricoli.it",
+  "telephone": "+39 0744719628",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vJHf7C6a8UyOsOGYleokXcdB02s=/1000x1000/museums/logos/000/189/358/original/dfa8cd2eb04b1ab78fac392266eb99264b1c3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100791",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

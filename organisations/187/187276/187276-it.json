@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187276
+  },
+  "name": "Museo Pio IX -Palazzo Mastai",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G.M. Mastai, 14",
+    "addressLocality": "Senigallia",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7148&mlon=13.2175#map=15/43.7148/13.2175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7148,
+    "longitude": 13.2175
+  },
+  "url": "http://www.diocesisenigallia.it/",
+  "telephone": "+39 07160649",
+  "contactPoint": [
+
+  ],
+  "openingHours": "16 giugno - 30 settembre: ore 9:00 - 12:00/17:00 - 19:00 1 Ottobre - 15 giugno: ore 9:00 - 12:00/16:30 - 18:30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hlRJMWo69JUZhvwq2kGOKTYYIes=/1000x1000/museums/logos/000/187/276/original/6fb132c9e89f1d7ccea825611b536e39b18574f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104081",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141206
+  },
+  "name": "LINCOLNVILLE HISTORICAL SCTY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "33 BEACH RD",
+    "addressLocality": "LINCOLNVILLE",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04849"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2895&mlon=-69.0957#map=15/44.2895/-69.0957",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2895,
+    "longitude": -69.0957
+  },
+  "url": "http://www.lincolnvillehistory.org",
+  "telephone": "+1 (207) 789-5445",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300055",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

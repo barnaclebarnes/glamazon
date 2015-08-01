@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188768
+  },
+  "name": "Museo della rocca di Campiglia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "25 Luglio, ",
+    "addressLocality": "Campiglia Marittima",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0601&mlon=10.6142#map=15/43.0601/10.6142",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0601,
+    "longitude": 10.6142
+  },
+  "telephone": "+39 0565839254",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yUZcPl1IN683zGEuXePeEsIWrco=/1000x1000/museums/logos/000/188/768/original/6fbd4372b6a26989d623c6f47e960e59467fd66.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103042",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

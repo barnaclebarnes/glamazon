@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145273
+  },
+  "name": "MUSEUM OF LAKE MINNETONKA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "140 GEORGE ST",
+    "addressLocality": "EXCELSIOR",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55331-1822"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9038&mlon=-93.5743#map=15/44.9038/-93.5743",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9038,
+    "longitude": -93.5743
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700713",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183357
+  },
+  "name": "Kolonialwarenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Flemingstraße 4",
+    "addressLocality": "Niederwerrn",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97464"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0649&mlon=10.1823#map=15/50.0649/10.1823",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0649,
+    "longitude": 10.1823
+  },
+  "url": "http://www.kolonialwarenmuseum.de/",
+  "telephone": "09721/74017",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183357",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

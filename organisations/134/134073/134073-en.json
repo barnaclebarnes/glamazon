@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134073
+  },
+  "name": "MUSEUM OF AMERICAN ROAD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2160 NEW CASTLE AVE",
+    "addressLocality": "NEW CASTLE",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19720"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6945&mlon=-75.5543#map=15/39.6945/-75.5543",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6945,
+    "longitude": -75.5543
+  },
+  "telephone": "+1 (302) 658-5300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000005",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188015
+  },
+  "name": "Villa San Remigio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Pallanza, ",
+    "addressLocality": "Verbania",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.921&mlon=8.55009#map=15/45.921/8.55009",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.921,
+    "longitude": 8.55009
+  },
+  "url": "http://www.illagomaggiore.com",
+  "telephone": "+39 0323 504401",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da marzo a ottobre",
+  "offers": {
+    "@Type": "Offer",
+    "description": "100,00€ per gruppi fino a 20 persone; 6,00€ per persona singola"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/I7IljJvhE2xRvRnuOFwnaoIpKKQ=/1000x1000/museums/logos/000/188/015/original/34c4bab4426d4fd7b83f8ba1cc642f58dd35991.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106721",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

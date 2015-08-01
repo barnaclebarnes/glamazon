@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187132
+  },
+  "name": "Museo delle api",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza IV Novembre, ",
+    "addressLocality": "Montalto Pavese",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9798&mlon=9.20736#map=15/44.9798/9.20736",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9798,
+    "longitude": 9.20736
+  },
+  "telephone": "+39 0383870121",
+  "contactPoint": [
+
+  ],
+  "openingHours": "prima ed ultima domenica di tutti i mesi",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103768",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

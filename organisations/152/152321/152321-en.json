@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152321
+  },
+  "name": "MUSEUM OF CONTEMPORARY ART CLEVELAND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8501 CARNEGIE AVE",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44106"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5012&mlon=-81.6282#map=15/41.5012/-81.6282",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5012,
+    "longitude": -81.6282
+  },
+  "url": "http://www.mocacleveland.org",
+  "telephone": "+1 (216) 421-8671",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900098",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

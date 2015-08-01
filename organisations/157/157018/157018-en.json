@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157018
+  },
+  "name": "EDVENTURE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1638",
+    "addressLocality": "COLUMBIA",
+    "addressRegion": "SC",
+    "addressCountry": "United States",
+    "postalCode": "29202-1638"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.997&mlon=-81.0474#map=15/33.997/-81.0474",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.997,
+    "longitude": -81.0474
+  },
+  "url": "http://www.edventure.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404500313",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

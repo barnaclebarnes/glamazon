@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186175
+  },
+  "name": "Museo Benedettino e Diocesano d'Arte Sacra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Marconi, 3",
+    "addressLocality": "Nonantola",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6779&mlon=11.0431#map=15/44.6779/11.0431",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6779,
+    "longitude": 11.0431
+  },
+  "url": "http://www.abbazia-nonantola.net",
+  "telephone": "+39 059.549025",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedi - venerdi ore 9 - 12.30 sabato ore 9 - 12.30 e 15 - 18.30 domenica ore 15 - 18.30 Altri orari su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 5,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jmgXnmjJejBn1JFY4Z_1cFHgNdo=/1000x1000/museums/logos/000/186/175/original/212b83727974ef7c15334662c2fc333a9ed1f6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "115355",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

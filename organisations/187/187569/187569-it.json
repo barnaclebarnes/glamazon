@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187569
+  },
+  "name": "Sacro Monte di Crea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Sacro Monte, ",
+    "addressLocality": "Serralunga di Crea",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0941&mlon=8.26951#map=15/45.0941/8.26951",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0941,
+    "longitude": 8.26951
+  },
+  "url": "http://www.parcocrea.it",
+  "telephone": "+39 0141927120",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106749",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

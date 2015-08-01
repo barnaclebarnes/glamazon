@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187689
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Santa Maria, 10, ",
+    "addressLocality": "Cuneo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3947&mlon=7.55016#map=15/44.3947/7.55016",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3947,
+    "longitude": 7.55016
+  },
+  "url": "http://www.comune.cuneo.it",
+  "telephone": "+39 0171634175",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fGgJ9exeHtpJOVfE6y3t-R-TPRs=/1000x1000/museums/logos/000/187/689/original/fa8410eb1048209cf734beb2d405f0a2f8726d.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102572",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

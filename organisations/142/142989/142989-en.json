@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142989
+  },
+  "name": "IPSWICH MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "54 S MAIN ST",
+    "addressLocality": "IPSWICH",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01938-2322"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.677&mlon=-70.8363#map=15/42.677/-70.8363",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.677,
+    "longitude": -70.8363
+  },
+  "url": "http://www.ipswichmuseum.org/index.php",
+  "telephone": "+1 (978) 356-2811",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500619",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

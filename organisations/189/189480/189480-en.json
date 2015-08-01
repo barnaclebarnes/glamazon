@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189480
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale della Vittoria, 321",
+    "addressLocality": "Vittorio Veneto",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9862&mlon=12.2968#map=15/45.9862/12.2968",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9862,
+    "longitude": 12.2968
+  },
+  "url": "http://www.galleriavittorio.it",
+  "telephone": "+39 0438552905",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/r14MmRY7YFQdsQC-0IIszQJXwr4=/1000x1000/museums/logos/000/189/480/original/b0e02f9cdb95e7c6ce16eb828f3212b2a30fe34.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100998",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132252
+  },
+  "name": "SACRAMENTO ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3930 W LAND PARK DR",
+    "addressLocality": "SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95822-1123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5409&mlon=-121.505#map=15/38.5409/-121.505",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5409,
+    "longitude": -121.505
+  },
+  "url": "http://www.saczoo.org",
+  "telephone": "+1 (916) 808-5885",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602378",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

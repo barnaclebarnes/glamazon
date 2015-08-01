@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186885
+  },
+  "name": "Casa museo di Cerveno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vicolo Sonvico, ?",
+    "addressLocality": "Cerveno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0048&mlon=10.324#map=15/46.0048/10.324",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0048,
+    "longitude": 10.324
+  },
+  "telephone": "+39 0364434012",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1jlxdxheC-ZMoWn-ADGZ7D3xKKQ=/1000x1000/museums/logos/000/186/885/original/82577b4a9afe982f82c1eebfc92867cfe630b5.png"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103563",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186098
+  },
+  "name": "Museo città creativa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ogliara, 127/143 - loc. Ogliara, ",
+    "addressLocality": "Salerno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7048&mlon=14.8045#map=15/40.7048/14.8045",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7048,
+    "longitude": 14.8045
+  },
+  "telephone": "+39 085282159",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/huvqSMkE-Q5gRP6m6P_Cdip3dW8=/1000x1000/museums/logos/000/186/098/original/394f6ad8f1941bbdcf999ca8614fd77466865e1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101920",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

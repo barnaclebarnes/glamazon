@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187071
+  },
+  "name": "Museo del Duomo di Milano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, 14",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4636&mlon=9.19137#map=15/45.4636/9.19137",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4636,
+    "longitude": 9.19137
+  },
+  "url": "http://www.duomomilano.it",
+  "telephone": "+39 02 860358",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106815",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

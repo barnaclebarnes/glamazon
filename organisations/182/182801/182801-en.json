@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182801
+  },
+  "name": "Heimathaus Gestratz in Zwirkenberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Zwirkenberg 32",
+    "addressLocality": "Gestratz",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "88167"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6476&mlon=9.97331#map=15/47.6476/9.97331",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6476,
+    "longitude": 9.97331
+  },
+  "url": "http://www.vg-argental.de/gestratz/index.php?idcat=77",
+  "telephone": "08383/223",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182801",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

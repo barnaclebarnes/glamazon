@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187002
+  },
+  "name": "Raccolta d'arte Carlo Lamberti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavallotti, 6",
+    "addressLocality": "Codogno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1614&mlon=9.70524#map=15/45.1614/9.70524",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1614,
+    "longitude": 9.70524
+  },
+  "url": "http://www.museilodi.it/",
+  "telephone": "+39 0377431238",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aperto su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lhrQaonGxRYQ6yi2AzhK9rBbGsc=/1000x1000/museums/logos/000/187/002/original/cf558866ce7b54dabd1f60c973393940167811.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103664",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

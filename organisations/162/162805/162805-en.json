@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162805
+  },
+  "name": "JANESVILLE MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18 N JACKSON ST",
+    "addressLocality": "JANESVILLE",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53548-2928"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6815&mlon=-89.027#map=15/42.6815/-89.027",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6815,
+    "longitude": -89.027
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500254",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147594
+  },
+  "name": "NEW HAMPSHIRE TELEPHONE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 444",
+    "addressLocality": "WARNER",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03278-0444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3077&mlon=-71.8323#map=15/43.3077/-71.8323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3077,
+    "longitude": -71.8323
+  },
+  "url": "http://www.nhtelephonemuseum.com",
+  "telephone": "+1 (603) 456-2234",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300369",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

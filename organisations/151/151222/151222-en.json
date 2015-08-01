@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151222
+  },
+  "name": "HACKER HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "188 HACKER HOUSE TRL",
+    "addressLocality": "PILOT MOUNTAIN",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27041"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.4061&mlon=-80.4679#map=15/36.4061/-80.4679",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.4061,
+    "longitude": -80.4679
+  },
+  "url": "http://www.hackerhouse.com",
+  "telephone": "+1 (336) 351-3275",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700093",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

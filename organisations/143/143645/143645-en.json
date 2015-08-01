@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143645
+  },
+  "name": "DETROIT CHILDREN'S MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6134 2ND AVE",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.365&mlon=-83.0742#map=15/42.365/-83.0742",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.365,
+    "longitude": -83.0742
+  },
+  "url": "http://www.detroitsciencecenter.org",
+  "telephone": "+1 (313) 873-8100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600182",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

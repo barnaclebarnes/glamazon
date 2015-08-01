@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159285
+  },
+  "name": "ART MUSEUM OF SOUTHEAST TEXAS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 MAIN ST",
+    "addressLocality": "BEAUMONT",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77701-3213"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.0835&mlon=-94.0971#map=15/30.0835/-94.0971",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.0835,
+    "longitude": -94.0971
+  },
+  "url": "http://www.amset.org",
+  "telephone": "+1 (409) 832-3432",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/AMSETx"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/AMSETx"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801385",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132483
+  },
+  "name": "SAN DIEGO AIR & SPACE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2001 PAN AMERICAN PLZ",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101-1636"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7269&mlon=-117.154#map=15/32.7269/-117.154",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7269,
+    "longitude": -117.154
+  },
+  "url": "http://www.sandiegoairandspace.org",
+  "telephone": "+1 (619) 258-1221",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/SDASM"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/SDASM"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602609",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

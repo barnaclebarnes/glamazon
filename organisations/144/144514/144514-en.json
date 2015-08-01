@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144514
+  },
+  "name": "THE BELLEVUE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "212 N MAIN STREET",
+    "addressLocality": "BELLEVUE",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49021-1234"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4453&mlon=-85.0181#map=15/42.4453/-85.0181",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4453,
+    "longitude": -85.0181
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402601051",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

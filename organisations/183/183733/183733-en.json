@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183733
+  },
+  "name": "Bernstein-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Heilig-Geist-Straße 2",
+    "addressLocality": "Bad Füssing",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94072"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3495&mlon=13.3123#map=15/48.3495/13.3123",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3495,
+    "longitude": 13.3123
+  },
+  "url": "http://www.bernsteinmuseum.com/bernsteinmuseum-bad-fuessing.html",
+  "telephone": "08531/981034",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183733",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

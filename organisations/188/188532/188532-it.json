@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188532
+  },
+  "name": "Museo dei mezzi di comunicazione",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ricasoli, 22",
+    "addressLocality": "Arezzo",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4668&mlon=11.8826#map=15/43.4668/11.8826",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4668,
+    "longitude": 11.8826
+  },
+  "url": "http://www.faustocasi.it",
+  "telephone": "+39 0575377662",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CpdUy6i7hSDlPtUqcrmCOxPqMQQ=/1000x1000/museums/logos/000/188/532/original/ffce37a49177614891545642357bf2ac8b4a19c8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102851",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

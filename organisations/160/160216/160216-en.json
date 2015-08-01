@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160216
+  },
+  "name": "MANCHESTER HOT GLASS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "79 ELM ST",
+    "addressLocality": "MANCHESTR CTR",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05255"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.174&mlon=-73.0481#map=15/43.174/-73.0481",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.174,
+    "longitude": -73.0481
+  },
+  "url": "http://manchesterhotglass.com",
+  "telephone": "+1 (802) 362-2227",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000022",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

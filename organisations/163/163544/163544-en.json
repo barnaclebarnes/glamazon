@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163544
+  },
+  "name": "SHERIDAN COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1500",
+    "addressLocality": "SHERIDAN",
+    "addressRegion": "WY",
+    "addressCountry": "United States",
+    "postalCode": "82801-1500"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7886&mlon=-106.959#map=15/44.7886/-106.959",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7886,
+    "longitude": -106.959
+  },
+  "url": "http://www.sheridan.edu",
+  "telephone": "+1 (307) 674-6446",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405600124",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

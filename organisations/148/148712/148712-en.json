@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148712
+  },
+  "name": "WEST POINT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2110 NEW SOUTH POST",
+    "addressLocality": "WEST POINT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10996"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.389&mlon=-73.9632#map=15/41.389/-73.9632",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.389,
+    "longitude": -73.9632
+  },
+  "url": "http://www.usma.edu/museum/sitepages/home.aspx",
+  "telephone": "+1 (845) 938-3590",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600006",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183902
+  },
+  "name": "Siebold-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Frankfurter Straße 87",
+    "addressLocality": "Würzburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97082"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7937&mlon=9.8944#map=15/49.7937/9.8944",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7937,
+    "longitude": 9.8944
+  },
+  "url": "http://siebold-museum.byseum.de/de/home",
+  "telephone": "0931/413541",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183902",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

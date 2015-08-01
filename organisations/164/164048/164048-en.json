@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164048
+  },
+  "name": "Manningham Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7868&mlon=145.133#map=15/-37.7868/145.133",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7868,
+    "longitude": 145.133
+  },
+  "url": "http://www.manningham.vic.gov.au/play/arts/manningham_gallery_current_exhibition.html",
+  "telephone": "(03) 9840 9367",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "manningham-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/manningham-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185674
+  },
+  "name": "L’angolo della memoria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Colombo, 12",
+    "addressLocality": "Stigliano",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4026&mlon=16.2303#map=15/40.4026/16.2303",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4026,
+    "longitude": 16.2303
+  },
+  "url": "http://museidea.basilicata.it",
+  "telephone": "+39 0835 565179",
+  "contactPoint": [
+
+  ],
+  "openingHours": "a richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/t7zpeFgTRFYy4TbyV0AWwenunYs=/1000x1000/museums/logos/000/185/674/original/569cb88d3c1e437c2c32c3e9c94bf30f2b0d118.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100126",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

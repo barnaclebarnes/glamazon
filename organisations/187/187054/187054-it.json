@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187054
+  },
+  "name": "Collezione \"G. Lorenzi\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Montenapoleone, 18",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4691&mlon=9.19408#map=15/45.4691/9.19408",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4691,
+    "longitude": 9.19408
+  },
+  "url": "http://www.lorenzi.it",
+  "telephone": "+39 0276022848",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/E9wrdIAgIEA0xRgWmNZPjoEmndc=/1000x1000/museums/logos/000/187/054/original/8d3b70bcc662a3ff2b69f655cd18a34716fb15a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103693",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

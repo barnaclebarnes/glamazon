@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189463
+  },
+  "name": "Museo della corte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ca' Cappello, snc",
+    "addressLocality": "Porto Viro",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0403&mlon=12.2192#map=15/45.0403/12.2192",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0403,
+    "longitude": 12.2192
+  },
+  "url": "http://www.comune.portoviro.ro.it.",
+  "telephone": "+39 0426325771",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FhROegfK9teP0hqEExDBmVNMkhw=/1000x1000/museums/logos/000/189/463/original/12b44bc964a9e2b931afc60252044158cd5d492.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100964",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

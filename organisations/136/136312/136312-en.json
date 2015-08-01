@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136312
+  },
+  "name": "ATLANTA TECH LIB & MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "960 RALPH MCGILL BLVD N",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30306-4447"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7662&mlon=-84.3584#map=15/33.7662/-84.3584",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7662,
+    "longitude": -84.3584
+  },
+  "url": "http://www.jimmycarterlibrary.org",
+  "telephone": "+1 (404) 865-7100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300583",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

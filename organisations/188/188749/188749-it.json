@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188749
+  },
+  "name": "Museo archeologico di Orbetello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mura di Levante, 11",
+    "addressLocality": "Orbetello",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4373&mlon=11.2137#map=15/42.4373/11.2137",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4373,
+    "longitude": 11.2137
+  },
+  "url": "http://www.comune.orbetello.gr.it",
+  "telephone": "+39 0564861242",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pftzFBtGOyHS6EfAApB4DQ7yIPw=/1000x1000/museums/logos/000/188/749/original/48f2734c25b9dd83cc678c3cb7bf82e65ce9c694.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103024",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

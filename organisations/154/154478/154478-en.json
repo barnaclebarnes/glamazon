@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154478
+  },
+  "name": "THE HIGH DESERT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "59800 S HWY 97",
+    "addressLocality": "BEND",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97702-7962"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9679&mlon=-121.347#map=15/43.9679/-121.347",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9679,
+    "longitude": -121.347
+  },
+  "url": "http://www.highdesertmuseum.org",
+  "telephone": "+1 (541) 382-4754",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/highdesertmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/HighDesrtMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100271",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

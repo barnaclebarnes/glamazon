@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130245
+  },
+  "name": "JUNIPERO SERRA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2727 PRESIDIO DR",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7598&mlon=-117.195#map=15/32.7598/-117.195",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7598,
+    "longitude": -117.195
+  },
+  "url": "http://www.sandiegohistory.org",
+  "telephone": "+1 (619) 297-3258",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600371",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

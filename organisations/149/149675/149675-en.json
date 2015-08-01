@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149675
+  },
+  "name": "CHELSEA ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 20157",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10011-0002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7413&mlon=-73.9983#map=15/40.7413/-73.9983",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7413,
+    "longitude": -73.9983
+  },
+  "url": "http://www.chelseaartmuseum.org",
+  "telephone": "+1 (212) 255-0719",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/7064548163"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ChelseaArtMus"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600969",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

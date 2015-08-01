@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137859
+  },
+  "name": "HOMER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "107 N MAIN ST",
+    "addressLocality": "HOMER",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61849-1223"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0363&mlon=-87.9581#map=15/40.0363/-87.9581",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0363,
+    "longitude": -87.9581
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701004",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

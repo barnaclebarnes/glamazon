@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129141
+  },
+  "name": "NAU ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "321 MCMULLEN CIR",
+    "addressLocality": "FLAGSTAFF",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "86001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1937&mlon=-111.655#map=15/35.1937/-111.655",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1937,
+    "longitude": -111.655
+  },
+  "url": "http://www.nau.edu/art_museum",
+  "telephone": "+1 (928) 523-3471",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400043",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

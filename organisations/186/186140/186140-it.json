@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186140
+  },
+  "name": "Museo civico archeologico \"Luigi Fantini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Museo, 2, ",
+    "addressLocality": "Monterenzio",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3248&mlon=11.4045#map=15/44.3248/11.4045",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3248,
+    "longitude": 11.4045
+  },
+  "url": "http://www3.unibo.it/archeologia",
+  "telephone": "+39 051929766",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GPtJeO7gbx_fhzGKS47B1XKDiF0=/1000x1000/museums/logos/000/186/140/original/d4fb843475f0b9ff662334732a7ccae7d227b2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102005",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

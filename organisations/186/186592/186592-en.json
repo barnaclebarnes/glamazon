@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186592
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Pietro Canonica, 2",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9143&mlon=12.4862#map=15/41.9143/12.4862",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9143,
+    "longitude": 12.4862
+  },
+  "url": "http://www.museocanonica.it",
+  "telephone": "+39 068842279",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zMU0c4n_kb-iKJ5ogQzRZ_DrQtg=/1000x1000/museums/logos/000/186/592/original/a88ce8c6fac25de18d217eaf90e75855312922a6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101587",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

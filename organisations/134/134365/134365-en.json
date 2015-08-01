@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134365
+  },
+  "name": "UNITED STATES HOLOCAUST MEMORIAL COUNCIL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 RAOUL WALLENBERG PL SW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20024-2126"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8876&mlon=-77.0337#map=15/38.8876/-77.0337",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8876,
+    "longitude": -77.0337
+  },
+  "url": "http://www.ushmm.org",
+  "telephone": "+1 (202) 488-0400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100146",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

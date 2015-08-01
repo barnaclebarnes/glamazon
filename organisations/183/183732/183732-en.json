@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183732
+  },
+  "name": "Museum im Alten Rathaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Alter Rathausplatz 1",
+    "addressLocality": "Bad Brückenau",
+    "addressCountry": "Germany",
+    "postalCode": "97769"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.3087&mlon=9.78735#map=15/50.3087/9.78735",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.3087,
+    "longitude": 9.78735
+  },
+  "telephone": "09741/6903",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183732",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

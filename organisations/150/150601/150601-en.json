@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150601
+  },
+  "name": "CLIFTON SPRINGS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 112",
+    "addressLocality": "CLIFTON SPGS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14432-0112"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9614&mlon=-77.1362#map=15/42.9614/-77.1362",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9614,
+    "longitude": -77.1362
+  },
+  "url": "http://www.fostercottage.org/",
+  "telephone": "+1 (315) 462-7394",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601895",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

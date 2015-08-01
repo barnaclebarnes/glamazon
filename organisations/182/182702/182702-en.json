@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182702
+  },
+  "name": "Museum der Stadtwerke Erding",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Gries 21",
+    "addressLocality": "Erding",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85435"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3112&mlon=11.9091#map=15/48.3112/11.9091",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3112,
+    "longitude": 11.9091
+  },
+  "url": "http://www.stadtwerke-erding.de/index.php?option=com_content&task=view&id=22&Itemid=109",
+  "telephone": "08122/407-101",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182702",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

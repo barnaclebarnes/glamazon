@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185822
+  },
+  "name": "Museo ecologico della Presila",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pandette, 36",
+    "addressLocality": "Serra Pedace",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2776&mlon=16.3445#map=15/39.2776/16.3445",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2776,
+    "longitude": 16.3445
+  },
+  "url": "http://www.serrapedace.info/",
+  "telephone": "+39 0984 436093 (Comune)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì, Mercoledì, Venerdì dalle 14,00 alle 19,00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110970",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

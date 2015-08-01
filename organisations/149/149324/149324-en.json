@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149324
+  },
+  "name": "PROMOTE ART WORKS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 SMITH ST",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11201-6218"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6876&mlon=-73.9898#map=15/40.6876/-73.9898",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6876,
+    "longitude": -73.9898
+  },
+  "url": "http://www.pawi.org",
+  "telephone": "+1 (718) 797-3116",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600618",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

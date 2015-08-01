@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187738
+  },
+  "name": "La Castiglia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, ",
+    "addressLocality": "Saluzzo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6425&mlon=7.48745#map=15/44.6425/7.48745",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6425,
+    "longitude": 7.48745
+  },
+  "url": "http://www.saluzzoturistica.it",
+  "telephone": "+39 0175240006",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 1 apr. al 28 sett. 2014: dom. e festività infrasettimanali: 15,00-19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "7,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vdxyMeXETGVmqknhVPdt9aZY9gs=/1000x1000/museums/logos/000/187/738/original/99b7ea47997f90f51033dddbd8337e36e59f67f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106720",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

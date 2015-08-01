@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187712
+  },
+  "name": "Museo del Piropo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 25, ",
+    "addressLocality": "Martiniana Po",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6266&mlon=7.36671#map=15/44.6266/7.36671",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6266,
+    "longitude": 7.36671
+  },
+  "telephone": "+39 0175 46505",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Primavera - Estate: domenica 14,30-18,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/92_Y78dZe6kp4KTZppTmZZbHr7I=/1000x1000/museums/logos/000/187/712/original/3387d7ad74c296c0fb728b8a9529b6ad3e3be333.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106762",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

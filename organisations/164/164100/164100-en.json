@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164100
+  },
+  "name": "Monash University Library Map Collection",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9107&mlon=145.131#map=15/-37.9107/145.131",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9107,
+    "longitude": 145.131
+  },
+  "url": "http://monash.edu/library/libraries/australia/hal/index.html",
+  "telephone": "(03) 9905 5054 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "monash-university-library-map-collection",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/monash-university-library-map-collection",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

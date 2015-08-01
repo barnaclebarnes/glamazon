@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188080
+  },
+  "name": "Raccolta civica d'arte contemporanea di Molfetta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Municipio, ",
+    "addressLocality": "Molfetta",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2049&mlon=16.6004#map=15/41.2049/16.6004",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2049,
+    "longitude": 16.6004
+  },
+  "telephone": "+39 0803380173",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wURnhxhft98cFpa9zKURk-10KWo=/1000x1000/museums/logos/000/188/080/original/301284ab40b491b21caea31b688b570a2dc9161.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102330",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187156
+  },
+  "name": "Pinacoteca C. Ottone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Ducale, 20",
+    "addressLocality": "Vigevano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3173&mlon=8.85763#map=15/45.3173/8.85763",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3173,
+    "longitude": 8.85763
+  },
+  "url": "http://www.comune.vigevano.pv.it",
+  "telephone": "+39 numero di telefono non disponibile",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106866",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

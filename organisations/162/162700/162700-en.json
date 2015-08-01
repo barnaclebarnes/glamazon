@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162700
+  },
+  "name": "SOUTHERN WISCONSIN AIRFEST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "757 MILWAUKEE RD",
+    "addressLocality": "BELOIT",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53511-5611"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.504&mlon=-89.0191#map=15/42.504/-89.0191",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.504,
+    "longitude": -89.0191
+  },
+  "url": "http://www.swairfest.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500149",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

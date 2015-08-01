@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182972
+  },
+  "name": "Feuerwehrmuseum Kaufbeuren Ostallgäu e.V.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Neugablonzer Straße 10",
+    "addressLocality": "Kaufbeuren",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87600"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.882&mlon=10.6252#map=15/47.882/10.6252",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.882,
+    "longitude": 10.6252
+  },
+  "url": "http://www.feuerwehrmuseum-kaufbeuren.de/de/home",
+  "telephone": "08341 960720",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182972",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139462
+  },
+  "name": "DES MOINES ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4700 GRAND AVE",
+    "addressLocality": "DES MOINES",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50312"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5847&mlon=-93.6817#map=15/41.5847/-93.6817",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5847,
+    "longitude": -93.6817
+  },
+  "url": "http://www.desmoinesartcenter.org",
+  "telephone": "+1 (515) 277-4405",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/79905932747"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900499",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

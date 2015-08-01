@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142971
+  },
+  "name": "DARWIN PROJECT INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "13 ARLINGTON STREET",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02140-2701"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3864&mlon=-71.1207#map=15/42.3864/-71.1207",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3864,
+    "longitude": -71.1207
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500601",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

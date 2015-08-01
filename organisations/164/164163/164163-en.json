@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164163
+  },
+  "name": "Nobelius Heritage Park & Emerald Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9316&mlon=145.447#map=15/-37.9316/145.447",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9316,
+    "longitude": 145.447
+  },
+  "url": "http://www.emeraldmuseum.org.au",
+  "telephone": "03 59682152",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Wednesdays 10am to 3pm, Sundays 1.30 to 4pm, or by appointment",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "emerald-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/emerald-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

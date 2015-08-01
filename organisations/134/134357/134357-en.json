@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134357
+  },
+  "name": "US NAVY MEMORIAL FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "701 PENNSYLVANIA AVE NW STE 123",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20004-2688"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8934&mlon=-77.0219#map=15/38.8934/-77.0219",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8934,
+    "longitude": -77.0219
+  },
+  "url": "http://www.navymemorial.org/",
+  "telephone": "+1 (202) 380-0710",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100138",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142636
+  },
+  "name": "INSTITUTE OF CONTEMPORARY ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 NORTHERN AVE",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02210-1802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3524&mlon=-71.0447#map=15/42.3524/-71.0447",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3524,
+    "longitude": -71.0447
+  },
+  "url": "http://www.icaboston.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500266",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

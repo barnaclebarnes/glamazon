@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183123
+  },
+  "name": "Museum für Stadt- und Familiengeschichte Marktsteft",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 27",
+    "addressLocality": "Marktsteft",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97342"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6965&mlon=10.1352#map=15/49.6965/10.1352",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6965,
+    "longitude": 10.1352
+  },
+  "url": "http://uploader.kitzingen.de/marktsteft/museum/home.htm",
+  "telephone": "09332/4050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183123",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

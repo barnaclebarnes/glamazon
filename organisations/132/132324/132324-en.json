@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132324
+  },
+  "name": "HILLER AVIATION INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "601 SKYWAY RD",
+    "addressLocality": "SAN CARLOS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94070-2702"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5122&mlon=-122.254#map=15/37.5122/-122.254",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5122,
+    "longitude": -122.254
+  },
+  "url": "http://www.hiller.org",
+  "telephone": "+1 (650) 654-0200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602450",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

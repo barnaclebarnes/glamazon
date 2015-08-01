@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145933
+  },
+  "name": "WORLD BIRD SANCTUARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "125 BALD EAGLE RIDGE RD",
+    "addressLocality": "VALLEY PARK",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63088-2036"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5373&mlon=-90.5328#map=15/38.5373/-90.5328",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5373,
+    "longitude": -90.5328
+  },
+  "url": "http://www.worldbirdsanctuary.org",
+  "telephone": "+1 (636) 861-1392",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900362",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187625
+  },
+  "name": "Museo del territorio biellese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Chiostro di San Sebastiano, Via Quintino Sella, ",
+    "addressLocality": "Biella",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5625&mlon=8.0494#map=15/45.5625/8.0494",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5625,
+    "longitude": 8.0494
+  },
+  "url": "http://www.museodelterritorio.biella.it",
+  "telephone": "+39 0152529345",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XqXzaGwfKo9bBsClEMmgY3NcPL8=/1000x1000/museums/logos/000/187/625/original/cdd46456ca12433325a8d5a2fb2572761a5e940.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102514",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

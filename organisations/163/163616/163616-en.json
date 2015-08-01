@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163616
+  },
+  "name": "Allansford Cheese World Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.3952&mlon=142.629#map=15/-38.3952/142.629",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.3952,
+    "longitude": 142.629
+  },
+  "url": "http://www.cheeseworld.com.au/cheese-world-museum.htm",
+  "telephone": "03 5565 3190",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8.30am - 5.00pm Monday to Friday",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "cheeseworld-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/cheeseworld-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

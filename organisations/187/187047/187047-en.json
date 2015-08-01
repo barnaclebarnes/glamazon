@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187047
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Garibaldi, 225",
+    "addressLocality": "Legnano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6011&mlon=8.91348#map=15/45.6011/8.91348",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6011,
+    "longitude": 8.91348
+  },
+  "url": "http://www.legnano.org",
+  "telephone": "+39 0331543005",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zAWOykEs2heDmb_OYgVP5g4eyOg=/1000x1000/museums/logos/000/187/047/original/7ec19b3253a6b27cbed7e62a3dc8de4bfba4a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103686",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

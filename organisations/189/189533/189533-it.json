@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189533
+  },
+  "name": "Museo geopaleontologico di Camposilvano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Contrada Covolo, ",
+    "addressLocality": "Velo Veronese",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6252&mlon=11.093#map=15/45.6252/11.093",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6252,
+    "longitude": 11.093
+  },
+  "url": "http://www.camposilvano.it/museo.htm",
+  "telephone": "+39 0456516005",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/l93PtXv0s18K9DzlIqRejW8QsA0=/1000x1000/museums/logos/000/189/533/original/da1931f58ec7343a62bedc112950e1a5363b9532.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101138",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

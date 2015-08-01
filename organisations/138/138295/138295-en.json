@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138295
+  },
+  "name": "JOHN DILLINGER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7770 CORINNE DR",
+    "addressLocality": "HAMMOND",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "46323"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5718&mlon=-87.4621#map=15/41.5718/-87.4621",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5718,
+    "longitude": -87.4621
+  },
+  "url": "http://dillingermuseum.com",
+  "telephone": "+1 (219) 989-7770",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800081",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187472
+  },
+  "name": "Museo Morbidelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Fermo, 39",
+    "addressLocality": "Pesaro",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9019&mlon=12.8868#map=15/43.9019/12.8868",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9019,
+    "longitude": 12.8868
+  },
+  "url": "http://www.museomorbidelli.it",
+  "telephone": "+39 072124307",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sabato pom. dalle 15.00 alle 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 10.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104308",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

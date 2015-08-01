@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186444
+  },
+  "name": "Museo civico archeologico di Magliano Sabina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sabina, 19",
+    "addressLocality": "Magliano Sabina",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3611&mlon=12.4826#map=15/42.3611/12.4826",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3611,
+    "longitude": 12.4826
+  },
+  "url": "http://www.regione.lazio.it/musei/maglianosabina/index.php",
+  "telephone": "+39 0744 910001",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedi'- - mar. - merc. - giov. : 9,00 - 12,00 - ven. - sab.: 9,00 - 12,00/ 15,00 - 18,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QDO-EPxTfurWddrb5GwPRLMikso=/1000x1000/museums/logos/000/186/444/original/57439dfb101d29aaa4f2161dcc6afefed39e3e1.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101466",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

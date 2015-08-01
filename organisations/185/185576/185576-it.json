@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185576
+  },
+  "name": "Pinacoteca e centro documentale della ceramica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cappelletti, 4",
+    "addressLocality": "Rapino",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2148&mlon=14.1886#map=15/42.2148/14.1886",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2148,
+    "longitude": 14.1886
+  },
+  "url": "http://www.rapino.net",
+  "telephone": "+39 087 1800642",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sab., dom. e festivi invernale; 10,00 /13,00-15,00/19,00; estivo 16,00/20,00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100063",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

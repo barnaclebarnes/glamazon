@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133875
+  },
+  "name": "BARTLETT ARBORETUM ASSOCIATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "151 BROOKDALE RD",
+    "addressLocality": "STAMFORD",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06903-4119"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1328&mlon=-73.5527#map=15/41.1328/-73.5527",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1328,
+    "longitude": -73.5527
+  },
+  "url": "http://www.bartlettarboretum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900350",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

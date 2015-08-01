@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161903
+  },
+  "name": "MARYHILL MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "35 MARYHILL MUSEUM DR",
+    "addressLocality": "GOLDENDALE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98620-4601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6776&mlon=-120.864#map=15/45.6776/-120.864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6776,
+    "longitude": -120.864
+  },
+  "url": "http://www.maryhillmuseum.org",
+  "telephone": "+1 (509) 773-3733",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/maryhillmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/maryhillmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300352",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

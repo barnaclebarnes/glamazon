@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185731
+  },
+  "name": "Museo archeologico lametino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzetta S. Domenico , ",
+    "addressLocality": "Lamezia Terme",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9745&mlon=16.3186#map=15/38.9745/16.3186",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9745,
+    "longitude": 16.3186
+  },
+  "telephone": "+39 0968 441947",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GkHnbPYigmN6hne_eteIKxUUcVs=/1000x1000/museums/logos/000/185/731/original/227719a4c7b57f9ea0cbaf6c12de5f60e181672.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108414",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

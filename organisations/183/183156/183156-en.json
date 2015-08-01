@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183156
+  },
+  "name": "Geigenbaumuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ballenhausgasse 3",
+    "addressLocality": "Mittenwald",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82481"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.4427&mlon=11.2604#map=15/47.4427/11.2604",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.4427,
+    "longitude": 11.2604
+  },
+  "url": "http://www.geigenbaumuseum-mittenwald.de",
+  "telephone": "08823/2511",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183156",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

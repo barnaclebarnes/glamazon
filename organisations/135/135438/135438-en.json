@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135438
+  },
+  "name": "JEFFERSON ARTS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1115",
+    "addressLocality": "MONTICELLO",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32345-1115"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.5451&mlon=-83.8741#map=15/30.5451/-83.8741",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.5451,
+    "longitude": -83.8741
+  },
+  "url": "http://www.jeffersonartsgallery.com/",
+  "telephone": "+1 (850) 997-3311",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200993",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

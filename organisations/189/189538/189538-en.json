@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189538
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Pontiere, 35",
+    "addressLocality": "Verona",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4332&mlon=10.9961#map=15/45.4332/10.9961",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4332,
+    "longitude": 10.9961
+  },
+  "url": "http://www.comune.verona.it/castelvecchio/cvsito",
+  "telephone": "+39 045800361",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/u371mVkpKOIcs343RGb5eEtZbS4=/1000x1000/museums/logos/000/189/538/original/957fd3865cda72dab8db68cf28485611481a161.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101149",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

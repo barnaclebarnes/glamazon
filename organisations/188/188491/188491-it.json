@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188491
+  },
+  "name": "Museo archeologico ibleo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Natalelli, 11",
+    "addressLocality": "Ragusa",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.924&mlon=14.7287#map=15/36.924/14.7287",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.924,
+    "longitude": 14.7287
+  },
+  "url": "http://www.comune.ragusa.gov.it/cultura/musei.html",
+  "telephone": "+39 0932826004",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal Lunedì alla Domenica dalle ore 9.00 alle 13.30 e dalle 16.30 alle ore 19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0uSMTrkUpIPNGp80S8EqTxfuqac=/1000x1000/museums/logos/000/188/491/original/309d4f539a8171f6d31458fc36e4a858944ee6d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101342",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

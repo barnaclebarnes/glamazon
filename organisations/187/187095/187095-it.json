@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187095
+  },
+  "name": "Raccolta di apparecchi di fisica del Liceo \"Parini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Goito, 4",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4743&mlon=9.18882#map=15/45.4743/9.18882",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4743,
+    "longitude": 9.18882
+  },
+  "url": "http://www.liceoparini.it",
+  "telephone": "+39 026551278",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tV7rNsytYJ-A3trM14tBVIf4q1Q=/1000x1000/museums/logos/000/187/095/original/af7f8ff429983dc5f494557fded3f9bf3898b0f1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103721",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

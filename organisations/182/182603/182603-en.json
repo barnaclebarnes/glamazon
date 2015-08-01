@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182603
+  },
+  "name": "Altenstädter Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfarrplatz 12",
+    "addressLocality": "Altenstadt",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92665"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7201&mlon=12.1587#map=15/49.7201/12.1587",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7201,
+    "longitude": 12.1587
+  },
+  "url": "http://www.heimatverein-altenstadt.de/heiminfo",
+  "telephone": "09602/4713",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182603",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

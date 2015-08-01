@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187286
+  },
+  "name": "Museo archeologico statale di Ascoli Piceno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Arringo, 28",
+    "addressLocality": "Ascoli Piceno",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8536&mlon=13.5776#map=15/42.8536/13.5776",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8536,
+    "longitude": 13.5776
+  },
+  "url": "http://www.archeomarche.beniculturali.it/",
+  "telephone": "+39 0736253562",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì-domenica 8.30-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-EuzFe18rtFc9iHukFHC5LsrDMc=/1000x1000/museums/logos/000/187/286/original/5141a6edc969af5f89fe27a9f3f4d1f4a9f4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20297",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

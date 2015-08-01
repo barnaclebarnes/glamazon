@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158081
+  },
+  "name": "HOUSTON CENTER FOR CONTEMPORARY CRAFT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4848 MAIN ST",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7305&mlon=-95.3858#map=15/29.7305/-95.3858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7305,
+    "longitude": -95.3858
+  },
+  "url": "http://www.crafthouston.org",
+  "telephone": "+1 (713) 529-4848",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/crafthouston"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800181",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159964
+  },
+  "name": "OGDEN UNION STATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2501 WALL AVENUE",
+    "addressLocality": "OGDEN",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84401"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2207&mlon=-111.979#map=15/41.2207/-111.979",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2207,
+    "longitude": -111.979
+  },
+  "url": "http://theunionstation.org/",
+  "telephone": "+1 (801) 393-9890",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900030",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

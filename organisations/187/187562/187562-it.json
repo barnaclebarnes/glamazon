@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187562
+  },
+  "name": "Museo paleontologico \"Giulio Maini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sant'Antonio, 17, ",
+    "addressLocality": "Ovada",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6369&mlon=8.6475#map=15/44.6369/8.6475",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6369,
+    "longitude": 8.6475
+  },
+  "telephone": "+39 0143836299",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tn2Nz9_tgyw9u49Q0XsyEBJG-xI=/1000x1000/museums/logos/000/187/562/original/92e59676da593618dcd74ef06fcdf17087b047.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102466",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

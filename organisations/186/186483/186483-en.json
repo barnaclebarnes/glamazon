@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186483
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Guglielmo Marconi, 6",
+    "addressLocality": "Frascati",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8148&mlon=12.7214#map=15/41.8148/12.7214",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8148,
+    "longitude": 12.7214
+  },
+  "url": "http://www.scuderiealdobrandini.org",
+  "telephone": "+39 069417195",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VaVVVSsYArtkUE5-Hz02cD38gRM=/1000x1000/museums/logos/000/186/483/original/2b7e733b1ec57573f85d2e6ba439f48e905276.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101494",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

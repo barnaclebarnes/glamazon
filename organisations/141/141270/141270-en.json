@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141270
+  },
+  "name": "BAR HARBOR HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "33 LEDGELAWN AVE",
+    "addressLocality": "BAR HARBER",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04609-1303"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3853&mlon=-68.2076#map=15/44.3853/-68.2076",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3853,
+    "longitude": -68.2076
+  },
+  "url": "http://www.barharborhistorical.org",
+  "telephone": "+1 (207) 288-0000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300119",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

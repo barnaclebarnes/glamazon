@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183411
+  },
+  "name": "Südsee-Sammlung Obergünzburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Unterer Markt 2",
+    "addressLocality": "Obergünzburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87634"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8472&mlon=10.4195#map=15/47.8472/10.4195",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8472,
+    "longitude": 10.4195
+  },
+  "url": "http://www.suedseesammlung.de/",
+  "telephone": "08372/8239",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183411",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150305
+  },
+  "name": "BRIDGEWATER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 363",
+    "addressLocality": "BRIDGEWATER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13313-0363"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8791&mlon=-75.2512#map=15/42.8791/-75.2512",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8791,
+    "longitude": -75.2512
+  },
+  "telephone": "+1 (315) 822-5682",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601599",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

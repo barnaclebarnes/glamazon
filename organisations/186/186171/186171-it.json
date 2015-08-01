@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186171
+  },
+  "name": "Museo civico archeologico etnologico di Modena",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Porta S. Agostino, 337, ",
+    "addressLocality": "Modena",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6478&mlon=10.92#map=15/44.6478/10.92",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6478,
+    "longitude": 10.92
+  },
+  "url": "http://www.comune.modena.it/museoarcheologico",
+  "telephone": "+39 0592033100",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nu45f8njKGuV7vgGkgzZ-jnqUEw=/1000x1000/museums/logos/000/186/171/original/a8f332d5a48b6f6d9b2e8e6ce5cc6026616a7dd7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102115",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

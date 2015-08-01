@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160627
+  },
+  "name": "GLENCOE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "600 UNRUH DR",
+    "addressLocality": "RADFORD",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24141"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1331&mlon=-80.5804#map=15/37.1331/-80.5804",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1331,
+    "longitude": -80.5804
+  },
+  "url": "http://glencoemuseum.org",
+  "telephone": "+1 (540) 731-5031",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100133",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

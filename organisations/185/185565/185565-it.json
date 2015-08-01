@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185565
+  },
+  "name": "Museo diocesano di Lanciano e sezione di Ortona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Finamore, 32",
+    "addressLocality": "Lanciano",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2295&mlon=14.3867#map=15/42.2295/14.3867",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2295,
+    "longitude": 14.3867
+  },
+  "url": "http://www.museodiocesianolanciano.org",
+  "telephone": "+39 0872712648",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Martedi e Giovedì ore 17.00 - 20.00; mercoledì e venerdì ore 9.30 - 12.30; sabato e domenica ore 9.30 - 12.30 / 17.00 - 20.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sJXr8BO1AlL-HLCi4qwq3lejhdA=/1000x1000/museums/logos/000/185/565/original/9f9c9943e1266c28a2c8fff121415ab02aae8a10.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100054",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

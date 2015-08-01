@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150346
+  },
+  "name": "MEDINA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "233 WEST CENTER STREET",
+    "addressLocality": "MEDINA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2203&mlon=-78.3911#map=15/43.2203/-78.3911",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2203,
+    "longitude": -78.3911
+  },
+  "url": "http://historicmedina.nytreasures.org",
+  "telephone": "+1 (585) 798-3006",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601640",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

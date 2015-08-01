@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187461
+  },
+  "name": "Raccolta di grafica contemporanea e Museo degli antichi mestieri itineranti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Francesca da Rimini, 1",
+    "addressLocality": "Montefelcino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7351&mlon=12.833#map=15/43.7351/12.833",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7351,
+    "longitude": 12.833
+  },
+  "url": "http://www.comune.montefelcino.ps.it",
+  "telephone": "+39 0721 729024 (Proloco) - 0721 743039 (Municipio)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111553",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

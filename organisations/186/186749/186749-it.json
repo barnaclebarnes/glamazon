@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186749
+  },
+  "name": "Museo G.D. Cassini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": " Piazzale Sant'Antonio, 1",
+    "addressLocality": "Perinaldo",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8659&mlon=7.66777#map=15/43.8659/7.66777",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8659,
+    "longitude": 7.66777
+  },
+  "url": "http://www.astroperinaldo.it",
+  "telephone": "+39 +39 3485520554",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni feriali dalle 8.30 alle 12.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_Y0HxZ21DxRbIxibVubCISzJcDQ=/1000x1000/museums/logos/000/186/749/original/d88ba760afa542f44c7a66244145f524668dd2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111318",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

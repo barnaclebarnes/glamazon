@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132310
+  },
+  "name": "COLMA HISTORICAL ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1500 HILLSIDE BLVD",
+    "addressLocality": "COLMA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94014"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6825&mlon=-122.456#map=15/37.6825/-122.456",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6825,
+    "longitude": -122.456
+  },
+  "url": "http://colmahistory.org",
+  "telephone": "+1 (650) 757-1676",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602436",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

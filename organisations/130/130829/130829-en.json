@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130829
+  },
+  "name": "CLAYTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 94",
+    "addressLocality": "CLAYTON",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94517"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9288&mlon=-121.928#map=15/37.9288/-121.928",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9288,
+    "longitude": -121.928
+  },
+  "url": "http://www.claytonhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600955",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

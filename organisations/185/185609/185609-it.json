@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185609
+  },
+  "name": "Museo dell'arte e della tecnologia confettiera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Introdacqua, 55",
+    "addressLocality": "Sulmona",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0386&mlon=13.9224#map=15/42.0386/13.9224",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0386,
+    "longitude": 13.9224
+  },
+  "url": "http://www.pelino.it",
+  "telephone": "+39 0864 210047",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VBFd1VkXywbkac0DH_ijsPw5pCo=/1000x1000/museums/logos/000/185/609/original/1664916246b2152816a64ac92db7bcf54d3ff2.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100028",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

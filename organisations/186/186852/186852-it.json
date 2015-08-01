@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186852
+  },
+  "name": "Museo del territorio. La fabbrica sul viale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale XI Febbraio, ?",
+    "addressLocality": "Verdello",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6091&mlon=9.63064#map=15/45.6091/9.63064",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6091,
+    "longitude": 9.63064
+  },
+  "url": "http://www.verdellopericittadini.it",
+  "telephone": "+39 0354191415",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_hWys2TokPkC-yxU1YPwywmfy2o=/1000x1000/museums/logos/000/186/852/original/a1d8ce79cb6ce9b1f230e2e0ec826afd42d53.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103540",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

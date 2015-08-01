@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134299
+  },
+  "name": "KUSH INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4545 42ND ST NW STE 208",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20016-4623"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9489&mlon=-77.0821#map=15/38.9489/-77.0821",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9489,
+    "longitude": -77.0821
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100080",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

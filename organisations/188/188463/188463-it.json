@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188463
+  },
+  "name": "Museo di mineralogia di Palermo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Archirafi, 36",
+    "addressLocality": "Palermo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1097&mlon=13.3735#map=15/38.1097/13.3735",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1097,
+    "longitude": 13.3735
+  },
+  "url": "http://www.associazionegeode.it/museo-di-mineralogia",
+  "telephone": "+39 091 23861648",
+  "contactPoint": [
+
+  ],
+  "openingHours": "prenotazione dal Lunedì al Venerdì (ore 9.00-14.00).",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jc1RopEdgqb6DgdhU3hU5JPnk1M=/1000x1000/museums/logos/000/188/463/original/e5a3e5414e9aa47f6cf60f5e83954554feaad72.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101313",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

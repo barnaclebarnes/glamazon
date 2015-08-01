@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189881
+  },
+  "name": "ACADIA NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "P. O. BOX 177",
+    "addressLocality": "BAR HARBOR",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04609"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3897&mlon=-68.223#map=15/44.3897/-68.223",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3897,
+    "longitude": -68.223
+  },
+  "telephone": "+1 (207) 288-8729",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300562",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

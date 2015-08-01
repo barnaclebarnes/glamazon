@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186702
+  },
+  "name": "Museo di storia e cultura contadina di Genova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Salita al Garbo, 49",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4378&mlon=8.89919#map=15/44.4378/8.89919",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4378,
+    "longitude": 8.89919
+  },
+  "url": "http://www.museidigenova.it",
+  "telephone": "+39 0107401243",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100386",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

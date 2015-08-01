@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164056
+  },
+  "name": "Mary MacKillop Heritage Centre",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8099&mlon=144.979#map=15/-37.8099/144.979",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8099,
+    "longitude": 144.979
+  },
+  "url": "http://www.marymackillopheritagecentre.org.au",
+  "telephone": "+613 9926 9311",
+  "contactPoint": [
+
+  ],
+  "openingHours": "The Museum is open from Monday to Friday between 10.00am and 4.00pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "mary-mackillop-heritage-centre",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/mary-mackillop-heritage-centre",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

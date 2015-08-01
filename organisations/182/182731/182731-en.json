@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182731
+  },
+  "name": "Kupfermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Herrschinger Straße 1",
+    "addressLocality": "Pähl",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82396"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9283&mlon=11.1556#map=15/47.9283/11.1556",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9283,
+    "longitude": 11.1556
+  },
+  "url": "http://www.kupfermuseumfischen.de",
+  "telephone": "08808/92191-31",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182731",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

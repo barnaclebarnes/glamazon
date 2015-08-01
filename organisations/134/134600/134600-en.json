@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134600
+  },
+  "name": "HISTORIC PENSACOLA VILLAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "205 E ZARAGOZA ST",
+    "addressLocality": "PENSACOLA",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32502"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.413&mlon=-87.2229#map=15/30.413/-87.2229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.413,
+    "longitude": -87.2229
+  },
+  "url": "http://www.historicpensacola.org",
+  "telephone": "+1 (850) 595-5993",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200154",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188758
+  },
+  "name": "Museo della vite e del vino di Roccastrada",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "dell'Orologio, 9",
+    "addressLocality": "Roccastrada",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0092&mlon=11.1683#map=15/43.0092/11.1683",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0092,
+    "longitude": 11.1683
+  },
+  "telephone": "+39 0564563376",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SZc2SmX9RFJNvjxMy3sIAh_Dzmw=/1000x1000/museums/logos/000/188/758/original/118fe09e12e4c4b59ee98a9f5adff983bee3885.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103031",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130421
+  },
+  "name": "CALIFORNIA SNEAKER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "264 S LA CIENEGA BLVD",
+    "addressLocality": "BEVERLY HILLS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90211"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0636&mlon=-118.376#map=15/34.0636/-118.376",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0636,
+    "longitude": -118.376
+  },
+  "telephone": "+1 (213) 507-5263",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600547",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

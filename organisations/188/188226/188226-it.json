@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188226
+  },
+  "name": "Museo del Parco Pianelle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Ducale , ",
+    "addressLocality": "Martina Franca",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7029&mlon=17.3393#map=15/40.7029/17.3393",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7029,
+    "longitude": 17.3393
+  },
+  "url": "http://www.comune.martina-franca.ta.it",
+  "telephone": "+39 0804836279",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FyiDbl33tozfbvIp7Bv-O2GDKI4=/1000x1000/museums/logos/000/188/226/original/963f10a1a4965c241fbc5ab7c72044e9776f99.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102426",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

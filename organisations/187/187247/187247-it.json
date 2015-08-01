@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187247
+  },
+  "name": "Pinacoteca civica \"Bruno Molajoli\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza papa giovanni paolo II, 2",
+    "addressLocality": "Fabriano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.332&mlon=12.8515#map=15/43.332/12.8515",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.332,
+    "longitude": 12.8515
+  },
+  "url": "http://www.comune.fabriano.an.it",
+  "telephone": "+39 0732250658",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da martedì a domenica dalle 10.00 alle 13.00 e dalle 16.00 alle 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.20"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vzGS5R1IWIgbEWA3mswSYbrql-U=/1000x1000/museums/logos/000/187/247/original/4d6ab444412c1da11e8ac64f62b035d4ff7a63a6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105691",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

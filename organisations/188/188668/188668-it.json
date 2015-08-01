@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188668
+  },
+  "name": "Museo Salvatore Ferragamo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Santa Trinita, 5",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.77&mlon=11.2509#map=15/43.77/11.2509",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.77,
+    "longitude": 11.2509
+  },
+  "url": "http://www.salvatoreferragamo.it",
+  "telephone": "+39 0553360456",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ix3_KIvlLiGl9d1P8uXXkn1ze-o=/1000x1000/museums/logos/000/188/668/original/6ee5b535d9899b84b6f9b460c42afd75bacf9ade.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102945",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

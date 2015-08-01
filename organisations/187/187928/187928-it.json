@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187928
+  },
+  "name": "Museo della frutta \"Francesco Garnier Valletti\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pietro Giuria, 15, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0498&mlon=7.6796#map=15/45.0498/7.6796",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0498,
+    "longitude": 7.6796
+  },
+  "url": "http://www.museodellafrutta.it",
+  "telephone": "+39 0116708195",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato 10.00 - 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Euro 5,00; Ingresso cumulativo con Museo di Anatomia Luigi Rolando e Museo di Antropologia criminale Cesare Lombroso: Euro 10,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VrUkD0SzfvFNc-AGmquCzccATTI=/1000x1000/museums/logos/000/187/928/original/4fddfa87a29c892efd1d6ac97550c79a9344a6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104918",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

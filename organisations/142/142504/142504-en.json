@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142504
+  },
+  "name": "GEORGE PEABODY HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "24 LOWELL STREET",
+    "addressLocality": "PEABODY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01960"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5264&mlon=-70.9286#map=15/42.5264/-70.9286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5264,
+    "longitude": -70.9286
+  },
+  "telephone": "+1 (978) 531-0355",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500134",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155243
+  },
+  "name": "HISTORICAL SOCIETY OF PENNSYLVANIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1300 LOCUST ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19107-5661"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9479&mlon=-75.1624#map=15/39.9479/-75.1624",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9479,
+    "longitude": -75.1624
+  },
+  "url": "http://www.hsp.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200437",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

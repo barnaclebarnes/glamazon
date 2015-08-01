@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187099
+  },
+  "name": "Studio E. Treccani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Carlo Porta, 5",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.474&mlon=9.19418#map=15/45.474/9.19418",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.474,
+    "longitude": 9.19418
+  },
+  "url": "http://www.fondazionecorrente.org",
+  "telephone": "+39 02 6572627",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106867",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

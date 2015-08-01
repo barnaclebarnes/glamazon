@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183244
+  },
+  "name": "Kunstarkaden - Laboratorium für zeitgenössische Kunst. Ein Kunstraum der Stadt",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sparkassenstr. 3",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80331"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1373&mlon=11.5776#map=15/48.1373/11.5776",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1373,
+    "longitude": 11.5776
+  },
+  "url": "http://www.muenchen.de/kunstarkaden",
+  "telephone": "089/233-23784",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183244",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

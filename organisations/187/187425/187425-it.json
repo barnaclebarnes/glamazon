@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187425
+  },
+  "name": "Museo della caricatura \"Luigi Mari\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Libertà, 18",
+    "addressLocality": "Tolentino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2089&mlon=13.2844#map=15/43.2089/13.2844",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2089,
+    "longitude": 13.2844
+  },
+  "url": "http://www.biennaleumorismo.org",
+  "telephone": "+39 0733969797",
+  "contactPoint": [
+
+  ],
+  "openingHours": "invernale:10.00-13.00/15.00-18.00 estivo:10.00-13.00/15.00-19.00.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104244",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

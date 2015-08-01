@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183298
+  },
+  "name": "Säulenhalle des Bayerischen Landesamts für Denkmalpflege",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hofgraben 4",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80539"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1389&mlon=11.5787#map=15/48.1389/11.5787",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1389,
+    "longitude": 11.5787
+  },
+  "url": "http://www.blfd.bayern.de",
+  "telephone": "089/21 14-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183298",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

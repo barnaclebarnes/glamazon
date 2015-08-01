@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187224
+  },
+  "name": "Museo archeologico nazionale delle Marche",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ferretti, 6",
+    "addressLocality": "Ancona",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.623&mlon=13.511#map=15/43.623/13.511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.623,
+    "longitude": 13.511
+  },
+  "url": "http://www.archeomarche.beniculturali.it/",
+  "telephone": "+39 071202602",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8.30-19.30 Ingresso libero la 1° Domenica del mese",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9wzadBNlvvl_97GRe0iNnu33Sms=/1000x1000/museums/logos/000/187/224/original/43fa713d9c7483451c9e7146ac8b35956979c3d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20316",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

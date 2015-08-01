@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148692
+  },
+  "name": "CITY OF LAS VEGAS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "727 GRAND AVENUE",
+    "addressLocality": "LAS VEGAS",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87701-4731"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.5886&mlon=-105.216#map=15/35.5886/-105.216",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.5886,
+    "longitude": -105.216
+  },
+  "url": "http://www.ci.las-vegas.nm.us",
+  "telephone": "+1 (505) 454-1401",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500282",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

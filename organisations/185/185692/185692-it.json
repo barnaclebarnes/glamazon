@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185692
+  },
+  "name": "Museo civico Palazzo Donadoni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vico Rispoli, ",
+    "addressLocality": "Melfi",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9959&mlon=15.6584#map=15/40.9959/15.6584",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9959,
+    "longitude": 15.6584
+  },
+  "url": "http://www.comune.melfi.pz.it",
+  "telephone": "+39 097225111",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105189",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189778
+  },
+  "name": "BISHOP MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1525 BERNICE STREET",
+    "addressLocality": "HONOLULU",
+    "addressRegion": "HI",
+    "addressCountry": "United States",
+    "postalCode": "96817"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.377&mlon=-71.1126#map=15/42.377/-71.1126",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.377,
+    "longitude": -71.1126
+  },
+  "url": "http://www.bishopmuseum.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401500191",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

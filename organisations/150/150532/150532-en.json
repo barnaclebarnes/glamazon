@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150532
+  },
+  "name": "HISTORIC TROY 2020 INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "210 RIVER STREET",
+    "addressLocality": "TROY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12180"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7309&mlon=-73.6937#map=15/42.7309/-73.6937",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7309,
+    "longitude": -73.6937
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601826",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

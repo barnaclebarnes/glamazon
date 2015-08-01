@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186692
+  },
+  "name": "Museo d'arte orientale \"Edoardo Chiossone\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Mazzini, 4N",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4113&mlon=8.93617#map=15/44.4113/8.93617",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4113,
+    "longitude": 8.93617
+  },
+  "url": "http://www.chiossone.museidigenova.it",
+  "telephone": "+39 010/542285",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100381",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182776
+  },
+  "name": "Stadtmuseum Fürth Ludwig Erhard",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ottostraße 2",
+    "addressLocality": "Fürth",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90762"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4738&mlon=10.987#map=15/49.4738/10.987",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4738,
+    "longitude": 10.987
+  },
+  "url": "http://www.stadtmuseum-ludwig-erhard.de/",
+  "telephone": "0911/97922290",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182776",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

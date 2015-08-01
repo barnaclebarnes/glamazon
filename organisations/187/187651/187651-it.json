@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187651
+  },
+  "name": "Wimu Wine Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Falletti",
+    "addressLocality": "Barolo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6088&mlon=7.9403#map=15/44.6088/7.9403",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6088,
+    "longitude": 7.9403
+  },
+  "url": "http://www.wimubarolo.it/",
+  "telephone": "+39 +39 0173 38 66 97",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 26 dicembre al 6 gennaio dalle 10.30 alle 18.00 Mercoledi 1 gennaio aperti dalle 14.00 alle 18.00 Riapertura 21 marzo 2014",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 8.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8UBtDUX1r7TGABYWbcicjK7PUPo=/1000x1000/museums/logos/000/187/651/original/c1a5fd4484f4519e106ecf3bd4d45ac5408d5e5b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111555",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

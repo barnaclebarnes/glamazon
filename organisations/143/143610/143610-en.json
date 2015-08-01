@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143610
+  },
+  "name": "GERALD FORD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "303 PEARL ST NW",
+    "addressLocality": "GRAND RAPIDS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49504"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9666&mlon=-85.6772#map=15/42.9666/-85.6772",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9666,
+    "longitude": -85.6772
+  },
+  "url": "http://www.fordlibrarymuseum.gov",
+  "telephone": "+1 (616) 254-0400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600147",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

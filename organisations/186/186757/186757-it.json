@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186757
+  },
+  "name": "Strade di pietra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Canada, 5",
+    "addressLocality": "Rezzo",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0304&mlon=7.8965#map=15/44.0304/7.8965",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0304,
+    "longitude": 7.8965
+  },
+  "url": "http://comune.rezzo.im.it",
+  "telephone": "+39 0183/34015",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107160",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

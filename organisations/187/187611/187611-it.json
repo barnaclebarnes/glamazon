@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187611
+  },
+  "name": "Castello di Montiglio Monferrato",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Umberto I, 5 - Montiglio, ",
+    "addressLocality": "Montiglio Monferrato",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0675&mlon=8.09767#map=15/45.0675/8.09767",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0675,
+    "longitude": 8.09767
+  },
+  "url": "http://www.castello-montiglio.it",
+  "telephone": "+39 0141994907",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KtmAgzSCY8ABv9XOzgwqYmEku5s=/1000x1000/museums/logos/000/187/611/original/45f2eda08fa17fca331ba7ec973191638a779b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106236",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

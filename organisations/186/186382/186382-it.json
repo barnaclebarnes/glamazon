@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186382
+  },
+  "name": "Casa di San Tommaso",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Tommaso D'Aquino, 7",
+    "addressLocality": "Roccasecca",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5524&mlon=13.6681#map=15/41.5524/13.6681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5524,
+    "longitude": 13.6681
+  },
+  "url": "http://www.comune.roccasecca.fr.it - http://www.pabaac.beniculturali.it ",
+  "telephone": "+39 0776 566172 - 0776 728015",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Llfw_3_-a22OpP5jo1Sxt-1ak8E=/1000x1000/museums/logos/000/186/382/original/a8a82d16a65b1337fae153a090a6745a6a7067e9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104897",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

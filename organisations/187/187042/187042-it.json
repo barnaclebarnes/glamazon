@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187042
+  },
+  "name": "Museo Pisani Dossi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mussi, 38",
+    "addressLocality": "Corbetta",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.466&mlon=8.9193#map=15/45.466/8.9193",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.466,
+    "longitude": 8.9193
+  },
+  "telephone": "+39 029778050",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xpSUoS65IDVZryBkTn6vkUihT-Y=/1000x1000/museums/logos/000/187/042/original/24ea718323148d5321776a491492d7eb11afe0e1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103680",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

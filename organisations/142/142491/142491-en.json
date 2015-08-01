@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142491
+  },
+  "name": "HISTORICAL SOCIETY BILLERICA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "36 CONCORD RD",
+    "addressLocality": "BILLERICA",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01821"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5566&mlon=-71.2695#map=15/42.5566/-71.2695",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5566,
+    "longitude": -71.2695
+  },
+  "url": "http://www.billericahistory.org",
+  "telephone": "+1 (978) 667-7020",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500121",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142645
+  },
+  "name": "BOSTON ATHENAEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 1/2 BEACON ST",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02108-3703"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3581&mlon=-71.0621#map=15/42.3581/-71.0621",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3581,
+    "longitude": -71.0621
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500275",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

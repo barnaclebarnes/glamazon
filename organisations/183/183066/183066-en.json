@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183066
+  },
+  "name": "Haus der Heimat",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kolpingstraße 484 e",
+    "addressLocality": "Landshut",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84028"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.535&mlon=12.1552#map=15/48.535/12.1552",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.535,
+    "longitude": 12.1552
+  },
+  "telephone": "0871/66115",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183066",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

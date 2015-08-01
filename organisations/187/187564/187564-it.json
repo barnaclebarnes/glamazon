@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187564
+  },
+  "name": "Museo d’arte sacra di Ponzone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Oratorio del Santo Suffragio, Piazza Italia, ",
+    "addressLocality": "Ponzone",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5882&mlon=8.45868#map=15/44.5882/8.45868",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5882,
+    "longitude": 8.45868
+  },
+  "telephone": "+39 014478130",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105357",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

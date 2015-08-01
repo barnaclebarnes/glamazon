@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142511
+  },
+  "name": "HADLEY FARM MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "224 RIVER DR",
+    "addressLocality": "HADLEY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01035"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3858&mlon=-72.5817#map=15/42.3858/-72.5817",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3858,
+    "longitude": -72.5817
+  },
+  "url": "http://www.hadleyfarmmuseum.org",
+  "telephone": "+1 (224) 748-3737",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500141",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

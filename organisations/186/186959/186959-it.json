@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186959
+  },
+  "name": "Museo del bijou",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Azzo Porzio, 9",
+    "addressLocality": "Casalmaggiore",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9858&mlon=10.4161#map=15/44.9858/10.4161",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9858,
+    "longitude": 10.4161
+  },
+  "url": "http://www.museodelbijou.it",
+  "telephone": "+39 0375284424",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qp1h89QgPjEaPXLukwTv8R-FDX0=/1000x1000/museums/logos/000/186/959/original/bc0183c1ad357611ee6c7063f6904cf807c16.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103624",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

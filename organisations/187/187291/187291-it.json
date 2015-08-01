@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187291
+  },
+  "name": "Pinacoteca civica di Ascoli Piceno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Arringo, 7",
+    "addressLocality": "Ascoli Piceno",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8536&mlon=13.5772#map=15/42.8536/13.5772",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8536,
+    "longitude": 13.5772
+  },
+  "url": "http://www.comune.ascolipiceno.it",
+  "telephone": "+39 0736298213",
+  "contactPoint": [
+
+  ],
+  "openingHours": "gennaio-metà marzo e ottobre-dicembre, martedì-venerdì 10-17, sabato, domenica e festivi 10-19; metà marzo-settembre, martedì-domenica 10-19",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00 - € 5.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SVtJ32YBRXHanTEj7preKjDvmNc=/1000x1000/museums/logos/000/187/291/original/27f3dac849c26e65d3c3f2939f0b775f4df32.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104095",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

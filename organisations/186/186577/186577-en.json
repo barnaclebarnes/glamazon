@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186577
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lungotevere Cenci (Tempio), 15",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8919&mlon=12.4777#map=15/41.8919/12.4777",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8919,
+    "longitude": 12.4777
+  },
+  "url": "http://www.museoebraico.roma.it/",
+  "telephone": "+39 0668400661",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XLmAmQ9Y54Z0JyXaUcg73U7EHFs=/1000x1000/museums/logos/000/186/577/original/312969f382ad34824b2e8107477d3f45553bbd7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101577",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

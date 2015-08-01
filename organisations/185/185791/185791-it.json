@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185791
+  },
+  "name": "Museo storico della Miniera di Salgemma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza D'Azelio",
+    "addressLocality": "Lungro",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7423&mlon=16.1226#map=15/39.7423/16.1226",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7423,
+    "longitude": 16.1226
+  },
+  "url": "http://www.calabriaportal.com",
+  "telephone": "+39 0981 – 945021/945155/947689/328",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110946",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

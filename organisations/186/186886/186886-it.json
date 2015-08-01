@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186886
+  },
+  "name": "Pinacoteca Repossi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Bernardino Varisco, 9",
+    "addressLocality": "Chiari",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5351&mlon=9.9281#map=15/45.5351/9.9281",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5351,
+    "longitude": 9.9281
+  },
+  "url": "http://www.morcellirepossi.it",
+  "telephone": "+39 0307000730",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/idIkj61aAmrrq67_uXxTqndRyxw=/1000x1000/museums/logos/000/186/886/original/2bb37350295c4ec9b746b1fa90a736a9425a187.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103564",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

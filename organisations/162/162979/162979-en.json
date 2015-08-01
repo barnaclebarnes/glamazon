@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162979
+  },
+  "name": "OSHKOSH PUBLIC LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "106 WASHINGTON AVE",
+    "addressLocality": "OSHKOSH",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "54901-4933"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0177&mlon=-88.5351#map=15/44.0177/-88.5351",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0177,
+    "longitude": -88.5351
+  },
+  "url": "http://www.oshkoshpubliclibrary.org",
+  "telephone": "+1 (920) 236-5200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500428",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

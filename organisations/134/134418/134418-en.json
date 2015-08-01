@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134418
+  },
+  "name": "NAVAL HISTORICAL FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1306 DAHLGREN AVE SE BLDG 57",
+    "addressLocality": "WASHINGTON NAVY YARD",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20374-5109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8745&mlon=-76.9949#map=15/38.8745/-76.9949",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8745,
+    "longitude": -76.9949
+  },
+  "url": "http://www.navyhistory.org",
+  "telephone": "+1 (202) 678-4333",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100199",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

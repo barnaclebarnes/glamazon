@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137509
+  },
+  "name": "CHICAGO MARITIME MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "465 E ILLINOIS ST",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60611-4305"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8911&mlon=-87.616#map=15/41.8911/-87.616",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8911,
+    "longitude": -87.616
+  },
+  "telephone": "+1 (312) 421-9096",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700654",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

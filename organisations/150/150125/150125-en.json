@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150125
+  },
+  "name": "HISTORIC 1897 FIREHOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 103",
+    "addressLocality": "ELMIRA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14902-1490"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1166&mlon=-76.8085#map=15/42.1166/-76.8085",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1166,
+    "longitude": -76.8085
+  },
+  "url": "http://www.elmirafiremuseum.org",
+  "telephone": "+1 (607) 734-6689",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601419",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

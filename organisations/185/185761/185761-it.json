@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185761
+  },
+  "name": "Museo arte sacra \"San Giuliano\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo San Giuliano , ",
+    "addressLocality": "Castrovillari",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8135&mlon=16.211#map=15/39.8135/16.211",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8135,
+    "longitude": 16.211
+  },
+  "telephone": "+39 0981.27929",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cvxQsif1kdSnM9_D2t3PwnJUFZU=/1000x1000/museums/logos/000/185/761/original/28f31946624bd79a6f801425241e85abafaa92d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108236",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

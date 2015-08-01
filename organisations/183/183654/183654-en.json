@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183654
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausplatz",
+    "addressLocality": "Schwanfeld",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97523"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.92&mlon=10.1386#map=15/49.92/10.1386",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.92,
+    "longitude": 10.1386
+  },
+  "url": "http://www.schwanfeld.de/Heimatmuseum.html",
+  "telephone": "09384/97170",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183654",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

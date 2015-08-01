@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187092
+  },
+  "name": "Pinacoteca ambrosiana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Pio XI, 2",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4638&mlon=9.18595#map=15/45.4638/9.18595",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4638,
+    "longitude": 9.18595
+  },
+  "url": "http://www.ambrosiana.it",
+  "telephone": "+39 02806921",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103720",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

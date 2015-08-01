@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143907
+  },
+  "name": "DETROIT FOCUS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "743 BEAUBIEN ST",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48226-2949"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3338&mlon=-83.0418#map=15/42.3338/-83.0418",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3338,
+    "longitude": -83.0418
+  },
+  "telephone": "+1 (313) 962-9025",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600444",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

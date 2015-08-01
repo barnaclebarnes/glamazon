@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150386
+  },
+  "name": "MUSEUM OF DISABILITY HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1219 NORTH FORREST ROAD",
+    "addressLocality": "WILLIAMSVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14231-9033"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9619&mlon=-78.8077#map=15/42.9619/-78.8077",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9619,
+    "longitude": -78.8077
+  },
+  "url": "http://www.museumofdisability.org",
+  "telephone": "+1 (716) 629-3601",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601680",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

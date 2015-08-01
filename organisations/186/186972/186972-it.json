@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186972
+  },
+  "name": "Museo civico di Ostiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mazzini, 1",
+    "addressLocality": "Ostiano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2231&mlon=10.2505#map=15/45.2231/10.2505",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2231,
+    "longitude": 10.2505
+  },
+  "telephone": "+39 0372856911",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Il museo è aperto la domenica 9.00/12.00 altri giorni su appuntamento",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BqWZa2ehZpsCa0dw2vXtkiak5YQ=/1000x1000/museums/logos/000/186/972/original/e2f0859be1f3de97e88bfc9da63b6b44b5673cc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103637",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

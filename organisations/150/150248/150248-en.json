@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150248
+  },
+  "name": "NORTH EAST CLASSIC CAR MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "24 REXFORD ST",
+    "addressLocality": "NORWICH",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13815-1146"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5369&mlon=-75.5215#map=15/42.5369/-75.5215",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5369,
+    "longitude": -75.5215
+  },
+  "url": "http://classiccarmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601542",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

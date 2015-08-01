@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129330
+  },
+  "name": "MESA CITY SPORTS HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6436 E HOLIDAY DR",
+    "addressLocality": "MESA",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85215-2926"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.415&mlon=-111.829#map=15/33.415/-111.829",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.415,
+    "longitude": -111.829
+  },
+  "url": "http://www.mesasports.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400232",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

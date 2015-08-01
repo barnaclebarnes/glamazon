@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185819
+  },
+  "name": "Museo diocesano di arte sacra di Saracena",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Maria Maddalena, ",
+    "addressLocality": "Saracena",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7756&mlon=16.157#map=15/39.7756/16.157",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7756,
+    "longitude": 16.157
+  },
+  "telephone": "+39 0981 - 34017",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sxkifPlaDPva1Ev9QkG9TiQQ-dk=/1000x1000/museums/logos/000/185/819/original/c1e7852ddc9f1f3fb675410314cf0e01b4bbdbe.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108400",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

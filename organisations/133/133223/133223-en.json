@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133223
+  },
+  "name": "DENVER BOTANIC GARDEN INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "909 YORK ST",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80206-3751"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7307&mlon=-104.96#map=15/39.7307/-104.96",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7307,
+    "longitude": -104.96
+  },
+  "url": "http://www.botanicgardens.org",
+  "telephone": "+1 (720) 865-3585",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800399",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

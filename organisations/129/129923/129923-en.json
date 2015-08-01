@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129923
+  },
+  "name": "USS POTOMAC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "540 WATER ST",
+    "addressLocality": "OAKLAND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94607"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7954&mlon=-122.279#map=15/37.7954/-122.279",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7954,
+    "longitude": -122.279
+  },
+  "url": "http://www.usspotomac.org",
+  "telephone": "+1 (510) 627-1215",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/j970bAsj3vy4FvOX4nVrU9gFoYo=/1000x1000/museums/logos/000/129/923/original/Uss-potomac-at-oakland.jpg",
+    "creator": "Copyright 2003 Christopher J. Wood <a href=\"//en.wikipedia.org/wiki/User:Chris_j_wood\" class=\"extiw\" title=\"en:User:Chris j wood\">Chris j wood</a> at <a class=\"external text\" href=\"http://en.wikipedia.org\">en.wikipedia</a>",
+    "license": "CC-BY-SA-3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/USS_Potomac_(AG-25)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600049",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

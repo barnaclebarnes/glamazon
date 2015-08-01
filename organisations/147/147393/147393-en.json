@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147393
+  },
+  "name": "NEW HAMPSHIRE BOAT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1195",
+    "addressLocality": "WOLFEBORO FLS",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03896-1195"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6099&mlon=-71.2068#map=15/43.6099/-71.2068",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6099,
+    "longitude": -71.2068
+  },
+  "url": "http://www.nhbm.org/",
+  "telephone": "+1 (603) 569-4554",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300168",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150556
+  },
+  "name": "NATIONAL MUSEUM OF DANCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "99 S BROADWAY",
+    "addressLocality": "SARATOGA SPGS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12866-4501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0676&mlon=-73.7892#map=15/43.0676/-73.7892",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0676,
+    "longitude": -73.7892
+  },
+  "url": "http://www.dancemuseum.org",
+  "telephone": "+1 (518) 584-2225",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601850",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

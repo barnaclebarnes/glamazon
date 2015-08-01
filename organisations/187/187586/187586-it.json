@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187586
+  },
+  "name": "Museo alfieriano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Alfieri, 375, ",
+    "addressLocality": "Asti",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8991&mlon=8.19846#map=15/44.8991/8.19846",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8991,
+    "longitude": 8.19846
+  },
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106592",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

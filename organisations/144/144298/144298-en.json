@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144298
+  },
+  "name": "PLANET ART INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "660 PLAZA DR",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48226-1218"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3342&mlon=-83.0485#map=15/42.3342/-83.0485",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3342,
+    "longitude": -83.0485
+  },
+  "url": "http://www.puppetart.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600835",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

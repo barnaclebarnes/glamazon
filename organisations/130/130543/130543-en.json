@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130543
+  },
+  "name": "CALIFORNIA BICYCLE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 73385",
+    "addressLocality": "DAVIS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95617-3385"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5495&mlon=-121.727#map=15/38.5495/-121.727",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5495,
+    "longitude": -121.727
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://localwiki.org/davis/California_Bicycle_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600669",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

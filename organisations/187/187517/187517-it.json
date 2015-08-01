@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187517
+  },
+  "name": "Museo nazionale di Castello Pandone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Tre Cappelle , snc",
+    "addressLocality": "Venafro",
+    "addressRegion": "Molise",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4819&mlon=14.0402#map=15/41.4819/14.0402",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4819,
+    "longitude": 14.0402
+  },
+  "url": "http:// http://www.castellopandone.beniculturali.it/",
+  "telephone": "+39 0865904698",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal Martedì al Sabato ore 9,00-13,00; Domenica ore 9,00 - 13,00 / 15,00 - 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ubdn0BO-rtW27mPSDtSQrfx6_qg=/1000x1000/museums/logos/000/187/517/original/ae75a8b7ef8690c318d94f88ceb2e2889d6192ec.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20074",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

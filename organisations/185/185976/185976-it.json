@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185976
+  },
+  "name": "Museo della memoria storica - Centro visita",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Nicola, snc, ",
+    "addressLocality": "San Pietro Infine",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4471&mlon=13.9625#map=15/41.4471/13.9625",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4471,
+    "longitude": 13.9625
+  },
+  "url": "http://www.museosanpietroinfine.it",
+  "telephone": "+39 333 1381559",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/v5ZazZz8ZH9BhYDWTKBQiR1wgaE=/1000x1000/museums/logos/000/185/976/original/7b95bcdbd44ed96d2c84b85e4e4c3ee52c851eb3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107073",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

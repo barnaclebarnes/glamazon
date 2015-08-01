@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189509
+  },
+  "name": "Museo Fortuny",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "San Marco 3958, ",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4352&mlon=12.3357#map=15/45.4352/12.3357",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4352,
+    "longitude": 12.3357
+  },
+  "url": "http://fortuny.visitmuve.it/",
+  "telephone": "+39 0415200995",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9sCeqoWAMMkn0iKNgelMMTUU8ec=/1000x1000/museums/logos/000/189/509/original/eb6c182f47461e4e6024eafe22ab1574d527fd3.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101034",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

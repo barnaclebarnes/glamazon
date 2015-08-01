@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150700
+  },
+  "name": "GUILDERLAND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 282",
+    "addressLocality": "GUILDERLAND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12085-1208"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7025&mlon=-73.9647#map=15/42.7025/-73.9647",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7025,
+    "longitude": -73.9647
+  },
+  "url": "http://www.guilderlandhistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601994",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

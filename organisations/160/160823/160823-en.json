@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160823
+  },
+  "name": "SALEM MUSEUM OF THE ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "801 MAIN STREET",
+    "addressLocality": "SALEM",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24153"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2945&mlon=-80.0475#map=15/37.2945/-80.0475",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2945,
+    "longitude": -80.0475
+  },
+  "url": "http://www.salemmuseum.org",
+  "telephone": "+1 (801) 362-4678",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100329",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163915
+  },
+  "name": "Government House",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8287&mlon=144.977#map=15/-37.8287/144.977",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8287,
+    "longitude": 144.977
+  },
+  "url": "http://www.governor.vic.gov.au/government-house",
+  "telephone": "(03) 9655 4211",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "government-house",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/government-house",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

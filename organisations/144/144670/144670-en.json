@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144670
+  },
+  "name": "BELL MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 CHURCH STREET, SE",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55455"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9771&mlon=-93.2332#map=15/44.9771/-93.2332",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9771,
+    "longitude": -93.2332
+  },
+  "telephone": "+1 (612) 624-4112",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/BellMuseumofNaturalHistory"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/BellMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700110",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

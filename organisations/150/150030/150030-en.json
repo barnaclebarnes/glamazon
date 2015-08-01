@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150030
+  },
+  "name": "CHILDRENS MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "311 MAIN ST",
+    "addressLocality": "UTICA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13501-1237"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.104&mlon=-75.2242#map=15/43.104/-75.2242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.104,
+    "longitude": -75.2242
+  },
+  "url": "http://www.museum4kids.net",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601324",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

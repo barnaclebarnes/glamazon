@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164467
+  },
+  "name": "Western Bulldogs",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7997&mlon=144.9#map=15/-37.7997/144.9",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7997,
+    "longitude": 144.9
+  },
+  "url": "http://www.westernbulldogs.com.au/club/history/museum",
+  "telephone": "+613 9680 6124",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Monday, 9.00-5.00\r\nSaturday, 9.00-2.00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "western-bulldogs",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/western-bulldogs",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

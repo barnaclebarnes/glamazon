@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141314
+  },
+  "name": "MILLINOCKET HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 11",
+    "addressLocality": "MILLINOCKET",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04462"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6574&mlon=-68.7067#map=15/45.6574/-68.7067",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6574,
+    "longitude": -68.7067
+  },
+  "url": "http://www.millinockethistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300163",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

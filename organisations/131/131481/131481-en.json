@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131481
+  },
+  "name": "CLAREMONT MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1136",
+    "addressLocality": "CLAREMONT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91711-1136"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.11&mlon=-117.72#map=15/34.11/-117.72",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.11,
+    "longitude": -117.72
+  },
+  "url": "http://www.claremontmuseum.org",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/claremontmuseumofart"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/Claremont_MofA"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601607",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

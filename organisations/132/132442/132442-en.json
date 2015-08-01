@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132442
+  },
+  "name": "LOS ANGELES ARBORETUM FOUNDATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 N BALDWIN AVE",
+    "addressLocality": "ARCADIA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91007-2697"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1443&mlon=-118.05#map=15/34.1443/-118.05",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1443,
+    "longitude": -118.05
+  },
+  "url": "http://www.arboretum.org",
+  "telephone": "+1 (626) 821-3222",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602568",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

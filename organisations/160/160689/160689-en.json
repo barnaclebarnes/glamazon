@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160689
+  },
+  "name": "APVA-SCOTCHTOWN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "204 WEST FRANKLIN STREET",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23223"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5451&mlon=-77.4456#map=15/37.5451/-77.4456",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5451,
+    "longitude": -77.4456
+  },
+  "telephone": "+1 (804) 648-1889",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100195",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

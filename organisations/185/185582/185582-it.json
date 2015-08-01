@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185582
+  },
+  "name": "Museo del capriolo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma",
+    "addressLocality": "Bisegna",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9216&mlon=13.757#map=15/41.9216/13.757",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9216,
+    "longitude": 13.757
+  },
+  "url": "http://www.montagnagrande.it ",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutto l'anno domenica 10-13.00 e 15-18.00 estivo dal 21 luglio al 21 agosto aperto tutti i giorni",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8pvf8CAC8xGWnnG0hDLJH7xPphQ=/1000x1000/museums/logos/000/185/582/original/89befcebf399ef5783355b8f4940d9c010877593.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105422",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

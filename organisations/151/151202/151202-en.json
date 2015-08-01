@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151202
+  },
+  "name": "LATTA PLANTATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5225 SAMPLE ROAD",
+    "addressLocality": "HUNTERSVILLE",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28078"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.353&mlon=-80.9298#map=15/35.353/-80.9298",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.353,
+    "longitude": -80.9298
+  },
+  "url": "http://lattaplantation.org/latta/index.php?page=home",
+  "telephone": "+1 (704) 875-2312",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700073",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

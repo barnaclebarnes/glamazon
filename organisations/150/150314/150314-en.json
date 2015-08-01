@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150314
+  },
+  "name": "PIONEER OIL MUSEUM OF NEW YORK INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 332",
+    "addressLocality": "BOLIVAR",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14715-0332"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0676&mlon=-78.1578#map=15/42.0676/-78.1578",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0676,
+    "longitude": -78.1578
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601608",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

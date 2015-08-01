@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155936
+  },
+  "name": "MATTRESS FACTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 SAMPSONIA WAY",
+    "addressLocality": "PITTSBURGH",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "15212-4444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4568&mlon=-80.0124#map=15/40.4568/-80.0124",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4568,
+    "longitude": -80.0124
+  },
+  "url": "http://www.mattress.org",
+  "telephone": "+1 (412) 231-3169",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201130",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

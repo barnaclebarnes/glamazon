@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182642
+  },
+  "name": "Stadt- und Hochstiftsmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hafenmarkt 11",
+    "addressLocality": "Dillingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89407"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5765&mlon=10.4934#map=15/48.5765/10.4934",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5765,
+    "longitude": 10.4934
+  },
+  "url": "http://www.historischer-verein-dillingen.de/",
+  "telephone": "09071/4400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182642",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

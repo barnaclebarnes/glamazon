@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140020
+  },
+  "name": "CHILDREN'S MUSEUM OF KANSAS CITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4601 STATE AVE",
+    "addressLocality": "KANSAS CITY",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66102-3603"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1166&mlon=-94.6844#map=15/39.1166/-94.6844",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1166,
+    "longitude": -94.6844
+  },
+  "url": "http://weddinggardens.org",
+  "telephone": "+1 (913) 627-6700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000346",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

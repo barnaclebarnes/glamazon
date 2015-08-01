@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160174
+  },
+  "name": "BRIGHAM CITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "24 N 300 W",
+    "addressLocality": "BRIGHAM CITY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84302"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5109&mlon=-112.02#map=15/41.5109/-112.02",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5109,
+    "longitude": -112.02
+  },
+  "url": "http://www.brighamcitymuseum.org",
+  "telephone": "+1 (435) 226-1439",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900240",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

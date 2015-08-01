@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187783
+  },
+  "name": "Castello ducale di Agliè",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Castello, 1",
+    "addressLocality": "Agliè",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3623&mlon=7.769#map=15/45.3623/7.769",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3623,
+    "longitude": 7.769
+  },
+  "url": "http://www.ilcastellodiaglie.it/",
+  "telephone": "+39 0124330102",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a domenica ore 8.30-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00 euro (piano nobile) 4,00 euro (cucine reali)"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/PM7Jnm70vGGFuC3Bfd-Bq6XkalE=/1000x1000/museums/logos/000/187/783/original/bf952e75fff785aaa1fc1a158c801134a5416a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20521",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

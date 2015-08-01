@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187062
+  },
+  "name": "MIC - Museo Interattivo del Cinema",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Fulvio Testi, ?",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5166&mlon=9.20653#map=15/45.5166/9.20653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5166,
+    "longitude": 9.20653
+  },
+  "url": "http://www.cinetecamilano.it",
+  "telephone": "+39 026554977",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì dalle 15 alle 18 domenica dalle 15 alle 19 nella giornata di sabato il MIC aprirà solo in occasione di eventi e proiezioni speciali",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 5,00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103705",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

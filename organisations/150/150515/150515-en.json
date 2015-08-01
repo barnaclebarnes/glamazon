@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150515
+  },
+  "name": "FRIENDS OF CLERMONT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "87 CLERMONT AVE",
+    "addressLocality": "GERMANTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12526-5632"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0871&mlon=-73.913#map=15/42.0871/-73.913",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0871,
+    "longitude": -73.913
+  },
+  "url": "http://www.friendsofclermont.org",
+  "telephone": "+1 (518) 537-6622",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601809",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

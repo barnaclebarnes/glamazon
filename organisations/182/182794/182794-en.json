@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182794
+  },
+  "name": "Saazer Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Schlößlein 1",
+    "addressLocality": "Georgensgmünd",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91166"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1868&mlon=11.0169#map=15/49.1868/11.0169",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1868,
+    "longitude": 11.0169
+  },
+  "url": "http://www.saazer-heimatstube.de/",
+  "telephone": "09172/4749362",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182794",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186228
+  },
+  "name": "Museo di documentazione della civiltà contadina friulana di Colmello di Grotta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada della Grotta, 8",
+    "addressLocality": "Farra d'Isonzo",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9126&mlon=13.5362#map=15/45.9126/13.5362",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9126,
+    "longitude": 13.5362
+  },
+  "url": "http://www.comune.farra.go.it",
+  "telephone": "+39 0481888.567 - 002",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Il museo è aperto su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TXlumsuHufJRtM3NMJgVW6dgAUU=/1000x1000/museums/logos/000/186/228/original/41c5dd16e9d6983d4b438544bf8f3cd7ff44613.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100175",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

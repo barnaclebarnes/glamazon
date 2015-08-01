@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129364
+  },
+  "name": "LOWELL OBSERVATORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1400 W MARS HILL RD",
+    "addressLocality": "FLAGSTAFF",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "86001-4470"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.2018&mlon=-111.665#map=15/35.2018/-111.665",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.2018,
+    "longitude": -111.665
+  },
+  "url": "http://www.lowell.edu",
+  "telephone": "+1 (928) 774-3358",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400266",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

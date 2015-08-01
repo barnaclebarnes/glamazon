@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142413
+  },
+  "name": "ROSE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3709&mlon=-71.2395#map=15/42.3709/-71.2395",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3709,
+    "longitude": -71.2395
+  },
+  "url": "http://www.brandeis.edu/rose/",
+  "telephone": "+1 (617) 736-3434",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500043",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

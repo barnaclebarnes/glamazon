@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130283
+  },
+  "name": "GRIFFITH OBSERVATORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4800 WESTERN HERITAGE WAY",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90027"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1232&mlon=-118.303#map=15/34.1232/-118.303",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1232,
+    "longitude": -118.303
+  },
+  "url": "http://www.griffithobs.org",
+  "telephone": "+1 (213) 473-0800",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aoCE-TmIKywY-_GZWYRi9x8BZMo=/1000x1000/museums/logos/000/130/283/original/Griffith_observatory.jpg",
+    "creator": "Matthew Field, <a rel=\"nofollow\" class=\"external free\" href=\"http://www.photography.mattfield.com\">http://www.photography.mattfield.com</a>",
+    "license": "CC BY 2.5"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Griffith_Observatory",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600409",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

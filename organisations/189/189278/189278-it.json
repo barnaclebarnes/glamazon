@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189278
+  },
+  "name": "Museo dell’accademia di belle arti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Francesco al Prato, ",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1138&mlon=12.3838#map=15/43.1138/12.3838",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1138,
+    "longitude": 12.3838
+  },
+  "url": "http://www.abaperugia.org/",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/I8aMfrgcaONs0EYEYacpwTQpm_I=/1000x1000/museums/logos/000/189/278/original/686684162f5edc3af14912f719dc548c8acfe0d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108108",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

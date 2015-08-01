@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142801
+  },
+  "name": "TOWN OF BARNSTABLE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "367 MAIN ST",
+    "addressLocality": "HYANNIS",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02601-3919"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6488&mlon=-70.3102#map=15/41.6488/-70.3102",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6488,
+    "longitude": -70.3102
+  },
+  "telephone": "+1 (508) 362-8448",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500431",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

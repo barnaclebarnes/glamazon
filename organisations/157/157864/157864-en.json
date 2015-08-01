@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157864
+  },
+  "name": "TENNESSEE STATE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "505 DEADERICK STREET",
+    "addressLocality": "NASHVILLE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37243-1120"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.1652&mlon=-86.7817#map=15/36.1652/-86.7817",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.1652,
+    "longitude": -86.7817
+  },
+  "url": "http://www.tnmuseum.org",
+  "telephone": "+1 (615) 253-0148",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/119338717939"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700535",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

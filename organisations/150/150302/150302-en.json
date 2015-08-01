@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150302
+  },
+  "name": "ROBERT H JACKSON CENTER INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "305 E 4TH ST",
+    "addressLocality": "JAMESTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14701-5501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0979&mlon=-79.2376#map=15/42.0979/-79.2376",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0979,
+    "longitude": -79.2376
+  },
+  "url": "http://www.roberthjackson.org",
+  "telephone": "+1 (716) 483-6646",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601596",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

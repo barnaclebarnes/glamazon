@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148411
+  },
+  "name": "WHEELS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1501 1ST ST NW",
+    "addressLocality": "ALBUQUERQUE",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.098&mlon=-106.645#map=15/35.098/-106.645",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.098,
+    "longitude": -106.645
+  },
+  "url": "http://www.wheelsmuseum.org",
+  "telephone": "+1 (505) 243-6269",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129367
+  },
+  "name": "ARIZONA SONORA DESERT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2021 N KINNEY RD",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85743-9719"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2452&mlon=-111.165#map=15/32.2452/-111.165",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2452,
+    "longitude": -111.165
+  },
+  "url": "http://www.desertmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400269",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

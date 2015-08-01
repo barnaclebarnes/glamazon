@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185754
+  },
+  "name": "Museo archeologico nazionale di Amendolara",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Giovanni XXIII",
+    "addressLocality": "Amendolara",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9525&mlon=16.5805#map=15/39.9525/16.5805",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9525,
+    "longitude": 16.5805
+  },
+  "telephone": "+39 0981911329",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 19.00 (Tutti i giorni )",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7krJhYWQ77wjJgqc75gcUkD3LJI=/1000x1000/museums/logos/000/185/754/original/801d1144df3b2495b9bd8e13bbea8b1dd397.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20350",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186973
+  },
+  "name": "Museo civico ponchielliano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Amilcare Ponchielli, 21",
+    "addressLocality": "Paderno Ponchielli",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2389&mlon=9.92841#map=15/45.2389/9.92841",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2389,
+    "longitude": 9.92841
+  },
+  "url": "http://museoponchielli.e-cremona.it",
+  "telephone": "+39 0374367200",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mar., giov., venerdì 14.00/18.30 sabato e domenica 8.00/12.00 - 14./18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vGaYoQ59-Z75GIgsaOZYbKSoaTU=/1000x1000/museums/logos/000/186/973/original/cf76ecf26f98ba5f6f1f743811afdd624f02daf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103638",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187081
+  },
+  "name": "Museo manzoniano - Casa del Manzoni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gerolamo Morone, 1",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4679&mlon=9.19214#map=15/45.4679/9.19214",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4679,
+    "longitude": 9.19214
+  },
+  "telephone": "+39 0286460403",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0EsBRopK0817OZ6V-9jGptrliRU=/1000x1000/museums/logos/000/187/081/original/f87278527b4f8fc099e0acc96d9821eb387bc77f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103690",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

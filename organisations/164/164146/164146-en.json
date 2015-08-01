@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164146
+  },
+  "name": "National Film and Sound Archive",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8306&mlon=144.962#map=15/-37.8306/144.962",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8306,
+    "longitude": 144.962
+  },
+  "url": "http://www.nfsa.gov.au/about/contact/",
+  "telephone": "(03) 8646 4300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "national-film-sound-archive",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/national-film-sound-archive",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

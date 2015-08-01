@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142494
+  },
+  "name": "LONG PLAIN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1203 MAIN ST",
+    "addressLocality": "ACUSHNET",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02743"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7382&mlon=-70.896#map=15/41.7382/-70.896",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7382,
+    "longitude": -70.896
+  },
+  "telephone": "+1 (508) 763-8626",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500124",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

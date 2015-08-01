@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164454
+  },
+  "name": "Warrnambool Art Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.3855&mlon=142.482#map=15/-38.3855/142.482",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.3855,
+    "longitude": 142.482
+  },
+  "url": "http://www.thewag.com.au/",
+  "telephone": "(03) 5559 4949",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10am to 5pm weekdays\r\n12noon to 5pm weekends and public holidays",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "warrnambool-art-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/warrnambool-art-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

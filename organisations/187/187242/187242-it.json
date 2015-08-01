@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187242
+  },
+  "name": "Grande Museo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Loggiato San Francesco, 1",
+    "addressLocality": "Fabriano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.332&mlon=12.8515#map=15/43.332/12.8515",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.332,
+    "longitude": 12.8515
+  },
+  "telephone": "+39 07325726",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Domenica e festivi h 16,30 - 20,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/o97kJEyf77ZVIxBqr1NvbwLtYto=/1000x1000/museums/logos/000/187/242/original/25cfa3d6ec291d923b715e24dac5b9923d6ac7a0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104049",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187063
+  },
+  "name": "Museo - Fondazione Arnaldo Pomodoro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Solari, 35",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4539&mlon=9.1587#map=15/45.4539/9.1587",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4539,
+    "longitude": 9.1587
+  },
+  "url": "http://www.fondazionearnaldopomodoro.it",
+  "telephone": "+39 0289075394",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/w64W3n2dPWIXqDdsDfh0NWAirHE=/1000x1000/museums/logos/000/187/063/original/3f5dd02e1eaa15086db74fdceb39bbcb8645ef4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103725",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

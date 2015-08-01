@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188629
+  },
+  "name": "MUDI - Museo degli innocenti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "SS. Annunziata, 12",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7755&mlon=11.2601#map=15/43.7755/11.2601",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7755,
+    "longitude": 11.2601
+  },
+  "telephone": "+39 0552037323",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YrCIUvsSJDWvQVRcRLOF9HLyKJY=/1000x1000/museums/logos/000/188/629/original/5cf95e55bf7217783267e7b196a22b2d325797d1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102928",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

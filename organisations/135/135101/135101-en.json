@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135101
+  },
+  "name": "PENSACOLA MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "407 S JEFFERSON ST",
+    "addressLocality": "PENSACOLA",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32502-5901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4081&mlon=-87.2133#map=15/30.4081/-87.2133",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4081,
+    "longitude": -87.2133
+  },
+  "url": "http://www.pensacolamuseumofart.org",
+  "telephone": "+1 (850) 432-6247",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200656",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

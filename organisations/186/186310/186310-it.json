@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186310
+  },
+  "name": "Museo civico delle carrozze d'epoca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Pietro, 6",
+    "addressLocality": "Codroipo",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9192&mlon=12.9905#map=15/45.9192/12.9905",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9192,
+    "longitude": 12.9905
+  },
+  "url": "http://www.comune.codroipo.ud.it/carrozze",
+  "telephone": "+39 0432912493",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/P9VT-q3gtcfbOsPCrPrarCG5CvM=/1000x1000/museums/logos/000/186/310/original/a32d9bf9a8a63929eb662e42e23bdb635ce8c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100277",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

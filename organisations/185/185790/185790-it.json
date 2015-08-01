@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185790
+  },
+  "name": "Museo diocesano di Lungro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Skanderbeg , 54 ",
+    "addressLocality": "Lungro",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7412&mlon=16.1231#map=15/39.7412/16.1231",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7412,
+    "longitude": 16.1231
+  },
+  "telephone": "+39 0981/947626",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7A4chagXLAvhJpCcYr1TcM8aY9Y=/1000x1000/museums/logos/000/185/790/original/de16d6992b6a29ffb7c0f3f324dad85784c68884.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108268",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

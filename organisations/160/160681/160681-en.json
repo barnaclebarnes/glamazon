@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160681
+  },
+  "name": "BROWNSBURG MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2716 BROWNSBURG TPKE",
+    "addressLocality": "WALKERS CREEK",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24435-2812"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9374&mlon=-79.3086#map=15/37.9374/-79.3086",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9374,
+    "longitude": -79.3086
+  },
+  "telephone": "+1 (540) 348-1600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100187",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

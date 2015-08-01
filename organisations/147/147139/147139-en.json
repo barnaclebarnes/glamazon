@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147139
+  },
+  "name": "PAHRUMP GUNFIGHTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2952",
+    "addressLocality": "PAHRUMP",
+    "addressRegion": "NV",
+    "addressCountry": "United States",
+    "postalCode": "89041-2952"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.2389&mlon=-116.016#map=15/36.2389/-116.016",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.2389,
+    "longitude": -116.016
+  },
+  "url": "http://www.pahrumpgunfighters.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403200114",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185820
+  },
+  "name": "Pinacoteca \"Andrea Alfano\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Carlo Pisacane, 1",
+    "addressLocality": "Saracena",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7758&mlon=16.1564#map=15/39.7758/16.1564",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7758,
+    "longitude": 16.1564
+  },
+  "telephone": "+39 0981-34035",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dEPLiRQthADr5qF2YIrFtFYJK_Q=/1000x1000/museums/logos/000/185/820/original/533bdd97181cb1c35c70a0cb29cb2867c5f8d638.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108487",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

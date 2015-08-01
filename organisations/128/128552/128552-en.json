@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128552
+  },
+  "name": "AMERICAN VILLAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3727 HIGHWAY 119",
+    "addressLocality": "MONTEVALLO",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "35115"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.1376&mlon=-86.8278#map=15/33.1376/-86.8278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.1376,
+    "longitude": -86.8278
+  },
+  "url": "http://www.americanvillage.org",
+  "telephone": "+1 (205) 665-3535",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100082",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

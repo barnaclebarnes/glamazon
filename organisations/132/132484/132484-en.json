@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132484
+  },
+  "name": "MUSEUM ASSOCIATES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5905 WILSHIRE BLVD",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90036-4504"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0627&mlon=-118.358#map=15/34.0627/-118.358",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0627,
+    "longitude": -118.358
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602610",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

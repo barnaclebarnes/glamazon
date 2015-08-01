@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187358
+  },
+  "name": "Centro visita 'Il Cervo'",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Parco della Rimembranza, SNC",
+    "addressLocality": "Castelsantangelo sul Nera",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8872&mlon=13.1528#map=15/42.8872/13.1528",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8872,
+    "longitude": 13.1528
+  },
+  "url": "http://www.parks.it/parco.nazionale.monti.sibillini/cen_dettaglio.php?id=183",
+  "telephone": "+39 073798152",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni (festivi inclusi) dalle 9.30 alle 12.30 e dalle 15.30 alle 18.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NeG1Dyyg-0fkra88ESnucz2ReHQ=/1000x1000/museums/logos/000/187/358/original/392a78c5f7af12b8a648c37c7c12269dcbd9939d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104171",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

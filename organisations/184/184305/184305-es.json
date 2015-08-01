@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184305
+  },
+  "name": "Ashburton Art Gallery",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:info@ashburtonartgallery.org.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-43.9084&mlon=171.749#map=15/-43.9084/171.749",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -43.9084,
+    "longitude": 171.749
+  },
+  "url": "http://www.ashburtonartgallery.org.nz",
+  "telephone": "+64 3 308 1133",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Horario: Martes a viernes 10:00-16:00 miércoles 10:00-19:00 el sábado y el domingo 13:00-16:00 cerrados el lunes y festivos",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Admission Free (Donation/koha appreciated)"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/es/museums/184305",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

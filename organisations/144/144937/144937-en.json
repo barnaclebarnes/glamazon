@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144937
+  },
+  "name": "MINNESOTA CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 7TH ST W",
+    "addressLocality": "SAINT PAUL",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55102-2453"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9478&mlon=-93.0974#map=15/44.9478/-93.0974",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9478,
+    "longitude": -93.0974
+  },
+  "url": "http://www.mcm.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700377",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183092
+  },
+  "name": "Villa Rustica Leutstetten",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Leutstetten",
+    "addressLocality": "Starnberg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82319"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0186&mlon=11.3705#map=15/48.0186/11.3705",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0186,
+    "longitude": 11.3705
+  },
+  "url": "http://www.fuenfseenland.de/sehenswuerdig/villarustica/villarustica01.php",
+  "telephone": "08151/772-110",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183092",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

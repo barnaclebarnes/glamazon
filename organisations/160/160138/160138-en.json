@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160138
+  },
+  "name": "OGDEN DINOSAUR PARK & MUSEUM FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1544 PARK BLVD",
+    "addressLocality": "OGDEN",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84401-0803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2375&mlon=-111.938#map=15/41.2375/-111.938",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2375,
+    "longitude": -111.938
+  },
+  "url": "http://www.dinosaurpark.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900204",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155010
+  },
+  "name": "HERSHEY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "111 W CHOCOLATE AVE",
+    "addressLocality": "HERSHEY",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17033"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.285&mlon=-76.6519#map=15/40.285/-76.6519",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.285,
+    "longitude": -76.6519
+  },
+  "telephone": "+1 (717) 534-3439",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200204",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

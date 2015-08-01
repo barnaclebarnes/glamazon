@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185925
+  },
+  "name": "Museo di San Francesco a Folloni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Francesco",
+    "addressLocality": "Montella",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8429&mlon=15.0332#map=15/40.8429/15.0332",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8429,
+    "longitude": 15.0332
+  },
+  "url": "http://www.complessosanfrancescoafolloni.beniculturali.it/",
+  "telephone": "+39 082769221",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 14.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BtQRB_cdnaDrHhaunqFMmqgls9Y=/1000x1000/museums/logos/000/185/925/original/a4b2796eee49df45afbb35c02095e6c63ede6a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20279",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

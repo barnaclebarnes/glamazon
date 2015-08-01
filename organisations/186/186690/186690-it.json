@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186690
+  },
+  "name": "Lousiana Jazz Club Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via T. Reggio, 34",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4078&mlon=8.93238#map=15/44.4078/8.93238",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4078,
+    "longitude": 8.93238
+  },
+  "url": "http://www.italianjazzinstitute.com",
+  "telephone": "+39 010/585241",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103938",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

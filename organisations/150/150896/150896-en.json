@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150896
+  },
+  "name": "DYCKMAN FARMHOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4881 BROADWAY",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10034-3101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8672&mlon=-73.9225#map=15/40.8672/-73.9225",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8672,
+    "longitude": -73.9225
+  },
+  "url": "http://www.dyckmanfarmhouse.org",
+  "telephone": "+1 (212) 304-9422",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602190",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

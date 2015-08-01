@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182616
+  },
+  "name": "Kunstsammlungen der Veste Coburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Veste Coburg 1",
+    "addressLocality": "Coburg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96450"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2636&mlon=10.9805#map=15/50.2636/10.9805",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2636,
+    "longitude": 10.9805
+  },
+  "url": "http://www.kunstsammlungen-coburg.de",
+  "telephone": "09561/8790",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182616",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

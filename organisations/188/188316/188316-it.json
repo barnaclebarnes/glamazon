@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188316
+  },
+  "name": "Museo del banditismo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via P. Paoli, 39",
+    "addressLocality": "Aggius",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9287&mlon=9.06336#map=15/40.9287/9.06336",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9287,
+    "longitude": 9.06336
+  },
+  "url": "http://www.museodiaggius.it",
+  "telephone": "+39 +39 079 621029 -  +39 349 4533208",
+  "contactPoint": [
+
+  ],
+  "openingHours": "16 ottobre – 31 marzo 10.00/13.00; 01 aprile – 15 ottobre 10.00/13.00 - 16.00/18.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4S7QiVZMGcaPpPkyHJWxGfXJzVI=/1000x1000/museums/logos/000/188/316/original/8f5e82054657f9045a09dd293a8caff9fd9181.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111712",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

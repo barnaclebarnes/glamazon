@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164070
+  },
+  "name": "Melbourne's Living Museum of the West",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7692&mlon=144.885#map=15/-37.7692/144.885",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7692,
+    "longitude": 144.885
+  },
+  "url": "http://www.livingmuseum.org.au/",
+  "telephone": "+61 0419 154 265",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Open Friday and Sunday 11 to 3pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "living-museum-west",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/living-museum-west",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

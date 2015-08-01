@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164495
+  },
+  "name": "Yarra Ranges Regional Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7543&mlon=145.354#map=15/-37.7543/145.354",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7543,
+    "longitude": 145.354
+  },
+  "url": "http://www.yarraranges.vic.gov.au/ach/Regional_Museum",
+  "telephone": "613 9294 6313",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Every day 10am to 4pm (closed public holidays)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "yarra-ranges-regional-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/yarra-ranges-regional-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

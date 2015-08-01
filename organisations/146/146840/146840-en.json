@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146840
+  },
+  "name": "OMAHA ZOOLOGICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3701 S 10TH ST",
+    "addressLocality": "OMAHA",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68107-2299"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2278&mlon=-95.9295#map=15/41.2278/-95.9295",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2278,
+    "longitude": -95.9295
+  },
+  "url": "http://www.omahazoo.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100179",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

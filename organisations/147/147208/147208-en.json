@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147208
+  },
+  "name": "GOLDWELL OPEN AIR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 405",
+    "addressLocality": "BEATTY",
+    "addressRegion": "NV",
+    "addressCountry": "United States",
+    "postalCode": "89003-0405"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.9052&mlon=-116.765#map=15/36.9052/-116.765",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.9052,
+    "longitude": -116.765
+  },
+  "url": "http://www.goldwellmuseum.org",
+  "telephone": "+1 (702) 870-9946",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/51115761339"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403200183",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

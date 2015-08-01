@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155254
+  },
+  "name": "INSTITUTE OF CONTEMPORARY ART",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9539&mlon=-75.1946#map=15/39.9539/-75.1946",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9539,
+    "longitude": -75.1946
+  },
+  "url": "http://icaphila.org/",
+  "telephone": "+1 (215) 898-5911",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/33790423464"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200448",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

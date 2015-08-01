@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189052
+  },
+  "name": "Museo Nella casa natale del Principe Vescovo Johannes Baptist Zwerger",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Municipio, 15",
+    "addressLocality": "Anterivo/Altrei",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.2776&mlon=11.3667#map=15/46.2776/11.3667",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.2776,
+    "longitude": 11.3667
+  },
+  "url": "http://www.musei-altoadige.it",
+  "telephone": "+39 +39 0471 882021",
+  "contactPoint": [
+
+  ],
+  "openingHours": "visitabile solo su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta libera"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111876",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189464
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale San Bartolomeo, 18",
+    "addressLocality": "Rovigo",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0649&mlon=11.7971#map=15/45.0649/11.7971",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0649,
+    "longitude": 11.7971
+  },
+  "url": "http://www.museograndifiumi.it",
+  "telephone": "+39 042525077",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/52RznToUW3rGKxUWucZF9NHWlrU=/1000x1000/museums/logos/000/189/464/original/72d7f057824874127c22ec2e2f1f0e493ad20.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100961",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

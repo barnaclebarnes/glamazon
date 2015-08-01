@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158810
+  },
+  "name": "BUGGY BARN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 504",
+    "addressLocality": "BLANCO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78606"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.093&mlon=-98.4094#map=15/30.093/-98.4094",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.093,
+    "longitude": -98.4094
+  },
+  "url": "http://www.buggybarnmuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800910",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

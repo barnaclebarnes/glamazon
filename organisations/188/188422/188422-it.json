@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188422
+  },
+  "name": "Museo archeologico regionale di Centuripe",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via SS. Crocifisso, 1",
+    "addressLocality": "Centuripe",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6222&mlon=14.7408#map=15/37.6222/14.7408",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6222,
+    "longitude": 14.7408
+  },
+  "url": "http://www.regione.sicilia.it",
+  "telephone": "+39 0935 73079",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni dalle 9.00 alle 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/89BeBWp9rX0C9v184qOo7joH78U=/1000x1000/museums/logos/000/188/422/original/a8aa5e919043ee7cc58bcebfd88693c587112d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111578",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

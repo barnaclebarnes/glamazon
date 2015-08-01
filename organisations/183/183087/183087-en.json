@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183087
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausplatz 2",
+    "addressLocality": "Lenggries",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83661"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.681&mlon=11.5773#map=15/47.681/11.5773",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.681,
+    "longitude": 11.5773
+  },
+  "url": "http://www.lenggries.de/de/heimatmuseum",
+  "telephone": "08042/5008-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183087",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

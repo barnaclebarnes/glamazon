@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150128
+  },
+  "name": "DANSVILLE AREA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 481",
+    "addressLocality": "DANSVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14437"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5589&mlon=-77.7005#map=15/42.5589/-77.7005",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5589,
+    "longitude": -77.7005
+  },
+  "url": "https://dansvilleareahistoricalsociety.wordpress.com/",
+  "telephone": "+1 (585) 335-8090",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601422",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

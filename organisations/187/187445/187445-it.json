@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187445
+  },
+  "name": "Museo geoterritoriale di Cantiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via IV novembre, 22",
+    "addressLocality": "Cantiano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4731&mlon=12.6281#map=15/43.4731/12.6281",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4731,
+    "longitude": 12.6281
+  },
+  "url": "http://www.comunecantiano.eu/Museo_GeoTerritoriale.asp",
+  "telephone": "+39 0721 788493 - 788484 - 1830438 - 328.4491549",
+  "contactPoint": [
+
+  ],
+  "openingHours": "17 e 18 Novembre Mostra del Tartufo Bianco a Cantiano orario: 15:00 - 18:00 Domenica e Festivi: orario: 15:00 - 18:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 1.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104265",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

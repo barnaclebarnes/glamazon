@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163776
+  },
+  "name": "Chinese Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8108&mlon=144.969#map=15/-37.8108/144.969",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8108,
+    "longitude": 144.969
+  },
+  "url": "http://www.chinesemuseum.com.au/",
+  "telephone": "03 9662 2888",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10 am to 5 pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "chinese-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/chinese-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

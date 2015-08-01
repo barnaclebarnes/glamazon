@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186070
+  },
+  "name": "Ecomuseo del fiordo di furore",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Anna Magnani, 8",
+    "addressLocality": "Furore",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6188&mlon=14.5532#map=15/40.6188/14.5532",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6188,
+    "longitude": 14.5532
+  },
+  "url": "http://www.comunefurore.it",
+  "telephone": "+39 089874100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101898",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

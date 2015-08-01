@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186438
+  },
+  "name": "Museo dell'olio della Sabina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Perelli, 9",
+    "addressLocality": "Castelnuovo di Farfa",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.232&mlon=12.7431#map=15/42.232/12.7431",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.232,
+    "longitude": 12.7431
+  },
+  "telephone": "+39 076536370",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pNSysP_Grl-usSx2_4DfnFOZHr0=/1000x1000/museums/logos/000/186/438/original/9f64914479fe9b5936984177f1e37f52114df99.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101459",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

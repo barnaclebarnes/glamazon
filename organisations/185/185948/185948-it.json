@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185948
+  },
+  "name": "Museo civico e della ceramica cerretese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Umberto I snc, ",
+    "addressLocality": "Cerreto Sannita",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2833&mlon=14.5559#map=15/41.2833/14.5559",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2833,
+    "longitude": 14.5559
+  },
+  "url": "http://www.comune.cerretosannita.bn.it",
+  "telephone": "+39 0824815211",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/krK--XIKvspDP6yIKbwxCdASUGQ=/1000x1000/museums/logos/000/185/948/original/b393e86c6bc3d47be9d97482870c8cbbdfce37a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101793",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

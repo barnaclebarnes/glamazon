@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185687
+  },
+  "name": "Museo della civiltà contadina di Lavello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavour, 89",
+    "addressLocality": "Lavello",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0491&mlon=15.8004#map=15/41.0491/15.8004",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0491,
+    "longitude": 15.8004
+  },
+  "telephone": "+39 097280111",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dDkENGRz46TzqTZczPVWNLqRAsg=/1000x1000/museums/logos/000/185/687/original/7bf40bfe45b7acf28f42c9516a3d20cc35bdb2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100144",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

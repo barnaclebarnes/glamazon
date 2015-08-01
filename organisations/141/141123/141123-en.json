@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141123
+  },
+  "name": "FRIENDS OF CABILDO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "701 PLACE JOHN PAUL DEA",
+    "addressLocality": "NEW ORLEANS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70116-3205"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9579&mlon=-90.0634#map=15/29.9579/-90.0634",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9579,
+    "longitude": -90.0634
+  },
+  "url": "http://www.friendsofthecabildo.org/",
+  "telephone": "+1 (504) 523-3939",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200406",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

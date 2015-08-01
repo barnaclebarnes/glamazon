@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189823
+  },
+  "name": "DUPAGE CHILDREN'S MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 NORTH WASHINGTON STREET",
+    "addressLocality": "NAPERVILLE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60540-4537"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2803&mlon=-73.6747#map=15/41.2803/-73.6747",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2803,
+    "longitude": -73.6747
+  },
+  "url": "http://www.dupagechildrensmuseum.org",
+  "telephone": "+1 (637) 637-8000",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/DCMFanPage"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/DuPageChildrens"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701390",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

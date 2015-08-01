@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187525
+  },
+  "name": "I percorsi del museo civico a Palazzo Cuttica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Cuttica, Sala Nobile, Via Parma, 1, ",
+    "addressLocality": "Alessandria",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9132&mlon=8.61695#map=15/44.9132/8.61695",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9132,
+    "longitude": 8.61695
+  },
+  "url": "http://www.comune.alessandria.it/htm/musei/musei_civici/percorsi_civico.htm",
+  "telephone": "+39 0131262913",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GsKWXDy4_j8taWgm9N0kHDCUvtA=/1000x1000/museums/logos/000/187/525/original/fbda9aea452cac0fc5b37aa10c64ea89cceb3d1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102435",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

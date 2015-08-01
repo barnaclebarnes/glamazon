@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160519
+  },
+  "name": "STRASBURG MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "440 E KING ST",
+    "addressLocality": "STRASBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22657"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9876&mlon=-78.3557#map=15/38.9876/-78.3557",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9876,
+    "longitude": -78.3557
+  },
+  "url": "http://strasburgmuseum.org",
+  "telephone": "+1 (540) 465-3175",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100025",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

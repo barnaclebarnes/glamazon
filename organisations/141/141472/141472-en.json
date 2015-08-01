@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141472
+  },
+  "name": "WATERVILLE MAIN STREET",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "44 MAIN ST STE 202",
+    "addressLocality": "WATERVILLE",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04901-6673"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5491&mlon=-69.6298#map=15/44.5491/-69.6298",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5491,
+    "longitude": -69.6298
+  },
+  "url": "http://www.watervillemainstreet.org",
+  "telephone": "+1 (207) 680-2055",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300321",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

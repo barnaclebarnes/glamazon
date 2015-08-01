@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148696
+  },
+  "name": "UNIVERSITY OF NEW MEXICO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1700 LOMAS BLVD. NE",
+    "addressLocality": "ALBUQUERQUE",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87131-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.0902&mlon=-106.625#map=15/35.0902/-106.625",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.0902,
+    "longitude": -106.625
+  },
+  "url": "http://www.unm.edu/~maxwell",
+  "telephone": "+1 (575) 758-9826",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500286",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

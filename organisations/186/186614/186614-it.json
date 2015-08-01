@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186614
+  },
+  "name": "Museo didattico del libro antico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Trento, 1",
+    "addressLocality": "Tivoli",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9622&mlon=12.7969#map=15/41.9622/12.7969",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9622,
+    "longitude": 12.7969
+  },
+  "url": "http://www.museolibroantico.com",
+  "telephone": "+39 0641204709",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì, giovedì, sabato e domenica dalle ore 9:30 alle ore 13:30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UyZjBe0RSxQ5zqPzKp0H-Zyp370=/1000x1000/museums/logos/000/186/614/original/2abb5d7088233874dece1dc87758cade447892b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101607",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

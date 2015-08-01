@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183362
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Münnerstädter Straße 4",
+    "addressLocality": "Nüdlingen",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97720"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2208&mlon=10.1242#map=15/50.2208/10.1242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2208,
+    "longitude": 10.1242
+  },
+  "url": "http://www.nuedlingen.rhoen-saale.net",
+  "telephone": "0971/99713",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183362",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

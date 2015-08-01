@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150108
+  },
+  "name": "BOXING HALL OF FAME MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 HALL OF FAME DR",
+    "addressLocality": "CANASTOTA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13032-1175"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0888&mlon=-75.7508#map=15/43.0888/-75.7508",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0888,
+    "longitude": -75.7508
+  },
+  "url": "http://www.ibhof.com",
+  "telephone": "+1 (315) 697-7095",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601402",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

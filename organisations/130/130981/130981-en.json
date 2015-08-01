@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130981
+  },
+  "name": "ROHNERT PARK HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6400 MEADOW PINES AVE",
+    "addressLocality": "ROHNERT PARK",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94928-2710"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3459&mlon=-122.693#map=15/38.3459/-122.693",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3459,
+    "longitude": -122.693
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bYHCmDjAlPKBI1ZYO6qu_DXIj8U=/1000x1000/museums/logos/000/130/981/original/RohnertParkTFCSign_12399.png",
+    "license": "CC0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Rohnert_Park,_California",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601107",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

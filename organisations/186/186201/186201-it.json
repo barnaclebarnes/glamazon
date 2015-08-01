@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186201
+  },
+  "name": "Museo della Resistenza \"Cà Malanca\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Rio Corneto, ",
+    "addressLocality": "Brisighella",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1499&mlon=11.6708#map=15/44.1499/11.6708",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1499,
+    "longitude": 11.6708
+  },
+  "url": "http://www.camalanca.it",
+  "telephone": "+39 054685435",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EnjPUSi_y4RAUAxRaGZront6-Y0=/1000x1000/museums/logos/000/186/201/original/2d29f9dac25c77e2e44868170e0f35d542e164.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102199",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

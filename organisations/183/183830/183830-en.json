@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183830
+  },
+  "name": "Wasserburger Bierkatakomben",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kellerstraße",
+    "addressLocality": "Wasserburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83512"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0586&mlon=12.2329#map=15/48.0586/12.2329",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0586,
+    "longitude": 12.2329
+  },
+  "url": "http://www.wasserburg.de/de/bierkatakomben/",
+  "telephone": "08071/3803",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183830",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

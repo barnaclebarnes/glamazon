@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189521
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Gerolamo Fracastoro, 8",
+    "addressLocality": "Cavaion Veronese",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5397&mlon=10.774#map=15/45.5397/10.774",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5397,
+    "longitude": 10.774
+  },
+  "telephone": "+39 0457235481",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dsZ3YyIJsD7vG4I-IL-MYIAhl8c=/1000x1000/museums/logos/000/189/521/original/da618b95bc883f8f57b71ab9c0717ddf825e48.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101115",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

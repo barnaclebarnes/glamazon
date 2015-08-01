@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183021
+  },
+  "name": "\"Schuster-Schleif\" Kraiburg a. Inn",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Nußbichl",
+    "addressLocality": "Kraiburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84559"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1808&mlon=12.4311#map=15/48.1808/12.4311",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1808,
+    "longitude": 12.4311
+  },
+  "url": "http://www.schleif.unser-kraiburg.de/",
+  "telephone": "08638/983812",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183021",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

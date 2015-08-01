@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143317
+  },
+  "name": "DIGITAL HERITAGE MAPPING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "304 NEWBURY STREET",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02115-2839"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3489&mlon=-71.0852#map=15/42.3489/-71.0852",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3489,
+    "longitude": -71.0852
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500947",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

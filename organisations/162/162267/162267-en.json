@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162267
+  },
+  "name": "PEARSON AIR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1115 E 5TH ST",
+    "addressLocality": "VANCOUVER",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98661-3802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6245&mlon=-122.66#map=15/45.6245/-122.66",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6245,
+    "longitude": -122.66
+  },
+  "url": "http://www.pearsonairmuseum.org",
+  "telephone": "+1 (360) 816-6230",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300716",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

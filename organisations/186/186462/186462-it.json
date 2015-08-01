@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186462
+  },
+  "name": "Raccolta Manzù",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Laurentina, Km 32,800",
+    "addressLocality": "Ardea",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.608&mlon=12.5433#map=15/41.608/12.5433",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.608,
+    "longitude": 12.5433
+  },
+  "url": "http://www.museomanzu.beniculturali.it/",
+  "telephone": "+39 069135022  0632298425",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì mercoledì giovedì apertura ore 9.00-14.00; venerdì-sabato apertura ore 14.00-20.00; domenica apertura ore 9.00-20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/npiy9gfkHYQ06_ygOM1XxG3Xkgo=/1000x1000/museums/logos/000/186/462/original/ba5beb5fa90b2749f66edbaa6d7f99e02cceea.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20272",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

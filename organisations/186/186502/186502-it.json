@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186502
+  },
+  "name": "Museo naturalistico territoriale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Castello Savelli, SNC",
+    "addressLocality": "Palombara Sabina",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0712&mlon=12.7666#map=15/42.0712/12.7666",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0712,
+    "longitude": 12.7666
+  },
+  "url": "http://www.romaepiu.it",
+  "telephone": "+39 077463641",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Chiuso per riallestimento",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zf5zQJsHPFsyxXPmOsPbMX6FMfg=/1000x1000/museums/logos/000/186/502/original/e611d65ad53834fbd81110891d276ac2dabf14.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104994",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

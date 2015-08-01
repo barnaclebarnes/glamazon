@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186200
+  },
+  "name": "Museo del castello di Bagnara di Romagna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza IV novembre, ",
+    "addressLocality": "Bagnara di Romagna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3884&mlon=11.8257#map=15/44.3884/11.8257",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3884,
+    "longitude": 11.8257
+  },
+  "url": "http://www.comune.bagnaradiromagna.ra.it",
+  "telephone": "+39 054576907",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lz5d4JJMAyYjcYoEE5zSqeZgbD0=/1000x1000/museums/logos/000/186/200/original/e22ac150d618941fff8e513b7b5c53077b1ba7b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102197",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

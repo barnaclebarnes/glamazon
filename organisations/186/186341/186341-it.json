@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186341
+  },
+  "name": "Biblioteca Guarneriana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 1",
+    "addressLocality": "San Daniele del Friuli",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.16&mlon=13.0114#map=15/46.16/13.0114",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.16,
+    "longitude": 13.0114
+  },
+  "url": "http://www.guarneriana.it",
+  "telephone": "+39 0432954934",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a venerdì 9.00/12.00 e 14.30/18.15 sabato 9.00/12.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DwLztAtPs42ekLKaTmdyaYsoyuY=/1000x1000/museums/logos/000/186/341/original/6b6b352923bc9c451074514e4ed4e8132ecc94.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100309",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

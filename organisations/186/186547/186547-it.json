@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186547
+  },
+  "name": "Museo degli orrori di Dario Argento",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Gracchi, 260",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9091&mlon=12.4664#map=15/41.9091/12.4664",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9091,
+    "longitude": 12.4664
+  },
+  "url": "http://www.profondorossostore.com",
+  "telephone": "+39 06 3211395",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato dalle ore 10,30/13,00 e dalle 16/00 alle 19,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pLfuRxb9BjcNA9EQoOCc6kJdQ04=/1000x1000/museums/logos/000/186/547/original/ac5280aa6e25296567f35b33e655b69eb3d35f4.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101543",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187857
+  },
+  "name": "Il Ricetto - la Cappella di S. Evasio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ricetti, ",
+    "addressLocality": "Oglianico",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3413&mlon=7.6932#map=15/45.3413/7.6932",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3413,
+    "longitude": 7.6932
+  },
+  "url": "http://www.comune.oglianico.to.it",
+  "telephone": "+39 0124 349480",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CGnkvUAvBFpIfGU4wewQSfjwgJM=/1000x1000/museums/logos/000/187/857/original/c999873a78cf82745e61bb8f298a388b459912b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106740",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

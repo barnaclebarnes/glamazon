@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156500
+  },
+  "name": "SMITH'S CASTLE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "55 RICHARD SMITH DRIVE",
+    "addressLocality": "NORTH KINGSTOWN",
+    "addressRegion": "RI",
+    "addressCountry": "United States",
+    "postalCode": "02852"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5836&mlon=-71.4576#map=15/41.5836/-71.4576",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5836,
+    "longitude": -71.4576
+  },
+  "url": "http://smithscastle@earthlink.net",
+  "telephone": "+1 (401) 294-3521",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400004",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

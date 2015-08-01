@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189339
+  },
+  "name": "Antiquarium comunale di Lugnano in Teverina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Umberto I, 36",
+    "addressLocality": "Lugnano in Teverina",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5744&mlon=12.3303#map=15/42.5744/12.3303",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5744,
+    "longitude": 12.3303
+  },
+  "url": "http://www.comunedilugnano.it",
+  "telephone": "+39 0744902321",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ugRJT7c4BfYbMoebRFuwLwIiYvU=/1000x1000/museums/logos/000/189/339/original/7d7c9de5583161ae9fffe65ecd07c55adbeb6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100775",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

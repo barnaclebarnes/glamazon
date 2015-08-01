@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186430
+  },
+  "name": "Museo delle terre di confine",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giacomo Antonelli, ",
+    "addressLocality": "Sonnino",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.416&mlon=13.2416#map=15/41.416/13.2416",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.416,
+    "longitude": 13.2416
+  },
+  "telephone": "+39 0773907849",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yX-wk0j4ZCDBre_R3ukL2BK4LlU=/1000x1000/museums/logos/000/186/430/original/c9d241624b2a6412c7cc32f7522cae7263c19eb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104939",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

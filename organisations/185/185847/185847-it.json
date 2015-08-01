@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185847
+  },
+  "name": "Museo delle carrozze di Cosoleto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Italia",
+    "addressLocality": "Cosoleto",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2747&mlon=15.9284#map=15/38.2747/15.9284",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2747,
+    "longitude": 15.9284
+  },
+  "telephone": "+39 0966 962003",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4-3eRgjspSpdtgXWTSRPTxlHh14=/1000x1000/museums/logos/000/185/847/original/12ea4166b152a5c6ff38aeeed8806925bd6e058.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111033",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

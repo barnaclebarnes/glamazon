@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183875
+  },
+  "name": "Heimatmuseum im Informationszentrum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kempter Straße 3",
+    "addressLocality": "Wiggensbach",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87487"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7455&mlon=10.2325#map=15/47.7455/10.2325",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7455,
+    "longitude": 10.2325
+  },
+  "url": "http://www.markt-wiggensbach.de/wiggensbach/gemeinde/Einrichtungen/WIZ.php",
+  "telephone": "08370/8435",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183875",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

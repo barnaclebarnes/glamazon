@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137012
+  },
+  "name": "GARFIELD FARM MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3N016 GARFIELD RD",
+    "addressLocality": "SAINT CHARLES",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60175"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.911&mlon=-88.4013#map=15/41.911/-88.4013",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.911,
+    "longitude": -88.4013
+  },
+  "url": "http://www.garfieldfarm.org",
+  "telephone": "+1 (630) 584-8485",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700157",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

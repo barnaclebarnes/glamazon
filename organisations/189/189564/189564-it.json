@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189564
+  },
+  "name": "Museo del cavallo e degli attrezzi rurali",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via delle Fornaci, 64",
+    "addressLocality": "Schio",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.703&mlon=11.3673#map=15/45.703/11.3673",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.703,
+    "longitude": 11.3673
+  },
+  "url": "http://www.patrimonioculturale.provincia.vicenza.it",
+  "telephone": "+39 328 8039444",
+  "contactPoint": [
+
+  ],
+  "openingHours": "primo sabato del mese 10.00 – 12.00; altri giorni su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "ingresso gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qep988NgQ5XQ7RncggT1Az51i8c=/1000x1000/museums/logos/000/189/564/original/ce53ed3677a32d46ca4f8459fbf487a58d313f1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112124",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

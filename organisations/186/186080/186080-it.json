@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186080
+  },
+  "name": "Casa museo \"Joe Petrosino\" Padula-New York-Palermo Vita e morte di un detective",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giuseppe Petrosino, 6",
+    "addressLocality": "Padula",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.338&mlon=15.6559#map=15/40.338/15.6559",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.338,
+    "longitude": 15.6559
+  },
+  "url": "http://www.joepetrosino.org",
+  "telephone": "+39 0975081009",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1fkSfWixodxTKP1eGmUrUmw8HQc=/1000x1000/museums/logos/000/186/080/original/2a1b3bcbc0c56bdcfb5b7fe95ad72de28e8287.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101907",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

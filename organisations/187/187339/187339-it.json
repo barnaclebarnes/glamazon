@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187339
+  },
+  "name": "Polo culturale San Francesco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pagani, 13",
+    "addressLocality": "Monterubbiano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0858&mlon=13.7169#map=15/43.0858/13.7169",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0858,
+    "longitude": 13.7169
+  },
+  "url": "http://www.museipiceni.it",
+  "telephone": "+39 0734259980",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Inverno: sabato e domenica 10-12, 15-17. Luglio-agosto: da martedì a domenica e festivi 10-12, 17-19.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/X37jNYN3LQPTZQLNPYXgmh7RcRs=/1000x1000/museums/logos/000/187/339/original/fbae4b9ef711a9efe8a73de59c196df26dd85290.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105071",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

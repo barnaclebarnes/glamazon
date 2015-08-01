@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138588
+  },
+  "name": "ARCH",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "818 LAFAYETTE ST",
+    "addressLocality": "FORT WAYNE",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "46802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0795&mlon=-85.1346#map=15/41.0795/-85.1346",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0795,
+    "longitude": -85.1346
+  },
+  "url": "http://archfw.org",
+  "telephone": "+1 (260) 426-5117",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800374",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

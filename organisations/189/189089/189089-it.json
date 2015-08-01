@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189089
+  },
+  "name": "Museo del vino Castel Rametz",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Labers, 4",
+    "addressLocality": "Merano/Meran",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6686&mlon=11.1855#map=15/46.6686/11.1855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6686,
+    "longitude": 11.1855
+  },
+  "url": "http://www.musei-altoadige.it",
+  "telephone": "+39 +39 0473 211011",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aprile - inizio novembre: lun-sab 9.00-18.30 metà novembre - metà marzo: lun-ven 9.00-12.30/14.30-18 sab 9.00-12.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 9.00 adulti (con degustazione di vini)"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pHjGYLEtaKf19DIn79scvh3TG8s=/1000x1000/museums/logos/000/189/089/original/bb98e94df126ee5b43e10a99951cbb6449c453.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111912",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183869
+  },
+  "name": "Schwäbisches Ofenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mühlwinkel 12",
+    "addressLocality": "Wertingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86637"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5566&mlon=10.6799#map=15/48.5566/10.6799",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5566,
+    "longitude": 10.6799
+  },
+  "url": "http://www.ofenmuseum.com/",
+  "telephone": "08272/84-196",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183869",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

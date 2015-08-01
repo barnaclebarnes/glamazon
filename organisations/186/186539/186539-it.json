@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186539
+  },
+  "name": "Museo Agostinelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Carlo Casini, 25",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7774&mlon=12.3403#map=15/41.7774/12.3403",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7774,
+    "longitude": 12.3403
+  },
+  "url": "http://www.musei.it/lazio/roma/museo-d_-agostinelli.asp",
+  "telephone": "+39 06 5215532",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da lun. a ven. 8,30-19,00 Sab. 8,30-13,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QE1V1Q_1_xSPiJ-lB1W0_vkNkjk=/1000x1000/museums/logos/000/186/539/original/6127e39e18cb95bf8ea6569cfa1fa278ff941.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101564",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

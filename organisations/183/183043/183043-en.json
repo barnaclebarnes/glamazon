@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183043
+  },
+  "name": "Bergbau- und Industriemuseum Ostbayern",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Portnerstraße 1",
+    "addressLocality": "Kümmersbruck",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92245"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.3865&mlon=11.9109#map=15/49.3865/11.9109",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.3865,
+    "longitude": 11.9109
+  },
+  "url": "http://www.museumtheuern.de",
+  "telephone": "09624/832",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183043",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

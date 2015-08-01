@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153224
+  },
+  "name": "NORTHAMPTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "211 WASHINGTON AVE",
+    "addressLocality": "CUYAHOGA FALLS",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44221"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1472&mlon=-81.4835#map=15/41.1472/-81.4835",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1472,
+    "longitude": -81.4835
+  },
+  "url": "http://northamptonhistoricalsociety.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

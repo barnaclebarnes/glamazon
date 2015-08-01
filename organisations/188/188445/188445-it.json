@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188445
+  },
+  "name": "Farmacia cinquecentesca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Umberto I, 1",
+    "addressLocality": "Roccavaldina",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.182&mlon=15.3726#map=15/38.182/15.3726",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.182,
+    "longitude": 15.3726
+  },
+  "url": "http://comune.roccavaldina.me.it",
+  "telephone": "+39 090 9977741",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,60€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HmkXjPidRXOkGpJ67blvCsHGG54=/1000x1000/museums/logos/000/188/445/original/53031b550392d95c641f4a486c99864aa788b.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101265",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

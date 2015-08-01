@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185984
+  },
+  "name": "Museo civico di Acerra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello Baronale, ",
+    "addressLocality": "Acerra",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9441&mlon=14.3714#map=15/40.9441/14.3714",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9441,
+    "longitude": 14.3714
+  },
+  "url": "http://www.pulcinellamuseo.it",
+  "telephone": "+39 0818 857249",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni feriali dalle 9.30 alle 13.00 lunedì e mercoledì, anche dalle 16.00 alle 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101823",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

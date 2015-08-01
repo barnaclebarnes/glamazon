@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137661
+  },
+  "name": "LAKE BLUFF HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 250",
+    "addressLocality": "LAKE BLUFF",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60044-0250"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2797&mlon=-87.8433#map=15/42.2797/-87.8433",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2797,
+    "longitude": -87.8433
+  },
+  "url": "http://www.lakebluffhistory.org/",
+  "telephone": "+1 (847) 482-1571",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700806",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

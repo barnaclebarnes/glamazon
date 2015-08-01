@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140019
+  },
+  "name": "EXPLORATION PLACE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 N MCLEAN BLVD",
+    "addressLocality": "WICHITA",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67203-5901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6887&mlon=-97.3485#map=15/37.6887/-97.3485",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6887,
+    "longitude": -97.3485
+  },
+  "url": "http://www.exploration.org",
+  "telephone": "+1 (316) 263-3373",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000345",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

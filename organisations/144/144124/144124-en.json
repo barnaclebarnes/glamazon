@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144124
+  },
+  "name": "GRAND TRAVERSE LIGHTHOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 43",
+    "addressLocality": "NORTHPORT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49670-0043"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1618&mlon=-85.5949#map=15/45.1618/-85.5949",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1618,
+    "longitude": -85.5949
+  },
+  "url": "http://www.grandtraverselighthouse.com/",
+  "telephone": "+1 (231) 386-7195",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/327178051613"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600661",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

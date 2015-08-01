@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188241
+  },
+  "name": "Museo del Duomo di Cagliari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fossario, 5",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2178&mlon=9.11676#map=15/39.2178/9.11676",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2178,
+    "longitude": 9.11676
+  },
+  "telephone": "+39 33327009",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato e domenica dalle 10,00 alle 13,00 e dalle 16,30 alle 19,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wXCCALrP10BdzBKgNUF1cM2rkTM=/1000x1000/museums/logos/000/188/241/original/afc95dee5effd5164a46556512823c773af47a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105622",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183360
+  },
+  "name": "Historisches Ortsmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klöppelschule 4",
+    "addressLocality": "Nordhalben",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96365"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.3757&mlon=11.5138#map=15/50.3757/11.5138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.3757,
+    "longitude": 11.5138
+  },
+  "url": "http://www.nordhalben.de/Kultur-und-Historisches.57.0.html",
+  "telephone": "09267/375",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183360",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

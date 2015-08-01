@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183960
+  },
+  "name": "Diözesanmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Domplatz 5",
+    "addressLocality": "Bamberg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96049"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8905&mlon=10.8825#map=15/49.8905/10.8825",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8905,
+    "longitude": 10.8825
+  },
+  "url": "http://www.dioezesanmuseum-bamberg.de",
+  "telephone": "0951/502-316",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183960",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

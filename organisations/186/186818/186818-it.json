@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186818
+  },
+  "name": "Museo adriano bernareggi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pignolo, 76",
+    "addressLocality": "Bergamo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7008&mlon=9.67375#map=15/45.7008/9.67375",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7008,
+    "longitude": 9.67375
+  },
+  "url": "http://www.museobernareggi.it",
+  "telephone": "+39 035248772",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/u8qsXnvVExdvghCJDsCVegmp2Rk=/1000x1000/museums/logos/000/186/818/original/1566b6cd27ca272a7b827efc098d9ad54438432.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103505",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

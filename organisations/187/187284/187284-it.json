@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187284
+  },
+  "name": "Galleria d’arte contemporanea \"Osvaldo Licini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Mazzini, 90",
+    "addressLocality": "Ascoli Piceno",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8552&mlon=13.5784#map=15/42.8552/13.5784",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8552,
+    "longitude": 13.5784
+  },
+  "url": "http://www.comune.ascolipiceno.it",
+  "telephone": "+39 0736248262",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni dalle 10.00 alle 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 8.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ijPIhjUr-TabKooLJLb_S8eSsH8=/1000x1000/museums/logos/000/187/284/original/54f6efecd8d4c6c3b6865bf9a3d71d83fb487d1a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104091",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

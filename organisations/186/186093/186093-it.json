@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186093
+  },
+  "name": "Museo della civiltà contadina di Roscigno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Nicotera, ",
+    "addressLocality": "Roscigno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4229&mlon=15.3104#map=15/40.4229/15.3104",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4229,
+    "longitude": 15.3104
+  },
+  "url": "http://www.roscignovecchia.it",
+  "telephone": "+39 0828963377",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101915",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

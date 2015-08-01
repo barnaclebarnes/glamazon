@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133228
+  },
+  "name": "THE COLORADO MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2001 COLORADO BLVD",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80205-5732"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7492&mlon=-104.941#map=15/39.7492/-104.941",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7492,
+    "longitude": -104.941
+  },
+  "url": "http://www.dmns.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800404",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

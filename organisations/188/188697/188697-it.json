@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188697
+  },
+  "name": "Museo d'arte sacra Abbazia di Vallombrosa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "San Benedetto, 2",
+    "addressLocality": "Reggello",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7327&mlon=11.557#map=15/43.7327/11.557",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7327,
+    "longitude": 11.557
+  },
+  "url": "http://www.vallombrosa.it",
+  "telephone": "+39 055862251",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XfDYVxkaYQbd6iwIQj2FfUrEVtw=/1000x1000/museums/logos/000/188/697/original/9ec57f3696b275751096118313abff73fb045.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102972",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

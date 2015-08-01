@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186296
+  },
+  "name": "Speleovivarium",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guido Reni, 2/C",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.644&mlon=13.757#map=15/45.644/13.757",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.644,
+    "longitude": 13.757
+  },
+  "url": "http://www.sastrieste.it",
+  "telephone": "+39 040823859 - 040 306770 - 3491357631",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da ottobre a giugno: la domenica 10.00/12.00 (escluse festività)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/L8xj66Y5DX9YnsH8ftgmoF0i95E=/1000x1000/museums/logos/000/186/296/original/f512ede6784740af695b62c4a62c458426ae2bd1.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100257",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

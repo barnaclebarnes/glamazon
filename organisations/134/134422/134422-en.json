@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134422
+  },
+  "name": "TEXTILE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2320 S ST NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20008-4016"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9141&mlon=-77.0511#map=15/38.9141/-77.0511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9141,
+    "longitude": -77.0511
+  },
+  "url": "http://www.textilemuseum.org",
+  "telephone": "+1 (202) 667-0441",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100203",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

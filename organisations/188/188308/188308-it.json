@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188308
+  },
+  "name": "Museo archeologico comprensoriale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 07",
+    "addressLocality": "Teti",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0696&mlon=9.09017#map=15/40.0696/9.09017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0696,
+    "longitude": 9.09017
+  },
+  "url": "http://www.comuneteti.it",
+  "telephone": "+39 0784 68120",
+  "contactPoint": [
+
+  ],
+  "openingHours": "inv, 9,00 - 12,30 e 15,00 - 17,30, 09,30 est, 13,00 e 15,30 - 18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1KsZV0EUXqLP-ELCVVejk8cKyHs=/1000x1000/museums/logos/000/188/308/original/ba2a765c98ca32785d844425de2b15af4198dfe9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103384",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

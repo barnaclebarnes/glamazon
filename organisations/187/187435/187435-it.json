@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187435
+  },
+  "name": "Museo del territorio Gola del Furlo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Flaminia",
+    "addressLocality": "Acqualagna",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6245&mlon=12.6788#map=15/43.6245/12.6788",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6245,
+    "longitude": 12.6788
+  },
+  "url": "http://www.riservagoladelfurlo.it/",
+  "telephone": "+39 0721 700041",
+  "contactPoint": [
+
+  ],
+  "openingHours": "vedi dettaglio",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111550",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

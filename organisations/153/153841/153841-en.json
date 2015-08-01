@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153841
+  },
+  "name": "PGR OF OKLAHOMA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "616 NW 21ST ST",
+    "addressLocality": "MOORE",
+    "addressRegion": "OK",
+    "addressCountry": "United States",
+    "postalCode": "73160-3434"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.3574&mlon=-97.4999#map=15/35.3574/-97.4999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.3574,
+    "longitude": -97.4999
+  },
+  "url": "http://www.pgrofok.us",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404000195",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

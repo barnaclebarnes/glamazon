@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132935
+  },
+  "name": "DINOSAUR DEPOT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "330 ROYAL GORGE BLVD",
+    "addressLocality": "CANON CITY",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81212"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4386&mlon=-105.242#map=15/38.4386/-105.242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4386,
+    "longitude": -105.242
+  },
+  "url": "http://www.dinosaurdepot.com",
+  "telephone": "+1 (719) 269-7150",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800111",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

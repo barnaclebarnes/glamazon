@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189289
+  },
+  "name": "Museo dell’Abbazia di Sant'Eutizio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale dell'Abbazia,  Piedivalle, ",
+    "addressLocality": "Preci",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8694&mlon=13.0631#map=15/42.8694/13.0631",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8694,
+    "longitude": 13.0631
+  },
+  "telephone": "+39 0743231035",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/V1g8GYVIEIvuZMqpZ4ZIs2vQ6n8=/1000x1000/museums/logos/000/189/289/original/e81ce76dec21f6843821684bd08c9f4886ab38f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106018",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

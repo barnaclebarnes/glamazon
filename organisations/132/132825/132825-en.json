@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132825
+  },
+  "name": "WRAY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "205 E 3RD ST",
+    "addressLocality": "WRAY",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80758"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0789&mlon=-102.221#map=15/40.0789/-102.221",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0789,
+    "longitude": -102.221
+  },
+  "url": "http://www.wrayco.net/museum_display.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

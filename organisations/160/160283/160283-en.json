@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160283
+  },
+  "name": "DOVER HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "90 HOLLAND ROAD",
+    "addressLocality": "EAST DOVER",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05341"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9529&mlon=-72.8014#map=15/42.9529/-72.8014",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9529,
+    "longitude": -72.8014
+  },
+  "url": "http://doverhistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000089",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

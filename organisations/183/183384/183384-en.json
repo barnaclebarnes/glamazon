@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183384
+  },
+  "name": "Museum im Koffer – Kindermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Michael-Ende-Straße 17",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90439"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4427&mlon=11.0521#map=15/49.4427/11.0521",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4427,
+    "longitude": 11.0521
+  },
+  "url": "http://www.kindermuseum-nuernberg.de",
+  "telephone": "0911/600040",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183384",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

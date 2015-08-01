@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182805
+  },
+  "name": "Jagerhaus Gmund",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Seestraße 2",
+    "addressLocality": "Gmund",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83703"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7497&mlon=11.7386#map=15/47.7497/11.7386",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7497,
+    "longitude": 11.7386
+  },
+  "url": "http://www.jagerhaus-gmund.de",
+  "telephone": "08022/937810",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182805",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

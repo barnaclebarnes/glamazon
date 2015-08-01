@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183779
+  },
+  "name": "Kartäusermuseum Tückelhausen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Konventstraße 3",
+    "addressLocality": "Ochsenfurt",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97199"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6528&mlon=10.0251#map=15/49.6528/10.0251",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6528,
+    "longitude": 10.0251
+  },
+  "url": "http://www.museen.bistum-wuerzburg.de/tueckelhausen/",
+  "telephone": "0931/3866-5600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183779",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183454
+  },
+  "name": "Römisches Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dominikanergasse 15",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3653&mlon=10.9009#map=15/48.3653/10.9009",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3653,
+    "longitude": 10.9009
+  },
+  "url": "http://www.kunstsammlungen-museen.augsburg.de/index.php?id=19767",
+  "telephone": "0821/324-4131",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183454",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

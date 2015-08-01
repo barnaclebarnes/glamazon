@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145057
+  },
+  "name": "EARTH MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4217 ESTATE DR",
+    "addressLocality": "BROOKLYN PARK",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55443"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0954&mlon=-93.3358#map=15/45.0954/-93.3358",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0954,
+    "longitude": -93.3358
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700497",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185691
+  },
+  "name": "Centro di documentazione sanisgalliana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Garibaldi",
+    "addressLocality": "Montemurro",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2695&mlon=15.9675#map=15/40.2695/15.9675",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2695,
+    "longitude": 15.9675
+  },
+  "telephone": "+39 0971753660",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ntOmxUdltFyQ8URse8qnjPCZUGY=/1000x1000/museums/logos/000/185/691/original/8699732dfde897a73a3dd52ecf2527d916b9ea8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100147",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

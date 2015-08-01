@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184142
+  },
+  "name": "Hokianga Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-35.5278&mlon=173.39#map=15/-35.5278/173.39",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -35.5278,
+    "longitude": 173.39
+  },
+  "telephone": "64-9-405 8869",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.30 – 4.30 daily (not Xmas day)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Koha / Donation"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184142",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159118
+  },
+  "name": "SAN ANTONIO CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "305 E HOUSTON ST",
+    "addressLocality": "SAN ANTONIO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78205-1802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.4265&mlon=-98.4895#map=15/29.4265/-98.4895",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.4265,
+    "longitude": -98.4895
+  },
+  "url": "http://www.sakids.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801218",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158913
+  },
+  "name": "BROWNSVILLE HISTORICAL ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1305 E WASHINGTON ST",
+    "addressLocality": "BROWNSVILLE",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78520-5705"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.9009&mlon=-97.4966#map=15/25.9009/-97.4966",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.9009,
+    "longitude": -97.4966
+  },
+  "telephone": "+1 (956) 542-3929",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/brownsvillehistoricalassociation"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801013",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

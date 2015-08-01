@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144000
+  },
+  "name": "ANN ARBOR HANDS ON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "220 E ANN ST",
+    "addressLocality": "ANN ARBOR",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48104-1445"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2823&mlon=-83.7469#map=15/42.2823/-83.7469",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2823,
+    "longitude": -83.7469
+  },
+  "url": "http://www.aahom.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600537",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

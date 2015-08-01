@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143195
+  },
+  "name": "BOLTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "BOX 211",
+    "addressLocality": "BOLTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01740"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.432&mlon=-71.6023#map=15/42.432/-71.6023",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.432,
+    "longitude": -71.6023
+  },
+  "url": "http://boltonhistoricalsociety.org",
+  "telephone": "+1 (508) 779-6495",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500825",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

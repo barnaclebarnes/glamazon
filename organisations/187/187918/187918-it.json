@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187918
+  },
+  "name": "MAO - Museo d’Arte Orientale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Mazzonis - Via San Domenico, 9-11, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0709&mlon=7.68434#map=15/45.0709/7.68434",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0709,
+    "longitude": 7.68434
+  },
+  "url": "http://www.maotorino.it",
+  "telephone": "+39 0114436927",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "10,00€ Ingresso libero il primo martedì del mese, se non festivo"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ayx2XPiKp7ZF0kxMrrN_-JPOaOY=/1000x1000/museums/logos/000/187/918/original/a6906ed8d9babf17d21746fb503ea942272a61d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106753",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

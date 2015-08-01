@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183328
+  },
+  "name": "Stadtmuseum Neuburg a. d. Donau",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Amalienstraße A 19",
+    "addressLocality": "Neuburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86633"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7373&mlon=11.1774#map=15/48.7373/11.1774",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7373,
+    "longitude": 11.1774
+  },
+  "url": "http://www.stadtmuseum-neuburg.de",
+  "telephone": "08431/539053",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183328",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

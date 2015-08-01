@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155262
+  },
+  "name": "FRANKLIN INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "222 N 20TH ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19103-1115"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9578&mlon=-75.1723#map=15/39.9578/-75.1723",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9578,
+    "longitude": -75.1723
+  },
+  "url": "http://www.fi.edu",
+  "telephone": "+1 (215) 448-1200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200456",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

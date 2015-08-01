@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132249
+  },
+  "name": "CLOVIS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "401 POLLASKY AVE",
+    "addressLocality": "CLOVIS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93612"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8252&mlon=-119.702#map=15/36.8252/-119.702",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8252,
+    "longitude": -119.702
+  },
+  "url": "http://clovis-museum.com",
+  "telephone": "+1 (559) 297-8033",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602375",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

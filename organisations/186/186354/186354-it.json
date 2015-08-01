@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186354
+  },
+  "name": "Art park - Parco di arte contemporanea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Villa di Verzegnis, ",
+    "addressLocality": "Verzegnis",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.3898&mlon=12.9937#map=15/46.3898/12.9937",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.3898,
+    "longitude": 12.9937
+  },
+  "url": "http://www.carniamusei.org",
+  "telephone": "+39 04332344",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dE-e38bUvDwTY0SQbDM5DrnOO1A=/1000x1000/museums/logos/000/186/354/original/9c322a8a448054d781032a524a473daaafc95.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100334",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

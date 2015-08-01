@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157459
+  },
+  "name": "ART MUSEUM-UNIVERSITY-MEMPHIS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3750 NORRISWOOD AVE",
+    "addressLocality": "MEMPHIS",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "38111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1215&mlon=-89.9381#map=15/35.1215/-89.9381",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1215,
+    "longitude": -89.9381
+  },
+  "url": "http://www.amum.org",
+  "telephone": "+1 (901) 678-2224",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700130",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

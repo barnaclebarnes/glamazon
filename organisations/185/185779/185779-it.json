@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185779
+  },
+  "name": "Museo del peperoncino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Duomo ",
+    "addressLocality": "Diamante",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6773&mlon=15.818#map=15/39.6773/15.818",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6773,
+    "longitude": 15.818
+  },
+  "telephone": "+39 0985 81130",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-HChrnwKpdZGuyUv5ty868YRbMg=/1000x1000/museums/logos/000/185/779/original/8226724ff82c25758b92c4bdefc384ac3bebbe41.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108448",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

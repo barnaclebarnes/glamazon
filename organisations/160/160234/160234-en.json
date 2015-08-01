@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160234
+  },
+  "name": "AMERICAN PRECISION MUSEUM ASSOCATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "196 S. MAIN STREET",
+    "addressLocality": "WINDSOR",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05089"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4748&mlon=-72.3889#map=15/43.4748/-72.3889",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4748,
+    "longitude": -72.3889
+  },
+  "telephone": "+1 (802) 674-5781",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000040",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128532
+  },
+  "name": "DAPHNE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "405 DRYER AVE",
+    "addressLocality": "DAPHNE",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "36526"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.6013&mlon=-87.9082#map=15/30.6013/-87.9082",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.6013,
+    "longitude": -87.9082
+  },
+  "url": "http://www.daphnemuseumalabama.org/",
+  "telephone": "+1 (251) 621-9620",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100062",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

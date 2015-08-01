@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185668
+  },
+  "name": "Museo nazionale \"Domenico Ridola\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Domenico Ridola, 24",
+    "addressLocality": "Matera",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.664&mlon=16.6093#map=15/40.664/16.6093",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.664,
+    "longitude": 16.6093
+  },
+  "url": "http://www.archeobasilicata.beniculturali.it",
+  "telephone": "+39 0835310058",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lun 14.00 - 20.00; mar -dom 9.00 - 20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4wkNRl7Sc81tmCtpCH4g3i0ilqs=/1000x1000/museums/logos/000/185/668/original/ff3bd3fcb19a78419b3aadc9755a770cb5ac4ff.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20240",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159684
+  },
+  "name": "THE MUSEUM OF NORTH TEXAS HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1619",
+    "addressLocality": "WICHITA FALLS",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76301-6512"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9134&mlon=-98.4915#map=15/33.9134/-98.4915",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9134,
+    "longitude": -98.4915
+  },
+  "url": "https://www.museumofnorthtexashistory.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801784",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

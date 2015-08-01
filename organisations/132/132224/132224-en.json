@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132224
+  },
+  "name": "LACE MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "552 S MURPHY AVE",
+    "addressLocality": "SUNNYVALE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94086-6116"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3696&mlon=-122.033#map=15/37.3696/-122.033",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3696,
+    "longitude": -122.033
+  },
+  "url": "http://www.thelacemuseum.org",
+  "telephone": "+1 (408) 730-4695",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602350",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189314
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vittorio Emanuele II, 31",
+    "addressLocality": "Torgiano",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0255&mlon=12.4353#map=15/43.0255/12.4353",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0255,
+    "longitude": 12.4353
+  },
+  "url": "http://www.lungarotti.it/fondazione/muvit/",
+  "telephone": "+39 0759880200",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Tz1VZGLhKmpvlPvhAKye6zVDW6g=/1000x1000/museums/logos/000/189/314/original/d88750565345acd2b871c64edbbc6912e42ad.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100759",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

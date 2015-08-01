@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188931
+  },
+  "name": "Museo della carta di Pescia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "della Croce, 1",
+    "addressLocality": "Pescia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9935&mlon=10.7086#map=15/43.9935/10.7086",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9935,
+    "longitude": 10.7086
+  },
+  "telephone": "+39 0572408020",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JsN4choABq63VEuwlAaho2XyGUY=/1000x1000/museums/logos/000/188/931/original/ffce37a49177614891545642357bf2ac8b4a19c8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103207",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

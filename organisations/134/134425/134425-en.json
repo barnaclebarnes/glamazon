@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134425
+  },
+  "name": "HISTORICAL SOCIETY OF WASHINGTON DC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "801 K ST NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20001-3746"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9021&mlon=-77.0229#map=15/38.9021/-77.0229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9021,
+    "longitude": -77.0229
+  },
+  "url": "http://www.historydc.org/",
+  "telephone": "+1 (202) 383-1850",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100206",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

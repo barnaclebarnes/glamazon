@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145812
+  },
+  "name": "MUSE STL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3528A CONNECTICUT ST",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63118"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5994&mlon=-90.2427#map=15/38.5994/-90.2427",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5994,
+    "longitude": -90.2427
+  },
+  "url": "http://musestl.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900241",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

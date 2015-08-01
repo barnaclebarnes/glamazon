@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185997
+  },
+  "name": "Museo sansossiano di arte sacra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Basilica Pontificia di San Sossio - Piazza Umberto I , ",
+    "addressLocality": "Frattamaggiore",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9415&mlon=14.2719#map=15/40.9415/14.2719",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9415,
+    "longitude": 14.2719
+  },
+  "telephone": "+39 0818352792",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/B6grL_YNMENt7yeJMCO8A4vVSjc=/1000x1000/museums/logos/000/185/997/original/5487b4033cbd294cf869eac61e3a078e27fd07f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101834",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

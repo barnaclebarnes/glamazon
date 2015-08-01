@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142030
+  },
+  "name": "MARYLAND SCIENCE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "601 LIGHT ST",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21230-3803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2811&mlon=-76.6128#map=15/39.2811/-76.6128",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2811,
+    "longitude": -76.6128
+  },
+  "url": "http://www.mdsci.org",
+  "telephone": "+1 (410) 685-2370",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400323",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

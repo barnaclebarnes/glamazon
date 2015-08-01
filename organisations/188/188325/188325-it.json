@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188325
+  },
+  "name": "Museo etnografico di Palau-sator",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nazionale, ",
+    "addressLocality": "Palau",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1792&mlon=9.38156#map=15/41.1792/9.38156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1792,
+    "longitude": 9.38156
+  },
+  "url": "http://www.palau.it",
+  "telephone": "+39 0789770800",
+  "contactPoint": [
+
+  ],
+  "openingHours": "luglio e agosto 19.00-23.00; settembre 10.00-12.00 e 17.00-20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,50 (intero con visita guidata) € 2,00 (intero solo ingresso)"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1M30k-US-sLEn8Z9HzA_4pxf8Us=/1000x1000/museums/logos/000/188/325/original/ab40653713c6f0e73b9cf05460d1f6a2760afee.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103437",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

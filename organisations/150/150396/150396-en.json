@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150396
+  },
+  "name": "CLARKSVILLE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 91",
+    "addressLocality": "CLARKSVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12041"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5746&mlon=-73.9622#map=15/42.5746/-73.9622",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5746,
+    "longitude": -73.9622
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601690",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187142
+  },
+  "name": "Museo di anatomia di Pavia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Forlanini, 8",
+    "addressLocality": "Pavia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.199&mlon=9.14781#map=15/45.199/9.14781",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.199,
+    "longitude": 9.14781
+  },
+  "telephone": "+39 0382 987647",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VPdO_f3mRUhS7Ji-rK1n4r1f1-M=/1000x1000/museums/logos/000/187/142/original/568730b55a79c648a0fc2f978a5f454e99c7c3a.gif"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106878",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

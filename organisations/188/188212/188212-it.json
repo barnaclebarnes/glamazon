@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188212
+  },
+  "name": "Museo della radio di Tuglie",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Veneto, 114",
+    "addressLocality": "Tuglie",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0741&mlon=18.0927#map=15/40.0741/18.0927",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0741,
+    "longitude": 18.0927
+  },
+  "url": "http://www.museoradiotuglie.it/",
+  "telephone": "+39 0833597747",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ccmFaQmcTsU7h6j9ypBcxjm8PRU=/1000x1000/museums/logos/000/188/212/original/90c57e656a82794cb99922d45cac59b797f928.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102416",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

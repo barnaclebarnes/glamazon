@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187305
+  },
+  "name": "Museo della Cripta - Le mummie di Monsampolo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Cripta Chiesa Maria Ss. Assunta",
+    "addressLocality": "Monsampolo del Tronto",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8976&mlon=13.7921#map=15/42.8976/13.7921",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8976,
+    "longitude": 13.7921
+  },
+  "telephone": "+39 0735 704116 (Comune); 3939787891 (Cooperativa Oikos)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "estivo ore 17:30 - 20:30 o su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00 euro; 5,00 euro ingresso Polo Museale (Museo della cripta, Museo civico e Museo archeologico)"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cX47NNG3qN9MqMIhRrDEE2cuAwU=/1000x1000/museums/logos/000/187/305/original/8115f9c62f294fd0c81787341161287d36fbf3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "113418",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150780
+  },
+  "name": "LOUIS ARMSTRONG HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3456 107TH ST",
+    "addressLocality": "CORONA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11368-1226"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7546&mlon=-73.8613#map=15/40.7546/-73.8613",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7546,
+    "longitude": -73.8613
+  },
+  "url": "http://www.louisarmstronghouse.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602074",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

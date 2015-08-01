@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150494
+  },
+  "name": "ANTIQUE BOAT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "750 MARY ST",
+    "addressLocality": "CLAYTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13624-1119"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2381&mlon=-76.0886#map=15/44.2381/-76.0886",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2381,
+    "longitude": -76.0886
+  },
+  "url": "http://www.abm.org",
+  "telephone": "+1 (315) 686-4104",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601788",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

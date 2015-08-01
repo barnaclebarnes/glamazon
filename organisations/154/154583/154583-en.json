@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154583
+  },
+  "name": "DOUGLAS COUNTY MUSEUM FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 MUSEUM DR",
+    "addressLocality": "ROSEBURG",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97471-9747"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1943&mlon=-123.361#map=15/43.1943/-123.361",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1943,
+    "longitude": -123.361
+  },
+  "url": "http://www.co.douglas.or.us/museum",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100376",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

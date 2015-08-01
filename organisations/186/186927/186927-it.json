@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186927
+  },
+  "name": "Fondazione museo storico del Nastro Azzurro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fantoni, 49",
+    "addressLocality": "Salò",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6072&mlon=10.5311#map=15/45.6072/10.5311",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6072,
+    "longitude": 10.5311
+  },
+  "telephone": "+39 0303751225",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2s81IW_x7bGB_q_xTBuyf1YYnhs=/1000x1000/museums/logos/000/186/927/original/5247729d1b8e781cfe143b6aa1d09e9518ddfe.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103595",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

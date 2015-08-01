@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130024
+  },
+  "name": "SAN DIEGO AIRCRAFT CARRIER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "937 N HARBOR DR",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92132"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7149&mlon=-117.173#map=15/32.7149/-117.173",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7149,
+    "longitude": -117.173
+  },
+  "url": "http://www.midway.org",
+  "telephone": "+1 (619) 544-9600",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bQu0scMB-sDEF250banuhl0bGAk=/1000x1000/museums/logos/000/130/024/original/USS_Midway__28CV-41_29_decommissioned.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/USS_Midway_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600150",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

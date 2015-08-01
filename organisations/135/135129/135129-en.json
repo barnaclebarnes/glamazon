@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135129
+  },
+  "name": "APPLETON MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4333 E SILVER SPRINGS BLVD",
+    "addressLocality": "OCALA",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "34470-5001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.2049&mlon=-82.0755#map=15/29.2049/-82.0755",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.2049,
+    "longitude": -82.0755
+  },
+  "url": "http://www.appletonmuseum.org",
+  "telephone": "+1 (352) 291-4455",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200684",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

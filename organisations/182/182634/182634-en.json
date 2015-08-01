@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182634
+  },
+  "name": "Maskenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenstraße 1",
+    "addressLocality": "Diedorf",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86420"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.354&mlon=10.7774#map=15/48.354/10.7774",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.354,
+    "longitude": 10.7774
+  },
+  "url": "http://www.maskenmuseum.de",
+  "telephone": "08238/60245",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182634",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

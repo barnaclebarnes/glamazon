@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150826
+  },
+  "name": "MARTINSBURG HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6660 STATE ROUTE 26 BOX17",
+    "addressLocality": "MARTINSBURG",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13404"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7355&mlon=-75.4691#map=15/43.7355/-75.4691",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7355,
+    "longitude": -75.4691
+  },
+  "url": "http://martinsburghistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602120",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189486
+  },
+  "name": "Museo civico della laguna sud \"San Francesco fuori le mura\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Campo Marconi, 1",
+    "addressLocality": "Chioggia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2162&mlon=12.2771#map=15/45.2162/12.2771",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2162,
+    "longitude": 12.2771
+  },
+  "url": "http://www.chioggia.org",
+  "telephone": "+39 0415500911",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uc-Kkbm7415fBtkFjAz5-DNK4Jk=/1000x1000/museums/logos/000/189/486/original/4fab699e1f74af8fdd2696fa2b891cd9d5ce6f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101005",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

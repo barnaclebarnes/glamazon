@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187953
+  },
+  "name": "Palazzo Cavour",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavour, 8, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0653&mlon=7.68258#map=15/45.0653/7.68258",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0653,
+    "longitude": 7.68258
+  },
+  "url": "http://www.palazzocavour.it",
+  "telephone": "+39 011530690",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MBVxnH_KQnBJg_430xmtOIDkqFc=/1000x1000/museums/logos/000/187/953/original/abef2a82e58811b8228473dba8c0be7aab10a82.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106637",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

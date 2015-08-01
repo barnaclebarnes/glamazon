@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142457
+  },
+  "name": "NATURAL HISTORY COLLECTIONS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "611 N PLEASANT ST",
+    "addressLocality": "AMHERST",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01003"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3909&mlon=-72.5252#map=15/42.3909/-72.5252",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3909,
+    "longitude": -72.5252
+  },
+  "url": "http://bcrc.bio.umass.edu/ummnh/contacts.htm",
+  "telephone": "+1 (413) 577-2303",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500087",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

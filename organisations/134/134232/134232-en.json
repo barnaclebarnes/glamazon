@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134232
+  },
+  "name": "POWHATAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1519 MONROE ST NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20010"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9323&mlon=-77.0356#map=15/38.9323/-77.0356",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9323,
+    "longitude": -77.0356
+  },
+  "telephone": "+1 (202) 265-0136",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100012",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

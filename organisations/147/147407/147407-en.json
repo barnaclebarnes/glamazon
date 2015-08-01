@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147407
+  },
+  "name": "JAMES HOUSE ASSOCIATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 234",
+    "addressLocality": "HAMPTON",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03843-0234"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9355&mlon=-70.8394#map=15/42.9355/-70.8394",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9355,
+    "longitude": -70.8394
+  },
+  "url": "http://jameshousemuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300182",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

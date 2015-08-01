@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187218
+  },
+  "name": "Museo Baroffio e del Santuario del Sacro Monte sopra Varese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzetta Monastero, ?",
+    "addressLocality": "Varese",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8605&mlon=8.79201#map=15/45.8605/8.79201",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8605,
+    "longitude": 8.79201
+  },
+  "url": "http://www.museobaroffio.it",
+  "telephone": "+39 0332212042",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/I2oAvb5HAl8-TEX6ybRBN96fCBo=/1000x1000/museums/logos/000/187/218/original/efe7b9a3c8f2d8832b86f948539bfc8ce76e4d3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103844",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

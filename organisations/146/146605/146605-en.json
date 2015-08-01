@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146605
+  },
+  "name": "BILLINGS DEPOT INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2310 MONTANA AVE",
+    "addressLocality": "BILLINGS",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59101-2420"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7841&mlon=-108.499#map=15/45.7841/-108.499",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7841,
+    "longitude": -108.499
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000248",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

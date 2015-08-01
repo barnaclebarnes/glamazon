@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142387
+  },
+  "name": "SKINNER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "51 COLLEGE ST",
+    "addressLocality": "SOUTH HADLEY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01075"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2572&mlon=-72.5582#map=15/42.2572/-72.5582",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2572,
+    "longitude": -72.5582
+  },
+  "telephone": "+1 (413) 538-7127",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500017",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

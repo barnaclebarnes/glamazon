@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189518
+  },
+  "name": "Museo Sisan delle tradizioni Ornitologiche, ittiche, venatorie del Comprensorio Gardesano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Federico Marzan, 24/3",
+    "addressLocality": "Bardolino",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5518&mlon=10.7215#map=15/45.5518/10.7215",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5518,
+    "longitude": 10.7215
+  },
+  "url": "http://www.sisan.it",
+  "telephone": "+39 045 2377935",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Primavera da venerdi a domenica dalle 9:30 - 12:30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3.50 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AzZ07qpiVjCkNZbxU9UKegLmq94=/1000x1000/museums/logos/000/189/518/original/4b1a3f964a385c88a4ce7811c43f5ff1117b435.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112127",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

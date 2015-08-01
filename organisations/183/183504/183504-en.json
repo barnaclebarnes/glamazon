@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183504
+  },
+  "name": "Museumsstadl",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pitzen 2 a",
+    "addressLocality": "Bernried",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94505"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9183&mlon=12.8789#map=15/48.9183/12.8789",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9183,
+    "longitude": 12.8789
+  },
+  "url": "http://www.landtechnik-museum.de",
+  "telephone": "09905/935",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183504",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

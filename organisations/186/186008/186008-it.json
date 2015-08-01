@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186008
+  },
+  "name": "Museo civico Gaetano Filangieri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Duomo, 288",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.849&mlon=14.261#map=15/40.849/14.261",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.849,
+    "longitude": 14.261
+  },
+  "telephone": "+39 081203175",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105321",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

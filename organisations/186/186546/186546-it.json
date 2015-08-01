@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186546
+  },
+  "name": "Museo criminologico di Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Gonfalone, 29",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8977&mlon=12.4666#map=15/41.8977/12.4666",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8977,
+    "longitude": 12.4666
+  },
+  "url": "http://museocriminologico.it",
+  "telephone": "+39 06 68899442",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì al sabato: 9,00/13,00 il martedì e giovedì anche 14,30/18,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4KTghhDrHJ9PIoNsMK9EWrB09lE=/1000x1000/museums/logos/000/186/546/original/70c07d9cf38262e72691368971b67ed4da73dc.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101541",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

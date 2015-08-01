@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182806
+  },
+  "name": "Schloss Spielberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Spielberg 16",
+    "addressLocality": "Gnotzheim",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91728"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0456&mlon=10.7154#map=15/49.0456/10.7154",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0456,
+    "longitude": 10.7154
+  },
+  "url": "http://www.kunstmuseum-donauries.de",
+  "telephone": "09833/357",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182806",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

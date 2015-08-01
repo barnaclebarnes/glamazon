@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149466
+  },
+  "name": "NEW YORK BOTANICAL GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200TH STREET KAZIMIROFF BLVD",
+    "addressLocality": "BRONX",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10458"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8626&mlon=-73.891#map=15/40.8626/-73.891",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8626,
+    "longitude": -73.891
+  },
+  "url": "http://www.nybg.org",
+  "telephone": "+1 (718) 817-8700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600760",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

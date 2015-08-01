@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183072
+  },
+  "name": "Stadtresidenz Landshut",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Altstadt 79",
+    "addressLocality": "Landshut",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84028"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5362&mlon=12.1506#map=15/48.5362/12.1506",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5362,
+    "longitude": 12.1506
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/la_res.htm",
+  "telephone": "0871/9659490",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183072",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

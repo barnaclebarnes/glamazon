@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130395
+  },
+  "name": "ESCONDIDO PUBLIC LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "253 SOUTH ESCONDIDO BLVD.",
+    "addressLocality": "ESCONDIDO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92025"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.1189&mlon=-117.083#map=15/33.1189/-117.083",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.1189,
+    "longitude": -117.083
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Escondido_Public_Library",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600521",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143589
+  },
+  "name": "KRESGE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MICHIGAN STATE UNIVERSITY",
+    "addressLocality": "EAST LANSING",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48824"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7275&mlon=-84.4829#map=15/42.7275/-84.4829",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7275,
+    "longitude": -84.4829
+  },
+  "telephone": "+1 (517) 353-9834",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/52023843817"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/KresgeArtMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600126",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

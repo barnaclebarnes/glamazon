@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185567
+  },
+  "name": "Museo per l'economia tra antichità e rinascimento",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Castello Caldoresco Medievala, ",
+    "addressLocality": "Monteodorisio",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0897&mlon=14.6522#map=15/42.0897/14.6522",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0897,
+    "longitude": 14.6522
+  },
+  "telephone": "+39 0873 316131",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "€2,00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100056",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

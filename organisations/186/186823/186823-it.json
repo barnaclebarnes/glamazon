@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186823
+  },
+  "name": "Orto botanico di Bergamo Lorenzo Rota",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Passaggio Torre Di Adalberto, 2",
+    "addressLocality": "Bergamo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.706&mlon=9.65895#map=15/45.706/9.65895",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.706,
+    "longitude": 9.65895
+  },
+  "url": "http://www.ortobotanicodibergamo.it",
+  "telephone": "+39 035 286060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106819",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

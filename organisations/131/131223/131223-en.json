@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131223
+  },
+  "name": "VISTA BOTANICAL GARDENS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 CIVIC CENTER DR",
+    "addressLocality": "VISTA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92084-6275"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.2024&mlon=-117.236#map=15/33.2024/-117.236",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.2024,
+    "longitude": -117.236
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JQ1bFNT4x_Naw59dbTPD4SUHkyc=/1000x1000/museums/logos/000/131/223/original/Obelisk_6__281_29.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Alta_Vista_Gardens",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601349",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

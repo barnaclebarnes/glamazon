@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158914
+  },
+  "name": "WITTE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3801 BROADWAY ST",
+    "addressLocality": "SAN ANTONIO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78209-6309"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.4612&mlon=-98.4668#map=15/29.4612/-98.4668",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.4612,
+    "longitude": -98.4668
+  },
+  "url": "http://www.wittemuseum.org",
+  "telephone": "+1 (210) 357-1871",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/WitteMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801014",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

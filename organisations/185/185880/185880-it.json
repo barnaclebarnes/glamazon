@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185880
+  },
+  "name": "Museo statale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Episcopio",
+    "addressLocality": "Mileto",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6056&mlon=16.0644#map=15/38.6056/16.0644",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6056,
+    "longitude": 16.0644
+  },
+  "telephone": "+39 0963337015",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì - domenica (9.00 - 13.00 / 15.00 - 19.00)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/q9PF7euwdf7z1ZJpNgvoQRKagjM=/1000x1000/museums/logos/000/185/880/original/7063e20a0df2ee047bc6999635aaffb0eeb54b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20225",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

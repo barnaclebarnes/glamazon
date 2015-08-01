@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190058
+  },
+  "name": "ZUHL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "775 COLLEGE DRIVE",
+    "addressLocality": "LAS CRUCES",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "88003"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.383&mlon=-81.4969#map=15/30.383/-81.4969",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.383,
+    "longitude": -81.4969
+  },
+  "url": "http://zuhlmuseum.nmsu.edu/",
+  "telephone": "+1 (575) 646-4714",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500298",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

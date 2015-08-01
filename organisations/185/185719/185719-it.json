@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185719
+  },
+  "name": "Museo provinciale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Villa Margherita, via Guglielmo Marconi , 11",
+    "addressLocality": "Catanzaro",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9056&mlon=16.5955#map=15/38.9056/16.5955",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9056,
+    "longitude": 16.5955
+  },
+  "telephone": "+39 0961 720019",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/N5XMONKyXrVQkG09d7AZ5EDwYKc=/1000x1000/museums/logos/000/185/719/original/f04cbbd688d170d13a2a6f88f79aff116d4584b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108404",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

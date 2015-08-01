@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183202
+  },
+  "name": "Amerika Haus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Karolinenplatz 3",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1444&mlon=11.5681#map=15/48.1444/11.5681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1444,
+    "longitude": 11.5681
+  },
+  "url": "http://www.amerikahaus.de/index.html",
+  "telephone": "089/55 25 37-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183202",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

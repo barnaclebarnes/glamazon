@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187667
+  },
+  "name": "Centro visita Aleve'",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 38 (ex-Ala Comunale), ",
+    "addressLocality": "Casteldelfino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5906&mlon=7.07094#map=15/44.5906/7.07094",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5906,
+    "longitude": 7.07094
+  },
+  "url": "http://www.parcodelpocn.it",
+  "telephone": "+39 0175 46505",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "35,00€ a gruppo fino a 25 persone; 1,50€ a persona per gruppi superiori a 25"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vuHs0q9JsilZxdj8INzvC71rqmY=/1000x1000/museums/logos/000/187/667/original/134ea179e6b88e3cb3891059257b83f453dab1ce.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106671",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183938
+  },
+  "name": "Gestalt-Archiv Hans Herrmann e. V.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Landsberger Straße 19",
+    "addressLocality": "Schondorf",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86938"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0519&mlon=11.0873#map=15/48.0519/11.0873",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0519,
+    "longitude": 11.0873
+  },
+  "url": "http://www.gestalt-archiv.de",
+  "telephone": "08192/7675",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183938",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187596
+  },
+  "name": "Castello di Castell'Alfero",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, 2, ",
+    "addressLocality": "Castell'Alfero",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9825&mlon=8.2091#map=15/44.9825/8.2091",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9825,
+    "longitude": 8.2091
+  },
+  "url": "http://www.castellalfero.net/",
+  "telephone": "+39 0141 406611",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su appuntamento visite guidate",
+  "offers": {
+    "@Type": "Offer",
+    "description": "pagamento"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iF_m3gcHw8wgBp68SxnV0PTmfjQ=/1000x1000/museums/logos/000/187/596/original/d8f3c1835415d319d41819de8d8d21526d60b4be.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102491",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

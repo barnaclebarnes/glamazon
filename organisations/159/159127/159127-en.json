@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159127
+  },
+  "name": "DIE KUNSTLER VON FREDERICKSBURG",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1122",
+    "addressLocality": "FREDERICKSBURG",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78624-1122"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.2726&mlon=-98.8747#map=15/30.2726/-98.8747",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.2726,
+    "longitude": -98.8747
+  },
+  "url": "http://www.diekunstler.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801227",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

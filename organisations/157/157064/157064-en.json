@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157064
+  },
+  "name": "CHARLESTON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "360 MEETING ST",
+    "addressLocality": "CHARLESTON",
+    "addressRegion": "SC",
+    "addressCountry": "United States",
+    "postalCode": "29403-6235"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7901&mlon=-79.9365#map=15/32.7901/-79.9365",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7901,
+    "longitude": -79.9365
+  },
+  "url": "http://www.charlestonmuseum.com",
+  "telephone": "+1 (843) 722-2996",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404500359",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

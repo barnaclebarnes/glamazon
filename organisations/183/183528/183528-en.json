@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183528
+  },
+  "name": "Gebrüder-Lachner-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatz 7",
+    "addressLocality": "Rain",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86641"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.6907&mlon=10.9165#map=15/48.6907/10.9165",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.6907,
+    "longitude": 10.9165
+  },
+  "url": "http://www.rain.de/kultur/museum/lachner.htm",
+  "telephone": "09090/703-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183528",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

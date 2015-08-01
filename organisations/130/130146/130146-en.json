@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130146
+  },
+  "name": "NILES TRAIN DEPOT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "37592 NILES BLVD",
+    "addressLocality": "FREMONT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94536"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5768&mlon=-121.978#map=15/37.5768/-121.978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5768,
+    "longitude": -121.978
+  },
+  "url": "http://www.nilesdepot.org",
+  "telephone": "+1 (510) 797-4449",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600272",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

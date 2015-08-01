@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143084
+  },
+  "name": "PELHAM HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "POB 2824",
+    "addressLocality": "AMHERST",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3755&mlon=-72.5086#map=15/42.3755/-72.5086",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3755,
+    "longitude": -72.5086
+  },
+  "url": "http://www.pelhamhs.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500714",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

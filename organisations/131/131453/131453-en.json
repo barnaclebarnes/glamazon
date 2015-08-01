@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131453
+  },
+  "name": "SAN JOSE FIRE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1661 SENTER RD STE D-1",
+    "addressLocality": "SAN JOSE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95112-2522"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3192&mlon=-121.86#map=15/37.3192/-121.86",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3192,
+    "longitude": -121.86
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/San_Jose_Fire_Department",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601579",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

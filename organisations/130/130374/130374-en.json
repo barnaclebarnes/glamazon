@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130374
+  },
+  "name": "EGYPTIAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1342 NAGLEE AVE",
+    "addressLocality": "SAN JOSE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95126"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3346&mlon=-121.923#map=15/37.3346/-121.923",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3346,
+    "longitude": -121.923
+  },
+  "url": "http://www.egyptianmuseum.org",
+  "telephone": "+1 (408) 947-3636",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Rosicrucian_Egyptian_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600500",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

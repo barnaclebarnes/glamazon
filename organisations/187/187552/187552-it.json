@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187552
+  },
+  "name": "Castello di Lignano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada Castello - Località Castello di Lignano, 1, ",
+    "addressLocality": "Frassinello Monferrato",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.033&mlon=8.38687#map=15/45.033/8.38687",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.033,
+    "longitude": 8.38687
+  },
+  "url": "http://www.castellodilignano.it",
+  "telephone": "+39 0142925326",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Gjnu2v7CjX7NjhbtleNuSI6bBZc=/1000x1000/museums/logos/000/187/552/original/43fcbc5208ea33e2e1b1cad1279550a7109095.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102459",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

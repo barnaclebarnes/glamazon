@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147473
+  },
+  "name": "LONDONDERRY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 136",
+    "addressLocality": "LONDONDERRY",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03053"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.878&mlon=-71.3709#map=15/42.878/-71.3709",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.878,
+    "longitude": -71.3709
+  },
+  "url": "http://londonderryhistory.org",
+  "telephone": "+1 (603) 432-2005",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300248",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

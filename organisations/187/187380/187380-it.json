@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187380
+  },
+  "name": "Museo civico paleontologico di Matelica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Mattei",
+    "addressLocality": "Matelica",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2565&mlon=13.0088#map=15/43.2565/13.0088",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2565,
+    "longitude": 13.0088
+  },
+  "url": "http://www.matelicaturismo.it",
+  "telephone": "+39 328 5459205",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da luglio a settembre: tutti i giorni 10.30 - 13.00 / 16.30 - 19.00 da ottobre a giugno: dal lunedi al venerdì 16.30 - 18.30 sabato, domenica, festivi e prefestivi 10.30 - 12.30 / 16.30 - 18.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111502",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

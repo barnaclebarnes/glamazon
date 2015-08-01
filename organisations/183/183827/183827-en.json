@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183827
+  },
+  "name": "Museum im Malhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Halbinselstraße 77",
+    "addressLocality": "Wasserburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "88142"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5668&mlon=9.62994#map=15/47.5668/9.62994",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5668,
+    "longitude": 9.62994
+  },
+  "url": "http://www.museum-malhaus-wasserburg-bodensee.de",
+  "telephone": "08382/887197",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183827",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

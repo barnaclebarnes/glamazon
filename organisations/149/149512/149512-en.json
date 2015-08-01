@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149512
+  },
+  "name": "LARCHMONT HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "740 W BOSTON POST RD STE 301",
+    "addressLocality": "MAMARONECK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10543-3345"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9425&mlon=-73.7407#map=15/40.9425/-73.7407",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9425,
+    "longitude": -73.7407
+  },
+  "url": "http://larchmonthistory.org/",
+  "telephone": "+1 (914) 381-2239",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600806",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182897
+  },
+  "name": "Schloss Johannisburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßplatz 4",
+    "addressLocality": "Aschaffenburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63739"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.976&mlon=9.14114#map=15/49.976/9.14114",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.976,
+    "longitude": 9.14114
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/as_joh.htm",
+  "telephone": "06021/38657-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182897",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

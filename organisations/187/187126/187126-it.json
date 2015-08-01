@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187126
+  },
+  "name": "Museo archeologico lomellino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, ?",
+    "addressLocality": "Gambolò",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2568&mlon=8.85963#map=15/45.2568/8.85963",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2568,
+    "longitude": 8.85963
+  },
+  "telephone": "+39 0381938256",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sE3aqEw5-wsnviQJPWAswilvAsc=/1000x1000/museums/logos/000/187/126/original/898cd825d21c89b2ef19e79779bc0a8a03ebe55.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103764",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

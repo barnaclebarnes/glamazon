@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151275
+  },
+  "name": "PROJECT SIGNPOST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 N TRYON ST SUITE B220-PMB311",
+    "addressLocality": "CHARLOTTE",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28202-4000"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.2276&mlon=-80.8425#map=15/35.2276/-80.8425",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.2276,
+    "longitude": -80.8425
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700146",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

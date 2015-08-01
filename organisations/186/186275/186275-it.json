@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186275
+  },
+  "name": "Civico museo di storia ed arte e orto lapidario",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cattedrale, 1",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6475&mlon=13.7692#map=15/45.6475/13.7692",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6475,
+    "longitude": 13.7692
+  },
+  "url": "http://www.triestecultura.it",
+  "telephone": "+39 040308686",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì - domenica 9.00/17.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7Wa-bHy8vgLiRBfq6uPCJ1QfP9w=/1000x1000/museums/logos/000/186/275/original/6027b1a9cea616328b367c86436a5555ef873a.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100237",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

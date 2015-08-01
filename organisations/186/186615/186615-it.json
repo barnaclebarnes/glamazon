@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186615
+  },
+  "name": "Museo civico di Tolfa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo XV Marzo 1799",
+    "addressLocality": "Tolfa",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1497&mlon=11.9381#map=15/42.1497/11.9381",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1497,
+    "longitude": 11.9381
+  },
+  "telephone": "+39 076692127",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1xEo8X0BQHALyneRVlhKU97IxaM=/1000x1000/museums/logos/000/186/615/original/3fa6927a19b5fde297e9a7fdc1f59d8a8e3a66.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101608",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

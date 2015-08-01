@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150202
+  },
+  "name": "NEW YORK STATE GRANGE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1207 SOUTH WAYNEPORT ROAD",
+    "addressLocality": "MACEDON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14502-9735"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0521&mlon=-77.3608#map=15/43.0521/-77.3608",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0521,
+    "longitude": -77.3608
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601496",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

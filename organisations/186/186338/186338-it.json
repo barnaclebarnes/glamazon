@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186338
+  },
+  "name": "Museo dell'arrotino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Monte Sart - ex Scuole, 12",
+    "addressLocality": "Resia",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.356&mlon=13.2945#map=15/46.356/13.2945",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.356,
+    "longitude": 13.2945
+  },
+  "url": "http://www.arrotinivalresia.it/museo.html",
+  "telephone": "+39 043353554",
+  "contactPoint": [
+
+  ],
+  "openingHours": "luglio e agosto tutti i giorni 10.00/12.00 - 13.00/18.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/oENjGyLb6a7YpeEdDGkZFWgpNaw=/1000x1000/museums/logos/000/186/338/original/afd5cb267b5decbc31bf45c81187323a732e6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100306",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

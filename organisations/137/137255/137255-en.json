@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137255
+  },
+  "name": "PETERSTOWN HERITAGE SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "275 N MAIN ST",
+    "addressLocality": "WATERLOO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62298-1245"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3423&mlon=-90.1506#map=15/38.3423/-90.1506",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3423,
+    "longitude": -90.1506
+  },
+  "telephone": "+1 (618) 939-4222",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700400",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

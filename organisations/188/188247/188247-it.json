@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188247
+  },
+  "name": "Museo ferroviario sardo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sassari, 24",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2152&mlon=9.10884#map=15/39.2152/9.10884",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2152,
+    "longitude": 9.10884
+  },
+  "url": "http://web.tiscali.it/sardegnavapore/museo.htm",
+  "telephone": "+39 070 6794325",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XobMA00FkxSpkR4jn1C-wcfh7k8=/1000x1000/museums/logos/000/188/247/original/f1a830b0c06fbef8739b48b8d330c2fc82be51.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103307",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

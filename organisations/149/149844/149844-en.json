@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149844
+  },
+  "name": "CHARLTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18 CORTLAND DR",
+    "addressLocality": "BALLSTON LAKE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12019"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9093&mlon=-73.9368#map=15/42.9093/-73.9368",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9093,
+    "longitude": -73.9368
+  },
+  "url": "http://www.charltonnyhs.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601138",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

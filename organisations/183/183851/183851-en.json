@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183851
+  },
+  "name": "NordJURA-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatz 7",
+    "addressLocality": "Weismain",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96260"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0854&mlon=11.2395#map=15/50.0854/11.2395",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0854,
+    "longitude": 11.2395
+  },
+  "url": "https://www.stadt-weismain.de/bildung-kultur/nordjura-museum/",
+  "telephone": "09575/921329",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183851",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

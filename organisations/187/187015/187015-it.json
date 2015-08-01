@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187015
+  },
+  "name": "Museo internazionale della Croce Rossa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giuseppe Garibaldi, 50",
+    "addressLocality": "Castiglione delle Stiviere",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3894&mlon=10.4924#map=15/45.3894/10.4924",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3894,
+    "longitude": 10.4924
+  },
+  "url": "http://www.micr.it",
+  "telephone": "+39 0376638505",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Q-yurMKCOKVhTpFsxamI23sVcac=/1000x1000/museums/logos/000/187/015/original/894962b382014b4f87a5ea3fbc476dc1f241f0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103739",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

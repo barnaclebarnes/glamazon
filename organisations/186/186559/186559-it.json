@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186559
+  },
+  "name": "Museo delle antichità etrusche ed italiche",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Aldo Moro, 5",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9018&mlon=12.5121#map=15/41.9018/12.5121",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9018,
+    "longitude": 12.5121
+  },
+  "url": "http://www.musei.uniroma1.it/museoetruscologia/index.htm",
+  "telephone": "+39 06 49913315",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta richiesta dal lunedì al venerdì dalle ore 9.30 alle 13.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2BuV12efDCuwyZF1lLWbSrcoObI=/1000x1000/museums/logos/000/186/559/original/c931b35beaf34e6b7e4122f9b3b75355f2ce7d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101554",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

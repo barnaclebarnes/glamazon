@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148543
+  },
+  "name": "LIVING TREASURES OF LOS ALAMOS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1065",
+    "addressLocality": "LOS ALAMOS",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87544-1065"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.8794&mlon=-106.292#map=15/35.8794/-106.292",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.8794,
+    "longitude": -106.292
+  },
+  "url": "http://www.livingtreasureslosalamos.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500133",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

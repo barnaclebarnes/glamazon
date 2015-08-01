@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130666
+  },
+  "name": "GLOBAL HERITAGE FUND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "625 EMERSON ST STE 200",
+    "addressLocality": "PALO ALTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94301-1683"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4436&mlon=-122.161#map=15/37.4436/-122.161",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4436,
+    "longitude": -122.161
+  },
+  "url": "http://www.globalheritagefund.org",
+  "telephone": "+1 (650) 325-7520",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Global_Heritage_Fund",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600792",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

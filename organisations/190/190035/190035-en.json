@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190035
+  },
+  "name": "GREAT BASIN NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 GREAT BASIN NATIONAL PARK",
+    "addressLocality": "BAKER",
+    "addressRegion": "NV",
+    "addressCountry": "United States",
+    "postalCode": "89311"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0177&mlon=-114.17#map=15/39.0177/-114.17",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0177,
+    "longitude": -114.17
+  },
+  "telephone": "+1 (702) 234-7550",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403200204",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

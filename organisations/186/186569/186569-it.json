@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186569
+  },
+  "name": "Museo di fisica di Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Aldo Moro, 5",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9018&mlon=12.5121#map=15/41.9018/12.5121",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9018,
+    "longitude": 12.5121
+  },
+  "url": "http://www.phys.uniroma1.it/DipWeb/museo/home.htm",
+  "telephone": "+39 06 49914334",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e giovedì 9,00/11,00 venerdì 10,00 /12,00 a partire dal 22 gennaio 2013",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/J4IarySYx31MYKTD5pTB7GWvQ4M=/1000x1000/museums/logos/000/186/569/original/6fbbf859165ca1b1c250eccaa2593a3d3661dc7.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101566",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

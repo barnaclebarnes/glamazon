@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164071
+  },
+  "name": "Melbourne Tank Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9691&mlon=145.317#map=15/-37.9691/145.317",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9691,
+    "longitude": 145.317
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "melbourne-tank-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/melbourne-tank-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130103
+  },
+  "name": "NEWPORT HARBOR NAUTICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "600 E BAY AVE",
+    "addressLocality": "NEWPORT BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92661"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.6029&mlon=-117.9#map=15/33.6029/-117.9",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.6029,
+    "longitude": -117.9
+  },
+  "telephone": "+1 (714) 673-7863",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Newport_Harbor_Nautical_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600229",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

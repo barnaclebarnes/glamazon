@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186260
+  },
+  "name": "Antiquarium di Tesis",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dell'Oste, 10",
+    "addressLocality": "Vivaro",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1134&mlon=12.7882#map=15/46.1134/12.7882",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1134,
+    "longitude": 12.7882
+  },
+  "url": "http://ww.ecomuseolisaganis.it",
+  "telephone": "+39 042797015",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica dalle 10,00 alle 12,00 - dalle 15,00 alle 18,00 altri gg. su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iTqVvS5riTCceF2Z-tc8WwMc7FE=/1000x1000/museums/logos/000/186/260/original/6fefdd4f811661d06d13a5ca64bba2734ccae.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100219",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

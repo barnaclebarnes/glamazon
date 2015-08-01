@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189449
+  },
+  "name": "Museo Vincenzo Stefano Breda",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Marco, 219",
+    "addressLocality": "Padova",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4264&mlon=11.9496#map=15/45.4264/11.9496",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4264,
+    "longitude": 11.9496
+  },
+  "url": "http://www.fondazionebreda.it",
+  "telephone": "+39 0498937333",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105475",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

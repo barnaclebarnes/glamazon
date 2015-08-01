@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186935
+  },
+  "name": "Museo musicale Quattro torri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Vantiniano, Piazzale Ospedale, ?",
+    "addressLocality": "Travagliato",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5266&mlon=10.0793#map=15/45.5266/10.0793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5266,
+    "longitude": 10.0793
+  },
+  "url": "http://www.travagliato.it",
+  "telephone": "+39 030661961",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì 9.00/11.00 venerdì 15.00/17.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lpNusnAg0J00zItv3Ze3slqvGys=/1000x1000/museums/logos/000/186/935/original/e5ace4715263f9ab569fcf4ea0bf2d49bce51a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103602",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

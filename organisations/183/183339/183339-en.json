@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183339
+  },
+  "name": "Neumarkter Brauereimuseum im Neumarkter Glossnerbräu",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwesterhausgasse 15",
+    "addressLocality": "Neumarkt",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92318"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.278&mlon=11.4615#map=15/49.278/11.4615",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.278,
+    "longitude": 11.4615
+  },
+  "url": "http://www.glossner.de/hp11/Brauereimuseum.htm",
+  "telephone": "09181/234-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183339",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

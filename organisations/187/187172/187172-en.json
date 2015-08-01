@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187172
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sant'Ignazio, ?",
+    "addressLocality": "Ponte in Valtellina",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1776&mlon=9.98565#map=15/46.1776/9.98565",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1776,
+    "longitude": 9.98565
+  },
+  "telephone": "+39 0342482222",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/x3ShZz0VkZuZn35jrbsOcknv_M0=/1000x1000/museums/logos/000/187/172/original/ee4cf44b9797bb274ff511151bfef23c419fb1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105638",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

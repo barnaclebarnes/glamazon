@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183369
+  },
+  "name": "Garnisonmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Zweibrückener Straße 54",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90441"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4272&mlon=11.0461#map=15/49.4272/11.0461",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4272,
+    "longitude": 11.0461
+  },
+  "url": "http://www.garnisonmuseum.de",
+  "telephone": "0911/6491159",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183369",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

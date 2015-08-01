@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163640
+  },
+  "name": "Australian Centre for the Moving Image (ACMI)",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8174&mlon=144.969#map=15/-37.8174/144.969",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8174,
+    "longitude": 144.969
+  },
+  "url": "http://www.acmi.net.au/default.aspx",
+  "telephone": "(03) 8663 2200",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Open daily, 10am to 5pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "australian-centre-for-the-moving-image-acmi",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/australian-centre-for-the-moving-image-acmi",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

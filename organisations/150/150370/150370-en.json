@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150370
+  },
+  "name": "BRONX LAND TRUST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "148 W 37TH ST FL 13",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10018-6976"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7527&mlon=-73.9887#map=15/40.7527/-73.9887",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7527,
+    "longitude": -73.9887
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601664",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

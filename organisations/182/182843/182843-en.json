@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182843
+  },
+  "name": "Sternberger Heimatstube",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathausgasse 2",
+    "addressLocality": "Günzburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89312"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4546&mlon=10.2753#map=15/48.4546/10.2753",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4546,
+    "longitude": 10.2753
+  },
+  "url": "http://www.heimatverein-sternberg.de",
+  "telephone": "08221/4763",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182843",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

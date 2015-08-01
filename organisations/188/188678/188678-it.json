@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188678
+  },
+  "name": "Museo storico etnografico di Bruscoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "della Chiesa, 4",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.164&mlon=11.3331#map=15/44.164/11.3331",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.164,
+    "longitude": 11.3331
+  },
+  "telephone": "+39 055818110",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JY0sX2yrGi_yO6uN4gjlBjo1fcg=/1000x1000/museums/logos/000/188/678/original/6855cbbc802e47f3b65daf263fd4fed8b7ea86b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103971",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

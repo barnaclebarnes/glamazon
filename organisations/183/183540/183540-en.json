@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183540
+  },
+  "name": "Niederbayerisches Landwirtschaftsmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schulgasse 2",
+    "addressLocality": "Regen",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94209"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9703&mlon=13.125#map=15/48.9703/13.125",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9703,
+    "longitude": 13.125
+  },
+  "url": "http://www.nlm-regen.de",
+  "telephone": "09921/604-85",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183540",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

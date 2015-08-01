@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189196
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Antonio Gramsci, 1",
+    "addressLocality": "Castiglione del Lago",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0285&mlon=12.0974#map=15/43.0285/12.0974",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0285,
+    "longitude": 12.0974
+  },
+  "url": "http://www.comune.castiglione-del-lago.pg.it",
+  "telephone": "+39 075951099",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TCAMVaAJ90LlkclTdb31LF7K14g=/1000x1000/museums/logos/000/189/196/original/6056b24dabd4071a3b6f9e790a75b0f0a27ddc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100687",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

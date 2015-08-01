@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183447
+  },
+  "name": "Jüdisches Kulturmuseum Augsburg-Schwaben",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Halderstraße 6",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3652&mlon=10.8921#map=15/48.3652/10.8921",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3652,
+    "longitude": 10.8921
+  },
+  "url": "http://www.jkmas.de",
+  "telephone": "0821/5136-58",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183447",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

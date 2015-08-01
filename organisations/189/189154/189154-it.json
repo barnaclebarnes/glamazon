@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189154
+  },
+  "name": "Museo delle palafitte del Lago di Ledro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via al Lago, 1",
+    "addressLocality": "Moena",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.3764&mlon=11.6616#map=15/46.3764/11.6616",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.3764,
+    "longitude": 11.6616
+  },
+  "url": "http://www.palafitteledro.it/",
+  "telephone": "+39 0464508182",
+  "contactPoint": [
+
+  ],
+  "openingHours": "1 mar. - 30 giu. 1 sett. - 30 nov. 9.00 - 17.00 1 lug. - 31 ag. 10.00-18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3.50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IWQACFUB-a7Gb6TWSHiiMV-Mh-s=/1000x1000/museums/logos/000/189/154/original/912bea8ee86c3b1714b864bc7c746df83e1598b.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100618",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187558
+  },
+  "name": "Castello di Morsasco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello, 5, ",
+    "addressLocality": "Morsasco",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6925&mlon=8.56023#map=15/44.6925/8.56023",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6925,
+    "longitude": 8.56023
+  },
+  "url": "http://www.castellipiemontesi.it",
+  "telephone": "+39 014473136",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal giovedì al sabato",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/msYgPNHfGngVPPIlX8jCEAa1D_4=/1000x1000/museums/logos/000/187/558/original/e754d6f565bca094f07a6245b6e3962ba230b927.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106757",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

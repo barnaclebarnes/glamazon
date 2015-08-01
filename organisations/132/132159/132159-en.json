@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132159
+  },
+  "name": "ALAMEDA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2324 ALAMEDA AVE",
+    "addressLocality": "ALAMEDA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94501-4503"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7638&mlon=-122.244#map=15/37.7638/-122.244",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7638,
+    "longitude": -122.244
+  },
+  "url": "http://www.alamedamuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602285",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

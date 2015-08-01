@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186501
+  },
+  "name": "Museo diocesano di arte sacra di Palestrina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 23",
+    "addressLocality": "Palestrina",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7909&mlon=12.8239#map=15/41.7909/12.8239",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7909,
+    "longitude": 12.8239
+  },
+  "url": "http://diocesipalestrina.it",
+  "telephone": "+39 069534428",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ywMu8Rnqn4rCBn9G_28G6nxp7mA=/1000x1000/museums/logos/000/186/501/original/d6e2166fbeade5235dc6fbd21c2cc866571a87.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101515",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

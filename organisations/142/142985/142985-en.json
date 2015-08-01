@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142985
+  },
+  "name": "CAMBRIDGE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "159 BRATTLE ST",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02138-3303"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3773&mlon=-71.1341#map=15/42.3773/-71.1341",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3773,
+    "longitude": -71.1341
+  },
+  "url": "http://www.cambridgehistory.org",
+  "telephone": "+1 (617) 547-4252",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500615",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

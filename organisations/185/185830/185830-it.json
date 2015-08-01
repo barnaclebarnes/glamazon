@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185830
+  },
+  "name": "Piccolo museo d’arte sacra di Zumpano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Giorgio , ",
+    "addressLocality": "Zumpano",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.3113&mlon=16.2912#map=15/39.3113/16.2912",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.3113,
+    "longitude": 16.2912
+  },
+  "telephone": "+39 0984-788333",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4EYa-Urk-mO3lwz3GfYZ4Ix1T7w=/1000x1000/museums/logos/000/185/830/original/b0739fce34d873831ef2d60fa9f861e6bbf7f79.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108306",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

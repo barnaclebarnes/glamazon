@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164120
+  },
+  "name": "Mornington Peninsula Regional Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.2365&mlon=145.053#map=15/-38.2365/145.053",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.2365,
+    "longitude": 145.053
+  },
+  "url": "http://mprg.mornpen.vic.gov.au/Home",
+  "telephone": "359754395",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tuesday - Sunday 10am-5pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "mornington-peninsula-regional-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/mornington-peninsula-regional-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

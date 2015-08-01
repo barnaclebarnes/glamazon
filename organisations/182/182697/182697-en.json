@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182697
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hindenburgstraße 32",
+    "addressLocality": "Emskirchen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91448"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5505&mlon=10.7152#map=15/49.5505/10.7152",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5505,
+    "longitude": 10.7152
+  },
+  "url": "http://www.emskirchen.de/heimatmuseum.html",
+  "telephone": "09104/3874",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182697",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

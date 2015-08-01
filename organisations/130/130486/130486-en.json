@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130486
+  },
+  "name": "BEAT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "540 BROADWAY",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94133"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7979&mlon=-122.406#map=15/37.7979/-122.406",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7979,
+    "longitude": -122.406
+  },
+  "url": "http://www.thebeatmuseum.org",
+  "telephone": "+1 (415) 399-9626",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600612",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

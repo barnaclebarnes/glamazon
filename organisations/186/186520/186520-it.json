@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186520
+  },
+  "name": "Crypta Balbi - Museo nazionale romano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Botteghe Oscure, 31",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8947&mlon=12.4785#map=15/41.8947/12.4785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8947,
+    "longitude": 12.4785
+  },
+  "url": "http://archeoroma.beniculturali.it",
+  "telephone": "+39 066977671  0639967700",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriali e festivi dalle ore 9.00 alle ore 19.45",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 7.00 (biglietto cumulativo valido tre gg.: Terme di Diocleziano, Palazzo Massimo, Palazzo Altemps)"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gi4MHPEtY8IQjodP8Bw8oY_vpcw=/1000x1000/museums/logos/000/186/520/original/3196dd7e53e039a5613fe834f4a48af295cf195.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20234",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

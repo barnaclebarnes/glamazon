@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163700
+  },
+  "name": "Bendigo Art Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.7576&mlon=144.277#map=15/-36.7576/144.277",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.7576,
+    "longitude": 144.277
+  },
+  "url": "http://www.bendigoartgallery.com.au/Home",
+  "telephone": "5434 6088",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Open daily except Christmas Day",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "bendigo-art-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/bendigo-art-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

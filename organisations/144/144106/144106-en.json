@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144106
+  },
+  "name": "VICKSBURG HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 103",
+    "addressLocality": "VICKSBURG",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49097-0103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1233&mlon=-85.5299#map=15/42.1233/-85.5299",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1233,
+    "longitude": -85.5299
+  },
+  "url": "http://www.vicksburghistory.org/index.html",
+  "telephone": "+1 (269) 649-1733",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600643",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

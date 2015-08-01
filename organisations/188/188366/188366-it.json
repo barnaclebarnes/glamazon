@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188366
+  },
+  "name": "Biblioteca Museo Luigi Pirandello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Imera, 50",
+    "addressLocality": "Agrigento",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3126&mlon=13.5859#map=15/37.3126/13.5859",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3126,
+    "longitude": 13.5859
+  },
+  "telephone": "+39 0922622111",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yLh6h8-DcNmccKei9x-aVgDNRyQ=/1000x1000/museums/logos/000/188/366/original/1f22a2a31e54e481db1191f562784d545f1e74.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101159",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

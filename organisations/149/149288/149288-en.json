@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149288
+  },
+  "name": "AMERICAN MUSEUM OF THE MOVING IMAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3601 35TH AVE",
+    "addressLocality": "ASTORIA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11106-1226"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7562&mlon=-73.9245#map=15/40.7562/-73.9245",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7562,
+    "longitude": -73.9245
+  },
+  "url": "http://www.movingimage.us",
+  "telephone": "+1 (718) 777-6800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600582",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

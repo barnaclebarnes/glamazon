@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189069
+  },
+  "name": "Museo provinciale del vino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dell'Oro, 1",
+    "addressLocality": "Caldaro sulla strada del vino/Kaltern an der Weinstrasse",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4132&mlon=11.2462#map=15/46.4132/11.2462",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4132,
+    "longitude": 11.2462
+  },
+  "url": "http://www.museo-del-vino.it",
+  "telephone": "+39 0471963168",
+  "contactPoint": [
+
+  ],
+  "openingHours": "al 1° aprile al 11 novembre martedì - sabato: ore 10 - 17 domenica e festivi: ore 10 - 12",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gKiRN-RWu8Qo9gJSbNysB9NFOMs=/1000x1000/museums/logos/000/189/069/original/c6e8258f18d884ac14c8d8881ec9b1841e69e8cf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100529",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186389
+  },
+  "name": "Raccolta antiquaria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Cesare Baronio",
+    "addressLocality": "Veroli",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.696&mlon=13.4129#map=15/41.696/13.4129",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.696,
+    "longitude": 13.4129
+  },
+  "url": "http://www.okpedia.it/raccolta-antiquaria-",
+  "telephone": "+39 +39 0775238254",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì,giovedì e sabato 09.30-12.00; martedì e giovedì 16.00-17.30; altri orari a richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111264",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

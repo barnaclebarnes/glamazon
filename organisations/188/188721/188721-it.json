@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188721
+  },
+  "name": "Antiquarium civico di Castel del Piano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marconi, 9",
+    "addressLocality": "Castel del Piano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8932&mlon=11.5378#map=15/42.8932/11.5378",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8932,
+    "longitude": 11.5378
+  },
+  "url": "http://www.comune.casteldelpiano.gr.it",
+  "telephone": "+39 0564 973511 - 0564973533",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal Lunedì al Venerdì dalle ore 10,00 alle ore 13,00 - Martedì e Giovedì dalle ore 15.30 alle ore 17,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vlzBNpTUFjZdcX-xS2Nhs_V5N5g=/1000x1000/museums/logos/000/188/721/original/ad7415ac19e80edd770b6aface92d948a543b8e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102996",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

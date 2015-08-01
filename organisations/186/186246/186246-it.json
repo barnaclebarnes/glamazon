@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186246
+  },
+  "name": "Museo della grotta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cerchia, ",
+    "addressLocality": "Clauzetto",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.2277&mlon=12.9174#map=15/46.2277/12.9174",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.2277,
+    "longitude": 12.9174
+  },
+  "url": "http://www.grottedipradis.it/",
+  "telephone": "+39 0427 80323 cell. 366 1687906",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,50€ con visita guidata 5,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0_pzJm9R_lvdiqPM18WgnmnFjds=/1000x1000/museums/logos/000/186/246/original/f12f31646fbbe2f51ab883dfb17a51349b41e0.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100197",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

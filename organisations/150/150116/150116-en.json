@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150116
+  },
+  "name": "THE PORTVILLE HISTORICAL AND PRESERVATION SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 59",
+    "addressLocality": "PORTVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14770"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0402&mlon=-78.34#map=15/42.0402/-78.34",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0402,
+    "longitude": -78.34
+  },
+  "url": "http://www.portvillehistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601410",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

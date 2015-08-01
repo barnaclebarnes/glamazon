@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185778
+  },
+  "name": "Museo diocesano di Cosenza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Parrasio  , 16 ",
+    "addressLocality": "Cosenza",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2899&mlon=16.2599#map=15/39.2899/16.2599",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2899,
+    "longitude": 16.2599
+  },
+  "telephone": "+39 0984/24819",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5JqifC2nx_AL7MuSex1QxQlbSwI=/1000x1000/museums/logos/000/185/778/original/898e132e8cfc7bd6b5f1bd7a713bb678b1a482b7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108460",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

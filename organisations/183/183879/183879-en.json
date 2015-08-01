@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183879
+  },
+  "name": "Heimatmuseum Heinrich Zoller",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßstraße 11",
+    "addressLocality": "Wittelshofen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91749"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0623&mlon=10.4811#map=15/49.0623/10.4811",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0623,
+    "longitude": 10.4811
+  },
+  "url": "http://www.wittelshofen.de/gemeinde/index.php/kulturundfreizeit/heimatmuseum.html",
+  "telephone": "09854/425",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183879",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

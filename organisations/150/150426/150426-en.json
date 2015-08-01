@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150426
+  },
+  "name": "MUSEUM OF KIDS ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "299 HAZELWOOD TER",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14609-5220"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1674&mlon=-77.5679#map=15/43.1674/-77.5679",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1674,
+    "longitude": -77.5679
+  },
+  "telephone": "+1 (585) 288-5930",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601720",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

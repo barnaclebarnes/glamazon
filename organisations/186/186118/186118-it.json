@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186118
+  },
+  "name": "Museo di Palazzo Poggi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Zamboni, 33, ",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4969&mlon=11.3524#map=15/44.4969/11.3524",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4969,
+    "longitude": 11.3524
+  },
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JoymJwd-0im6dOyFRGTWF3x8zZk=/1000x1000/museums/logos/000/186/118/original/dee31a433e2bb275e6a6a992f1ed7c4a62175f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104569",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

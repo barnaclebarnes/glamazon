@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187238
+  },
+  "name": "Raccolta di opere d’arte Antica Farmacia Giuli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza marconi, 8",
+    "addressLocality": "Cerreto d'Esi",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3209&mlon=12.9847#map=15/43.3209/12.9847",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3209,
+    "longitude": 12.9847
+  },
+  "url": "http://www.cerretodesi.pannet.it",
+  "telephone": "+39 0732679000",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì, mercoledì e venerdì 18-19, sabato 16-19, domenica 9.30-12.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MmAPIMp_bTCFeRFAEkvcRMRIZ0s=/1000x1000/museums/logos/000/187/238/original/b1faf8d5515da11a166d95179c209b3c5dc3713e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104044",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

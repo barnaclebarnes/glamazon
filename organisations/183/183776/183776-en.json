@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183776
+  },
+  "name": "Mühlenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorfstraße 19",
+    "addressLocality": "Kirchham",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94148"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3486&mlon=13.2556#map=15/48.3486/13.2556",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3486,
+    "longitude": 13.2556
+  },
+  "url": "http://www.kirchham.de/gaeste/kunst-kultur/museum-alte-muehle.html",
+  "telephone": "08533/9648-16",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183776",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

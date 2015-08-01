@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186519
+  },
+  "name": "Complesso di Santa Maria Nova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Appia Antica, 251",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8306&mlon=12.5461#map=15/41.8306/12.5461",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8306,
+    "longitude": 12.5461
+  },
+  "url": "http://www.viaappiaantica.com",
+  "telephone": "+39 06.39967700",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Orari apertura al pubblico 9 – 16.30 fino al 15 febbraio dal martedì alla domenica Chiuso il 25 dicembre e 1 gennaio",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Cyqcmy4w_Co9arFVbUi_1L3WvyM=/1000x1000/museums/logos/000/186/519/original/fc2efaeb7caf143fb6755cae211340c196b754fc.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "115258",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

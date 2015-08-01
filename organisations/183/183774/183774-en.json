@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183774
+  },
+  "name": "Volkskundemuseum Treuchtlingen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Heinrich-Aurnhammer-Straße 3",
+    "addressLocality": "Treuchtlingen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91757"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9562&mlon=10.9111#map=15/48.9562/10.9111",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9562,
+    "longitude": 10.9111
+  },
+  "url": "http://www.treuchtlingen.de",
+  "telephone": "09142/960060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183774",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

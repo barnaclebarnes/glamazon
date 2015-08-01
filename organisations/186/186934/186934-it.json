@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186934
+  },
+  "name": "Orto botanico sperimentale G. E. Ghirardi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Religione, 25",
+    "addressLocality": "Toscolano-Maderno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6383&mlon=10.6118#map=15/45.6383/10.6118",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6383,
+    "longitude": 10.6118
+  },
+  "telephone": "+39 0365 641246",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mmi3170tR84EEck6Y5CVmRq8HdE=/1000x1000/museums/logos/000/186/934/original/c6e4d75538f80c8c6f3f741682d7d7a8348cf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106864",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

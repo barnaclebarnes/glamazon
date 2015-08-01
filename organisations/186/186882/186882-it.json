@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186882
+  },
+  "name": "Museo d'arte Adriano Graziotti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Martiri\n della Libertà, 5",
+    "addressLocality": "Carpenedolo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3647&mlon=10.4295#map=15/45.3647/10.4295",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3647,
+    "longitude": 10.4295
+  },
+  "telephone": "+39 0309966640",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103561",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

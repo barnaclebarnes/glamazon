@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183054
+  },
+  "name": "Museum Markt Kösching",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klosterstraße 3",
+    "addressLocality": "Kösching",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85092"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8103&mlon=11.5002#map=15/48.8103/11.5002",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8103,
+    "longitude": 11.5002
+  },
+  "url": "http://www.markt-koesching.de/orgdata.asp?NAVIID=%7BDD6E9DEB-F230-4FE6-938E-0F5037FA38E1%7D",
+  "telephone": "08456/963009",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183054",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

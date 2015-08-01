@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130062
+  },
+  "name": "SAN DIEGO MARITIME MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1306 NORTH HARBOR DRIVE",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7185&mlon=-117.173#map=15/32.7185/-117.173",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7185,
+    "longitude": -117.173
+  },
+  "telephone": "+1 (619) 234-9153",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Maritime_Museum_of_San_Diego",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600188",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

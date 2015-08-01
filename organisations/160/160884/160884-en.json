@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160884
+  },
+  "name": "BURKE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 243",
+    "addressLocality": "BURKE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22009-0243"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7939&mlon=-77.2719#map=15/38.7939/-77.2719",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7939,
+    "longitude": -77.2719
+  },
+  "url": "http://burkehistoricsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100390",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

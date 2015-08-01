@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187159
+  },
+  "name": "Magazzino dei ricordi - Museo di arte, cultura e agricoltura",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Emanuele, 68",
+    "addressLocality": "Zavattarello",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8684&mlon=9.26828#map=15/44.8684/9.26828",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8684,
+    "longitude": 9.26828
+  },
+  "url": "http://www.zavattarello.org",
+  "telephone": "+39 0383 589183",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/spvBDiceJjc87h032CsiRx4TESc=/1000x1000/museums/logos/000/187/159/original/74ce9f912384de5652138817b608fe877213e3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106870",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

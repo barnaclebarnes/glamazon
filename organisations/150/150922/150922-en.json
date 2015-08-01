@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150922
+  },
+  "name": "SOMERSET UNION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "62 DEERHURST PARK BLVD",
+    "addressLocality": "KENMORE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14217-2104"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9689&mlon=-78.8651#map=15/42.9689/-78.8651",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9689,
+    "longitude": -78.8651
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602216",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

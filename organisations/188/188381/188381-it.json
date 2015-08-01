@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188381
+  },
+  "name": "Museo \"Casa del nespolo\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Arc. De Maria, 15",
+    "addressLocality": "Aci Castello",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5557&mlon=15.1445#map=15/37.5557/15.1445",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5557,
+    "longitude": 15.1445
+  },
+  "url": "http://www.museocasadelnespolo.info/sito.html",
+  "telephone": "+39 0957116638",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 9.30/13.00 - 17.00/21.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "1,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tlzEnh6ovmaWNfP1PDVglmNIsfE=/1000x1000/museums/logos/000/188/381/original/8098cf839afc73895e597cbf3cad449b9e6223.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101179",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

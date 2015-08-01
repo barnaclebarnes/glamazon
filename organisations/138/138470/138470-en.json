@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138470
+  },
+  "name": "BRAZIL MAINSTREET",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "203 E NATIONAL AVE",
+    "addressLocality": "BRAZIL",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "47834-2627"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5234&mlon=-87.1261#map=15/39.5234/-87.1261",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5234,
+    "longitude": -87.1261
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800256",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

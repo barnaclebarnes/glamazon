@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183404
+  },
+  "name": "Tertiärwelt Aubenham",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ziegelberg 4",
+    "addressLocality": "Oberbergkirchen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84564"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3061&mlon=12.3813#map=15/48.3061/12.3813",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3061,
+    "longitude": 12.3813
+  },
+  "url": "http://www.tertiaerwelt.de",
+  "telephone": "08637/9884-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183404",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190467
+  },
+  "name": "MILWAUKEE COUNTY ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10001 W. BLUEMOUND RD.",
+    "addressLocality": "MILWAUKEE",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53226"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5758&mlon=-75.9925#map=15/41.5758/-75.9925",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5758,
+    "longitude": -75.9925
+  },
+  "url": "http://www.milwaukeezoo.org",
+  "telephone": "+1 (414) 771-3040",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500871",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185654
+  },
+  "name": "Museo civico della cultura materiale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Umberto I, 51",
+    "addressLocality": "Roseto degli Abruzzi",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6776&mlon=13.9881#map=15/42.6776/13.9881",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6776,
+    "longitude": 13.9881
+  },
+  "url": "http://www.muvi.org/museodimontepagano ",
+  "telephone": "+39 085 8936053",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni: est. 9.00/12.00 - 15.30/19.30; inv. dal lun. al sab. 9.00/12.00 Scuole 15.30/18.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100106",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

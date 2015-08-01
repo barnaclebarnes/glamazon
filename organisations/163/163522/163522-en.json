@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163522
+  },
+  "name": "LITTLE BLUE SCHOOLHOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 666",
+    "addressLocality": "RANCHESTER",
+    "addressRegion": "WY",
+    "addressCountry": "United States",
+    "postalCode": "82839-0666"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9088&mlon=-107.167#map=15/44.9088/-107.167",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9088,
+    "longitude": -107.167
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405600102",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

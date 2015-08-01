@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133196
+  },
+  "name": "YUMA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 454",
+    "addressLocality": "YUMA",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80759-0454"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1246&mlon=-102.719#map=15/40.1246/-102.719",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1246,
+    "longitude": -102.719
+  },
+  "url": "http://www.goyuma.com/cgi-bin/museum/page.cgi",
+  "telephone": "+1 (970) 848-5430",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800372",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160950
+  },
+  "name": "ASHLAND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 633",
+    "addressLocality": "ASHLAND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23005-0633"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7427&mlon=-77.4658#map=15/37.7427/-77.4658",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7427,
+    "longitude": -77.4658
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100456",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

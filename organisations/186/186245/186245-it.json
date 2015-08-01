@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186245
+  },
+  "name": "Museo Casa clautana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Giorgio, 6",
+    "addressLocality": "Claut",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.2683&mlon=12.5144#map=15/46.2683/12.5144",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.2683,
+    "longitude": 12.5144
+  },
+  "url": "http://www.casaclautana.it",
+  "telephone": "+39 0427878078",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Luglio e agosto: aperto tutti i giorni dalle ore 15.00 alle 18.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5TrgthgRwtD3jBRJfEtci0JMwvA=/1000x1000/museums/logos/000/186/245/original/f4c520d58acde4cd1595776b1f14d3c3e5ddc3a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100196",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

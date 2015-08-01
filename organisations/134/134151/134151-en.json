@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134151
+  },
+  "name": "DELAWARE CENTER FOR THE CONTEMPORARY ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 S MADISON ST",
+    "addressLocality": "WILMINGTON",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7387&mlon=-75.5604#map=15/39.7387/-75.5604",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7387,
+    "longitude": -75.5604
+  },
+  "telephone": "+1 (302) 656-6466",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/37613668558"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/thedccaorg"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000083",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

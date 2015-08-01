@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143771
+  },
+  "name": "THE HISTORICAL SOCIETY OF GRAND RAPIDS OHIO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "111 LIBRARY ST NE",
+    "addressLocality": "GRAND RAPIDS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49503-4950"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9643&mlon=-85.6659#map=15/42.9643/-85.6659",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9643,
+    "longitude": -85.6659
+  },
+  "url": "http://www.grhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600308",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189096
+  },
+  "name": "Museo San Procolo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Procolo",
+    "addressLocality": "Naturno/Naturns",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6502&mlon=11.0081#map=15/46.6502/11.0081",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6502,
+    "longitude": 11.0081
+  },
+  "url": "http://www.naturns.it",
+  "telephone": "+39 0473 673139",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da 01 aprile al 02 novembre 2014 Dal martedì alla domenica, 10.00 - 12.30/14.30 - 17.30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111919",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

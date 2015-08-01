@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187744
+  },
+  "name": "Casa natale Cesare Pavese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cesare Pavese, 20, ",
+    "addressLocality": "Santo Stefano Belbo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7114&mlon=8.241#map=15/44.7114/8.241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7114,
+    "longitude": 8.241
+  },
+  "url": "http://www.santostefanobelbo.it",
+  "telephone": "+39 0141 840990",
+  "contactPoint": [
+
+  ],
+  "openingHours": "gennaio-dicembre: lunedì-venerdì: su prenotazione; sabato-domenica e festivi: 8.30-12.30, 14.30-19.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/12qGFnlWOmcZM8TfyM8JdxIx8c8=/1000x1000/museums/logos/000/187/744/original/122359ed6a4e80beaa8bba846a1d362c5d923a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102624",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

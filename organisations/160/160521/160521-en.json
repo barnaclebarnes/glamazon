@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160521
+  },
+  "name": "ST. JOHN'S CHURCH",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2401 EAST BROAD STREET",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23223"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5319&mlon=-77.4192#map=15/37.5319/-77.4192",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5319,
+    "longitude": -77.4192
+  },
+  "telephone": "+1 (804) 648-5015",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100027",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

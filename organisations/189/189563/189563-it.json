@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189563
+  },
+  "name": "Museo archeologico dell'alto vicentino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Aldo Moro, 23",
+    "addressLocality": "Santorso",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7373&mlon=11.3902#map=15/45.7373/11.3902",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7373,
+    "longitude": 11.3902
+  },
+  "url": "http://www.santorsoarcheologica.it",
+  "telephone": "+39 0445649570",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aPRLXCjq8gpftq-jSHc0hdRBn4s=/1000x1000/museums/logos/000/189/563/original/5a275d11a52a2ff51597f39770543bf790643b4e.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101091",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187391
+  },
+  "name": "Museo \"CAM - Complesso Agostiniano Montecosaro\" - Museo d’arte antica \"Sergio Graziosi\" - Pinacotec",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via E.Gatti, 3",
+    "addressLocality": "Montecosaro",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.317&mlon=13.6353#map=15/43.317/13.6353",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.317,
+    "longitude": 13.6353
+  },
+  "url": "http://www.comune.montecosaro.mc.it",
+  "telephone": "+39 0733560711",
+  "contactPoint": [
+
+  ],
+  "openingHours": "periodo estivo e festività:10.30-12.30/16.30-18.30; resto dell'anno: sab/dom: 16.30-18.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WSvnMK6SxWdvVVEjYFwqEDoRdZE=/1000x1000/museums/logos/000/187/391/original/65ceec30b75502434da76b29bb81dbb55ebc76c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104199",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

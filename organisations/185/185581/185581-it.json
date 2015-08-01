@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185581
+  },
+  "name": "Pinacoteca d'arte moderna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, ",
+    "addressLocality": "Avezzano",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0278&mlon=13.4253#map=15/42.0278/13.4253",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0278,
+    "longitude": 13.4253
+  },
+  "url": "http://www.comune.avezzano.aq.it/",
+  "telephone": "+39 0863 501228; 0863 23384",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "Ingresso gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Z3T5grOddJLoAn38JTqByDYjUQc=/1000x1000/museums/logos/000/185/581/original/c6d1ae39937748db1b3e7a73438a8ed14bb32fb9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103848",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

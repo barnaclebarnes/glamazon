@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137300
+  },
+  "name": "MATT LAMB CHICAGO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "150 SOUTH WACKER DRIVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60606-4103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8797&mlon=-87.6371#map=15/41.8797/-87.6371",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8797,
+    "longitude": -87.6371
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700445",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

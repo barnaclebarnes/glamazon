@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189403
+  },
+  "name": "Museo mineralogico e paleontologico del Cenacolo Italo Mus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ponte Romano , 18",
+    "addressLocality": "Saint-Vincent",
+    "addressRegion": "Valle d'Aosta/Vallée d'Aoste",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.735&mlon=7.31308#map=15/45.735/7.31308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.735,
+    "longitude": 7.31308
+  },
+  "url": "http://www.lovevda.it",
+  "telephone": "+39 (+39) 348 5190517",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Aperto il sabato e i giorni festivi dalle 10.00 alle 12.30 e dalle 15.30 alle 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "ingresso libero"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112070",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

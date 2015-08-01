@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159356
+  },
+  "name": "THE SHERMAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 S WALNUT ST",
+    "addressLocality": "SHERMAN",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75090-7152"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.6346&mlon=-96.6074#map=15/33.6346/-96.6074",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.6346,
+    "longitude": -96.6074
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801456",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

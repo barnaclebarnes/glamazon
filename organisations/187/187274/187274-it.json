@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187274
+  },
+  "name": "Museo di arte moderna, dell’informazione e della fotografia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pisacane, 84",
+    "addressLocality": "Senigallia",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7126&mlon=13.2178#map=15/43.7126/13.2178",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7126,
+    "longitude": 13.2178
+  },
+  "url": "http://www.musinf-senigallia.it",
+  "telephone": "+39 07160424",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì al venerdì 8.30- 13.30/15.30-18.30, sabato 8.30-13.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104079",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

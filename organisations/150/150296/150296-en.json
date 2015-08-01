@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150296
+  },
+  "name": "BUFFALO MUSIC HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 256",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14205-0256"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8928&mlon=-78.871#map=15/42.8928/-78.871",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8928,
+    "longitude": -78.871
+  },
+  "url": "http://www.buffalomusic.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601590",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

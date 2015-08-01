@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159856
+  },
+  "name": "HISTORIC HOUSTON",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 130463",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77219-0463"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7531&mlon=-95.4025#map=15/29.7531/-95.4025",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7531,
+    "longitude": -95.4025
+  },
+  "url": "http://www.historichouston.org/",
+  "telephone": "+1 (713) 522-0542",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801956",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

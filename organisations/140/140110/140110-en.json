@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140110
+  },
+  "name": "MID-WEST EDUCATIONAL CENTER INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1006 LEAVENWORTH ST",
+    "addressLocality": "MANHATTAN",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66502-5435"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1815&mlon=-96.572#map=15/39.1815/-96.572",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1815,
+    "longitude": -96.572
+  },
+  "url": "http://www.manhattanarts.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000436",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

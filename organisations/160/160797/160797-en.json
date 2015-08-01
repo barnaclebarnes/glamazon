@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160797
+  },
+  "name": "MUSEUM DISTRICT ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 7186",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23221"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5577&mlon=-77.4858#map=15/37.5577/-77.4858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5577,
+    "longitude": -77.4858
+  },
+  "url": "http://www.museumdistrict.org",
+  "telephone": "+1 (804) 257-9622",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100303",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

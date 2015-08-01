@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188304
+  },
+  "name": "Museo MAN - Museo d'arte Provincia di Nuoro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Satta, 27",
+    "addressLocality": "Nuoro",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3215&mlon=9.33363#map=15/40.3215/9.33363",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3215,
+    "longitude": 9.33363
+  },
+  "url": "http://www.museoman.it",
+  "telephone": "+39 0784 252110",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato dalle 10,00 alle 12,00 e dalle 16,30 alle 19,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5BjJNa8LSzidPGmp_RtGMlbbpGg=/1000x1000/museums/logos/000/188/304/original/6d6ec1f1ef71815f1aba4d69c7c76cc1b4718a3c.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103378",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

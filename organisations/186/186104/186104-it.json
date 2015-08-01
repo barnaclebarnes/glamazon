@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186104
+  },
+  "name": "Museo virtuale della scuola medica salernitana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Mercanti,74",
+    "addressLocality": "Salerno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6791&mlon=14.7595#map=15/40.6791/14.7595",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6791,
+    "longitude": 14.7595
+  },
+  "url": "http://www.lascuolamedicasalernitana.beniculturali.it",
+  "telephone": "+39 089 2573228 - 089 2573245 / 213",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 13.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IHzHwgaXKs21uwE3ZGh8mv5zPxk=/1000x1000/museums/logos/000/186/104/original/e68811eb23c7ae972f3a6923b2a9c8d5a5a698cf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20775",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

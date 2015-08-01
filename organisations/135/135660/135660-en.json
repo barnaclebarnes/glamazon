@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135660
+  },
+  "name": "SARASOTA CAR MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5500 N TAMIAMI TRL",
+    "addressLocality": "SARASOTA",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "34243"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=27.3822&mlon=-82.5569#map=15/27.3822/-82.5569",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 27.3822,
+    "longitude": -82.5569
+  },
+  "url": "http://www.sarasotacarmuseum.org",
+  "telephone": "+1 (941) 355-6228",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201215",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

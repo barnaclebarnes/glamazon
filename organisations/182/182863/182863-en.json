@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182863
+  },
+  "name": "Museum \"Vom Kloster zur Stadt\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 5",
+    "addressLocality": "Heilsbronn",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91560"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.3379&mlon=10.7908#map=15/49.3379/10.7908",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.3379,
+    "longitude": 10.7908
+  },
+  "url": "http://www.museum-heilsbronn.de",
+  "telephone": "09872/806-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182863",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

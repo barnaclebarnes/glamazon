@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188053
+  },
+  "name": "Botanical Garden Institute",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Orabona, 4",
+    "addressLocality": "Bari",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1078&mlon=16.8804#map=15/41.1078/16.8804",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1078,
+    "longitude": 16.8804
+  },
+  "url": "http://www.cismus.uniba.it/ortobota.htm",
+  "telephone": "+39 080/5442152; 080/5442153",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4uBGoMGclfp1Llk1N3Lpnvr2tFU=/1000x1000/museums/logos/000/188/053/original/61b03ab38e3816ee4f1f3fc92aaf255b49a6a85.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107544",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

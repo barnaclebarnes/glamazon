@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137565
+  },
+  "name": "FRIENDS OF THE CHICAGO RIVER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "411 S WELLS SUITE 800",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60607-3927"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8765&mlon=-87.6337#map=15/41.8765/-87.6337",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8765,
+    "longitude": -87.6337
+  },
+  "url": "http://www.chicagoriver.org",
+  "telephone": "+1 (312) 939-0490",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700710",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

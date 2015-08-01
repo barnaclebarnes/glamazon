@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185640
+  },
+  "name": "Casa museo \"Vincenzo Cermignani\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Piave, 10",
+    "addressLocality": "Giulianova",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8155&mlon=13.9372#map=15/42.8155/13.9372",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8155,
+    "longitude": 13.9372
+  },
+  "url": "http://www.comune.giulianova.te.it",
+  "telephone": "+39 085 8021215",
+  "contactPoint": [
+
+  ],
+  "openingHours": "chiuso per manutenzione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105427",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

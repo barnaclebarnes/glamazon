@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147613
+  },
+  "name": "HISTORICAL SOCIETY OF TEMPLE NEW HAMPSHIRE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 114",
+    "addressLocality": "TEMPLE",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03084-0114"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8207&mlon=-71.8526#map=15/42.8207/-71.8526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8207,
+    "longitude": -71.8526
+  },
+  "url": "http://templehistorical.org/index.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300388",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

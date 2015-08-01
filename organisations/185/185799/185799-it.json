@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185799
+  },
+  "name": "Museo della civiltà contadina di Oriolo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Emanuele , 66",
+    "addressLocality": "Oriolo",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1033&mlon=16.4571#map=15/40.1033/16.4571",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1033,
+    "longitude": 16.4571
+  },
+  "telephone": "+39 0981 930871 (Comune)",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/y-fPGTfH9OECVng660U1tHDNf1k=/1000x1000/museums/logos/000/185/799/original/ec32a6cf7a6fe16110677aff58d56853deb2ca24.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108360",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

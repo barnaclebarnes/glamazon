@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144014
+  },
+  "name": "GROSSE POINTE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "381 KERCHEVAL AVE STE 2",
+    "addressLocality": "GROSSE POINTE",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48236-3084"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4103&mlon=-82.8913#map=15/42.4103/-82.8913",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4103,
+    "longitude": -82.8913
+  },
+  "url": "http://www.gphistorical.org",
+  "telephone": "+1 (313) 884-7010",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600551",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

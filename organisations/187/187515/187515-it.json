@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187515
+  },
+  "name": "Museo della zampogna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Santa Maria, 1",
+    "addressLocality": "Scapoli",
+    "addressRegion": "Molise",
+    "addressCountry": "Italy"
+  },
+  "url": "http://museodellazampogna.it",
+  "telephone": "+39 0865954270",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni dalle 10,30 alle 12,30 e dalle 16,30 alle 18,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 1,00 da 18 a 65 anni"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7YwbGp4jbf1yxuNLHfDcX59CWK8=/1000x1000/museums/logos/000/187/515/original/f695cccc8d87c56abc709364c693173c666e39.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100510",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

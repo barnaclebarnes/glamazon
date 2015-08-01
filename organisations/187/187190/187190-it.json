@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187190
+  },
+  "name": "American Southwest Museum - Museo civico del Sud-Ovest americano Lorenzo Vescia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fabio Filzi, 18",
+    "addressLocality": "Cuveglio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9044&mlon=8.75601#map=15/45.9044/8.75601",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9044,
+    "longitude": 8.75601
+  },
+  "url": "http://www.comune.cuveglio.va.it",
+  "telephone": "+39 0332650107",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103817",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

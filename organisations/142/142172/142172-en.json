@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142172
+  },
+  "name": "HERITAGE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "HAMLET COURT 4509 PROSPECT CIRCLE",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21216"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.3098&mlon=-76.6718#map=15/39.3098/-76.6718",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.3098,
+    "longitude": -76.6718
+  },
+  "telephone": "+1 (410) 664-6711",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400465",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

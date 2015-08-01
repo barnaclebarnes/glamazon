@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182924
+  },
+  "name": "Museum Hummelstube",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bayreuther Straße 42",
+    "addressLocality": "Hummeltal",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95503"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8974&mlon=11.5035#map=15/49.8974/11.5035",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8974,
+    "longitude": 11.5035
+  },
+  "url": "http://www.hummelstube.de",
+  "telephone": "09201/9186235",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182924",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

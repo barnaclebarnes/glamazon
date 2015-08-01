@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190435
+  },
+  "name": "ARLINGTON HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "GEORGE WASHINGTON MEMORIAL PARKWAY",
+    "addressLocality": "MCLEAN",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9022&mlon=-77.0816#map=15/38.9022/-77.0816",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9022,
+    "longitude": -77.0816
+  },
+  "telephone": "+1 (703) 235-1535",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405101079",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

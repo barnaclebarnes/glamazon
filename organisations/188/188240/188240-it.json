@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188240
+  },
+  "name": "Museo civico d'arte siamese Stefano Cardu",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Arsenale, 1",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2217&mlon=9.11682#map=15/39.2217/9.11682",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2217,
+    "longitude": 9.11682
+  },
+  "url": "http://www.museicivicicagliari.it",
+  "telephone": "+39 070 651888",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10,00 - 18,00 (invernale); 10,00 - 20,00 (estivo)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AFF8VJQPWYkZdmku23ZJUk2x_8U=/1000x1000/museums/logos/000/188/240/original/69578a833b2b4dabf0a833385b9421b8aa5d8b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103298",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

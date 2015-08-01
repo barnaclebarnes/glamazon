@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142976
+  },
+  "name": "HOLYOKE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "335 MAPLE ST",
+    "addressLocality": "HOLYOKE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01040-4910"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2037&mlon=-72.6121#map=15/42.2037/-72.6121",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2037,
+    "longitude": -72.6121
+  },
+  "telephone": "+1 (413) 534-2214",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500606",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

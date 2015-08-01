@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142293
+  },
+  "name": "FRIENDS OF THE H L MENCKEN HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 22501",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21203-4501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2873&mlon=-76.642#map=15/39.2873/-76.642",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2873,
+    "longitude": -76.642
+  },
+  "url": "http://www.menckenhouse.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400586",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

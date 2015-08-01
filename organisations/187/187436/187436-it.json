@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187436
+  },
+  "name": "Museo dei fossili e minerali del monte Nerone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XX Settembre, 25",
+    "addressLocality": "Apecchio",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5584&mlon=12.4197#map=15/43.5584/12.4197",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5584,
+    "longitude": 12.4197
+  },
+  "url": "http://www.comune.apecchio.ps.it",
+  "telephone": "+39 0722989005",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Periodo estivo: feriali, 10.00-12.00; 15.30-18.00 festivi, 10.30-12.30; 15.30-18.00 Periodo invernale: sabato, 15.00-18.00 festivi, 10.30-12.30; 15.00-17.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/X6DhZlu6P63QNB0bF4qcxasbXqk=/1000x1000/museums/logos/000/187/436/original/5adf8e773a1949089dc32ff373ab9e05f509634.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104255",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

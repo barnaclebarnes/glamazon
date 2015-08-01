@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153121
+  },
+  "name": "CLEVELAND ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3900 WILDLIFE WAY",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44109-3132"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4436&mlon=-81.7148#map=15/41.4436/-81.7148",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4436,
+    "longitude": -81.7148
+  },
+  "url": "http://www.clemetzoo.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900899",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

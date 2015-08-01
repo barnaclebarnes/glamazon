@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135256
+  },
+  "name": "THE CLEWISTON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "109 CENTRAL AVE",
+    "addressLocality": "CLEWISTON",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33440-3701"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=26.7536&mlon=-80.9343#map=15/26.7536/-80.9343",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 26.7536,
+    "longitude": -80.9343
+  },
+  "url": "http://clewistonmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200811",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

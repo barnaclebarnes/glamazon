@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140702
+  },
+  "name": "DOWNTOWN MORGANFIELD INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "103 W MAIN ST",
+    "addressLocality": "MORGANFIELD",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "42437-1407"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6839&mlon=-87.9168#map=15/37.6839/-87.9168",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6839,
+    "longitude": -87.9168
+  },
+  "telephone": "+1 (270) 389-1199",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100459",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

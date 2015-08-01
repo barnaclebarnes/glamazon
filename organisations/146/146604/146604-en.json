@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146604
+  },
+  "name": "MOSS MANSION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "914 DIVISION ST",
+    "addressLocality": "BILLINGS",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59101-1921"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7796&mlon=-108.515#map=15/45.7796/-108.515",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7796,
+    "longitude": -108.515
+  },
+  "url": "http://www.mossmansion.com",
+  "telephone": "+1 (406) 256-5100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000247",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

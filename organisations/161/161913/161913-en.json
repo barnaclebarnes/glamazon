@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161913
+  },
+  "name": "NORTHWEST SEAPORT INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 9744",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98109-0744"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6314&mlon=-122.347#map=15/47.6314/-122.347",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6314,
+    "longitude": -122.347
+  },
+  "url": "http://www.nwseaport.org",
+  "telephone": "+1 (206) 447-9800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300362",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

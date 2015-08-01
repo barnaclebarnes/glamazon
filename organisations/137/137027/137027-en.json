@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137027
+  },
+  "name": "HARRISON HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1104 WEAVER RD",
+    "addressLocality": "HERRIN",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62948"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8117&mlon=-89.0322#map=15/37.8117/-89.0322",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8117,
+    "longitude": -89.0322
+  },
+  "telephone": "+1 (618) 988-8462",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700172",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

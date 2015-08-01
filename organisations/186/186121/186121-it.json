@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186121
+  },
+  "name": "Museo Giardino geologico \"Sandra Forni\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale della Fiera",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5077&mlon=11.3681#map=15/44.5077/11.3681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5077,
+    "longitude": 11.3681
+  },
+  "url": "http://ambiente.regione.emilia-romagna.it/geologia/divulgazione/museo-giardino-geologico",
+  "telephone": "+39 051 5274792",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì - venerdì 7.30 - 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111075",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

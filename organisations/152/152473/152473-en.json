@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152473
+  },
+  "name": "CINCINNATI BASEBALL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 MAIN STREET",
+    "addressLocality": "CINCINNATI",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45202-4109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.096&mlon=-84.5083#map=15/39.096/-84.5083",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.096,
+    "longitude": -84.5083
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900250",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

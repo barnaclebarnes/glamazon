@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188243
+  },
+  "name": "Museo dell'Arciconfraternita dei Genovesi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via F. Gemelli, 2",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2174&mlon=9.13091#map=15/39.2174/9.13091",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2174,
+    "longitude": 9.13091
+  },
+  "url": "http://web.tiscali.it/arcicogenovesica/",
+  "telephone": "+39 0704 97855",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lun., mer., ven. 17.00 - 20.00 scolaresche e gruppi organizzati per app.to",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/y3N64Zlu3nAA6PhwnZ_3AyWzoRY=/1000x1000/museums/logos/000/188/243/original/1b37ec18a8e6617b6fda42a6ca0c39e7164aed3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103302",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

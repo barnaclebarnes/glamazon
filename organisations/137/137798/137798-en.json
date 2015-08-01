@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137798
+  },
+  "name": "EVANSTON ENVIRONMENTAL ASSOC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2024 MCCORMICK BLVD",
+    "addressLocality": "EVANSTON",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60201-3055"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0591&mlon=-87.6963#map=15/42.0591/-87.6963",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0591,
+    "longitude": -87.6963
+  },
+  "url": "http://www.evanstonenvironment.org",
+  "telephone": "+1 (847) 448-8256",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700943",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

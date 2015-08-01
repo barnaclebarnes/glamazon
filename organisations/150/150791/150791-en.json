@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150791
+  },
+  "name": "SCHNEIDER CATAQUARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 615",
+    "addressLocality": "HIGHLAND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12528"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7189&mlon=-73.975#map=15/41.7189/-73.975",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7189,
+    "longitude": -73.975
+  },
+  "url": "http://www.cataquarium.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602085",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

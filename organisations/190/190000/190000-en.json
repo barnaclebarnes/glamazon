@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190000
+  },
+  "name": "NATCHEZ TRACE PARKWAY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2680  NATCHEZ TRACE PARKWAY",
+    "addressLocality": "TUPELO",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "38804"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.3304&mlon=-88.7107#map=15/34.3304/-88.7107",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.3304,
+    "longitude": -88.7107
+  },
+  "telephone": "+1 (662) 840-7560",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800285",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

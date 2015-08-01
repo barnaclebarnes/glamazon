@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187550
+  },
+  "name": "Museo Cristoforo Colombo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Colonnello Mazza, 1, ",
+    "addressLocality": "Cuccaro Monferrato",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9906&mlon=8.45632#map=15/44.9906/8.45632",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9906,
+    "longitude": 8.45632
+  },
+  "url": "http://www.colombodicuccaro.it",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106630",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

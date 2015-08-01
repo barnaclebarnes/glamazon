@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186472
+  },
+  "name": "Museo permanente della civiltà contadina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Chialastri, 5",
+    "addressLocality": "Cave",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8192&mlon=12.9218#map=15/41.8192/12.9218",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8192,
+    "longitude": 12.9218
+  },
+  "url": "http://www.comune.cave.rm.it",
+  "telephone": "+39 069581384",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101490",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

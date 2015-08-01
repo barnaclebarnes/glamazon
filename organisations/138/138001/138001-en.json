@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138001
+  },
+  "name": "JACKSONVILLE AREA CENTER FOR INDEPENDENT LIVING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 PERMAC RD",
+    "addressLocality": "JACKSONVILLE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62650-2632"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7246&mlon=-90.2646#map=15/39.7246/-90.2646",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7246,
+    "longitude": -90.2646
+  },
+  "url": "http://jacil.org",
+  "telephone": "+1 (217) 245-8371",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701146",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

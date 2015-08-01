@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183633
+  },
+  "name": "Grenzmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Egerstraße 53",
+    "addressLocality": "Schirnding",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95706"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0858&mlon=12.2463#map=15/50.0858/12.2463",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0858,
+    "longitude": 12.2463
+  },
+  "url": "http://www.grenzmuseum-schirnding.de",
+  "telephone": "09233/ 5103",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183633",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185975
+  },
+  "name": "Museo della civiltà contadina di San Nicola La Strada",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Municipio, 14",
+    "addressLocality": "San Nicola la Strada",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0542&mlon=14.3316#map=15/41.0542/14.3316",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0542,
+    "longitude": 14.3316
+  },
+  "url": "http://www.comune.sannicolalastrada.ce.it",
+  "telephone": "+39 0823450333",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/W9X_heq0nR5m-zdmLIKosgk7n2Y=/1000x1000/museums/logos/000/185/975/original/49c35933eafd32c8e9f61490cdc4bcb1c815d710.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101816",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

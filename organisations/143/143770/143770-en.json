@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143770
+  },
+  "name": "ARTRAIN INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1100 N MAIN STREET",
+    "addressLocality": "ANN ARBOR",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48104-1059"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2927&mlon=-83.7471#map=15/42.2927/-83.7471",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2927,
+    "longitude": -83.7471
+  },
+  "url": "http://www.artrainusa.org",
+  "telephone": "+1 (734) 747-8300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600307",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

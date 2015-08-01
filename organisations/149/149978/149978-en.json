@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149978
+  },
+  "name": "PHILLIPS FREE LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "37 S MAIN ST",
+    "addressLocality": "HOMER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13077-1323"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6357&mlon=-76.1787#map=15/42.6357/-76.1787",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6357,
+    "longitude": -76.1787
+  },
+  "url": "http://www.phillipsfreelibrary.org",
+  "telephone": "+1 (607) 749-4616",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601272",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

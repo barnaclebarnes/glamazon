@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183058
+  },
+  "name": "Niederbayerisches Archäologie-Museum Landau a. d. Isar",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oberer Stadtplatz 20",
+    "addressLocality": "Landau",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94405"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.6687&mlon=12.6897#map=15/48.6687/12.6897",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.6687,
+    "longitude": 12.6897
+  },
+  "url": "http://www.kastenhof.landau-isar.de",
+  "telephone": "09951/2385",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183058",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

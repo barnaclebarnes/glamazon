@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188343
+  },
+  "name": "Museo dell'ossidiana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Giorgio, 80",
+    "addressLocality": "Pau",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7903&mlon=8.80308#map=15/39.7903/8.80308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7903,
+    "longitude": 8.80308
+  },
+  "url": "http://www.museossidiana.it ",
+  "telephone": "+39 0783 939002",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal mercoledì alla domenica: 10.00 - 12.00 / 16.00 - 19.00.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uLOHtRrU2w6afiWMCmt00jm5iLg=/1000x1000/museums/logos/000/188/343/original/11db656579ce8896abba791f3b76740ea66d2af.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103410",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

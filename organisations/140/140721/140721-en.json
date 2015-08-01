@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140721
+  },
+  "name": "ZIGLER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "411 CLARA ST",
+    "addressLocality": "JENNINGS",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70546"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.2256&mlon=-92.6614#map=15/30.2256/-92.6614",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.2256,
+    "longitude": -92.6614
+  },
+  "url": "http://ziglerartmuseum.com",
+  "telephone": "+1 (337) 824-0114",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

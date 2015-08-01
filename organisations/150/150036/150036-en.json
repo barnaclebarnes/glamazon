@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150036
+  },
+  "name": "PEOPLE INC.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1219 NORTH FOREST ROAD",
+    "addressLocality": "WILLIAMSVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14231-9033"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.989&mlon=-78.7607#map=15/42.989/-78.7607",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.989,
+    "longitude": -78.7607
+  },
+  "telephone": "+1 (716) 817-7439",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601330",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

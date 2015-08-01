@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131336
+  },
+  "name": "ANIMAL HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "530 SOUTH LAKE AVENUE BOX 444",
+    "addressLocality": "PASADENA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91101-3515"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1366&mlon=-118.132#map=15/34.1366/-118.132",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1366,
+    "longitude": -118.132
+  },
+  "url": "http://www.animalhistorymuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601462",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

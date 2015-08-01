@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186761
+  },
+  "name": "Pinacoteca Rambaldi - Villa Luca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Rambaldi, 51",
+    "addressLocality": "Sanremo",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8126&mlon=7.72945#map=15/43.8126/7.72945",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8126,
+    "longitude": 7.72945
+  },
+  "url": "http://www.comunedisanremo.it",
+  "telephone": "+39 0184670398",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100424",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129931
+  },
+  "name": "STEINBECK WAX MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "700 CANNERY ROW",
+    "addressLocality": "MONTEREY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93940"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.6161&mlon=-121.9#map=15/36.6161/-121.9",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.6161,
+    "longitude": -121.9
+  },
+  "url": "http://www.wax-museum.com",
+  "telephone": "+1 (831) 655-7744",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600057",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

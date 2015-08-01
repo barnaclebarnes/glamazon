@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146329
+  },
+  "name": "AMERICAN JAZZ MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1616 E 18TH ST",
+    "addressLocality": "KANSAS CITY",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "64108-1610"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0912&mlon=-94.5627#map=15/39.0912/-94.5627",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0912,
+    "longitude": -94.5627
+  },
+  "url": "http://www.americanjazzmuseum.org",
+  "telephone": "+1 (816) 474-8463",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/americanjazzmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/americanjazzkc"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900758",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

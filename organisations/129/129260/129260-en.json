@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129260
+  },
+  "name": "VETERANS HERITAGE PROJECT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1297",
+    "addressLocality": "CAREFREE",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85377-1297"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8235&mlon=-111.923#map=15/33.8235/-111.923",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8235,
+    "longitude": -111.923
+  },
+  "url": "http://veteransheritage.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400162",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

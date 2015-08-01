@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137415
+  },
+  "name": "UNIVERSITY OF CHICAGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5550 S GREENWOOD AVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60637"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.794&mlon=-87.5996#map=15/41.794/-87.5996",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.794,
+    "longitude": -87.5996
+  },
+  "url": "http://www.smartmuseum.uchicago.edu",
+  "telephone": "+1 (773) 702-0200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700560",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

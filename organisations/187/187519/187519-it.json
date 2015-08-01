@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187519
+  },
+  "name": "La Bollente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Bollente, ",
+    "addressLocality": "Acqui Terme",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6755&mlon=8.4704#map=15/44.6755/8.4704",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6755,
+    "longitude": 8.4704
+  },
+  "url": "http://www.comuneacqui.com",
+  "telephone": "+39 0144 322142",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EY2Y53GqK0GwRequt80Y0aZTwn0=/1000x1000/museums/logos/000/187/519/original/113fb8d67f9229bea582eaa692713b7a26f5670.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106719",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

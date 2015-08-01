@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138231
+  },
+  "name": "THE ROCKPORT AREA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "416 MAIN STREET",
+    "addressLocality": "ROCKPORT",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "47635"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8832&mlon=-87.0489#map=15/37.8832/-87.0489",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8832,
+    "longitude": -87.0489
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800017",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

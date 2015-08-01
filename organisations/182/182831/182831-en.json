@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182831
+  },
+  "name": "Heimathaus Walkmühle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Obere Bleiche 1",
+    "addressLocality": "Gundelfingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89423"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5522&mlon=10.3689#map=15/48.5522/10.3689",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5522,
+    "longitude": 10.3689
+  },
+  "url": "http://www.gundelfingen-donau.de/tourismus/Stadtinformationen/walkmuehle.shtml",
+  "telephone": "09073/7230",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182831",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

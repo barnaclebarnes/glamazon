@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147181
+  },
+  "name": "NEON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "821 LAS VEGAS BLVD N",
+    "addressLocality": "LAS VEGAS",
+    "addressRegion": "NV",
+    "addressCountry": "United States",
+    "postalCode": "89101-2010"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.1776&mlon=-115.135#map=15/36.1776/-115.135",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.1776,
+    "longitude": -115.135
+  },
+  "telephone": "+1 (702) 387-6366",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403200156",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

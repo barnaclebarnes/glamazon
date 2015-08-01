@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130107
+  },
+  "name": "NAMES PROJECT FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "310 TOWNSEND STREET, SUITE 310",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94107-1639"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7768&mlon=-122.395#map=15/37.7768/-122.395",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7768,
+    "longitude": -122.395
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LrqdCrvcUnALFdYI-djQ-kPOPAg=/1000x1000/museums/logos/000/130/107/original/Aids_Quilt.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/NAMES_Project_AIDS_Memorial_Quilt",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600233",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

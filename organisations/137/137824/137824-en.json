@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137824
+  },
+  "name": "WILMETTE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "609 RIDGE RD",
+    "addressLocality": "WILMETTE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60091-2441"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0761&mlon=-87.7226#map=15/42.0761/-87.7226",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0761,
+    "longitude": -87.7226
+  },
+  "url": "http://www.wilmettehistory.org",
+  "telephone": "+1 (847) 853-7666",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700969",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

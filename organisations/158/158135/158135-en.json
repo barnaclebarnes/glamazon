@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158135
+  },
+  "name": "FORT SAM HOUSTON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1210 STANLEY RD",
+    "addressLocality": "SAN ANTONIO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78234"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.4474&mlon=-98.4676#map=15/29.4474/-98.4676",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.4474,
+    "longitude": -98.4676
+  },
+  "url": "http://www.samhouston.army.mil",
+  "telephone": "+1 (210) 221-1886",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800235",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158903
+  },
+  "name": "BAYLOR UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 BEAR PL UNIT 97154",
+    "addressLocality": "WACO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76798-7154"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.5457&mlon=-97.1222#map=15/31.5457/-97.1222",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.5457,
+    "longitude": -97.1222
+  },
+  "telephone": "+1 (254) 710-1233",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186653
+  },
+  "name": "Museo diocesano di Civitavecchia-Tarquinia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 11",
+    "addressLocality": "Tarquinia",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2528&mlon=11.7566#map=15/42.2528/11.7566",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2528,
+    "longitude": 11.7566
+  },
+  "url": "http://www.anagrafebbcc.chiesacattolica.it",
+  "telephone": "+39 076 6840843",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Glikl-c0AmW5ZE3OrePvs4nar7E=/1000x1000/museums/logos/000/186/653/original/4213ec1be5f38482817b47f22dbf92879b179.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105525",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

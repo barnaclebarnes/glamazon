@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153482
+  },
+  "name": "DUNHAM TAVERN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6709 EUCLID AVE",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44103-3913"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5043&mlon=-81.6433#map=15/41.5043/-81.6433",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5043,
+    "longitude": -81.6433
+  },
+  "url": "http://dunhamtavern.org",
+  "telephone": "+1 (216) 431-1060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901260",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

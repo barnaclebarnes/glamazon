@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183186
+  },
+  "name": "Museum Mitterteich – Porzellan, Glas, Handwerk",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tirschenreuther Straße 10",
+    "addressLocality": "Mitterteich",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "95666"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9464&mlon=12.2494#map=15/49.9464/12.2494",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9464,
+    "longitude": 12.2494
+  },
+  "url": "http://www.mitterteich.de/museum-mitterteich.html",
+  "telephone": "09633/918778",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183186",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

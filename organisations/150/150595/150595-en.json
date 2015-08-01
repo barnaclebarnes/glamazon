@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150595
+  },
+  "name": "MUSEUM OF EUROPEAN ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10545 MAIN ST",
+    "addressLocality": "CLARENCE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14031-1624"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9804&mlon=-78.595#map=15/42.9804/-78.595",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9804,
+    "longitude": -78.595
+  },
+  "telephone": "+1 (716) 759-6078",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601889",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

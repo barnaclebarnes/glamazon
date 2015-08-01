@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187499
+  },
+  "name": "Museo della Traglia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Chiesa Madre, ",
+    "addressLocality": "Jelsi",
+    "addressRegion": "Molise",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5199&mlon=14.796#map=15/41.5199/14.796",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5199,
+    "longitude": 14.796
+  },
+  "url": "http://digilander.libero.it/jelsicultura/home1.htm",
+  "telephone": "+39 0874710134",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DRYStTyMQwFl9h_bwkPuxv4zen8=/1000x1000/museums/logos/000/187/499/original/95a1ac3989edcb7c45e33dc4d3bacad4a5438f3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100488",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

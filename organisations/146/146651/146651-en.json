@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146651
+  },
+  "name": "MUSEUM OF THE ROCKIES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "600 W KAGY BLVD",
+    "addressLocality": "BOZEMAN",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59717-2730"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6603&mlon=-111.045#map=15/45.6603/-111.045",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6603,
+    "longitude": -111.045
+  },
+  "url": "http://www.museumoftherockies.org",
+  "telephone": "+1 (406) 994-2251",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000294",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

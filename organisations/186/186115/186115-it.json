@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186115
+  },
+  "name": "Museo del patrimonio industriale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Beverara, 123, ",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.522&mlon=11.3313#map=15/44.522/11.3313",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.522,
+    "longitude": 11.3313
+  },
+  "url": "http://www.comune.bologna.it/patrimonioindustriale/",
+  "telephone": "+39 0516356611",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal 1° Gennaio al 31 maggio e dal 1° Ottobre al 31 Dicembre: Martedì-Venerdì dalle 9 alle 13; Sabato dalle 9 alle 13 e dalle 15 alle 18; Domenica dalle 15 alle 18. Dal 1° Giugno al 30 Settembre: Lunedì-Venerdì dalle 9 alle 13.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SCANmvQCPJUMSo7FatAGqeaP-58=/1000x1000/museums/logos/000/186/115/original/70ca605d47e0c28b393f18331ab729bf6957289.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101965",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

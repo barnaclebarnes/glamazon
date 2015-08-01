@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130126
+  },
+  "name": "MUSEUM CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1621 VENICE BLVD",
+    "addressLocality": "VENICE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90291"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9972&mlon=-118.447#map=15/33.9972/-118.447",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9972,
+    "longitude": -118.447
+  },
+  "telephone": "+1 (310) 390-2673",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600252",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185931
+  },
+  "name": "Museo del lavoro di San Potito Ultra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Barone Amatucci, 18",
+    "addressLocality": "San Potito Ultra",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9282&mlon=14.8728#map=15/40.9282/14.8728",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9282,
+    "longitude": 14.8728
+  },
+  "url": "http://www.museodellavoro.it",
+  "telephone": "+39 0825 981005",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Q_1kUuYweczO7_4NFJe3cfgzPhc=/1000x1000/museums/logos/000/185/931/original/181c7bdad4ecee9681324a12874bd799f2af7e6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107083",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

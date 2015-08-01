@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185853
+  },
+  "name": "Pinacoteca e Museo delle arti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vittorio Emanuele , 17",
+    "addressLocality": "Locri",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2361&mlon=16.2656#map=15/38.2361/16.2656",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2361,
+    "longitude": 16.2656
+  },
+  "telephone": "+39 0964.22511 / 0964.29268",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Y7UAGmCg15aAfUenK5brkt5QIh4=/1000x1000/museums/logos/000/185/853/original/b3dd25197bdebbd9aab8d3b54431abd031dad8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108336",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

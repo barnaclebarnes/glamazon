@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183999
+  },
+  "name": "Neues Schloss mit Museum \"Das Bayreuth der Markgräfin Wilhelmine\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ludwigstraße 21",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9419&mlon=11.5774#map=15/49.9419/11.5774",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9419,
+    "longitude": 11.5774
+  },
+  "url": "http://www.bayreuth-wilhelmine.de/deutsch/n_schloss/index.htm",
+  "telephone": "0921/75969-21",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183999",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

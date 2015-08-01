@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142585
+  },
+  "name": "BOSTON TEA PARTY SHIP AND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "CONGRESS STREET BRG",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02210"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.352&mlon=-71.0513#map=15/42.352/-71.0513",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.352,
+    "longitude": -71.0513
+  },
+  "url": "http://www.bostonteapartyship.com",
+  "telephone": "+1 (617) 338-1773",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500215",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

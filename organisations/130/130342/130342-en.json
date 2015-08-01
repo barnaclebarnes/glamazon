@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130342
+  },
+  "name": "EMERALD BAY STATE PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11001 W LAKE BLVD",
+    "addressLocality": "TAHOMA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "96142"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.117&mlon=-120.158#map=15/39.117/-120.158",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.117,
+    "longitude": -120.158
+  },
+  "telephone": "+1 (530) 525-3345",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Emerald_Bay_State_Park",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600468",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

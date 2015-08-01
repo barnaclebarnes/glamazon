@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130240
+  },
+  "name": "LEBASSE PROJECTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6023 WASHINGTON BLVD",
+    "addressLocality": "CULVER CITY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90232"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0317&mlon=-118.377#map=15/34.0317/-118.377",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0317,
+    "longitude": -118.377
+  },
+  "url": "http://www.lebasseprojects.com",
+  "telephone": "+1 (310) 558-0200",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/99443466615"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600366",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142123
+  },
+  "name": "HANCOCK HISTORICAL SOCIETY CORPORATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 164",
+    "addressLocality": "HANCOCK",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21750"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6997&mlon=-78.1846#map=15/39.6997/-78.1846",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6997,
+    "longitude": -78.1846
+  },
+  "url": "http://www.hancockmuseum.org",
+  "telephone": "+1 (301) 678-7377",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400416",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

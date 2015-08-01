@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185905
+  },
+  "name": "Museo del Palazzo della Dogana dei Grani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Umberto",
+    "addressLocality": "Atripalda",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9204&mlon=14.8329#map=15/40.9204/14.8329",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9204,
+    "longitude": 14.8329
+  },
+  "telephone": "+39 0825626586",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00-13.00; 16.00-20.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qfp5JzEa_TaEhVGEIw3vuMirz0Q=/1000x1000/museums/logos/000/185/905/original/7588916d8711f14a0b519fbdc17f562021a8d2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20779",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

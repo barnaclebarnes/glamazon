@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186043
+  },
+  "name": "Museo Correale di Terranova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Correale, 50",
+    "addressLocality": "Sorrento",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6288&mlon=14.3807#map=15/40.6288/14.3807",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6288,
+    "longitude": 14.3807
+  },
+  "url": "http://www.museocorreale.it/",
+  "telephone": "+39 0818781846",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KVGg7mFYCWEBZsc0fn0cZ40ugi8=/1000x1000/museums/logos/000/186/043/original/e95761371063b2a2a596cf85e8d6ff9ed87b57f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101880",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

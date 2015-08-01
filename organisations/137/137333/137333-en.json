@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137333
+  },
+  "name": "ROCKFORD AQUARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3616 STUBAI TRAIL",
+    "addressLocality": "ROCKFORD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61114"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3127&mlon=-89.025#map=15/42.3127/-89.025",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3127,
+    "longitude": -89.025
+  },
+  "url": "http://www.rockfordaquarium.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700478",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

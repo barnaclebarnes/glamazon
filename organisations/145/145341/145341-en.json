@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145341
+  },
+  "name": "FAULKNER HOME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "OLD TAYLOR RD",
+    "addressLocality": "OXFORD",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "38655"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.3551&mlon=-89.5328#map=15/34.3551/-89.5328",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.3551,
+    "longitude": -89.5328
+  },
+  "telephone": "+1 (662) 234-3284",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800048",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159937
+  },
+  "name": "UTAH MUSEUM OF FINE ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "410 S CAMPUS CENTER DR",
+    "addressLocality": "SALT LAKE CITY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84112"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7607&mlon=-111.843#map=15/40.7607/-111.843",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7607,
+    "longitude": -111.843
+  },
+  "url": "http://www.umfa.utah.edu",
+  "telephone": "+1 (801) 581-7332",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/utahmuseumfinearts"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/umfa"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

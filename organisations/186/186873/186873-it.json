@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186873
+  },
+  "name": "Museo nazionale della fotografia Cav. Alberto Sorlini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Faustino, 11 D, ?",
+    "addressLocality": "Brescia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5421&mlon=10.2195#map=15/45.5421/10.2195",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5421,
+    "longitude": 10.2195
+  },
+  "url": "http://museo.netfirms.com",
+  "telephone": "+39 03049137",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Ygo9G5WuKkzlIFxn5ert1yyuaIQ=/1000x1000/museums/logos/000/186/873/original/70946241acec837040b547a22a25ce05bcee2f3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103554",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

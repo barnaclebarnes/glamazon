@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130385
+  },
+  "name": "CHINESE AMERICAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "425 N LOS ANGELES ST",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90012"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0553&mlon=-118.239#map=15/34.0553/-118.239",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0553,
+    "longitude": -118.239
+  },
+  "url": "http://www.camla.org",
+  "telephone": "+1 (213) 485-8567",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/chineseamericanmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ChinAmerMuseum"
+    }
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Chinese_American_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600511",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

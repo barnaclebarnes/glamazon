@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188052
+  },
+  "name": "Museo nazionale archeologico di Altamura",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Santeramo , 88",
+    "addressLocality": "Altamura",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8278&mlon=16.5591#map=15/40.8278/16.5591",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8278,
+    "longitude": 16.5591
+  },
+  "url": "http://www.archeopuglia.beniculturali.it/",
+  "telephone": "+39 0803146409  0803149896",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriali: 8,30 - 19,30 sabato e festivi: 8,30 - 13,30 Chiusura: 1° gennaio, 1° maggio, 25 dicembre",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cnbRZcwwQtrcvHprWgwbe_SjIno=/1000x1000/museums/logos/000/188/052/original/87239bbc5cb283e9ca321f6bab9b8e1796b964ba.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107112",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

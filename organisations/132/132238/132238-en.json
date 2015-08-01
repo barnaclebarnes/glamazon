@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132238
+  },
+  "name": "PETALUMA HISTORICAL LIBRARY & MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "20 4TH ST",
+    "addressLocality": "PETALUMA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94952-3004"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2326&mlon=-122.639#map=15/38.2326/-122.639",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2326,
+    "longitude": -122.639
+  },
+  "url": "http://www.petalumamuseum.com",
+  "telephone": "+1 (707) 778-4398",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602364",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

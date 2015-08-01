@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160102
+  },
+  "name": "SPRINGVILLE MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "126 EAST 400 SOUTH",
+    "addressLocality": "SPRINGVILLE",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84663-1953"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1611&mlon=-111.608#map=15/40.1611/-111.608",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1611,
+    "longitude": -111.608
+  },
+  "telephone": "+1 (801) 489-2727",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/123028890191"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/SMofA"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900168",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

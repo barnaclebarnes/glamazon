@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189228
+  },
+  "name": "Centro italiano d’arte contemporanea (CIAC)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Campanile, 13",
+    "addressLocality": "Foligno",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9536&mlon=12.7046#map=15/42.9536/12.7046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9536,
+    "longitude": 12.7046
+  },
+  "url": "http://www.centroitalianoartecontemporanea.com",
+  "telephone": "+39 0742 357035",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6fheAs-1ljEahyRJls7LmsDmMAE=/1000x1000/museums/logos/000/189/228/original/8aec6d854bb919fba4b93e633ee863af5d071f8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108053",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

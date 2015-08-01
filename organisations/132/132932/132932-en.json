@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132932
+  },
+  "name": "DENVER CENTER FOR PERFORMING ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1050 13TH ST",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80204"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7445&mlon=-104.999#map=15/39.7445/-104.999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7445,
+    "longitude": -104.999
+  },
+  "url": "http://denvercenter.org",
+  "telephone": "+1 (303) 893-4100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800108",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

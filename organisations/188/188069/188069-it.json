@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188069
+  },
+  "name": "Museo speleologico Franco Anelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Anelli , ",
+    "addressLocality": "Castellana Grotte",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8759&mlon=17.1485#map=15/40.8759/17.1485",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8759,
+    "longitude": 17.1485
+  },
+  "telephone": "+39 0804998230",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VzCea-Zf4T96oFxMsrMkwofgfzw=/1000x1000/museums/logos/000/188/069/original/5bea85da6e333a888a18b4ca9cc80f3f89f9abc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102322",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150854
+  },
+  "name": "HART ISLAND PROJECT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8 SOUTH DIVISION ST",
+    "addressLocality": "PEEKSKILL",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10566-3608"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2904&mlon=-73.9203#map=15/41.2904/-73.9203",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2904,
+    "longitude": -73.9203
+  },
+  "url": "http://hartisland.net/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602148",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

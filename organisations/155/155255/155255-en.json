@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155255
+  },
+  "name": "AMERICAN PHILOSOPHICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "104 S 5TH ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19106-3387"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.949&mlon=-75.1492#map=15/39.949/-75.1492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.949,
+    "longitude": -75.1492
+  },
+  "url": "http://www.apsmuseum.org",
+  "telephone": "+1 (215) 440-3440",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200449",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

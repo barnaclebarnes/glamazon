@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130037
+  },
+  "name": "RIVERSIDE METROPOLITAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3580 MISSION INN AVE",
+    "addressLocality": "RIVERSIDE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9823&mlon=-117.372#map=15/33.9823/-117.372",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9823,
+    "longitude": -117.372
+  },
+  "url": "http://www.riversideca.gov/museum",
+  "telephone": "+1 (951) 781-7179",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/132908806724657"
+    }
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Bb7bWENPHGSq3SpVN-qsPZvUl_0=/1000x1000/museums/logos/000/130/037/original/RiversideMetropolitanMuseum20090821a.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Riverside_Metropolitan_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600163",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

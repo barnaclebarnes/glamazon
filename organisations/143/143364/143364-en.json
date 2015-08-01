@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143364
+  },
+  "name": "PARTNERSHIP OF THE HISTORIC BOSTONS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "66 MARLBOROUGH STREET",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02116"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3538&mlon=-71.0752#map=15/42.3538/-71.0752",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3538,
+    "longitude": -71.0752
+  },
+  "url": "http://www.historicbostons.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500994",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

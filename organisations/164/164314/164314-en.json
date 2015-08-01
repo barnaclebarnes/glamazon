@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164314
+  },
+  "name": "State Library of Victoria",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8101&mlon=144.964#map=15/-37.8101/144.964",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8101,
+    "longitude": 144.964
+  },
+  "url": "http://www.slv.vic.gov.au/",
+  "telephone": "(03) 8664 7000",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Monday to Thursday: 10am?9pm,  Friday to Sunday: 10am?6pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "state-library-of-victoria",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/state-library-of-victoria",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188239
+  },
+  "name": "National Archaeological Museum of Cagliari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Arsenale, ",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2231&mlon=9.11562#map=15/39.2231/9.11562",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2231,
+    "longitude": 9.11562
+  },
+  "url": "http://www.archeocaor.beniculturali.it",
+  "telephone": "+39 070605181",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IwgA_8OxJwbuw1T9vzTrfw1m5hQ=/1000x1000/museums/logos/000/188/239/original/753634f6a34058eaa2403681cbdc267e8a32fcd6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106486",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137001
+  },
+  "name": "ILLINOIS STATE MUSEUM LOCKPORT GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 W 10TH ST",
+    "addressLocality": "LOCKPORT",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60441"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5888&mlon=-88.0597#map=15/41.5888/-88.0597",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5888,
+    "longitude": -88.0597
+  },
+  "url": "http://www.illinois.com",
+  "telephone": "+1 (815) 838-7400",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/82033872329"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700146",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

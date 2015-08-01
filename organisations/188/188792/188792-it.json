@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188792
+  },
+  "name": "Museo nazionale delle residenze Napoleoniche Palazzina dei Mulini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Napoleone",
+    "addressLocality": "Portoferraio",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8109&mlon=10.3212#map=15/42.8109/10.3212",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8109,
+    "longitude": 10.3212
+  },
+  "url": "http://www.sbappsae-pi.beniculturali.it/",
+  "telephone": "+39 0565915846",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 20.00 (feriali); 9.00 - 14.00 (festivi)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jQpcFBo7hx4ZVouxhei2hQaIeMQ=/1000x1000/museums/logos/000/188/792/original/3cd3d0447ec06d34314f873589a6f1bc5bda8b9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20249",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137626
+  },
+  "name": "BICYCLE MUSEUM OF AMERICA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "435 E ILLINOIS ST",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60611-5319"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8911&mlon=-87.617#map=15/41.8911/-87.617",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8911,
+    "longitude": -87.617
+  },
+  "telephone": "+1 (312) 222-0500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700771",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

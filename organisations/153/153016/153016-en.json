@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153016
+  },
+  "name": "MAIN STREET DELAWARE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 N SANDUSKY ST STE 21",
+    "addressLocality": "DELAWARE",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43015-1902"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2993&mlon=-83.0677#map=15/40.2993/-83.0677",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2993,
+    "longitude": -83.0677
+  },
+  "url": "http://www.mainstreetdelaware.com",
+  "telephone": "+1 (740) 362-6050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900793",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

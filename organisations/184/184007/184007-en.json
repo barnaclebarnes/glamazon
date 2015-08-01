@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184007
+  },
+  "name": "Spielzeugmuseum Beilngries",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 49",
+    "addressLocality": "Beilngries",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "92339"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0359&mlon=11.4713#map=15/49.0359/11.4713",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0359,
+    "longitude": 11.4713
+  },
+  "url": "http://www.museen-anno-dazumal.de",
+  "telephone": "08461/6011-76",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184007",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

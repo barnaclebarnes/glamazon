@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128890
+  },
+  "name": "SOUTHERN MUSEUM OF FLIGHT FDN INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4343 73RD ST N",
+    "addressLocality": "BIRMINGHAM",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "35206-3642"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.5635&mlon=-86.7386#map=15/33.5635/-86.7386",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.5635,
+    "longitude": -86.7386
+  },
+  "url": "http://www.southernmuseumofflight.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100420",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

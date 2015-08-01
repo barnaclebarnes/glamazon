@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183135
+  },
+  "name": "Freudenthal-Altvater-Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Zangmeisterstraße 8",
+    "addressLocality": "Memmingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87700"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9863&mlon=10.1794#map=15/47.9863/10.1794",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9863,
+    "longitude": 10.1794
+  },
+  "url": "http://www.heimatkreis-freudenthal.de",
+  "telephone": "08331/850-134",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183135",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

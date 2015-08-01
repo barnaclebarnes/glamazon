@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149495
+  },
+  "name": "PEEKSKILL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 84",
+    "addressLocality": "PEEKSKILL",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10566-0084"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.29&mlon=-73.9173#map=15/41.29/-73.9173",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.29,
+    "longitude": -73.9173
+  },
+  "url": "http://www.peekskillmuseum.com",
+  "telephone": "+1 (914) 736-0473",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600789",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

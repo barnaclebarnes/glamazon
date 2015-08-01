@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186932
+  },
+  "name": "Museo della Guerra bianca in Adamello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 40",
+    "addressLocality": "Temù",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.2487&mlon=10.4683#map=15/46.2487/10.4683",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.2487,
+    "longitude": 10.4683
+  },
+  "url": "http://museoguerrabianca.it",
+  "telephone": "+39 036494617",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4hMgSWuDYPbLKUAzpB-NBUgbcBw=/1000x1000/museums/logos/000/186/932/original/44f8e130f268c9a8331b4982d78d3633ef91e864.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103600",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

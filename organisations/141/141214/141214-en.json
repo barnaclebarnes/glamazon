@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141214
+  },
+  "name": "FORT WESTERN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "16 CONY STREET",
+    "addressLocality": "AUGUSTA",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04330"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3166&mlon=-69.7705#map=15/44.3166/-69.7705",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3166,
+    "longitude": -69.7705
+  },
+  "telephone": "+1 (207) 626-2385",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300063",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

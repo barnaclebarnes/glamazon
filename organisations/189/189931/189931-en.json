@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189931
+  },
+  "name": "ARNOLD ARBORETUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "125 ARBORWAY",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02130-3500"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5043&mlon=-88.3321#map=15/44.5043/-88.3321",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5043,
+    "longitude": -88.3321
+  },
+  "url": "http://www.arboretum.harvard.edu/",
+  "telephone": "+1 (617) 524-1718",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501120",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

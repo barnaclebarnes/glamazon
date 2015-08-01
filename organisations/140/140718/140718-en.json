@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140718
+  },
+  "name": "KENT STATE UNIVERSITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 5190",
+    "addressLocality": "KENT",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "42442-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1793&mlon=-87.4618#map=15/37.1793/-87.4618",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1793,
+    "longitude": -87.4618
+  },
+  "url": "http://www.kent.edu/museum",
+  "telephone": "+1 (330) 672-3450",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100874",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

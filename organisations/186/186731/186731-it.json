@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186731
+  },
+  "name": "Museo degli orologi da torre \"Roberto Trebino\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cannoni, 5-6",
+    "addressLocality": "Uscio",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4148&mlon=9.15924#map=15/44.4148/9.15924",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4148,
+    "longitude": 9.15924
+  },
+  "url": "http://www.trebino.it",
+  "telephone": "+39 0185919410",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100405",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

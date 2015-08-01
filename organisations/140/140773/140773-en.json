@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140773
+  },
+  "name": "LOUISIANA ART AND SCIENCE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 RIVER RD S",
+    "addressLocality": "BATON ROUGE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.447&mlon=-91.1901#map=15/30.447/-91.1901",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.447,
+    "longitude": -91.1901
+  },
+  "url": "http://www.lasm.org",
+  "telephone": "+1 (225) 344-5272",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200055",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

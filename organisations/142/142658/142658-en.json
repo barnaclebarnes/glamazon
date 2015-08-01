@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142658
+  },
+  "name": "STANLEY PARK OF WESTFIELD INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1191",
+    "addressLocality": "WESTFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01086-1191"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1266&mlon=-72.7863#map=15/42.1266/-72.7863",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1266,
+    "longitude": -72.7863
+  },
+  "url": "http://stanleypark.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500288",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

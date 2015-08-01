@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135828
+  },
+  "name": "HICKORY HILLS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "502 HICKORY HILL DR",
+    "addressLocality": "THOMSON",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30824"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4694&mlon=-82.5124#map=15/33.4694/-82.5124",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4694,
+    "longitude": -82.5124
+  },
+  "url": "http://www.hickory-hill.org",
+  "telephone": "+1 (706) 595-7777",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300099",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

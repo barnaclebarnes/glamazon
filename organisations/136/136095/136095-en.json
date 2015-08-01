@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136095
+  },
+  "name": "HIGH MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1280 PEACHTREE ST, NE",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "03039"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7897&mlon=-84.3878#map=15/33.7897/-84.3878",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7897,
+    "longitude": -84.3878
+  },
+  "url": "http://www.high.org",
+  "telephone": "+1 (404) 733-4400",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/highmuseumofart"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/highmuseumofart"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300366",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

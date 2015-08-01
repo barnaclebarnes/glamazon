@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157678
+  },
+  "name": "HUNTER MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 BLUFF VIEW ST",
+    "addressLocality": "CHATTANOOGA",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37403-1111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.0552&mlon=-85.3058#map=15/35.0552/-85.3058",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.0552,
+    "longitude": -85.3058
+  },
+  "url": "http://www.huntermuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700349",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

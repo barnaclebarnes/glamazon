@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164074
+  },
+  "name": "Melbourne Zoo",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7863&mlon=144.951#map=15/-37.7863/144.951",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7863,
+    "longitude": 144.951
+  },
+  "url": "http://www.zoo.org.au/melbourne/",
+  "telephone": "(03) 9285 9300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "melbourne-zoo",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/melbourne-zoo",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

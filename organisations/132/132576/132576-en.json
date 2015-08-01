@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132576
+  },
+  "name": "HOLLYWOOD HERITAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2586",
+    "addressLocality": "HOLLYWOOD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90078-2586"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1085&mlon=-118.337#map=15/34.1085/-118.337",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1085,
+    "longitude": -118.337
+  },
+  "url": "http://www.hollywoodheritage.org/",
+  "telephone": "+1 (323) 874-2276",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602702",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

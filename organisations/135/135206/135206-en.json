@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135206
+  },
+  "name": "MIAMI ART MUSEUM OF DADE COUNTY ASSOCIATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 W FLAGLER STREET",
+    "addressLocality": "MIAMI",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33130-1535"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.7741&mlon=-80.1963#map=15/25.7741/-80.1963",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7741,
+    "longitude": -80.1963
+  },
+  "url": "http://www.miamiartmuseum.org",
+  "telephone": "+1 (305) 375-3000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200761",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

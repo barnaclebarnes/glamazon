@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151044
+  },
+  "name": "MOTORCYCLEPEDIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "250 LAKE ST",
+    "addressLocality": "NEWBURGH",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12550-5262"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.494&mlon=-74.0313#map=15/41.494/-74.0313",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.494,
+    "longitude": -74.0313
+  },
+  "url": "http://motorcyclepediamuseum.org",
+  "telephone": "+1 (845) 569-9065",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602338",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

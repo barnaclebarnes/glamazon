@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143023
+  },
+  "name": "MIDDLETON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 456",
+    "addressLocality": "MIDDLETON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01949"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5942&mlon=-71.0165#map=15/42.5942/-71.0165",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5942,
+    "longitude": -71.0165
+  },
+  "telephone": "+1 (978) 774-9301",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500653",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

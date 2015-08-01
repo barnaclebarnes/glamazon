@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129964
+  },
+  "name": "SHAPING SAN FRANCISCO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1310 MISSION ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.776&mlon=-122.415#map=15/37.776/-122.415",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.776,
+    "longitude": -122.415
+  },
+  "url": "http://www.shapingsf.org",
+  "telephone": "+1 (415) 626-2060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600090",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

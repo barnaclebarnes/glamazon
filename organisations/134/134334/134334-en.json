@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134334
+  },
+  "name": "ELLINGTON GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3500 R. ST. NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9137&mlon=-77.0694#map=15/38.9137/-77.0694",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9137,
+    "longitude": -77.0694
+  },
+  "telephone": "+1 (202) 282-0123",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100115",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

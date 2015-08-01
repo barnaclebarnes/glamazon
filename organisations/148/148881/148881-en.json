@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148881
+  },
+  "name": "MARTIN HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "143 JEWETT PARKWAY",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14214"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9357&mlon=-78.8486#map=15/42.9357/-78.8486",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9357,
+    "longitude": -78.8486
+  },
+  "telephone": "+1 (716) 856-3858",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600175",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

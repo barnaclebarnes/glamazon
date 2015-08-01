@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185865
+  },
+  "name": "Museo dello strumento musicale di Reggio di Calabria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale D. Genoese Zerbi (pineta)",
+    "addressLocality": "Reggio di Calabria",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1184&mlon=15.6537#map=15/38.1184/15.6537",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1184,
+    "longitude": 15.6537
+  },
+  "url": "http://www.mustrumu.it",
+  "telephone": "+39 0965 893233",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107139",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

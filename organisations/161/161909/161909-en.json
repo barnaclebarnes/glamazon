@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161909
+  },
+  "name": "SEATTLE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1300 1ST AVE",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98101-2003"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.607&mlon=-122.338#map=15/47.607/-122.338",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.607,
+    "longitude": -122.338
+  },
+  "url": "http://www.seattleartmuseum.org",
+  "telephone": "+1 (206) 625-8900",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/seattleartmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/iheartSAM"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300358",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

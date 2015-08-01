@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151046
+  },
+  "name": "NEW YORK CITY AIDS MEMORIAL INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 23",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10159-0023"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7392&mlon=-73.9841#map=15/40.7392/-73.9841",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7392,
+    "longitude": -73.9841
+  },
+  "url": "http://nycaidsmemorial.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602340",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

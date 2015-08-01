@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188755
+  },
+  "name": "Museo diocesano di Palazzo Orsini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Fortezza Orsini, 4",
+    "addressLocality": "Pitigliano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6348&mlon=11.6685#map=15/42.6348/11.6685",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6348,
+    "longitude": 11.6685
+  },
+  "url": "http://www.diocesipitigliano.it",
+  "telephone": "+39 0564616012",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yC3bmHRz4fND4qOniMSxFY3PMvE=/1000x1000/museums/logos/000/188/755/original/f557b3ed596fcfd7239831d6812f3fa05d1d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103028",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

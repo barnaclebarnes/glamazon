@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186779
+  },
+  "name": "Museo nazionale dei trasporti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Canaletto, 100",
+    "addressLocality": "La Spezia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1133&mlon=9.84519#map=15/44.1133/9.84519",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1133,
+    "longitude": 9.84519
+  },
+  "url": "http://www.museonazionaletrasporti.it",
+  "telephone": "+39 0187718912",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100432",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

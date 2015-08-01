@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155220
+  },
+  "name": "PENNSYLVANIA FEDERATION OF MUSEUMS AND HISTORICAL ORGANIZATI",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "234 N 3RD ST FL 3",
+    "addressLocality": "HARRISBURG",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17101-1516"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2626&mlon=-76.8836#map=15/40.2626/-76.8836",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2626,
+    "longitude": -76.8836
+  },
+  "url": "http://www.pamuseums.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200414",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

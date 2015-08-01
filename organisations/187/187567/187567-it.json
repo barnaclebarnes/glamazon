@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187567
+  },
+  "name": "Museo della maschera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vittorio Veneto, 1, ",
+    "addressLocality": "Rocca Grimalda",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6712&mlon=8.64774#map=15/44.6712/8.64774",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6712,
+    "longitude": 8.64774
+  },
+  "url": "http://www.museodellamaschera.it",
+  "telephone": "+39 0143882911",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Dy2Ox4EiWR75sM5VluewPSQfvHw=/1000x1000/museums/logos/000/187/567/original/282245639f3ee167b82aa629584118c76dd2aef3.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102469",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

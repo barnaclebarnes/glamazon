@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190077
+  },
+  "name": "PLATTSBURGH STATE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 BROAD STREET",
+    "addressLocality": "PLATTSBURGH",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4159&mlon=-90.4277#map=15/42.4159/-90.4277",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4159,
+    "longitude": -90.4277
+  },
+  "url": "http://organizations.plattsburgh.edu/museum/",
+  "telephone": "+1 (518) 564-2178",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/128846273839315"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602424",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

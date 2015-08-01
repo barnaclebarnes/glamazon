@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183165
+  },
+  "name": "Schloss Aschach – Graf-Luxburg-Museum des Bezirks Unterfranken",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßstraße 24",
+    "addressLocality": "Bad Bocklet",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97708"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2542&mlon=10.0624#map=15/50.2542/10.0624",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2542,
+    "longitude": 10.0624
+  },
+  "url": "http://www.museen-schloss-aschach.de",
+  "telephone": "09708/358",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183165",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

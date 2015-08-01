@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189274
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Montefalco, 17",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1283&mlon=12.5106#map=15/43.1283/12.5106",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1283,
+    "longitude": 12.5106
+  },
+  "url": "http://www.museodeigiocattoli.it",
+  "telephone": "+39 3485412637",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XZJ1pgRYo29t8Y3zyJZXK4XSBsc=/1000x1000/museums/logos/000/189/274/original/6b9a8ed2ca6515a8f952e7eb338bb7c5cac869d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103874",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

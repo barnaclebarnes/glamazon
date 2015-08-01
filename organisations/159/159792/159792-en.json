@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159792
+  },
+  "name": "WEATHER RESEARCH CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5104 CAROLINE STREET",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77004-1901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7274&mlon=-95.3846#map=15/29.7274/-95.3846",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7274,
+    "longitude": -95.3846
+  },
+  "url": "http://www.wxresearch.org",
+  "telephone": "+1 (713) 529-3076",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801892",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

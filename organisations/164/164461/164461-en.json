@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164461
+  },
+  "name": "Werribee Park",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9219&mlon=144.68#map=15/-37.9219/144.68",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9219,
+    "longitude": 144.68
+  },
+  "url": "http://parkweb.vic.gov.au/explore/parks/werribee-park",
+  "telephone": "(03) 9741 2444",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "werribee-park",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/werribee-park",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

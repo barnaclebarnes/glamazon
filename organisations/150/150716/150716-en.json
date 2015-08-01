@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150716
+  },
+  "name": "GOUVERNEUR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "30 CHURCH ST",
+    "addressLocality": "GOUVERNEUR",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13642-1416"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3351&mlon=-75.4683#map=15/44.3351/-75.4683",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3351,
+    "longitude": -75.4683
+  },
+  "url": "http://www.gouverneurmuseum.org",
+  "telephone": "+1 (315) 287-0570",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602010",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

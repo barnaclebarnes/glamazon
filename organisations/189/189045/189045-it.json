@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189045
+  },
+  "name": "Stanze della Memoria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Malavolti, 9",
+    "addressLocality": "Siena",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3223&mlon=11.3286#map=15/43.3223/11.3286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3223,
+    "longitude": 11.3286
+  },
+  "url": "http://www.stanzedellamemoria.it",
+  "telephone": "+39 0577236607",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110075",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

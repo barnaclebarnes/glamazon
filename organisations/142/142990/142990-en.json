@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142990
+  },
+  "name": "DANVERS HISTORICAL SOCIETY GLEN MAGNA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 381",
+    "addressLocality": "DANVERS",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01923-0681"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5691&mlon=-70.9423#map=15/42.5691/-70.9423",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5691,
+    "longitude": -70.9423
+  },
+  "url": "http://www.danvershistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500620",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

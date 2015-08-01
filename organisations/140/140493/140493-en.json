@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140493
+  },
+  "name": "J B SPEED ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2035 S 3RD ST",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40208-1812"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2181&mlon=-85.7616#map=15/38.2181/-85.7616",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2181,
+    "longitude": -85.7616
+  },
+  "url": "http://www.speedmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100250",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

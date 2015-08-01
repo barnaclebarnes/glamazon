@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153603
+  },
+  "name": "INKTANK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1311 MAIN ST",
+    "addressLocality": "CINCINNATI",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45202-7613"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1102&mlon=-84.5119#map=15/39.1102/-84.5119",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1102,
+    "longitude": -84.5119
+  },
+  "telephone": "+1 (513) 542-0195",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901381",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

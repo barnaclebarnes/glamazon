@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143222
+  },
+  "name": "EASTON HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3",
+    "addressLocality": "NORTH EASTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02356-0003"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0676&mlon=-71.1029#map=15/42.0676/-71.1029",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0676,
+    "longitude": -71.1029
+  },
+  "url": "http://eastonhistoricalsociety.org",
+  "telephone": "+1 (508) 238-7774",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500852",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187708
+  },
+  "name": "Castello dei marchesi di Busca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza XX Settembre, 19, ",
+    "addressLocality": "Mango",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6848&mlon=8.15052#map=15/44.6848/8.15052",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6848,
+    "longitude": 8.15052
+  },
+  "url": "http://www.enotecamoscato.it",
+  "telephone": "+39 0141 89127",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QohicUlJUMBEG8MIq-a4pIO7NbY=/1000x1000/museums/logos/000/187/708/original/41fc17ea6d867d2fa4a47ffd25ca9d3842982e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106240",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

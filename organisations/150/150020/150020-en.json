@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150020
+  },
+  "name": "ARCADE HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "331 MAIN ST",
+    "addressLocality": "ARCADE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14009-1110"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5339&mlon=-78.4263#map=15/42.5339/-78.4263",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5339,
+    "longitude": -78.4263
+  },
+  "url": "http://arcadehistoricalsociety.org",
+  "telephone": "+1 (585) 492-4466",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601314",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

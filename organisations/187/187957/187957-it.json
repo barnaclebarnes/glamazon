@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187957
+  },
+  "name": "Pav - Parco Arte Vivente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giordano Bruno, 31, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0428&mlon=7.66304#map=15/45.0428/7.66304",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0428,
+    "longitude": 7.66304
+  },
+  "url": "http://www.parcoartevivente.it",
+  "telephone": "+39 0113182235",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da mercoledì a venerdì 15.00/18.00; sabato e domenica 12.00/19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€ valido per mostre permanenti e temporanee"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yk4eYzX0TCHe3_sQmhh9q1rmzC4=/1000x1000/museums/logos/000/187/957/original/ca38ea40fd82db3e74b254aaede5e5a1a0fb5744.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106755",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

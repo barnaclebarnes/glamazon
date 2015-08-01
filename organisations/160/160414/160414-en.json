@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160414
+  },
+  "name": "WESTFORD HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 21",
+    "addressLocality": "WESTFORD",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05494"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6115&mlon=-73.0127#map=15/44.6115/-73.0127",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6115,
+    "longitude": -73.0127
+  },
+  "url": "http://www.westfordvt.us/historicalsociety/index.php",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000220",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

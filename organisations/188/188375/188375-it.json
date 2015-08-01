@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188375
+  },
+  "name": "Museo archeologico regionale di Caltanissetta e zona Gibil Gabib",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via N. Colajanni, 3",
+    "addressLocality": "Caltanissetta",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4877&mlon=14.0592#map=15/37.4877/14.0592",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4877,
+    "longitude": 14.0592
+  },
+  "url": "http://www.regione.sicilia.it",
+  "telephone": "+39 0934567062",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni 9,00-13,00 e 15,30-19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QUoeU39cKZ3CMmvrwj2ZjXIGiYo=/1000x1000/museums/logos/000/188/375/original/12c61a8d4a99c5d55dbcaf1778ddcd42dd43e299.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101168",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

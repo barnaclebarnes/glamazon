@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135818
+  },
+  "name": "HERNDON HOME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "587 UNIVERSITY PL NW",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30314"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7555&mlon=-84.4068#map=15/33.7555/-84.4068",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7555,
+    "longitude": -84.4068
+  },
+  "url": "http://www.herndonhome.org",
+  "telephone": "+1 (404) 581-9813",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300089",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

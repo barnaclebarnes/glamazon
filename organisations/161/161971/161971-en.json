@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161971
+  },
+  "name": "MUSEUM OF NORTHWEST ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 969",
+    "addressLocality": "LA CONNER",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98257-0969"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.393&mlon=-122.527#map=15/48.393/-122.527",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.393,
+    "longitude": -122.527
+  },
+  "url": "http://www.museumofnwart.org",
+  "telephone": "+1 (360) 466-4446",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/136365286408734"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300420",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

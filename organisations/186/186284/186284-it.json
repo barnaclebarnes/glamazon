@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186284
+  },
+  "name": "Museo della Fondazione \"Giovanni Scaramangà di Altomonte\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via F. Filzi, 1",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6522&mlon=13.7735#map=15/45.6522/13.7735",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6522,
+    "longitude": 13.7735
+  },
+  "url": "http://www.museifriuliveneziagiulia.it/",
+  "telephone": "+39 0406 31585",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e venerdì 10,00/12,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100246",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

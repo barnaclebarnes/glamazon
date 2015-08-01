@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162897
+  },
+  "name": "BELOIT COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "700 COLLEGE ST",
+    "addressLocality": "BELOIT",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53511-5509"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.503&mlon=-89.0295#map=15/42.503/-89.0295",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.503,
+    "longitude": -89.0295
+  },
+  "url": "http://www.beloit.edu",
+  "telephone": "+1 (608) 363-2000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500346",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

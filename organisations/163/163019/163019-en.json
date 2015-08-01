@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163019
+  },
+  "name": "FRIENDS OF OLD WORLD WISCONSIN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 EAST MAIN STREET",
+    "addressLocality": "EAGLE",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53119"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.879&mlon=-88.474#map=15/42.879/-88.474",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.879,
+    "longitude": -88.474
+  },
+  "url": "http://www.friendsoww.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500468",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

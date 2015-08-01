@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185936
+  },
+  "name": "Cripta museo di Trevico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 20",
+    "addressLocality": "Trevico",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0487&mlon=15.2338#map=15/41.0487/15.2338",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0487,
+    "longitude": 15.2338
+  },
+  "url": "http://www.studieupliani.it",
+  "telephone": "+39 082796066",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BWQh48AlsRm-97oCkhoBX16tgXM=/1000x1000/museums/logos/000/185/936/original/74a5c7b23a9cd977b6ec8d23dc232f635b47fed.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103902",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

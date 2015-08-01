@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188444
+  },
+  "name": "Antiquarium di Patti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Papa Giovanni XXIII, snc",
+    "addressLocality": "Patti",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1412&mlon=14.9659#map=15/38.1412/14.9659",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1412,
+    "longitude": 14.9659
+  },
+  "url": "http://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei/pagina_musei.asp?ID=42&IdSito=49",
+  "telephone": "+39 0941361593",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni 9,00-19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4O2mWQ5S_wCJkQhP_NPnf9i7L90=/1000x1000/museums/logos/000/188/444/original/d8a8234e68bee0d2a1424772c7ab6ba3c3bb983.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101261",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183988
+  },
+  "name": "Jean-Paul-Museum der Stadt Bayreuth",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wahnfriedstraße 1",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9414&mlon=11.5834#map=15/49.9414/11.5834",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9414,
+    "longitude": 11.5834
+  },
+  "url": "http://www.bayreuth.de/museumsuebersicht/jean_paul_museum_309.html",
+  "telephone": "0921/5071444",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183988",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

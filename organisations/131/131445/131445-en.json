@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131445
+  },
+  "name": "FALLBROOK HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1375",
+    "addressLocality": "FALLBROOK",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92088-1375"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.367&mlon=-117.25#map=15/33.367/-117.25",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.367,
+    "longitude": -117.25
+  },
+  "telephone": "+1 (760) 723-4125",
+  "contactPoint": [
+
+  ],
+  "sameAs": "http://fallbrookhistoricalsociety.com",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601571",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

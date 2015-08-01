@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186159
+  },
+  "name": "Pinacoteca civica \"Melozzo degli Ambrogi\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso della Repubblica, 72, ",
+    "addressLocality": "Forlì",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2205&mlon=12.0444#map=15/44.2205/12.0444",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2205,
+    "longitude": 12.0444
+  },
+  "url": "http://www.cultura.comune.forli.fo.it",
+  "telephone": "+39 0543712606",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Pohnv5MUSeS6xKVmOLKjBn9ylS4=/1000x1000/museums/logos/000/186/159/original/7c81c3eb84968b01569510fbe31e9deb01e5f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102040",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

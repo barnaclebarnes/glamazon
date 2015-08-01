@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143130
+  },
+  "name": "PEPPERELL HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 573",
+    "addressLocality": "PEPPERELL",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01463-0573"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6575&mlon=-71.6361#map=15/42.6575/-71.6361",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6575,
+    "longitude": -71.6361
+  },
+  "url": "http://pepperellhistory.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500760",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

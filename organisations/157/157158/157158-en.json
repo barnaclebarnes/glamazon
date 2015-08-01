@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157158
+  },
+  "name": "ADAMS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "54 SHERMAN ST",
+    "addressLocality": "DEADWOOD",
+    "addressRegion": "SD",
+    "addressCountry": "United States",
+    "postalCode": "96793"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3757&mlon=-103.729#map=15/44.3757/-103.729",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3757,
+    "longitude": -103.729
+  },
+  "url": "http://www.adamsmuseumandhouse.org",
+  "telephone": "+1 (605) 578-1714",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404600043",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

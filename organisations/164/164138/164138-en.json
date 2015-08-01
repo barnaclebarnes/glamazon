@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164138
+  },
+  "name": "Museum Victoria",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.804&mlon=144.972#map=15/-37.804/144.972",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.804,
+    "longitude": 144.972
+  },
+  "url": "http://museumvictoria.com.au/",
+  "telephone": "03 8683 3175 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "museum-victoria",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/museum-victoria",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

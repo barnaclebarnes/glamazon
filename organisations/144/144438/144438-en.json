@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144438
+  },
+  "name": "DENNOS MUSEUM CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1701 EAST FRONT STREET",
+    "addressLocality": "TRAVERSE CITY",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49686"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7642&mlon=-85.5827#map=15/44.7642/-85.5827",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7642,
+    "longitude": -85.5827
+  },
+  "url": "http://www.dennosmuseum.org",
+  "telephone": "+1 (231) 995-1055",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/thedennos"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/TheDennos"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600975",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

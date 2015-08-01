@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183828
+  },
+  "name": "Erstes Imaginäres Museum Sammlung Günter Dietz",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bruckgasse 2",
+    "addressLocality": "Wasserburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83512"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.06&mlon=12.2323#map=15/48.06/12.2323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.06,
+    "longitude": 12.2323
+  },
+  "url": "http://www.wasserburg.de/de/imaginaeres-museum/",
+  "telephone": "08071/4358",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183828",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

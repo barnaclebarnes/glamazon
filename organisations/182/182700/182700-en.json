@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182700
+  },
+  "name": "Heimat- und Bergbaumuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Georg-Bertelshofer-Platz 1",
+    "addressLocality": "Erbendorf",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92681"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8384&mlon=12.0473#map=15/49.8384/12.0473",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8384,
+    "longitude": 12.0473
+  },
+  "url": "http://heimatmuseum.erbendorf.eu/",
+  "telephone": "09682/921022",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182700",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

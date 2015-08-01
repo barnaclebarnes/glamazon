@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164148
+  },
+  "name": "National Sports Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8191&mlon=144.984#map=15/-37.8191/144.984",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8191,
+    "longitude": 144.984
+  },
+  "url": "http://www.nsm.org.au/",
+  "telephone": "61 3 9657 8940 ",
+  "contactPoint": [
+
+  ],
+  "openingHours": "NSM open from 10.00am - 5.00pm (last admissions 4.00pm)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "national-sports-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/national-sports-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

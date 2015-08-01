@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183547
+  },
+  "name": "Domschatzmuseum Regensburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Krauterermarkt 3",
+    "addressLocality": "Regensburg",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93047"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0201&mlon=12.0977#map=15/49.0201/12.0977",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0201,
+    "longitude": 12.0977
+  },
+  "url": "http://www.bistumsmuseen-regensburg.de",
+  "telephone": "0941/57645",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183547",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

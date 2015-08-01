@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145031
+  },
+  "name": "SOAP FACTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "514 2ND ST SE",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55414-2105"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9834&mlon=-93.2496#map=15/44.9834/-93.2496",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9834,
+    "longitude": -93.2496
+  },
+  "url": "http://www.soapfactory.org",
+  "telephone": "+1 (612) 623-9176",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700471",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

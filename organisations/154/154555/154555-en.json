@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154555
+  },
+  "name": "BANDON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 737",
+    "addressLocality": "BANDON",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97411"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1133&mlon=-124.408#map=15/43.1133/-124.408",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1133,
+    "longitude": -124.408
+  },
+  "url": "http://www.bandonhistoricalmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100348",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

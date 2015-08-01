@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140300
+  },
+  "name": "KENTUCKY DERBY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "704 CENTRAL AVENUE",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40201-3513"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2057&mlon=-85.7707#map=15/38.2057/-85.7707",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2057,
+    "longitude": -85.7707
+  },
+  "url": "http://www.derbymuseum.org",
+  "telephone": "+1 (502) 637-1111",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100056",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

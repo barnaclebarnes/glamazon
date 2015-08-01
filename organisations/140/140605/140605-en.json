@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140605
+  },
+  "name": "UNIVERSITY OF KENTUCKY BASKTBL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 89",
+    "addressLocality": "LEXINGTON",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40588-0089"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0471&mlon=-84.4953#map=15/38.0471/-84.4953",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0471,
+    "longitude": -84.4953
+  },
+  "telephone": "+1 (859) 225-5670",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100362",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

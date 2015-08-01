@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162564
+  },
+  "name": "WATSON'S WILD WEST MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "W4865 POTTER RD",
+    "addressLocality": "ELKHORN",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53121"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7063&mlon=-88.5404#map=15/42.7063/-88.5404",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7063,
+    "longitude": -88.5404
+  },
+  "url": "http://watsonswildwestmuseum.com",
+  "telephone": "+1 (262) 723-7505",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500013",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

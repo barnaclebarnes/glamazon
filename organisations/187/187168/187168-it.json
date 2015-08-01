@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187168
+  },
+  "name": "Museo del picapreda",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Europa, 1",
+    "addressLocality": "Novate Mezzola",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.221&mlon=9.44804#map=15/46.221/9.44804",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.221,
+    "longitude": 9.44804
+  },
+  "url": "http://www.comune.novatemezzola.so.it",
+  "telephone": "+39 034363040",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DBXn7s2ipB8hxlQv9KNCRz9RzRo=/1000x1000/museums/logos/000/187/168/original/5c4ac9cada5dd03a8586bf299d985f6d860b2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103791",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

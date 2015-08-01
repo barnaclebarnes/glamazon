@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150197
+  },
+  "name": "ROCHESTER CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "250 CUMBERLAND ST",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14605-2803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1615&mlon=-77.6056#map=15/43.1615/-77.6056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1615,
+    "longitude": -77.6056
+  },
+  "telephone": "+1 (585) 262-3150",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601491",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

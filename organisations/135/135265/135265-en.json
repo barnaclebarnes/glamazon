@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135265
+  },
+  "name": "BISCAYNE NATURE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6767 CRANDON BLVD",
+    "addressLocality": "KEY BISCAYNE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33149-3201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.7103&mlon=-80.156#map=15/25.7103/-80.156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7103,
+    "longitude": -80.156
+  },
+  "url": "http://www.biscaynenaturecenter.org/",
+  "telephone": "+1 (305) 361-6767",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200820",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

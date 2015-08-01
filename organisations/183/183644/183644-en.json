@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183644
+  },
+  "name": "Zeiselmairhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "In der Lachen 1",
+    "addressLocality": "Schrobenhausen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86529"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.5606&mlon=11.2663#map=15/48.5606/11.2663",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.5606,
+    "longitude": 11.2663
+  },
+  "url": "http://museen-schrobenhausen.byseum.de/de/zeiselmairhaus",
+  "telephone": "08252/90985-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183644",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

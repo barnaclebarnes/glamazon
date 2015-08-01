@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187870
+  },
+  "name": "Museo storico dell'arma di cavalleria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Giolitti, 5, ",
+    "addressLocality": "Pinerolo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8859&mlon=7.33554#map=15/44.8859/7.33554",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8859,
+    "longitude": 7.33554
+  },
+  "url": "http://www.museocavalleria.it",
+  "telephone": "+39 0121376344",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102721",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

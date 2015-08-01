@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130317
+  },
+  "name": "FLYING LEATHERNECK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4203 ANDERSON AVE",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92145"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8879&mlon=-117.138#map=15/32.8879/-117.138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8879,
+    "longitude": -117.138
+  },
+  "url": "http://www.flyingleathernecks.org/museum.html",
+  "telephone": "+1 (858) 693-1723",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Flying_Leatherneck_Aviation_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600443",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

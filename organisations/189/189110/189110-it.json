@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189110
+  },
+  "name": "Museo Mansio Sebatum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via J. Renzler, 9",
+    "addressLocality": "San Lorenzo di Sebato/St. Lorenzen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.7831&mlon=11.9025#map=15/46.7831/11.9025",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.7831,
+    "longitude": 11.9025
+  },
+  "url": "http://www.mansio-sebatum.it",
+  "telephone": "+39 +39 0474 474092",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì-venerdi: 9.00 - 12.00/15.00 - 18.00 sabato: 9.00 - 12.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5.00 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lMwPO-1fcoPqPIEH7xVWzURFSJs=/1000x1000/museums/logos/000/189/110/original/a5791ef3e6ec5f8208bd7933c8f995630c33f4c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111959",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186831
+  },
+  "name": "Museo della Basilica di Santa Maria Assunta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Emancipazione, ?",
+    "addressLocality": "Gandino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.817&mlon=9.89597#map=15/45.817/9.89597",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.817,
+    "longitude": 9.89597
+  },
+  "url": "http://www.gandino.it/museobasilica",
+  "telephone": "+39 035745425",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/s5jrGaq0yhko5XhPg0Jeu1BgcRY=/1000x1000/museums/logos/000/186/831/original/37422f89f612bbcecf35d1fe4951125de6d6b637.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103516",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

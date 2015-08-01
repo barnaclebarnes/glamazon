@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182860
+  },
+  "name": "Gemeindemuseum Hebertsfelden",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bahnhofstraße 3",
+    "addressLocality": "Hebertsfelden",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84332"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4169&mlon=12.8169#map=15/48.4169/12.8169",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4169,
+    "longitude": 12.8169
+  },
+  "url": "http://www.rottalermuseumstrasse.de/index.php?page=37",
+  "telephone": "08721/96360",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182860",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

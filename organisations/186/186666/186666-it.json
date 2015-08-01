@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186666
+  },
+  "name": "Civico museo marinaro \"Gio Bono Ferrari\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gio Bono Ferrari, 41",
+    "addressLocality": "Camogli",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3477&mlon=9.15649#map=15/44.3477/9.15649",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3477,
+    "longitude": 9.15649
+  },
+  "url": "http://www.museomarinaro.it",
+  "telephone": "+39 0185729049",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100339",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

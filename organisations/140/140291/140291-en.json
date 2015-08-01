@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140291
+  },
+  "name": "KENTUCKY MANSION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "105 SHANNON RUN RD",
+    "addressLocality": "VERSAILLES",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40383"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0429&mlon=-84.6574#map=15/38.0429/-84.6574",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0429,
+    "longitude": -84.6574
+  },
+  "url": "http://kentuckymansion.com",
+  "telephone": "+1 (859) 873-2000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100047",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

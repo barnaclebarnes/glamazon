@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186306
+  },
+  "name": "Museo archeologico nazionale di Cividale del Friuli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Duomo, 13, ",
+    "addressLocality": "Cividale del Friuli",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0934&mlon=13.4319#map=15/46.0934/13.4319",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0934,
+    "longitude": 13.4319
+  },
+  "url": "http://www.museoarcheologicocividale.beniculturali.it/",
+  "telephone": "+39 0432700700",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì h 9.00-14.00, da martedì a domenica h 8.30-19.30 (ultimo ingesso mezzora prima della chiusura)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "eur 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QiDcjqJZXqllviLXz4j9c8MuiQk=/1000x1000/museums/logos/000/186/306/original/34544fb3ccb78703cd6f9475817ff0918f245.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20766",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

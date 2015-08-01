@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137173
+  },
+  "name": "ST ELMO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 NORTH MAIN STREET",
+    "addressLocality": "ST ELMO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62458"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0284&mlon=-88.8487#map=15/39.0284/-88.8487",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0284,
+    "longitude": -88.8487
+  },
+  "url": "http://www.st-elmo.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700318",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

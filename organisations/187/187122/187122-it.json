@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187122
+  },
+  "name": "Civico museo archeologico di Casteggio e dell'Oltrepò pavese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Circonvallazione Cantù, ?",
+    "addressLocality": "Casteggio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0117&mlon=9.12448#map=15/45.0117/9.12448",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0117,
+    "longitude": 9.12448
+  },
+  "url": "http://www.museocasteggio.it",
+  "telephone": "+39 038383941",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EMTrevq2RrU-5sFaC2lvaZF18jI=/1000x1000/museums/logos/000/187/122/original/a689b75f22b879f12bb6f718d4e393b2adba2a70.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103763",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150298
+  },
+  "name": "HOBART HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 11",
+    "addressLocality": "HOBART",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13788"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3716&mlon=-74.6639#map=15/42.3716/-74.6639",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3716,
+    "longitude": -74.6639
+  },
+  "url": "http://hobarthistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601592",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

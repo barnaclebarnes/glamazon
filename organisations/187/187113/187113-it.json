@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187113
+  },
+  "name": "Museo Scalvini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giovanni Maria Lampugnani, 34/36",
+    "addressLocality": "Desio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6178&mlon=9.21354#map=15/45.6178/9.21354",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6178,
+    "longitude": 9.21354
+  },
+  "telephone": "+39 0362 626991",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LT7ot6kUyIUXTiQXrbzF0GvdTGY=/1000x1000/museums/logos/000/187/113/original/fc584236ed98f3c9b6f4119ee4bf4323b73c713.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106929",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

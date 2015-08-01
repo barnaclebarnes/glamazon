@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186153
+  },
+  "name": "Casa museo Renato Serra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Carducci, 29",
+    "addressLocality": "Cesena",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1389&mlon=12.2476#map=15/44.1389/12.2476",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1389,
+    "longitude": 12.2476
+  },
+  "url": "http://www.comune.cesena.fc.it",
+  "telephone": "+39 0547355731 - 27",
+  "contactPoint": [
+
+  ],
+  "openingHours": "per appuntamento",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iLEvPdD8MsOr-wDhKxwBlYHYqko=/1000x1000/museums/logos/000/186/153/original/9ea5d07663aa55b105dc57176c763edda3d777d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111127",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187612
+  },
+  "name": "Centro documentazione aziendale figli di Pinin Pero - Sugar Packets Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C.so Acqui, 252 (S.S. 456 per Acqui Terme), ",
+    "addressLocality": "Nizza Monferrato",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7749&mlon=8.355#map=15/44.7749/8.355",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7749,
+    "longitude": 8.355
+  },
+  "url": "http://www.sugarhouse.it",
+  "telephone": "+39 0141 727857",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì dalle 8,00 alle 12,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hmaTcIn5prKsaWpx5u4vb17M87A=/1000x1000/museums/logos/000/187/612/original/b44430f9e645c7d2868e2f5b5ceabc58b4f2f97.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102503",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

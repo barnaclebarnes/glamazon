@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143619
+  },
+  "name": "GILMORE CAR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6865 HICKORY ROAD",
+    "addressLocality": "HICKORY CORNERS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49060"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4421&mlon=-85.4201#map=15/42.4421/-85.4201",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4421,
+    "longitude": -85.4201
+  },
+  "url": "http://www.gilmorecarmuseum.org",
+  "telephone": "+1 (269) 671-5089",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600156",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

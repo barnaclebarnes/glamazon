@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155259
+  },
+  "name": "PHILADELPHIA MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 7646",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19101-7646"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9547&mlon=-75.182#map=15/39.9547/-75.182",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9547,
+    "longitude": -75.182
+  },
+  "url": "http://www.philamuseum.org",
+  "telephone": "+1 (215) 232-2360",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/philamuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/philamuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200453",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

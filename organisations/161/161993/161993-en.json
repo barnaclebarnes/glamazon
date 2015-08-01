@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161993
+  },
+  "name": "FRIENDS OF THE ABERDEEN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 722",
+    "addressLocality": "ABERDEEN",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98520"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.9782&mlon=-123.807#map=15/46.9782/-123.807",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.9782,
+    "longitude": -123.807
+  },
+  "url": "http://aberdeen-museum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300442",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

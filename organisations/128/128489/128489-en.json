@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128489
+  },
+  "name": "PIEDMONT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "N CENTER AVE",
+    "addressLocality": "PIEDMONT",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "36272"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9282&mlon=-85.6115#map=15/33.9282/-85.6115",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9282,
+    "longitude": -85.6115
+  },
+  "url": "http://www.piedmontcity.org",
+  "telephone": "+1 (256) 447-6904",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100019",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

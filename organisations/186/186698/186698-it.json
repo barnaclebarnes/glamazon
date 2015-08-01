@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186698
+  },
+  "name": "Museo di chimica di Genova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Benedetto XV, 3",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4058&mlon=8.96828#map=15/44.4058/8.96828",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4058,
+    "longitude": 8.96828
+  },
+  "url": "http://www.chimica.unige.it/museo/index.htm",
+  "telephone": "+39 010 3538728",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rBhLnSS36amK3_NoViXPJa9XTHI=/1000x1000/museums/logos/000/186/698/original/2ad93ebbf0d2bd2cce2396e6589b6d8d3e1e76ae.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100367",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

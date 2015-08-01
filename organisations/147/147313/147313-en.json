@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147313
+  },
+  "name": "MANCHESTER HISTORIC ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "129 AMHERST ST",
+    "addressLocality": "MANCHESTER",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03101-1809"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9918&mlon=-71.4599#map=15/42.9918/-71.4599",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9918,
+    "longitude": -71.4599
+  },
+  "url": "http://www.manchesterhistoric.org",
+  "telephone": "+1 (603) 622-7531",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300088",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

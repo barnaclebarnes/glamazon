@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150903
+  },
+  "name": "PHILADELPHIA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "64 MAIN STREET",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13673"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1577&mlon=-75.7058#map=15/44.1577/-75.7058",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1577,
+    "longitude": -75.7058
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602197",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

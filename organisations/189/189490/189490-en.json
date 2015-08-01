@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189490
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 57",
+    "addressLocality": "Salzano",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5213&mlon=12.1031#map=15/45.5213/12.1031",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5213,
+    "longitude": 12.1031
+  },
+  "url": "http://www.museosanpiox.it",
+  "telephone": "+39 3283460914",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/176sWGH31xvfqBREZrYlk2zEGEE=/1000x1000/museums/logos/000/189/490/original/614819143048e76ced11648881f3a39332564ff.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101015",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

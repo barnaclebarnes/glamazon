@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143470
+  },
+  "name": "YANKEE AIR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "47884 D STREET",
+    "addressLocality": "YPSILANTI",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48197"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2386&mlon=-83.5064#map=15/42.2386/-83.5064",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2386,
+    "longitude": -83.5064
+  },
+  "url": "http://www.yankeeairmuseum.org",
+  "telephone": "+1 (734) 483-4030",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Y-0P25EUlny2y0pWPN99rNelnSA=/1000x1000/museums/logos/000/143/470/original/B-25_Mitchell__27Yankee_Warrior_27_at_Ohio_27s_Wood_County_Airport.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

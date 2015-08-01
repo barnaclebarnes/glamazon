@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140183
+  },
+  "name": "TOPEKA ZOOLOGICAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "635 SW GAGE BLVD",
+    "addressLocality": "TOPEKA",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66606-2066"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0579&mlon=-95.7247#map=15/39.0579/-95.7247",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0579,
+    "longitude": -95.7247
+  },
+  "url": "http://topekazoo.org",
+  "telephone": "+1 (785) 368-9180",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000509",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

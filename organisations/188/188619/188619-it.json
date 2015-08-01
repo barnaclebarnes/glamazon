@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188619
+  },
+  "name": "Gabinetto Disegni e Stampe degli Uffizi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Della Ninna, 5, ",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.769&mlon=11.2564#map=15/43.769/11.2564",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.769,
+    "longitude": 11.2564
+  },
+  "url": "http://www.polomuseale.firenze.it/musei/disegni/",
+  "telephone": "+39 055.2388671",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lun, Mer, Ven, 8.30 – 13.30; Mar, Gio, 8.30 – 17.00; feriali e festivi 8-15",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,50 euro"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20756",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

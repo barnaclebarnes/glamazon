@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160922
+  },
+  "name": "THOMAS JEFFERSON HERITAGE SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4482",
+    "addressLocality": "CHARLOTTESVILLE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22905-4482"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0522&mlon=-78.5015#map=15/38.0522/-78.5015",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0522,
+    "longitude": -78.5015
+  },
+  "url": "http://www.tjheritage.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100428",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

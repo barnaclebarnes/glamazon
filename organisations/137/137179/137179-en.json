@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137179
+  },
+  "name": "CHICAGO HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1601 N CLARK STREET",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60614-6038"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9118&mlon=-87.632#map=15/41.9118/-87.632",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9118,
+    "longitude": -87.632
+  },
+  "url": "http://www.chicagohs.org",
+  "telephone": "+1 (312) 642-4600",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/chicagohistory"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ChicagoMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700324",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

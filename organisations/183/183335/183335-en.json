@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183335
+  },
+  "name": "Wachskunst-Ausstellung im Haus zur Aussaat",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klosterplatz 1",
+    "addressLocality": "Neukirchen",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93453"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.2651&mlon=12.9681#map=15/49.2651/12.9681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.2651,
+    "longitude": 12.9681
+  },
+  "url": "http://www.haus-zur-aussaat.de",
+  "telephone": "09947 / 940821",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183335",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

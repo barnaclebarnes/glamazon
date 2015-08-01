@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137710
+  },
+  "name": "ANDERSON GARDENS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "318 SPRING CREEK RD",
+    "addressLocality": "ROCKFORD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61107-1035"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2888&mlon=-89.0588#map=15/42.2888/-89.0588",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2888,
+    "longitude": -89.0588
+  },
+  "url": "http://www.andersongardens.org",
+  "telephone": "+1 (815) 229-9390",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700855",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163974
+  },
+  "name": "Jewish Museum of Australia",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8604&mlon=144.986#map=15/-37.8604/144.986",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8604,
+    "longitude": 144.986
+  },
+  "url": "http://www.jewishmuseum.com.au/",
+  "telephone": "03 85343617",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sunday, Tuesday, Wednesday, Thursday 10 - 4pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "jewish-museum-of-australia",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/jewish-museum-of-australia",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

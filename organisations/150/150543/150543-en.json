@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150543
+  },
+  "name": "EMPIRE STATE AEROSCIENCES MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "130 SARATOGA ROAD",
+    "addressLocality": "GLENVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12302"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8601&mlon=-73.9347#map=15/42.8601/-73.9347",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8601,
+    "longitude": -73.9347
+  },
+  "url": "http://www.esam.org",
+  "telephone": "+1 (518) 377-2191",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601837",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

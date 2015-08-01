@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183355
+  },
+  "name": "Heimatmuseum Niederaichbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Isarstraße 3",
+    "addressLocality": "Niederaichbach",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84100"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.6055&mlon=12.3157#map=15/48.6055/12.3157",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.6055,
+    "longitude": 12.3157
+  },
+  "url": "http://www.niederaichbach.de/",
+  "telephone": "08702/9404-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183355",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

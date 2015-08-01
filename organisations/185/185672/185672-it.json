@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185672
+  },
+  "name": "Museo francescano della civiltà contadina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Francesco d'Assisi, 42",
+    "addressLocality": "Montescaglioso",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5547&mlon=16.6698#map=15/40.5547/16.6698",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5547,
+    "longitude": 16.6698
+  },
+  "url": "http://museidea.basilicata.it",
+  "telephone": "+39 0835 207169",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni 9,30/12,00 e 17,00/20,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LyPpotuKcRK_ogi163FtSJ1IrQI=/1000x1000/museums/logos/000/185/672/original/cd14926528cafcd756b9f01ed25593ff84379b17.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100124",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

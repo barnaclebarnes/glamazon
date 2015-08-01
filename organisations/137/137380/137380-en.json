@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137380
+  },
+  "name": "WESTERN ILLINOIS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 S LAFYT ST",
+    "addressLocality": "MACOMB",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61455-2231"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.457&mlon=-90.6718#map=15/40.457/-90.6718",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.457,
+    "longitude": -90.6718
+  },
+  "url": "http://www.westernillinoismuseum.org",
+  "telephone": "+1 (309) 837-2750",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700525",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

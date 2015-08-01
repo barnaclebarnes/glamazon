@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137209
+  },
+  "name": "SWEDISH HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "404 S 3RD ST",
+    "addressLocality": "ROCKFORD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61104-2013"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2642&mlon=-89.0888#map=15/42.2642/-89.0888",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2642,
+    "longitude": -89.0888
+  },
+  "url": "http://swedishhistorical.org",
+  "telephone": "+1 (815) 963-5559",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700354",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163885
+  },
+  "name": "Friends of the Cerberus",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.1196&mlon=144.358#map=15/-38.1196/144.358",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.1196,
+    "longitude": 144.358
+  },
+  "url": "http://www.cerberus.com.au/index.html",
+  "contactPoint": [
+
+  ],
+  "openingHours": "From 10.00 am until 3.00 pm every day except Saturdays, Christmas Day &amp; Easter.",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "friends-of-the-cerberus",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/friends-of-the-cerberus",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

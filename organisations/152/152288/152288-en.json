@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152288
+  },
+  "name": "OSU URBAN ARTS SPACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "50 W TOWN ST",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43215"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9587&mlon=-83.0009#map=15/39.9587/-83.0009",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9587,
+    "longitude": -83.0009
+  },
+  "url": "http://uas.osu.edu",
+  "telephone": "+1 (614) 292-8861",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/OSUUrbanArtsSpace"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900065",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

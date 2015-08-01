@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186207
+  },
+  "name": "Museo didattico del territorio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Sale, 88",
+    "addressLocality": "Ravenna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2898&mlon=12.175#map=15/44.2898/12.175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2898,
+    "longitude": 12.175
+  },
+  "telephone": "+39 0544576684",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8mEuMUvf4hrk-kvqdMWzQ0i2hUI=/1000x1000/museums/logos/000/186/207/original/9051a0117f5c6ae8b7e4b134232ae80634afc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102230",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

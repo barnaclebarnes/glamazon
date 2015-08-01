@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189326
+  },
+  "name": "Mostra permanente dei Pugnaloni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 5",
+    "addressLocality": "Allerona",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8111&mlon=11.974#map=15/42.8111/11.974",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8111,
+    "longitude": 11.974
+  },
+  "telephone": "+39 0763 628312",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tRSoVk5azEHivFW_ZyFryMU-jOg=/1000x1000/museums/logos/000/189/326/original/ca492e3a7f05e311a2d4cd7a9ac6a4e98d73a5c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108100",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

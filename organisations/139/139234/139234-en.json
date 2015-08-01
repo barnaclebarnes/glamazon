@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139234
+  },
+  "name": "POMEROY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 MAIN STREET",
+    "addressLocality": "POMEROY",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50575"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5512&mlon=-94.6852#map=15/42.5512/-94.6852",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5512,
+    "longitude": -94.6852
+  },
+  "telephone": "+1 (712) 468-2050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900271",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

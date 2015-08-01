@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184047
+  },
+  "name": "Deutsches Schustermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 1",
+    "addressLocality": "Burgkunstadt",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96224"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.141&mlon=11.2517#map=15/50.141/11.2517",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.141,
+    "longitude": 11.2517
+  },
+  "url": "http://www.burgkunstadt.de/2303_DEU_WWW.php",
+  "telephone": "09572/4703",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184047",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

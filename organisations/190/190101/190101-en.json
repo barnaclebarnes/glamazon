@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190101
+  },
+  "name": "WEINBERG NATURE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "455 MAMARONECK RD.",
+    "addressLocality": "SCARSDALE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10583"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7417&mlon=-74.5525#map=15/40.7417/-74.5525",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7417,
+    "longitude": -74.5525
+  },
+  "url": "http://weinbergnaturecenter.org",
+  "telephone": "+1 (914) 722-1289",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602450",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183107
+  },
+  "name": "Paul Josef Nardini-Gedenkstätte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klosterberg 1",
+    "addressLocality": "Mallersdorf-Pfaffenberg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84066"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7775&mlon=12.2529#map=15/48.7775/12.2529",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7775,
+    "longitude": 12.2529
+  },
+  "url": "http://www.mallersdorfer-schwestern.de/57/Gründer/Biografie.html",
+  "telephone": "08772/69-00",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183107",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

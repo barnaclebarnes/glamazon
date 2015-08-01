@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190003
+  },
+  "name": "NATCHEZ NATIONAL HISTORICAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "640 SOUTH CANAL STREET  BOX E",
+    "addressLocality": "NATCHEZ",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "39120"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.5555&mlon=-91.4109#map=15/31.5555/-91.4109",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.5555,
+    "longitude": -91.4109
+  },
+  "telephone": "+1 (601) 442-7047",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800284",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

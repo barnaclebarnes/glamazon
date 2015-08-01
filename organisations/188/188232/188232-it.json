@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188232
+  },
+  "name": "Museo archeologico nazionale di Taranto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavour, 10",
+    "addressLocality": "Taranto",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4739&mlon=17.2389#map=15/40.4739/17.2389",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4739,
+    "longitude": 17.2389
+  },
+  "url": "http://www.museotaranto.org",
+  "telephone": "+39 0994532112",
+  "contactPoint": [
+
+  ],
+  "openingHours": "08.30 - 19.30 (chiuso il 1 gennaio, 1 maggio, 25 dicembre) Chiusura biglietteria ore 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 5,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zaJBr-i-jJ84iu_ZJnZ1ewn9hBo=/1000x1000/museums/logos/000/188/232/original/311e94a553bf4b2e6a373815618319417e5a7783.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20262",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

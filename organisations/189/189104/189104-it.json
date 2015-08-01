@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189104
+  },
+  "name": "Museo della caccia e della pesca - Castel Wolfsthurn",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mareta, 5",
+    "addressLocality": "Racines/Ratschings",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.8817&mlon=11.3646#map=15/46.8817/11.3646",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.8817,
+    "longitude": 11.3646
+  },
+  "url": "http://www.wolfsthurn.it",
+  "telephone": "+39 0472758121",
+  "contactPoint": [
+
+  ],
+  "openingHours": "1° aprile-15 novembre mar-sab ore 10-17 (entrata fino alle 16.30) dom, festivi ore 13-17 (entrata fino alle 16.30)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 5.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ev9vCf9DDrqjbaf0OfTPnMhJuwk=/1000x1000/museums/logos/000/189/104/original/6ace60f790a36d4f7ec46e7e1d6c451c1b3b83c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100555",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

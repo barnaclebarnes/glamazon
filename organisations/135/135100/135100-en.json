@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135100
+  },
+  "name": "MOTE MARINE LABORATORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1600 KEN THOMPSON PARKWAY",
+    "addressLocality": "SARASOTA",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "34236"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=27.3333&mlon=-82.5786#map=15/27.3333/-82.5786",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 27.3333,
+    "longitude": -82.5786
+  },
+  "url": "http://www.mote.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200655",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

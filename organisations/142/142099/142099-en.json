@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142099
+  },
+  "name": "ALLEGANY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3 PERSHING STREET",
+    "addressLocality": "CUMBERLAND",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21502"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6505&mlon=-78.7626#map=15/39.6505/-78.7626",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6505,
+    "longitude": -78.7626
+  },
+  "url": "http://alleganymuseummd.org",
+  "telephone": "+1 (301) 777-7200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400392",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186401
+  },
+  "name": "Museo \"M. Valeriani\" della numismatica, della medaglia, della grafica incisa e della fotografia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Umberto I, 39/41",
+    "addressLocality": "Latina",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4395&mlon=12.9657#map=15/41.4395/12.9657",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4395,
+    "longitude": 12.9657
+  },
+  "url": "http://www.geoplan.it/",
+  "telephone": "+39 0773652630",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì a venerdì 9.00-13.00. Martedì e giovedì 9.00-13.00 e 16.00-18.00.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101436",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

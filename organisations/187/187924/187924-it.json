@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187924
+  },
+  "name": "Museo civico Pietro Micca e dell'assedio di Torino del 1706",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guicciardini, 7/A, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0721&mlon=7.66832#map=15/45.0721/7.66832",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0721,
+    "longitude": 7.66832
+  },
+  "url": "http://www.comune.torino.it/musei/civici/pietromicca",
+  "telephone": "+39 011546317",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102762",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

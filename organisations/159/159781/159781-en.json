@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159781
+  },
+  "name": "HOUSTON FIRE MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2403 MILAM ST",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77006-2359"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7475&mlon=-95.375#map=15/29.7475/-95.375",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7475,
+    "longitude": -95.375
+  },
+  "url": "http://www.houstonfiremuseum.org",
+  "telephone": "+1 (713) 524-2526",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801881",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

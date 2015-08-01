@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183266
+  },
+  "name": "Münchner Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "St.-Jakobs-Platz 1",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80331"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1351&mlon=11.5726#map=15/48.1351/11.5726",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1351,
+    "longitude": 11.5726
+  },
+  "url": "http://www.muenchner-stadtmuseum.de",
+  "telephone": "089/233-22370",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183266",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

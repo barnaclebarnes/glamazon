@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142484
+  },
+  "name": "LONGFELLOW'S WAYSIDE INN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "WAYSIDE INN ROAD",
+    "addressLocality": "SUDBURY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01776"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3547&mlon=-71.4849#map=15/42.3547/-71.4849",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3547,
+    "longitude": -71.4849
+  },
+  "telephone": "+1 (508) 443-1776",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500114",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189185
+  },
+  "name": "Museo diocesano e cripta di San Rufino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Rufino, 3",
+    "addressLocality": "Assisi",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0705&mlon=12.6172#map=15/43.0705/12.6172",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0705,
+    "longitude": 12.6172
+  },
+  "url": "http://www.museiecclesiastici.it",
+  "telephone": "+39 075812712",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aJwhQbrDRJvFTvNyqlH7nvHTSvE=/1000x1000/museums/logos/000/189/185/original/74b066dff9a862ad3bbe13d69c34467b8cce9c7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100675",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

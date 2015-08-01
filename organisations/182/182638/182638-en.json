@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182638
+  },
+  "name": "Museum im Hollerhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfarrgasse 6",
+    "addressLocality": "Dietfurt",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92345"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0354&mlon=11.5883#map=15/49.0354/11.5883",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0354,
+    "longitude": 11.5883
+  },
+  "url": "http://www.dietfurt.de/sehenswertes/museum_im_hollerhaus-156/",
+  "telephone": "08464/6400-19",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182638",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

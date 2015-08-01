@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184495
+  },
+  "name": "Museum of New Zealand Te Papa Tongarewa",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-41.2913&mlon=174.782#map=15/-41.2913/174.782",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -41.2913,
+    "longitude": 174.782
+  },
+  "url": "http://www.tepapa.govt.nz",
+  "telephone": "64-4-381 7000",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tous les jours 10:00-18:00 soirée jeu à 21:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Gratuit"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/fr/museums/184495",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

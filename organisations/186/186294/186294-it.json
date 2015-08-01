@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186294
+  },
+  "name": "Piccolo museo (Il)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Fabbri, 3",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6462&mlon=13.7654#map=15/45.6462/13.7654",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6462,
+    "longitude": 13.7654
+  },
+  "url": "http://www.ilrestauronline.com",
+  "telephone": "+39 3381547018",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100255",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

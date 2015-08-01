@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135738
+  },
+  "name": "WOODROW WILSON HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "419 7TH ST",
+    "addressLocality": "AUGUSTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4716&mlon=-81.9649#map=15/33.4716/-81.9649",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4716,
+    "longitude": -81.9649
+  },
+  "url": "http://www.wilsonboyhoodhome.org",
+  "telephone": "+1 (706) 722-9828",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300009",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

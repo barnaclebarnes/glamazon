@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143046
+  },
+  "name": "FITCHBURG ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "25 MERRIAM PKWY",
+    "addressLocality": "FITCHBURG",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01420-7523"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5869&mlon=-71.8044#map=15/42.5869/-71.8044",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5869,
+    "longitude": -71.8044
+  },
+  "url": "http://www.fitchburgartmuseum.org",
+  "telephone": "+1 (978) 345-4207",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/58671800527"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500676",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

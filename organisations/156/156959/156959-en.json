@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156959
+  },
+  "name": "COASTAL DISCOVERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7O HONEY HORN DRIVE",
+    "addressLocality": "HILTON HEAD ISLAND",
+    "addressRegion": "SC",
+    "addressCountry": "United States",
+    "postalCode": "29926"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2126&mlon=-80.7435#map=15/32.2126/-80.7435",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2126,
+    "longitude": -80.7435
+  },
+  "url": "http://www.coastaldiscovery.org",
+  "telephone": "+1 (843) 689-6767",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/113196365416965"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404500254",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

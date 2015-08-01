@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190108
+  },
+  "name": "STATUE OF LIBERTY NM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "LIBERTY ISLAND",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10004"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6979&mlon=-74.0235#map=15/40.6979/-74.0235",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6979,
+    "longitude": -74.0235
+  },
+  "telephone": "+1 (646) 356-2150",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602460",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

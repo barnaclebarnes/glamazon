@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188723
+  },
+  "name": "Museo della vite e del vino di Montenero d'Orcia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Centrale, 2",
+    "addressLocality": "Castel del Piano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8691&mlon=11.5006#map=15/42.8691/11.5006",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8691,
+    "longitude": 11.5006
+  },
+  "url": "http://www.sistemamusealeamiata.it",
+  "telephone": "+39 0564969602",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FzdEnjunJRsN9gx_yJwS7epIkRY=/1000x1000/museums/logos/000/188/723/original/9f378977858811ee6c1b7dadbdf384bf8fa771a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102998",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

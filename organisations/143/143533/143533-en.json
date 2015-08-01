@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143533
+  },
+  "name": "MARYSVILLE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "887 E HURON BLVD",
+    "addressLocality": "MARYSVILLE",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48040"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9078&mlon=-82.4703#map=15/42.9078/-82.4703",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9078,
+    "longitude": -82.4703
+  },
+  "url": "http://www.marysvillemuseum.org",
+  "telephone": "+1 (810) 364-5198",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600070",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

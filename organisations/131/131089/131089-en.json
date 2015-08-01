@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131089
+  },
+  "name": "OCEAN INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "24200 DANA POINT HARBOR",
+    "addressLocality": "DANA POINT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92629-2723"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.462&mlon=-117.707#map=15/33.462/-117.707",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.462,
+    "longitude": -117.707
+  },
+  "url": "http://www.ocean-institute.org",
+  "telephone": "+1 (949) 496-2274",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hGdcus5LHaI2-TaxcfI8J2qT5pk=/1000x1000/museums/logos/000/131/089/original/Tide_pool2.jpg",
+    "creator": "Ocean Institute",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Ocean_Institute",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601215",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

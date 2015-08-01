@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160002
+  },
+  "name": "DRAPER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1054 E PIONEER RD",
+    "addressLocality": "DRAPER",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84020"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5252&mlon=-111.862#map=15/40.5252/-111.862",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5252,
+    "longitude": -111.862
+  },
+  "url": "http://www.draperhistoricalsociety.org",
+  "telephone": "+1 (801) 495-3476",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900068",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

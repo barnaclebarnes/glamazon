@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155234
+  },
+  "name": "SAFE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6825 NORWITCH DR",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19153-3412"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9106&mlon=-75.2258#map=15/39.9106/-75.2258",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9106,
+    "longitude": -75.2258
+  },
+  "telephone": "+1 (215) 365-7233",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200428",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

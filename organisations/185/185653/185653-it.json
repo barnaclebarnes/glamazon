@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185653
+  },
+  "name": "Civica raccolta d'arte di Roseto degli Abruzzi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nazionale, 250",
+    "addressLocality": "Roseto degli Abruzzi",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6723&mlon=14.0184#map=15/42.6723/14.0184",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6723,
+    "longitude": 14.0184
+  },
+  "telephone": "+39 0858930101",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/c2fZX_eC98m84P9oFPx7dLIZJPE=/1000x1000/museums/logos/000/185/653/original/7246d3af14204d62f1e7a3ef7d03223f56ef1a.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100105",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

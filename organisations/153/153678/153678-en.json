@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153678
+  },
+  "name": "OKLAHOMA CITY ZOOLOGICAL AND BOTANICAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2101 NE 50TH",
+    "addressLocality": "OKLAHOMA CITY",
+    "addressRegion": "OK",
+    "addressCountry": "United States",
+    "postalCode": "73111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.5231&mlon=-97.4739#map=15/35.5231/-97.4739",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.5231,
+    "longitude": -97.4739
+  },
+  "url": "http://www.okczoo.com",
+  "telephone": "+1 (405) 425-0277",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404000032",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

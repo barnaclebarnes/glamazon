@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186352
+  },
+  "name": "Sala della rimembranza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Agostino, 8",
+    "addressLocality": "Udine",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0688&mlon=13.2391#map=15/46.0688/13.2391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0688,
+    "longitude": 13.2391
+  },
+  "telephone": "+39 043 2584007",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da lunedì a sabato h 8.00-16.30 (su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Q71MQsL6mWURALRw5VxTPmQp_PI=/1000x1000/museums/logos/000/186/352/original/1567d6deb2bbc28c5324b823a3363dee3af61aa.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100331",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

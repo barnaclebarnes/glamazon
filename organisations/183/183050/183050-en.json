@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183050
+  },
+  "name": "Mithraeum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wertachstraße - Städtischer Friedhof",
+    "addressLocality": "Königsbrunn",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86343"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.274&mlon=10.8746#map=15/48.274/10.8746",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.274,
+    "longitude": 10.8746
+  },
+  "url": "http://www.koenigsbrunn.de/index.php?id=0,88",
+  "telephone": "08231/606260",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183050",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

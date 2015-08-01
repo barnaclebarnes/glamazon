@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189517
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Marco, ",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.434&mlon=12.3382#map=15/45.434/12.3382",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.434,
+    "longitude": 12.3382
+  },
+  "url": "http://torreorologio.visitmuve.it/",
+  "telephone": "+39 0415225205",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jNx6ziRu2m751pS_VEPUAKDR-8Q=/1000x1000/museums/logos/000/189/517/original/f0a9911ad6ed67d3e296d4ed6af2b98586f27f6c.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101043",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

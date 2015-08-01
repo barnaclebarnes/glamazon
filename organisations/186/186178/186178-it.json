@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186178
+  },
+  "name": "Museo del pomodoro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada Giarola, 11",
+    "addressLocality": "Collecchio",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.752&mlon=10.2164#map=15/44.752/10.2164",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.752,
+    "longitude": 10.2164
+  },
+  "url": "http://www.museidelcibo.it/",
+  "telephone": "+39 333 2362839",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal 1 marzo al 8 dicembre: Sabato, Domenica e festivi: 10.00 - 18.00; da lunedì a venerdì: prenotazione per gruppi",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111199",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

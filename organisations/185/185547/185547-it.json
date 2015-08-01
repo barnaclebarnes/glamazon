@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185547
+  },
+  "name": "Chiesa di San Domenico al Corso",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Marriccino, 97",
+    "addressLocality": "Chieti",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3492&mlon=14.1666#map=15/42.3492/14.1666",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3492,
+    "longitude": 14.1666
+  },
+  "telephone": "+39 08714081",
+  "contactPoint": [
+
+  ],
+  "openingHours": "feriale: 9.00-10.30 festivo: 9.00-10.30-11.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BBy9BqhwiHPRHLqi5ITSlj9zYfo=/1000x1000/museums/logos/000/185/547/original/6f3354e28783e64da19485dc7569499b3575174.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20762",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

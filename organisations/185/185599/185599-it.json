@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185599
+  },
+  "name": "Museo civico della civiltà contadina di Pratola Peligna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vecchio Mulino dei Celestini",
+    "addressLocality": "Pratola Peligna",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3507&mlon=13.4262#map=15/42.3507/13.4262",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3507,
+    "longitude": 13.4262
+  },
+  "url": "http://conoscere.abruzzoturismo.it/",
+  "telephone": "+39 0864 274141 - 340 2966309",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mar. Mer. Gio. 9.00-12.00 Ven. Sab. Dom. 16.00-19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110923",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

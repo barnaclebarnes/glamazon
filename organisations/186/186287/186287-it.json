@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186287
+  },
+  "name": "Museo etnografico di Servola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Pane Bianco, 52",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6255&mlon=13.7855#map=15/45.6255/13.7855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6255,
+    "longitude": 13.7855
+  },
+  "telephone": "+39 040 821244- 830792",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e venerdì 15.00/17.00 - per le scuole: previo accordo telefonico",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/x7E4xBUrL4T6FJgdT6s1jxgdYeY=/1000x1000/museums/logos/000/186/287/original/7f4ac74a4bb5fe6ada6dd6fae3b89fc8f1c38ae.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100249",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

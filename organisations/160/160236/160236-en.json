@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160236
+  },
+  "name": "BRANDON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4 GROVE ST",
+    "addressLocality": "BRANDON",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05733"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8008&mlon=-73.0944#map=15/43.8008/-73.0944",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8008,
+    "longitude": -73.0944
+  },
+  "telephone": "+1 (802) 247-6401",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000042",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

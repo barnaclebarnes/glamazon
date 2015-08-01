@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164438
+  },
+  "name": "Victoria University Archives",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7933&mlon=144.896#map=15/-37.7933/144.896",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7933,
+    "longitude": 144.896
+  },
+  "url": "http://www.vu.edu.au",
+  "telephone": "(03) 9919 5093",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "victoria-university-archives",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/victoria-university-archives",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

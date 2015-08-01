@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185771
+  },
+  "name": "Museo Minimo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Barbara Abenante , 35",
+    "addressLocality": "Corigliano Calabro",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5984&mlon=16.5193#map=15/39.5984/16.5193",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5984,
+    "longitude": 16.5193
+  },
+  "telephone": "+39 0983.83209 / 0983.82260 / 0983.891511 (centralino comune)",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GGGpPvmMiCclwogFc0G38w_QEZ8=/1000x1000/museums/logos/000/185/771/original/7f65ea16c652ff767dfe51980532db0b8da929.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108408",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

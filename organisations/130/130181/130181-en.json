@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130181
+  },
+  "name": "NICHE.LA VIDEO ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "453 S SPRING ST",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90013"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0476&mlon=-118.249#map=15/34.0476/-118.249",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0476,
+    "longitude": -118.249
+  },
+  "url": "http://www.niche.la",
+  "telephone": "+1 (213) 290-6290",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/nichelavideoart"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600307",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186708
+  },
+  "name": "Museo nazionale dell'Antartide \"Felice Ippolito\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via al Porto Antico, 23",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4081&mlon=8.92716#map=15/44.4081/8.92716",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4081,
+    "longitude": 8.92716
+  },
+  "url": "http://www.mna.it",
+  "telephone": "+39 0102543690",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100371",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

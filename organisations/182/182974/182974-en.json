@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182974
+  },
+  "name": "kunsthaus kaufbeuren",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Spitaltor 2",
+    "addressLocality": "Kaufbeuren",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87600"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8811&mlon=10.6232#map=15/47.8811/10.6232",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8811,
+    "longitude": 10.6232
+  },
+  "url": "http://www.kunsthaus-kaufbeuren.de",
+  "telephone": "08341/8644",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182974",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182960
+  },
+  "name": "Heimatkundliche Sammlung",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 3",
+    "addressLocality": "Isen",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84424"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2123&mlon=12.057#map=15/48.2123/12.057",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2123,
+    "longitude": 12.057
+  },
+  "url": "http://www.isen.de",
+  "telephone": "08083/5301-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182960",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

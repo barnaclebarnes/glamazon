@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183221
+  },
+  "name": "Das Kartoffelmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Grafinger Straße 2",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "81671"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1256&mlon=11.6056#map=15/48.1256/11.6056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1256,
+    "longitude": 11.6056
+  },
+  "url": "http://www.kartoffelmuseum.de",
+  "telephone": "089/404050",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183221",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

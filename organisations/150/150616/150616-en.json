@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150616
+  },
+  "name": "RUBIN MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "150 WEST 17TH STREET",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10011-5402"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7402&mlon=-73.9976#map=15/40.7402/-73.9976",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7402,
+    "longitude": -73.9976
+  },
+  "url": "http://www.rmanyc.org",
+  "telephone": "+1 (212) 620-5000",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/RubinMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/RubinMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601910",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

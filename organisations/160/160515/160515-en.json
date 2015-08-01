@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160515
+  },
+  "name": "TAZEWELL COUNTY HISTORICAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 E MAIN ST",
+    "addressLocality": "TAZEWELL",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24651"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1159&mlon=-81.52#map=15/37.1159/-81.52",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1159,
+    "longitude": -81.52
+  },
+  "url": "http://www.tazewellhistory.org",
+  "telephone": "+1 (276) 988-4069",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100021",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

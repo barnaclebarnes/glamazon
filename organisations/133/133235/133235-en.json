@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133235
+  },
+  "name": "MUSEUM OF WESTERN COLORADO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 20000",
+    "addressLocality": "GRAND JCT",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81502-5001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0687&mlon=-108.566#map=15/39.0687/-108.566",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0687,
+    "longitude": -108.566
+  },
+  "url": "http://www.wcmuseum.org",
+  "telephone": "+1 (970) 242-0971",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800411",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

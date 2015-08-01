@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187131
+  },
+  "name": "Museo Contadino di Montalto Pavese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Musetti, ?",
+    "addressLocality": "Montalto Pavese",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9788&mlon=9.21152#map=15/44.9788/9.21152",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9788,
+    "longitude": 9.21152
+  },
+  "telephone": "+39 0383870121",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/n5BMaQp3HyPCYQypRrQ3N314zmk=/1000x1000/museums/logos/000/187/131/original/65643517c299b4837f9c37c4dbfd37c97ca7c17.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103767",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163650
+  },
+  "name": "Australian Jazz Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8608&mlon=145.239#map=15/-37.8608/145.239",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8608,
+    "longitude": 145.239
+  },
+  "url": "http://www.vicjazzarchive.org.au/",
+  "telephone": "(03) 9800 5535",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Open Tuesday and Friday 10:00 am to 3:00 pm EST or ESST - or by special appointment.\r\n\r\nMelways 63 C8",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "victorian-jazz-archive",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/victorian-jazz-archive",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

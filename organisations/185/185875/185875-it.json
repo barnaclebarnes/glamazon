@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185875
+  },
+  "name": "Antiquarium di Medma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Medma , ",
+    "addressLocality": "Rosarno",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4856&mlon=15.9851#map=15/38.4856/15.9851",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4856,
+    "longitude": 15.9851
+  },
+  "telephone": "+39 0966 712146",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RxAPaM_Xkz0xPkqMqhKMhqWWONc=/1000x1000/museums/logos/000/185/875/original/4ea46abacb7596299a13ddee206dd0f8c92237d5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108256",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

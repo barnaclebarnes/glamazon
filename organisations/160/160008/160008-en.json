@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160008
+  },
+  "name": "BYU MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "N CAMPUS DR",
+    "addressLocality": "PROVO",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84602"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2489&mlon=-111.652#map=15/40.2489/-111.652",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2489,
+    "longitude": -111.652
+  },
+  "url": "http://moa.byu.edu",
+  "telephone": "+1 (801) 422-8287",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900074",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

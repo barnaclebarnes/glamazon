@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188114
+  },
+  "name": "Museo delle carrozze di Trani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Quercia, 7",
+    "addressLocality": "Trani",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2777&mlon=16.4219#map=15/41.2777/16.4219",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2777,
+    "longitude": 16.4219
+  },
+  "telephone": "+39 0883482641",
+  "contactPoint": [
+
+  ],
+  "openingHours": "inv.9,00 -12,00 e 15,00-17,00 estivo 9,00-12,00 e 15,30-18,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZMBv8SCEglzW-Nc6Nqx0dbPwcuQ=/1000x1000/museums/logos/000/188/114/original/230f8e96703a83c5be7c988cb63ac53dd3489.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105568",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

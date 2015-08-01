@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189244
+  },
+  "name": "Museo dinamico del laterizio e delle terrecotte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzetta San Giovanni, ",
+    "addressLocality": "Marsciano",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9104&mlon=12.3375#map=15/42.9104/12.3375",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9104,
+    "longitude": 12.3375
+  },
+  "url": "http://www.supermuseolaterizio.it",
+  "telephone": "+39 0758741152",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8dLeeHbYFtOQ2B0yE4rsbuQJbQI=/1000x1000/museums/logos/000/189/244/original/1340088279627-.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100718",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

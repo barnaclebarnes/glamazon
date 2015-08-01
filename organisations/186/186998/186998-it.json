@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186998
+  },
+  "name": "Museo etnografico di Premana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 18",
+    "addressLocality": "Premana",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0537&mlon=9.41921#map=15/46.0537/9.41921",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0537,
+    "longitude": 9.41921
+  },
+  "url": "http://www.museo.premana.lc.it",
+  "telephone": "+39 0341818085",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TwI286TiNsKUzEkQoUzA-KhMYhc=/1000x1000/museums/logos/000/186/998/original/1f85f255f9673e8ac5c128af5c58bce908e8eea.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103660",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

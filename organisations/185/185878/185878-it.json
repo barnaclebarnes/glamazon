@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185878
+  },
+  "name": "Antiquarium di Filadelfia (Italia)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pasquale Galluppi , ",
+    "addressLocality": "Filadelfia",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7852&mlon=16.2885#map=15/38.7852/16.2885",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7852,
+    "longitude": 16.2885
+  },
+  "telephone": "+39 968724058",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6VkMuXnClzXdth1LTe4AGx9_low=/1000x1000/museums/logos/000/185/878/original/44b92730e0d5891a16059c5c39edf47bea712d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108266",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

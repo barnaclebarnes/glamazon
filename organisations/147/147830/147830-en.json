@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147830
+  },
+  "name": "MORRIS MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6 NORMANDY HEIGHTS RD",
+    "addressLocality": "MORRISTOWN",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "07960-4612"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7957&mlon=-74.4477#map=15/40.7957/-74.4477",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7957,
+    "longitude": -74.4477
+  },
+  "url": "http://www.morrismuseum.org",
+  "telephone": "+1 (973) 971-3700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400198",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

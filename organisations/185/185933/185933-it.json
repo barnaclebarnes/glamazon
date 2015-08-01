@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185933
+  },
+  "name": "Museo civico di Summonte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello snc, ",
+    "addressLocality": "Summonte",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9503&mlon=14.7463#map=15/40.9503/14.7463",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9503,
+    "longitude": 14.7463
+  },
+  "url": "http://comune.summonte.av.it",
+  "telephone": "+39 0825 691191",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Sm6sMqOqNWoP6CElJso74orxQ-I=/1000x1000/museums/logos/000/185/933/original/3e8ff936354fc5925a1247f482a13e0f8f2c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107092",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

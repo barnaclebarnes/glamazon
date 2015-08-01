@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185959
+  },
+  "name": "Museo diocesano di Aversa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo, ",
+    "addressLocality": "Aversa",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9766&mlon=14.2027#map=15/40.9766/14.2027",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9766,
+    "longitude": 14.2027
+  },
+  "url": "http://www.diocesiaversa.it",
+  "telephone": "+39 081 5037665; 081 8901764",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107076",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

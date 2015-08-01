@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149724
+  },
+  "name": "JEWISH MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1109 5TH AVE",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10128-0118"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7855&mlon=-73.9575#map=15/40.7855/-73.9575",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7855,
+    "longitude": -73.9575
+  },
+  "url": "http://www.thejewishmuseum.org",
+  "telephone": "+1 (212) 423-3200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601018",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

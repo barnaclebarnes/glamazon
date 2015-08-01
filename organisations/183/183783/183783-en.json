@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183783
+  },
+  "name": "Uffenheimer Gollachgaumuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßplatz 6",
+    "addressLocality": "Uffenheim",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97215"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5434&mlon=10.2285#map=15/49.5434/10.2285",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5434,
+    "longitude": 10.2285
+  },
+  "url": "http://www.gollachgaumuseum.de/",
+  "telephone": "09842/348",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183783",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

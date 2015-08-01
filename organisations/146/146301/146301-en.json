@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146301
+  },
+  "name": "MAGIC HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "516 S KIRKWOOD RD",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63122-5926"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5735&mlon=-90.4065#map=15/38.5735/-90.4065",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5735,
+    "longitude": -90.4065
+  },
+  "url": "http://www.magichouse.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900730",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

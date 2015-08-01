@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142431
+  },
+  "name": "NORTHFIELD HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "408 DIVISION STREET",
+    "addressLocality": "NORTHFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01360"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6966&mlon=-72.4551#map=15/42.6966/-72.4551",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6966,
+    "longitude": -72.4551
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500061",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

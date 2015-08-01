@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185550
+  },
+  "name": "Centro di documentazione permanente sulle case di terra cruda",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Francesco Paolo Michetti, 1",
+    "addressLocality": "Casalincontrada",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.309&mlon=14.0624#map=15/42.309/14.0624",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.309,
+    "longitude": 14.0624
+  },
+  "url": "http://www.casediterra.it",
+  "telephone": "+39 08713 70975",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuita"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100041",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

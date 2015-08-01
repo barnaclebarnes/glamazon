@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163786
+  },
+  "name": "City of Whittlesea",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.6446&mlon=145.069#map=15/-37.6446/145.069",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.6446,
+    "longitude": 145.069
+  },
+  "url": "http://www.whittlesea.vic.gov.au",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8.30am - 5pm Monday to Friday except public holidays. Appointments are required to view any of our civic history items stored at the Civic Centre",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "city-of-whittlesea",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/city-of-whittlesea",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163973
+  },
+  "name": "Jewish Holocaust Centre",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.4713,
+    "longitude": 144.785
+  },
+  "url": "http://www.jhc.org.au",
+  "telephone": "03 9528 1985",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mon - Thur 10 - 4, Fri 10 - 2; Sun 12 - 4",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "jewish-holocaust-museum-",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/jewish-holocaust-museum-",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

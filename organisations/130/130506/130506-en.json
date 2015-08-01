@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130506
+  },
+  "name": "APEXMUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1535 LOMA AVE",
+    "addressLocality": "LONG BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90804"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7865&mlon=-118.15#map=15/33.7865/-118.15",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7865,
+    "longitude": -118.15
+  },
+  "url": "http://www.apexmuseum.org",
+  "telephone": "+1 (562) 597-7788",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600632",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

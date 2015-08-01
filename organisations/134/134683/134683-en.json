@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134683
+  },
+  "name": "ART MUSEUM AT FIU",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "112 UNIVERSITY PARK",
+    "addressLocality": "MIAMI",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33199"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.744&mlon=-80.2593#map=15/25.744/-80.2593",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.744,
+    "longitude": -80.2593
+  },
+  "url": "http://www.frostartmuseum.org",
+  "telephone": "+1 (305) 348-2890",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200237",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

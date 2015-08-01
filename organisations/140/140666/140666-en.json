@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140666
+  },
+  "name": "KENTUCKY LIBRARY AND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1906 COLLEGE HEIGHTS BLVD. # 11092",
+    "addressLocality": "BOWLING GREEN",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "42101-1092"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.989&mlon=-86.4526#map=15/36.989/-86.4526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.989,
+    "longitude": -86.4526
+  },
+  "url": "http://www.wku.edu/library/kylm",
+  "telephone": "+1 (270) 745-6261",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100423",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

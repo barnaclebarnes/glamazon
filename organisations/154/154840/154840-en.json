@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154840
+  },
+  "name": "SCHRIVER HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "309 BALTIMORE ST",
+    "addressLocality": "GETTYSBURG",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17325"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8266&mlon=-77.231#map=15/39.8266/-77.231",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8266,
+    "longitude": -77.231
+  },
+  "url": "http://www.shriverhouse.org",
+  "telephone": "+1 (717) 337-2800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200034",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

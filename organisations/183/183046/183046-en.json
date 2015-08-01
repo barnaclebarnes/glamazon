@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183046
+  },
+  "name": "Mühlenmuseum Katzbrui",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Katzbrui 7",
+    "addressLocality": "Apfeltrach",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87742"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9652&mlon=10.4511#map=15/47.9652/10.4511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9652,
+    "longitude": 10.4511
+  },
+  "url": "http://www.katzbruimuehle.de/das-muehlenmuseum.html",
+  "telephone": "08269/575",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183046",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

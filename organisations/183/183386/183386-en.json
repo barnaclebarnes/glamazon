@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183386
+  },
+  "name": "Museum Industriekultur – Motorradmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Äußere Sulzbacher Straße 62",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90491"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4612&mlon=11.1112#map=15/49.4612/11.1112",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4612,
+    "longitude": 11.1112
+  },
+  "url": "http://museen.nuernberg.de/industriekultur/themen/zweiraeder.html",
+  "telephone": "0911/231-3875",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183386",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

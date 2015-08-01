@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144169
+  },
+  "name": "PRESERVATION DETROIT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4735 CASS AVE",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48201-1201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3542&mlon=-83.0657#map=15/42.3542/-83.0657",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3542,
+    "longitude": -83.0657
+  },
+  "url": "http://preservationdetroit.org",
+  "telephone": "+1 (313) 577-3559",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600706",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

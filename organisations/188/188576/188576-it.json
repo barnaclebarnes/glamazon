@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188576
+  },
+  "name": "Molino Faini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "di Grezzano, 70",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9544&mlon=11.3847#map=15/43.9544/11.3847",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9544,
+    "longitude": 11.3847
+  },
+  "telephone": "+39 0558492580",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qhssidHexkqOzMUiehFFIIcQDU4=/1000x1000/museums/logos/000/188/576/original/321c1fce6ca5bc3568be3196640139f77db5099.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110335",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144491
+  },
+  "name": "AMERICAN FARM AND GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9366 STONY CREEK ROAD",
+    "addressLocality": "YPSILANTI",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48197-9365"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1511&mlon=-83.6533#map=15/42.1511/-83.6533",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1511,
+    "longitude": -83.6533
+  },
+  "url": "http://www.theamericanfarmandgarden.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402601028",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137514
+  },
+  "name": "NATIONAL MUSEUM OF MEXICAN ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1852 W 19TH ST",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60608-2706"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8559&mlon=-87.673#map=15/41.8559/-87.673",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8559,
+    "longitude": -87.673
+  },
+  "url": "http://www.nationalmuseumofmexicanart.org",
+  "telephone": "+1 (312) 738-1503",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/60979969599"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700659",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

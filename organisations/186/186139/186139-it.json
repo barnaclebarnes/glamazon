@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186139
+  },
+  "name": "Museo Mostra della Resistenza e del Novecento",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Mille, 26, ",
+    "addressLocality": "Imola",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3519&mlon=11.7186#map=15/44.3519/11.7186",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3519,
+    "longitude": 11.7186
+  },
+  "telephone": "+39 054224422",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0y6o-RvtxvF6gSFNYK8ongaQOwg=/1000x1000/museums/logos/000/186/139/original/9eaf813580ac91f08c8c67ae70c69d8683766bad.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101995",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

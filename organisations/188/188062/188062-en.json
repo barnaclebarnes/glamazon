@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188062
+  },
+  "name": "The Nicolaiano Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada Vanese, 3",
+    "addressLocality": "Bari",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1312&mlon=16.8703#map=15/41.1312/16.8703",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1312,
+    "longitude": 16.8703
+  },
+  "url": "http://www.basilicasannicola.it/museonicolaiano/it/home",
+  "telephone": "+39 080/5231429",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xXFX5SdWYvDwBC8M9dXNQ7fq_Is=/1000x1000/museums/logos/000/188/062/original/8649de862af51c16d21045ff6cb609ecdc4fc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107577",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

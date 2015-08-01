@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131643
+  },
+  "name": "MUSEUM OF NORTHERN CALIFORNIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "39 PARKSIDE COURT",
+    "addressLocality": "CHICO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95928-9600"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7634&mlon=-121.789#map=15/39.7634/-121.789",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7634,
+    "longitude": -121.789
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601769",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

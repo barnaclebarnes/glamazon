@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149461
+  },
+  "name": "SCULPTURECENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "44-19 PURVES ST",
+    "addressLocality": "LONG ISLAND CITY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7468&mlon=-73.941#map=15/40.7468/-73.941",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7468,
+    "longitude": -73.941
+  },
+  "url": "http://www.sculpture-center.org",
+  "telephone": "+1 (718) 361-1750",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/sculpturecenternyc"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/sculpturecenter"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600755",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

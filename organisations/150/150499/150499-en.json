@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150499
+  },
+  "name": "IROQUOIS INDIAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 7",
+    "addressLocality": "HOWES CAVE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12092-0007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7107&mlon=-74.3837#map=15/42.7107/-74.3837",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7107,
+    "longitude": -74.3837
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/119989171344952"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601793",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

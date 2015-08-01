@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183098
+  },
+  "name": "Bauernhaus-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kramerstraße 4",
+    "addressLocality": "Lindberg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94227"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0352&mlon=13.2521#map=15/49.0352/13.2521",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0352,
+    "longitude": 13.2521
+  },
+  "telephone": "09922/1293",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183098",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

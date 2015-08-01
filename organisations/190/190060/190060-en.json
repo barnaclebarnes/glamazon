@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190060
+  },
+  "name": "MUSEUM OF INTERNATIONAL FOLK ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2087",
+    "addressLocality": "SANTA FE",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87504-2087"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.6258&mlon=-96.4966#map=15/32.6258/-96.4966",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.6258,
+    "longitude": -96.4966
+  },
+  "url": "http://www.internationalfolkart.org/",
+  "telephone": "+1 (505) 476-1200",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/InternationalFolkArt"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500300",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188522
+  },
+  "name": "Museo del Santuario di San Vito Lo Capo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santuario, ",
+    "addressLocality": "San Vito Lo Capo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1759&mlon=12.7336#map=15/38.1759/12.7336",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1759,
+    "longitude": 12.7336
+  },
+  "url": "http://santuariodisanvitolocapo.it",
+  "telephone": "+39 0923972327",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 18,00-20,00 / 21,30-23,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wfDTPZZ5wmqyiuZTa-6J3GUKU4Y=/1000x1000/museums/logos/000/188/522/original/bed2a929e186df32c66a83f14bac1eff78d47.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101388",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

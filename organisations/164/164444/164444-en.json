@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164444
+  },
+  "name": "Wangaratta Art Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.3557&mlon=146.322#map=15/-36.3557/146.322",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.3557,
+    "longitude": 146.322
+  },
+  "url": "http://www.wangaratta.vic.gov.au",
+  "telephone": "03 57 220865",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mon-Tues 12-5pm; Wed-fri 10am-5pm; Sat-Sun 1-4pm.",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "wangaratta-art-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/wangaratta-art-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

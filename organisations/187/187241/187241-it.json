@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187241
+  },
+  "name": "Museo internazionale dell’etichetta del vino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Leopardi, 58",
+    "addressLocality": "Cupramontana",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4454&mlon=13.1171#map=15/43.4454/13.1171",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4454,
+    "longitude": 13.1171
+  },
+  "url": "http://www.cultura.marche.it/CMDirector.aspx?id=1820",
+  "telephone": "+39 0731780199",
+  "contactPoint": [
+
+  ],
+  "openingHours": "25-28 marzo: 15-19 29 marzo-30 giugno e 1 settembre-31 dicembre: sabato e domenica 15-19 1 luglio-31 agosto: venerdì, sabato e domenica 17-20 sabato anche 21-23",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/oCVo29rzNmYzjE4kKEE0ovf9Arg=/1000x1000/museums/logos/000/187/241/original/bad3265edf65368566b5c1de24282e6869327da.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104047",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

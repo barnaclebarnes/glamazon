@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144895
+  },
+  "name": "ARTS MIDWEST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2908 HENNEPIN AVE",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55408-1987"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9491&mlon=-93.2983#map=15/44.9491/-93.2983",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9491,
+    "longitude": -93.2983
+  },
+  "url": "http://www.artsmidwest.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700335",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

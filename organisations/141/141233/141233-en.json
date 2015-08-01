@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141233
+  },
+  "name": "NORTHERN MAINE MUSEUM OF SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "181 MAIN ST.",
+    "addressLocality": "PRESQUE ISLE",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04769"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6723&mlon=-68.0151#map=15/46.6723/-68.0151",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6723,
+    "longitude": -68.0151
+  },
+  "url": "http://www.umpi.maine.edu/info/nmms/museum.htm",
+  "telephone": "+1 (207) 768-9747",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300082",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

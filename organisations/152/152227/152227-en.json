@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152227
+  },
+  "name": "WARTHER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "331 KARL AVE",
+    "addressLocality": "DOVER",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44622"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5257&mlon=-81.4868#map=15/40.5257/-81.4868",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5257,
+    "longitude": -81.4868
+  },
+  "url": "http://www.warthers.com/index.htm",
+  "telephone": "+1 (330) 343-7513",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900004",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

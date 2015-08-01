@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142569
+  },
+  "name": "BOSTON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "55 COURT ST",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3591&mlon=-71.059#map=15/42.3591/-71.059",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3591,
+    "longitude": -71.059
+  },
+  "url": "http://information@mos.org",
+  "telephone": "+1 (617) 723-2500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500199",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

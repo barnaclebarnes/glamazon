@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160528
+  },
+  "name": "SULLY HISTORIC SITE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3650 HISTORIC SULLY WAY",
+    "addressLocality": "CHANTILLY",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "20151"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9073&mlon=-77.4301#map=15/38.9073/-77.4301",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9073,
+    "longitude": -77.4301
+  },
+  "url": "http://www.co.fairfax.va.us/parks/sully",
+  "telephone": "+1 (703) 437-1794",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100034",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

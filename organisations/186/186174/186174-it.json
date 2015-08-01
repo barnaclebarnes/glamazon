@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186174
+  },
+  "name": "Museo muratoriano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pomposa, 1, ",
+    "addressLocality": "Modena",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6491&mlon=10.9247#map=15/44.6491/10.9247",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6491,
+    "longitude": 10.9247
+  },
+  "telephone": "+39 059241104",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/taApfRPONsGi0hlsd2YngphAtK4=/1000x1000/museums/logos/000/186/174/original/35e22081d4cc889facd0585dc995704abba05c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102113",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

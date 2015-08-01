@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186364
+  },
+  "name": "Museo dell'arte della lana di Arpino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Dell'aquila Romana, SNC",
+    "addressLocality": "Arpino",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6484&mlon=13.6099#map=15/41.6484/13.6099",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6484,
+    "longitude": 13.6099
+  },
+  "url": "http://www.comune.arpino.fr.it",
+  "telephone": "+39 0776649241",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedi al sabato dalle 9,30 alle 12,30 e dalle 16,00 alle 19,00. Festivi solo su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Quj7t0OpIC3AONYbgdoAMkUNE1w=/1000x1000/museums/logos/000/186/364/original/716482b5d18ac6f3e09d16dc3fd745aa498b1c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101401",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

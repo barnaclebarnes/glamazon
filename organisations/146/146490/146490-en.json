@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146490
+  },
+  "name": "ROCKY MOUNTAIN RANGERS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 12",
+    "addressLocality": "NOXON",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59853-0012"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0077&mlon=-115.79#map=15/48.0077/-115.79",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0077,
+    "longitude": -115.79
+  },
+  "url": "http://www.rockymountainrangers.com/",
+  "telephone": "+1 (406) 827-5678",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000133",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

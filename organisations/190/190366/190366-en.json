@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190366
+  },
+  "name": "CITY OF MANSFIELD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1200 EAST BROAD STREET",
+    "addressLocality": "MANSFIELD",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76063"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.3704&mlon=-99.3685#map=15/47.3704/-99.3685",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.3704,
+    "longitude": -99.3685
+  },
+  "url": "http://www.mansfield-tx.gov",
+  "telephone": "+1 (817) 804-5789",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404802041",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

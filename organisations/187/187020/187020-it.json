@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187020
+  },
+  "name": "Galleria arte e arti della Camera di commercio di Mantova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Calvi, 28",
+    "addressLocality": "Mantova",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1573&mlon=10.7942#map=15/45.1573/10.7942",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1573,
+    "longitude": 10.7942
+  },
+  "url": "http://www.mn.camcom.it",
+  "telephone": "+39 03762341",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì dalle 9.00/12.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lYcGCtI55heCtudeqbJhxY12YiU=/1000x1000/museums/logos/000/187/020/original/6e45ae4855a9257eb86071c4e9e766f0372343.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103743",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

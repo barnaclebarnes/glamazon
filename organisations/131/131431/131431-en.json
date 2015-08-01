@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131431
+  },
+  "name": "HOLLYWOOD HISTORIC TRUST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7018 HOLLYWOOD BLVD",
+    "addressLocality": "HOLLYWOOD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90028-6000"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1015&mlon=-118.342#map=15/34.1015/-118.342",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1015,
+    "longitude": -118.342
+  },
+  "telephone": "+1 (323) 469-2805",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qSAyvBgBU-oXIFnJ-THWtC3HEtg=/1000x1000/museums/logos/000/131/431/original/Hollywood_Walk_of_Fame.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601557",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

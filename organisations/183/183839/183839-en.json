@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183839
+  },
+  "name": "Tachauer Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schulgasse 3 a",
+    "addressLocality": "Weiden",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92637"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6757&mlon=12.1624#map=15/49.6757/12.1624",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6757,
+    "longitude": 12.1624
+  },
+  "url": "http://www.tachau.de",
+  "telephone": "0961/814102",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183839",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

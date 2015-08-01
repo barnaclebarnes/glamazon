@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187158
+  },
+  "name": "Museo storico Giuseppe Beccari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gramsci, 1 Bis, ?",
+    "addressLocality": "Voghera",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9899&mlon=9.00606#map=15/44.9899/9.00606",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9899,
+    "longitude": 9.00606
+  },
+  "url": "http://www.comune.voghera.pv.it",
+  "telephone": "+39 038343636",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bBfEP6yqjD-lvHqYE_pL_Wc8Po0=/1000x1000/museums/logos/000/187/158/original/9237f2208b351fdf733461177bede32cfac9f34f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103901",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

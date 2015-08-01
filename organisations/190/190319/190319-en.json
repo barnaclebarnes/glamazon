@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190319
+  },
+  "name": "GETTYSBURG NATIONAL MILITARY PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1195 BALTIMORE PIKE",
+    "addressLocality": "GETTYSBURG",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17325"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8128&mlon=-77.222#map=15/39.8128/-77.222",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8128,
+    "longitude": -77.222
+  },
+  "telephone": "+1 (717) 334-1124",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201727",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

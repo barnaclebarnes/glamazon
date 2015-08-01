@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132457
+  },
+  "name": "SANTA BARBARA MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1130 STATE STREET",
+    "addressLocality": "SANTA BARBARA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93101-2713"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.4232&mlon=-119.704#map=15/34.4232/-119.704",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.4232,
+    "longitude": -119.704
+  },
+  "url": "http://www.sbma.net",
+  "telephone": "+1 (805) 963-4364",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/sbmuseart"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/sbmuseart"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602583",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

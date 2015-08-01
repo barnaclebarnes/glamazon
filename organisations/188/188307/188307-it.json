@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188307
+  },
+  "name": "Museo civico \"Don Giovanni Guiso\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Musio, SNC",
+    "addressLocality": "Orosei",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.381&mlon=9.69391#map=15/40.381/9.69391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.381,
+    "longitude": 9.69391
+  },
+  "url": "http://www.musei.confartigianato.it/Museo.asp?id=281",
+  "telephone": "+39 0784 996951",
+  "contactPoint": [
+
+  ],
+  "openingHours": "inv. sab.-dom. dalle 16,00 alle 19,00 est. – tutti i gg. dalle 10,00 alle 12,00 e dalle 19,00 alle 22,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wWe7HGKYDlqL-lxcibFyxGWbF-E=/1000x1000/museums/logos/000/188/307/original/8bbd45a62a90ba99b2b77057fb718db73dcf208c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103382",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

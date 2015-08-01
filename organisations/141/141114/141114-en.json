@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141114
+  },
+  "name": "CITY OF BATON ROUGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7950 INDEPENDENCE BLVD",
+    "addressLocality": "BATON ROUGE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70806-6414"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4455&mlon=-91.104#map=15/30.4455/-91.104",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4455,
+    "longitude": -91.104
+  },
+  "telephone": "+1 (225) 928-2270",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200397",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188257
+  },
+  "name": "Museo del grano di Ortacesus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Kennedy, 25",
+    "addressLocality": "Ortacesus",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5393&mlon=9.08449#map=15/39.5393/9.08449",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5393,
+    "longitude": 9.08449
+  },
+  "url": "http://www.sucorongiu.it",
+  "telephone": "+39 0709819027",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,00 - 13,00 e 16,00 - 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2.00€; 3,00€ laboratori"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qSrBcTRj1Rx5Mgo7-d8Ggv1HBlg=/1000x1000/museums/logos/000/188/257/original/18782017596770de85ba69bd66dcae36973f3a9b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103315",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

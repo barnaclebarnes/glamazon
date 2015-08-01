@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183470
+  },
+  "name": "Museum im Bierlinghaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorfstraße 46",
+    "addressLocality": "Bad Bayersoien",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82435"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6908&mlon=10.9949#map=15/47.6908/10.9949",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6908,
+    "longitude": 10.9949
+  },
+  "url": "http://www.ammergauer-alpen.de/de/bad-bayersoien/familiengeschichte-museum-im-bierlinghaus.html",
+  "telephone": "08845/703112",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183470",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130803
+  },
+  "name": "REDLANDS AREA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 8775",
+    "addressLocality": "REDLANDS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92375"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0594&mlon=-117.196#map=15/34.0594/-117.196",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0594,
+    "longitude": -117.196
+  },
+  "url": "http://rahs.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600929",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186565
+  },
+  "name": "Museo di anatomia comparata di Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Alfonso Borelli, 50",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9067&mlon=12.5161#map=15/41.9067/12.5161",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9067,
+    "longitude": 12.5161
+  },
+  "url": "http://dipbau.bio.uniroma1.it/web/musei/museoac/index.htm",
+  "telephone": "+39 06 49918008",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e giovedì 15,30/18,30, venerdì 09,30/12,30, salvo i periodi di festività universitarie",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vBPTIpFG7iViGi_HcEFTxL-wa-w=/1000x1000/museums/logos/000/186/565/original/4c915ab526214e6d4959dfa703f58e44d6485f.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101560",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186425
+  },
+  "name": "Antiquarium comunale di Sezze",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Bruno Buozzi, 1",
+    "addressLocality": "Sezze",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4984&mlon=13.0582#map=15/41.4984/13.0582",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4984,
+    "longitude": 13.0582
+  },
+  "url": "http://www.agora.stm.it.sezze",
+  "telephone": "+39 077388179",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a Sabato 8.30-19.00 domenica 8.30-13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eHadwBk9mSWsrxuVE0jn4lB5VS4=/1000x1000/museums/logos/000/186/425/original/9dc65ec8829562b5ce8d78712303a57e96c6d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105731",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

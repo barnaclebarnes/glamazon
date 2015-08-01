@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187117
+  },
+  "name": "Museo e Tesoro del Duomo di Monza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Canonica, 4",
+    "addressLocality": "Monza",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5837&mlon=9.27653#map=15/45.5837/9.27653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5837,
+    "longitude": 9.27653
+  },
+  "url": "http://www.museoduomomonza.it",
+  "telephone": "+39 039326383",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xPuGuevBGNyMUeQpwpH7UWeK0uI=/1000x1000/museums/logos/000/187/117/original/b54d37d1ab7911b6ea685ff7fd57d489dbd5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103726",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

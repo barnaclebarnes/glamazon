@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182706
+  },
+  "name": "Botanischer Garten der Universität Erlangen-Nürnberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Loschgestraße 3",
+    "addressLocality": "Erlangen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91054"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.6&mlon=11.0071#map=15/49.6/11.0071",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.6,
+    "longitude": 11.0071
+  },
+  "url": "http://www.botanischer-garten.uni-erlangen.de",
+  "telephone": "09131/8522-969",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182706",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

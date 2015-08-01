@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142908
+  },
+  "name": "FRIENDS OF SAXONVILLE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3236",
+    "addressLocality": "FRAMINGHAM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01705-3236"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3284&mlon=-71.4032#map=15/42.3284/-71.4032",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3284,
+    "longitude": -71.4032
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500538",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

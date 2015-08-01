@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189342
+  },
+  "name": "Museo della civiltà contadina di Montecchio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Ancajani, ",
+    "addressLocality": "Montecchio",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.664&mlon=12.2881#map=15/42.664/12.2881",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.664,
+    "longitude": 12.2881
+  },
+  "url": "http://www.archivi.regioneumbria.eu/default.aspx?IDCont=202920",
+  "telephone": "+39 0744 951559",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica: 10.00 - 12.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100778",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

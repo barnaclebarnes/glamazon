@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152225
+  },
+  "name": "WEXNER CENTER FOR ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1871 N HIGH ST",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43210"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0005&mlon=-83.0082#map=15/40.0005/-83.0082",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0005,
+    "longitude": -83.0082
+  },
+  "url": "http://www.wexarts.org",
+  "telephone": "+1 (614) 292-3535",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

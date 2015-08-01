@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164152
+  },
+  "name": "National Wool Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.1454&mlon=144.361#map=15/-38.1454/144.361",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.1454,
+    "longitude": 144.361
+  },
+  "url": "http://www.geelongaustralia.com.au/nwm/",
+  "telephone": "03 5272 4701",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Monday-Friday 9:30am-5pm. Saturday and Sunday 10am-5pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "national-wool-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/national-wool-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

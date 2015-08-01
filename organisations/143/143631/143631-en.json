@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143631
+  },
+  "name": "DETROIT GARDEN CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1900 E JEFFERSON AVE",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48207"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3359&mlon=-83.0279#map=15/42.3359/-83.0279",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3359,
+    "longitude": -83.0279
+  },
+  "url": "http://detroitgardencenter.org",
+  "telephone": "+1 (313) 259-6363",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600168",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

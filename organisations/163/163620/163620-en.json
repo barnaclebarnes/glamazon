@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163620
+  },
+  "name": "Andrew Ross Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7015&mlon=145.204#map=15/-37.7015/145.204",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7015,
+    "longitude": 145.204
+  },
+  "url": "http://www.andrewrossmuseum.org.au/",
+  "telephone": " 03 9712 0801",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Thurdays\t9:15am - 12pm\r\nSundays (2nd/4th)\t2:00pm - 4pm\r\n\r\nor call 03 9712 0801 to make an appointment",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "andrew-ross-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/andrew-ross-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

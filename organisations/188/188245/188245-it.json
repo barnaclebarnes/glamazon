@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188245
+  },
+  "name": "Museo di storia naturale Aquilegia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Garibaldi, 1",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2157&mlon=9.11715#map=15/39.2157/9.11715",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2157,
+    "longitude": 9.11715
+  },
+  "url": "http://www.museoaquilegia.org/",
+  "telephone": "+39 070 662220",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BDUyNm4YO6fnNA-8NSDZsPEKlxA=/1000x1000/museums/logos/000/188/245/original/e4ba4f5ead3cdea2acb3995a7ad154861126342.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103306",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

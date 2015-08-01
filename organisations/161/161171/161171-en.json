@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161171
+  },
+  "name": "HISTORIC FARMVILLE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 546",
+    "addressLocality": "FARMVILLE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3027&mlon=-78.4018#map=15/37.3027/-78.4018",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3027,
+    "longitude": -78.4018
+  },
+  "url": "http://fpehs.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100677",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

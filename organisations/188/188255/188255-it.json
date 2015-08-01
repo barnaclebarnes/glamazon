@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188255
+  },
+  "name": "Museo di fisica di Sardegna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada Provinciale Sestu, ",
+    "addressLocality": "Monserrato",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.266&mlon=9.13398#map=15/39.266/9.13398",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.266,
+    "longitude": 9.13398
+  },
+  "url": "http://www.museodifisica.it/",
+  "telephone": "+39 070 6754775",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Xs1roZOExfVjMZTSF5-3TwxFrE0=/1000x1000/museums/logos/000/188/255/original/fc10ed934ea136783769c710e9afe6b3f0891a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103328",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

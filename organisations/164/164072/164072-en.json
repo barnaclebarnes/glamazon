@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164072
+  },
+  "name": "Melbourne Tramway Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.3495&mlon=144.967#map=15/-37.3495/144.967",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.3495,
+    "longitude": 144.967
+  },
+  "url": "http://www.tramway.org.au",
+  "contactPoint": [
+
+  ],
+  "openingHours": "11:00am to 4:00pm - Sundays",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "melbourne-tramway-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/melbourne-tramway-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

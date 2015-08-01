@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186473
+  },
+  "name": "Museo della montagna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Verdi, SNC",
+    "addressLocality": "Cervara di Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9878&mlon=13.0677#map=15/41.9878/13.0677",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9878,
+    "longitude": 13.0677
+  },
+  "url": "http://www.comune.cervaradiroma.rm.it",
+  "telephone": "+39 0774828275",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/I0LVXk8XTNbB7VxrewYOEXaPCq4=/1000x1000/museums/logos/000/186/473/original/5e87dd3321628a8d5c3e20b4923ffe5b4613846.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103949",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

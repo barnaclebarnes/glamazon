@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183513
+  },
+  "name": "Badhaus-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorschstraße 2",
+    "addressLocality": "Pommelsbrunn",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91224"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5023&mlon=11.5141#map=15/49.5023/11.5141",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5023,
+    "longitude": 11.5141
+  },
+  "url": "http://www.mein-pommelsbrunn.de/index.php?bereich=verein_id&id=1&menu=1&inline=1&auswahl=0&layout=124",
+  "telephone": "09154/1207",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183513",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

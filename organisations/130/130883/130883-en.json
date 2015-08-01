@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130883
+  },
+  "name": "NORTH PARK HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2226 DWIGHT STREET",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92104-4016"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7438&mlon=-117.141#map=15/32.7438/-117.141",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7438,
+    "longitude": -117.141
+  },
+  "url": "http://northparkhistory.org/",
+  "telephone": "+1 (619) 294-8990",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/North_Park,_San_Diego",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601009",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

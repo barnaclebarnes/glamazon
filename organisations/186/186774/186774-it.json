@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186774
+  },
+  "name": "CAMEC - Centro d'arte moderna e contemporanea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cesare Battisti, 1",
+    "addressLocality": "La Spezia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1035&mlon=9.81978#map=15/44.1035/9.81978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1035,
+    "longitude": 9.81978
+  },
+  "url": "http://www.comune.sp.it/citta/camec/camec.html",
+  "telephone": "+39 0187734593",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100438",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

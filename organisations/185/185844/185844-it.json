@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185844
+  },
+  "name": "Pinacoteca arte contemporanea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Enrico Fermi, 10",
+    "addressLocality": "Bivongi",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4811&mlon=16.4511#map=15/38.4811/16.4511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4811,
+    "longitude": 16.4511
+  },
+  "telephone": "+39 0964 734705",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mTXX2I9Xcj0P_gNibV0EOsB6N84=/1000x1000/museums/logos/000/185/844/original/5768efaa52f66fb3319526e3416694118d6526e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108418",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

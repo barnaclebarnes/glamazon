@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129470
+  },
+  "name": "ARIZONA MUSEUM OF NATURAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "53 N MACDONALD",
+    "addressLocality": "MESA",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85201-7325"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4167&mlon=-111.834#map=15/33.4167/-111.834",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4167,
+    "longitude": -111.834
+  },
+  "url": "http://www.azmnh.org",
+  "telephone": "+1 (480) 644-2230",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400372",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

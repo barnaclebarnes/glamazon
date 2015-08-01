@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190067
+  },
+  "name": "CARLSBAD CAVERNS NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3225 NATIONAL PARKS HIGHWAY",
+    "addressLocality": "CARLSBAD",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "88220"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.3849&mlon=-104.223#map=15/32.3849/-104.223",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.3849,
+    "longitude": -104.223
+  },
+  "telephone": "+1 (575) 234-6717",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500308",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

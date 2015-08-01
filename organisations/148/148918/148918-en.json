@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148918
+  },
+  "name": "JAZZ MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "104 E 126TH ST",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10035"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8055&mlon=-73.9379#map=15/40.8055/-73.9379",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8055,
+    "longitude": -73.9379
+  },
+  "url": "http://www.jazzmuseuminharlem.org",
+  "telephone": "+1 (212) 348-8300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600212",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

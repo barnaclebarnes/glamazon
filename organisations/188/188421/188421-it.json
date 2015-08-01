@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188421
+  },
+  "name": "Museo archeologico di Aidone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Torres Truppia, ",
+    "addressLocality": "Aidone",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4175&mlon=14.4442#map=15/37.4175/14.4442",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4175,
+    "longitude": 14.4442
+  },
+  "url": "http://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei/pagina_musei.asp?ID=22&IdSito=40",
+  "telephone": "+39 0935 87307",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni dalle 9,00 alle 19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/n_JmkXZsXw7HNsCFm3tq7nELQgs=/1000x1000/museums/logos/000/188/421/original/9f2199c948e9e839fef5ab52851f12bf7a8908f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105673",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

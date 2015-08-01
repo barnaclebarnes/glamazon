@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161118
+  },
+  "name": "ORANGE COUNTY HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "130 CAROLINE ST",
+    "addressLocality": "ORANGE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22960"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2433&mlon=-78.1134#map=15/38.2433/-78.1134",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2433,
+    "longitude": -78.1134
+  },
+  "url": "http://orangecovahist.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100624",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

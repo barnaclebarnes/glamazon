@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150017
+  },
+  "name": "ARNOT ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "235 LAKE ST",
+    "addressLocality": "ELMIRA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14901-3118"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0909&mlon=-76.8023#map=15/42.0909/-76.8023",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0909,
+    "longitude": -76.8023
+  },
+  "url": "http://www.arnotartmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601311",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

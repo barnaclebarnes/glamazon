@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129101
+  },
+  "name": "UNIVERSITY OF ARIZONA MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1031 N OLIVE RD",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85719"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2343&mlon=-110.955#map=15/32.2343/-110.955",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2343,
+    "longitude": -110.955
+  },
+  "url": "http://artmuseum.arizona.edu",
+  "telephone": "+1 (520) 621-7567",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

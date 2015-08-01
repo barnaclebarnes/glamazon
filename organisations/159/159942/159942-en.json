@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159942
+  },
+  "name": "WOODBURY ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "575 E UNIVERSITY PKWY",
+    "addressLocality": "OREM",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84097"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.273&mlon=-111.677#map=15/40.273/-111.677",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.273,
+    "longitude": -111.677
+  },
+  "url": "http://www.uvu.edu/museum",
+  "telephone": "+1 (801) 863-6200",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/WoodburyArtMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900008",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

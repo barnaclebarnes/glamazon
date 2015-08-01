@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187078
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso di Porta Ticinese, 95",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4554&mlon=9.18064#map=15/45.4554/9.18064",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4554,
+    "longitude": 9.18064
+  },
+  "url": "http://www.museodiocesano.it/",
+  "telephone": "+39 0289404714",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AS0ljtJFXP60kajFtbyCp8T7kZM=/1000x1000/museums/logos/000/187/078/original/ffbc824eeb7043e9d8c1307971f66c93e5a7f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103712",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

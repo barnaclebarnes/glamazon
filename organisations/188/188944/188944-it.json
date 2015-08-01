@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188944
+  },
+  "name": "Museo del ricamo a palazzo Rospigliosi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ripa del Sale, 3",
+    "addressLocality": "Pistoia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9339&mlon=10.9188#map=15/43.9339/10.9188",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9339,
+    "longitude": 10.9188
+  },
+  "url": "http://www.comune.pistoia.it/museibiblioteche/museo",
+  "telephone": "+39 057358016",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/t13NRCQcnPeR8nwaVbMPfcr_n3E=/1000x1000/museums/logos/000/188/944/original/395c9f55be80887defebc72599e473f0ca5b2e0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103222",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

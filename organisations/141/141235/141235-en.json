@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141235
+  },
+  "name": "VICTORIA MANSION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "109 DANFORTH ST",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04101-4504"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6514&mlon=-70.2605#map=15/43.6514/-70.2605",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6514,
+    "longitude": -70.2605
+  },
+  "url": "http://www.victoriamansion.org",
+  "telephone": "+1 (207) 772-4841",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300084",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160305
+  },
+  "name": "WINOOSKI HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4 HOOD ST",
+    "addressLocality": "WINOOSKI",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05404"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4929&mlon=-73.1789#map=15/44.4929/-73.1789",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4929,
+    "longitude": -73.1789
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000111",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

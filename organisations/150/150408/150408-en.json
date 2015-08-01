@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150408
+  },
+  "name": "AZURE MOUNTAIN FRIENDS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 302",
+    "addressLocality": "HANNAWA FALLS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13647-0302"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6143&mlon=-74.9664#map=15/44.6143/-74.9664",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6143,
+    "longitude": -74.9664
+  },
+  "url": "http://azuremountain.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601702",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

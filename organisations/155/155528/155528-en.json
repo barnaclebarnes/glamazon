@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155528
+  },
+  "name": "NORTH MUSEUM CORPORATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "400 COLLEGE AVE",
+    "addressLocality": "LANCASTER",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17603-3393"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0432&mlon=-76.3198#map=15/40.0432/-76.3198",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0432,
+    "longitude": -76.3198
+  },
+  "url": "http://www.northmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200722",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

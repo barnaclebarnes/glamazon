@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186727
+  },
+  "name": "Museo Lascito Cuneo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Giuseppe Lavezzo, 4",
+    "addressLocality": "San Colombano Certenoli",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3799&mlon=9.28798#map=15/44.3799/9.28798",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3799,
+    "longitude": 9.28798
+  },
+  "url": "http://www.lascitocuneo.it/museo.htm",
+  "telephone": "+39 018 5358791",
+  "contactPoint": [
+
+  ],
+  "openingHours": "visite su prenotazione da concordare",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZzbSRRgNRp6q1E1sPclhXfVEKJA=/1000x1000/museums/logos/000/186/727/original/4b3558777f69dfb6305dceab5fff175d562fbd2b.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100400",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188570
+  },
+  "name": "Museo dell'arte della lana di Stia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Giovanni Sartori, 2",
+    "addressLocality": "Stia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.802&mlon=11.7078#map=15/43.802/11.7078",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.802,
+    "longitude": 11.7078
+  },
+  "url": "http://www.tessilnova.com/museo",
+  "telephone": "+39 0575582685",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LsiDkdUeEM4WvLVJWhaGm7U1hC4=/1000x1000/museums/logos/000/188/570/original/346e8189a9793b99eef793e58f2282f728109c96.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102888",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150476
+  },
+  "name": "TOWN OF POMPEY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8354 US ROUTE 20",
+    "addressLocality": "MANLIUS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13104"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9233&mlon=-75.9491#map=15/42.9233/-75.9491",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9233,
+    "longitude": -75.9491
+  },
+  "url": "http://www.pompeyhistorical.org",
+  "telephone": "+1 (315) 682-9877",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601770",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

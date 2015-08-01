@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189505
+  },
+  "name": "Museo della Scuola grande di San Giovanni Evangelista",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "San Polo, 2454",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4363&mlon=12.3288#map=15/45.4363/12.3288",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4363,
+    "longitude": 12.3288
+  },
+  "url": "http://www.scuolasangiovanni.it",
+  "telephone": "+39 041 718234",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.30 - 17.00 (ultimo ingresso 45 minuti prima dell'orario di chiusura)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Vedi descrizione"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112101",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

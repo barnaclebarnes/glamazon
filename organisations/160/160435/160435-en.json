@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160435
+  },
+  "name": "HISTORIC WINDSOR INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1777",
+    "addressLocality": "WINDSOR",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05089-1321"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4808&mlon=-72.386#map=15/43.4808/-72.386",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4808,
+    "longitude": -72.386
+  },
+  "url": "http://historicwindsor.com",
+  "telephone": "+1 (802) 674-6752",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000241",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

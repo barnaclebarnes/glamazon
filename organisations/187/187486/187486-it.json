@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187486
+  },
+  "name": "Collezione Leonardo Castellani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Repubblica - Collegio Raffaello, SNC",
+    "addressLocality": "Urbino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7247&mlon=12.6367#map=15/43.7247/12.6367",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7247,
+    "longitude": 12.6367
+  },
+  "url": "http://www.urbinoculturaturismo.it",
+  "telephone": "+39 0722309222",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Apertura in occasione di eventi e su prenotazione dalle 9.00 alle 12.00 e dalle 15.00 alle 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104334",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

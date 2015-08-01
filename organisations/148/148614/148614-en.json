@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148614
+  },
+  "name": "SILVER CITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "312 W. BROADWAY",
+    "addressLocality": "SILVER CITY",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "88061"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7699&mlon=-108.278#map=15/32.7699/-108.278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7699,
+    "longitude": -108.278
+  },
+  "url": "http://www.silvercitymuseum.org",
+  "telephone": "+1 (505) 538-5921",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/173895709310"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500204",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

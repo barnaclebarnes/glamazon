@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150724
+  },
+  "name": "AMERICAN AIRMAIL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 110",
+    "addressLocality": "MINEOLA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11501-0110"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7453&mlon=-73.6389#map=15/40.7453/-73.6389",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7453,
+    "longitude": -73.6389
+  },
+  "url": "http://www.americanairmailsociety.org/index.html",
+  "telephone": "+1 (509) 924-4484",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602018",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

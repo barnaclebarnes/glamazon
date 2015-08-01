@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133574
+  },
+  "name": "LUTZ CHILDREN'S MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "247 SOUTH MAIN STREET",
+    "addressLocality": "MANCHESTER",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06040"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7554&mlon=-72.5204#map=15/41.7554/-72.5204",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7554,
+    "longitude": -72.5204
+  },
+  "telephone": "+1 (860) 649-2838",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/LutzMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900049",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

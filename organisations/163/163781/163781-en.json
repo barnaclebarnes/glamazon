@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163781
+  },
+  "name": "City of Boroondara",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8341&mlon=145.06#map=15/-37.8341/145.06",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8341,
+    "longitude": 145.06
+  },
+  "url": "http://www.boroondara.vic.gov.au",
+  "telephone": "(03) 9278 4770",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "city-boroondara-culture-arts",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/city-boroondara-culture-arts",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

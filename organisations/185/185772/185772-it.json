@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185772
+  },
+  "name": "Pinacoteca di arte moderna Nelle sale del Castello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza G. Compagna, 1",
+    "addressLocality": "Corigliano Calabro",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5942&mlon=16.5201#map=15/39.5942/16.5201",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5942,
+    "longitude": 16.5201
+  },
+  "url": "http://www.museionline.info",
+  "telephone": "+39 0983 81635",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Orario Estivo da Mar. a Dom. 10.00-20.30 Orario Invernale da Mar. a Dom. 9.30-18.30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110940",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

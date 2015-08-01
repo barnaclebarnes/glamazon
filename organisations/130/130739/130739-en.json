@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130739
+  },
+  "name": "SACRAMENTO VALLEY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1437",
+    "addressLocality": "WILLIAMS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95987"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1484&mlon=-122.161#map=15/39.1484/-122.161",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1484,
+    "longitude": -122.161
+  },
+  "url": "http://www.sacvalleymuseum.com",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Sacramento_Valley_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600865",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130451
+  },
+  "name": "ALVARADO PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5755 MCBRYDE AVE",
+    "addressLocality": "OAKLAND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94605-0381"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7639&mlon=-122.164#map=15/37.7639/-122.164",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7639,
+    "longitude": -122.164
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3WYAxpv3kb5aviQwE0J5HWumLKA=/1000x1000/museums/logos/000/130/451/original/Alvarado_Park__28Richmond_2C_CA_29.JPG",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Sanfranman59\" title=\"User:Sanfranman59\">Sanfranman59</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Alvarado_Park",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600577",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

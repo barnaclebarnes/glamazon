@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145880
+  },
+  "name": "ACADEMY OF SCIENCE OF ST LOUIS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5050 OAKLAND AVE",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63110-1460"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6294&mlon=-90.2706#map=15/38.6294/-90.2706",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6294,
+    "longitude": -90.2706
+  },
+  "url": "http://www.academyofsciencestl.org",
+  "telephone": "+1 (314) 289-4400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900309",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

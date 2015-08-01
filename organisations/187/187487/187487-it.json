@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187487
+  },
+  "name": "Galleria nazionale delle Marche",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duca Federico, 13",
+    "addressLocality": "Urbino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7241&mlon=12.6365#map=15/43.7241/12.6365",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7241,
+    "longitude": 12.6365
+  },
+  "url": "http://www.artimarche.beniculturali.it/",
+  "telephone": "+39 072227601  0722322625",
+  "contactPoint": [
+
+  ],
+  "openingHours": "- da martedì a domenica: dalle 8:30 alle 19:15 la biglietteria chiude alle 18:15 - lunedì: dalle 8:30 alle 14:00 la biglietteria chiude alle 13:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 5,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2aPsxj-shRYmQ0eWYO3sQQcc7RY=/1000x1000/museums/logos/000/187/487/original/b4a9c9d570bd155881ab376206aca82dca8d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20392",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

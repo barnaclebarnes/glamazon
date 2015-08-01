@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139394
+  },
+  "name": "INTERNATIONAL FIRE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2301 E 11TH ST",
+    "addressLocality": "DAVENPORT",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52803-3753"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5311&mlon=-90.544#map=15/41.5311/-90.544",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5311,
+    "longitude": -90.544
+  },
+  "telephone": "+1 (563) 323-7726",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900431",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187450
+  },
+  "name": "Mulino di Ponte Vecchio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Loc. Ponte vecchio, ",
+    "addressLocality": "Frontino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7648&mlon=12.3788#map=15/43.7648/12.3788",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7648,
+    "longitude": 12.3788
+  },
+  "url": "http://comune.frontino.pu.it",
+  "telephone": "+39 072271131",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Per appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ye8rWbLF-xv77fYJyXK1CqJN_Lw=/1000x1000/museums/logos/000/187/450/original/e7f36c2bb921efd2e445f8597b43a9c6c33e1da5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104275",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

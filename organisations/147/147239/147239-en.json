@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147239
+  },
+  "name": "TUCK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "40 PARK AVE",
+    "addressLocality": "HAMPTON",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03842"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9337&mlon=-70.836#map=15/42.9337/-70.836",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9337,
+    "longitude": -70.836
+  },
+  "url": "http://hamptonhistoricalsociety.org",
+  "telephone": "+1 (603) 929-0781",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300014",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

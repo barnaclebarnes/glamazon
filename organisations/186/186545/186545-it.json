@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186545
+  },
+  "name": "Museo centrale del Risorgimento di Roma",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Venezia",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8961&mlon=12.4824#map=15/41.8961/12.4824",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8961,
+    "longitude": 12.4824
+  },
+  "url": "http://www.risorgimento.it",
+  "telephone": "+39 066793598",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 9.30-18-30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/my1nKehYx6RZ3_uiFx8UY4KiYUA=/1000x1000/museums/logos/000/186/545/original/44c057f1f9ad5860bb3f7d679206a6d1796c37.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101538",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

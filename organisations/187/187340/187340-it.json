@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187340
+  },
+  "name": "Quadreria civica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trento e Trieste, 7",
+    "addressLocality": "Monterubbiano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0855&mlon=13.7165#map=15/43.0855/13.7165",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0855,
+    "longitude": 13.7165
+  },
+  "url": "http://www.museicomuni.it",
+  "telephone": "+39 0734 257396",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal Venerdì alla Domenica e festivi 10.00 - 12.00 / 15.00-17.00 \\*il Venerdì pomeriggio solo su prenotazione mattutina;dal 1 Giugno al 30 Settembre dal Martedì alla Domenica e festivi 10.00 - 12.00 / 17.00 - 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 1.50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eti3SLsMpfbVYU10Wwp2OePOuQI=/1000x1000/museums/logos/000/187/340/original/2636bfaca9ad6271ae3a50b320d7803c95d938a2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111485",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

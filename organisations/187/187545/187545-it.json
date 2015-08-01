@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187545
+  },
+  "name": "Sacrestia aperta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Liutprando, ",
+    "addressLocality": "Casale Monferrato",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1373&mlon=8.45296#map=15/45.1373/8.45296",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1373,
+    "longitude": 8.45296
+  },
+  "url": "http://www.abbonamentomusei.it",
+  "telephone": "+39 0142452219 - 0142451999",
+  "contactPoint": [
+
+  ],
+  "openingHours": "settembre-luglio: giovedì-domenica: 9.00-12.00 15.00-18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106764",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

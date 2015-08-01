@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160605
+  },
+  "name": "KERR PLACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "69 MARKET STREET",
+    "addressLocality": "ONANCOCK",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23417"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7118&mlon=-75.7475#map=15/37.7118/-75.7475",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7118,
+    "longitude": -75.7475
+  },
+  "url": "http://www.shorehistory.org/museum.html",
+  "telephone": "+1 (757) 787-8012",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100111",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

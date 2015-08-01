@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163623
+  },
+  "name": "Anselm Historic House",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8673&mlon=145.027#map=15/-37.8673/145.027",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8673,
+    "longitude": 145.027
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "anselm",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/anselm",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

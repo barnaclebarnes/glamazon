@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187776
+  },
+  "name": "Ecomuseo del Lago d’Orta e Mottarone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fara, 7/A, ",
+    "addressLocality": "Pettenasco",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.818&mlon=8.40872#map=15/45.818/8.40872",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.818,
+    "longitude": 8.40872
+  },
+  "url": "http://www.lagodorta.net",
+  "telephone": "+39 032389622",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106597",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

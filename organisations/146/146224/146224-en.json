@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146224
+  },
+  "name": "KANSAS CITY ZOOLOGICAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6800 ZOO DR",
+    "addressLocality": "KANSAS CITY",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "64132-1711"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0056&mlon=-94.532#map=15/39.0056/-94.532",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0056,
+    "longitude": -94.532
+  },
+  "url": "http://www.kansascityzoo.org",
+  "telephone": "+1 (816) 595-1234",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900653",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

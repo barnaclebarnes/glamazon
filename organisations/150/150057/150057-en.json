@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150057
+  },
+  "name": "BIG FLATS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 232",
+    "addressLocality": "BIG FLATS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14814"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1401&mlon=-76.9402#map=15/42.1401/-76.9402",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1401,
+    "longitude": -76.9402
+  },
+  "url": "http://www.bigflatsny.gov/historical-society",
+  "telephone": "+1 (607) 562-7460",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601351",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

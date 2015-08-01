@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135813
+  },
+  "name": "GEORGIA CAPITOL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "431 STATE CAPITOL SW",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30334"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7483&mlon=-84.3882#map=15/33.7483/-84.3882",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7483,
+    "longitude": -84.3882
+  },
+  "url": "http://www.georgia.gov",
+  "telephone": "+1 (404) 656-2846",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300084",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

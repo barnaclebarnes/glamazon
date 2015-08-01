@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150522
+  },
+  "name": "ROCKWELL MUSEUM OF WESTERN ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "111 CEDAR ST",
+    "addressLocality": "CORNING",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14830-2632"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1425&mlon=-77.0527#map=15/42.1425/-77.0527",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1425,
+    "longitude": -77.0527
+  },
+  "url": "http://www.rockwellmuseum.org",
+  "telephone": "+1 (607) 937-5386",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601816",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149321
+  },
+  "name": "HISTORICAL SOCIETY OF ISLIP HAMLET",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 601",
+    "addressLocality": "ISLIP",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11751"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7347&mlon=-73.2109#map=15/40.7347/-73.2109",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7347,
+    "longitude": -73.2109
+  },
+  "url": "http://www.isliphamlethistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600615",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

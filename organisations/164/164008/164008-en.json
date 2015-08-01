@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164008
+  },
+  "name": "Lake View House, National Trust of Australia (Victoria)",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.1544&mlon=146.61#map=15/-36.1544/146.61",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.1544,
+    "longitude": 146.61
+  },
+  "url": "http://www.nationaltrust.org.au/vic/lake-view-house",
+  "telephone": "(03) 5726 1317",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "lake-view-homestead",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/lake-view-homestead",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142479
+  },
+  "name": "MUSEUM OF COMPARATIVE ZOOLOGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "26 OXFORD ST",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02138"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.378&mlon=-71.1163#map=15/42.378/-71.1163",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.378,
+    "longitude": -71.1163
+  },
+  "url": "http://www.hmnh.harvard.edu",
+  "telephone": "+1 (617) 495-3045",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500109",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

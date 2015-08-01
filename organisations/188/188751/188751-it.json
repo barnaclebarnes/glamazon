@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188751
+  },
+  "name": "Museo della cultura contadina di Albinia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Salvo D'Acquisto, 2",
+    "addressLocality": "Orbetello",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5021&mlon=11.2056#map=15/42.5021/11.2056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5021,
+    "longitude": 11.2056
+  },
+  "url": "http://www.comune.orbetello.gr.it",
+  "telephone": "+39 0564861111",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/W7Fezwo-RcjVwTdnOp5GAf_getA=/1000x1000/museums/logos/000/188/751/original/5be669dbcef88ebba9c60875b809953fccc65.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103025",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

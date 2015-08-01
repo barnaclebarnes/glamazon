@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129166
+  },
+  "name": "FRANKLIN AUTO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1405 E KLEINDALE RD",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85719"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2686&mlon=-110.95#map=15/32.2686/-110.95",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2686,
+    "longitude": -110.95
+  },
+  "url": "http://www.franklincar.org",
+  "telephone": "+1 (520) 326-8038",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400068",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

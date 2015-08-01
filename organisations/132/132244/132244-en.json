@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132244
+  },
+  "name": "PARDEE HOME FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "672 11TH ST",
+    "addressLocality": "OAKLAND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94607-3651"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8043&mlon=-122.278#map=15/37.8043/-122.278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8043,
+    "longitude": -122.278
+  },
+  "url": "http://www.pardeehome.org",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Pardee_Home",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602370",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

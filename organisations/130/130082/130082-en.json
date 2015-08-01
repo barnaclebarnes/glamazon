@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130082
+  },
+  "name": "SAN DIEGO JET CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1424 CONTINENTAL ST",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92154"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.569&mlon=-116.985#map=15/32.569/-116.985",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.569,
+    "longitude": -116.985
+  },
+  "telephone": "+1 (619) 671-9222",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600208",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

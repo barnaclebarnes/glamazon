@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147168
+  },
+  "name": "LAS VEGAS NATURAL HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "900 LAS VEGAS BLVD N",
+    "addressLocality": "LAS VEGAS",
+    "addressRegion": "NV",
+    "addressCountry": "United States",
+    "postalCode": "89101-1112"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.1803&mlon=-115.134#map=15/36.1803/-115.134",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.1803,
+    "longitude": -115.134
+  },
+  "url": "http://www.lvnhm.org",
+  "telephone": "+1 (702) 384-3466",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403200143",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

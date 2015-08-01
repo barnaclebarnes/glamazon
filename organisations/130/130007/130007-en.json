@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130007
+  },
+  "name": "SOUTHERN HOTEL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "445 S D ST",
+    "addressLocality": "PERRIS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92570"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7817&mlon=-117.229#map=15/33.7817/-117.229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7817,
+    "longitude": -117.229
+  },
+  "url": "http://www.southernhotel.org",
+  "telephone": "+1 (951) 657-4281",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Southern_Hotel_(Perris,_California)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600133",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

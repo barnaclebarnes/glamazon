@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133401
+  },
+  "name": "KIRKLAND MUSEUM OF FINE & DECORATIVE ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1311 PEARL ST",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80203-2518"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7372&mlon=-104.98#map=15/39.7372/-104.98",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7372,
+    "longitude": -104.98
+  },
+  "url": "http://www.kirklandmuseum.org",
+  "telephone": "+1 (303) 832-8576",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/39654397516"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/KirklandMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800577",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

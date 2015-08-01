@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185593
+  },
+  "name": "Museo della cultura della memoria di Fontecchio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Popolo",
+    "addressLocality": "Fontecchio",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2299&mlon=13.6053#map=15/42.2299/13.6053",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2299,
+    "longitude": 13.6053
+  },
+  "url": "http://www.comune.fontecchio.aq.it/",
+  "telephone": "+39 0862 85131",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110922",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

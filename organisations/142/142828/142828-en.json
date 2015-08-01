@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142828
+  },
+  "name": "FRIENDS OF THE ACTON ARBORETUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2607",
+    "addressLocality": "ACTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01720"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4858&mlon=-71.4433#map=15/42.4858/-71.4433",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4858,
+    "longitude": -71.4433
+  },
+  "url": "http://www.actonarboretum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500458",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

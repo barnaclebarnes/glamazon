@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145237
+  },
+  "name": "FITZGERALD IN SAINT PAUL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "950 HOYT AVENUE WEST",
+    "addressLocality": "SAINT PAUL",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55117-3303"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9883&mlon=-93.1404#map=15/44.9883/-93.1404",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9883,
+    "longitude": -93.1404
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700677",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

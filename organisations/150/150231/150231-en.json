@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150231
+  },
+  "name": "BUFFALO TRANSPORTATION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "24 MYRTLE AVE",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14203-2900"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.88&mlon=-78.8685#map=15/42.88/-78.8685",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.88,
+    "longitude": -78.8685
+  },
+  "telephone": "+1 (716) 853-0084",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601525",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

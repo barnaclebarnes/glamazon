@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182730
+  },
+  "name": "Freilichtmuseum Finsterau",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Museumsstraße 51",
+    "addressLocality": "Mauth",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94151"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9357&mlon=13.5631#map=15/48.9357/13.5631",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9357,
+    "longitude": 13.5631
+  },
+  "url": "http://www.freilichtmuseum.de/index2.php?inc=02_finsterau&navi=2",
+  "telephone": "08557/9606-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182730",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

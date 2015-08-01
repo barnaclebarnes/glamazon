@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185812
+  },
+  "name": "Museo diocesano di Rossano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Arcivescovado , 5",
+    "addressLocality": "Rossano",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5751&mlon=16.6357#map=15/39.5751/16.6357",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5751,
+    "longitude": 16.6357
+  },
+  "telephone": "+39 0983 525263",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3oXrIhutTHeyJY5mzN0m2yeELuE=/1000x1000/museums/logos/000/185/812/original/58b6c2496230c3aaa91c2cae16797b78e14645fb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108294",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

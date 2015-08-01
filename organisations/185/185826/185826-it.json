@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185826
+  },
+  "name": "Antiquarium di Tortora Marina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza D. Alighieri , ",
+    "addressLocality": "Tortora",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9411&mlon=15.8047#map=15/39.9411/15.8047",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9411,
+    "longitude": 15.8047
+  },
+  "telephone": "+39 0985 7660222",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/E3hC1KPypW7UqL5BoA_hB5MWHEE=/1000x1000/museums/logos/000/185/826/original/6a7581cdf6cb067fe177f90e5c287486f7c8a7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108452",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

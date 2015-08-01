@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186825
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cornello, 20",
+    "addressLocality": "Camerata Cornello",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8964&mlon=9.65444#map=15/45.8964/9.65444",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8964,
+    "longitude": 9.65444
+  },
+  "url": "http://www.museodeitasso.com",
+  "telephone": "+39 034543479",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RG_N457ap4QF2bZBe5M3apaOhsE=/1000x1000/museums/logos/000/186/825/original/dce5b964bd65daecec516b345bf853bc2d4f62.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103508",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

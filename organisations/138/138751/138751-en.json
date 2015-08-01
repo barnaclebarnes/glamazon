@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138751
+  },
+  "name": "MUSEUM OF THE SOLDIER INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 518",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "47371"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4259&mlon=-84.9765#map=15/40.4259/-84.9765",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4259,
+    "longitude": -84.9765
+  },
+  "url": "http://museumofthesoldier.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800537",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

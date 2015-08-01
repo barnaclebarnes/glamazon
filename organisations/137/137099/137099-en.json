@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137099
+  },
+  "name": "BATAVIA DEPOT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "155 HOUSTON ST",
+    "addressLocality": "BATAVIA",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60510"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8512&mlon=-88.3102#map=15/41.8512/-88.3102",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8512,
+    "longitude": -88.3102
+  },
+  "url": "http://www.bataviahistoricalsociety.org",
+  "telephone": "+1 (630) 406-5274",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700244",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163715
+  },
+  "name": "Blackburn Cricket Club",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8241&mlon=145.159#map=15/-37.8241/145.159",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8241,
+    "longitude": 145.159
+  },
+  "url": "http://www.blackburn.org.au/",
+  "telephone": "For Club History Digitisation inquiries please contact Dwayne on 0417 035 163",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Cricket is played on Friday nights, Saturday and Sunday",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "blackburn-cricket-club",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/blackburn-cricket-club",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

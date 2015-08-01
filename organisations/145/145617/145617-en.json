@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145617
+  },
+  "name": "NATIONAL CHURCHILL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "501 WESTMINSTER AVE",
+    "addressLocality": "FULTON",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "65251"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8487&mlon=-91.9542#map=15/38.8487/-91.9542",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8487,
+    "longitude": -91.9542
+  },
+  "url": "http://www.churchillmemorial.org",
+  "telephone": "+1 (573) 592-5369",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/churchillmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ChurchillMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900046",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

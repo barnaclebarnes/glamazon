@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184287
+  },
+  "name": "Auckland Art Gallery Toi o Tāmaki",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:gallery@aucklandartgallery.govt.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.8508&mlon=174.765#map=15/-36.8508/174.765",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.8508,
+    "longitude": 174.765
+  },
+  "url": "http://www.aucklandartgallery.govt.nz",
+  "telephone": "64-9-379 1349",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Diario 10:00-17:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Free entry (charges for special exhibitions)"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/es/museums/184287",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

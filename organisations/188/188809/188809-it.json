@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188809
+  },
+  "name": "Museo della Memoria di Borgo a Mozzano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marconi, 1",
+    "addressLocality": "Borgo a Mozzano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9778&mlon=10.5411#map=15/43.9778/10.5411",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9778,
+    "longitude": 10.5411
+  },
+  "telephone": "+39 0583888881",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1zZ6xAuvp5S9DwU0eapWqEQwv2o=/1000x1000/museums/logos/000/188/809/original/b4aa8efe435be43b0781842e6377aa37728828.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110582",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

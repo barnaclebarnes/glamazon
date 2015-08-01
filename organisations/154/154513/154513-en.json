@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154513
+  },
+  "name": "NHD OREGON",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4615 NE KILLINGSWORTH",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97218-1954"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5628&mlon=-122.615#map=15/45.5628/-122.615",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5628,
+    "longitude": -122.615
+  },
+  "url": "http://www.nhd.org/oregonpage.htm",
+  "telephone": "+1 (503) 306-5251",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100306",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

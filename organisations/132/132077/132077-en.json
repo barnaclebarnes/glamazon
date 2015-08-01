@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132077
+  },
+  "name": "STANFORD UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3145 PORTER DR",
+    "addressLocality": "STANFORD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94304"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4331&mlon=-122.177#map=15/37.4331/-122.177",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4331,
+    "longitude": -122.177
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602203",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

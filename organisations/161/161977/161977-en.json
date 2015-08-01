@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161977
+  },
+  "name": "SEATTLE AQUARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1438 ALASKAN WAY PIER 5",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98101-2016"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6074&mlon=-122.341#map=15/47.6074/-122.341",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6074,
+    "longitude": -122.341
+  },
+  "telephone": "+1 (206) 386-4332",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300426",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

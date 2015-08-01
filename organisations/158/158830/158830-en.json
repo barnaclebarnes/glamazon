@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158830
+  },
+  "name": "WORLD MEMORIAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2974 PENINSULA DR",
+    "addressLocality": "GRAPEVINE",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76051-2525"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.9768&mlon=-97.1112#map=15/32.9768/-97.1112",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.9768,
+    "longitude": -97.1112
+  },
+  "url": "http://www.world-memorial.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800930",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

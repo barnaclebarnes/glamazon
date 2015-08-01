@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190326
+  },
+  "name": "NORMAN BIRD SANCTUARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "583 THIRD BEACH RD",
+    "addressLocality": "MIDDLETOWN",
+    "addressRegion": "RI",
+    "addressCountry": "United States",
+    "postalCode": "02842"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.28&mlon=-97.7384#map=15/30.28/-97.7384",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.28,
+    "longitude": -97.7384
+  },
+  "url": "http://www.normanbirdsanctuary.org",
+  "telephone": "+1 (401) 846-2577",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400211",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

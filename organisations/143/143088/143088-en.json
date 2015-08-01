@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143088
+  },
+  "name": "MARLBOROUGH HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 513",
+    "addressLocality": "MARLBOROUGH",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01752-0513"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3461&mlon=-71.5487#map=15/42.3461/-71.5487",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3461,
+    "longitude": -71.5487
+  },
+  "url": "http://www.historicmarlborough.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500718",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190327
+  },
+  "name": "THE LSU MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 LAFAYETTE STREET",
+    "addressLocality": "BATON ROUGE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0033&mlon=-71.4721#map=15/43.0033/-71.4721",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0033,
+    "longitude": -71.4721
+  },
+  "url": "http://www.lsumoa.org",
+  "telephone": "+1 (225) 389-7212",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400219",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186351
+  },
+  "name": "Museo diocesano e gallerie del Tiepolo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Patriarcato, 1",
+    "addressLocality": "Udine",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0638&mlon=13.2396#map=15/46.0638/13.2396",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0638,
+    "longitude": 13.2396
+  },
+  "url": "http://www.musdioc-tiepolo.it",
+  "telephone": "+39 0432 25003",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal mercoledì alla domenica 10,00-13,00; 15,00-18,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3HSbaRMeHctBiZ5WnF9qJOAmQQE=/1000x1000/museums/logos/000/186/351/original/757dc942d847d6a22e6283b3a860f7475019ceb9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100327",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

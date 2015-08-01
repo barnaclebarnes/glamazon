@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186410
+  },
+  "name": "Museo del cioccolato",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Capo dell'Acqua , 20",
+    "addressLocality": "Norma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5846&mlon=12.9752#map=15/41.5846/12.9752",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5846,
+    "longitude": 12.9752
+  },
+  "url": "http://www.museodelcioccolato.com",
+  "telephone": "+39 0773354548",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal Lunedì al Sabato9.00/12.30 - 15.00/17.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/q2MlFshKTryZo7lYgMURjYDRIUE=/1000x1000/museums/logos/000/186/410/original/65e164d8ec0f774a381115bc78b1cb4f7f8418f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103965",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

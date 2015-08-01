@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135785
+  },
+  "name": "MUSEUM OF BUFORD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "95B E MAIN ST",
+    "addressLocality": "BUFORD",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30518"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1209&mlon=-84.0048#map=15/34.1209/-84.0048",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1209,
+    "longitude": -84.0048
+  },
+  "url": "http://www.museumofbuford.com",
+  "telephone": "+1 (770) 945-4559",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300056",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

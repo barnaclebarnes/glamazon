@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158487
+  },
+  "name": "SOUTH TEXAS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3232",
+    "addressLocality": "ALICE",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78333-3232"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=27.7521&mlon=-98.0732#map=15/27.7521/-98.0732",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 27.7521,
+    "longitude": -98.0732
+  },
+  "telephone": "+1 (361) 668-8891",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800587",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

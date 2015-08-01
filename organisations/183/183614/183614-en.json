@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183614
+  },
+  "name": "Museum für Historische Wehrtechnik",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Heinrich-Diehl-Straße",
+    "addressLocality": "Röthenbach",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90552"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4771&mlon=11.2224#map=15/49.4771/11.2224",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4771,
+    "longitude": 11.2224
+  },
+  "url": "http://www.wehrtechnikmuseum.de",
+  "telephone": "09158/928851",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183614",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

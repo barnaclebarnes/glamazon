@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187721
+  },
+  "name": "Museo etnografico Coumboscuro della civiltà provenzale in Italia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sancto Lucio di Coumboscuro, ",
+    "addressLocality": "Monterosso Grana",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4092&mlon=7.32407#map=15/44.4092/7.32407",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4092,
+    "longitude": 7.32407
+  },
+  "url": "http://www.coumboscuro.org",
+  "telephone": "+39 017198707",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102606",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

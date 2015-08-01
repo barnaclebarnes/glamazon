@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142486
+  },
+  "name": "JOHN F KENNEDY LIBRARY AND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "COLUMBIA PT",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02125"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3168&mlon=-71.061#map=15/42.3168/-71.061",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3168,
+    "longitude": -71.061
+  },
+  "url": "http://www.jfklibrary.org",
+  "telephone": "+1 (617) 514-1600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500116",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

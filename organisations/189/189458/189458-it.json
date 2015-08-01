@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189458
+  },
+  "name": "Septem Maria Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Capitello, 11",
+    "addressLocality": "Adria",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0045&mlon=12.0452#map=15/45.0045/12.0452",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0045,
+    "longitude": 12.0452
+  },
+  "telephone": "+39 042521530",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Eht8qE0M_si4kQJR9lMqsiN_fhc=/1000x1000/museums/logos/000/189/458/original/5cfc24f5f54b82ca38f87c24a266b3bfdf8231d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100950",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

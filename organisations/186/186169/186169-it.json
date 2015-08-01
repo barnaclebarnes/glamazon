@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186169
+  },
+  "name": "Galleria civica di Modena",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Canalgrande, 103, ",
+    "addressLocality": "Modena",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6472&mlon=10.9309#map=15/44.6472/10.9309",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6472,
+    "longitude": 10.9309
+  },
+  "url": "http://www.comune.modena.it/galleria",
+  "telephone": "+39 0592032911",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hSli5ewlNlRhURG2hvEprpxi_no=/1000x1000/museums/logos/000/186/169/original/b55341bafe13b68574bcbd08d91d63fbeeab3d1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103925",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

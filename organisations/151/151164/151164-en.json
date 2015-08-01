@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151164
+  },
+  "name": "RANKIN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "131 CHURCH ST",
+    "addressLocality": "ELLERBE",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28338"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.0725&mlon=-79.762#map=15/35.0725/-79.762",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.0725,
+    "longitude": -79.762
+  },
+  "url": "http://www.rankinmuseum.org",
+  "telephone": "+1 (910) 652-6378",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700035",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

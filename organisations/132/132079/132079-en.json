@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132079
+  },
+  "name": "SAN FRANCISCO ART INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 CHESTNUT ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94133-2206"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8033&mlon=-122.417#map=15/37.8033/-122.417",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8033,
+    "longitude": -122.417
+  },
+  "url": "http://www.sfai.edu/",
+  "telephone": "+1 (415) 771-7020",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602205",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

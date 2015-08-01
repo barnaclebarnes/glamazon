@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188862
+  },
+  "name": "Centro di documentazione sulla Linea Gotica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Fondaccio, ",
+    "addressLocality": "Montignoso",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0162&mlon=10.1719#map=15/44.0162/10.1719",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0162,
+    "longitude": 10.1719
+  },
+  "telephone": "+39 0585827104",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/M8zj7GGlG0Swp9ch64qCHUnebyc=/1000x1000/museums/logos/000/188/862/original/10293fd6b0528db19bbeda5db2b6c89d8ab3d383.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110004",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

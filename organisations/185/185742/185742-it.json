@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185742
+  },
+  "name": "Museo diocesano di arte sacra di Squillace",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duomo , 4",
+    "addressLocality": "Squillace",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7826&mlon=16.5224#map=15/38.7826/16.5224",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7826,
+    "longitude": 16.5224
+  },
+  "url": "http://www.squillace.org/museo_diocesano.htm ",
+  "telephone": "+39 0961-912102",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6qVUsubBJsinBgnzD_GiGkS20sE=/1000x1000/museums/logos/000/185/742/original/d955fe8392654a11b382a7db034da57c6c88b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108440",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188800
+  },
+  "name": "Museo di scienze naturali di Rosignano Marittimo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Monte alla Rena, 41/43",
+    "addressLocality": "Rosignano Marittimo",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3899&mlon=10.4324#map=15/43.3899/10.4324",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3899,
+    "longitude": 10.4324
+  },
+  "url": "http://www.musrosi.org",
+  "telephone": "+39 0586767052",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103072",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158069
+  },
+  "name": "MUSEUM OF TEXAS TECH UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "BOX 43191",
+    "addressLocality": "LUBBOCK",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "79403"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.6366&mlon=-101.873#map=15/33.6366/-101.873",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.6366,
+    "longitude": -101.873
+  },
+  "url": "http://www.museum.ttu.edu",
+  "telephone": "+1 (806) 742-2442",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/MuseumofTexasTechUniversity"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800169",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188387
+  },
+  "name": "Museo civico e pinacoteca \"L. Sturzo\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Direzione Volta Libertini, 4",
+    "addressLocality": "Caltagirone",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2371&mlon=14.5139#map=15/37.2371/14.5139",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2371,
+    "longitude": 14.5139
+  },
+  "url": "http://www.comune.caltagirone.ci.it",
+  "telephone": "+39 093341831",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a sabato 9.30/19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101190",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

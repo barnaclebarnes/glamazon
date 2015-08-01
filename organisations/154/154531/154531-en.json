@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154531
+  },
+  "name": "WILLAMETTE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "700 STATE ST",
+    "addressLocality": "SALEM",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97301-3849"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9387&mlon=-123.034#map=15/44.9387/-123.034",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9387,
+    "longitude": -123.034
+  },
+  "url": "http://www.willamette.edu",
+  "telephone": "+1 (503) 370-6300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100324",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

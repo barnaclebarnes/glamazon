@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163744
+  },
+  "name": "Burke Memorial Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.3582&mlon=146.687#map=15/-36.3582/146.687",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.3582,
+    "longitude": 146.687
+  },
+  "url": "http://www.beechworth.com/burkemus/ ",
+  "telephone": "(03) 5728 8067",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Open Daily 10am - 5pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "burke-memorial-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/burke-memorial-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

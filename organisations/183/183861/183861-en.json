@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183861
+  },
+  "name": "Das kleine Museum – Kultur auf der Peunt",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Goethestraße 15",
+    "addressLocality": "Weißenstadt",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95163"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1014&mlon=11.8906#map=15/50.1014/11.8906",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1014,
+    "longitude": 11.8906
+  },
+  "url": "http://www.kulturaufderpeunt.de",
+  "telephone": "09253/8924",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183861",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130168
+  },
+  "name": "MAP AND ATLAS MUSEUM OF LA JOLLA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7825 FAY AVE",
+    "addressLocality": "LA JOLLA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92037"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8453&mlon=-117.275#map=15/32.8453/-117.275",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8453,
+    "longitude": -117.275
+  },
+  "url": "http://www.lajollamapmuseum.org",
+  "telephone": "+1 (858) 653-6277",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600294",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

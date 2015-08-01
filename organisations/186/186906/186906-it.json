@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186906
+  },
+  "name": "Museo civico di Manerbio e del territorio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza C. Battisti, 2",
+    "addressLocality": "Manerbio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3552&mlon=10.1381#map=15/45.3552/10.1381",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3552,
+    "longitude": 10.1381
+  },
+  "url": "http://www.comune.manerbio.bs.it",
+  "telephone": "+39 0309387293",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mZCNib_f5BYfDkYYQmYWNVXZtvc=/1000x1000/museums/logos/000/186/906/original/599ec41c2162b45375feb78ad501c17b14cd248.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103582",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

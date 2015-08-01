@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189037
+  },
+  "name": "Palazzo delle papesse Centro arte contemporanea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Duomo, 2",
+    "addressLocality": "Siena",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3173&mlon=11.3286#map=15/43.3173/11.3286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3173,
+    "longitude": 11.3286
+  },
+  "telephone": "+39 057722071",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FE7hd4teep54EsyqbL9hSBai_vw=/1000x1000/museums/logos/000/189/037/original/75b884ed5851ad0e4c77bbbc570b86145f275.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103280",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

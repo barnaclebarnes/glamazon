@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151709
+  },
+  "name": "YATES MILL ASSOCIATES INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 10512",
+    "addressLocality": "RALEIGH",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27605-0512"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.7187&mlon=-78.6861#map=15/35.7187/-78.6861",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.7187,
+    "longitude": -78.6861
+  },
+  "url": "http://www.yatesmill.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700580",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

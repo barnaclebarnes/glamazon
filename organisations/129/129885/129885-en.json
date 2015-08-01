@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129885
+  },
+  "name": "USC FISHER MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "823 EXPOSITION BLVD",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90089"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0206&mlon=-118.286#map=15/34.0206/-118.286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0206,
+    "longitude": -118.286
+  },
+  "url": "http://fisher.usc.edu",
+  "telephone": "+1 (213) 740-4561",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/USCFisherMuseumofArt"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600011",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

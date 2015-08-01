@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160509
+  },
+  "name": "UNIVERSITY OF VIRGINIA ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "155 RUGBY RD",
+    "addressLocality": "CHARLOTTESVILLE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22903"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0381&mlon=-78.5027#map=15/38.0381/-78.5027",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0381,
+    "longitude": -78.5027
+  },
+  "url": "http://www.virginia.edu/artmuseum",
+  "telephone": "+1 (434) 924-3592",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/129724520194"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100015",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

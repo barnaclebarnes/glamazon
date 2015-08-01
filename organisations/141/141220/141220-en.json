@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141220
+  },
+  "name": "COLBY COLLEGE MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5600 MAYFLOWER HILL",
+    "addressLocality": "WATERVILLE",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04901-8856"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5663&mlon=-69.6584#map=15/44.5663/-69.6584",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5663,
+    "longitude": -69.6584
+  },
+  "url": "http://www.colby.edu/museum",
+  "telephone": "+1 (207) 872-3228",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300069",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

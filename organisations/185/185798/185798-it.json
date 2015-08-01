@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185798
+  },
+  "name": "Museo Epeo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Polmo , 8 ",
+    "addressLocality": "Nocara",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1&mlon=16.4813#map=15/40.1/16.4813",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1,
+    "longitude": 16.4813
+  },
+  "telephone": "+39 0981-934442",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gs7ZdSgqIfofIFQfGenhHxCqUZM=/1000x1000/museums/logos/000/185/798/original/56e6e2b58c25f67b20d2d3b828b8e895bc116484.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108260",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

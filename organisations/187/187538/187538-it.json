@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187538
+  },
+  "name": "Casa natale di San Pio V",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castelvecchio, ",
+    "addressLocality": "Bosco Marengo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8228&mlon=8.67554#map=15/44.8228/8.67554",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8228,
+    "longitude": 8.67554
+  },
+  "telephone": "+39 0131299342",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uClxKjdSoCLzRKlLBggqEKbkFI4=/1000x1000/museums/logos/000/187/538/original/22bc374c9223a53541433be5296acfc74934615f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102446",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

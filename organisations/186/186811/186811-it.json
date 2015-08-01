@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186811
+  },
+  "name": "Parco paleontologico di Cene",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cava, 28",
+    "addressLocality": "Albino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7885&mlon=9.83158#map=15/45.7885/9.83158",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7885,
+    "longitude": 9.83158
+  },
+  "url": "http://www.triassico.it",
+  "telephone": "+39 0346 22400",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MtncVj8oQhbGLk9nHUdFpv-Ih0o=/1000x1000/museums/logos/000/186/811/original/3b74269e13c0e9120922416de6dbab678596a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106816",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

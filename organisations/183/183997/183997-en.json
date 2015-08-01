@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183997
+  },
+  "name": "Museum für bäuerliche Arbeitsgeräte des Bezirks Oberfranken",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Adolf-Wächter-Straße 17",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95447"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9314&mlon=11.5488#map=15/49.9314/11.5488",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9314,
+    "longitude": 11.5488
+  },
+  "url": "http://www.lettenhof.de",
+  "telephone": "0921/7846-1430",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183997",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131102
+  },
+  "name": "RANCHO BERNARDO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 27314",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92198"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.0333&mlon=-117.047#map=15/33.0333/-117.047",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.0333,
+    "longitude": -117.047
+  },
+  "url": "http://www.rbhistoricalsociety.org/",
+  "telephone": "+1 (858) 775-5788",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LXBBlxOVDJnAr7TmgGuKpJlOvK8=/1000x1000/museums/logos/000/131/102/original/SanDiegoMapRanchoBernardo.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Rancho_Bernardo,_San_Diego",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601228",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

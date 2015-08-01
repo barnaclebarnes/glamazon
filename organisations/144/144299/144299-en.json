@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144299
+  },
+  "name": "ANN ARBOR DISTRICT LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "343 S 5TH AVE",
+    "addressLocality": "ANN ARBOR",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48104-2217"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2782&mlon=-83.7462#map=15/42.2782/-83.7462",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2782,
+    "longitude": -83.7462
+  },
+  "url": "http://www.aadl.org",
+  "telephone": "+1 (734) 327-4200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600836",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

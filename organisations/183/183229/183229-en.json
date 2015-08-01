@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183229
+  },
+  "name": "Die Neue Sammlung - The International Design Museum Munich / Pinakothek der Moderne",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Barer Straße 40",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1474&mlon=11.5715#map=15/48.1474/11.5715",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1474,
+    "longitude": 11.5715
+  },
+  "url": "http://www.die-neue-sammlung.de",
+  "telephone": "089/272725-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183229",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

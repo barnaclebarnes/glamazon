@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138972
+  },
+  "name": "VOAS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14581 K AVE",
+    "addressLocality": "PERRY",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50220"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8255&mlon=-94.0869#map=15/41.8255/-94.0869",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8255,
+    "longitude": -94.0869
+  },
+  "url": "http://www.co.dallas.ia.us",
+  "telephone": "+1 (515) 465-3577",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900009",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186322
+  },
+  "name": "Museo etnografico Palazzo Veneziano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Bamberga, 52",
+    "addressLocality": "Malborghetto Valbruna",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.507&mlon=13.4392#map=15/46.507/13.4392",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.507,
+    "longitude": 13.4392
+  },
+  "url": "http://www.comuneditarvisio.com",
+  "telephone": "+39 042864970",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YNyPtaeuF0vWw7EixWR-vyFUePU=/1000x1000/museums/logos/000/186/322/original/ed7ffe558f611e63cedf92739e1a4cbccf59.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100289",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

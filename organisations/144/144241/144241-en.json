@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144241
+  },
+  "name": "GRAND RAPIDS CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11 SHELDON AVE NE",
+    "addressLocality": "GRAND RAPIDS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49503-3246"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9637&mlon=-85.667#map=15/42.9637/-85.667",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9637,
+    "longitude": -85.667
+  },
+  "url": "http://www.grcm.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600778",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

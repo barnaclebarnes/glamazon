@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183572
+  },
+  "name": "Riedenburger Bauernhofmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Echendorf 11",
+    "addressLocality": "Riedenburg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "93339"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9324&mlon=11.7073#map=15/48.9324/11.7073",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9324,
+    "longitude": 11.7073
+  },
+  "url": "http://www.altmuehltal.de/riedenburg/muse-bau.htm",
+  "telephone": "09442/20357",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183572",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188509
+  },
+  "name": "Museo agro-forestale \"Baglio San Matteo\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Contrada San Matteo, SNC",
+    "addressLocality": "Erice",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0296&mlon=12.5642#map=15/38.0296/12.5642",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0296,
+    "longitude": 12.5642
+  },
+  "url": "http://www.zerodelta.net",
+  "telephone": "+39 0923 869532",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato 8,00 - 14,00 domenica 10,00 - 18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/z9wOy5DV0e86lKopFPuulGly0Oc=/1000x1000/museums/logos/000/188/509/original/26c5b544feb35364b1e15019edfc3b01a88d66.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101374",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

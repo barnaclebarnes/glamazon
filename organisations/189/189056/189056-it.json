@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189056
+  },
+  "name": "Memorie della Grande Guerra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Veneto, 26",
+    "addressLocality": "Bolzano/Bozen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.503&mlon=11.3287#map=15/46.503/11.3287",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.503,
+    "longitude": 11.3287
+  },
+  "telephone": "+39 0471261592",
+  "contactPoint": [
+
+  ],
+  "openingHours": "temporaneamente chiuso al pubblico",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vZD3p0UtNcmrHhY00NwxqxsfOXY=/1000x1000/museums/logos/000/189/056/original/bbc0b7a9f9328713146762281ef1d99bf591bc4f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100515",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

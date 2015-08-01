@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183777
+  },
+  "name": "Ortsmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Graf-Vieregg-Straße 14",
+    "addressLocality": "Tutzing",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82327"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9075&mlon=11.2815#map=15/47.9075/11.2815",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9075,
+    "longitude": 11.2815
+  },
+  "url": "http://www.tutzing.de/default.asp?tg=&wid=169&uwid=385&kon=&spk=de&spkg=de&sid=193462700&art=u",
+  "telephone": "08158/258397",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183777",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

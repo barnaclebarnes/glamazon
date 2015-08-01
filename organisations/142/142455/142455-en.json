@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142455
+  },
+  "name": "NASH DINOSAUR TRACKS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "39 ALDRICH ST",
+    "addressLocality": "GRANBY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01033"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2833&mlon=-72.5398#map=15/42.2833/-72.5398",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2833,
+    "longitude": -72.5398
+  },
+  "url": "http://www.nashdinosaurtracks.com",
+  "telephone": "+1 (413) 467-9566",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500085",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

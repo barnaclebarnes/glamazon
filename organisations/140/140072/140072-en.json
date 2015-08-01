@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140072
+  },
+  "name": "CITY OF MANHATTAN, KANSAS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2333 OAK ST",
+    "addressLocality": "MANHATTAN",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66502-3824"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1786&mlon=-96.5973#map=15/39.1786/-96.5973",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1786,
+    "longitude": -96.5973
+  },
+  "url": "http://www.sunsetzoo.com",
+  "telephone": "+1 (785) 587-2737",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000398",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161070
+  },
+  "name": "USS WADDELL ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 111",
+    "addressLocality": "TOWNSEND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23443-0111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1802&mlon=-75.9603#map=15/37.1802/-75.9603",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1802,
+    "longitude": -75.9603
+  },
+  "url": "http://www.usswaddell.com/index.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100576",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187024
+  },
+  "name": "Museo storico del Corpo nazionale dei Vigili del Fuoco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Vigili del Fuoco Mantova, ?",
+    "addressLocality": "Mantova",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1578&mlon=10.7993#map=15/45.1578/10.7993",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1578,
+    "longitude": 10.7993
+  },
+  "url": "http://www.vigilfuoco.mantova.it",
+  "telephone": "+39 0376 22771",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1blMU_cUdQ-__KLA4U6oY6Q5EOg=/1000x1000/museums/logos/000/187/024/original/eb0e7b06fbd6f8562c223626c941a98c52b195.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106914",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

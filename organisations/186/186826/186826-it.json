@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186826
+  },
+  "name": "Museo di storia naturale Don Bernardino Gavazzeni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Papa Giovanni XXIII, 2/A",
+    "addressLocality": "Caprino Bergamasco",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7332&mlon=9.49639#map=15/45.7332/9.49639",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7332,
+    "longitude": 9.49639
+  },
+  "telephone": "+39 035781002",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nd4VLdh86cZtRiXcLCpsQnHTqPk=/1000x1000/museums/logos/000/186/826/original/a69f00d0e0f63c72bcbb3b9aa1595b2a6d35cc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103509",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

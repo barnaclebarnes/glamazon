@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164353
+  },
+  "name": "The Briars Homestead",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.2725&mlon=145.043#map=15/-38.2725/145.043",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.2725,
+    "longitude": 145.043
+  },
+  "url": "http://www.mornpen.vic.gov.au/Leisure_Tourism/The_Briars",
+  "telephone": "(03) 5974 3686",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "the-briars-park",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/the-briars-park",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

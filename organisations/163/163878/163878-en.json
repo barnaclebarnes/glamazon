@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163878
+  },
+  "name": "Fort Queenscliff Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.27&mlon=144.656#map=15/-38.27/144.656",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.27,
+    "longitude": 144.656
+  },
+  "url": "http://www.fortqueenscliff.com.au",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "fort-queenscliff-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/fort-queenscliff-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

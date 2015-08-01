@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148419
+  },
+  "name": "TINKERTOWN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "121 SANDIA CREST RD",
+    "addressLocality": "SANDIA PARK",
+    "addressRegion": "NM",
+    "addressCountry": "United States",
+    "postalCode": "87047"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1688&mlon=-106.366#map=15/35.1688/-106.366",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1688,
+    "longitude": -106.366
+  },
+  "url": "http://www.tinkertown.com",
+  "telephone": "+1 (505) 281-5233",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403500009",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

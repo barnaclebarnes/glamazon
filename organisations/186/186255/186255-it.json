@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186255
+  },
+  "name": "Museo diocesano di arte sacra di Pordenone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Revedole, 1",
+    "addressLocality": "Pordenone",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9574&mlon=12.6706#map=15/45.9574/12.6706",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9574,
+    "longitude": 12.6706
+  },
+  "url": "http://www.diocesi.concordia-pordenone.it/istituzioni-diocesane.php?id_istituzione=5",
+  "telephone": "+39 0434221275; 0434524340",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wPu2XOdoybNAIMhB8K0x0aEvWVs=/1000x1000/museums/logos/000/186/255/original/2ce7d6f27e26667123bc7a33546854971cb157.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100210",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

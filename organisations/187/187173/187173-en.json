@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187173
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Perego, 1",
+    "addressLocality": "Sondrio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1712&mlon=9.87021#map=15/46.1712/9.87021",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1712,
+    "longitude": 9.87021
+  },
+  "url": "http://www.comune.sondrio.it",
+  "telephone": "+39 0342 526260",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Gbj4knDPliGBQQhIa5vcOBQjdXk=/1000x1000/museums/logos/000/187/173/original/51da6750643a271b2814f4fc354145ef1eddfa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106874",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

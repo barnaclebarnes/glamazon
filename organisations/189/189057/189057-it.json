@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189057
+  },
+  "name": "Messner Mountain Museum Firmiam (Schloss Sigmundskron)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castel Firmiano , 53",
+    "addressLocality": "Bolzano/Bozen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4983&mlon=11.3548#map=15/46.4983/11.3548",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4983,
+    "longitude": 11.3548
+  },
+  "url": "http://www.messner-mountain-museum.it",
+  "telephone": "+39 0471631264",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Il museo è aperto dalla prima domenica di marzo alla terza domenica di novembre. Orario 10 - 18 Ultimo ingresso alle ore 17",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 9.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nR4uPelw10e-TSORn-qrIz8bQ6E=/1000x1000/museums/logos/000/189/057/original/90f625976a1e48d1ccbc010f356188cb9732274.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100516",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

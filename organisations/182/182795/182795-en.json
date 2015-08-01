@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182795
+  },
+  "name": "Museum der Stadt Geretsried",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Karl-Lederer-Platz 1",
+    "addressLocality": "Geretsried",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82538"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8744&mlon=11.4649#map=15/47.8744/11.4649",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8744,
+    "longitude": 11.4649
+  },
+  "url": "http://www.geretsried.de/781/",
+  "telephone": "08171/629827",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182795",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

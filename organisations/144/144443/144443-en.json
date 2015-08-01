@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144443
+  },
+  "name": "JOHN BALL ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1300 W FULTON ST",
+    "addressLocality": "GRAND RAPIDS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49504"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9639&mlon=-85.7#map=15/42.9639/-85.7",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9639,
+    "longitude": -85.7
+  },
+  "telephone": "+1 (616) 336-4301",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600980",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

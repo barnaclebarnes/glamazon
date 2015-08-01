@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189139
+  },
+  "name": "Museo del fossile del Monte Baldo - Collezione Osvaldo Giovanazzi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mantova, 4",
+    "addressLocality": "Brentonico",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8167&mlon=10.9542#map=15/45.8167/10.9542",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8167,
+    "longitude": 10.9542
+  },
+  "url": "http://www.comune.brentonico.tn.it",
+  "telephone": "+39 0464395149",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato 9.00/12.00-14.30/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FAsFSZih8_-AJ7UMe7V2XYyACCA=/1000x1000/museums/logos/000/189/139/original/bfcfa86c828e9cb427b210d452eacbea14b92ab3.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100595",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

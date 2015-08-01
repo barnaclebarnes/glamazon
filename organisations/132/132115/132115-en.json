@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132115
+  },
+  "name": "THE EXPLORATORIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3601 LYON ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7963&mlon=-122.401#map=15/37.7963/-122.401",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7963,
+    "longitude": -122.401
+  },
+  "url": "http://www.palaceoffinearts.org",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/exploratorium"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/exploratorium"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602241",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

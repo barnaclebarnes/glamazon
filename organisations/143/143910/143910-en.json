@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143910
+  },
+  "name": "SAGINAW MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1126 N MICH AVE",
+    "addressLocality": "SAGINAW",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48602-4763"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4247&mlon=-83.9537#map=15/43.4247/-83.9537",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4247,
+    "longitude": -83.9537
+  },
+  "url": "http://www.saginawartmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600447",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

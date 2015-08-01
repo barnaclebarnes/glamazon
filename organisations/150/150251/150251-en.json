@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150251
+  },
+  "name": "MUDPIES CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "173 ELM ST",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14203-2020"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8859&mlon=-78.8691#map=15/42.8859/-78.8691",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8859,
+    "longitude": -78.8691
+  },
+  "telephone": "+1 (716) 854-7437",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601545",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

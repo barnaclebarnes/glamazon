@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150009
+  },
+  "name": "NIAGARA UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1938",
+    "addressLocality": "NIAGARA UNIV",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14109-1938"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1391&mlon=-79.0363#map=15/43.1391/-79.0363",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1391,
+    "longitude": -79.0363
+  },
+  "url": "http://www.niagara.edu",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601303",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

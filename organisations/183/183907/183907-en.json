@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183907
+  },
+  "name": "Naturpark-Infostelle und Heimatsammlung",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bahnhofstraße 10",
+    "addressLocality": "Zell",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95239"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1355&mlon=11.8202#map=15/50.1355/11.8202",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1355,
+    "longitude": 11.8202
+  },
+  "url": "http://www.markt-zell.de/index.php?id=0,67",
+  "telephone": "09257/942-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183907",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

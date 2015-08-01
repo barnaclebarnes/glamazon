@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188859
+  },
+  "name": "Castello Malaspina di Fosdinovo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Papiriana, 2",
+    "addressLocality": "Fosdinovo",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.1355&mlon=10.0211#map=15/44.1355/10.0211",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.1355,
+    "longitude": 10.0211
+  },
+  "url": "http://www.castellodifosdinovo.it",
+  "telephone": "+39 0187680013",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DM7TUQQkl7VeIvCCSX77F0yXuv4=/1000x1000/museums/logos/000/188/859/original/7bb63a45206feff07dd01614e52eb408b4487.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110714",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

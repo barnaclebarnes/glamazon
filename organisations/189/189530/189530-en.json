@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189530
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Boschi, 62",
+    "addressLocality": "Selva di Progno",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6414&mlon=11.2246#map=15/45.6414/11.2246",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6414,
+    "longitude": 11.2246
+  },
+  "url": "http://www.museiinrete.it",
+  "telephone": "+39 0457847050",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KwLXSGILhx2qA5CMaOByNy9NuWk=/1000x1000/museums/logos/000/189/530/original/90442bc18133a5e17ff9d29d847b12cd7e5acc9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106805",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

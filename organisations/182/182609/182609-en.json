@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182609
+  },
+  "name": "Museum Altomünster",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "St.-Birgittenhof 6",
+    "addressLocality": "Altomünster",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85250"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3881&mlon=11.2586#map=15/48.3881/11.2586",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3881,
+    "longitude": 11.2586
+  },
+  "url": "http://www.museum-altomuenster.de",
+  "telephone": "08254/9543",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182609",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

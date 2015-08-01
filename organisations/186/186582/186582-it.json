@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186582
+  },
+  "name": "Museo Mastroianni",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Salvatore in Lauro, 15",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9008&mlon=12.4693#map=15/41.9008/12.4693",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9008,
+    "longitude": 12.4693
+  },
+  "url": "http://www.romartguide.it/italiano/schedemusei/UmbertoMastroianni.html",
+  "telephone": "+39 066875608",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dalle 10,00 alle 13,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/32ApPVSD-D4RFl1EP6lGtbRmRNg=/1000x1000/museums/logos/000/186/582/original/d0a0f2a972b5501cfc66a0155cfa2522da5d9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101529",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

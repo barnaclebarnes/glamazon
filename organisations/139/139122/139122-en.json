@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139122
+  },
+  "name": "NATIONAL MOTORCYCLE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 405",
+    "addressLocality": "ANAMOSA",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52205-0405"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1044&mlon=-91.2649#map=15/42.1044/-91.2649",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1044,
+    "longitude": -91.2649
+  },
+  "url": "http://www.nationalmcmuseum.org",
+  "telephone": "+1 (319) 462-3925",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900159",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

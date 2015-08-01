@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130268
+  },
+  "name": "FOWLER MUSEUM AT UCLA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "308 CHARLES E YOUNG DR W",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90024"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.073&mlon=-118.449#map=15/34.073/-118.449",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.073,
+    "longitude": -118.449
+  },
+  "url": "http://www.fowler.ucla.edu",
+  "telephone": "+1 (310) 825-4361",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/FowlerMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/FowlerMuseum"
+    }
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Yobow79pdxFqFKNGGKboSkzTSfM=/1000x1000/museums/logos/000/130/268/original/Fowler.JPG",
+    "creator": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fuzzy901&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fuzzy901 (page does not exist)\">Fuzzy901</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Fowler_Museum_at_UCLA",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600394",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133257
+  },
+  "name": "PUEBLO ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3455 NUCKOLLS AVE",
+    "addressLocality": "PUEBLO",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "81005-1234"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2603&mlon=-104.653#map=15/38.2603/-104.653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2603,
+    "longitude": -104.653
+  },
+  "url": "http://www.pueblozoo.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800433",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

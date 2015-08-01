@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189074
+  },
+  "name": "Museo locale Gudon",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfleghaus, 47",
+    "addressLocality": "Chiusa/Klausen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6375&mlon=11.561#map=15/46.6375/11.561",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6375,
+    "longitude": 11.561
+  },
+  "url": "http://www.musei-altoadige.it/it/musei.asp?muspo_id=637",
+  "telephone": "+39 +39 0472 847399 +39 348 7747339",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Pasqua - Ognissanti mer ore 20-22 gio ore 17-19 ven ore 10-12 tutto l'anno su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CG4GITVVc965q-tzawb19dwh56M=/1000x1000/museums/logos/000/189/074/original/af1bfc1bfeab6d0f815e8e03c514a95ef5aabc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100535",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

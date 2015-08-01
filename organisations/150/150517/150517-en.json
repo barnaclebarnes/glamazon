@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150517
+  },
+  "name": "SCI-TECH CENTER OF NORTHERN NY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "154 STONE ST",
+    "addressLocality": "WATERTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13601-3250"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9742&mlon=-75.913#map=15/43.9742/-75.913",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9742,
+    "longitude": -75.913
+  },
+  "url": "http://www.scitechcenter.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601811",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

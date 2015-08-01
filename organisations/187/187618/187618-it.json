@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187618
+  },
+  "name": "Castello di Soglio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Crova, 21, ",
+    "addressLocality": "Soglio",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9959&mlon=8.07828#map=15/44.9959/8.07828",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9959,
+    "longitude": 8.07828
+  },
+  "url": "http://www.lacabalesta.it/testi/comuni/soglio.html",
+  "telephone": "+39 0141992805",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SLOygRbSNsQ926IZgPWToY2fSwA=/1000x1000/museums/logos/000/187/618/original/5d9baaf35cfdfdad2cdf94f7a6032be63faa1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102509",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

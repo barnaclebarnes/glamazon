@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184100
+  },
+  "name": "McCahon House",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:mccahon@lopdell.org.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.9382&mlon=174.654#map=15/-36.9382/174.654",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.9382,
+    "longitude": 174.654
+  },
+  "url": "http://www.mccahonhouse.org.nz/",
+  "telephone": "(09) 817 8087 x203",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10 утра до 2 вечера средам, субботам и воскресеньям.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "предложенное пожертвование $5 для взрослых."
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/ru/museums/184100",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185571
+  },
+  "name": "Museo musicale d'Abruzzo archivio F. P. Tosti - Palazzo Corvo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Matteotti, SNC",
+    "addressLocality": "Ortona",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.216&mlon=14.3908#map=15/42.216/14.3908",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.216,
+    "longitude": 14.3908
+  },
+  "url": "http://www.istitutonazionaletostiano.org",
+  "telephone": "+39 0859066310",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì: 10 - 13 / il martedì e il giovedì: 16 - 18",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Ingresso gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mDWW_jbYl8v7S-XABgzqbcEg8j8=/1000x1000/museums/logos/000/185/571/original/238edceeaa6befea56cfd3718ef767d12e0a228.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100059",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

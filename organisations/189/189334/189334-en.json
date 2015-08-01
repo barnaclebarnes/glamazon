@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189334
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Daniele Radici, 2A",
+    "addressLocality": "Calvi dell'Umbria",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4042&mlon=12.5688#map=15/42.4042/12.5688",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4042,
+    "longitude": 12.5688
+  },
+  "url": "http://www.comunecalvidellumbria.tr.it",
+  "telephone": "+39 0744710428",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TtjDg-n923O31sEMC25NrX1aldE=/1000x1000/museums/logos/000/189/334/original/30688062cc912c654b6a22978d26663934459.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100771",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

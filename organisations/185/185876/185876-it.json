@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185876
+  },
+  "name": "Museo della civiltà contadina di Scido",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma , ",
+    "addressLocality": "Scido",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2451&mlon=15.9336#map=15/38.2451/15.9336",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2451,
+    "longitude": 15.9336
+  },
+  "telephone": "+39 0966 964324",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nUrI0dqTWhM2nR6TPvP8uTMfECo=/1000x1000/museums/logos/000/185/876/original/fcf93a4bf8edaee0f442c719d576bd822db99.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108472",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

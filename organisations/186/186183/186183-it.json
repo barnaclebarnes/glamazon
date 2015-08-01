@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186183
+  },
+  "name": "Museo della Casa del suono",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Salvo D’Acquisto",
+    "addressLocality": "Parma",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.804&mlon=10.3335#map=15/44.804/10.3335",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.804,
+    "longitude": 10.3335
+  },
+  "url": "http://www.casadelsuono.it",
+  "telephone": "+39 0521 031103",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal mercoledì al venerdì 10-14, pomeriggio su prenotazione Sabato 10-18 Domenica 14-18 (dal 1 luglio al 1 settembre) Da mercoledì a sabato dalle 10 alle 14",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AecrhV-zVwFPC5yp8Va3p6sVcQg=/1000x1000/museums/logos/000/186/183/original/415e921491ee56eae761f6f5a1d888f9ede4a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111206",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

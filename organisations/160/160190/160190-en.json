@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160190
+  },
+  "name": "PARK CITY HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 555",
+    "addressLocality": "PARK CITY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84060-0555"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6613&mlon=-111.503#map=15/40.6613/-111.503",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6613,
+    "longitude": -111.503
+  },
+  "url": "http://www.parkcityhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900256",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

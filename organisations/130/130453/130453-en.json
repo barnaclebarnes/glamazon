@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130453
+  },
+  "name": "ART CENTER SAN LUIS OBISPO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1010 BROAD ST",
+    "addressLocality": "SAN LUIS OBISPO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93401"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.2797&mlon=-120.665#map=15/35.2797/-120.665",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.2797,
+    "longitude": -120.665
+  },
+  "url": "http://www.sloartcenter.org",
+  "telephone": "+1 (805) 543-8562",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600579",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

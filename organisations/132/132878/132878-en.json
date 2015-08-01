@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132878
+  },
+  "name": "LOUISVILLE HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "749 MAIN STREET",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80027"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9776&mlon=-105.132#map=15/39.9776/-105.132",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9776,
+    "longitude": -105.132
+  },
+  "telephone": "+1 (303) 665-9048",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800054",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

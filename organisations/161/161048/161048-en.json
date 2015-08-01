@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161048
+  },
+  "name": "BEDFORD CITY-COUNTY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 E MAIN ST",
+    "addressLocality": "BEDFORD",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "24523-2012"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.334&mlon=-79.5219#map=15/37.334/-79.5219",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.334,
+    "longitude": -79.5219
+  },
+  "url": "http://www.bedfordvamuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100554",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161966
+  },
+  "name": "MAPLE VALLEY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 123",
+    "addressLocality": "MAPLE VALLEY",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98038-0123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.3797&mlon=-122.048#map=15/47.3797/-122.048",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.3797,
+    "longitude": -122.048
+  },
+  "url": "http://www.maplevalleyhistorical.com/",
+  "telephone": "+1 (425) 413-2692",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300415",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

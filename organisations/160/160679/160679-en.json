@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160679
+  },
+  "name": "BACON'S CASTLE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2300 E. GRACE ST.",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23223"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5318&mlon=-77.4213#map=15/37.5318/-77.4213",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5318,
+    "longitude": -77.4213
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100185",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

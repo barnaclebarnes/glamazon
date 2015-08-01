@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188028
+  },
+  "name": "Museo di arte e mestieri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 34, ",
+    "addressLocality": "Guardabosone",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7019&mlon=8.25022#map=15/45.7019/8.25022",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7019,
+    "longitude": 8.25022
+  },
+  "telephone": "+39 0157 61118",
+  "contactPoint": [
+
+  ],
+  "openingHours": "settembre-giugno: domenica 14,00-18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1touGGy9XDwExyoeHSh68OtZldA=/1000x1000/museums/logos/000/188/028/original/ee56321c81d0d13a878ce69ea2df3b2ba32bba74.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106260",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

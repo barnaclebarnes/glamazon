@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137763
+  },
+  "name": "NORTHERN ILLINOIS FIRE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1",
+    "addressLocality": "MARENGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60152-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2442&mlon=-88.5971#map=15/42.2442/-88.5971",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2442,
+    "longitude": -88.5971
+  },
+  "url": "http://www.nifm.net/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700908",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

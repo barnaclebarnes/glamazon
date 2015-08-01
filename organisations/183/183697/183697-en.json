@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183697
+  },
+  "name": "Erhard-Kuhnlein-Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Kirchplatz 1",
+    "addressLocality": "Steinwiesen",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96349"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2938&mlon=11.4628#map=15/50.2938/11.4628",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2938,
+    "longitude": 11.4628
+  },
+  "url": "http://www.steinwiesen.de",
+  "telephone": "09262/99150",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183697",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

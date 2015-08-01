@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143713
+  },
+  "name": "BUCHANAN ART CENTER INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "117 W FRONT ST",
+    "addressLocality": "BUCHANAN",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49107-1234"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8274&mlon=-86.3615#map=15/41.8274/-86.3615",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8274,
+    "longitude": -86.3615
+  },
+  "url": "http://www.buchananartcenter.org",
+  "telephone": "+1 (269) 697-4005",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600250",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

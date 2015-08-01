@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187892
+  },
+  "name": "Museo valdese di Rorà (Italia)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Duca Amedeo, ",
+    "addressLocality": "Rorà",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7922&mlon=7.19863#map=15/44.7922/7.19863",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7922,
+    "longitude": 7.19863
+  },
+  "url": "http://www.fondazionevaldese.org",
+  "telephone": "+39 012193173",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102741",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

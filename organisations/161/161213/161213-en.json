@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161213
+  },
+  "name": "HISTORIC PRINCE WILLIAM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1731",
+    "addressLocality": "PRINCE WILLIAM",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22195"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6532&mlon=-77.3102#map=15/38.6532/-77.3102",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6532,
+    "longitude": -77.3102
+  },
+  "url": "http://www.historicprincewilliam.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100719",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

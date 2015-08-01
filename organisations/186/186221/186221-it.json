@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186221
+  },
+  "name": "Museo Mulino Sapignoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Santarcangiolese, 4631",
+    "addressLocality": "Poggio Berni",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0318&mlon=12.4188#map=15/44.0318/12.4188",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0318,
+    "longitude": 12.4188
+  },
+  "url": "http://www.pubbliesercizipoggioberni.com",
+  "telephone": "+39 0541 629701",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì Mercoledì Giovedì 15.30 - 18.30; Martedì Venerdì Sabato 9.30 - 12.30; Domenica 15.00 - 18.00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111240",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

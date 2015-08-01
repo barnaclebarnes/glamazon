@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136924
+  },
+  "name": "RIVERSIDE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 PINE AVE",
+    "addressLocality": "RIVERSIDE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60546"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8275&mlon=-87.82#map=15/41.8275/-87.82",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8275,
+    "longitude": -87.82
+  },
+  "url": "http://riverside.il.us",
+  "telephone": "+1 (708) 447-2542",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700069",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

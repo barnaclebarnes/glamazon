@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164492
+  },
+  "name": "Xavier College",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8123&mlon=145.031#map=15/-37.8123/145.031",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8123,
+    "longitude": 145.031
+  },
+  "url": "http://www.xavier.vic.edu.au/",
+  "telephone": "(03) 9854 5411",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "xavier-college",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/xavier-college",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

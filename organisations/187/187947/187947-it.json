@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187947
+  },
+  "name": "Museo S. Leonardo Murialdo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Palestro, 14",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0737&mlon=7.67223#map=15/45.0737/7.67223",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0737,
+    "longitude": 7.67223
+  },
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "openingHours": "gennaio-dicembre: su prenotazione ogni giorno lavorativo",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nMgdE_xSTogovn8u3UEmIY-TUlU=/1000x1000/museums/logos/000/187/947/original/88566b123b9eb619cb875f772c0c55eb39d8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102775",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

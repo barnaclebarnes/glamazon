@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135849
+  },
+  "name": "ATLANTA HISTORY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "130 W PACES FERRY RD NW",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30305"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8419&mlon=-84.385#map=15/33.8419/-84.385",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8419,
+    "longitude": -84.385
+  },
+  "url": "http://www.atlantahistorycenter.com",
+  "telephone": "+1 (404) 814-4000",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/AtlantaHistoryCenter"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/atlhistcenter"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300120",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

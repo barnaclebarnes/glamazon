@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183033
+  },
+  "name": "Krumbacher Wachsmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Nordstraße 3",
+    "addressLocality": "Krumbach",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86381"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.252&mlon=10.3576#map=15/48.252/10.3576",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.252,
+    "longitude": 10.3576
+  },
+  "url": "http://www.morsa.de/index.php?link=Wachsmuseum/Wechselausstellung&menu=1",
+  "telephone": "08282/5896",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183033",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

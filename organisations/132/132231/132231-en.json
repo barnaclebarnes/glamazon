@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132231
+  },
+  "name": "VACAVILLE MUSEUM FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "213 BUCK AVE",
+    "addressLocality": "VACAVILLE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95688-3835"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3567&mlon=-121.994#map=15/38.3567/-121.994",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3567,
+    "longitude": -121.994
+  },
+  "url": "http://www.vacavillemuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602357",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

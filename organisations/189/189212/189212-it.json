@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189212
+  },
+  "name": "Raccolta civica di Città di Castello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via delle Giulianelle, 16",
+    "addressLocality": "Città di Castello",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4611&mlon=12.2392#map=15/43.4611/12.2392",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4611,
+    "longitude": 12.2392
+  },
+  "url": "http://www.cdcnet.net",
+  "telephone": "+39 075 8555687",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OLs9Zho6XW7u7wWwbh2Idto5gFE=/1000x1000/museums/logos/000/189/212/original/155455b4941f6a6e6a5feeea3c573d5125cf072.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100696",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

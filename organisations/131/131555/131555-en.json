@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131555
+  },
+  "name": "SAN QUENTIN MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 205",
+    "addressLocality": "SAN QUENTIN",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94964"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9431&mlon=-122.481#map=15/37.9431/-122.481",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9431,
+    "longitude": -122.481
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/San_Quentin_State_Prison",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601681",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

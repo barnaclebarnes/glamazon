@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136420
+  },
+  "name": "MORRIS MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 10TH ST",
+    "addressLocality": "AUGUSTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30901-0100"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4793&mlon=-81.9681#map=15/33.4793/-81.9681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4793,
+    "longitude": -81.9681
+  },
+  "url": "http://www.themorris.org",
+  "telephone": "+1 (706) 724-7501",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/26946317602"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/MorrisMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300691",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

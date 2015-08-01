@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189915
+  },
+  "name": "EDWARD GOREY HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8 STRAWBERRY LANE",
+    "addressLocality": "YARMOUTH",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "2675"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.92&mlon=-102.14#map=15/47.92/-102.14",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.92,
+    "longitude": -102.14
+  },
+  "url": "http://www.edwardgoreyhouse.org/lochours.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501103",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

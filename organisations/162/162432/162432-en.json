@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162432
+  },
+  "name": "HUNTINGTON MUSEUM OF ART INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2033 MCCOY RD",
+    "addressLocality": "HUNTINGTON",
+    "addressRegion": "WV",
+    "addressCountry": "United States",
+    "postalCode": "25701-4937"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3937&mlon=-82.4325#map=15/38.3937/-82.4325",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3937,
+    "longitude": -82.4325
+  },
+  "url": "http://www.hmoa.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405400145",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

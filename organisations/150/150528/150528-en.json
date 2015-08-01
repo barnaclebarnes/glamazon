@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150528
+  },
+  "name": "TOWN OF ROYALTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5316 ROYALTON CENTER ROAD",
+    "addressLocality": "MIDDLEPORT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14105"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1614&mlon=-78.5383#map=15/43.1614/-78.5383",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1614,
+    "longitude": -78.5383
+  },
+  "url": "http://www.townofroyalton.org",
+  "telephone": "+1 (716) 772-2431",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601822",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

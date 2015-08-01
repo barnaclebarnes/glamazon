@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186040
+  },
+  "name": "Museo degli ex voto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Romani, 3",
+    "addressLocality": "Sant'Anastasia",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8831&mlon=14.3828#map=15/40.8831/14.3828",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8831,
+    "longitude": 14.3828
+  },
+  "url": "http://www.santuarioarco.org",
+  "telephone": "+39 0818999111",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101877",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

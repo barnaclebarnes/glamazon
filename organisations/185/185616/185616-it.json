@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185616
+  },
+  "name": "Museo della transumanza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, ",
+    "addressLocality": "Villetta Barrea",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7741&mlon=13.9445#map=15/41.7741/13.9445",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7741,
+    "longitude": 13.9445
+  },
+  "telephone": "+39 0864 89324",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni dalle 17.00 alle 20.00. In altri periodi su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "1€"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100037",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

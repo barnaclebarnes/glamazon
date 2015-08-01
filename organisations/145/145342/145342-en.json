@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145342
+  },
+  "name": "DOLL HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "809 WASHINGTON AVE",
+    "addressLocality": "OCEAN SPRINGS",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "39564"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4139&mlon=-88.8278#map=15/30.4139/-88.8278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4139,
+    "longitude": -88.8278
+  },
+  "telephone": "+1 (228) 872-3971",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800049",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

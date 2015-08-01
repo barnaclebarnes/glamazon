@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139273
+  },
+  "name": "CEDAR RAPIDS MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "410 3RD AVE SE",
+    "addressLocality": "CEDAR RAPIDS",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52401-1606"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9784&mlon=-91.6645#map=15/41.9784/-91.6645",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9784,
+    "longitude": -91.6645
+  },
+  "url": "http://www.crma.org",
+  "telephone": "+1 (319) 366-7503",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/crmuseumofart"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900310",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

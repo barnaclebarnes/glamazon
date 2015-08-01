@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150804
+  },
+  "name": "HONEOYE-RICHMOND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8690 MAIN STREET",
+    "addressLocality": "HONEOYE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14471-9634"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7896&mlon=-77.5118#map=15/42.7896/-77.5118",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7896,
+    "longitude": -77.5118
+  },
+  "url": "http://www.honeoyelakechamber.org/history.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602098",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

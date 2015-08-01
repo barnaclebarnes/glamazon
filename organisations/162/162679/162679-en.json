@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162679
+  },
+  "name": "DINOSAUR DISCOVERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5608 10TH AVE",
+    "addressLocality": "KENOSHA",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53140"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5842&mlon=-87.8234#map=15/42.5842/-87.8234",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5842,
+    "longitude": -87.8234
+  },
+  "url": "http://www.kenosha.org/wp-dinosaur",
+  "telephone": "+1 (262) 653-4450",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500128",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144410
+  },
+  "name": "LANSING MODEL RAILROAD CLUB INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1305",
+    "addressLocality": "EAST LANSING",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48826-1305"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7371&mlon=-84.6294#map=15/42.7371/-84.6294",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7371,
+    "longitude": -84.6294
+  },
+  "url": "http://www.lmrc.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600947",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

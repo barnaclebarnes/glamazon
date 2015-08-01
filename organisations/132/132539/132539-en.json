@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132539
+  },
+  "name": "SANTA PAULA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 842",
+    "addressLocality": "SANTA PAULA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93060"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.3505&mlon=-119.077#map=15/34.3505/-119.077",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.3505,
+    "longitude": -119.077
+  },
+  "url": "http://santapaulahistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602665",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

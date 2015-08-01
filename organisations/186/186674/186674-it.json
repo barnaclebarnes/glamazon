@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186674
+  },
+  "name": "Museo archeologico di Chiavari - Palazzo Rocca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Costaguta, 4",
+    "addressLocality": "Chiavari",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.317&mlon=9.3268#map=15/44.317/9.3268",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.317,
+    "longitude": 9.3268
+  },
+  "url": "http://www.archeoge.beniculturali.it",
+  "telephone": "+39 0185320829",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal martedì al sabato dalle 9.00 alle 13.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/O8pIjmFU4_ICxaOEVnUeicDbAeg=/1000x1000/museums/logos/000/186/674/original/1fa756e7a6d49bff997ec9b9cfe8a6f36c8d29.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20306",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

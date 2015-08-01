@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142711
+  },
+  "name": "TRURO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 486",
+    "addressLocality": "TRURO",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02666-0486"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0384&mlon=-70.0659#map=15/42.0384/-70.0659",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0384,
+    "longitude": -70.0659
+  },
+  "url": "http://www.trurohistorical.org/intro.html",
+  "telephone": "+1 (508) 487-3397",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500341",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

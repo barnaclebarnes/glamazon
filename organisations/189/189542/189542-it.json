@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189542
+  },
+  "name": "Museo Miniscalchi Erizzo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Mammaso, 2/A",
+    "addressLocality": "Verona",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4451&mlon=10.9958#map=15/45.4451/10.9958",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4451,
+    "longitude": 10.9958
+  },
+  "url": "http://www.museo-miniscalchi.it",
+  "telephone": "+39 0458032484",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8nYiYy-VMu4ZaLmlCzBwP2nVF1w=/1000x1000/museums/logos/000/189/542/original/c3bfbe6d9a5c5656f13984b0c7fc2bda6468c8.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101142",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

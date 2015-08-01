@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134574
+  },
+  "name": "MIAMI ART SPACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "244 NW 35TH ST",
+    "addressLocality": "MIAMI",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33127"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.8095&mlon=-80.2003#map=15/25.8095/-80.2003",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8095,
+    "longitude": -80.2003
+  },
+  "url": "http://www.miamiartspace.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200128",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

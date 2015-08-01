@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183292
+  },
+  "name": "Museum Fünf Kontinente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Maximilianstraße 42",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80538"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1375&mlon=11.5858#map=15/48.1375/11.5858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1375,
+    "longitude": 11.5858
+  },
+  "url": "http://www.museum-fuenf-kontinente.de/",
+  "telephone": "089/210136-100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183292",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

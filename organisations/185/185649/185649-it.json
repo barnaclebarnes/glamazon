@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185649
+  },
+  "name": "Museo delle tradizioni venatorie",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8165&mlon=13.8135#map=15/42.8165/13.8135",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8165,
+    "longitude": 13.8135
+  },
+  "url": "http://ilcentro.gelocal.it",
+  "telephone": "+39 3389986944",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ingresso libero",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XWNyGbPz89sBAMkHd5uKwYk96BY=/1000x1000/museums/logos/000/185/649/original/fdddfac27ac7ac65b10dff28da8b0189a45130.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110930",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

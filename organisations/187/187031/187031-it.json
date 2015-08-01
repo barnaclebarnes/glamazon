@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187031
+  },
+  "name": "Museo del Po di Revere",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, 12",
+    "addressLocality": "Revere",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.058&mlon=11.1277#map=15/45.058/11.1277",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.058,
+    "longitude": 11.1277
+  },
+  "url": "http://www.comunerevere.it",
+  "telephone": "+39 038646001",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/f47o6H8cKCiDnrec9wha2TrqlBw=/1000x1000/museums/logos/000/187/031/original/a28e79a0eb74bc54e3286fb6c9fbe77997818014.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103756",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

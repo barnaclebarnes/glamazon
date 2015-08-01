@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131073
+  },
+  "name": "MINIATURE MUSEUM OF SAN DIEGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6265 CARDENO DR",
+    "addressLocality": "LA JOLLA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92037-6926"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8292&mlon=-117.247#map=15/32.8292/-117.247",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8292,
+    "longitude": -117.247
+  },
+  "telephone": "+1 (858) 454-4959",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601199",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

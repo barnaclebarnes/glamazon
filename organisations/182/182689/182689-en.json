@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182689
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Brückenstraße 4",
+    "addressLocality": "Obernburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63785"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8335&mlon=9.11313#map=15/49.8335/9.11313",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8335,
+    "longitude": 9.11313
+  },
+  "telephone": "06022/681765",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182689",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

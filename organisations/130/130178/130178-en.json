@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130178
+  },
+  "name": "NATIONAL CITY DEPOT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "922 W 23RD ST",
+    "addressLocality": "NATIONAL CITY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91950"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.6604&mlon=-117.111#map=15/32.6604/-117.111",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.6604,
+    "longitude": -117.111
+  },
+  "url": "http://www.ci.national-city.ca.us/index",
+  "telephone": "+1 (619) 474-4400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600304",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

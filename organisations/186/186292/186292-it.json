@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186292
+  },
+  "name": "Museo storico del Castello di Miramare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Miramare",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7025&mlon=13.7136#map=15/45.7025/13.7136",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7025,
+    "longitude": 13.7136
+  },
+  "telephone": "+39 040 224143",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dalle 9.00 alle 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RCHl0OGKlgi9z65DIUtdvSVXxXg=/1000x1000/museums/logos/000/186/292/original/a8c0ca34f8203031b18c778727e5b11bc31c44.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "113638",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

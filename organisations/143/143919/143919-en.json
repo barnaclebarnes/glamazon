@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143919
+  },
+  "name": "DETROIT HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5401 WOODWARD AVE",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48202-4009"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.36&mlon=-83.0664#map=15/42.36/-83.0664",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.36,
+    "longitude": -83.0664
+  },
+  "url": "http://www.detroithistorical.org",
+  "telephone": "+1 (313) 833-7935",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/DetroitHistoricalSociety"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/DHSDetroit"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600456",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

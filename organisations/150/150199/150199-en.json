@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150199
+  },
+  "name": "TOWN OF DEKALB HISTORICAL ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 111",
+    "addressLocality": "DEKALB JCT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13630"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4602&mlon=-75.3116#map=15/44.4602/-75.3116",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4602,
+    "longitude": -75.3116
+  },
+  "url": "http://www.dekalbnyhistorian.org/",
+  "telephone": "+1 (315) 347-1900",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601493",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

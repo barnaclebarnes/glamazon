@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186015
+  },
+  "name": "Museo della ceramica Duca di Martina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cimarosa, 77 / via Aniello Falcone, 171 ",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8397&mlon=14.2294#map=15/40.8397/14.2294",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8397,
+    "longitude": 14.2294
+  },
+  "url": "http://www.polomusealenapoli.beniculturali.it",
+  "telephone": "+39 0039.081.5788418",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ore 8.30 -14.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/osOX22jz2vzOtBFD-c2nf5LMEuw=/1000x1000/museums/logos/000/186/015/original/af1aa1bd3f0dd7df44bd3114697b5878853ad.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20254",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130234
+  },
+  "name": "JAMES S COPLEY LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7776 IVANHOE AVE",
+    "addressLocality": "LA JOLLA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92037"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8454&mlon=-117.271#map=15/32.8454/-117.271",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8454,
+    "longitude": -117.271
+  },
+  "telephone": "+1 (858) 454-0411",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600360",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

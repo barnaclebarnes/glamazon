@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186216
+  },
+  "name": "Antiquarium Malatestiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Malatesta, ",
+    "addressLocality": "Coriano",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9645&mlon=12.5999#map=15/43.9645/12.5999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9645,
+    "longitude": 12.5999
+  },
+  "url": "http://www.comune.coriano.rn.it",
+  "telephone": "+39 0541657113",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NkOJj8jcsHfwTaroDzApnVsVUZU=/1000x1000/museums/logos/000/186/216/original/1e525f5872cbd7edf8565a739ad1d385196c6995.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102275",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

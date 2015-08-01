@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188415
+  },
+  "name": "Museo Parco delle kentie",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via M. Carbonaro, SNC",
+    "addressLocality": "Riposto",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "url": "http://www.parcokentie.com",
+  "telephone": "+39 0959702092",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al sabato 9.00/13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vdVZ_KxJi8qvGJX7Iua_dR0p4hM=/1000x1000/museums/logos/000/188/415/original/801a72cd8398cdfcd51df9a5f7428bc7271251eb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101225",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

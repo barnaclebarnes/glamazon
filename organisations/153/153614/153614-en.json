@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153614
+  },
+  "name": "ALDUS SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1150",
+    "addressLocality": "WORTHINGTON",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43085-1150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1028&mlon=-83.0112#map=15/40.1028/-83.0112",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1028,
+    "longitude": -83.0112
+  },
+  "url": "http://www.aldussociety.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901392",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

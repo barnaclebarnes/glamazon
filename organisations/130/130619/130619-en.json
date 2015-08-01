@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130619
+  },
+  "name": "ARLINGTON GARDEN IN PASADENA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "295 ARLINGTON DR",
+    "addressLocality": "PASADENA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91105-3340"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1283&mlon=-118.156#map=15/34.1283/-118.156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1283,
+    "longitude": -118.156
+  },
+  "telephone": "+1 (626) 441-4478",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600745",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150926
+  },
+  "name": "TOWN OF HIGHLANDS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "303 MAIN STREET-VILLAGE HALL-2FL",
+    "addressLocality": "HIGHLAND FALLS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10922"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3309&mlon=-73.9873#map=15/41.3309/-73.9873",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3309,
+    "longitude": -73.9873
+  },
+  "url": "http://historichudsonhighlands.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602220",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

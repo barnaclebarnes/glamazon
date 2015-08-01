@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188429
+  },
+  "name": "Museo civico di Castroreale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guglielmo Siracusa, 31",
+    "addressLocality": "Castroreale",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1006&mlon=15.2126#map=15/38.1006/15.2126",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1006,
+    "longitude": 15.2126
+  },
+  "url": "http://www.castroreale.it",
+  "telephone": "+39 090 9746534",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 01 lug. al 31 ago. da lun. a ven. 9,00 /13,00; dal 01 sett. al 30 giug. da lun. a ven. 9,00/13,00 mart. 15,00/18,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_LQigoDXtcJGrpYgN07LTKW7v3E=/1000x1000/museums/logos/000/188/429/original/23a036b42dc57dca6d18d35f1893ed2ab07f5dd5.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101243",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185553
+  },
+  "name": "Museo universitario d'Abruzzo - Museo di storia delle scienze biomediche",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Trento e Trieste, SNC",
+    "addressLocality": "Chieti",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3518&mlon=14.1672#map=15/42.3518/14.1672",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3518,
+    "longitude": 14.1672
+  },
+  "url": "http://www.unich.it/museo/",
+  "telephone": "+39 0871410927",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Apertura su appuntamento",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1B01U7JID9n6I7T7AozzWQV7akU=/1000x1000/museums/logos/000/185/553/original/f681f42d41c5c9cb626bae186ceebf031dad81c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100045",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

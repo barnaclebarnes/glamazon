@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183034
+  },
+  "name": "Mittelschwäbisches Heimatmuseum Krumbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Heinrich-Sinz-Straße 5",
+    "addressLocality": "Krumbach",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86381"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2451&mlon=10.3692#map=15/48.2451/10.3692",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2451,
+    "longitude": 10.3692
+  },
+  "url": "http://www.museum.krumbach.de",
+  "telephone": "08282/3740",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183034",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

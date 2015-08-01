@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185554
+  },
+  "name": "Museo dell'Abruzzo bizantino ed alto medioevo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Villa Selgaroli, ",
+    "addressLocality": "Crecchio",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.29&mlon=14.3232#map=15/42.29/14.3232",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.29,
+    "longitude": 14.3232
+  },
+  "url": "http://www.muvi.org//mubiz",
+  "telephone": "+39 0871941392",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fyfzSUWlw_3BirjWN3MExxflHPA=/1000x1000/museums/logos/000/185/554/original/dca9c3803cd1f12286cf8dd216f23acfc71b51.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100046",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

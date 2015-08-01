@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137831
+  },
+  "name": "CHICAGO HUMANITIES FESTIVAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 N DEARBORN ST STE 8",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60654-7659"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8909&mlon=-87.6296#map=15/41.8909/-87.6296",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8909,
+    "longitude": -87.6296
+  },
+  "url": "http://info@chicagohumanities.org/www.chfestival.org ",
+  "telephone": "+1 (312) 661-1028",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700976",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

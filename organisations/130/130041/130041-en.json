@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130041
+  },
+  "name": "NOVATO HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "815 DE LONG AVE",
+    "addressLocality": "NOVATO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94945"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1057&mlon=-122.568#map=15/38.1057/-122.568",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1057,
+    "longitude": -122.568
+  },
+  "url": "http://www.cityofnovato.org/museum",
+  "telephone": "+1 (415) 897-4320",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600167",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

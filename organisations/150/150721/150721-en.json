@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150721
+  },
+  "name": "GREENBURGH NATURE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "99 DROMORE RD",
+    "addressLocality": "SCARSDALE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10583"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0045&mlon=-73.8096#map=15/41.0045/-73.8096",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0045,
+    "longitude": -73.8096
+  },
+  "url": "http://www.greenburghnaturecenter.org",
+  "telephone": "+1 (608) 356-9462",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602015",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

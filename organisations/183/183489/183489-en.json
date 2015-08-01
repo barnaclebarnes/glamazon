@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183489
+  },
+  "name": "Fleischmichlhaus Pavelsbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ludwigstraße 23",
+    "addressLocality": "Postbauer-Heng",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92353"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.2636&mlon=11.3429#map=15/49.2636/11.3429",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.2636,
+    "longitude": 11.3429
+  },
+  "url": "http://www.postbauer-heng.de",
+  "telephone": "09188/9406-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183489",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

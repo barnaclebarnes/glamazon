@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137569
+  },
+  "name": "NATIONAL HELLENIC MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "333 S HALSTED ST",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60661-5415"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8771&mlon=-87.6472#map=15/41.8771/-87.6472",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8771,
+    "longitude": -87.6472
+  },
+  "url": "http://www.nationalhellenicmuseum.org",
+  "telephone": "+1 (312) 655-1234",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700714",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188472
+  },
+  "name": "Museo civico Antonio Collisani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Paolo Agliata, SNC",
+    "addressLocality": "Petralia Sottana",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8082&mlon=14.0913#map=15/37.8082/14.0913",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8082,
+    "longitude": 14.0913
+  },
+  "url": "http://www.petraliasottana.net/museocollisani/Orario/index.htm",
+  "telephone": "+39 092 1641811",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni dalle 9,00 alle 19,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3ZIxe7DSqw3tdHwjDTjue1D4ITk=/1000x1000/museums/logos/000/188/472/original/833ed389995dcb786224ab39a9df9a5928527f4.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101325",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

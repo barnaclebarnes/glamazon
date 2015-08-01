@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187808
+  },
+  "name": "Museo civico di storia naturale di Carmagnola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Francesco di Sales, 188, ",
+    "addressLocality": "Carmagnola",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8468&mlon=7.71142#map=15/44.8468/7.71142",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8468,
+    "longitude": 7.71142
+  },
+  "url": "http://www.storianaturale.org",
+  "telephone": "+39 0119724390",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102678",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160428
+  },
+  "name": "NORWICH HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1680",
+    "addressLocality": "NORWICH",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05055-1680"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7367&mlon=-72.3054#map=15/43.7367/-72.3054",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7367,
+    "longitude": -72.3054
+  },
+  "url": "http://norwichhistory.org",
+  "telephone": "+1 (802) 649-0124",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000234",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

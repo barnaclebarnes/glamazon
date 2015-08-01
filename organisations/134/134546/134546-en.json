@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134546
+  },
+  "name": "MUSEO HISTORICO CUBANO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3127 CORAL WAY",
+    "addressLocality": "CORAL GABLES",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33145"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.7502&mlon=-80.2448#map=15/25.7502/-80.2448",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7502,
+    "longitude": -80.2448
+  },
+  "telephone": "+1 (305) 567-3131",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200100",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

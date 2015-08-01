@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188057
+  },
+  "name": "Museo dell’acqua - Acquedotto pugliese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Salvatore Cognetti 36 , ",
+    "addressLocality": "Bari",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1234&mlon=16.8747#map=15/41.1234/16.8747",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1234,
+    "longitude": 16.8747
+  },
+  "url": "http://www.aqp.it",
+  "telephone": "+39 0805723111",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XlPg0wcQE7886JZIqrhzOTJgL8Q=/1000x1000/museums/logos/000/188/057/original/aeff47c144d746f7dbc5de3aa3dd285adcf7b4f2.gif"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102306",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

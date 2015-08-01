@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186101
+  },
+  "name": "Museo diocesano \"S. Matteo\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Plebiscito, 12 , ",
+    "addressLocality": "Salerno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.681&mlon=14.7604#map=15/40.681/14.7604",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.681,
+    "longitude": 14.7604
+  },
+  "telephone": "+39 089239126",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Gmz4ZTeSI2QmQdg4-ZtO5liIMmw=/1000x1000/museums/logos/000/186/101/original/1dafa631345dfe6f499d690105b4c7a9149e27c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101921",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182929
+  },
+  "name": "Städtisches Spixmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Badgasse 7",
+    "addressLocality": "Höchstadt",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91315"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7028&mlon=10.8036#map=15/49.7028/10.8036",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7028,
+    "longitude": 10.8036
+  },
+  "url": "http://www.hoechstadt.de/index.php?id=421",
+  "telephone": "09193/626-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182929",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

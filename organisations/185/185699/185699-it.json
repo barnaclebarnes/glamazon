@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185699
+  },
+  "name": "Museo archeologico provinciale di Potenza Picena",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ciccotti e Via Lazio, 18",
+    "addressLocality": "Potenza",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6478&mlon=15.802#map=15/40.6478/15.802",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6478,
+    "longitude": 15.802
+  },
+  "url": "http://www.provincia.potenza.it",
+  "telephone": "+39 0971 444833",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì alla domenica dalle 8,00 alle 20,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fDbIIYNQatnfEbZejm8Hq8wQg8c=/1000x1000/museums/logos/000/185/699/original/9d15646d3c4c691d5cf8d68dc1e4627f285fad.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100155",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

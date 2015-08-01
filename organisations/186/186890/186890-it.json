@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186890
+  },
+  "name": "Museo agricolo contadino di Corte Franca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Brescia, 3/a",
+    "addressLocality": "Corte Franca",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.637&mlon=10.0135#map=15/45.637/10.0135",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.637,
+    "longitude": 10.0135
+  },
+  "url": "http://www.vignenote.it",
+  "telephone": "+39 030 9828348",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106820",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

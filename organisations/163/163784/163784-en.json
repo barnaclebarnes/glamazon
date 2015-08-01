@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163784
+  },
+  "name": "City of Port Phillip",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8686&mlon=144.988#map=15/-37.8686/144.988",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8686,
+    "longitude": 144.988
+  },
+  "url": "http://heritage.portphillip.vic.gov.au/Home",
+  "telephone": "9209 9496",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mon - Fri 8am - 5:30pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "city-of-port-phillip-curatorial-services-team",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/city-of-port-phillip-curatorial-services-team",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

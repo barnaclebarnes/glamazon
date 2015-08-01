@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189189
+  },
+  "name": "Mosaico delle terme romane",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guelfa, 2A",
+    "addressLocality": "Bevagna",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9338&mlon=12.6078#map=15/42.9338/12.6078",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9338,
+    "longitude": 12.6078
+  },
+  "url": "http://www.comune.bevagna.pg.it",
+  "telephone": "+39 0742360031",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NkJiZffY_viHNpp1uoMm2b9lmAU=/1000x1000/museums/logos/000/189/189/original/1a8f9d11c2693f51b246c25237ac9ee42cadb846.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100683",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

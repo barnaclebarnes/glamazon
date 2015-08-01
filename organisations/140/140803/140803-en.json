@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140803
+  },
+  "name": "BONNIE AND CLYDE AMBUSH MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2419 MAIN ST",
+    "addressLocality": "GIBSLAND",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "71028"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.5447&mlon=-93.0531#map=15/32.5447/-93.0531",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.5447,
+    "longitude": -93.0531
+  },
+  "url": "http://bonnieandclydemuseum.com/admission.html",
+  "telephone": "+1 (318) 843-1934",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200085",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

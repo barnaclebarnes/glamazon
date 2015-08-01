@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151001
+  },
+  "name": "CAMBRIDGE HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 123",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12816-0123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0563&mlon=-73.3735#map=15/43.0563/-73.3735",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0563,
+    "longitude": -73.3735
+  },
+  "telephone": "+1 (518) 677-5232",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602295",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

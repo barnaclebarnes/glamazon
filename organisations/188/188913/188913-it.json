@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188913
+  },
+  "name": "Museo Casa Carducci",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Carducci, 59",
+    "addressLocality": "Santa Maria a Monte",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.698&mlon=10.692#map=15/43.698/10.692",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.698,
+    "longitude": 10.692
+  },
+  "url": "http://www.santamariaamonte.com",
+  "telephone": "+39 0587704254",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rGUR7lLXyIHjtPNtCS0-SHkBC-4=/1000x1000/museums/logos/000/188/913/original/3af15dcbea2b4ad09568c473e0c2334c8b76d0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103169",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

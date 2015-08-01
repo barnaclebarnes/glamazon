@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150106
+  },
+  "name": "VESTAL HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "178 RHODES RD",
+    "addressLocality": "APALACHIN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13732"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0384&mlon=-76.1598#map=15/42.0384/-76.1598",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0384,
+    "longitude": -76.1598
+  },
+  "url": "http://www.vestalny.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601400",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

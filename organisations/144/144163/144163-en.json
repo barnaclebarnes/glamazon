@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144163
+  },
+  "name": "KEMPF HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "312 S DIVISION ST",
+    "addressLocality": "ANN ARBOR",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48104-2204"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.279&mlon=-83.7441#map=15/42.279/-83.7441",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.279,
+    "longitude": -83.7441
+  },
+  "url": "http://kempfhousemuseum.org",
+  "telephone": "+1 (734) 994-4898",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600700",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

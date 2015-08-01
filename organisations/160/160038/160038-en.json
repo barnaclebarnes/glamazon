@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160038
+  },
+  "name": "BOULDER HERITAGE FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "465 N HWY 12",
+    "addressLocality": "BOULDER",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84716"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9428&mlon=-111.433#map=15/37.9428/-111.433",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9428,
+    "longitude": -111.433
+  },
+  "url": "http://www.boulderheritage.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900104",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

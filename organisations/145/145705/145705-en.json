@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145705
+  },
+  "name": "MISSOURI STATE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 W. CAPITOL AVE., CAPITOL BUILDING ROOM B-2",
+    "addressLocality": "JEFFERSON CITY",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "65101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5785&mlon=-92.1724#map=15/38.5785/-92.1724",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5785,
+    "longitude": -92.1724
+  },
+  "telephone": "+1 (573) 751-2854",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900134",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183188
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kastulusplatz 2",
+    "addressLocality": "Moosburg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85368"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4692&mlon=11.9372#map=15/48.4692/11.9372",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4692,
+    "longitude": 11.9372
+  },
+  "url": "http://www.moosburg.org/info/tour/heimus.html",
+  "telephone": "08761/68420",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183188",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

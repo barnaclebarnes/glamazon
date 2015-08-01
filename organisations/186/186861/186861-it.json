@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186861
+  },
+  "name": "Museo del marmo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cave, 74",
+    "addressLocality": "Botticino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5462&mlon=10.3202#map=15/45.5462/10.3202",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5462,
+    "longitude": 10.3202
+  },
+  "url": "http://www.museodelmarmo.it",
+  "telephone": "+39 0302691024",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/psBh1li1_wTM3PJ2mFx58iMO7Dk=/1000x1000/museums/logos/000/186/861/original/2583edecadd97ac1a637e166753b7951fa9ba9c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103547",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

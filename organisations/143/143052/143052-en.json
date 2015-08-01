@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143052
+  },
+  "name": "MANCHESTER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 UNION ST",
+    "addressLocality": "MANCHESTER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01944-1553"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5752&mlon=-70.7711#map=15/42.5752/-70.7711",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5752,
+    "longitude": -70.7711
+  },
+  "url": "http://www.manchesterhistorical.com",
+  "telephone": "+1 (978) 526-7230",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500682",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

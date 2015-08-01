@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151259
+  },
+  "name": "ACKLAND ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "FRANKLIN ST",
+    "addressLocality": "CHAPEL HILL",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27514"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.9246&mlon=-79.0381#map=15/35.9246/-79.0381",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.9246,
+    "longitude": -79.0381
+  },
+  "url": "http://www.ackland.org",
+  "telephone": "+1 (919) 966-5736",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/20674182984"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/AcklandArt"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700130",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

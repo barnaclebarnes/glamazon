@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142439
+  },
+  "name": "ROBBINS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17 JACKSON ST",
+    "addressLocality": "MIDDLEBORO",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02346"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8928&mlon=-70.9069#map=15/41.8928/-70.9069",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8928,
+    "longitude": -70.9069
+  },
+  "url": "http://www.massarchaeology.org",
+  "telephone": "+1 (508) 947-9005",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500069",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

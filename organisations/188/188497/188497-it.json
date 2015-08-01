@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188497
+  },
+  "name": "Museo archeologico di Lentini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Museo, 1",
+    "addressLocality": "Lentini",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2887&mlon=15.0022#map=15/37.2887/15.0022",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2887,
+    "longitude": 15.0022
+  },
+  "url": "http://www.prolococarlentini.it",
+  "telephone": "+39 095902383",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zNqVEfanc-b4urQ0uq9XZaxvokM=/1000x1000/museums/logos/000/188/497/original/104690588d2b8098e83b5d86ec64ae2f3362dd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104008",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

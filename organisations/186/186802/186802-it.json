@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186802
+  },
+  "name": "Museo del Santuario di Savona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santuario, 4",
+    "addressLocality": "Savona",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3448&mlon=8.43378#map=15/44.3448/8.43378",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3448,
+    "longitude": 8.43378
+  },
+  "url": "http://www.operesociali.it",
+  "telephone": "+39 019/8331201; 019/8331232",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100469",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

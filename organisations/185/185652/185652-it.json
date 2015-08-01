@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185652
+  },
+  "name": "Museo territoriale dell’alto Abruzzo - Antiquarium",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": " Via G. Romualdi , 2",
+    "addressLocality": "Notaresco",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6582&mlon=13.8947#map=15/42.6582/13.8947",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6582,
+    "longitude": 13.8947
+  },
+  "url": "http://www.muvi.org/museoromualdi",
+  "telephone": "+39 085 8950223 - 895021",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni: 17-19 (invernali) – 18-20 (estivi). Nei festivi anche dalle 11 alle 13",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 1.00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110932",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

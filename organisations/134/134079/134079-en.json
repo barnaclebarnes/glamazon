@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134079
+  },
+  "name": "HAGLEY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 HAGLEY CREEK RD",
+    "addressLocality": "WILMINGTON",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19807"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7858&mlon=-75.5785#map=15/39.7858/-75.5785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7858,
+    "longitude": -75.5785
+  },
+  "url": "http://hagley.org",
+  "telephone": "+1 (302) 658-2400",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000011",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

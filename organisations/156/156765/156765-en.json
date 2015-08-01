@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156765
+  },
+  "name": "CITY OF BEAUFORT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1911 BOUNDARY ST",
+    "addressLocality": "BEAUFORT",
+    "addressRegion": "SC",
+    "addressCountry": "United States",
+    "postalCode": "29901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.4402&mlon=-80.6856#map=15/32.4402/-80.6856",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.4402,
+    "longitude": -80.6856
+  },
+  "url": "http://beauforthistorymuseum.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404500060",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

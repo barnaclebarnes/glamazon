@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151185
+  },
+  "name": "NORTH CAROLINA MUSEUM OF NATURAL SCIENCES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11 W JONES ST",
+    "addressLocality": "RALEIGH",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.7826&mlon=-78.6395#map=15/35.7826/-78.6395",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.7826,
+    "longitude": -78.6395
+  },
+  "url": "http://www.naturalsciences.org",
+  "telephone": "+1 (919) 733-7450",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/naturalsciences"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/naturalsciences"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700056",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

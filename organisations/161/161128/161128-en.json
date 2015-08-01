@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161128
+  },
+  "name": "FRIENDS OF THE FAIRFAX STATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5514 SANDY FOLLY CT",
+    "addressLocality": "FAIRFAX STA",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22039-1032"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7998&mlon=-77.3329#map=15/38.7998/-77.3329",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7998,
+    "longitude": -77.3329
+  },
+  "url": "http://www.fairfax-station.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100634",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

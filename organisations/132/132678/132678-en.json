@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132678
+  },
+  "name": "CALIFORNIA HISTORIC ROUTE 66 ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8816 FOOTHILL BLVD SUITE 103-66",
+    "addressLocality": "RANCHO CUCAMONGA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91730-7199"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1067&mlon=-117.613#map=15/34.1067/-117.613",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1067,
+    "longitude": -117.613
+  },
+  "url": "http://www.route66ca.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602804",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

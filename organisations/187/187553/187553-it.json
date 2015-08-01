@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187553
+  },
+  "name": "Museo Don Sterpi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Battisti, 78, ",
+    "addressLocality": "Gavazzana",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7768&mlon=8.88547#map=15/44.7768/8.88547",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7768,
+    "longitude": 8.88547
+  },
+  "url": "http://www.comune.gavazzana.al.it",
+  "telephone": "+39 0143 47580 (Municipio)",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/re6kBAwLT6ABTjTkE9mrezh4Nfs=/1000x1000/museums/logos/000/187/553/original/1da95c12d59b3e12b7d557b44fe22eed49bc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106683",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

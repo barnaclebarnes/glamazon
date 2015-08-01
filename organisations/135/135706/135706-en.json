@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135706
+  },
+  "name": "FRIENDS OF FLORIDA MAIN STREET INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 SOUTH BRONOUGH STREET ROOM 422",
+    "addressLocality": "TALLAHASSEE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32399-0250"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.438&mlon=-84.2844#map=15/30.438/-84.2844",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.438,
+    "longitude": -84.2844
+  },
+  "url": "http://www.flheritage.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201261",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

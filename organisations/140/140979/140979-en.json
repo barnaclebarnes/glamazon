@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140979
+  },
+  "name": "JEFFERSON HISTORICAL SOCIETY OF LOUISIANA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 113014",
+    "addressLocality": "METAIRIE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70011-7001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.0092&mlon=-90.1563#map=15/30.0092/-90.1563",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.0092,
+    "longitude": -90.1563
+  },
+  "url": "http://www.jeffersonhistoricalsociety.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200262",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130021
+  },
+  "name": "SAN BERNARDINO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2001 W AGUA MANSA RD",
+    "addressLocality": "COLTON",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92324"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0421&mlon=-117.363#map=15/34.0421/-117.363",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0421,
+    "longitude": -117.363
+  },
+  "url": "http://sbcounty.gov",
+  "telephone": "+1 (909) 370-2091",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600147",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

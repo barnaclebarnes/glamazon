@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160930
+  },
+  "name": "FRANCONIA MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6121 FRANCONIA RD",
+    "addressLocality": "ALEXANDRIA",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22310-2508"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7817&mlon=-77.1478#map=15/38.7817/-77.1478",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7817,
+    "longitude": -77.1478
+  },
+  "url": "http://www.franconiamuseum.org ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100436",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

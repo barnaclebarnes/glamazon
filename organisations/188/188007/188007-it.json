@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188007
+  },
+  "name": "Museo storico delle memorie di Antonio Rosmini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Centro Internazionale di Studi Rosminiani, Corso Umberto I, 15, ",
+    "addressLocality": "Stresa",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8848&mlon=8.53883#map=15/45.8848/8.53883",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8848,
+    "longitude": 8.53883
+  },
+  "telephone": "+39 032330091",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102823",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

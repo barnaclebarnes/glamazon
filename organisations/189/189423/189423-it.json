@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189423
+  },
+  "name": "Fondazione Museo dell'occhiale onlus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Arsenale, 15",
+    "addressLocality": "Pieve di Cadore",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4274&mlon=12.3746#map=15/46.4274/12.3746",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4274,
+    "longitude": 12.3746
+  },
+  "url": "http://www.museodellocchiale.it",
+  "telephone": "+39 0435431812",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RerejGl_1lrOVM2BkWKWS1sHEG8=/1000x1000/museums/logos/000/189/423/original/98b877fb13467699c21ada844cc6fe35ba0cd53.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100882",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186723
+  },
+  "name": "Istituto delle Suore Benedettine della Provvidenza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Benedetto Cambiagio Frassinello, 25",
+    "addressLocality": "Ronco Scrivia",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6128&mlon=8.94838#map=15/44.6128/8.94838",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6128,
+    "longitude": 8.94838
+  },
+  "url": "http://www.benedettineprovvidenza.it",
+  "telephone": "+39 010/935914",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107173",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

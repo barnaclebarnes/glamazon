@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131299
+  },
+  "name": "AMERICAN MUSEUM OF CERAMIC ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "399 N GAREY AVE",
+    "addressLocality": "POMONA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91767-5431"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0612&mlon=-117.75#map=15/34.0612/-117.75",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0612,
+    "longitude": -117.75
+  },
+  "url": "http://www.amoca.org",
+  "telephone": "+1 (909) 865-3146",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/American_Museum_of_Ceramic_Art",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601425",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132214
+  },
+  "name": "OAKLAND AVIATION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8252 EARHART RD",
+    "addressLocality": "OAKLAND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94621"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7329&mlon=-122.214#map=15/37.7329/-122.214",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7329,
+    "longitude": -122.214
+  },
+  "url": "http://www.oaklandaviationmuseum.org",
+  "telephone": "+1 (510) 638-7100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602340",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

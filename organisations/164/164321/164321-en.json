@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164321
+  },
+  "name": "St Kevin's College",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8418&mlon=145.019#map=15/-37.8418/145.019",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8418,
+    "longitude": 145.019
+  },
+  "url": "http://web.stkevins.vic.edu.au/",
+  "telephone": "(03) 9822 0911 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "st-kevins-college",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/st-kevins-college",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

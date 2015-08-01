@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188397
+  },
+  "name": "Museo del giocattolo di Catania",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Emanuele, 201",
+    "addressLocality": "Catania",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5026&mlon=15.0854#map=15/37.5026/15.0854",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5026,
+    "longitude": 15.0854
+  },
+  "url": "http://www.museodelgiocattolo.ct.it",
+  "telephone": "+39 095320111",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì alla domenica 10.00/13.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2amoY9ZPX9KB8JtYowz1uRvb8y0=/1000x1000/museums/logos/000/188/397/original/9fabb4ebce89427239237cf8fbaed975ba86b6c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101200",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

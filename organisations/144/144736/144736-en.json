@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144736
+  },
+  "name": "ST LOUIS PARK HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3700 MONTEREY DRIVE",
+    "addressLocality": "ST LOUIS PARK",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55416"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9372&mlon=-93.3399#map=15/44.9372/-93.3399",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9372,
+    "longitude": -93.3399
+  },
+  "url": "http://www.slphistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700176",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

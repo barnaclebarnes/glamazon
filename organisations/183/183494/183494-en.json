@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183494
+  },
+  "name": "Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Karlstraße 61",
+    "addressLocality": "Penzberg",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82377"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7545&mlon=11.3719#map=15/47.7545/11.3719",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7545,
+    "longitude": 11.3719
+  },
+  "url": "http://www.museum-penzberg.de",
+  "telephone": "08856/813-481",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183494",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

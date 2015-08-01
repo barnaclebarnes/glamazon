@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133528
+  },
+  "name": "YALE CENTER FOR BRITISH ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1080 CHAPEL ST",
+    "addressLocality": "NEW HAVEN",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06510"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.308&mlon=-72.9305#map=15/41.308/-72.9305",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.308,
+    "longitude": -72.9305
+  },
+  "url": "http://britishart.yale.edu",
+  "telephone": "+1 (203) 432-2800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

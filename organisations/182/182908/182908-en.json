@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182908
+  },
+  "name": "Bauernhofmuseum Hof-Kirchanschöring",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hof 1",
+    "addressLocality": "Kirchanschöring",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83417"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9508&mlon=12.8619#map=15/47.9508/12.8619",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9508,
+    "longitude": 12.8619
+  },
+  "url": "http://www.kirchanschoering.info",
+  "telephone": "08685/469",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182908",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

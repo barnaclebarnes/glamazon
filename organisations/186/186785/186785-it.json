@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186785
+  },
+  "name": "Pinacoteca Carlo Levi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gramsci, 58",
+    "addressLocality": "Alassio",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0103&mlon=8.17733#map=15/44.0103/8.17733",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0103,
+    "longitude": 8.17733
+  },
+  "url": "http://www.comune.alassio.sv.it",
+  "telephone": "+39 0182/648078",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100445",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

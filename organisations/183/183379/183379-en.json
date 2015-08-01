@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183379
+  },
+  "name": "Kunstvilla – Museum für regionale Kunst",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lorenzer Straße 32",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90402"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4497&mlon=11.0827#map=15/49.4497/11.0827",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4497,
+    "longitude": 11.0827
+  },
+  "url": "http://www.kunstkulturquartier.de",
+  "telephone": "0911-231 47 43",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183379",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

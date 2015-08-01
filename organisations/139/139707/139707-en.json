@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139707
+  },
+  "name": "MILFORD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "114 WHITING ST",
+    "addressLocality": "MILFORD",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66514"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1742&mlon=-96.9122#map=15/39.1742/-96.9122",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1742,
+    "longitude": -96.9122
+  },
+  "telephone": "+1 (785) 463-5859",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000033",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

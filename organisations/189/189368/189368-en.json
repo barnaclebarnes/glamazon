@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189368
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vico Catina, 4",
+    "addressLocality": "Terni",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5651&mlon=12.6502#map=15/42.5651/12.6502",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5651,
+    "longitude": 12.6502
+  },
+  "telephone": "+39 0744434202",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5DlW1UZEoGneKdOwX7C7KoqdkTc=/1000x1000/museums/logos/000/189/368/original/4565359379fc8e55407893e3f0966bcd5112b3e9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100801",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

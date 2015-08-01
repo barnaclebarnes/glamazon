@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137425
+  },
+  "name": "ART CENTER HIGHLAND PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1957 SHERIDAN RD",
+    "addressLocality": "HIGHLAND PARK",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60035-2540"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1882&mlon=-87.7978#map=15/42.1882/-87.7978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1882,
+    "longitude": -87.7978
+  },
+  "telephone": "+1 (847) 432-1888",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700570",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

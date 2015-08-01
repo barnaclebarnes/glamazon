@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186166
+  },
+  "name": "MUS.A - Museo dell’assurdo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavedoni, 14, ",
+    "addressLocality": "Castelvetro di Modena",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5028&mlon=10.9428#map=15/44.5028/10.9428",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5028,
+    "longitude": 10.9428
+  },
+  "url": "http://www.museimodenesi.it",
+  "telephone": "+39 059 758 836",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ekOcNHT9CmC6czHZyr0rd6ueEsw=/1000x1000/museums/logos/000/186/166/original/b9146e1a63db6aae45762968a63a738a863057.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107936",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

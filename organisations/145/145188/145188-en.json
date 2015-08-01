@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145188
+  },
+  "name": "TWEED MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1201 ODEON COURT",
+    "addressLocality": "DULUTH",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55812"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.8098&mlon=-92.0724#map=15/46.8098/-92.0724",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.8098,
+    "longitude": -92.0724
+  },
+  "url": "http://www.d.umn.edu/tma",
+  "telephone": "+1 (218) 726-7749",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/10344634459"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700628",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

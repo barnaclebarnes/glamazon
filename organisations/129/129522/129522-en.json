@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129522
+  },
+  "name": "FOX TUCSON THEATRE FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1008",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85702-1008"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.221&mlon=-110.972#map=15/32.221/-110.972",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.221,
+    "longitude": -110.972
+  },
+  "url": "http://foxtucsontheatre.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400424",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

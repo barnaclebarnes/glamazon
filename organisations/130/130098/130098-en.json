@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130098
+  },
+  "name": "RED OAK VICTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1337 CANAL BLVD",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94804"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.912&mlon=-122.367#map=15/37.912/-122.367",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.912,
+    "longitude": -122.367
+  },
+  "url": "http://www.ssredoakvictory.com/index.htm",
+  "telephone": "+1 (510) 237-2933",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/SS_Red_Oak_Victory",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600224",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

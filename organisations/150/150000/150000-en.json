@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150000
+  },
+  "name": "HISTORY CENTER IN TOMPKINS COUNTY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "401 E STATE STREET",
+    "addressLocality": "ITHACA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14850-4400"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4394&mlon=-76.4932#map=15/42.4394/-76.4932",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4394,
+    "longitude": -76.4932
+  },
+  "url": "http://www.thehistorycenter.net",
+  "telephone": "+1 (607) 273-8284",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601294",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

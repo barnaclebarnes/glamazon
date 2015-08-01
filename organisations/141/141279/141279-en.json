@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141279
+  },
+  "name": "FRYEBURG HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "511 MAIN STREET",
+    "addressLocality": "FRYEBURG",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04037"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0154&mlon=-70.9773#map=15/44.0154/-70.9773",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0154,
+    "longitude": -70.9773
+  },
+  "url": "http://www.fryeburghistorical.org",
+  "telephone": "+1 (207) 256-3001",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300128",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153000
+  },
+  "name": "STRS OHIO 80TH INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "275 E BROAD ST",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43215-3703"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9631&mlon=-82.9929#map=15/39.9631/-82.9929",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9631,
+    "longitude": -82.9929
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900777",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183933
+  },
+  "name": "Club-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Valznerweiher Str. 200",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90480"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4346&mlon=11.1321#map=15/49.4346/11.1321",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4346,
+    "longitude": 11.1321
+  },
+  "url": "http://www.fcn.de/club/club-museum/",
+  "telephone": "0911/94079-100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183933",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189071
+  },
+  "name": "Messner mountain Museum Juval",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Juvale, 3",
+    "addressLocality": "Castelbello-Ciardes/Kastelbell-Tschars",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6283&mlon=10.9058#map=15/46.6283/10.9058",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6283,
+    "longitude": 10.9058
+  },
+  "url": "http://www.messner-mountain-museum.it",
+  "telephone": "+39 0471631264",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Quarta domenica di marzo al 30 giugno e dal 1 settembre alla prima domenica di novembre ore 10 - 16",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 8.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JqqBw5q54FlTzDxjwlz2gsDAE5c=/1000x1000/museums/logos/000/189/071/original/f4b7aeb2e52e9d353f69020116e861c27a42b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100531",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

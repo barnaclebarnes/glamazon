@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189053
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Palù, 4",
+    "addressLocality": "Appiano sulla strada del vino/Eppan an der Weinstrasse",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4557&mlon=11.2486#map=15/46.4557/11.2486",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4557,
+    "longitude": 11.2486
+  },
+  "telephone": "+39 0471660139",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fRQr9OcydCzf0bETDdm6kZwzjB4=/1000x1000/museums/logos/000/189/053/original/88ea429289a88effe9a0a512d5eeaf5fc6c21e4e.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100513",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

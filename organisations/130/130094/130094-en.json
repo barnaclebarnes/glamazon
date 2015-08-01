@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130094
+  },
+  "name": "POINT REYES NATIONAL SEASHORE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 BEAR VALLEY RD",
+    "addressLocality": "POINT REYES STATION",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94956"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.042&mlon=-122.789#map=15/38.042/-122.789",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.042,
+    "longitude": -122.789
+  },
+  "url": "http://www.nps.gov/pore/index.htm",
+  "telephone": "+1 (415) 464-5100",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/G-xvG9nXu-fWXOpn2YmAcdgA6rQ=/1000x1000/museums/logos/000/130/094/original/Point_Reyes_National_Seashore_headlands_from_Chimney_Rock.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Point_Reyes_National_Seashore",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600220",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

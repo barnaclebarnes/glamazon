@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130472
+  },
+  "name": "ANNENBERG THEATER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 N MUSEUM DR",
+    "addressLocality": "PALM SPRINGS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92262"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8249&mlon=-116.549#map=15/33.8249/-116.549",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8249,
+    "longitude": -116.549
+  },
+  "url": "http://www.psmuseum.org",
+  "telephone": "+1 (760) 325-4490",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Palm_Springs_Art_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600598",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

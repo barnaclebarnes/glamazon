@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183150
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauberstraße 2",
+    "addressLocality": "Mindelheim",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87719"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0474&mlon=10.4889#map=15/48.0474/10.4889",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0474,
+    "longitude": 10.4889
+  },
+  "url": "http://www.mindelheim.de/content/view/705/750/",
+  "telephone": "08261/9097690",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183150",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130452
+  },
+  "name": "CARNEGIE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "424 SOUTH C STREET",
+    "addressLocality": "OXNARD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93030"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1986&mlon=-119.181#map=15/34.1986/-119.181",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1986,
+    "longitude": -119.181
+  },
+  "url": "http://www.carnegieam.org",
+  "telephone": "+1 (805) 385-8157",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/28210649325"
+    }
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bBuPAM8bkBZUdvntuANhbrRkqjU=/1000x1000/museums/logos/000/130/452/original/Carneige_Art_Museum_2_2C_Oxnard.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Los_Angeles\" title=\"User:Los Angeles\">Los Angeles</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Carnegie_Art_Museum_(Oxnard,_California)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600578",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

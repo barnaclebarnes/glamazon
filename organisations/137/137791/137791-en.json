@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137791
+  },
+  "name": "LAKE COUNTY DISCOVERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "27227 NORTH FOREST PRESERVE ROAD",
+    "addressLocality": "WAUCONDA",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60084"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2582&mlon=-88.109#map=15/42.2582/-88.109",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2582,
+    "longitude": -88.109
+  },
+  "url": "http://www.lakecountydiscoverymuseum.org",
+  "telephone": "+1 (847) 968-3400",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/LakeCountyDiscoveryMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/LakeCoMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700936",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183860
+  },
+  "name": "Weißenhorner Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "An der Mauer 2",
+    "addressLocality": "Weißenhorn",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89264"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3046&mlon=10.1596#map=15/48.3046/10.1596",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3046,
+    "longitude": 10.1596
+  },
+  "url": "http://www.weissenhorn.de/staticsite/staticsite.php?menuid=410&topmenu=166",
+  "telephone": "07309/8454",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183860",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182817
+  },
+  "name": "Museum Salz und Moor im Klaushäusl",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klaushäusl 9",
+    "addressLocality": "Grassau",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83224"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.785&mlon=12.4269#map=15/47.785/12.4269",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.785,
+    "longitude": 12.4269
+  },
+  "url": "http://www.grassau.de/de/klaushaeusl",
+  "telephone": "08641/4008-18",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182817",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

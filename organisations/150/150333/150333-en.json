@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150333
+  },
+  "name": "ALMOND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 209",
+    "addressLocality": "ALMOND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14804"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3247&mlon=-77.7944#map=15/42.3247/-77.7944",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3247,
+    "longitude": -77.7944
+  },
+  "telephone": "+1 (607) 276-6781",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601627",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

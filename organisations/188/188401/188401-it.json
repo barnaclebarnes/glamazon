@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188401
+  },
+  "name": "Museo diocesano di Catania",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Etnea, 8",
+    "addressLocality": "Catania",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.502&mlon=15.0876#map=15/37.502/15.0876",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.502,
+    "longitude": 15.0876
+  },
+  "url": "http://www.museodiocesanocatania.it",
+  "telephone": "+39 095281635",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da lunedì a venerdì 9.00/14.00 sabato 9.00/13.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xSCDkjvk3fOBwoQwYiHQGBizbrw=/1000x1000/museums/logos/000/188/401/original/215116be144c0153a74f6c2e33a2f34dd5c62a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101204",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

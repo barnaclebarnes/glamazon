@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157426
+  },
+  "name": "CHILDREN'S MUSEUM OF OAK RIDGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "461 W OUTER DR",
+    "addressLocality": "OAK RIDGE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37830"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.0236&mlon=-84.2715#map=15/36.0236/-84.2715",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.0236,
+    "longitude": -84.2715
+  },
+  "url": "http://www.childrensmuseumofoakridge.org",
+  "telephone": "+1 (865) 482-1074",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/72254417225"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700097",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

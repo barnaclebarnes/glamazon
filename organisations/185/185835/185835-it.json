@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185835
+  },
+  "name": "MACK - Museo Arte Contemporanea Crotone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello , 20",
+    "addressLocality": "Crotone",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0823&mlon=17.1308#map=15/39.0823/17.1308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0823,
+    "longitude": 17.1308
+  },
+  "telephone": "+39 0962.905714",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/q2ULoa9A4WqK5jNgjGZWcCDYQ3g=/1000x1000/museums/logos/000/185/835/original/6177870fa6a2116a628288ec41df6e36e5e0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108316",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

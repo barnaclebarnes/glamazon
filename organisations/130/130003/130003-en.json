@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130003
+  },
+  "name": "SOUTH BAY HISTORICAL RAILROAD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1005 RAILROAD AVE",
+    "addressLocality": "SANTA CLARA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95050"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3522&mlon=-121.937#map=15/37.3522/-121.937",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3522,
+    "longitude": -121.937
+  },
+  "url": "http://www.sbhrs.org",
+  "telephone": "+1 (408) 243-3969",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/To3no2jOvk1-dPTzQDdk-mZE-OA=/1000x1000/museums/logos/000/130/003/original/South_Bay_Historical_Railroad_Society_1359_01.JPG",
+    "license": "CC0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/South_Bay_Historical_Railroad_Society",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600129",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

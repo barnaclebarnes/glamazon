@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142668
+  },
+  "name": "BEVERLY HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "117 CABOT ST",
+    "addressLocality": "BEVERLY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01915-5108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5459&mlon=-70.8801#map=15/42.5459/-70.8801",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5459,
+    "longitude": -70.8801
+  },
+  "url": "http://www.beverlyhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500298",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

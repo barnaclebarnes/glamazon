@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186956
+  },
+  "name": "Museo del ciclismo Madonna del Ghisallo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Bartali, 4",
+    "addressLocality": "Magreglio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9202&mlon=9.26168#map=15/45.9202/9.26168",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9202,
+    "longitude": 9.26168
+  },
+  "url": "http://www.museodelghisallo.it",
+  "telephone": "+39 031965885",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Drnp0vr0ERzkXmdSaxQJ_l7UDJY=/1000x1000/museums/logos/000/186/956/original/e4b06c6020708a37127be99afc80addba68c9b5e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103620",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

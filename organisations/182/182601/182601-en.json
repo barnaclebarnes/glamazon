@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182601
+  },
+  "name": "Altdorfer Universitäts-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Neubaugasse 5",
+    "addressLocality": "Altdorf",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90518"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.3847&mlon=11.3554#map=15/49.3847/11.3554",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.3847,
+    "longitude": 11.3554
+  },
+  "url": "http://www.altdorf.de",
+  "telephone": "09187/807-1241",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182601",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

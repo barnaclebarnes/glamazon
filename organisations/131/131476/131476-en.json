@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131476
+  },
+  "name": "RESCUE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 13",
+    "addressLocality": "RESCUE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95672-0013"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7128&mlon=-120.983#map=15/38.7128/-120.983",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7128,
+    "longitude": -120.983
+  },
+  "url": "http://rescuehistorical.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601602",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

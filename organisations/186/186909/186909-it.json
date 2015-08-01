@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186909
+  },
+  "name": "Museo del vino e del cavatappi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mazzucchelli, 2",
+    "addressLocality": "Mazzano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.494&mlon=10.3436#map=15/45.494/10.3436",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.494,
+    "longitude": 10.3436
+  },
+  "url": "http://www.museimazzucchelli.it",
+  "telephone": "+39 030 212421",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106852",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

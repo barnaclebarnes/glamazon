@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183214
+  },
+  "name": "Bier- und Oktoberfestmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sterneckerstraße 2",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80331"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1353&mlon=11.5802#map=15/48.1353/11.5802",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1353,
+    "longitude": 11.5802
+  },
+  "url": "http://www.bier-und-oktoberfestmuseum.de",
+  "telephone": "089/2423-1607",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183214",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

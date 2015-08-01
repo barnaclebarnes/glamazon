@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187642
+  },
+  "name": "L'oro e la bessa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Debernardi, 50, Frazione Vermogno, ",
+    "addressLocality": "Zubiena",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4826&mlon=8.02525#map=15/45.4826/8.02525",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4826,
+    "longitude": 8.02525
+  },
+  "url": "http://www.ecomuseo.it",
+  "telephone": "+39 0152560708",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RppdOSoKOaUQINim6AwmGjln7hs=/1000x1000/museums/logos/000/187/642/original/fecddcde2fb37b3552f0cf82e894214acaeb33.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102533",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

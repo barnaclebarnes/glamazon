@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149923
+  },
+  "name": "DESTROYER ESCORT HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1926",
+    "addressLocality": "ALBANY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12201-1926"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7278&mlon=-73.8445#map=15/42.7278/-73.8445",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7278,
+    "longitude": -73.8445
+  },
+  "url": "http://www.ussslater.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601217",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

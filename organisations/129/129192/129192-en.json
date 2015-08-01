@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129192
+  },
+  "name": "ARIZONA STATE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "UNIVERSITY OF ARIZONA",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85721"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.0957&mlon=-110.824#map=15/32.0957/-110.824",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.0957,
+    "longitude": -110.824
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/ArizonaStateMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/AZStateMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400094",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

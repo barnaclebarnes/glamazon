@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186644
+  },
+  "name": "Museo dell'architettura di Antonio da Sangallo Il Giovane",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Urbano V, SNC",
+    "addressLocality": "Montefiascone",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.538&mlon=12.0364#map=15/42.538/12.0364",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.538,
+    "longitude": 12.0364
+  },
+  "telephone": "+39 0761 820865 - 820177",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MRXk4fvdvAvErBSEm-uVtUOpA3I=/1000x1000/museums/logos/000/186/644/original/6ca07ba2a3bed013244ca431403cc12e864c4fae.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101631",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

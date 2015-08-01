@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183463
+  },
+  "name": "Ikonenmuseum Schloss Autenried",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bräuhausstraße 1",
+    "addressLocality": "Ichenhausen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "89335"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3645&mlon=10.254#map=15/48.3645/10.254",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3645,
+    "longitude": 10.254
+  },
+  "url": "http://ikonenmuseum.surfino.info/",
+  "telephone": "08223/862",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183463",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

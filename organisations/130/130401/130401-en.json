@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130401
+  },
+  "name": "CENTER FOR AMERICAN MUSICAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1366 RAINBOW DR",
+    "addressLocality": "SAN MATEO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94402"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5319&mlon=-122.348#map=15/37.5319/-122.348",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5319,
+    "longitude": -122.348
+  },
+  "telephone": "+1 (650) 341-1917",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600527",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

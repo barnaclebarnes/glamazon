@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189182
+  },
+  "name": "Museo della Porziuncola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Porziuncola, Santa Maria degli Angeli, 2",
+    "addressLocality": "Assisi",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0573&mlon=12.578#map=15/43.0573/12.578",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0573,
+    "longitude": 12.578
+  },
+  "url": "http://www.porziuncola.org/museo",
+  "telephone": "+39 0758051419",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mattino: 09.30 - 12.30; Pomeriggio: 15.00 - 18.30 (ora solare) / 15.30 - 19.00 (ora legale)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hVNBnTwX3kP10E0PobI5sIg8MfU=/1000x1000/museums/logos/000/189/182/original/feb2e1e9de3bc6be10cfb64b2dd1bfcca141c43.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100680",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

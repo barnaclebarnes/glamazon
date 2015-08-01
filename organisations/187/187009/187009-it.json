@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187009
+  },
+  "name": "Museo Casa Natale di S. Francesca Cabrini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Madre Cabrini, 76",
+    "addressLocality": "Sant'Angelo Lodigiano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2365&mlon=9.40589#map=15/45.2365/9.40589",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2365,
+    "longitude": 9.40589
+  },
+  "url": "http://www.casanatalecabrini.com",
+  "telephone": "+39 037191214",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IvHU-rGXoXueNmvdr-oVjkoUOSA=/1000x1000/museums/logos/000/187/009/original/2ac7277a4afbf032c42f7e67e1bfc8b88da136a9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103671",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150992
+  },
+  "name": "FRIENDS OF LORENZO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4",
+    "addressLocality": "CAZENOVIA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13035-0004"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9293&mlon=-75.8457#map=15/42.9293/-75.8457",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9293,
+    "longitude": -75.8457
+  },
+  "url": "http://www.lorenzony.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602286",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

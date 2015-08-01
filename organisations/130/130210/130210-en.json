@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130210
+  },
+  "name": "LBFD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1465 PETERSON AVE",
+    "addressLocality": "LONG BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90813"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7856&mlon=-118.173#map=15/33.7856/-118.173",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7856,
+    "longitude": -118.173
+  },
+  "url": "http://www.lbfdmuseum.org/main.htm",
+  "telephone": "+1 (562) 599-3985",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Long_Beach_Fire_Department_(California)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600336",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

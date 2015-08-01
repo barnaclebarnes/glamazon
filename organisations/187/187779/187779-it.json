@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187779
+  },
+  "name": "Museo del rubinetto e della sua tecnologia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Martiri, 1, ",
+    "addressLocality": "San Maurizio d'Opaglio",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7762&mlon=8.38956#map=15/45.7762/8.38956",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7762,
+    "longitude": 8.38956
+  },
+  "url": "http://www.museodelrubinetto.it",
+  "telephone": "+39 032389622",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102660",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133307
+  },
+  "name": "FRIENDS OF THE LONGMONT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "400 QUAIL RD",
+    "addressLocality": "LONGMONT",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80501-8989"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1452&mlon=-105.101#map=15/40.1452/-105.101",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1452,
+    "longitude": -105.101
+  },
+  "url": "http://www.ci.longmont.co.us/museum",
+  "telephone": "+1 (303) 651-8374",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800483",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

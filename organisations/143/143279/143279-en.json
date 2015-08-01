@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143279
+  },
+  "name": "PEABODY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "35 WASHINGTON ST",
+    "addressLocality": "PEABODY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01960-5520"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5224&mlon=-70.9247#map=15/42.5224/-70.9247",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5224,
+    "longitude": -70.9247
+  },
+  "url": "http://www.peabodyhistorical.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500909",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138296
+  },
+  "name": "LINCOLN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 E BERRY ST",
+    "addressLocality": "FORT WAYNE",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "46802"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0797&mlon=-85.1368#map=15/41.0797/-85.1368",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0797,
+    "longitude": -85.1368
+  },
+  "url": "http://www.thelincolnmuseum.org",
+  "telephone": "+1 (260) 455-3864",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800082",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

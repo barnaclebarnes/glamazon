@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136585
+  },
+  "name": "CITY & COUNTY OF HONOLULU",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "50 N VINEYARD BLVD",
+    "addressLocality": "HONOLULU",
+    "addressRegion": "HI",
+    "addressCountry": "United States",
+    "postalCode": "96817-3759"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=21.315&mlon=-157.858#map=15/21.315/-157.858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 21.315,
+    "longitude": -157.858
+  },
+  "url": "http://www.honolulu.gov",
+  "telephone": "+1 (808) 522-7060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401500124",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

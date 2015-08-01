@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185548
+  },
+  "name": "Museo della guerra per la pace",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 7",
+    "addressLocality": "Canosa Sannita",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2957&mlon=14.3025#map=15/42.2957/14.3025",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2957,
+    "longitude": 14.3025
+  },
+  "url": "http://www.museodellaguerraperlapace.it",
+  "telephone": "+39 0852058744",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100040",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

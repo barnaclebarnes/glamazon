@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188302
+  },
+  "name": "Museo deleddiano - Casa natale di Grazia Deledda",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Grazia Deledda, 42",
+    "addressLocality": "Nuoro",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3238&mlon=9.33685#map=15/40.3238/9.33685",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3238,
+    "longitude": 9.33685
+  },
+  "url": "http://www.isresardegna.org",
+  "telephone": "+39 0784 258088",
+  "contactPoint": [
+
+  ],
+  "openingHours": "al 1 ott.al 14 giu. 09.00-13.00 e 15.00-17.00 dal 15 giu. al 30 sett. 09.00-20.00 (tutti i gg. compresi i festivi)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jK7LiOzBymDhAKn60ry7ZZbBXdY=/1000x1000/museums/logos/000/188/302/original/e948fa87aa703d52ddbe672d6b84635723869950.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103376",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

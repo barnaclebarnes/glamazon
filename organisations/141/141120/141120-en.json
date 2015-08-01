@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141120
+  },
+  "name": "CITY OF KENNER, LOUISIANA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "624 WILLIAMS BLVD.",
+    "addressLocality": "KENNER",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70062"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.9895&mlon=-90.2422#map=15/29.9895/-90.2422",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.9895,
+    "longitude": -90.2422
+  },
+  "url": "http://www.kenner.la.us/",
+  "telephone": "+1 (504) 468-7293",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200403",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188785
+  },
+  "name": "Istituto di biologia ed ecologia Marina di Piombino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bovio, 3/4",
+    "addressLocality": "Piombino",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9215&mlon=10.5264#map=15/42.9215/10.5264",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9215,
+    "longitude": 10.5264
+  },
+  "url": "http://www.biomare.it",
+  "telephone": "+39 0565225196",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103057",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

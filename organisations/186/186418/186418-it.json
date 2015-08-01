@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186418
+  },
+  "name": "Etnomuseo Monti Lepini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Risorgimento, 4",
+    "addressLocality": "Roccagorga",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5247&mlon=13.1566#map=15/41.5247/13.1566",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5247,
+    "longitude": 13.1566
+  },
+  "url": "http://www.etnomuseo.it",
+  "telephone": "+39 0773958867",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9duWdizX5RU7TCsHXslTI8odPaA=/1000x1000/museums/logos/000/186/418/original/8356916958e4793cb761ea1a5e14e0bc6d563e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101443",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

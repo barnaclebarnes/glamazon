@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159550
+  },
+  "name": "LONDON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 477",
+    "addressLocality": "NEW LONDON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75682"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2407&mlon=-94.942#map=15/32.2407/-94.942",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2407,
+    "longitude": -94.942
+  },
+  "telephone": "+1 (903) 895-4602",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801650",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

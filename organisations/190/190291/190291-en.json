@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190291
+  },
+  "name": "WELLS FARGO HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 SOUTH BROAD STREET",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "10190"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.335&mlon=-85.4958#map=15/41.335/-85.4958",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.335,
+    "longitude": -85.4958
+  },
+  "url": "http://www.wellsfargohistory.com/museums/philadelphia/",
+  "telephone": "+1 (215) 670-6123",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201693",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

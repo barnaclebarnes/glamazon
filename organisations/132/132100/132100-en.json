@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132100
+  },
+  "name": "LOS GATOS MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4 TAIT AVE",
+    "addressLocality": "LOS GATOS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95030-5939"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2237&mlon=-121.986#map=15/37.2237/-121.986",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2237,
+    "longitude": -121.986
+  },
+  "url": "http://www.museumsoflosgatos.org",
+  "telephone": "+1 (408) 395-7375",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602226",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187491
+  },
+  "name": "Museo della città di Urbino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Valerio, ",
+    "addressLocality": "Urbino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7248&mlon=12.638#map=15/43.7248/12.638",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7248,
+    "longitude": 12.638
+  },
+  "url": "http://www.urbinoculturaturismo.it/",
+  "telephone": "+39 0722309227",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì - venerdì 9.30 - 13.30, sabato e domenica 10 - 18",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 1.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YOsXDrSBOFzqlZ3MzuyAuTqHF6Y=/1000x1000/museums/logos/000/187/491/original/e1d21c7efc8778f5bf694dffb305434a8d4324a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105077",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

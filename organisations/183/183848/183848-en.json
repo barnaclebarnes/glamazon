@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183848
+  },
+  "name": "Stadtmuseum Weilheim",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marienplatz 1",
+    "addressLocality": "Weilheim",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82362"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8393&mlon=11.1424#map=15/47.8393/11.1424",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8393,
+    "longitude": 11.1424
+  },
+  "url": "http://www.weilheim.de/index.asp?tid=2&cid=11373&nid=96",
+  "telephone": "0881/682-600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183848",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

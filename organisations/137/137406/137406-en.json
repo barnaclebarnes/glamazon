@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137406
+  },
+  "name": "ART INSTITUTE OF CHICAGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "111 S MICHIGAN AT ADAMS",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60603"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8807&mlon=-87.6296#map=15/41.8807/-87.6296",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8807,
+    "longitude": -87.6296
+  },
+  "url": "http://www.artic.edu",
+  "telephone": "+1 (312) 499-4066",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/artic"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/artinstitutechi"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700551",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187479
+  },
+  "name": "Museo delle terre marchigiane. Collezione Straccini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via leopardi, ",
+    "addressLocality": "San Lorenzo in Campo",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6006&mlon=12.9443#map=15/43.6006/12.9443",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6006,
+    "longitude": 12.9443
+  },
+  "url": "http://www.museoterremarchigiane.it",
+  "telephone": "+39 0721776904",
+  "contactPoint": [
+
+  ],
+  "openingHours": "(15 settembre-30 maggio: sabato, domenica e giorni festivi (15.30-18.30) 1 giugno-14 settembre: sabato, domenica e giorni festivi (10.00-12.00 e 16.30-19.30)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/h6c29jpx-pJV1zB0sozkgLAR9HI=/1000x1000/museums/logos/000/187/479/original/29b882f3db77ec4f143c44d9f8c07c9a624e50.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104317",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

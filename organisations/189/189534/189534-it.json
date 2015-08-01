@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189534
+  },
+  "name": "Galleria d'arte moderna Palazzo Forti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Volto due Mori (Corso S. Anastasia), 4",
+    "addressLocality": "Verona",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.441&mlon=10.9963#map=15/45.441/10.9963",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.441,
+    "longitude": 10.9963
+  },
+  "url": "http://www.palazzoforti.it",
+  "telephone": "+39 0458001903",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Pgtw0jUrONJdoNRBNPQGjcjtSCM=/1000x1000/museums/logos/000/189/534/original/645ded433e2d5d17b9531891f5743ddac7805fe.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101143",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189405
+  },
+  "name": "Museo parrocchiale di Torgnon",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Chiesa, ",
+    "addressLocality": "Torgnon",
+    "addressRegion": "Valle d'Aosta/Vallée d'Aoste",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8031&mlon=7.57129#map=15/45.8031/7.57129",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8031,
+    "longitude": 7.57129
+  },
+  "url": "http://www.touringclub.com/museo/valle-d-aosta/aostaaoste/museo-parrocchiale-di-saint-roch.aspx",
+  "telephone": "+39 0166 540241 - 0166 540213",
+  "contactPoint": [
+
+  ],
+  "openingHours": "luglio e agosto, sabato e domenica 9-12 e 16-19.30; anche a richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hveyC5gdIPY4MC62LRHrmlcAkxs=/1000x1000/museums/logos/000/189/405/original/f224a922b3685a4a03cce63858d86b86524b54.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100849",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

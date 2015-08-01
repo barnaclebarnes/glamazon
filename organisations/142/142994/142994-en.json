@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142994
+  },
+  "name": "ROYALL HOUSE ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 GEORGE STREET",
+    "addressLocality": "MEDFORD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02155-4513"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4119&mlon=-71.1115#map=15/42.4119/-71.1115",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4119,
+    "longitude": -71.1115
+  },
+  "url": "http://www.royallhouse.org",
+  "telephone": "+1 (360) 394-5275",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500624",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

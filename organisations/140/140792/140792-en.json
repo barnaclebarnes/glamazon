@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140792
+  },
+  "name": "COHN ARBORETUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "12206 FOSTER RD",
+    "addressLocality": "BATON ROUGE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70811"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.5576&mlon=-91.1204#map=15/30.5576/-91.1204",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.5576,
+    "longitude": -91.1204
+  },
+  "url": "http://www.brec.org",
+  "telephone": "+1 (225) 775-1006",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200074",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

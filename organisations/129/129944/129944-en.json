@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129944
+  },
+  "name": "SAN FRANCISCO ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 ZOO ROAD",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94132"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7305&mlon=-122.502#map=15/37.7305/-122.502",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7305,
+    "longitude": -122.502
+  },
+  "telephone": "+1 (415) 753-7080",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/San_Francisco_Zoo",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600070",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145941
+  },
+  "name": "CONTEMPORARY ART MUSEUM ST. LOUIS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3750 WASHINGTON BOULEVARD",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63108-3612"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6408&mlon=-90.2348#map=15/38.6408/-90.2348",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6408,
+    "longitude": -90.2348
+  },
+  "url": "http://www.contemporarystl.org",
+  "telephone": "+1 (314) 977-7170",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/contemporaryartmuseumstl"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/contemporarystl"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900370",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

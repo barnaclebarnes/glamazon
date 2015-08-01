@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157001
+  },
+  "name": "RIVERBANKS ZOOLOGICAL PARK AND BOTANICAL GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1060",
+    "addressLocality": "COLUMBIA",
+    "addressRegion": "SC",
+    "addressCountry": "United States",
+    "postalCode": "29202-1060"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0111&mlon=-81.0747#map=15/34.0111/-81.0747",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0111,
+    "longitude": -81.0747
+  },
+  "url": "http://www.riverbanks.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404500296",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

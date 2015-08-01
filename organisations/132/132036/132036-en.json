@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132036
+  },
+  "name": "NEW AMERICANS MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3232 DOVE ST",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92103-5548"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.739&mlon=-117.169#map=15/32.739/-117.169",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.739,
+    "longitude": -117.169
+  },
+  "url": "http://www.newamericansmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602162",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

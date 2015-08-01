@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149655
+  },
+  "name": "THE INTERACTIVE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "23 CENTER ST",
+    "addressLocality": "MIDDLETOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10940-5704"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4465&mlon=-74.4205#map=15/41.4465/-74.4205",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4465,
+    "longitude": -74.4205
+  },
+  "url": "http://www.theinteractivemuseum.com",
+  "telephone": "+1 (845) 344-3131",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600949",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

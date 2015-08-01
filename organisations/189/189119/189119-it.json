@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189119
+  },
+  "name": "Museo per la regione dell'ortles -Museum für das Ortlergebiet",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Principale - Hauptstraße, 109",
+    "addressLocality": "Stelvio/Stilfs",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5979&mlon=10.5444#map=15/46.5979/10.5444",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5979,
+    "longitude": 10.5444
+  },
+  "url": "http://www.provinz.bz.it/museenfuehrer/italiano/p_museo.asp?orga_id=984",
+  "telephone": "+39 0473613032",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da fine giugno a fine settembre tutti i giorni dalle ore 09.00 alle ore 19.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/__lHTo0Ria7DAQyHMyHi30rL5EQ=/1000x1000/museums/logos/000/189/119/original/132be38f446aebba95347fb295056f3b4902fa3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100570",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

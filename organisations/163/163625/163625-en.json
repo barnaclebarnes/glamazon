@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163625
+  },
+  "name": "ANZ Banking Museum & ANZ Group Archive",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8166&mlon=144.962#map=15/-37.8166/144.962",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8166,
+    "longitude": 144.962
+  },
+  "url": "http://www.anz.com/about-us/our-company/profile/facts/archives/",
+  "telephone": "03 8655 7478",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10am to 3pm Monday to Friday (closed public holidays)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "anz-banking-museum",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/anz-banking-museum",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

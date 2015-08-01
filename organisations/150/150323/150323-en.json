@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150323
+  },
+  "name": "GRAND ISLAND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 135",
+    "addressLocality": "GRAND ISLAND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14072-0135"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0232&mlon=-78.9691#map=15/43.0232/-78.9691",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0232,
+    "longitude": -78.9691
+  },
+  "url": "http://www.isledegrande.com/historicalsociety.htm",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601617",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

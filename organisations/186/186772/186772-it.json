@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186772
+  },
+  "name": "Pinacoteca David Beghe'",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Leone, 1",
+    "addressLocality": "Calice al Cornoviglio",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2431&mlon=9.83642#map=15/44.2431/9.83642",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2431,
+    "longitude": 9.83642
+  },
+  "url": "http://www.pinacotecabeghe.com",
+  "telephone": "+39 0187936429 - 0187 935644",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Domenica 15.00/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/aQKxOXdWkohTSGWUstUcZrRRWbM=/1000x1000/museums/logos/000/186/772/original/2c44b7b838889e4caa23be246efa79122dfb685.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100428",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

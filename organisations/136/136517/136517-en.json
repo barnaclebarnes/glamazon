@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136517
+  },
+  "name": "OSKA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3550 KUMU PLACE",
+    "addressLocality": "HONOLULU",
+    "addressRegion": "HI",
+    "addressCountry": "United States",
+    "postalCode": "96822-1182"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=21.3263&mlon=-157.806#map=15/21.3263/-157.806",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 21.3263,
+    "longitude": -157.806
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401500056",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

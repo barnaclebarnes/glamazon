@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183044
+  },
+  "name": "Museum Quintana - Archäologie in Künzing",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Osterhofener Straße 2",
+    "addressLocality": "Künzing",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94550"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.6688&mlon=13.0785#map=15/48.6688/13.0785",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.6688,
+    "longitude": 13.0785
+  },
+  "url": "http://www.museum-quintana.de",
+  "telephone": "08549/973112",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183044",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

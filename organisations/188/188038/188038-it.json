@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188038
+  },
+  "name": "Museo di storia d’arte e d’antichità Don Florindo Piolo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Castello degli Avondo - Via G. Torchio, 10, ",
+    "addressLocality": "Serravalle Sesia",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6875&mlon=8.3094#map=15/45.6875/8.3094",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6875,
+    "longitude": 8.3094
+  },
+  "url": "http://www.archaeogate.org/classica/museo.php?id=796",
+  "telephone": "+39 0163 459125",
+  "contactPoint": [
+
+  ],
+  "openingHours": "a richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105028",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

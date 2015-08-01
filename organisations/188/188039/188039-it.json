@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188039
+  },
+  "name": "Ecomuseo della Valsesia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Roma,35, ",
+    "addressLocality": "Varallo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8135&mlon=8.25694#map=15/45.8135/8.25694",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8135,
+    "longitude": 8.25694
+  },
+  "url": "http://www.ecomusei.net",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106624",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

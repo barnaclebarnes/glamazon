@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186394
+  },
+  "name": "Museo civico archeologico di Fondi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Matteotti Snc, ",
+    "addressLocality": "Fondi",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3552&mlon=13.4324#map=15/41.3552/13.4324",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3552,
+    "longitude": 13.4324
+  },
+  "url": "http://www.comune.cori.lt.it/il_museo.html",
+  "telephone": "+39 0771 503775",
+  "contactPoint": [
+
+  ],
+  "openingHours": "venerdì, sabato e domenica dalle 10,00/13,30 e 15,30/19.00 su prenotazione gli altri giorni",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GuKt1GlbLTtWtOYkBM_a1vEmGH8=/1000x1000/museums/logos/000/186/394/original/1c247cbbe91c6612b384aefae78266e7a5fcbc8.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105666",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

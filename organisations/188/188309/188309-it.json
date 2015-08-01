@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188309
+  },
+  "name": "Casa museo di Elini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Lamarmora",
+    "addressLocality": "Elini",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8987&mlon=9.5309#map=15/39.8987/9.5309",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8987,
+    "longitude": 9.5309
+  },
+  "telephone": "+39 0782 33069",
+  "contactPoint": [
+
+  ],
+  "openingHours": "prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111669",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

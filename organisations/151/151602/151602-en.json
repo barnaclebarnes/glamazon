@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151602
+  },
+  "name": "NORTH CAROLINA MUSEUM OF LIFE & SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "433 W MURRAY AVE",
+    "addressLocality": "DURHAM",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27704-3101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.0286&mlon=-78.8971#map=15/36.0286/-78.8971",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.0286,
+    "longitude": -78.8971
+  },
+  "url": "http://www.ncmls.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700473",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

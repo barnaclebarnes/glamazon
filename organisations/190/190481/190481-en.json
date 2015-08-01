@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190481
+  },
+  "name": "UNIVERSITY OF WISCONSIN STEVENS POINT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "WCEE-CNR",
+    "addressLocality": "STEVENS POINT",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "54481"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9857&mlon=-103.995#map=15/47.9857/-103.995",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9857,
+    "longitude": -103.995
+  },
+  "url": "http://www.uwsp.edu/cnr-ap/wcee/pages/default.aspx",
+  "telephone": "+1 (715) 346-4272",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500887",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

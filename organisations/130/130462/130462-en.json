@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130462
+  },
+  "name": "CAMPBELL HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "51 N CENTRAL AVE",
+    "addressLocality": "CAMPBELL",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95008"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2875&mlon=-121.944#map=15/37.2875/-121.944",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2875,
+    "longitude": -121.944
+  },
+  "url": "http://www.ci.campbell.ca.us/museum",
+  "telephone": "+1 (408) 866-2119",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eycJr9p0AIHJQvbM6_hvC_z104I=/1000x1000/museums/logos/000/130/462/original/Ainsley_House.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:JaGa\" title=\"User:JaGa\">JaGa</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Ainsley_House",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600588",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

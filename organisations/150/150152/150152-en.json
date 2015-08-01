@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150152
+  },
+  "name": "FRIENDS OF CLARENCE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 305",
+    "addressLocality": "CLARENCE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14031-0305"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9813&mlon=-78.6259#map=15/42.9813/-78.6259",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9813,
+    "longitude": -78.6259
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601446",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

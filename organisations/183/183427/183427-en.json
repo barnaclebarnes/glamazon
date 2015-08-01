@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183427
+  },
+  "name": "Erich-Kästner-Bibliothek",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Steinmühle",
+    "addressLocality": "Oberschwarzach",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97516"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8595&mlon=10.4045#map=15/49.8595/10.4045",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8595,
+    "longitude": 10.4045
+  },
+  "url": "http://www.erich-kaestner-bibliothek.de",
+  "telephone": "09382/6954",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183427",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

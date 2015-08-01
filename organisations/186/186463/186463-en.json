@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186463
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Martiri antifascisti, 1",
+    "addressLocality": "Arsoli",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0415&mlon=13.0165#map=15/42.0415/13.0165",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0415,
+    "longitude": 13.0165
+  },
+  "url": "http://www.comunediarsoli.it",
+  "telephone": "+39 0774920006",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9ccMGSY7NO9pbZXZKTcYLhZyyUE=/1000x1000/museums/logos/000/186/463/original/dcde51d4025802feeae55aa9317d9f2e16d3d2e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103947",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

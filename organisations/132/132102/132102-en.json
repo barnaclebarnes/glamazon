@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132102
+  },
+  "name": "MARIN HISTORY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1125 B ST",
+    "addressLocality": "SAN RAFAEL",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94901-2907"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9745&mlon=-122.529#map=15/37.9745/-122.529",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9745,
+    "longitude": -122.529
+  },
+  "url": "http://www.marinhistory.org",
+  "telephone": "+1 (415) 454-8538",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602228",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

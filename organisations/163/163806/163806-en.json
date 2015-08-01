@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163806
+  },
+  "name": "Conservation Volunteers",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.6261&mlon=143.884#map=15/-37.6261/143.884",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.6261,
+    "longitude": 143.884
+  },
+  "url": "http://www.conservationvolunteers.com.au",
+  "telephone": "1800 032 501",
+  "contactPoint": [
+
+  ],
+  "openingHours": "By application in business hours; call 1800 032 501 to make an appointment with the Heritage &amp;  Research Officer",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "conservation-volunteers",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/conservation-volunteers",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

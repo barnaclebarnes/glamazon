@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186402
+  },
+  "name": "Museo della terra pontina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Quadrato, 22",
+    "addressLocality": "Latina",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4674&mlon=12.9029#map=15/41.4674/12.9029",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4674,
+    "longitude": 12.9029
+  },
+  "url": "http://www.musei.it/lazio/latina/museo-della-terra-pontina.asp",
+  "telephone": "+39 335 5286652",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mart., giov., ven. 9,30/14,30 sab. 9,30/13,30 merc. e ven. 15,00/18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/w0FqK6iWAW8E8-9pyCsyokORlWM=/1000x1000/museums/logos/000/186/402/original/ed7672165b3e6ec747171133d3aec9436662e7.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105512",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

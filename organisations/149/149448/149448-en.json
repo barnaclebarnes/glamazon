@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149448
+  },
+  "name": "FRICK COLLECTION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 E 70TH ST",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10021-4981"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7711&mlon=-73.9679#map=15/40.7711/-73.9679",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7711,
+    "longitude": -73.9679
+  },
+  "url": "http://www.frick.org",
+  "telephone": "+1 (212) 288-0700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600742",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

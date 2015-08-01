@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183099
+  },
+  "name": "Städtisches Hutmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Brennterwinkel 4",
+    "addressLocality": "Lindenberg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "88161"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5996&mlon=9.88618#map=15/47.5996/9.88618",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5996,
+    "longitude": 9.88618
+  },
+  "url": "http://www.lindenberg.de/index.shtml?tourismus-hutmuseum",
+  "telephone": "08381/5138",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183099",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

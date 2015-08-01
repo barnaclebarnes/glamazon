@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185578
+  },
+  "name": "Museo Palazzo de Titta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 1",
+    "addressLocality": "Sant'Eusanio del Sangro",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1679&mlon=14.3308#map=15/42.1679/14.3308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1679,
+    "longitude": 14.3308
+  },
+  "telephone": "+39 0872 757126",
+  "contactPoint": [
+
+  ],
+  "openingHours": "momentaneamente chiuso",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100066",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

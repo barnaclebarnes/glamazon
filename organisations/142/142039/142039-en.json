@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142039
+  },
+  "name": "BABE RUTH BIRTHPLACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "216 EMORY ST",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21230-2203"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2856&mlon=-76.6247#map=15/39.2856/-76.6247",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2856,
+    "longitude": -76.6247
+  },
+  "url": "http://www.baberuthmuseum.com",
+  "telephone": "+1 (410) 727-1539",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400332",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

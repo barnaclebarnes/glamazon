@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142019
+  },
+  "name": "MARYLAND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 W MONUMENT ST",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21201-4601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2974&mlon=-76.6191#map=15/39.2974/-76.6191",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2974,
+    "longitude": -76.6191
+  },
+  "url": "http://www.mdhs.org",
+  "telephone": "+1 (410) 685-3750",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/50310834934"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400312",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

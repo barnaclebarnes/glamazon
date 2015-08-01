@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185774
+  },
+  "name": "Galleria nazionale di Cosenza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gian Vincenzo Gravina",
+    "addressLocality": "Cosenza",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2917&mlon=16.2604#map=15/39.2917/16.2604",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2917,
+    "longitude": 16.2604
+  },
+  "url": "http://www.articalabria.it",
+  "telephone": "+39 0984795639",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,00-12,30 15.30-18,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/318yqTskcjRUGcOu1JC-Px_RiBE=/1000x1000/museums/logos/000/185/774/original/ac32947d37ed4c91128bda73928d51bb29a15.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20391",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

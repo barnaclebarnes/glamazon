@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186213
+  },
+  "name": "Collezione Maramotti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via fratelli Cervi, 66",
+    "addressLocality": "Reggio nell'Emilia",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7092&mlon=10.6006#map=15/44.7092/10.6006",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7092,
+    "longitude": 10.6006
+  },
+  "url": "http://www.collezionemaramotti.org",
+  "telephone": "+39 +39 0522 382484",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su prenotazione giovedì e venerdì : 14,30 – 18,30 sabato e domenica: 10,30 – 18,30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111235",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

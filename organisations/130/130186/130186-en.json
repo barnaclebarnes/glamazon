@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130186
+  },
+  "name": "MISSION SAN LUIS REY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4050 MISSION AVE.",
+    "addressLocality": "SAN LUIS REY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92068"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.2281&mlon=-117.331#map=15/33.2281/-117.331",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.2281,
+    "longitude": -117.331
+  },
+  "telephone": "+1 (619) 757-3651",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/04kTy0sOsLMCWCTo51sq1gh3h4M=/1000x1000/museums/logos/000/130/186/original/Mission_San_Luis_Rey_de_Francia_current.jpg",
+    "creator": "https://commons.wikimedia.org/wiki/File:Mission_San_Luis_Rey_de_Francia_current.jpg",
+    "license": "CC BY 1.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Mission_San_Luis_Rey_de_Francia",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600312",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

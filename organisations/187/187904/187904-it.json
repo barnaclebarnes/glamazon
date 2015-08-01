@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187904
+  },
+  "name": "La Giardinera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Italia, 90/bis, ",
+    "addressLocality": "Settimo Torinese",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.139&mlon=7.77427#map=15/45.139/7.77427",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.139,
+    "longitude": 7.77427
+  },
+  "url": "http://www.fondazione-ecm.it",
+  "telephone": "+39 0118028207",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106758",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

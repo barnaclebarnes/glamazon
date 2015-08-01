@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186530
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale delle Belle Arti, 131, ",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9167&mlon=12.4818#map=15/41.9167/12.4818",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9167,
+    "longitude": 12.4818
+  },
+  "url": "http://www.gnam.beniculturali.it",
+  "telephone": "+39 06322981 0632298221",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lAoHOFWudRxTNBJkCKOyy_iLvOE=/1000x1000/museums/logos/000/186/530/original/23df7084137b74b8117e6c9e2ade28bfb794cf26.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20772",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

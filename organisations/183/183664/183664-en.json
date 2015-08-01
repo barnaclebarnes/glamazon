@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183664
+  },
+  "name": "Museum Gunnar-Wester-Haus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Martin-Luther-Platz 5",
+    "addressLocality": "Schweinfurt",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97421"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0458&mlon=10.2327#map=15/50.0458/10.2327",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0458,
+    "longitude": 10.2327
+  },
+  "url": "http://www.schweinfurt.de/kultur-tourismus/museenundgalerien/gunnar-wester-haus/index.html",
+  "telephone": "09721/51-479",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183664",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

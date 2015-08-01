@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187080
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dell'Ambrosiana, 20",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4634&mlon=9.18522#map=15/45.4634/9.18522",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4634,
+    "longitude": 9.18522
+  },
+  "url": "http://www.museomanginibonomi.it",
+  "telephone": "+39 0286451455",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4fNf2P99scJ5lj_u7rpXGIwVH9Q=/1000x1000/museums/logos/000/187/080/original/68aa59f5a191711ab14fb786e5cf6ed873ed82d8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103696",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

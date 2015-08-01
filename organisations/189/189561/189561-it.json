@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189561
+  },
+  "name": "Museo dell’automobile Bonfanti-Vimar",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Torino, 1",
+    "addressLocality": "Romano d'Ezzelino",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7892&mlon=11.7453#map=15/45.7892/11.7453",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7892,
+    "longitude": 11.7453
+  },
+  "url": "http://www.museobonfanti.veneto.it",
+  "telephone": "+39 0424/513746",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qR3ukciEcwf0Yvh0OgiZkZZEO44=/1000x1000/museums/logos/000/189/561/original/4494f6d3e6ac23ac6222951c9eb268d4b53f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106802",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

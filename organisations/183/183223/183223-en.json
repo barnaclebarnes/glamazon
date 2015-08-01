@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183223
+  },
+  "name": "Deutsche Gesellschaft für christliche Kunst e.V.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wittelsbacherplatz 2",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1439&mlon=11.5755#map=15/48.1439/11.5755",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1439,
+    "longitude": 11.5755
+  },
+  "url": "http://www.dgfck.de",
+  "telephone": "089/282548",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183223",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

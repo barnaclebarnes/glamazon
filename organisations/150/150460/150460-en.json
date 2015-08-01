@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150460
+  },
+  "name": "PHELPS MANSION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "191 COURT ST",
+    "addressLocality": "BINGHAMTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13901-3503"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1003&mlon=-75.9054#map=15/42.1003/-75.9054",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1003,
+    "longitude": -75.9054
+  },
+  "url": "http://phelpsmansion.org",
+  "telephone": "+1 (607) 722-4873",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601754",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

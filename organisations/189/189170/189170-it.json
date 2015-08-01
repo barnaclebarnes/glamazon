@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189170
+  },
+  "name": "Museo degli usi e costumi della gente trentina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mach, 2",
+    "addressLocality": "San Michele all'Adige",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1879&mlon=11.133#map=15/46.1879/11.133",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1879,
+    "longitude": 11.133
+  },
+  "url": "http://www.museosanmichele.it/",
+  "telephone": "+39 0461650314",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 9.00 /12.00 - 14.30/18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,00€ didattica € 3,00 ad alunno; guida € 2,00 a persona"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KuYkSZOrNjma8teeeYxnAxnyAMg=/1000x1000/museums/logos/000/189/170/original/f6aeecf2a7a617b4fb92a18c311ec4f9cb527b.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100640",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

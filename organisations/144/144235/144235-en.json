@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144235
+  },
+  "name": "CENTER ART GALLERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3201 BURTON STREET S.E.",
+    "addressLocality": "GRAND RAPIDS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49546"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9269&mlon=-85.5892#map=15/42.9269/-85.5892",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9269,
+    "longitude": -85.5892
+  },
+  "url": "http://www.calvin.edu/centerartgallery",
+  "telephone": "+1 (616) 526-6271",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600772",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

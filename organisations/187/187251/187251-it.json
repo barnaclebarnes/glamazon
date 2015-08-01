@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187251
+  },
+  "name": "Museo Beltrami - Raccolta di cimeli di G.C. Beltrami",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vicolo Beltrami, 2",
+    "addressLocality": "Filottrano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4356&mlon=13.3506#map=15/43.4356/13.3506",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4356,
+    "longitude": 13.3506
+  },
+  "url": "http://www.museobeltrami.it/fondatore.html",
+  "telephone": "+39 071 2072828 - 348 5226262",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sabato dalle 10.00 – 12.30. In qualsiasi altro giorno previo appuntamento",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QT7XG8CpSUNNGvzMaIzmLc6k9oA=/1000x1000/museums/logos/000/187/251/original/209d9894d038cb5f812f92c474b5b5e71d1dbff4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104054",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

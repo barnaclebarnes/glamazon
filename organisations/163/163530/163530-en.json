@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163530
+  },
+  "name": "UNIVERSITY OF WYOMING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "405 E 15TH ST",
+    "addressLocality": "CASPER",
+    "addressRegion": "WY",
+    "addressCountry": "United States",
+    "postalCode": "82601-4313"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8355&mlon=-106.321#map=15/42.8355/-106.321",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8355,
+    "longitude": -106.321
+  },
+  "telephone": "+1 (307) 235-2108",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405600110",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

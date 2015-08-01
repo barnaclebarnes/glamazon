@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186739
+  },
+  "name": "Museo civico di Diano Marina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Garibaldi, 60",
+    "addressLocality": "Diano Marina",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9072&mlon=8.08019#map=15/43.9072/8.08019",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9072,
+    "longitude": 8.08019
+  },
+  "url": "http://www.palazzodelparco.it",
+  "telephone": "+39 0183497621",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100412",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

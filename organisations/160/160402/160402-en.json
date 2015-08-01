@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160402
+  },
+  "name": "DEERFIELD HERITAGE INCORPORATED",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1280",
+    "addressLocality": "BRATTLEBORO",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05302-1280"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8543&mlon=-72.559#map=15/42.8543/-72.559",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8543,
+    "longitude": -72.559
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000208",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

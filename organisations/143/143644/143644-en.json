@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143644
+  },
+  "name": "CURTIS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14022 W MCNICHOLS RD",
+    "addressLocality": "DETROIT",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48235"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4166&mlon=-83.1839#map=15/42.4166/-83.1839",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4166,
+    "longitude": -83.1839
+  },
+  "url": "http://www.curtismuseum.com",
+  "telephone": "+1 (313) 341-1512",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600181",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

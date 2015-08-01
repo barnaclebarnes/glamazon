@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142396
+  },
+  "name": "SPRINGFIELD MUSEUMS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "21 EDWARDS ST",
+    "addressLocality": "SPRINGFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1044&mlon=-72.5871#map=15/42.1044/-72.5871",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1044,
+    "longitude": -72.5871
+  },
+  "url": "http://www.springfieldmuseums.org",
+  "telephone": "+1 (413) 263-6800",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/SpringfieldMuseums"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/SpfldMuseums"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500026",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

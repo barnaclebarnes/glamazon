@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186838
+  },
+  "name": "MACS - Museo d'Arte e Cultura Sacra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vicolo Chiuso, 22",
+    "addressLocality": "Romano di Lombardia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5197&mlon=9.75651#map=15/45.5197/9.75651",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5197,
+    "longitude": 9.75651
+  },
+  "url": "http://www.arteculturasacra.com",
+  "telephone": "+39 0363910633",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8t2s3yHRdENhThlEZqV_qlNzHRk=/1000x1000/museums/logos/000/186/838/original/7fb2fca7697dee41ffa35fd27923e248064d38b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103526",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

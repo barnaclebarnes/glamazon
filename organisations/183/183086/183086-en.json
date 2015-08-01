@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183086
+  },
+  "name": "Schloss Leitheim",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßstraße 1",
+    "addressLocality": "Kaisheim",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86687"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7419&mlon=10.8825#map=15/48.7419/10.8825",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7419,
+    "longitude": 10.8825
+  },
+  "url": "http://www.tucher-leitheim.de",
+  "telephone": "09097/1016",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183086",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150726
+  },
+  "name": "NEW YORK STATE OFFICE OF PARKS, RECREATION, AND HISTORIC PR",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 219",
+    "addressLocality": "WATERFORD",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12188-0219"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6529&mlon=-73.7506#map=15/42.6529/-73.7506",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6529,
+    "longitude": -73.7506
+  },
+  "url": "http://parks.ny.gov/",
+  "telephone": "+1 (518) 474-0456",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602020",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

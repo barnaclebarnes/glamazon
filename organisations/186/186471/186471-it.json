@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186471
+  },
+  "name": "Museo \"La reggia dei volsci\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Torre Antica, 4",
+    "addressLocality": "Carpineto Romano",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6055&mlon=13.0861#map=15/41.6055/13.0861",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6055,
+    "longitude": 13.0861
+  },
+  "url": "http://www.lareggiadeivolsci.it",
+  "telephone": "+39 06 9717434",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2s0lHyaupYzsZGZfAAgGB3mmGSE=/1000x1000/museums/logos/000/186/471/original/8d2b1dadd49a464f9f4a1d4148cf6e2f90ad98.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101488",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

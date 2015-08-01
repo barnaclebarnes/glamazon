@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150982
+  },
+  "name": "WALT WHITMAN BIRTHPLACE ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "246 OLD WALT WHITMAN RD",
+    "addressLocality": "HUNTINGTN STA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11746-4148"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8173&mlon=-73.4123#map=15/40.8173/-73.4123",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8173,
+    "longitude": -73.4123
+  },
+  "url": "http://www.waltwhitman.org",
+  "telephone": "+1 (631) 427-5240",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602276",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

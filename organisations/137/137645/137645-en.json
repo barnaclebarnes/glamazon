@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137645
+  },
+  "name": "GLESSNER HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1800 S PRAIRIE AVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60616-1320"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8578&mlon=-87.6208#map=15/41.8578/-87.6208",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8578,
+    "longitude": -87.6208
+  },
+  "url": "http://www.glessnerhouse.org",
+  "telephone": "+1 (312) 326-1480",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/GlessnerHouseMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700790",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

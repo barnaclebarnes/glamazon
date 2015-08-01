@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128991
+  },
+  "name": "STORIS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3201 NOWELL AVE",
+    "addressLocality": "JUNEAU",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=58.2929&mlon=-134.43#map=15/58.2929/-134.43",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 58.2929,
+    "longitude": -134.43
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200062",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

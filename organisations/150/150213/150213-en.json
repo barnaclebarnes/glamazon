@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150213
+  },
+  "name": "R T ELETHORP HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 179",
+    "addressLocality": "HAMMOND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13646"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4503&mlon=-75.6922#map=15/44.4503/-75.6922",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4503,
+    "longitude": -75.6922
+  },
+  "url": "http://thehammondmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601507",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137833
+  },
+  "name": "LINCOLN HERITAGE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 KEOKUK STREET",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62656"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1553&mlon=-89.3627#map=15/40.1553/-89.3627",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1553,
+    "longitude": -89.3627
+  },
+  "url": "http://www.lincolncollege.edu/museum",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700978",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

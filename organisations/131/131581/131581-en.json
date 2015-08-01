@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131581
+  },
+  "name": "PACIFIC COAST AIR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2230 BECKER BLVD",
+    "addressLocality": "SANTA ROSA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95403-8244"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5063&mlon=-122.801#map=15/38.5063/-122.801",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5063,
+    "longitude": -122.801
+  },
+  "url": "http://www.pacificcoastairmuseum.org",
+  "telephone": "+1 (707) 575-7900",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/pacificcoastairmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601707",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

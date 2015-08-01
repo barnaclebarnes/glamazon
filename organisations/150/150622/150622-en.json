@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150622
+  },
+  "name": "NATIONAL WOMENS HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "76 FALL ST",
+    "addressLocality": "SENECA FALLS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13148-1409"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9104&mlon=-76.7978#map=15/42.9104/-76.7978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9104,
+    "longitude": -76.7978
+  },
+  "url": "http://www.greatwomen.org",
+  "telephone": "+1 (315) 568-8060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601916",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

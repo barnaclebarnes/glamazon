@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188984
+  },
+  "name": "Museo civico la città sotterranea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Il Ciminia, 2-8",
+    "addressLocality": "Chiusi",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0169&mlon=11.9481#map=15/43.0169/11.9481",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0169,
+    "longitude": 11.9481
+  },
+  "url": "http://www.comune.chiusi.siena.it",
+  "telephone": "+39 057820915",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TgI2MEZh1gNF8S4o0K62T9zWG1A=/1000x1000/museums/logos/000/188/984/original/c2d2158e10b1ccba806241d80247d895aee78c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103244",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

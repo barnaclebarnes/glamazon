@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130222
+  },
+  "name": "JOSS HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "215 SACRAMENTO ST",
+    "addressLocality": "AUBURN",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95603"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8942&mlon=-121.078#map=15/38.8942/-121.078",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8942,
+    "longitude": -121.078
+  },
+  "telephone": "+1 (530) 823-0373",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600348",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

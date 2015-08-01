@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183962
+  },
+  "name": "Fränkisches Brauereimuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Michelsberg 10 f",
+    "addressLocality": "Bamberg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96049"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8938&mlon=10.8759#map=15/49.8938/10.8759",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8938,
+    "longitude": 10.8759
+  },
+  "url": "http://www.brauereimuseum.de",
+  "telephone": "0951/53016",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183962",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

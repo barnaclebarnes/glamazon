@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143921
+  },
+  "name": "GRAND RAPIDS ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 MONROE CTR ST NW",
+    "addressLocality": "GRAND RAPIDS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49503-2801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9654&mlon=-85.6706#map=15/42.9654/-85.6706",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9654,
+    "longitude": -85.6706
+  },
+  "url": "http://www.artmuseumgr.org",
+  "telephone": "+1 (616) 831-1000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600458",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

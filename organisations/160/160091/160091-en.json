@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160091
+  },
+  "name": "THIS IS THE PLACE FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2601 E SUNNYSIDE AVE",
+    "addressLocality": "SALT LAKE CTY",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84108-1453"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7508&mlon=-111.82#map=15/40.7508/-111.82",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7508,
+    "longitude": -111.82
+  },
+  "telephone": "+1 (508) 228-1894",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900157",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

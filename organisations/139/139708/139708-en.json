@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139708
+  },
+  "name": "NERMAN MUSEUM OF CONTEMPORARY ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "12345 COLLEGE BLVD",
+    "addressLocality": "OVERLAND PARK",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66210"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9273&mlon=-94.7326#map=15/38.9273/-94.7326",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9273,
+    "longitude": -94.7326
+  },
+  "url": "http://www.nermanmuseum.org",
+  "telephone": "+1 (913) 469-3000",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/NMoCA"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000034",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

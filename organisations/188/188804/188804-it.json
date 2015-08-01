@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188804
+  },
+  "name": "Museo parrocchiale d’arte sacra di Bagni di Lucca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Santa Maria, ",
+    "addressLocality": "Bagni di Lucca",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0002&mlon=10.6374#map=15/44.0002/10.6374",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0002,
+    "longitude": 10.6374
+  },
+  "url": "http://www.museopiaggio.it",
+  "telephone": "+39 0587271727",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103976",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

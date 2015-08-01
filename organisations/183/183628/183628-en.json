@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183628
+  },
+  "name": "Heimathaus-Handwerkermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schlosserweg 3",
+    "addressLocality": "Scheidegg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "88175"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5829&mlon=9.84856#map=15/47.5829/9.84856",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5829,
+    "longitude": 9.84856
+  },
+  "url": "http://www.scheidegg.de/index.shtml?heimathaus",
+  "telephone": "08381/895-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183628",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

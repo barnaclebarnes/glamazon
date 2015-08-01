@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187971
+  },
+  "name": "Al.Bo.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Cascina Brero del Parco La Mandria, via Scodeggio, ",
+    "addressLocality": "Venaria Reale",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1342&mlon=7.62905#map=15/45.1342/7.62905",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1342,
+    "longitude": 7.62905
+  },
+  "url": "http://www.parcomandria.it",
+  "telephone": "+39 011/4993381",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/bLkbhxUOlpPonXEPN4vDkU2cwQU=/1000x1000/museums/logos/000/187/971/original/fb1920735168212f55deeca1494e4abb5577b5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106653",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

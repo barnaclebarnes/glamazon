@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157751
+  },
+  "name": "MUSEUM OF AMERICAN MILITARY ARTIFACTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1314 KNOX VALLEY DRIVE",
+    "addressLocality": "BRENTWOOD",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37027"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.9837&mlon=-86.7898#map=15/35.9837/-86.7898",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.9837,
+    "longitude": -86.7898
+  },
+  "url": "http://motame.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700422",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184467
+  },
+  "name": "Classics Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:emily@classicsmuseum.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7842&mlon=175.254#map=15/-37.7842/175.254",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7842,
+    "longitude": 175.254
+  },
+  "url": "http://www.classicsmuseum.co.nz",
+  "telephone": "079572230",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9 утра - 4 вечера 7 дней",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Adult $20\r\nChild (5 – 14 years) $8\r\nNZ Students $15\r\nSenior Citizen (65 plus) $12\r\nUnder 5s FREE\r\n\r\nGroups of over 10 People $15 pp\r\n\r\nFamily Concessions\r\n1 Adult & 2 Children $25\r\n2 Adults & 1 Child $40\r\n2 Adults & 2 Children $40\r\nExtra Child $5"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/ru/museums/184467",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

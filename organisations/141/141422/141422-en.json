@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141422
+  },
+  "name": "MUSEUM L-A",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "35 CANAL STREET",
+    "addressLocality": "LEWISTON",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04240-7740"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0957&mlon=-70.2179#map=15/44.0957/-70.2179",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0957,
+    "longitude": -70.2179
+  },
+  "url": "http://museumla.org",
+  "telephone": "+1 (207) 333-3881",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300271",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

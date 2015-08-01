@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144567
+  },
+  "name": "WEISMAN ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "333 E RIVER PKWY",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55455"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9721&mlon=-93.2377#map=15/44.9721/-93.2377",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9721,
+    "longitude": -93.2377
+  },
+  "url": "http://www.weisman.umn.edu",
+  "telephone": "+1 (612) 625-9494",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/16028904806"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/weismanart"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

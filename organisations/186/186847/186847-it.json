@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186847
+  },
+  "name": "Casa dei ricordi di Papa Giovanni XXIII",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Camaitino, 12",
+    "addressLocality": "Sotto il Monte Giovanni XXIII",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7086&mlon=9.49885#map=15/45.7086/9.49885",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7086,
+    "longitude": 9.49885
+  },
+  "telephone": "+39 035792956",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/psg49LxBlBeuNNOmEJKCEfs7MZA=/1000x1000/museums/logos/000/186/847/original/f3bb3b2fc8fee9244ab74b5bc1e96ffda14eedb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103535",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

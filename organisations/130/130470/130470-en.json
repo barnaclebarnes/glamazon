@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130470
+  },
+  "name": "BAKERSFIELD MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1930 R STREET",
+    "addressLocality": "BAKERSFIELD",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93301"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.3771&mlon=-119.01#map=15/35.3771/-119.01",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.3771,
+    "longitude": -119.01
+  },
+  "telephone": "+1 (805) 323-7219",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/syphE6kMe_cxWav92_NI2-InlFY=/1000x1000/museums/logos/000/130/470/original/2011_Bakersfield_Museum_of_Art_Sign.JPG",
+    "license": "CC0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Bakersfield_Museum_of_Art",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600596",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145587
+  },
+  "name": "SIKESTON DEPOT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "116 E MALONE AVE",
+    "addressLocality": "SIKESTON",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.8764&mlon=-89.5887#map=15/36.8764/-89.5887",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.8764,
+    "longitude": -89.5887
+  },
+  "url": "http://sikestondepot.org",
+  "telephone": "+1 (573) 481-9967",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900016",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

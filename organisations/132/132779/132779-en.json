@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132779
+  },
+  "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9500 GILMAN DRIVE",
+    "addressLocality": "LA JOLLA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92093-0210"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8755&mlon=-117.239#map=15/32.8755/-117.239",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8755,
+    "longitude": -117.239
+  },
+  "url": "http://www.aquarium.ucsd.edu",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602905",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

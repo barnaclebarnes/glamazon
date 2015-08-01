@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187745
+  },
+  "name": "Museo civico A. Olmo e gipsoteca D.Calandra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Francesco, 17/19, ",
+    "addressLocality": "Savigliano",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6463&mlon=7.66099#map=15/44.6463/7.66099",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6463,
+    "longitude": 7.66099
+  },
+  "url": "http://www.comune.savigliano.cn.it",
+  "telephone": "+39 0172 712982",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sabato 15:00 - 18:30 Domenica 10:00 - 13:00 e 15:00 - 18:30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mxR76dVTby_RgWwlOej7_bI8Jno=/1000x1000/museums/logos/000/187/745/original/1deda0fdfe6fd6c04537452ad9c6d6e3adbc5746.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102625",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150530
+  },
+  "name": "MIDDLESEX HERITAGE GROUP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1216 ROUTE 245, MAIN STREET",
+    "addressLocality": "MIDDLESEX",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14507"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7001&mlon=-77.2841#map=15/42.7001/-77.2841",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7001,
+    "longitude": -77.2841
+  },
+  "url": "http://www.middlesexny.org",
+  "telephone": "+1 (585) 554-3607",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601824",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187153
+  },
+  "name": "Museo archeologico della Lomellina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Ducale, ",
+    "addressLocality": "Vigevano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3173&mlon=8.85786#map=15/45.3173/8.85786",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3173,
+    "longitude": 8.85786
+  },
+  "url": "http://www.archeologica.lombardia.beniculturali.it",
+  "telephone": "+39 038172940",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a sabato: 8.30 - 13.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Gw2uLgzREHFqaCeotGic8OmIekY=/1000x1000/museums/logos/000/187/153/original/5c424c062db9e276c3e4e63bb0573993fd65f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106787",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139875
+  },
+  "name": "JOHN BROWN FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "431 MAIN STREET",
+    "addressLocality": "OSAWATOMIE",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66064"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4994&mlon=-94.9476#map=15/38.4994/-94.9476",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4994,
+    "longitude": -94.9476
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000201",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

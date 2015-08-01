@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184031
+  },
+  "name": "Webereimuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gegenbachstraße 50",
+    "addressLocality": "Breitenberg",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94139"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7071&mlon=13.7658#map=15/48.7071/13.7658",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7071,
+    "longitude": 13.7658
+  },
+  "url": "http://www.breitenberg.de",
+  "telephone": "08584/1490",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184031",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

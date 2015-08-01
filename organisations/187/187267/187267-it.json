@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187267
+  },
+  "name": "Museo di scienze \"Campana\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Aldo Moro, 3",
+    "addressLocality": "Osimo",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4827&mlon=13.4744#map=15/43.4827/13.4744",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4827,
+    "longitude": 13.4744
+  },
+  "url": "http://www.corridoni-campana.it",
+  "telephone": "+39 071715782",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104072",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

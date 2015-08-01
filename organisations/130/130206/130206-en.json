@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130206
+  },
+  "name": "LOS ANGELES SCOTTISH RITE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4357 WILSHIRE BLVD",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90010"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0608&mlon=-118.367#map=15/34.0608/-118.367",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0608,
+    "longitude": -118.367
+  },
+  "url": "http://www.la-sr.org",
+  "telephone": "+1 (323) 937-2566",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600332",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

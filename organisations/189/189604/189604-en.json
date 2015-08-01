@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189604
+  },
+  "name": "GRAND CANYON ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "P.O. BOX 399",
+    "addressLocality": "GRAND CANYON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "86023"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5853&mlon=-105.077#map=15/40.5853/-105.077",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5853,
+    "longitude": -105.077
+  },
+  "url": "http://www.grandcanyon.org",
+  "telephone": "+1 (928) 638-7024",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400467",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

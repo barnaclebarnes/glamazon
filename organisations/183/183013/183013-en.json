@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183013
+  },
+  "name": "Dorfmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kleinwendern 10",
+    "addressLocality": "Bad Alexandersbad",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95680"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.0001&mlon=12.018#map=15/50.0001/12.018",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.0001,
+    "longitude": 12.018
+  },
+  "url": "http://www.badalexandersbad.de/html/museum.php",
+  "telephone": "09232/9925-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183013",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

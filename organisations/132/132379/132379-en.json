@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132379
+  },
+  "name": "GILROY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "195 FIFTH STREET",
+    "addressLocality": "GILROY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95020-5307"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0078&mlon=-121.572#map=15/37.0078/-121.572",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0078,
+    "longitude": -121.572
+  },
+  "url": "http://www.cityofgilroy.org/cityofgilroy/community/museum/default.aspx",
+  "telephone": "+1 (408) 846-0446",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602505",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

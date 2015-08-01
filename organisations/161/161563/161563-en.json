@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161563
+  },
+  "name": "USS TURNER JOY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 WASHINGTON BEACH AVE",
+    "addressLocality": "BREMERTON",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98337"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5692&mlon=-122.631#map=15/47.5692/-122.631",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5692,
+    "longitude": -122.631
+  },
+  "url": "http://www.ussturnerjoy.org/info.html",
+  "telephone": "+1 (360) 792-2457",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300012",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

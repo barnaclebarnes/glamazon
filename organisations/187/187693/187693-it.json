@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187693
+  },
+  "name": "Lou feracaval",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Parrocchia, ",
+    "addressLocality": "Demonte",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3156&mlon=7.29717#map=15/44.3156/7.29717",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3156,
+    "longitude": 7.29717
+  },
+  "url": "http://www.vallestura.cn.it",
+  "telephone": "+39 0171 955555",
+  "contactPoint": [
+
+  ],
+  "openingHours": "gennaio-dicembre",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QXwlNL7z6a-SxF-lbzs_YaYZYes=/1000x1000/museums/logos/000/187/693/original/7b97dddb9b7715e888112daeef6ced29cac9dc7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102575",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

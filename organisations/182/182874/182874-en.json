@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182874
+  },
+  "name": "Museum der Stadt Alzenau",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßstraße 13",
+    "addressLocality": "Alzenau",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63755"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1021&mlon=9.10416#map=15/50.1021/9.10416",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1021,
+    "longitude": 9.10416
+  },
+  "url": "http://www.alzenau.de/buergernetz/kultur___bildung/museum_der_stadt_alzenau/",
+  "telephone": "06023/5020",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182874",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

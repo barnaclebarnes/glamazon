@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141711
+  },
+  "name": "US NAVAL ACADEMY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "118 MARYLAND AVE",
+    "addressLocality": "ANNAPOLIS",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21402"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9823&mlon=-76.4871#map=15/38.9823/-76.4871",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9823,
+    "longitude": -76.4871
+  },
+  "url": "http://www.usna.edu/museum",
+  "telephone": "+1 (410) 293-2108",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400004",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

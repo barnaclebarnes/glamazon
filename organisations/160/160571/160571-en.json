@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160571
+  },
+  "name": "MUSEUM OF CULPEPER HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "803 S MAIN ST",
+    "addressLocality": "CULPEPER",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22701"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.4687&mlon=-77.9978#map=15/38.4687/-77.9978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.4687,
+    "longitude": -77.9978
+  },
+  "url": "http://www.culpepermuseum.com",
+  "telephone": "+1 (803) 762-4678",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/103175453053365"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/MuseumCulpeper"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100077",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

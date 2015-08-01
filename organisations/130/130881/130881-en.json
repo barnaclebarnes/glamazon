@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130881
+  },
+  "name": "SAN DIEGO MARINE AQUARIUM SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8488 SPRECKELS LANE",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92127"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.0142&mlon=-117.141#map=15/33.0142/-117.141",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.0142,
+    "longitude": -117.141
+  },
+  "url": "http://www.sdmas.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

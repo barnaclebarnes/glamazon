@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182647
+  },
+  "name": "Mies-Pilsener-Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bauhofstraße 41",
+    "addressLocality": "Dinkelsbühl",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91550"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0713&mlon=10.3164#map=15/49.0713/10.3164",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0713,
+    "longitude": 10.3164
+  },
+  "url": "http://www.mies-pilsen.de",
+  "telephone": "09851/5300-3",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182647",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

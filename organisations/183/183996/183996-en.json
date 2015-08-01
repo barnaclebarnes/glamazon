@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183996
+  },
+  "name": "Markgräfliches Opernhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Opernstraße 14",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9444&mlon=11.5786#map=15/49.9444/11.5786",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9444,
+    "longitude": 11.5786
+  },
+  "url": "http://www.bayreuth-wilhelmine.de/deutsch/opernh/index.htm",
+  "telephone": "0921/75969-22",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183996",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

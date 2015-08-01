@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159471
+  },
+  "name": "JESUIT DALLAS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "12345 INWOOD RD",
+    "addressLocality": "DALLAS",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75244-8024"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.9169&mlon=-96.8185#map=15/32.9169/-96.8185",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.9169,
+    "longitude": -96.8185
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801571",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

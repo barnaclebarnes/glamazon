@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130212
+  },
+  "name": "JACL SAN JOSE CHAPTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "565 N 5TH ST",
+    "addressLocality": "SAN JOSE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95112"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.348&mlon=-121.894#map=15/37.348/-121.894",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.348,
+    "longitude": -121.894
+  },
+  "url": "http://www.sanjosejacl.org",
+  "telephone": "+1 (408) 295-1250",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600338",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

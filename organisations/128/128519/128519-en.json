@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128519
+  },
+  "name": "GREENE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 14TH ST",
+    "addressLocality": "PHENIX CITY",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "36867"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.4729&mlon=-84.9994#map=15/32.4729/-84.9994",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.4729,
+    "longitude": -84.9994
+  },
+  "telephone": "+1 (334) 298-5413",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100049",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

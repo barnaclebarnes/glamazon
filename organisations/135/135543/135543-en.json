@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135543
+  },
+  "name": "FLORIDA POSTAL MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 SOUTH VOLUSIA AVENUE",
+    "addressLocality": "ORANGE CITY",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32763"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=28.946&mlon=-81.2989#map=15/28.946/-81.2989",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.946,
+    "longitude": -81.2989
+  },
+  "url": "http://floridapostalmuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201098",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

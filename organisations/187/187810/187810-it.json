@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187810
+  },
+  "name": "Museo di arte sacra dell'Abbazia di Casanova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Antica Abbazia c/o Abbazia di Casanova - Frazione Casanova, ",
+    "addressLocality": "Carmagnola",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8727&mlon=7.79282#map=15/44.8727/7.79282",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8727,
+    "longitude": 7.79282
+  },
+  "url": "http://www.parrocchie.it/carmagnola/casanova",
+  "telephone": "+39 0119795082",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Domenica mattina prima e dopo la SS. Messa; nel periodo estivo (aprile-settembre) 16.00-18.30 dei giorni festivi.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102677",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

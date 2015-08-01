@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129233
+  },
+  "name": "TUCSON BOTANICAL GARDENS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2150 N ALVERNON WAY",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85712-3153"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2484&mlon=-110.91#map=15/32.2484/-110.91",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2484,
+    "longitude": -110.91
+  },
+  "url": "http://www.tucsonbotanical.org",
+  "telephone": "+1 (520) 326-9686",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400135",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

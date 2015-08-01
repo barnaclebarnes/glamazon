@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150677
+  },
+  "name": "DEPOSIT NEW YORK COMMUNITY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "145 2ND ST",
+    "addressLocality": "DEPOSIT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13754"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0636&mlon=-75.421#map=15/42.0636/-75.421",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0636,
+    "longitude": -75.421
+  },
+  "url": "http://www.deposithistoricalsociety.org",
+  "telephone": "+1 (607) 467-4422",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601971",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

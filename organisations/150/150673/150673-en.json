@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150673
+  },
+  "name": "PACEM IN TERRIS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "96 COVERED BRIDGE RD",
+    "addressLocality": "WARWICK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10990-2854"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4863&mlon=-93.2576#map=15/45.4863/-93.2576",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4863,
+    "longitude": -93.2576
+  },
+  "url": "http://www.paceminterris.org",
+  "telephone": "+1 (763) 444-6408",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601967",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151061
+  },
+  "name": "THE WATERMILL CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "39 WATERMILL TOWD ROAD",
+    "addressLocality": "WATER MILL",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11976"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9157&mlon=-72.3411#map=15/40.9157/-72.3411",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9157,
+    "longitude": -72.3411
+  },
+  "url": "http://www.watermillcenter.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602355",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132456
+  },
+  "name": "RANCHO SANTA ANA BOTANIC GARDEN TRUSTEES OF RANCHO SANTA ANA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 S MILLS AVE",
+    "addressLocality": "CLAREMONT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91711-5053"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0926&mlon=-117.707#map=15/34.0926/-117.707",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0926,
+    "longitude": -117.707
+  },
+  "url": "http://www.rsabg.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602582",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130038
+  },
+  "name": "SAN DIEGO POLICE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4710 COLLEGE AVE",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92115"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7629&mlon=-117.067#map=15/32.7629/-117.067",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7629,
+    "longitude": -117.067
+  },
+  "url": "http://www.sdpolicemuseum.com",
+  "telephone": "+1 (619) 726-6151",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600164",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

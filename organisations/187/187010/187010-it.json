@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187010
+  },
+  "name": "Museo del pane di Sant'Angelo Lodigiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Bolognini, 2",
+    "addressLocality": "Sant'Angelo Lodigiano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2384&mlon=9.40739#map=15/45.2384/9.40739",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2384,
+    "longitude": 9.40739
+  },
+  "url": "http://www.castellobolognini.it",
+  "telephone": "+39 0371 211140",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ms5s1vju3symT3gwnt8EdundEOA=/1000x1000/museums/logos/000/187/010/original/2eb9615d554879bc6eb55c73a05be8d7153fa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106823",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143625
+  },
+  "name": "CRANBROOK INSTITUTE OF SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 LONE PINE RD",
+    "addressLocality": "BLOOMFIELD HILLS",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48304-0801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5772&mlon=-83.2393#map=15/42.5772/-83.2393",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5772,
+    "longitude": -83.2393
+  },
+  "url": "http://science.cranbrook.edu",
+  "telephone": "+1 (248) 645-3200",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/CranbrookInstituteofScience"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/cranbrooksci"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600162",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

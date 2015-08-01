@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188461
+  },
+  "name": "Museo del costume \"Raffaello Piraino\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Dell'università, 54",
+    "addressLocality": "Palermo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1138&mlon=13.3607#map=15/38.1138/13.3607",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1138,
+    "longitude": 13.3607
+  },
+  "url": "http://www.museopiraino.it",
+  "telephone": "+39 091 329335",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101311",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

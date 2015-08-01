@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190116
+  },
+  "name": "MUSEUM OF THE CAPE FEAR",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 53693",
+    "addressLocality": "FAYETTEVILLE",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28305-3693"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7075&mlon=-91.3659#map=15/39.7075/-91.3659",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7075,
+    "longitude": -91.3659
+  },
+  "url": "http://www.ncdcr.gov/ncmcf/",
+  "telephone": "+1 (910) 486-1330",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700919",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

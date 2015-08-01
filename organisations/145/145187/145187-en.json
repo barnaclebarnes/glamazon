@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145187
+  },
+  "name": "THE RAPTOR CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1920 FITCH AVENUE",
+    "addressLocality": "ST. PAUL",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.983&mlon=-93.1813#map=15/44.983/-93.1813",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.983,
+    "longitude": -93.1813
+  },
+  "url": "http://www.theraptorcenter.org",
+  "telephone": "+1 (612) 624-4745",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700627",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

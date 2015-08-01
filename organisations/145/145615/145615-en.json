@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145615
+  },
+  "name": "MONEY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 MEMORIAL DR",
+    "addressLocality": "KANSAS CITY",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "64198"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0778&mlon=-94.5848#map=15/39.0778/-94.5848",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0778,
+    "longitude": -94.5848
+  },
+  "url": "http://www.kc.frb.org/moneymuseum",
+  "telephone": "+1 (816) 881-2683",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900044",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

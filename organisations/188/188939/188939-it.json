@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188939
+  },
+  "name": "Ex Oratorio di San Desiderio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laudesi, 53",
+    "addressLocality": "Pistoia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9311&mlon=10.9215#map=15/43.9311/10.9215",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9311,
+    "longitude": 10.9215
+  },
+  "url": "http://www.ambientefi.arti.beniculturali.it",
+  "telephone": "+39 055265171",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8.15 - 13.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EXr3ZPZtws3BifK-j78LhMIhsq8=/1000x1000/museums/logos/000/188/939/original/8f60e2b991eaf1705b7e6759331434131bc1c3c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20199",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

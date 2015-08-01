@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139815
+  },
+  "name": "SMITH & WESSON HISTORICALFOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4912 QUAIL CREEK DR",
+    "addressLocality": "GREAT BEND",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67530-6840"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3797&mlon=-98.801#map=15/38.3797/-98.801",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3797,
+    "longitude": -98.801
+  },
+  "url": "http://www.swhistoricalfoundation.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000141",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

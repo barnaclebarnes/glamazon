@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183516
+  },
+  "name": "Gemeinnützige Stiftung Schloss Weissenstein in Pommersfelden",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloß 1",
+    "addressLocality": "Pommersfelden",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96178"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.763&mlon=10.8209#map=15/49.763/10.8209",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.763,
+    "longitude": 10.8209
+  },
+  "url": "http://www.schloss-weissenstein.de",
+  "telephone": "09548/9818-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183516",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

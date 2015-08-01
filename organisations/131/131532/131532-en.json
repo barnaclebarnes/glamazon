@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131532
+  },
+  "name": "BAY AREA DISCOVERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "557 MCREYNOLDS RD",
+    "addressLocality": "SAUSALITO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94965-2601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8378&mlon=-122.479#map=15/37.8378/-122.479",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8378,
+    "longitude": -122.479
+  },
+  "url": "http://www.badm.org",
+  "telephone": "+1 (415) 339-3900",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/BayAreaDiscoveryMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/baykidsmuseum"
+    }
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Bay_Area_Discovery_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601658",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

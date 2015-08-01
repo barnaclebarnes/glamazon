@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185828
+  },
+  "name": "Museo archeologico di Broglio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Savoia",
+    "addressLocality": "Trebisacce",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8675&mlon=16.5293#map=15/39.8675/16.5293",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8675,
+    "longitude": 16.5293
+  },
+  "telephone": "+39 0981550211 (Centralino del Comune)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8:00/14:00 tutti i giorni (chiamare prima)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110973",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

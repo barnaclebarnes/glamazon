@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142621
+  },
+  "name": "MUSEUM OF FINE ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "465 HUNTINGTON AVE",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02115-5523"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3387&mlon=-71.0933#map=15/42.3387/-71.0933",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3387,
+    "longitude": -71.0933
+  },
+  "url": "http://www.mfa.org",
+  "telephone": "+1 (617) 369-3457",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/mfaboston"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/mfaboston"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500251",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

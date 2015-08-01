@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156789
+  },
+  "name": "BOB CAMPBELL GEOLOGY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "140 DISCOVERY LN",
+    "addressLocality": "CLEMSON",
+    "addressRegion": "SC",
+    "addressCountry": "United States",
+    "postalCode": "29634"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.6696&mlon=-82.8267#map=15/34.6696/-82.8267",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.6696,
+    "longitude": -82.8267
+  },
+  "url": "http://www.clemson.edu/geomuseum",
+  "telephone": "+1 (864) 656-4600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404500084",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

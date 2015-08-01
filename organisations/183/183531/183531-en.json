@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183531
+  },
+  "name": "Industriedenkmal Radom der Erdfunkstelle Raisting",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hofstätterweg 1",
+    "addressLocality": "Raisting",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82399"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8994&mlon=11.1168#map=15/47.8994/11.1168",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8994,
+    "longitude": 11.1168
+  },
+  "url": "http://www.radom-raisting-gmbh.de",
+  "telephone": "0881/6811234",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183531",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

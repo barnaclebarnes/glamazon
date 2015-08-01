@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150705
+  },
+  "name": "PRESERVATION LEAGUE OF NEW YORK STATE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "44 CENTRAL AVENUE",
+    "addressLocality": "ALBANY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12206-3028"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6584&mlon=-73.7653#map=15/42.6584/-73.7653",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6584,
+    "longitude": -73.7653
+  },
+  "url": "http://www.preservenys.org",
+  "telephone": "+1 (518) 462-5658",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601999",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

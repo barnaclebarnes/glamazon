@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182617
+  },
+  "name": "Naturkunde-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Park 6",
+    "addressLocality": "Coburg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96450"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.2617&mlon=10.9751#map=15/50.2617/10.9751",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.2617,
+    "longitude": 10.9751
+  },
+  "url": "http://www.naturkunde-museum-coburg.de",
+  "telephone": "09561/8081-20",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182617",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

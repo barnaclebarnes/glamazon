@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150652
+  },
+  "name": "AMITYVILLE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 764",
+    "addressLocality": "AMITYVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11701-0764"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6859&mlon=-73.4112#map=15/40.6859/-73.4112",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6859,
+    "longitude": -73.4112
+  },
+  "telephone": "+1 (631) 598-1486",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601946",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

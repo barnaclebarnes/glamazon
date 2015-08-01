@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189082
+  },
+  "name": "Museo della frutticoltura",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Brandis, 4",
+    "addressLocality": "Lana/Lana",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5996&mlon=11.1625#map=15/46.5996/11.1625",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5996,
+    "longitude": 11.1625
+  },
+  "url": "http://www.obstbaumuseum.it",
+  "telephone": "+39 0473564387",
+  "contactPoint": [
+
+  ],
+  "openingHours": "18 marzo - 8 novembre lu-ve ore 10-17 sa ore 13-17 (solo in aprile, maggio, settembre e ottobre) ultima entrata: ore 16",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/oT2koCVnL4TQuZirWYW3e5mcpKg=/1000x1000/museums/logos/000/189/082/original/b23afc22bfae504e998bd09a4e87a15b7d57e53a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100542",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

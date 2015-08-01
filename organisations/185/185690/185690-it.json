@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185690
+  },
+  "name": "Museo-laboratorio scientifico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via L. Da Vinci, ",
+    "addressLocality": "Melfi",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9958&mlon=15.6453#map=15/40.9958/15.6453",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9958,
+    "longitude": 15.6453
+  },
+  "url": "http://www.melfigasp.it",
+  "telephone": "+39 097224437",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100146",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

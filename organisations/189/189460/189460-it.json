@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189460
+  },
+  "name": "Museo civico archeologico di Castelnovo Bariano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavo Bentivoglio, 5047",
+    "addressLocality": "Castelnovo Bariano",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0603&mlon=11.3287#map=15/45.0603/11.3287",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0603,
+    "longitude": 11.3287
+  },
+  "telephone": "+39 042581281",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Dv_7pwDBYI8GkE60y8fd5DUm72Q=/1000x1000/museums/logos/000/189/460/original/b1271682a1094f54d06a7772d12baffc3112a7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100954",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

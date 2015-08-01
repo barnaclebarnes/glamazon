@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189500
+  },
+  "name": "Gallerie dell’accademia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorsoduro",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4327&mlon=12.3242#map=15/45.4327/12.3242",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4327,
+    "longitude": 12.3242
+  },
+  "url": "http://www.gallerieaccademia.it/",
+  "telephone": "+39 0415222247 0415200345",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì: 8.15 - 14.00 Martedì a Domenica: 8.15 - 19.15. La vendita dei biglietti termina 45 minuti prima della chiusura",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 9,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/g7tupgvKoWu2ztpgBdmxxx3aHIw=/1000x1000/museums/logos/000/189/500/original/71f09c423f82526318c7dd9eb68f9eeb48622.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107778",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

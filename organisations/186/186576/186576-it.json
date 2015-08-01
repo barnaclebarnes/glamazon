@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186576
+  },
+  "name": "Museo e Galleria Borghese",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Scipione Borghese, ",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9144&mlon=12.4929#map=15/41.9144/12.4929",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9144,
+    "longitude": 12.4929
+  },
+  "url": "http://galleriaborghese.beniculturali.it/",
+  "telephone": "+39 068416542 - 068417645 - 068413979",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 9.00 - 19.00 (ingresso ogni due ore per un massimo di 360 persone)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 11,00 (prenotazione obbligatoria + € 2,00)"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Q7A9xGpkl8kfipMtruGdj7-SKoM=/1000x1000/museums/logos/000/186/576/original/14d2e5afa8ab245832241a69a20faafb5341234.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20405",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

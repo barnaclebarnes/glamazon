@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185821
+  },
+  "name": "Antiquarium di Torre Cimalonga",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Cimalonga, 7",
+    "addressLocality": "Scalea",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8167&mlon=15.7913#map=15/39.8167/15.7913",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8167,
+    "longitude": 15.7913
+  },
+  "telephone": "+39 0985920069",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00 - 20.00 (Tutti i giorni)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/y43CZV974u310Re6Hz0wTQRH1Bk=/1000x1000/museums/logos/000/185/821/original/b79e55c7dcbcbb3ba3d09556447f4f918f82cb2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20084",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

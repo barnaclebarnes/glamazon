@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144881
+  },
+  "name": "MORRISON COUNTY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 239",
+    "addressLocality": "LITTLE FALLS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "56345-0239"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9539&mlon=-94.3909#map=15/45.9539/-94.3909",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9539,
+    "longitude": -94.3909
+  },
+  "url": "http://www.morrisoncountyhistory.org",
+  "telephone": "+1 (320) 632-4007",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/MorrisonCountyHistoricalSociety"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/weymu"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700321",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

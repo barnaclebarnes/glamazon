@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186591
+  },
+  "name": "Museo numismatico della zecca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XX Settembre, 97",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.905&mlon=12.4951#map=15/41.905/12.4951",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.905,
+    "longitude": 12.4951
+  },
+  "url": "http://www.museozecca.ipzs.it",
+  "telephone": "+39 06 47613317",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aperto dalle 9,00 alle 12,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/U1RQtvQZ0-3cAqELc1noN0OQm9Q=/1000x1000/museums/logos/000/186/591/original/af35be3a69f46c19e46d1a5a45b6d35e7bf74fc.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101586",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

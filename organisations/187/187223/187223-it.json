@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187223
+  },
+  "name": "Museo Enrico Butti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Varese, 4",
+    "addressLocality": "Viggiù",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8698&mlon=8.90839#map=15/45.8698/8.90839",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8698,
+    "longitude": 8.90839
+  },
+  "url": "http://www.comune.viggiu.va.it",
+  "telephone": "+39 0332486510",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da martedì a venerdì: 14.00/18.30; sabato: 10.00/12.00, 14.00/18.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qSFxrbTqJy0HeY0dZgzIT0umiQE=/1000x1000/museums/logos/000/187/223/original/afece97aca3a6660cea3ea72bbafe08ec18c9ff.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103847",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

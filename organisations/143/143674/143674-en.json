@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143674
+  },
+  "name": "BLOOMINGDALE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "109 E KALAMAZOO ST",
+    "addressLocality": "BLOOMINGDALE",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49026"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3829&mlon=-85.9572#map=15/42.3829/-85.9572",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3829,
+    "longitude": -85.9572
+  },
+  "telephone": "+1 (269) 521-7880",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600211",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

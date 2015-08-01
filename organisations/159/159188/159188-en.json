@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159188
+  },
+  "name": "CITY OF EL PASO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 ARTS FESTIVAL PLZ",
+    "addressLocality": "EL PASO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "79901-1135"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.7591&mlon=-106.49#map=15/31.7591/-106.49",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.7591,
+    "longitude": -106.49
+  },
+  "url": "http://www.elpasoartmuseum.org",
+  "telephone": "+1 (915) 755-4332",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801288",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

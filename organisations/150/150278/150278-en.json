@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150278
+  },
+  "name": "TOWN OF MIDDLEFIELD HISTORICAL ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1125",
+    "addressLocality": "COOPERSTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13326"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6773&mlon=-74.854#map=15/42.6773/-74.854",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6773,
+    "longitude": -74.854
+  },
+  "url": "http://www.middlefieldhistorical.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601572",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

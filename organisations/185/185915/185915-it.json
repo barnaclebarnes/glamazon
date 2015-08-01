@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185915
+  },
+  "name": "Museo civico della civiltà contadina e cultura arberesche",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G.B. Vico, 1",
+    "addressLocality": "Greci",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2496&mlon=15.1692#map=15/41.2496/15.1692",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2496,
+    "longitude": 15.1692
+  },
+  "url": "http://www.comune.greci.av.it",
+  "telephone": "+39 0825861338",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105005",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

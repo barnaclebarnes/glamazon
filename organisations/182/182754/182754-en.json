@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182754
+  },
+  "name": "Bauernmuseum Bamberger Land",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 5",
+    "addressLocality": "Frensdorf",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96158"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8179&mlon=10.8639#map=15/49.8179/10.8639",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8179,
+    "longitude": 10.8639
+  },
+  "url": "http://www.bauernmuseum-frensdorf.de",
+  "telephone": "09502/8308",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182754",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

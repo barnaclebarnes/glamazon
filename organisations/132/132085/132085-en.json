@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132085
+  },
+  "name": "CURIODYSSEY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1651 COYOTE POINT DR",
+    "addressLocality": "SAN MATEO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94401-1002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.588&mlon=-122.323#map=15/37.588/-122.323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.588,
+    "longitude": -122.323
+  },
+  "url": "http://www.curiodyssey.org",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/CuriOdyssey"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/CuriOdyssey1"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602211",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154758
+  },
+  "name": "KLAMATH COUNTY MUSEUMS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1451 MAIN STREET",
+    "addressLocality": "KLAMATH FALLS",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2283&mlon=-121.775#map=15/42.2283/-121.775",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2283,
+    "longitude": -121.775
+  },
+  "url": "http://www.co.klamath.or.us/museum/index.htm",
+  "telephone": "+1 (541) 883-4208",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100551",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

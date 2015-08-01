@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185769
+  },
+  "name": "Museo etnico Arberesh",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Municipio , 9",
+    "addressLocality": "Civita",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8281&mlon=16.3136#map=15/39.8281/16.3136",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8281,
+    "longitude": 16.3136
+  },
+  "telephone": "+39 0981 73150",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OK2c22jhDM99kPyUQ0we4UqqDFM=/1000x1000/museums/logos/000/185/769/original/5bb129bb5f68f033b6ec839a9424fd45e4e39.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108254",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

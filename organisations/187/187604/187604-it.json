@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187604
+  },
+  "name": "Museo della Barbera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Cantina Comunale dei Vini di Costigliole, Via Roma, 9, ",
+    "addressLocality": "Costigliole d'Asti",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7879&mlon=8.18074#map=15/44.7879/8.18074",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7879,
+    "longitude": 8.18074
+  },
+  "url": "http://wwvinow.costigliole.it/",
+  "telephone": "+39 0141962211",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4Mf1vm3qfOppTZmBNliOPKnq8fI=/1000x1000/museums/logos/000/187/604/original/c9c51973f697b3b1eb125d5299d2536af31724.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102497",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

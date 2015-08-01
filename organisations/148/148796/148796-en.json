@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148796
+  },
+  "name": "ROBERSON MUSEUM AND SCIENCE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "30 FRONT STREET",
+    "addressLocality": "BINGHAMTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13905-4779"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0945&mlon=-75.919#map=15/42.0945/-75.919",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0945,
+    "longitude": -75.919
+  },
+  "telephone": "+1 (607) 772-0660",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/RobersonMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/Roberson_Museum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600090",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

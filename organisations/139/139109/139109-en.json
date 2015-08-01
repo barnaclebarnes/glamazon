@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139109
+  },
+  "name": "REIMAN GARDENS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1407 UNIVERSITY BLVD",
+    "addressLocality": "AMES",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50011-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0167&mlon=-93.6322#map=15/42.0167/-93.6322",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0167,
+    "longitude": -93.6322
+  },
+  "url": "http://www.reimangardens.iastate.edu",
+  "telephone": "+1 (515) 294-2710",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900146",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

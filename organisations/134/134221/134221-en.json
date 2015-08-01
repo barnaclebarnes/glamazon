@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134221
+  },
+  "name": "WATKINS COLLECTION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4400 MASS. AVE. NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20016-8004"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9382&mlon=-77.0864#map=15/38.9382/-77.0864",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9382,
+    "longitude": -77.0864
+  },
+  "telephone": "+1 (202) 885-1000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

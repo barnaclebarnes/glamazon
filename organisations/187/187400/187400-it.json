@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187400
+  },
+  "name": "Museo dei funghi e dei fossili",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Antonino Pio, 4",
+    "addressLocality": "Pioraco",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1797&mlon=12.9858#map=15/43.1797/12.9858",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1797,
+    "longitude": 12.9858
+  },
+  "url": "http://www.comune.pioraco.mc.it/?page_id=1",
+  "telephone": "+39 073742142 - +39 3665871866",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Festivi e Prefestivi 10.30-12.30; 16.00-18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Qs7RozUbL1NwyCcKzRv6tvOjDnE=/1000x1000/museums/logos/000/187/400/original/8027a3535128a85db8312281343a8bcf364f4d61.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104213",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

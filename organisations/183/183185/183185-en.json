@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183185
+  },
+  "name": "Molwitz-Stube",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatz 2",
+    "addressLocality": "Mitterteich",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "95666"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9509&mlon=12.2433#map=15/49.9509/12.2433",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9509,
+    "longitude": 12.2433
+  },
+  "url": "http://www.akh.mitterteich.de/vips/hmolwitz.html",
+  "telephone": "09633/89-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183185",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

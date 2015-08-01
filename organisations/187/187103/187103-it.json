@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187103
+  },
+  "name": "Museo civico Angelo Comolli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Municipio, 1",
+    "addressLocality": "Morimondo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3522&mlon=8.95447#map=15/45.3522/8.95447",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3522,
+    "longitude": 8.95447
+  },
+  "url": "http://www.comune.morimondo.mi.it",
+  "telephone": "+39 02 94961919",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106831",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

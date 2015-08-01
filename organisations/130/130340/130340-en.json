@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130340
+  },
+  "name": "CENTRO CULTURAL DE LA RAZA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2125 PARK BVD",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7271&mlon=-117.149#map=15/32.7271/-117.149",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7271,
+    "longitude": -117.149
+  },
+  "telephone": "+1 (619) 235-6135",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Centro_Cultural_de_la_Raza",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600466",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

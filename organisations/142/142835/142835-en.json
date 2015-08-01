@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142835
+  },
+  "name": "W E S T INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "23 CARTER RD",
+    "addressLocality": "WESTMINSTER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01473-1459"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5394&mlon=-71.9236#map=15/42.5394/-71.9236",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5394,
+    "longitude": -71.9236
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500465",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189471
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Canapificio, 3",
+    "addressLocality": "Cornuda",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8327&mlon=12.0317#map=15/45.8327/12.0317",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8327,
+    "longitude": 12.0317
+  },
+  "url": "http://www.tipoteca.it",
+  "telephone": "+39 042386338",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DadIh-bV8wQl0XDc0d1K-VAS3E0=/1000x1000/museums/logos/000/189/471/original/60ff631ceb65e818c8e417869f75bacbda475ac.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106797",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

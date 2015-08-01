@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185940
+  },
+  "name": "Museo civico di Airola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei fiori snc, ",
+    "addressLocality": "Airola",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0596&mlon=14.5556#map=15/41.0596/14.5556",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0596,
+    "longitude": 14.5556
+  },
+  "url": "http://www.comune.airola.bn.it",
+  "telephone": "+39 0823711844",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uo-fckaYmvCTq-Dr7zqhNiOin-g=/1000x1000/museums/logos/000/185/940/original/bbcebf6f9417b3934389279a9cb2680d3946.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101788",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

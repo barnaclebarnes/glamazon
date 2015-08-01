@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157465
+  },
+  "name": "MUSEUM OF APPALACHIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2819 ANDERSONVILLE HWY",
+    "addressLocality": "CLINTON",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37716-6756"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.18&mlon=-84.0681#map=15/36.18/-84.0681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.18,
+    "longitude": -84.0681
+  },
+  "url": "http://www.museumofappalachia.com",
+  "telephone": "+1 (865) 494-0514",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/246873745073"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700136",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187203
+  },
+  "name": "Civico Museo Parisi - Valle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Leopoldo Giampaolo, 1",
+    "addressLocality": "Maccagno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0405&mlon=8.73377#map=15/46.0405/8.73377",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0405,
+    "longitude": 8.73377
+  },
+  "url": "http://www.museoparisivalle.it",
+  "telephone": "+39 0332561202",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4Z5KdonUZm5vdw_cqStMCnww9XI=/1000x1000/museums/logos/000/187/203/original/20d0f2b048913eef2a74e8f99e43dd61c922b62.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103829",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185863
+  },
+  "name": "Museo del bergamotto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": " Via Vittorio Veneto, 2",
+    "addressLocality": "Reggio di Calabria",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1205&mlon=15.6529#map=15/38.1205/15.6529",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1205,
+    "longitude": 15.6529
+  },
+  "telephone": "+39 342 1471594",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9p4U0bEl48Rqt7dzDp0-BzkT1go=/1000x1000/museums/logos/000/185/863/original/2d517cca8f6e89896ae3e81aaeb2f069e841a5e5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111045",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

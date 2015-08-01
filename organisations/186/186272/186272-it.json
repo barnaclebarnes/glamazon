@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186272
+  },
+  "name": "Civico museo del castello di S. Giusto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cattedrale, 3",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6468&mlon=13.7725#map=15/45.6468/13.7725",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6468,
+    "longitude": 13.7725
+  },
+  "url": "http://www.triestecultura.it",
+  "telephone": "+39 040309362",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da aprile a ottobre 09.00/19.00 da novembre a marzo 10.00/17.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/En_V6cde7C2-Gj4LTEkXguXS8JQ=/1000x1000/museums/logos/000/186/272/original/6388d3d8472f5cedcb7dae574ffc9cbaec3f6c7a.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100232",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

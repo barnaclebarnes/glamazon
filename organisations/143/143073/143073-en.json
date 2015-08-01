@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143073
+  },
+  "name": "WALTHAM HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "190 MOODY STREET",
+    "addressLocality": "WALTHAM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02453"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3736&mlon=-71.2365#map=15/42.3736/-71.2365",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3736,
+    "longitude": -71.2365
+  },
+  "url": "http://www.walthamhistoricalsociety.org",
+  "telephone": "+1 (781) 891-5815",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500703",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

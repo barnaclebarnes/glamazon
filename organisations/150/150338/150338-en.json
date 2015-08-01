@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150338
+  },
+  "name": "ATTICA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 24",
+    "addressLocality": "ATTICA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14011"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8654&mlon=-78.2847#map=15/42.8654/-78.2847",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8654,
+    "longitude": -78.2847
+  },
+  "url": "http://www.townofattica.net/history.htm",
+  "telephone": "+1 (585) 591-2161",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601632",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

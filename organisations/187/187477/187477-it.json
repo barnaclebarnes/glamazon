@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187477
+  },
+  "name": "MUSA - Museo storico ambientale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": ", 5",
+    "addressLocality": "San Giorgio di Pesaro",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.858&mlon=12.8612#map=15/43.858/12.8612",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.858,
+    "longitude": 12.8612
+  },
+  "url": "http://www.comune.san-giorgio.pu.it",
+  "telephone": "+39 0721830699",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da aprile a ottobre: sabato, domenica e festivi 16.00 - 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 1.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vq65qxVaIK096humWWcBBGDpqMc=/1000x1000/museums/logos/000/187/477/original/8bb0a75e7bfa634520362fbd86d215e9d44345.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105075",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

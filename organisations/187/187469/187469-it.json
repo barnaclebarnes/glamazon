@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187469
+  },
+  "name": "Museo archeologico Oliveriano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Mazza, 97",
+    "addressLocality": "Pesaro",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.91&mlon=12.9097#map=15/43.91/12.9097",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.91,
+    "longitude": 12.9097
+  },
+  "url": "http://www.cultura.provincia.pu.it",
+  "telephone": "+39 072133344",
+  "contactPoint": [
+
+  ],
+  "openingHours": "1 luglio-15 settembre: da lunedì a sabato, 16.00-19.00 Dal 16 settembre al 30 giugno: da lunedì a sabato (su prenotazione)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3edR4r334Ojm9slT0g8qbV97H8U=/1000x1000/museums/logos/000/187/469/original/be5193964b7d2d9fb4b6d1a43f67765db47d1c2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104299",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

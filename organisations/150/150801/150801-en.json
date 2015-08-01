@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150801
+  },
+  "name": "RVC CONSERVANCY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "53 N PARK AVE STE 51",
+    "addressLocality": "ROCKVILLE CTR",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11570-4111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6583&mlon=-73.645#map=15/40.6583/-73.645",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6583,
+    "longitude": -73.645
+  },
+  "url": "http://www.rvcconservancy.org/#!",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602095",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189727
+  },
+  "name": "ARCHBOLD BIOLOGICAL STATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 MAIN DRIVE",
+    "addressLocality": "VENUS",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33960"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8491&mlon=-83.5131#map=15/42.8491/-83.5131",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8491,
+    "longitude": -83.5131
+  },
+  "url": "http://www.archbold-station.org",
+  "telephone": "+1 (863) 465-2571",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201289",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

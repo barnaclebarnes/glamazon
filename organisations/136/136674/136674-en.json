@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136674
+  },
+  "name": "IDAHO MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5TH SAINT AND DILLON ST",
+    "addressLocality": "POCATELLO",
+    "addressRegion": "ID",
+    "addressCountry": "United States",
+    "postalCode": "83201"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8868&mlon=-112.436#map=15/42.8868/-112.436",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8868,
+    "longitude": -112.436
+  },
+  "url": "http://imnh.isu.edu",
+  "telephone": "+1 (208) 282-3317",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401600024",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

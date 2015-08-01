@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185749
+  },
+  "name": "Museo del Beato Angelo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "\"Piazza Beato Angelo\", ",
+    "addressLocality": "Acri",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.4879&mlon=16.3854#map=15/39.4879/16.3854",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.4879,
+    "longitude": 16.3854
+  },
+  "telephone": "+39 0984/953368",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/d1EruAMIFzJfciQkydwgSVNO6Qo=/1000x1000/museums/logos/000/185/749/original/1f44c4aff1b0c265bf9ae794439946bc7ae762ae.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108396",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

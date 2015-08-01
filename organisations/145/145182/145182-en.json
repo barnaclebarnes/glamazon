@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145182
+  },
+  "name": "TIX FOUR TOTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4086",
+    "addressLocality": "SAINT PAUL",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55104-0086"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9512&mlon=-93.1609#map=15/44.9512/-93.1609",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9512,
+    "longitude": -93.1609
+  },
+  "url": "http://www.tixfortots.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700622",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

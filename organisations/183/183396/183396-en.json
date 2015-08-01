@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183396
+  },
+  "name": "Turm der Sinne",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Spittlertormauer 17",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90402"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4522&mlon=11.0695#map=15/49.4522/11.0695",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4522,
+    "longitude": 11.0695
+  },
+  "url": "http://www.turmdersinne.de",
+  "telephone": "0911/9443281",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183396",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

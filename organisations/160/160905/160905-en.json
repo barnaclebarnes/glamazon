@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160905
+  },
+  "name": "SAXIS ISLAND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 21",
+    "addressLocality": "SAXIS",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23427-0021"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9242&mlon=-75.7202#map=15/37.9242/-75.7202",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9242,
+    "longitude": -75.7202
+  },
+  "url": "http://www.saxisislandmuseum.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100411",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

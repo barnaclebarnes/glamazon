@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130625
+  },
+  "name": "PACIFIC PINBALL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1029 CENTRAL AVE",
+    "addressLocality": "ALAMEDA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94501-2305"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7712&mlon=-122.267#map=15/37.7712/-122.267",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7712,
+    "longitude": -122.267
+  },
+  "telephone": "+1 (510) 769-1349",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AuEVZ8TaOlXZzy2hYdV7hnkekcY=/1000x1000/museums/logos/000/130/625/original/Pinball_3web.jpg",
+    "creator": "Michael Moore for the Pacific Pinball Museum",
+    "license": "CC BY-SA 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Pacific_Pinball_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600751",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

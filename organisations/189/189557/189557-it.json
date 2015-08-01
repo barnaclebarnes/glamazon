@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189557
+  },
+  "name": "Museo Mondonovo maschere",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cardinal De Lai, 2",
+    "addressLocality": "Malo",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6559&mlon=11.4078#map=15/45.6559/11.4078",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6559,
+    "longitude": 11.4078
+  },
+  "url": "http://www.comune.malo.vi.it",
+  "telephone": "+39 0445 580600 (Ufficio Cultura)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica e giorni festivi 15:00 18:00. Negli altri giorni visite su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "domenica gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YvbFPVyL9IYKbgKNYTxro-tAVDo=/1000x1000/museums/logos/000/189/557/original/571077c8a7a22f35e813c7bcb60c76da5397169.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112113",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

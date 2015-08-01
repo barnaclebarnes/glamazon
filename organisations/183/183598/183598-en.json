@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183598
+  },
+  "name": "Dorfmuseum Rott",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Michael-Merk-Straße 2",
+    "addressLocality": "Rott",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86935"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9058&mlon=10.9704#map=15/47.9058/10.9704",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9058,
+    "longitude": 10.9704
+  },
+  "url": "http://www.rott-lech.de",
+  "telephone": "08869/303",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183598",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

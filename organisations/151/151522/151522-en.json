@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151522
+  },
+  "name": "DOWNTOWN CARY CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4903",
+    "addressLocality": "CARY",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27519-4903"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.8022&mlon=-78.8756#map=15/35.8022/-78.8756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.8022,
+    "longitude": -78.8756
+  },
+  "url": "http://carykidsmuseum.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700393",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

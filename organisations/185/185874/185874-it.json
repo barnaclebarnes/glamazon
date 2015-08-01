@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185874
+  },
+  "name": "Pinacoteca civica di Reggio di Calabria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fata Morgana, 13",
+    "addressLocality": "Reggio di Calabria",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1097&mlon=15.6451#map=15/38.1097/15.6451",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1097,
+    "longitude": 15.6451
+  },
+  "url": "http://www.comune.reggio-calabria.it",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da Martedì a Domenica: ore 09:30/12:30 - 16:30/19:30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Sx3DCHYC3cgau76BLgqe_4zY94A=/1000x1000/museums/logos/000/185/874/original/a1128a37254e3a363fee75ebc3c169b07eb71149.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110912",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

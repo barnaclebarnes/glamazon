@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183468
+  },
+  "name": "Museum Bad Abbach im Neuen Rathaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Raiffeisenstraße 72",
+    "addressLocality": "Bad Abbach",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "93077"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9349&mlon=12.0508#map=15/48.9349/12.0508",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9349,
+    "longitude": 12.0508
+  },
+  "url": "http://www.bad-abbach.de/de/kultur-freizeit/kultur/museum/",
+  "telephone": "09405/959035",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183468",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

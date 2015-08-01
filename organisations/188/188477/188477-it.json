@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188477
+  },
+  "name": "Museo \"Baldassare Romano\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Marco Tullio Cicerone, ",
+    "addressLocality": "Termini Imerese",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9865&mlon=13.696#map=15/37.9865/13.696",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9865,
+    "longitude": 13.696
+  },
+  "url": "http://www.comuneterminiimerese.pa.it",
+  "telephone": "+39 091 8128550",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da Martedì a Sabato 9,00/13,00 - 16,00/18,30 Domenica 8,00/12,30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Rk5iJvmvWoBiH-uZIJqqEXuPltY=/1000x1000/museums/logos/000/188/477/original/c52d296ea6e353896133cade1fcf3f6bd7bdb35d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101330",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152240
+  },
+  "name": "WEXNER CENTER FOR THE ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "NORTH HIGH ST. AT 15TH AVE. MALL",
+    "addressLocality": "COLUMBUS",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "43210-1393"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0005&mlon=-83.0082#map=15/40.0005/-83.0082",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0005,
+    "longitude": -83.0082
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/WexArts"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/wexarts"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900017",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

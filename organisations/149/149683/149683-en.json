@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149683
+  },
+  "name": "MUSEUM OF CERAMIC ART-NEW YORK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "441 EAST 20TH STREET APT 13-B",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10010-7517"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.734&mlon=-73.9775#map=15/40.734/-73.9775",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.734,
+    "longitude": -73.9775
+  },
+  "url": "http://moca-ny.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600977",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

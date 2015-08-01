@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185569
+  },
+  "name": "Museo della battaglia di Ortona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Garibaldi, 19",
+    "addressLocality": "Ortona",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3532&mlon=14.4037#map=15/42.3532/14.4037",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3532,
+    "longitude": 14.4037
+  },
+  "telephone": "+39 085 9068207/085 9068207",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì : 9,00/13,00 - 16,00/19,00 sabato 17.00 /19.00 domenica 10.00/12.00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100057",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188207
+  },
+  "name": "The Rural Life Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Popolo, ",
+    "addressLocality": "Presicce",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.899&mlon=18.2605#map=15/39.899/18.2605",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.899,
+    "longitude": 18.2605
+  },
+  "url": "http://www.museodellaciviltacontadina.net",
+  "telephone": "+39 08337474418",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZTlcBCcAR5xsV3yvBsVxfOlauPk=/1000x1000/museums/logos/000/188/207/original/9c1ff85829f8262f31c1a1e25d9ad8c5ec81c34.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102409",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

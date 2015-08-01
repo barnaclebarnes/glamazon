@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145928
+  },
+  "name": "NEW MADRID MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 MAIN ST",
+    "addressLocality": "NEW MADRID",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63869-1945"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.5855&mlon=-89.5283#map=15/36.5855/-89.5283",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.5855,
+    "longitude": -89.5283
+  },
+  "url": "http://newmadridmuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900357",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

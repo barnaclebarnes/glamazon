@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185824
+  },
+  "name": "Museo della memoria di Ferramonti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale R. Pacifici",
+    "addressLocality": "Tarsia",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.5831&mlon=16.2452#map=15/39.5831/16.2452",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.5831,
+    "longitude": 16.2452
+  },
+  "url": "http://www.museoferramonti.it/",
+  "telephone": "+39 0984 32377 - 340 4642173 (Fondazione)",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AjvKmg0irftPLmGkLmLNRizFxhA=/1000x1000/museums/logos/000/185/824/original/3d2a819e7f981e948d66838657318e1e226e7280.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110971",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

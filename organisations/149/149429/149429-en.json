@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149429
+  },
+  "name": "HECKSCHER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 PRIME AVE",
+    "addressLocality": "HUNTINGTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11743-2741"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8753&mlon=-73.4224#map=15/40.8753/-73.4224",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8753,
+    "longitude": -73.4224
+  },
+  "url": "http://www.heckscher.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600723",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

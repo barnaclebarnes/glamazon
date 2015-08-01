@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150434
+  },
+  "name": "MONTEZUMA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 476",
+    "addressLocality": "MONTEZUMA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13117-0476"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0071&mlon=-76.7009#map=15/43.0071/-76.7009",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0071,
+    "longitude": -76.7009
+  },
+  "url": "http://www.montezumahistoricalsociety.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601728",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

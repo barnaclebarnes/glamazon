@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190250
+  },
+  "name": "MIAMI UNIVERSITY ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "801 S.PATTERSON AVE ",
+    "addressLocality": "OXFORD",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45056"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1725&mlon=-92.8352#map=15/45.1725/-92.8352",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1725,
+    "longitude": -92.8352
+  },
+  "url": "http://www.miamioh.edu/artmuseum",
+  "telephone": "+1 (513) 529-2238",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901426",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

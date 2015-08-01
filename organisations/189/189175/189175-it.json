@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189175
+  },
+  "name": "Museo diocesano tridentino Palazzo Libera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, 10",
+    "addressLocality": "Villa Lagarina",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9275&mlon=11.0425#map=15/45.9275/11.0425",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9275,
+    "longitude": 11.0425
+  },
+  "url": "http://www.museodiocesanotridentino.it/mediacenter/FE/home.aspx",
+  "telephone": "+39 0464490374",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mer., giov., ven. 14.00 - 18.00 sab. e dom. 10.00 - 12.30 e 14.00 - 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/192FbU59tT2uR-Gnd0_tD0s7sUw=/1000x1000/museums/logos/000/189/175/original/4f1de0d4eee18763c8b450d6d5bd5527d8f6fb6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100670",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

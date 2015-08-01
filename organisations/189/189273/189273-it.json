@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189273
+  },
+  "name": "Museo del capitolo della Cattedrale di San Lorenzo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza IV Novembre, ",
+    "addressLocality": "Perugia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1121&mlon=12.3893#map=15/43.1121/12.3893",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1121,
+    "longitude": 12.3893
+  },
+  "url": "http://meseiecclesiastici.it/umbria",
+  "telephone": "+39 0755724853",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JvCKu8_7vlz6PFbpzyldFE8mGjg=/1000x1000/museums/logos/000/189/273/original/23f723bdda5baa046d8266eb192da59baea68f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100731",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

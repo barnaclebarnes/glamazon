@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150032
+  },
+  "name": "THOUSAND ISLANDS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 27",
+    "addressLocality": "CLAYTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13624-0027"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2406&mlon=-76.0883#map=15/44.2406/-76.0883",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2406,
+    "longitude": -76.0883
+  },
+  "url": "http://www.timuseum.org/",
+  "telephone": "+1 (315) 686-5794",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601326",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

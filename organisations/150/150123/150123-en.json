@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150123
+  },
+  "name": "EMERSON GALLERY, HAMILTON COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "198 COLLEGE HILL RD",
+    "addressLocality": "CLINTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13323-1218"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0501&mlon=-75.4023#map=15/43.0501/-75.4023",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0501,
+    "longitude": -75.4023
+  },
+  "telephone": "+1 (315) 859-4396",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601417",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

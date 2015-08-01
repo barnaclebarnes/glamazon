@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188391
+  },
+  "name": "Museo naturalistico del comprensorio calatino e della riserva naturale orientata Bosco di Santo Pietro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via degli Achei, ",
+    "addressLocality": "Caltagirone",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1013&mlon=14.5001#map=15/37.1013/14.5001",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1013,
+    "longitude": 14.5001
+  },
+  "telephone": "+39 093320029",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mart., giov. e sab. 9.30/13,30 dom. 9.30/13.00 e 17.00/19.00 da aprile a ottobre",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6PHXHFF-XSNIkX0XRq_WFOXsB4A=/1000x1000/museums/logos/000/188/391/original/8f45feb19a5c63e5f91e636e4d61cc449b183.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101193",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

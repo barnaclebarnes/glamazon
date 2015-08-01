@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139321
+  },
+  "name": "DUBUQUE MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "701 LOCUST ST",
+    "addressLocality": "DUBUQUE",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52001-6817"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4999&mlon=-90.668#map=15/42.4999/-90.668",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4999,
+    "longitude": -90.668
+  },
+  "url": "http://www.dbqart.com",
+  "telephone": "+1 (563) 557-1851",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/dbqart"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900358",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

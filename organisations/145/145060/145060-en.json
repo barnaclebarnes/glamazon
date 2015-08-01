@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145060
+  },
+  "name": "MINNESOTA FISHING MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "304 W BROADWAY",
+    "addressLocality": "LITTLE FALLS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "56345-1535"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9772&mlon=-94.3737#map=15/45.9772/-94.3737",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9772,
+    "longitude": -94.3737
+  },
+  "url": "http://www.mnfishingmuseum.com",
+  "telephone": "+1 (320) 616-2011",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700500",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188951
+  },
+  "name": "Museo della vite e del vino di Carmignano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vittorio Emanuele II, 1",
+    "addressLocality": "Carmignano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.814&mlon=11.0188#map=15/43.814/11.0188",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.814,
+    "longitude": 11.0188
+  },
+  "url": "http://www.carmignanodivino.prato.it",
+  "telephone": "+39 0558712468",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8bR40Fx6yFwHdCujwL16WH4XxBY=/1000x1000/museums/logos/000/188/951/original/d53b25a2f5bc5f6c1a771bbc209849cc73dea1e5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103179",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

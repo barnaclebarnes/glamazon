@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146491
+  },
+  "name": "MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 628",
+    "addressLocality": "LIBBY",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59923"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3444&mlon=-115.522#map=15/48.3444/-115.522",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3444,
+    "longitude": -115.522
+  },
+  "url": "http://www.libbyheritagemuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000134",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186583
+  },
+  "name": "Museo napoleonico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza di ponte Umberto I, 1",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.902&mlon=12.4718#map=15/41.902/12.4718",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.902,
+    "longitude": 12.4718
+  },
+  "url": "http://www.comune.roma.it/",
+  "telephone": "+39 0668806286",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uShh3oSJa0xIVHUjxA36qI4pniU=/1000x1000/museums/logos/000/186/583/original/9fe9e5deeaeb986fa165eb9d61439a7e8d9016.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101584",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

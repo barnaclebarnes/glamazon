@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143561
+  },
+  "name": "MICHIGAN STATE UNIVERSITY HERBARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "166 PLANT BIOLOGY LAB",
+    "addressLocality": "EAST LANSING",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48824"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7248&mlon=-84.4824#map=15/42.7248/-84.4824",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7248,
+    "longitude": -84.4824
+  },
+  "url": "http://www.michigan.gov",
+  "telephone": "+1 (517) 355-4696",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600098",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

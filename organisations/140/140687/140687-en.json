@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140687
+  },
+  "name": "THE ART MUSEUM AT THE UNIVERSITY OF KENTUCKY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "405 ROSE STREET",
+    "addressLocality": "LEXINGTON",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40506-0241"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0376&mlon=-84.5001#map=15/38.0376/-84.5001",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0376,
+    "longitude": -84.5001
+  },
+  "url": "http://www.uky.edu/artmuseum",
+  "telephone": "+1 (859) 257-5716",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/artmuseumuk"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100444",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

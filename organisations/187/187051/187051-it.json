@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187051
+  },
+  "name": "Cenacolo Vinciano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santa Maria delle Grazie , 2",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.466&mlon=9.17065#map=15/45.466/9.17065",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.466,
+    "longitude": 9.17065
+  },
+  "url": "http://www.architettonicimilano.lombardia.beniculturali.it/",
+  "telephone": "+39 0286313290",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RQCiEcnYAzSv99bF4R8_j-M-8RU=/1000x1000/museums/logos/000/187/051/original/5de27e19e3e0bcbf9d4291a03869fdeb5774e245.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106558",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

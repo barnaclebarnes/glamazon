@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189179
+  },
+  "name": "Laboratorio ecologico di Geo-Paleontologia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Località Cà Piombino, ",
+    "addressLocality": "Assisi",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0702&mlon=12.6175#map=15/43.0702/12.6175",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0702,
+    "longitude": 12.6175
+  },
+  "url": "http://www.gumpassisi.it",
+  "telephone": "+39 075 8155290",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/n-HVb2mmxlbBztHTQEW92cm3xYQ=/1000x1000/museums/logos/000/189/179/original/12def731174989de3614ae51cf65e5462ac5f98.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108055",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

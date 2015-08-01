@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128957
+  },
+  "name": "BARANOV MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 MARINE WAY",
+    "addressLocality": "KODIAK",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99615"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=57.7875&mlon=-152.403#map=15/57.7875/-152.403",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 57.7875,
+    "longitude": -152.403
+  },
+  "telephone": "+1 (907) 486-5920",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/BaranovMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/BaranovMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200028",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

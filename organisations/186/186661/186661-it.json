@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186661
+  },
+  "name": "Museo della ceramica della Tuscia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavour, 67",
+    "addressLocality": "Viterbo",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4161&mlon=12.106#map=15/42.4161/12.106",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4161,
+    "longitude": 12.106
+  },
+  "url": "http://www.museodellaceramicadellatuscia.com/",
+  "telephone": "+39 0761346136",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kZ0ZmmW57DJU9FJ_4P_GfoMm56I=/1000x1000/museums/logos/000/186/661/original/af3093dbe5aa8458cb0362fe32d53c822188e7f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101648",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

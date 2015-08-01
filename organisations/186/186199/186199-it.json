@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186199
+  },
+  "name": "Museo civico delle Cappuccine",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Veneto, 1/a, ",
+    "addressLocality": "Bagnacavallo",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4186&mlon=11.9754#map=15/44.4186/11.9754",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4186,
+    "longitude": 11.9754
+  },
+  "url": "http://www.centrolecappuccine.it",
+  "telephone": "+39 0545280913",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RjEioyv_zQPc69YGqgGTZMp5IG0=/1000x1000/museums/logos/000/186/199/original/77c739850c6b1cc7f9bf05b308f20e64f50bc3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102195",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186253
+  },
+  "name": "Museo civico d'arte di Pordenone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vittorio Emanuele II, 51",
+    "addressLocality": "Pordenone",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9546&mlon=12.6601#map=15/45.9546/12.6601",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9546,
+    "longitude": 12.6601
+  },
+  "telephone": "+39 0434392935 - 0434392312",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a sabato 15.30/19.30 domenica 10.00/13.00 -15.30/19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4Lpdqz8Oxq-vO6C6IlsSx-2J3pk=/1000x1000/museums/logos/000/186/253/original/a97afe3fb1d81fdde145ba1585a17bb7f02b48.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100208",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

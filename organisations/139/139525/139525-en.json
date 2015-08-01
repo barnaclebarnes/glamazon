@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139525
+  },
+  "name": "FORT DES MOINES MUSEUM AND EDUCATION CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "75 E ARMY POST RD",
+    "addressLocality": "DES MOINES",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50315-5866"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5263&mlon=-93.6156#map=15/41.5263/-93.6156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5263,
+    "longitude": -93.6156
+  },
+  "url": "http://www.fortdesmoines.org",
+  "telephone": "+1 (515) 282-8060",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900562",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

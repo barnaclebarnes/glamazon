@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140862
+  },
+  "name": "CARTE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2347 CHRISTIAN STREET",
+    "addressLocality": "BATON ROUGE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "70808-2111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.4258&mlon=-91.1588#map=15/30.4258/-91.1588",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4258,
+    "longitude": -91.1588
+  },
+  "telephone": "+1 (225) 267-1025",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200144",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

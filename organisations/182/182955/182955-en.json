@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182955
+  },
+  "name": "Stadtmuseum Ingolstadt",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Auf der Schanz 45",
+    "addressLocality": "Ingolstadt",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85049"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7678&mlon=11.4164#map=15/48.7678/11.4164",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7678,
+    "longitude": 11.4164
+  },
+  "url": "http://www.ingolstadt.de/stadtmuseum",
+  "telephone": "0841/3051885",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182955",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

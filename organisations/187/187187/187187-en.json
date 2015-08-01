@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187187
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cardinal Branda Castiglioni, 1",
+    "addressLocality": "Castiglione Olona",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7573&mlon=8.86468#map=15/45.7573/8.86468",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7573,
+    "longitude": 8.86468
+  },
+  "telephone": "+39 0331858903",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KYOI2Pf4NeUJ5df2XFoRXBY7N2A=/1000x1000/museums/logos/000/187/187/original/7db115dac45d03c8b98a66fb8378d5d35cef1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103813",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134165
+  },
+  "name": "DELAWARE STATE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1200 NORTH DUPONT HIGHWAY",
+    "addressLocality": "DOVER",
+    "addressRegion": "DE",
+    "addressCountry": "United States",
+    "postalCode": "19901-2777"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1838&mlon=-75.5333#map=15/39.1838/-75.5333",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1838,
+    "longitude": -75.5333
+  },
+  "url": "http://www.desu.edu",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401000097",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

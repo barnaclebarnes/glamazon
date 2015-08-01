@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156083
+  },
+  "name": "HERITAGE PA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 455",
+    "addressLocality": "CAMP HILL",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17001-0455"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2492&mlon=-76.9224#map=15/40.2492/-76.9224",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2492,
+    "longitude": -76.9224
+  },
+  "url": "http://heritagepa.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201277",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

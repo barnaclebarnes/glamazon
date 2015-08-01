@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150704
+  },
+  "name": "STATEN ISLAND CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 RICHMOND TERRACE",
+    "addressLocality": "STATEN ISLAND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10301-1114"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6453&mlon=-74.1046#map=15/40.6453/-74.1046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6453,
+    "longitude": -74.1046
+  },
+  "url": "http://www.statenislandkids.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601998",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

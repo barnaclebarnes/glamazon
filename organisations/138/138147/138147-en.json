@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138147
+  },
+  "name": "GLENVIEW HISTORY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1121 WAUKEGAN RD",
+    "addressLocality": "GLENVIEW",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60025-3036"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.075&mlon=-87.7987#map=15/42.075/-87.7987",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.075,
+    "longitude": -87.7987
+  },
+  "url": "http://www.glenviewhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701292",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131318
+  },
+  "name": "PALM SPRINGS HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1498",
+    "addressLocality": "PALM SPRINGS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92263-1498"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.8267&mlon=-116.544#map=15/33.8267/-116.544",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8267,
+    "longitude": -116.544
+  },
+  "telephone": "+1 (619) 323-8297",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TTIRI9O8QBxvO6IoB6u7EDQblVY=/1000x1000/museums/logos/000/131/318/original/Palm_Springs_Art_Museum.jpg",
+    "license": "CC0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Palm_Springs_Art_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601444",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187000
+  },
+  "name": "Museo ornitologico e di scienze naturali Luigi Scanagatta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via IV Novembre, 7",
+    "addressLocality": "Varenna",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0094&mlon=9.28501#map=15/46.0094/9.28501",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0094,
+    "longitude": 9.28501
+  },
+  "url": "http://www.museoscanagattavarenna.blogspot.it/",
+  "telephone": "+39 03921927037",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zJZjOEk4xBal-678r8y7RmHjlwo=/1000x1000/museums/logos/000/187/000/original/d25ead47bb233b964a1212993e983c62b88a5e3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104925",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

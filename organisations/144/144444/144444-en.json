@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144444
+  },
+  "name": "FRANKENMUTH HISTORICAL ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "613 S MAIN ST",
+    "addressLocality": "FRANKENMUTH",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48734-1619"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3283&mlon=-83.7398#map=15/43.3283/-83.7398",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3283,
+    "longitude": -83.7398
+  },
+  "url": "http://www.frankenmuthmuseum.org",
+  "telephone": "+1 (989) 652-9701",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600981",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

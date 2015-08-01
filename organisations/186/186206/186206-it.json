@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186206
+  },
+  "name": "Centro culturale \"Carlo Venturini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Zaganelli, 2, ",
+    "addressLocality": "Massa Lombarda",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4427&mlon=11.8405#map=15/44.4427/11.8405",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4427,
+    "longitude": 11.8405
+  },
+  "url": "http://www.comune.massalombarda.ra.it",
+  "telephone": "+39 0545985832",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jwm-YAU-MXJoChLs7FXT23AZSwY=/1000x1000/museums/logos/000/186/206/original/752f3b47afc313f1e3ab11eef41fa8993df2e6cf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102222",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

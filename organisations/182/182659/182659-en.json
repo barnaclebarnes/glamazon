@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182659
+  },
+  "name": "Gartenkunst-Museum Schloss Fantaisie",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bamberger Straße 3",
+    "addressLocality": "Eckersdorf",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95488"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9337&mlon=11.5081#map=15/49.9337/11.5081",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9337,
+    "longitude": 11.5081
+  },
+  "url": "http://www.gartenkunst-museum.de",
+  "telephone": "0921/73140011",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182659",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

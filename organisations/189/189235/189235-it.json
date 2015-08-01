@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189235
+  },
+  "name": "Museo civico - Rocca Flea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Rocca, ",
+    "addressLocality": "Gualdo Tadino",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2322&mlon=12.7873#map=15/43.2322/12.7873",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2322,
+    "longitude": 12.7873
+  },
+  "url": "http://www.tadino.it",
+  "telephone": "+39 075916078",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HM65VZcEpqW9IDjPEfZWt0gskvY=/1000x1000/museums/logos/000/189/235/original/89f7ec76923a348153f2467b34ae1af62559c213.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100711",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185622
+  },
+  "name": "Museo archeologico civico-diocesano \"G. B. Leopardi\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Duomo, 7",
+    "addressLocality": "Penne",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.456&mlon=13.9271#map=15/42.456/13.9271",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.456,
+    "longitude": 13.9271
+  },
+  "url": "http://www.muvi.org/map; http://www.mapmuseoarcheologicopenne.it ",
+  "telephone": "+39 0858211727",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10.00 - 13.00 / 16.00 - 18.00 su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UxTUDy23hsyDFkn8UkZd7W5gNRk=/1000x1000/museums/logos/000/185/622/original/dc53bbdd489c8c98c36155958439eace5b839b9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100074",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188592
+  },
+  "name": "Museo civico paleontologico di Empoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Farinata degli Uberti, 8",
+    "addressLocality": "Empoli",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7195&mlon=10.9456#map=15/43.7195/10.9456",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7195,
+    "longitude": 10.9456
+  },
+  "url": "http://www.comune.empoli.fi.it",
+  "telephone": "+39 0571537038",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/yYoFA1x6u4_2GZabdkov8tw8VDI=/1000x1000/museums/logos/000/188/592/original/c9827517389f299f24af347e53f3e9a7b66ebd38.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102905",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

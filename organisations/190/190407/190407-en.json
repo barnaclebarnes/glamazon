@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190407
+  },
+  "name": "OGDEN NATURE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "966 W 12TH ST",
+    "addressLocality": "OGDEN",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84404"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3367&mlon=-68.0591#map=15/44.3367/-68.0591",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3367,
+    "longitude": -68.0591
+  },
+  "url": "http://www.ogdennaturecenter.org",
+  "telephone": "+1 (801) 621-7595",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900264",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

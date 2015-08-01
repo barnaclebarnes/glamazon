@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187385
+  },
+  "name": "Cantina dei Papi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Pestrino, 4",
+    "addressLocality": "Monte San Martino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.033&mlon=13.4402#map=15/43.033/13.4402",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.033,
+    "longitude": 13.4402
+  },
+  "url": "http://www.comunemontesanmartino.it/Contatti.html?iframe",
+  "telephone": "+39 +39 0733 660107",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni dalle 10.00 alle 13.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FpUN4baOpKBYnUtxvbxH14Nj6os=/1000x1000/museums/logos/000/187/385/original/e5b1cedcb0e3f34c147bbe2b1f873a692a5be47f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104205",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

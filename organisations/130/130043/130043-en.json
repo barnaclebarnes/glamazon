@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130043
+  },
+  "name": "SAN FRANCISCO CONSERVATORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "50 OAK ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94159-1747"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7753&mlon=-122.42#map=15/37.7753/-122.42",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7753,
+    "longitude": -122.42
+  },
+  "url": "http://www.sfcm.edu/",
+  "telephone": "+1 (415) 864-7326",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/xa8FeclvxI3_771vO93DL2xeV_0=/1000x1000/museums/logos/000/130/043/original/San_Francisco_Conservatory_of_Music_-_DSC01305.JPG",
+    "license": "CC0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/San_Francisco_Conservatory_of_Music",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600169",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

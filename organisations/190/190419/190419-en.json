@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190419
+  },
+  "name": "CHINCOTEAGUE BAY FIELD STATION (FORMERLY MARINE SCIENCE CONSORTIUM)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "34001 MILL DAM ROAD",
+    "addressLocality": "WALLOPS ISLAND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23337"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4996&mlon=-71.2501#map=15/41.4996/-71.2501",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4996,
+    "longitude": -71.2501
+  },
+  "url": "http://www.cbfieldstation.org",
+  "telephone": "+1 (757) 824-5636",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405101062",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

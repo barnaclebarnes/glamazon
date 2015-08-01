@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164092
+  },
+  "name": "Monash Science Centre",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9068&mlon=145.138#map=15/-37.9068/145.138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9068,
+    "longitude": 145.138
+  },
+  "url": "http://sciencecentre.monash.edu/",
+  "telephone": "(03) 9905 1370",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "monash-science-centre",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/monash-science-centre",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

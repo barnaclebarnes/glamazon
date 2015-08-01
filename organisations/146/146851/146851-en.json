@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146851
+  },
+  "name": "THE DURHAM MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "801 S 10TH STREET",
+    "addressLocality": "OMAHA",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68108-3207"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2506&mlon=-95.9293#map=15/41.2506/-95.9293",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2506,
+    "longitude": -95.9293
+  },
+  "url": "http://www.durhammuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100190",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

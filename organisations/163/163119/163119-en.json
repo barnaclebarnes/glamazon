@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163119
+  },
+  "name": "EINSTEIN PROJECT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1255 EINSTEIN WAY",
+    "addressLocality": "GREEN BAY",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "54311-8330"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4769&mlon=-87.9226#map=15/44.4769/-87.9226",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4769,
+    "longitude": -87.9226
+  },
+  "url": "http://www.einsteinproject.org",
+  "telephone": "+1 (920) 884-8800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500568",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

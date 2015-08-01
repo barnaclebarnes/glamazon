@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163882
+  },
+  "name": "Frankston RSL Sub Branch",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.1501&mlon=145.149#map=15/-38.1501/145.149",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.1501,
+    "longitude": 145.149
+  },
+  "url": "http://frankstonrsl.com.au/sub-branch/",
+  "telephone": "(03) 9783 2288",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10:00 until late every day (except ANZAC day, Christmas day and Good Friday)",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "frankston-rsl",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/frankston-rsl",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

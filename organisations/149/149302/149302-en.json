@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149302
+  },
+  "name": "NASSAU COUNTY MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 MUSEUM DR",
+    "addressLocality": "ROSLYN HARBOR",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11576-1138"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8076&mlon=-73.635#map=15/40.8076/-73.635",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8076,
+    "longitude": -73.635
+  },
+  "url": "http://nassaumuseum.com",
+  "telephone": "+1 (516) 625-4351",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/59097254182"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600596",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

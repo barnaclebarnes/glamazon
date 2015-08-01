@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158714
+  },
+  "name": "WACO HISTORY PROJECT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "703 N VALLEY MILLS DRIVE",
+    "addressLocality": "WACO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76710-4848"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.5294&mlon=-97.1769#map=15/31.5294/-97.1769",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.5294,
+    "longitude": -97.1769
+  },
+  "url": "http://wacohistoryproject.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800814",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

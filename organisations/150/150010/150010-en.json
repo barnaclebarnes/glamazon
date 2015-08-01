@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150010
+  },
+  "name": "GRANGER HOMESTEAD SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "295 N MAIN ST",
+    "addressLocality": "CANANDAIGUA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14424-1228"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8972&mlon=-77.2882#map=15/42.8972/-77.2882",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8972,
+    "longitude": -77.2882
+  },
+  "url": "http://www.grangerhomestead.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601304",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

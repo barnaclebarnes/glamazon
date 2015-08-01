@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187309
+  },
+  "name": "Polo museale di San Francesco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Francesco, 6",
+    "addressLocality": "Montefiore dell'Aso",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0516&mlon=13.7502#map=15/43.0516/13.7502",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0516,
+    "longitude": 13.7502
+  },
+  "url": "http://www.comune.montefioredellaso.ap.it",
+  "telephone": "+39 0734939019",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Ultima settimana di Settembre - Maggio: sab, dom. e festivi 10-13, 15-18; Giugno: sab, dom e festivi 10-13, 17-20; Luglio: dal mar al ven 17-20; Agosto: da lun a ven 17-20, sab, dom e festivi 10-13, 17-20",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6SkuXNSayPUawNwUYj3Gt3tqQq8=/1000x1000/museums/logos/000/187/309/original/616ea669de50e325c5db4f76fc1e42f18ce67.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104126",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

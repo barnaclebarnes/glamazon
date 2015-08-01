@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134540
+  },
+  "name": "LOWE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1301 STANFORD DR",
+    "addressLocality": "CORAL GABLES",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33146"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.719&mlon=-80.2761#map=15/25.719/-80.2761",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.719,
+    "longitude": -80.2761
+  },
+  "url": "http://www.lowemuseum.org",
+  "telephone": "+1 (305) 284-3535",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200094",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

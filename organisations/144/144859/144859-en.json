@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144859
+  },
+  "name": "AMERICAN SWEDISH INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2600 PARK AVE",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55407-1007"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9551&mlon=-93.2651#map=15/44.9551/-93.2651",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9551,
+    "longitude": -93.2651
+  },
+  "url": "http://asimn.org",
+  "telephone": "+1 (612) 871-4907",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/AmericanSwedishInstitute"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700299",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

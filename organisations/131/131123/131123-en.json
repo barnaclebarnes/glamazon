@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131123
+  },
+  "name": "LAMBDA ARCHIVES OF SAN DIEGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 33956",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92163-3956"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.75&mlon=-117.151#map=15/32.75/-117.151",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.75,
+    "longitude": -117.151
+  },
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DHKCBZ2F1wUupERxVnTjUeeD650=/1000x1000/museums/logos/000/131/123/original/LAmbda_Logo.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Lambda_Archives_of_San_Diego",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601249",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

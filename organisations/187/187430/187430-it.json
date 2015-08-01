@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187430
+  },
+  "name": "Museo archeologico statale di Urbisaglia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Traversa Piccinini, ",
+    "addressLocality": "Urbisaglia",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1969&mlon=13.3769#map=15/43.1969/13.3769",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1969,
+    "longitude": 13.3769
+  },
+  "url": "http://www.archeomarche.beniculturali.it/",
+  "telephone": "+39 073350107",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì-mercoldì-venerdì: 14.00-19.30 martedì-giovedì-sabato-domenica e festivi: 8.00-13.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/o_UZmQvLQR0f-FYyoURibMCgh1I=/1000x1000/museums/logos/000/187/430/original/21e0c07ac8399588e0e93ff78a4fe4a0a73b03.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20301",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186202
+  },
+  "name": "Il cardello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cardello, 9, ",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2337&mlon=11.6362#map=15/44.2337/11.6362",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2337,
+    "longitude": 11.6362
+  },
+  "url": "http://www.fondazionecasadioriani.it",
+  "telephone": "+39 054673135",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hlDHZm_UKV7KsuNVnMo4TOHDXPA=/1000x1000/museums/logos/000/186/202/original/61d2f2973f9695e5556621c2791f09c68083ef.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102200",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

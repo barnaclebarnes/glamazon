@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185701
+  },
+  "name": "Museo della cultura arbereshe",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Regina Margherita, 10",
+    "addressLocality": "San Paolo Albanese",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0363&mlon=16.335#map=15/40.0363/16.335",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0363,
+    "longitude": 16.335
+  },
+  "url": "http://www.comune.sanpaoloalbanese.pz.it",
+  "telephone": "+39 097394469",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-KYZM4d5ffMgiy7I9RCj8WGWszs=/1000x1000/museums/logos/000/185/701/original/6029beac8911f66821a9accb6de1dce04f1d89a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100138",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

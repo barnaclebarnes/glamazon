@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188435
+  },
+  "name": "Dipartimento scienze botaniche di Messina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Salita Sperone, 31",
+    "addressLocality": "Messina",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2601&mlon=15.5997#map=15/38.2601/15.5997",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2601,
+    "longitude": 15.5997
+  },
+  "url": "http://www.ortobotanico.messina.it",
+  "telephone": "+39 090 391940",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8,00/12,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EGmt9jcXnxRvdVN_sy5ppPzt0g0=/1000x1000/museums/logos/000/188/435/original/ca38d6b4558d4729d1b4e1f9de3076782d99d7.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101251",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

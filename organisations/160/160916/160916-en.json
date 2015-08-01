@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160916
+  },
+  "name": "CENTRAL HIGH MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 514",
+    "addressLocality": "CHARLOTTE CH",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23923-0514"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1059&mlon=-78.6434#map=15/37.1059/-78.6434",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1059,
+    "longitude": -78.6434
+  },
+  "telephone": "+1 (434) 542-4699",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100422",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

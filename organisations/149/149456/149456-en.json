@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149456
+  },
+  "name": "BARNARD COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3009 BROADWAY",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10027-6909"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8086&mlon=-73.9636#map=15/40.8086/-73.9636",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8086,
+    "longitude": -73.9636
+  },
+  "telephone": "+1 (212) 854-4079",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600750",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

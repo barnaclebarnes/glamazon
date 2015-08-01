@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132644
+  },
+  "name": "SANTA MONICA MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2525 MICHIGAN G-1",
+    "addressLocality": "SANTA MONICA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90404"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0294&mlon=-118.473#map=15/34.0294/-118.473",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0294,
+    "longitude": -118.473
+  },
+  "telephone": "+1 (310) 586-6488",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/SMMoA"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602770",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

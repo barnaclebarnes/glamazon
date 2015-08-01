@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186032
+  },
+  "name": "Science centre di Città della Scienza",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Coroglio, 104",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8056&mlon=14.1738#map=15/40.8056/14.1738",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8056,
+    "longitude": 14.1738
+  },
+  "url": "http://www.fondazioneidis.it",
+  "telephone": "+39 0815702158",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pU4bTgM8fpy_Wtjnw4sQ6zlsOaU=/1000x1000/museums/logos/000/186/032/original/189cd96bad1c89c97061a483f1a8c01ce3cc7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103910",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

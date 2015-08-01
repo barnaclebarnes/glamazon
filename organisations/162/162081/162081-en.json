@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162081
+  },
+  "name": "HISTORY HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "790 N 34TH ST",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98103-8801"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6496&mlon=-122.35#map=15/47.6496/-122.35",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6496,
+    "longitude": -122.35
+  },
+  "url": "http://www.historyhouse.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300530",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

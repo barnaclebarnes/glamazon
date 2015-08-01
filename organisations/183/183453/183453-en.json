@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183453
+  },
+  "name": "Reichenberger Heimatstube",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Konrad-Adenauer-Allee 39",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86150"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3624&mlon=10.8968#map=15/48.3624/10.8968",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3624,
+    "longitude": 10.8968
+  },
+  "url": "http://www.heimatkreis.de/index.php?option=com_content&view=article&id=24&Itemid=30",
+  "telephone": "0821/312707",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183453",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

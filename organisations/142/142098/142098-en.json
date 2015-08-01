@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142098
+  },
+  "name": "BALTIMORE PUBLIC WORKS MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2444 LOCH RAVEN RD",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21202-4320"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.3177&mlon=-76.6075#map=15/39.3177/-76.6075",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.3177,
+    "longitude": -76.6075
+  },
+  "url": "http://www.baltimorepublicworksmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400391",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

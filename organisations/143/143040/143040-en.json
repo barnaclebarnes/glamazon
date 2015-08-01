@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143040
+  },
+  "name": "SOMERVILLE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ONE WESTWOOD ROAD",
+    "addressLocality": "SOMERVILLE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02143-1517"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3868&mlon=-71.1048#map=15/42.3868/-71.1048",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3868,
+    "longitude": -71.1048
+  },
+  "url": "http://www.somervillemuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500670",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

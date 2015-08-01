@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160219
+  },
+  "name": "NATIONAL MUSEUM OF MORGAN HORSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "122 BOSTWICK RD",
+    "addressLocality": "SHELBURNE",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05482"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3691&mlon=-73.2342#map=15/44.3691/-73.2342",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3691,
+    "longitude": -73.2342
+  },
+  "url": "http://www.morganmuseum.org",
+  "telephone": "+1 (802) 985-8665",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000025",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

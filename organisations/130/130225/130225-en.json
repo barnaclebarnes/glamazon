@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130225
+  },
+  "name": "LOS ALTOS HISTORY HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "51 S. SAN ANTONIO ROAD",
+    "addressLocality": "LOS ALTOS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94022"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3808&mlon=-122.114#map=15/37.3808/-122.114",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3808,
+    "longitude": -122.114
+  },
+  "url": "http://www.losaltoshistory.org",
+  "telephone": "+1 (650) 948-9427",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600351",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

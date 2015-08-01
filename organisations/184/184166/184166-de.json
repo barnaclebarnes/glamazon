@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184166
+  },
+  "name": "Clyde Historical Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-45.1875&mlon=169.32#map=15/-45.1875/169.32",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -45.1875,
+    "longitude": 169.32
+  },
+  "telephone": "64-3-449 2092",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Di-So 14:00-16:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Museum: $1 (Erwachsener) Herb Fabrik: $2"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/de/museums/184166",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

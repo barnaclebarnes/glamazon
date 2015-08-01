@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132158
+  },
+  "name": "ANTIOCH HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1500 W 4TH ST",
+    "addressLocality": "ANTIOCH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94509-1046"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0156&mlon=-121.825#map=15/38.0156/-121.825",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0156,
+    "longitude": -121.825
+  },
+  "url": "http://www.art4antioch.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602284",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

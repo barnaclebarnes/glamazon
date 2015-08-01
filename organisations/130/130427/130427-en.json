@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130427
+  },
+  "name": "BREA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "495 S BREA BLVD",
+    "addressLocality": "BREA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92821"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9133&mlon=-117.902#map=15/33.9133/-117.902",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9133,
+    "longitude": -117.902
+  },
+  "url": "http://www.breamuseum.org",
+  "telephone": "+1 (714) 256-2283",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600553",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186030
+  },
+  "name": "Quadreria dei Girolamini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Duomo, 142",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8524&mlon=14.2588#map=15/40.8524/14.2588",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8524,
+    "longitude": 14.2588
+  },
+  "url": "http://cir.campania.beniculturali.it/quadreriagirolamini",
+  "telephone": "+39 081449139",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1FHZe1UHz7icL2enmolJj44AQ8k=/1000x1000/museums/logos/000/186/030/original/2884c45ce3860f81196ea3fb3d96c62678719c.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101864",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129552
+  },
+  "name": "TUCSON ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1030 S RANDOLPH WAY",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85716-5835"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.2092&mlon=-110.918#map=15/32.2092/-110.918",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.2092,
+    "longitude": -110.918
+  },
+  "url": "http://www.tucsonzoo.org",
+  "telephone": "+1 (520) 881-4753",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400454",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

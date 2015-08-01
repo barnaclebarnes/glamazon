@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149001
+  },
+  "name": "FREEPORT HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "350 S MAIN ST",
+    "addressLocality": "FREEPORT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11520"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6476&mlon=-73.5759#map=15/40.6476/-73.5759",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6476,
+    "longitude": -73.5759
+  },
+  "url": "http://www.freeporthistory.org",
+  "telephone": "+1 (516) 623-9632",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600295",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

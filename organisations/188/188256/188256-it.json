@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188256
+  },
+  "name": "Museo Omu axiu",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 46",
+    "addressLocality": "Orroli",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6922&mlon=9.25305#map=15/39.6922/9.25305",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6922,
+    "longitude": 9.25305
+  },
+  "url": "http://www.omuaxiu.it/casa_museo.htm",
+  "telephone": "+39 0782 845023",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.30 - 12.30 e 16.00 - 18.30 sab.e dom.; altri giorni su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Cp_JHdK8_pouX3QntXfIQzoT00E=/1000x1000/museums/logos/000/188/256/original/906f77606a9f5ac377ae8b2721fc1a5557f06c.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103332",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

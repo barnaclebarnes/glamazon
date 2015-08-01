@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163919
+  },
+  "name": "Green Gables",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9545&mlon=143.343#map=15/-37.9545/143.343",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9545,
+    "longitude": 143.343
+  },
+  "telephone": "(03) 5596 2053",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "green-gables",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/green-gables",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

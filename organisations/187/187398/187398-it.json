@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187398
+  },
+  "name": "Museo della nostra terra di Pieve Torina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Agostino, 1",
+    "addressLocality": "Pieve Torina",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0431&mlon=13.0469#map=15/43.0431/13.0469",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0431,
+    "longitude": 13.0469
+  },
+  "url": "http://musei.sibillini.net",
+  "telephone": "+39 0737518032",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Giugno, luglio, agosto: aperto tutti i gioni 9.00 - 12.00 e 16.00 - 18.00 in tutti gli altri mesi dell'anno aperto il giovedì, il sabato e la domenica 16.00-18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/3GmFq76086M0A3lRuKV0Sr7VmQ4=/1000x1000/museums/logos/000/187/398/original/b4bd3b3259a479e1523a923ec8237c14c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104210",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

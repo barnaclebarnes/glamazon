@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161082
+  },
+  "name": "UNIVERSITY OF RICHMOND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "28 WESTHAMPTON WAY",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23173-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5742&mlon=-77.5385#map=15/37.5742/-77.5385",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5742,
+    "longitude": -77.5385
+  },
+  "url": "http://www.richmond.edu",
+  "telephone": "+1 (804) 289-8000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100588",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140604
+  },
+  "name": "WESTERN KENTUCKY BOTANICAL GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 22562",
+    "addressLocality": "OWENSBORO",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "42304-2562"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7761&mlon=-87.1484#map=15/37.7761/-87.1484",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7761,
+    "longitude": -87.1484
+  },
+  "url": "http://wkbg.org/",
+  "telephone": "+1 (270) 852-8925",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100361",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149800
+  },
+  "name": "STEPHENTOWN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 11",
+    "addressLocality": "STEPHENTOWN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12168"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5487&mlon=-73.3739#map=15/42.5487/-73.3739",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5487,
+    "longitude": -73.3739
+  },
+  "url": "http://www.stephentown-historical.org",
+  "telephone": "+1 (518) 733-6070",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601094",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

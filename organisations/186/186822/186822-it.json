@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186822
+  },
+  "name": "Museo storico di Bergamo Novecento",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale Brigata Legnano, ?",
+    "addressLocality": "Bergamo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7038&mlon=9.66742#map=15/45.7038/9.66742",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7038,
+    "longitude": 9.66742
+  },
+  "url": "http://www.bergamoestoria.it",
+  "telephone": "+39 035 247116",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106887",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

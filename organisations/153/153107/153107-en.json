@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153107
+  },
+  "name": "CLEVELAND MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11150 EAST BLVD",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44106-1711"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5067&mlon=-81.6103#map=15/41.5067/-81.6103",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5067,
+    "longitude": -81.6103
+  },
+  "url": "http://www.clevelandart.org",
+  "telephone": "+1 (503) 278-2583",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/18817392776"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ClevelandArt"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900885",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

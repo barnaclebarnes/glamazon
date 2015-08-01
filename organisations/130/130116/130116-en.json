@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130116
+  },
+  "name": "NEWMAN CITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1209 MAIN ST",
+    "addressLocality": "NEWMAN",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95360"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.317&mlon=-121.023#map=15/37.317/-121.023",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.317,
+    "longitude": -121.023
+  },
+  "telephone": "+1 (209) 862-0239",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600242",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

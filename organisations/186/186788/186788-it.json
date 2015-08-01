@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186788
+  },
+  "name": "Museo navale romano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Michele, 12",
+    "addressLocality": "Albenga",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0487&mlon=8.21265#map=15/44.0487/8.21265",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0487,
+    "longitude": 8.21265
+  },
+  "telephone": "+39 0182/51215",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100448",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

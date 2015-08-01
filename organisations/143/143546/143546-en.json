@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143546
+  },
+  "name": "MICHIGAN STATE UNIV MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "W CIRCLE DR",
+    "addressLocality": "EAST LANSING",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48823"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7318&mlon=-84.4839#map=15/42.7318/-84.4839",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7318,
+    "longitude": -84.4839
+  },
+  "url": "http://www.museum.msu.edu/generalinformation/museumstore",
+  "telephone": "+1 (517) 355-7474",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600083",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

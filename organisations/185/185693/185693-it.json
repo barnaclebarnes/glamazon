@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185693
+  },
+  "name": "Museo archeologico nazionale del melfese \"Massimo Pallottino\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Normanni - Castello Federiciano, ",
+    "addressLocality": "Melfi",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9975&mlon=15.6524#map=15/40.9975/15.6524",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9975,
+    "longitude": 15.6524
+  },
+  "url": "http://www.archeobasilicata.beniculturali.it",
+  "telephone": "+39 0972238726",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lun 14.00 - 20.00; mar - dom 9.00 - 20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/R5vp7GHW12Ujiz9peMFlyepjy9w=/1000x1000/museums/logos/000/185/693/original/da10f079e489e5d4daf7d268e27c277edc0bb8f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20514",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

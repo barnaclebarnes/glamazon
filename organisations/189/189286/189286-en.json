@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189286
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, 20",
+    "addressLocality": "Piegaro",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.97&mlon=12.0865#map=15/42.97/12.0865",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.97,
+    "longitude": 12.0865
+  },
+  "url": "http://www.comune.piegaro.pg.it/vetro.html",
+  "telephone": "+39 075 8358525",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/n6jrhp2YBA8tS6yuhCEfmWBGFoE=/1000x1000/museums/logos/000/189/286/original/fdae317bb4c8bf279ed851e8a73e698e578257.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108052",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

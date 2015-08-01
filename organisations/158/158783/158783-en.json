@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158783
+  },
+  "name": "DALLAS WAY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4848 LEMMON AVENUE SUITE 100-424",
+    "addressLocality": "DALLAS",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75219-1400"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8225&mlon=-96.8179#map=15/32.8225/-96.8179",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8225,
+    "longitude": -96.8179
+  },
+  "url": "http://www.thedallasway.org",
+  "telephone": "+1 (214) 755-8756",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800883",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

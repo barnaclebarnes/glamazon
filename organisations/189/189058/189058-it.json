@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189058
+  },
+  "name": "Museion - Museo d'arte moderna e contemporanea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sernesi, 1",
+    "addressLocality": "Bolzano/Bozen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4984&mlon=11.3511#map=15/46.4984/11.3511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4984,
+    "longitude": 11.3511
+  },
+  "url": "http://www.museion.it",
+  "telephone": "+39 0471224311",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Da martedì a domenica dalle ore 10.00 alle 18.00. Giovedì dalle ore 10.00 alle 22.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 6,00 adulti € 3,00 Kulturpass € 12,00 famiglie (fino a 2 adulti con bambini) € 30,00 abbonamento annuale € 50,00 abbonamento annuale per titolare + due persone riduzione del 25 % sulle prime quattro ore di parcheggio per i visitatori che parcheggiano"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QIS4nN-muKirXK4A_D1L7xQomug=/1000x1000/museums/logos/000/189/058/original/8460759f3402cec8658bb59f5df99d1edd4a5ce.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100517",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

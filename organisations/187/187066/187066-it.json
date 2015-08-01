@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187066
+  },
+  "name": "Museo aziendale Mario Buccellati",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Montenapoleone, 23",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4691&mlon=9.19421#map=15/45.4691/9.19421",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4691,
+    "longitude": 9.19421
+  },
+  "url": "http://www.mariobuccellati.it",
+  "telephone": "+39 02 795059",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106902",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150111
+  },
+  "name": "DUNKIRK HISTORICAL LIGHTHOUSE AND VETERANS PARK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 69",
+    "addressLocality": "DUNKIRK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14048-0069"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4779&mlon=-79.3322#map=15/42.4779/-79.3322",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4779,
+    "longitude": -79.3322
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601405",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189207
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Albizzini, 1",
+    "addressLocality": "Città di Castello",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4585&mlon=12.2399#map=15/43.4585/12.2399",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4585,
+    "longitude": 12.2399
+  },
+  "url": "http://www.fondazioneburri.org",
+  "telephone": "+39 0758554649",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TtxoV2DBTQ9LNdAvaMDH-X05Vhc=/1000x1000/museums/logos/000/189/207/original/d3968d67a545675f9e2ced4ee3decf19ca2fdb39.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100692",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

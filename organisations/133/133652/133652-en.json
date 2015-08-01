@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133652
+  },
+  "name": "MARK TWAIN HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "66 FOREST ST",
+    "addressLocality": "HARTFORD",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06105-6400"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7675&mlon=-72.7014#map=15/41.7675/-72.7014",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7675,
+    "longitude": -72.7014
+  },
+  "url": "http://www.marktwainhouse.org",
+  "telephone": "+1 (860) 247-0998",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900127",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

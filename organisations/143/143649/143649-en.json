@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143649
+  },
+  "name": "EXHIBIT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1109 GEDDES AVENUE",
+    "addressLocality": "ANN ARBOR",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48109-1079"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2776&mlon=-83.7344#map=15/42.2776/-83.7344",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2776,
+    "longitude": -83.7344
+  },
+  "telephone": "+1 (313) 763-4191",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600186",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

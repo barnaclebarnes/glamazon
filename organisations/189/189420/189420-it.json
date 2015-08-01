@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189420
+  },
+  "name": "Museo civico archeologico di Mel",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Papa Luciani, 7",
+    "addressLocality": "Mel",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0622&mlon=12.0794#map=15/46.0622/12.0794",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0622,
+    "longitude": 12.0794
+  },
+  "url": "http://www.museomel.it",
+  "telephone": "+39 0437544216",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tKewT3Kg989xFVWcgwo00gw05no=/1000x1000/museums/logos/000/189/420/original/2a62f9e9736995916e554cd8e5c390f3fd3c24.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100880",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

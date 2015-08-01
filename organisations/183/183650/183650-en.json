@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183650
+  },
+  "name": "Kutschenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Elder 2",
+    "addressLocality": "Schwabsoien",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86987"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8361&mlon=10.8276#map=15/47.8361/10.8276",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8361,
+    "longitude": 10.8276
+  },
+  "url": "http://www.schwabsoien.de/2440.0.html",
+  "telephone": "08868/813",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183650",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

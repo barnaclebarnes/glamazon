@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142949
+  },
+  "name": "MARY BAKER EDDY LIBRARY BETTLE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 MASSACHUSETTS AVE",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02115-3012"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3454&mlon=-71.0868#map=15/42.3454/-71.0868",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3454,
+    "longitude": -71.0868
+  },
+  "url": "http://www.marybakereddylibrary.org",
+  "telephone": "+1 (617) 450-7000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500579",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

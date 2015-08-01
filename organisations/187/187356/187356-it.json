@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187356
+  },
+  "name": "Museo e pinacoteca diocesana \" G. Boccanera\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cavour, 12",
+    "addressLocality": "Camerino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1357&mlon=13.0682#map=15/43.1357/13.0682",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1357,
+    "longitude": 13.0682
+  },
+  "url": "http://www.museiciviciediocesanimarche.it",
+  "telephone": "+39 0737630400",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aprile-settembre: da giov a dom 10-13 16-19. ottobre-marzo sab dom 10-13 15-18",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.1"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/pYG5rmJXAdeTgUHcANja7ruzR2Q=/1000x1000/museums/logos/000/187/356/original/c746cb6180eda8e4239434a980f4a44aa61032fa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104166",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

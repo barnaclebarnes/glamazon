@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151643
+  },
+  "name": "NORTH CAROLINA MUSEUMS COUNCIL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2603",
+    "addressLocality": "RALEIGH",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "27602-2760"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.7766&mlon=-78.6403#map=15/35.7766/-78.6403",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.7766,
+    "longitude": -78.6403
+  },
+  "url": "http://www.ncmuseums.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700514",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

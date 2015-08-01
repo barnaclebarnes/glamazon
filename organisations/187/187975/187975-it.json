@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187975
+  },
+  "name": "Pinacoteca comunale (Donazione Michele Baretta)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palazzo Luisia - c/o Biblioteca Civica - Via Umberto I, 17, ",
+    "addressLocality": "Vigone",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8427&mlon=7.49302#map=15/44.8427/7.49302",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8427,
+    "longitude": 7.49302
+  },
+  "url": "http://www.comune.vigone.to.it",
+  "telephone": "+39 011 9801243",
+  "contactPoint": [
+
+  ],
+  "openingHours": "gen.-dic. lunedì15.00/17.00; mart. 14.30/18.30; mer, 10.00/12.00; giov. 10.00/12.00-14.30/17.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4Vh5MRvre0NT19H76OAsZ_DiIng=/1000x1000/museums/logos/000/187/975/original/49f740fd7cecad84b34d2585afc01d826baafa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106688",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

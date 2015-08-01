@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188879
+  },
+  "name": "Museo Giorgio Kienerk",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Chiostra I, 13",
+    "addressLocality": "Fauglia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5673&mlon=10.5154#map=15/43.5673/10.5154",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5673,
+    "longitude": 10.5154
+  },
+  "telephone": "+39 050657311",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AHOn4bfkCO8-_gWPOCInRcux-Q0=/1000x1000/museums/logos/000/188/879/original/764ca9f4cc704deffcaf583f3bcf160969463fc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110727",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

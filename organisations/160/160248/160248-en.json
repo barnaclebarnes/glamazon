@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160248
+  },
+  "name": "SHELBURNE MUSEUM INCORPORATED",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 10",
+    "addressLocality": "SHELBURNE",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05482-0010"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3707&mlon=-73.2313#map=15/44.3707/-73.2313",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3707,
+    "longitude": -73.2313
+  },
+  "url": "http://www.shelburnemuseum.org",
+  "telephone": "+1 (802) 985-3346",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000054",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

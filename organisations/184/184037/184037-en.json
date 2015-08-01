@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184037
+  },
+  "name": "Heimatmuseum Buchenberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Eschacher Straße 35 b",
+    "addressLocality": "Buchenberg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87474"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6994&mlon=10.2286#map=15/47.6994/10.2286",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6994,
+    "longitude": 10.2286
+  },
+  "url": "http://www.heimatmuseum-buchenberg.de",
+  "telephone": "08378/514",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184037",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

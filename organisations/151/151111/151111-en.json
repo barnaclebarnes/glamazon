@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151111
+  },
+  "name": "TOTTENVILLE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 70185",
+    "addressLocality": "STATEN ISLAND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10307"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5107&mlon=-74.2422#map=15/40.5107/-74.2422",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5107,
+    "longitude": -74.2422
+  },
+  "url": "http://www.tottenvillehistory.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602405",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

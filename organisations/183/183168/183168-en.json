@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183168
+  },
+  "name": "Schloss und Park Schönbusch",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kleine Schönbuschallee 1",
+    "addressLocality": "Aschaffenburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63741"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9629&mlon=9.10749#map=15/49.9629/9.10749",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9629,
+    "longitude": 9.10749
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/as_sb.htm",
+  "telephone": "06021/38657-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183168",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

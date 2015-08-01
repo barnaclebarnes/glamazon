@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150041
+  },
+  "name": "EXHIBITION ALLIANCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 345",
+    "addressLocality": "HAMILTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13346-0345"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8256&mlon=-75.5436#map=15/42.8256/-75.5436",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8256,
+    "longitude": -75.5436
+  },
+  "telephone": "+1 (315) 824-2510",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601335",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

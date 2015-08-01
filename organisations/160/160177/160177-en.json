@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160177
+  },
+  "name": "UNIVERSITY OF UTAH",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 PRESIDENTS CIRCLE",
+    "addressLocality": "SALT LAKE CIT",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84112"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7653&mlon=-111.85#map=15/40.7653/-111.85",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7653,
+    "longitude": -111.85
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900243",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145820
+  },
+  "name": "WORLD CHESS MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4567 MARYLAND AVE",
+    "addressLocality": "ST LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6442&mlon=-90.2589#map=15/38.6442/-90.2589",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6442,
+    "longitude": -90.2589
+  },
+  "url": "http://www.worldchesshof.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900249",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

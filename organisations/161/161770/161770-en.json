@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161770
+  },
+  "name": "WASHINGTON STATE RAILROAD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "122 N TACOMA ST",
+    "addressLocality": "PASCO",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "99301-5639"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.2325&mlon=-119.085#map=15/46.2325/-119.085",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.2325,
+    "longitude": -119.085
+  },
+  "url": "http://www.wsrhs.org",
+  "telephone": "+1 (509) 543-4159",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300219",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

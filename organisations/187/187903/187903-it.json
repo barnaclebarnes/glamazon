@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187903
+  },
+  "name": "Ecomuseo del Freidano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Ariosto, 36 bis, ",
+    "addressLocality": "Settimo Torinese",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.137&mlon=7.77963#map=15/45.137/7.77963",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.137,
+    "longitude": 7.77963
+  },
+  "url": "http://www.ecomuseodelfreidano.it",
+  "telephone": "+39 011 8028290",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica 15.00 - 19.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XghqMaYJEV4HWYXZ8xVE_RkHUZA=/1000x1000/museums/logos/000/187/903/original/e8532901085cd38fabd5131cb3bbe55dc73a3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102749",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

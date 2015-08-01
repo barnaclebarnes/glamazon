@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152192
+  },
+  "name": "FARGO AIR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 8190",
+    "addressLocality": "FARGO",
+    "addressRegion": "ND",
+    "addressCountry": "United States",
+    "postalCode": "58102-1886"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.9048&mlon=-96.8042#map=15/46.9048/-96.8042",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.9048,
+    "longitude": -96.8042
+  },
+  "url": "http://www.fargoairmuseum.org",
+  "telephone": "+1 (701) 293-8043",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403800148",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

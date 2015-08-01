@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183439
+  },
+  "name": "Kaulbach-Villa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "von-Kaulbach-Straße 22",
+    "addressLocality": "Ohlstadt",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "82441"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6323&mlon=11.2323#map=15/47.6323/11.2323",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6323,
+    "longitude": 11.2323
+  },
+  "url": "http://www.ohlstadt.de/index.php?id=127",
+  "telephone": "08841/7480",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183439",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

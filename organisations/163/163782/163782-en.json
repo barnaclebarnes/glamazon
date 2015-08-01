@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163782
+  },
+  "name": "City of Melbourne",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8146&mlon=144.967#map=15/-37.8146/144.967",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8146,
+    "longitude": 144.967
+  },
+  "url": "http://www.melbourne.vic.gov.au",
+  "telephone": "03 9658 8852",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "city-of-melbourne-art--heritage-collection",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/city-of-melbourne-art--heritage-collection",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

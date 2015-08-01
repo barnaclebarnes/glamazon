@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189101
+  },
+  "name": "Museo della macchina da scrivere Peter Mitterhofer",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Chiesa, 10",
+    "addressLocality": "Parcines/Partschins",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6842&mlon=11.0735#map=15/46.6842/11.0735",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6842,
+    "longitude": 11.0735
+  },
+  "url": "http://www.schreibmaschinenmuseum.com",
+  "telephone": "+39 0473967581",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aprile - ottobre: lun 14-18 mar-ven ore 10-12 e 14-18 sab ore 10-12 novembre - marzo: mar ore 10-12 o su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 7.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZMRhRQeg53NyDthWdFeKhiRYTzE=/1000x1000/museums/logos/000/189/101/original/44a6fd927b6784d9b7a1da5cb7bd3a5bb53b7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100553",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

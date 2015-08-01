@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129218
+  },
+  "name": "PATAGONIA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 919",
+    "addressLocality": "PATAGONIA",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85624-0919"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.5333&mlon=-110.722#map=15/31.5333/-110.722",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.5333,
+    "longitude": -110.722
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400120",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

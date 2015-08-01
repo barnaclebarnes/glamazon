@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184123
+  },
+  "name": "Southland Museum and Art Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-46.4052&mlon=168.354#map=15/-46.4052/168.354",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -46.4052,
+    "longitude": 168.354
+  },
+  "telephone": "64-3 218 9753",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Mon-Fri 9am-5.00pm\r\n Weekends & Public Holidays; 10am - 5pm\r\n Closed Christmas Day",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Free"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184123",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

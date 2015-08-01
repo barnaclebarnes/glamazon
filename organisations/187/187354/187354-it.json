@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187354
+  },
+  "name": "Museo della Basilica di S.Venanzio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza S. Venanzio, 10",
+    "addressLocality": "Camerino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1378&mlon=13.0731#map=15/43.1378/13.0731",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1378,
+    "longitude": 13.0731
+  },
+  "url": "http://www.turismo.marche.it",
+  "telephone": "+39 0737630400",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Apertura su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rTILENaPCN500s-VBEmxYRwMhbQ=/1000x1000/museums/logos/000/187/354/original/df31515ec7113123c29979957f74916c61d9c37.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104163",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

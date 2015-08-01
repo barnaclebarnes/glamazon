@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 144556
+  },
+  "name": "ACME HERITAGE SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 438",
+    "addressLocality": "ACME",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49610-0438"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.7643&mlon=-85.5054#map=15/44.7643/-85.5054",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.7643,
+    "longitude": -85.5054
+  },
+  "url": "https://www.facebook.com/pages/acme-heritage-society/142737872452387?sk=info",
+  "telephone": "+1 (231) 313-9770",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402601093",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

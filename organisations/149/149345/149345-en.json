@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149345
+  },
+  "name": "ROCKAWAY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8808 ROCKAWAY BEACH BLVD",
+    "addressLocality": "ROCKAWAY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11693"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5873&mlon=-73.8133#map=15/40.5873/-73.8133",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5873,
+    "longitude": -73.8133
+  },
+  "url": "http://www.rockawaymusicandarts.org",
+  "telephone": "+1 (718) 474-6760",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600639",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

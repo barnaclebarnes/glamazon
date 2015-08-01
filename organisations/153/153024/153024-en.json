@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153024
+  },
+  "name": "UPTOWN ARTS FOUNDATIONS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 E LIBERTY ST",
+    "addressLocality": "CINCINNATI",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45202-6509"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1127&mlon=-84.5129#map=15/39.1127/-84.5129",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1127,
+    "longitude": -84.5129
+  },
+  "url": "http://uptownarts.org",
+  "telephone": "+1 (513) 651-1500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900801",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

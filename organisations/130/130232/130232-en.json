@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130232
+  },
+  "name": "JACK MASON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 PARK AVE",
+    "addressLocality": "INVERNESS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94937"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0973&mlon=-122.853#map=15/38.0973/-122.853",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0973,
+    "longitude": -122.853
+  },
+  "telephone": "+1 (415) 669-1099",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600358",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

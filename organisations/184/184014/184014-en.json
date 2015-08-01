@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184014
+  },
+  "name": "Heimatkundliche Sammlung",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchsteige 1",
+    "addressLocality": "Pfronten",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87459"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5855&mlon=10.5584#map=15/47.5855/10.5584",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5855,
+    "longitude": 10.5584
+  },
+  "url": "http://www.pfronten.de/index.shtml?pfd_heimathaus02",
+  "telephone": "08363/698-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184014",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148787
+  },
+  "name": "OLANA STATE HISTORIC SITE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5720 STATE ROUTE",
+    "addressLocality": "HUDSON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12534"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2462&mlon=-73.7672#map=15/42.2462/-73.7672",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2462,
+    "longitude": -73.7672
+  },
+  "url": "http://www.olana.org",
+  "telephone": "+1 (518) 828-0135",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/OlanaSHS"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600081",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

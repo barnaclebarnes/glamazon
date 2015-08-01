@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185942
+  },
+  "name": "Arcos - Museo d’arte contemporanea Sannio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Garibaldi, 1",
+    "addressLocality": "Benevento",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1303&mlon=14.7809#map=15/41.1303/14.7809",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1303,
+    "longitude": 14.7809
+  },
+  "url": "http://www.museincampania.it/spip.php?page=musei_dettaglio&id_museo=109",
+  "telephone": "+39 0824312465",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RwGsW9V3qLtze_R_qC3-rSvE8Xw=/1000x1000/museums/logos/000/185/942/original/56fed3e2b62984b329718dfb6e5e339eebcd5ebc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105191",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

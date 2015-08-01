@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189441
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Trieste, 15",
+    "addressLocality": "Montagnana",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2311&mlon=11.4684#map=15/45.2311/11.4684",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2311,
+    "longitude": 11.4684
+  },
+  "url": "http://www.comune.montagnana.pd.it",
+  "telephone": "+39 0429804128",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/L7b0WdVsmgJyRN0bZ3XV3wq1Ds0=/1000x1000/museums/logos/000/189/441/original/232d30d424ba7fdebce5afebb19931bdfd51312e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100909",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

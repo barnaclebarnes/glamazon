@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131235
+  },
+  "name": "FRIENDS OF RANCHO SAN PEDRO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18127 S ALAMEDA ST",
+    "addressLocality": "RANCHO DOMINGUEZ",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90220-5708"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.866&mlon=-118.216#map=15/33.866/-118.216",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.866,
+    "longitude": -118.216
+  },
+  "url": "http://www.dominguezrancho.org",
+  "telephone": "+1 (310) 603-0088",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rg7Fzkw20hZ-vKT-YItRPlrEov0=/1000x1000/museums/logos/000/131/235/original/Dominguez_Rancho_Adobe_Museum.jpg",
+    "creator": "<a href=\"//www.flickr.com/people/97864394@N00\" class=\"extiw\" title=\"flickruser:97864394@N00\">Vanesser III</a>",
+    "license": "CC BY-SA 2.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Dominguez_Rancho_Adobe",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601361",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188830
+  },
+  "name": "Museo storico della Liberazione (1943-1945)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sant'Andrea, 43",
+    "addressLocality": "Lucca",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8437&mlon=10.5073#map=15/43.8437/10.5073",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8437,
+    "longitude": 10.5073
+  },
+  "telephone": "+39 0583342010",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_3LF3ZR2GSV6UVpN5I-Qt7oxPX4=/1000x1000/museums/logos/000/188/830/original/688e8f3b6e83b61d968fae55418337c3201e938f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105387",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

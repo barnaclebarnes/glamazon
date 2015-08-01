@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183133
+  },
+  "name": "Schloss Seehof mit Ferdinand-Tietz-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloß Seehof 1",
+    "addressLocality": "Memmelsdorf",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96117"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.927&mlon=10.9474#map=15/49.927/10.9474",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.927,
+    "longitude": 10.9474
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/seehof.htm",
+  "telephone": "0951/4095-71",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183133",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

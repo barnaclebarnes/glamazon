@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189007
+  },
+  "name": "Museo ornitologico di San Gimigniano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Quercecchio, ",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4669&mlon=11.0412#map=15/43.4669/11.0412",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4669,
+    "longitude": 11.0412
+  },
+  "url": "http://www.comune.sangimignano.si.it",
+  "telephone": "+39 0577941388",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103264",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

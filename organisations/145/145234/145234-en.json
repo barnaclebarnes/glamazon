@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145234
+  },
+  "name": "HILL COUNTRY SCIENCE MILL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6104 FOX MEADOW LN",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55436-1217"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.2748&mlon=-98.4091#map=15/30.2748/-98.4091",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.2748,
+    "longitude": -98.4091
+  },
+  "url": "http://info@sciencemill.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700674",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

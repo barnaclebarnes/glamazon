@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184052
+  },
+  "name": "Deutsches Kartausen-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "An der Kartause",
+    "addressLocality": "Buxheim",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87740"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.9999&mlon=10.1341#map=15/47.9999/10.1341",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.9999,
+    "longitude": 10.1341
+  },
+  "url": "http://www.kartause-buxheim.de/muskart.html",
+  "telephone": "08331/97700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184052",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

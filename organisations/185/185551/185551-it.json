@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185551
+  },
+  "name": "Museo d'arte Costantino Barbella",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cesare De Lollis, 10",
+    "addressLocality": "Chieti",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3501&mlon=14.1676#map=15/42.3501/14.1676",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3501,
+    "longitude": 14.1676
+  },
+  "url": "http://www.provincia.chieti.it",
+  "telephone": "+39 0871330873",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e giovedì h 9.00-13.00 e 16.00-19.00; mercoledì, venerdì e sabato h 9.00-13.00; ogni prima domenica del mese h 9.00-12.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Ingresso gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4jOITbGlR6SzixnC9jEU5WnAcqY=/1000x1000/museums/logos/000/185/551/original/786240721ff3181377ead841bf5de05259a6e595.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100044",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

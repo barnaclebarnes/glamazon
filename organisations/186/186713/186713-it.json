@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186713
+  },
+  "name": "Wolfsoniana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Serra Gropallo, 4",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3824&mlon=9.04469#map=15/44.3824/9.04469",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3824,
+    "longitude": 9.04469
+  },
+  "url": "http://www.wolfsoniana.it",
+  "telephone": "+39 0103231329",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100361",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

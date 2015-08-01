@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142579
+  },
+  "name": "ALDEN HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "105 ALDEN ST",
+    "addressLocality": "DUXBURY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02331"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0463&mlon=-70.6861#map=15/42.0463/-70.6861",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0463,
+    "longitude": -70.6861
+  },
+  "url": "http://www.alden.org/",
+  "telephone": "+1 (781) 934-9149",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500209",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

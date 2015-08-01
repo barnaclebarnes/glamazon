@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157961
+  },
+  "name": "TEXAS AIR MUSEUM HANGER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1234 99TH ST",
+    "addressLocality": "SAN ANTONIO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78214"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.3403&mlon=-98.477#map=15/29.3403/-98.477",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.3403,
+    "longitude": -98.477
+  },
+  "url": "http://www.texasairmuseum.org",
+  "telephone": "+1 (210) 977-9885",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800061",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

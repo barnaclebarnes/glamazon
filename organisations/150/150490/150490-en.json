@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150490
+  },
+  "name": "DISCOVERY CENTER OF SCIENCE AND TECHNOLOGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 SOUTH FRANKLIN ST",
+    "addressLocality": "SYRACUSE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13202-1245"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0475&mlon=-76.1555#map=15/43.0475/-76.1555",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0475,
+    "longitude": -76.1555
+  },
+  "url": "http://www.most.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601784",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

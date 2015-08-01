@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183730
+  },
+  "name": "Museum ehemalige Klöppelschule Tiefenbach",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 33",
+    "addressLocality": "Tiefenbach",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93464"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4363&mlon=12.5881#map=15/49.4363/12.5881",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4363,
+    "longitude": 12.5881
+  },
+  "url": "http://www.tiefenbach-opf.de/gemeinde/museumkl.php",
+  "telephone": "09673/9221-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183730",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

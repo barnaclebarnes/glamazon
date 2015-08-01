@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187202
+  },
+  "name": "Museo ferroviario del Verbano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Marconi, 1",
+    "addressLocality": "Luino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9975&mlon=8.73815#map=15/45.9975/8.73815",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9975,
+    "longitude": 8.73815
+  },
+  "url": "http://www.verbanoexpress.it",
+  "telephone": "+39 3485942829",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato pomeriggio dalle ore 14.30 alle ore 18.00 previo appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103828",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

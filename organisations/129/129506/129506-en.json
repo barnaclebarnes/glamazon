@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129506
+  },
+  "name": "ARIZONA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "949 E 2ND ST",
+    "addressLocality": "TUCSON",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85719-4840"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.233&mlon=-110.957#map=15/32.233/-110.957",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.233,
+    "longitude": -110.957
+  },
+  "url": "http://www.arizonahistoricalsociety.org",
+  "telephone": "+1 (1001) 557-6066",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400408",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

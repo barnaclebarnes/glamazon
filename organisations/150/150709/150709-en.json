@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150709
+  },
+  "name": "DIA ART FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "535 WEST 22ND STREET",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10011"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7475&mlon=-74.0058#map=15/40.7475/-74.0058",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7475,
+    "longitude": -74.0058
+  },
+  "url": "http://www.diaart.org",
+  "telephone": "+1 (212) 989-5566",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

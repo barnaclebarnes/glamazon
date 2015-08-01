@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130660
+  },
+  "name": "VETERANS MEMORIAL MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2425 FRESNO ST",
+    "addressLocality": "FRESNO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93721-1841"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.739&mlon=-119.788#map=15/36.739/-119.788",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.739,
+    "longitude": -119.788
+  },
+  "url": "http://www.veteransmemorialmuseum.org",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Vietnam_Veterans_Memorial",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600786",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

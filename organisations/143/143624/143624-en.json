@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143624
+  },
+  "name": "CYCLING SALAMANDER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2217 US HIGHWAY 31 S",
+    "addressLocality": "CHARLEVOIX",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49720"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.2387&mlon=-85.3499#map=15/45.2387/-85.3499",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.2387,
+    "longitude": -85.3499
+  },
+  "url": "http://www.cyclingsalamander.com",
+  "telephone": "+1 (231) 547-2333",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600161",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

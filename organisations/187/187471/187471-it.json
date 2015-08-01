@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187471
+  },
+  "name": "Museo diocesano di Pesaro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Rossini, 53",
+    "addressLocality": "Pesaro",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9112&mlon=12.9143#map=15/43.9112/12.9143",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9112,
+    "longitude": 12.9143
+  },
+  "telephone": "+39 0721371219",
+  "contactPoint": [
+
+  ],
+  "openingHours": "5 giugno - 15 settembre martedì, mercoledì, venerdì, sabato, domenica 16.30-19.30; giovedì 16.30-22.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3 euro intero (include ingresso alla chiesa del Nome di Dio)"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104300",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

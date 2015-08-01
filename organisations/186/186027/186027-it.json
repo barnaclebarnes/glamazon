@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186027
+  },
+  "name": "PAN | Palazzo delle Arti Napoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Mille, 60",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8366&mlon=14.237#map=15/40.8366/14.237",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8366,
+    "longitude": 14.237
+  },
+  "url": "http://www.palazzoartinapoli.net",
+  "telephone": "+39 081 7958605",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/acLqtY-DgatnDo6zoS9_vavnWzY=/1000x1000/museums/logos/000/186/027/original/e27922b994ba34dbd61b4e9181c5beddc6c8e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107071",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

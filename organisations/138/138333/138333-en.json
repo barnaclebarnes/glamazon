@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138333
+  },
+  "name": "EVANSVILLE MUSEUM OF ARTS AND SCIENCES",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "411 SOUTHEAST RIVERSIDE DRIVE",
+    "addressLocality": "EVANSVILLE",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "47713"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9665&mlon=-87.5716#map=15/37.9665/-87.5716",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9665,
+    "longitude": -87.5716
+  },
+  "url": "http://www.emuseum.org",
+  "telephone": "+1 (812) 425-2406",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800119",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

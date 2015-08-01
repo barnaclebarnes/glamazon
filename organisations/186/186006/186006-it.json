@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186006
+  },
+  "name": "Museo Ascione del Corallo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Angiporto Galleria Umberto I, 19",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.838&mlon=14.2495#map=15/40.838/14.2495",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.838,
+    "longitude": 14.2495
+  },
+  "url": "http://www.museodelcorallo.it",
+  "telephone": "+39 081 42 1111",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4dTninHcheu0Q6A7gc75dPWH05o=/1000x1000/museums/logos/000/186/006/original/5c8ad4df3d543e4b1bd9341b6269492e21dea973.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107068",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

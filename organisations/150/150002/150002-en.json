@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150002
+  },
+  "name": "OSWEGO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "135 E 3RD ST",
+    "addressLocality": "OSWEGO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13126-2608"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4529&mlon=-76.5025#map=15/43.4529/-76.5025",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4529,
+    "longitude": -76.5025
+  },
+  "url": "http://rbhousemuseum.org",
+  "telephone": "+1 (315) 343-1342",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601296",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

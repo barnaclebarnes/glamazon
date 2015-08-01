@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182666
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bahnhofstraße 5",
+    "addressLocality": "Ebermannstadt",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91320"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7788&mlon=11.1855#map=15/49.7788/11.1855",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7788,
+    "longitude": 11.1855
+  },
+  "url": "http://www.heimatmuseum.ebermannstadt.de",
+  "telephone": "09194/50640",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182666",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

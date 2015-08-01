@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187195
+  },
+  "name": "Raccolta museale di Villa Cagnola",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cagnola, 17/19",
+    "addressLocality": "Gazzada Schianno",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7789&mlon=8.8217#map=15/45.7789/8.8217",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7789,
+    "longitude": 8.8217
+  },
+  "telephone": "+39 0332461304",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hX4mOUp71Aoq1P_2IQsRQM7E5WY=/1000x1000/museums/logos/000/187/195/original/f06e6cb6d55927528b9bd34a85b2721694f9eff.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103822",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

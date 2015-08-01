@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 154246
+  },
+  "name": "OREGON ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4001 SW CANYON ROAD",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "OR",
+    "addressCountry": "United States",
+    "postalCode": "97221-2799"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5085&mlon=-122.717#map=15/45.5085/-122.717",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5085,
+    "longitude": -122.717
+  },
+  "telephone": "+1 (503) 220-2450",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404100039",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

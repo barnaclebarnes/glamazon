@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133556
+  },
+  "name": "MASHANTUCKET PEQUOT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "110 PEQUOT TRL",
+    "addressLocality": "MASHANTUCKET",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06338"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4652&mlon=-71.9615#map=15/41.4652/-71.9615",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4652,
+    "longitude": -71.9615
+  },
+  "url": "http://www.pequotmuseum.org",
+  "telephone": "+1 (800) 411-9671",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900031",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

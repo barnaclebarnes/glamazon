@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189492
+  },
+  "name": "Museo nazionale di Villa Pisani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Doge Pisani, 7",
+    "addressLocality": "Stra",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4079&mlon=12.0131#map=15/45.4079/12.0131",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4079,
+    "longitude": 12.0131
+  },
+  "url": "http://www.villapisani.beniculturali.it",
+  "telephone": "+39 049502074  0499800590",
+  "contactPoint": [
+
+  ],
+  "openingHours": "fino al 30 settembre è dalle 9.00 alle 20.00 (chiusura biglietteria alle 19.00). Dal 1 al 31 ottobre dalle 9.00 alle 17.00 (chiusura biglietteria alle 16.00). Chiuso tutti i lunedì non festivi.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Parco e villa € 10 solo parco € 4,50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/DccAYIpDOlXLIa3iZEDzvWgtKrY=/1000x1000/museums/logos/000/189/492/original/40d69928579218a994a4cdc766c355e2cf062e5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20241",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

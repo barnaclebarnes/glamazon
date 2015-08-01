@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131038
+  },
+  "name": "CALFLORA DATABASE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "937 SAN PABLO AVE",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94709-3402"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8889&mlon=-122.298#map=15/37.8889/-122.298",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8889,
+    "longitude": -122.298
+  },
+  "url": "http://www.calflora.org/",
+  "telephone": "+1 (707) 823-3920",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601164",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

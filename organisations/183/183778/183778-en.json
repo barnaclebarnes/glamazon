@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183778
+  },
+  "name": "Fränkische Schweiz-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Museum 5",
+    "addressLocality": "Pottenstein",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91278"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7855&mlon=11.3609#map=15/49.7855/11.3609",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7855,
+    "longitude": 11.3609
+  },
+  "url": "http://www.fsmt.de",
+  "telephone": "09242/1640",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183778",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186760
+  },
+  "name": "Museo del gabinetto di fisica del Liceo classico G.D. Cassini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C. Cavallotti, 57",
+    "addressLocality": "Sanremo",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8214&mlon=7.79137#map=15/43.8214/7.79137",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8214,
+    "longitude": 7.79137
+  },
+  "url": "http://www.liceogdcassini.it",
+  "telephone": "+39 0184 59861 - 0184 534102",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_D_8eUJBzKoLWMeD9CcMGXIr9CA=/1000x1000/museums/logos/000/186/760/original/56c6c894ccf99f13c372dca76f9a565c2b19.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100422",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

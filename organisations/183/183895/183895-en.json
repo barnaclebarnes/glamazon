@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183895
+  },
+  "name": "Museum im Kulturspeicher Würzburg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oskar-Laredo-Platz 1",
+    "addressLocality": "Würzburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97080"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8013&mlon=9.92241#map=15/49.8013/9.92241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8013,
+    "longitude": 9.92241
+  },
+  "url": "http://www.kulturspeicher.de",
+  "telephone": "0931/32225-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183895",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

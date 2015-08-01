@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143006
+  },
+  "name": "QUINCY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8 ADAMS ST",
+    "addressLocality": "QUINCY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02169-2002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2541&mlon=-71.0058#map=15/42.2541/-71.0058",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2541,
+    "longitude": -71.0058
+  },
+  "url": "http://quincyhistory.org/",
+  "telephone": "+1 (617) 773-1144",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500636",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

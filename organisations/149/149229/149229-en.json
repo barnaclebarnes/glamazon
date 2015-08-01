@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149229
+  },
+  "name": "NEW YORK HALL OF SCIENCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4701 111TH ST",
+    "addressLocality": "CORONA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11368-2950"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7475&mlon=-73.8535#map=15/40.7475/-73.8535",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7475,
+    "longitude": -73.8535
+  },
+  "url": "http://www.nyscience.org",
+  "telephone": "+1 (718) 699-0005",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600523",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185614
+  },
+  "name": "Centro Orso",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Colle di Marco Andrea, ",
+    "addressLocality": "Villavallelonga",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8666&mlon=13.6266#map=15/41.8666/13.6266",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8666,
+    "longitude": 13.6266
+  },
+  "url": "http://www.sherpa.abruzzo.it",
+  "telephone": "+39 0864 797634",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100035",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

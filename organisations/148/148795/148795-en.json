@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148795
+  },
+  "name": "ROSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "881 7TH AVE",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10019"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7652&mlon=-73.9803#map=15/40.7652/-73.9803",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7652,
+    "longitude": -73.9803
+  },
+  "telephone": "+1 (212) 247-7800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600089",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

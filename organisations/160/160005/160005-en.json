@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160005
+  },
+  "name": "BENSON GRIST MILL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "325 E HIGHWAY 138",
+    "addressLocality": "TOOELE",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84074"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6471&mlon=-112.303#map=15/40.6471/-112.303",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6471,
+    "longitude": -112.303
+  },
+  "url": "http://www.bensonmill.org",
+  "telephone": "+1 (435) 882-7678",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900071",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

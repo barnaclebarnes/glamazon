@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188671
+  },
+  "name": "Opificio delle pietre dure",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Alfani, 78",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7761&mlon=11.2589#map=15/43.7761/11.2589",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7761,
+    "longitude": 11.2589
+  },
+  "url": "http://www.opificiodellepietredure.it/",
+  "telephone": "+39 05526511 - 055.294882",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì, mercoledì, giovedì, venerdì e sabato ore 8,15-14; martedì ore orario continuato dalle 8,",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20200",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

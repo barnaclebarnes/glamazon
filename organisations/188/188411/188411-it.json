@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188411
+  },
+  "name": "Museo della civiltà contadina di Misterbianco",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Garibaldi, 58",
+    "addressLocality": "Misterbianco",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5163&mlon=15.0182#map=15/37.5163/15.0182",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5163,
+    "longitude": 15.0182
+  },
+  "url": "http://www.comune.misterbianco.ct.it",
+  "telephone": "+39 0957556616",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a sabato 9.30/12.30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105674",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

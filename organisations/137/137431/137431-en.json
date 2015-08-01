@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137431
+  },
+  "name": "TRITON COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2000 FIFTH AVENUE",
+    "addressLocality": "RIVER GROVE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60171-1907"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9144&mlon=-87.8403#map=15/41.9144/-87.8403",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9144,
+    "longitude": -87.8403
+  },
+  "url": "http://www.triton.edu/cernan",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700576",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149546
+  },
+  "name": "FRIENDS OF ALICE AUSTEN HOUSE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 HYLAN BLVD",
+    "addressLocality": "STATEN ISLAND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10305-2002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6154&mlon=-74.0635#map=15/40.6154/-74.0635",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6154,
+    "longitude": -74.0635
+  },
+  "url": "http://aliceausten.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600840",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

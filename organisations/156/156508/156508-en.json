@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 156508
+  },
+  "name": "MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ROGER WILLIAMS PARK",
+    "addressLocality": "PROVIDENCE",
+    "addressRegion": "RI",
+    "addressCountry": "United States",
+    "postalCode": "02907-3600"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7796&mlon=-71.4181#map=15/41.7796/-71.4181",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7796,
+    "longitude": -71.4181
+  },
+  "telephone": "+1 (401) 785-9450",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400012",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

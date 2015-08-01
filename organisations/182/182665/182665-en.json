@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182665
+  },
+  "name": "Heimatmuseum Ebenhausen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hennebergstraße 6",
+    "addressLocality": "Oerlenbach",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97714"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.1255&mlon=10.133#map=15/50.1255/10.133",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.1255,
+    "longitude": 10.133
+  },
+  "url": "http://www.oerlenbach.de/vereine/eb-heimatmuseum/index.shtml",
+  "telephone": "09725/203 u. 6364",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182665",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

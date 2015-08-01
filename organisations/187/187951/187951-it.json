@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187951
+  },
+  "name": "Orto botanico di Torino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Mattioli, 25, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0565&mlon=7.68683#map=15/45.0565/7.68683",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0565,
+    "longitude": 7.68683
+  },
+  "url": "http://web086.unito.it/cgi-bin/bioveg/home.pl",
+  "telephone": "+39 0116705985 (Prof. Rosanna Caramiello)",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106609",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

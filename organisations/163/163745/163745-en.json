@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163745
+  },
+  "name": "Burrinja Cultural Centre",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9175&mlon=145.335#map=15/-37.9175/145.335",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9175,
+    "longitude": 145.335
+  },
+  "url": "http://www.burrinja.org.au",
+  "telephone": "397548723",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tuesday - Sunday 10.30 am - 4 pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "burrinja",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/burrinja",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

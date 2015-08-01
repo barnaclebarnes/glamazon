@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188752
+  },
+  "name": "Museo della pesca e delle tradizioni lagunari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Nizza, 20",
+    "addressLocality": "Orbetello",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.555&mlon=11.132#map=15/42.555/11.132",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.555,
+    "longitude": 11.132
+  },
+  "telephone": "+39 0564407111",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qtWkS4MSwlE9KvKjCygr03wQHAE=/1000x1000/museums/logos/000/188/752/original/709973c5842c4fb524da5f04f6716325266fc0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105853",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

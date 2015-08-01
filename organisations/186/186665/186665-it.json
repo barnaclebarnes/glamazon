@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186665
+  },
+  "name": "Civico museo archeologico di Camogli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gio Bono Ferrari, 41",
+    "addressLocality": "Camogli",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3476&mlon=9.15656#map=15/44.3476/9.15656",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3476,
+    "longitude": 9.15656
+  },
+  "url": "http://www.comune.camogli.it",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100340",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

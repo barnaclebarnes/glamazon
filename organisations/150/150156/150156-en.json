@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150156
+  },
+  "name": "CLEVELAND HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 29",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13042"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2481&mlon=-75.8743#map=15/43.2481/-75.8743",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2481,
+    "longitude": -75.8743
+  },
+  "url": "http://clevelandhistoricalsociety.com/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601450",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

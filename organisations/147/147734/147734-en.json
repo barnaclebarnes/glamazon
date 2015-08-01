@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147734
+  },
+  "name": "ART MUSEUM-PRINCETON UNIVRSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "MCCORMICK HALL",
+    "addressLocality": "PRINCETON",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "08544"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3435&mlon=-74.6564#map=15/40.3435/-74.6564",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3435,
+    "longitude": -74.6564
+  },
+  "url": "http://artmuseum.princeton.edu",
+  "telephone": "+1 (609) 258-3788",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400102",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

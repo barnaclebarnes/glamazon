@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142627
+  },
+  "name": "BOSTONIAN SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "206 WASHINGTON STREET",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02109-1702"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3587&mlon=-71.0578#map=15/42.3587/-71.0578",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3587,
+    "longitude": -71.0578
+  },
+  "url": "http://www.bostonhistory.org",
+  "telephone": "+1 (617) 720-1713",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500257",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

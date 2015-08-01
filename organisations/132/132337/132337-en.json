@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132337
+  },
+  "name": "SAN FRANCISCO AERONAUTICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 250250",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94125-0250"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7752&mlon=-122.419#map=15/37.7752/-122.419",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7752,
+    "longitude": -122.419
+  },
+  "url": "http://www.sfaero.org/",
+  "telephone": "+1 (650) 821-6720",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602463",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

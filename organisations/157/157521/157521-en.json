@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157521
+  },
+  "name": "ALAMOS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5100 POPLAR AVE STE 2700",
+    "addressLocality": "MEMPHIS",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "38137-2700"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1117&mlon=-89.8931#map=15/35.1117/-89.8931",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1117,
+    "longitude": -89.8931
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700192",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

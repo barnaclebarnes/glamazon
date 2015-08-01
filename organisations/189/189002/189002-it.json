@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189002
+  },
+  "name": "Museo le energie del territorio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tiberio Gazzei, 2",
+    "addressLocality": "Radicondoli",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2616&mlon=11.0443#map=15/43.2616/11.0443",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2616,
+    "longitude": 11.0443
+  },
+  "url": "http://www.comune.radicondoli.siena.it",
+  "telephone": "+39 0577790910",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8CqRkFBC3UUK8zazvYg2xY-evls=/1000x1000/museums/logos/000/189/002/original/cdf3791f88a83bd42676a7c22d6108c2ebb3da6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103260",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

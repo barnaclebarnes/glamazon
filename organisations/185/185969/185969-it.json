@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185969
+  },
+  "name": "Museo civico archeologico \"Biagio Greco\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Genova, 2",
+    "addressLocality": "Mondragone",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.116&mlon=13.8957#map=15/41.116/13.8957",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.116,
+    "longitude": 13.8957
+  },
+  "url": "http://www.museincampania.it/spip.php?page=musei_dettaglio&id_museo=5",
+  "telephone": "+39 0823972066",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XxSe1-4kKTcsNlRTt0a35Kk0Tq4=/1000x1000/museums/logos/000/185/969/original/c27fa68b6827cc6b70be7ea69278dfc7fef44.gif"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101809",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

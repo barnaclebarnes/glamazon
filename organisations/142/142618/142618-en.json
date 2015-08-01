@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142618
+  },
+  "name": "LESLEY UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "29 EVERETT ST",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02138-2702"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3798&mlon=-71.1167#map=15/42.3798/-71.1167",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3798,
+    "longitude": -71.1167
+  },
+  "telephone": "+1 (617) 349-8573",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500248",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

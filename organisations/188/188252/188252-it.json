@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188252
+  },
+  "name": "Casa museo di Domus de Maria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Vittorio Emanuele, ",
+    "addressLocality": "Domus de Maria",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9445&mlon=8.86452#map=15/38.9445/8.86452",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9445,
+    "longitude": 8.86452
+  },
+  "url": "http://www.comune.domusdemaria.ca.it",
+  "telephone": "+39 070 9235015",
+  "contactPoint": [
+
+  ],
+  "openingHours": "apertura quotidiana durante l'estate; aperta su richiesta nel resto dell'anno",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NBrzrfn9-U7jBdyAhKc7MCQm0mE=/1000x1000/museums/logos/000/188/252/original/55a74aabfc84b67d1292f6d6eba80d99337211.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103311",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

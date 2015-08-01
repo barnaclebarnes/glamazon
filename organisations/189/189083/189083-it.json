@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189083
+  },
+  "name": "Piccolo museo a Lana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Bottai, 3",
+    "addressLocality": "Lana/Lana",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6081&mlon=11.1695#map=15/46.6081/11.1695",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6081,
+    "longitude": 11.1695
+  },
+  "url": "http://www.musei-altoadige.it",
+  "telephone": "+39 +39 389 6794823",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutto l’anno su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta libera"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/S5BPBxyn4BMgH8kPWbOT6gkiGXk=/1000x1000/museums/logos/000/189/083/original/195410695b87c42bc14760a9fb2f78e69d77421.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111898",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186925
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Commercio, 18",
+    "addressLocality": "Rodengo Saiano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6012&mlon=10.1083#map=15/45.6012/10.1083",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6012,
+    "longitude": 10.1083
+  },
+  "url": "http://www.musil.bs.it",
+  "telephone": "+39 030 6813487",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dd6jFCUHAtwyqs6g7sAv1NeNBPA=/1000x1000/museums/logos/000/186/925/original/2e9c1c10a2a08b785dcf3beec41d5b11db51ec2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106855",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

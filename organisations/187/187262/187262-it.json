@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187262
+  },
+  "name": "Antiquarium statale di Numana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via La Fenice, 4",
+    "addressLocality": "Numana",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5126&mlon=13.6218#map=15/43.5126/13.6218",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5126,
+    "longitude": 13.6218
+  },
+  "url": "http://www.archeomarche.beniculturali.it/",
+  "telephone": "+39 0719331162",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì-domenica 8.30 - 19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KhAXrv6pXC3IzFnsoUSuHibyqV8=/1000x1000/museums/logos/000/187/262/original/ca977233a37cc19ab5a4b2a4fe68e7dbf1450f7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20713",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

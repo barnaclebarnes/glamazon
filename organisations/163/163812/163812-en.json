@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163812
+  },
+  "name": "Craft",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8148&mlon=144.973#map=15/-37.8148/144.973",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8148,
+    "longitude": 144.973
+  },
+  "url": "http://www.craft.org.au/",
+  "telephone": "(03) 9650 7775",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "craft",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/craft",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

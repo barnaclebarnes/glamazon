@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145231
+  },
+  "name": "AIRSPACE MINNESOTA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15509 POST ROAD",
+    "addressLocality": "WAYZATA",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55450-1109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9634&mlon=-93.4756#map=15/44.9634/-93.4756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9634,
+    "longitude": -93.4756
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700671",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

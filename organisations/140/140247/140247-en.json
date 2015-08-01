@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140247
+  },
+  "name": "YEISER ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 BROADWAY ST",
+    "addressLocality": "PADUCAH",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "42001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0878&mlon=-88.5955#map=15/37.0878/-88.5955",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0878,
+    "longitude": -88.5955
+  },
+  "url": "http://www.theyeiser.org",
+  "telephone": "+1 (270) 442-2453",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/94130272024"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100003",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

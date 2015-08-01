@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162730
+  },
+  "name": "KENOSHA PUBLIC MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5500 1ST AVE",
+    "addressLocality": "KENOSHA",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53140-3778"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5867&mlon=-87.8127#map=15/42.5867/-87.8127",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5867,
+    "longitude": -87.8127
+  },
+  "url": "http://www.kenosha.org/wp-civilwar",
+  "telephone": "+1 (262) 653-4140",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500179",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

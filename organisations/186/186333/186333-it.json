@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186333
+  },
+  "name": "Museo dell'orologieria pesarina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Superiore, SNC",
+    "addressLocality": "Prato Carnico",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5212&mlon=12.8092#map=15/46.5212/12.8092",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5212,
+    "longitude": 12.8092
+  },
+  "url": "http://www.valpesarina.org/museo/default.aspx",
+  "telephone": "+39 043369034",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hUq9Nd4h0q_rLI4sdyubKtc1jxw=/1000x1000/museums/logos/000/186/333/original/7e75a2cfd5ab4640f45f91aaa3f573245f436.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100301",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

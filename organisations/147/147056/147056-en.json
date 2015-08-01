@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147056
+  },
+  "name": "GUGGENHEIM LAS VEGAS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3355 LAS VEGAS BLVD S",
+    "addressLocality": "LAS VEGAS",
+    "addressRegion": "NV",
+    "addressCountry": "United States",
+    "postalCode": "89109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.1226&mlon=-115.171#map=15/36.1226/-115.171",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.1226,
+    "longitude": -115.171
+  },
+  "telephone": "+1 (702) 414-2440",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403200031",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187605
+  },
+  "name": "Museo storico badogliano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pietro Badoglio, 20, ",
+    "addressLocality": "Grazzano Badoglio",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0405&mlon=8.3119#map=15/45.0405/8.3119",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0405,
+    "longitude": 8.3119
+  },
+  "url": "http://www.digilander.libero.it/museobadoglio",
+  "telephone": "+39 0141921955",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/n5K83LrSWsTOGelRIXGy-b1gNH0=/1000x1000/museums/logos/000/187/605/original/8652cb7a2a3df8148b34f7f9222417d7f8c4bf5.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102499",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

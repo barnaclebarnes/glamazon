@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148945
+  },
+  "name": "JUNIOR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "250 JORDAN RD",
+    "addressLocality": "TROY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12180"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6776&mlon=-73.6975#map=15/42.6776/-73.6975",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6776,
+    "longitude": -73.6975
+  },
+  "telephone": "+1 (518) 235-2120",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600239",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

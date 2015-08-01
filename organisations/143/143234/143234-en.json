@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143234
+  },
+  "name": "SOUTHBORO HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 364",
+    "addressLocality": "SOUTHBOROUGH",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01772"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2868&mlon=-71.526#map=15/42.2868/-71.526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2868,
+    "longitude": -71.526
+  },
+  "url": "http://www.southboroughhistory.org",
+  "telephone": "+1 (508) 229-8055",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500864",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

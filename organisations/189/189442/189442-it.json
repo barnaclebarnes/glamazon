@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189442
+  },
+  "name": "Museo internazionale del vetro d’arte e delle terme",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fermi, 1",
+    "addressLocality": "Montegrotto Terme",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.324&mlon=11.7736#map=15/45.324/11.7736",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.324,
+    "longitude": 11.7736
+  },
+  "url": "http://www.museodelvetro.it",
+  "telephone": "+39 0498910635",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vpgmG8X_vLIA8fMtvJZ24NXayzs=/1000x1000/museums/logos/000/189/442/original/11e05f47627862c68a28e5bf727dd1c38cf7bd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106800",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

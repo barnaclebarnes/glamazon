@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149060
+  },
+  "name": "CORNELL PLANTATIONS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 PLANTATIONS RD",
+    "addressLocality": "ITHACA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14850"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.449&mlon=-76.4737#map=15/42.449/-76.4737",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.449,
+    "longitude": -76.4737
+  },
+  "url": "http://cornellplantations.org",
+  "telephone": "+1 (607) 255-2400",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/cornellplantations"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600354",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

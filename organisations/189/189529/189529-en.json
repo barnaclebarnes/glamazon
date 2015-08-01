@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189529
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Dalla Bona, ",
+    "addressLocality": "Sant'Anna d'Alfaedo",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.628&mlon=10.9529#map=15/45.628/10.9529",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.628,
+    "longitude": 10.9529
+  },
+  "url": "http://museosantannadalfaedo.wordpress.com/",
+  "telephone": "+39 0457532656",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9K3Ef5ZB7MWzS_os1zCZ-piEHik=/1000x1000/museums/logos/000/189/529/original/ce496d587d6cb743eda79ec61269eab5084434c.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101131",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

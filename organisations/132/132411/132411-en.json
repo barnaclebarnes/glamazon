@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132411
+  },
+  "name": "RICHMOND ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2540 BARRETT AVE",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94804-1600"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9381&mlon=-122.345#map=15/37.9381/-122.345",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9381,
+    "longitude": -122.345
+  },
+  "url": "http://www.therichmondartcenter.org",
+  "telephone": "+1 (510) 620-6772",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602537",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133648
+  },
+  "name": "WADSWORTH ATHENEUM MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "600 MAIN ST",
+    "addressLocality": "HARTFORD",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06103-2911"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7634&mlon=-72.6741#map=15/41.7634/-72.6741",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7634,
+    "longitude": -72.6741
+  },
+  "url": "http://www.wadsworthatheneum.org",
+  "telephone": "+1 (860) 278-2670",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/WadsworthAtheneum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/TheWadsworth"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900123",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

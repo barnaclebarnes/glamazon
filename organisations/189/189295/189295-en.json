@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189295
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Repubblica, 10",
+    "addressLocality": "Spello",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9916&mlon=12.6716#map=15/42.9916/12.6716",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9916,
+    "longitude": 12.6716
+  },
+  "url": "http://www.comune.spello.pg.it",
+  "telephone": "+39 0742 300034/9",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZExpn43V0MEIpaM2vQTNS1ZItEs=/1000x1000/museums/logos/000/189/295/original/c03a2f525639705e5a7eeca8adae1f218553eb7b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108067",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188409
+  },
+  "name": "Museo \"Luigi Capuana\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Romano, 16",
+    "addressLocality": "Mineo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2667&mlon=14.6908#map=15/37.2667/14.6908",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2667,
+    "longitude": 14.6908
+  },
+  "url": "http://www.comunedimineo.it",
+  "telephone": "+39 0933983056",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LEQPRA4aEdgV3_Fwi0FLuOU3mIM=/1000x1000/museums/logos/000/188/409/original/6ebc6079433040dc9bd570b5ed548cf21863d18.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104006",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

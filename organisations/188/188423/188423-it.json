@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188423
+  },
+  "name": "Museo archeologico di Palazzo Varisano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza G. Mazzini, SNC",
+    "addressLocality": "Enna",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5676&mlon=14.2797#map=15/37.5676/14.2797",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5676,
+    "longitude": 14.2797
+  },
+  "telephone": "+39 0935528127",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da lunedi' a venerdi' 9,0/13,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uFiT24oeTm7PInsqh7sIG6JCBsw=/1000x1000/museums/logos/000/188/423/original/f9d4c0ca528a29638fd8ba0a9bb9935932d6eb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101234",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

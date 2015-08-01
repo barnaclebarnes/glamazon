@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150424
+  },
+  "name": "HOMEVILLE MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 133",
+    "addressLocality": "HOMER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13077-0133"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5926&mlon=-76.1907#map=15/42.5926/-76.1907",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5926,
+    "longitude": -76.1907
+  },
+  "url": "http://www.cnylivinghistory.org/",
+  "telephone": "+1 (607) 299-4185",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601718",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150699
+  },
+  "name": "MUSEUM COMPUTER NETWORK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "LONGO CONSULTING LLC C/O MCN",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11226-2588"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.653&mlon=-73.9578#map=15/40.653/-73.9578",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.653,
+    "longitude": -73.9578
+  },
+  "url": "http://www.mcn.edu",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601993",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

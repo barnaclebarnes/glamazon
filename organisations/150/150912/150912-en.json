@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150912
+  },
+  "name": "FRIENDS OF THE ROSSINI OPERA FRSTIVAL INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "444 MADISON AVE STE 1206",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10022-6957"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7579&mlon=-73.9755#map=15/40.7579/-73.9755",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7579,
+    "longitude": -73.9755
+  },
+  "url": "http://www.rossiniamerica.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602206",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

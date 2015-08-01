@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147296
+  },
+  "name": "CURRIER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "646 BEECH ST",
+    "addressLocality": "MANCHESTER",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03104"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9971&mlon=-71.456#map=15/42.9971/-71.456",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9971,
+    "longitude": -71.456
+  },
+  "url": "http://www.currier.org/",
+  "telephone": "+1 (603) 669-6144",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300071",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

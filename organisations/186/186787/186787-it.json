@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186787
+  },
+  "name": "Museo \"La civiltà dell'olivo\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via G. Mameli, 7",
+    "addressLocality": "Albenga",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0502&mlon=8.21138#map=15/44.0502/8.21138",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0502,
+    "longitude": 8.21138
+  },
+  "url": "http://www.oliosommariva.it",
+  "telephone": "+39 0182 559222",
+  "contactPoint": [
+
+  ],
+  "openingHours": ": dal Lunedì al Sabato 8.30-12.30/15.30-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100450",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

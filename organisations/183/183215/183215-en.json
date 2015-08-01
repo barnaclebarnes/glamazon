@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183215
+  },
+  "name": "BMW Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Olympiapark 2",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80809"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1769&mlon=11.5588#map=15/48.1769/11.5588",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1769,
+    "longitude": 11.5588
+  },
+  "url": "http://www.bmw-museum.de",
+  "telephone": "01802/118822",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183215",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

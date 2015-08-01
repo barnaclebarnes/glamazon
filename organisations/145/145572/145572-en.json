@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145572
+  },
+  "name": "WORLD AQUARIUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "701 NORTH 15TH STREET, 2ND FLOOR",
+    "addressLocality": "ST. LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63103"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6331&mlon=-90.2002#map=15/38.6331/-90.2002",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6331,
+    "longitude": -90.2002
+  },
+  "url": "http://worldaquarium.net/",
+  "telephone": "+1 (314) 647-6011",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

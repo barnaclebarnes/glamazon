@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163712
+  },
+  "name": "Billilla Historic Mansion",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9173&mlon=145.001#map=15/-37.9173/145.001",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9173,
+    "longitude": 145.001
+  },
+  "telephone": "(03) 9599 4444",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "billilla",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/billilla",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131519
+  },
+  "name": "THE CALIFORNIA STATE CAPITOL PRESERVATION FUND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2150 RIVER PLAZA DR STE 150",
+    "addressLocality": "SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95833-4131"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6052&mlon=-121.513#map=15/38.6052/-121.513",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6052,
+    "longitude": -121.513
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/California_State_Capitol",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601645",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

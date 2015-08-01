@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142620
+  },
+  "name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "77 MASSACHUSETTS AVENUE",
+    "addressLocality": "CAMBRIDGE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02139-4307"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3591&mlon=-71.0936#map=15/42.3591/-71.0936",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3591,
+    "longitude": -71.0936
+  },
+  "url": "http://mit.edu/",
+  "telephone": "+1 (617) 253-1000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500250",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

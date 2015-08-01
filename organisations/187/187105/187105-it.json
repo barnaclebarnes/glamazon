@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187105
+  },
+  "name": "Museo Fisogni della Stazione di Servizio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via S. Ambrogio, 1",
+    "addressLocality": "Paderno Dugnano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5836&mlon=9.15948#map=15/45.5836/9.15948",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5836,
+    "longitude": 9.15948
+  },
+  "url": "http://www.museo-fisogni.org",
+  "telephone": "+39 029101398",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WflX96y6_4MhUMlxGhlU6WVfIsY=/1000x1000/museums/logos/000/187/105/original/4938e88168e6efda42b3aabf667cbe6a3ad7a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105635",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

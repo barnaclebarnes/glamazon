@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137061
+  },
+  "name": "FARNSWORTH HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14520 RIVER RD",
+    "addressLocality": "PLANO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60545"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6367&mlon=-88.5312#map=15/41.6367/-88.5312",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6367,
+    "longitude": -88.5312
+  },
+  "url": "http://www.farnsworthhouse.org",
+  "telephone": "+1 (630) 552-0052",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700206",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

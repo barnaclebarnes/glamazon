@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185557
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Domenico, 1",
+    "addressLocality": "Francavilla al Mare",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4215&mlon=14.2873#map=15/42.4215/14.2873",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4215,
+    "longitude": 14.2873
+  },
+  "url": "http://www.fondazionemichetti.it/fondazione.htm",
+  "telephone": "+39 085/4912347",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/uVuZaHp8zoL6-Gfwy6aAOeBxQD4=/1000x1000/museums/logos/000/185/557/original/edf3162b76f104c1d7df55111ff19797498fdc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100049",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

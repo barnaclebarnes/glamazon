@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160508
+  },
+  "name": "US NATIONAL SLAVERY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1320 CENTRAL PARK BLVD",
+    "addressLocality": "FREDERICKSBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22401"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3003&mlon=-77.5156#map=15/38.3003/-77.5156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3003,
+    "longitude": -77.5156
+  },
+  "telephone": "+1 (540) 548-8818",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100014",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

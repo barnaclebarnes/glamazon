@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182787
+  },
+  "name": "Burgmuseum Altnußberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Auf dem Schloßberg 1",
+    "addressLocality": "Geiersthal",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94244"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0603&mlon=12.9665#map=15/49.0603/12.9665",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0603,
+    "longitude": 12.9665
+  },
+  "url": "http://www.burgruine-altnussberg.de/museum.html",
+  "telephone": "09923/841511",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182787",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

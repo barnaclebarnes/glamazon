@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185568
+  },
+  "name": "Museo civico d’arte contemporanea - Pinacoteca Cascella",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Farnese, 1",
+    "addressLocality": "Ortona",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3555&mlon=14.4046#map=15/42.3555/14.4046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3555,
+    "longitude": 14.4046
+  },
+  "url": "http://galleriadartemoderna.com",
+  "telephone": "+39 0859066202 - 335401486",
+  "contactPoint": [
+
+  ],
+  "openingHours": "estate: 10.30-12.30 e 17.30-23. Inverno: 10.30-12.30 e 17-19.30. Anche a richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4KGtvByR-w-X4ByMbB6loE4rA8c=/1000x1000/museums/logos/000/185/568/original/7dbee84b6798553a1c7145478817c88be16b5e7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110928",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163908
+  },
+  "name": "Glenelg Shire Council Cultural Collection",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.3525&mlon=141.611#map=15/-38.3525/141.611",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.3525,
+    "longitude": 141.611
+  },
+  "url": "http://www.glenelg.vic.gov.au/Cultural_Collection",
+  "telephone": "03 5522 2319",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "glenelg-shire-council-cultural-collection",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/glenelg-shire-council-cultural-collection",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

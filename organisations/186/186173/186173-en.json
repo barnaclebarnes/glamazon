@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186173
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza S. Agostino, 337",
+    "addressLocality": "Modena",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6469&mlon=10.9211#map=15/44.6469/10.9211",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6469,
+    "longitude": 10.9211
+  },
+  "url": "http://www.spsae-mo.beniculturali.it",
+  "telephone": "+39 059 4395711\n        \n          (+39) 059 4395711",
+  "contactPoint": [
+
+  ],
+  "openingHours": "everyday hours 7.30-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "free"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8sZ-o9-oRc7jj4hNTq2d0Okiy9I=/1000x1000/museums/logos/000/186/173/original/dd232aaaa51eb5992b36c22a8a0f8d2397e1dcd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20273",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

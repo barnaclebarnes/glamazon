@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188011
+  },
+  "name": "Museo parrocchiale di arte sacra di Valstrona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Chiesa Parrocchiale dei SS. Pietro e Paolo, Piazza della Chiesa - Frazione Forno, ",
+    "addressLocality": "Valstrona",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9356&mlon=8.29055#map=15/45.9356/8.29055",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9356,
+    "longitude": 8.29055
+  },
+  "url": "http://www.lagodorta.net",
+  "telephone": "+39 0323885101",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105596",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

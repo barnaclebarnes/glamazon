@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130794
+  },
+  "name": "MEXICAN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "FORT MASON CENTER BLDG D",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8006&mlon=-122.434#map=15/37.8006/-122.434",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8006,
+    "longitude": -122.434
+  },
+  "url": "http://www.mexicanmuseum.org",
+  "telephone": "+1 (415) 202-9700",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Mexican_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600920",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

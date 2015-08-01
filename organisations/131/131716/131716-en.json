@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131716
+  },
+  "name": "MOJAVE TRANSPORTATION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 155",
+    "addressLocality": "MOJAVE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93502"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.0559&mlon=-118.17#map=15/35.0559/-118.17",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.0559,
+    "longitude": -118.17
+  },
+  "url": "http://www.mojavemuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601842",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

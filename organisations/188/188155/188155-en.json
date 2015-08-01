@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188155
+  },
+  "name": "The Interactive Museum of Science",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Imperiale , ",
+    "addressLocality": "Foggia",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4466&mlon=15.5652#map=15/41.4466/15.5652",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4466,
+    "longitude": 15.5652
+  },
+  "url": "http://www.bibliotecaprovinciale.foggia.it",
+  "telephone": "+39 0881688706",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MCJ8EoTwTyZhx83pHwxeAAzlLFs=/1000x1000/museums/logos/000/188/155/original/02db816e2122fef68fc398b266d92fdc1c3528.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102369",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

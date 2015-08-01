@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187232
+  },
+  "name": "Museo internazionale dell’immagine postale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vannini, 7",
+    "addressLocality": "Belvedere Ostrense",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.581&mlon=13.1666#map=15/43.581/13.1666",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.581,
+    "longitude": 13.1666
+  },
+  "url": "http://www.sanrufopostino.it/pagine/SanRufo/museo.htm",
+  "telephone": "+39 0731617003",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aperto su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FDfQ5EjUUA-e5X3M4E2jusDjST0=/1000x1000/museums/logos/000/187/232/original/515deb33a2d077bd639c18822dfe0c748c02c3c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104032",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

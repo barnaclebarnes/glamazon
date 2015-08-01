@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189570
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Italia, 63",
+    "addressLocality": "Valdagno",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6448&mlon=11.3#map=15/45.6448/11.3",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6448,
+    "longitude": 11.3
+  },
+  "url": "http://www.comune.valdagno.vi.it",
+  "telephone": "+39 0445424507",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/c7Y6oiO04MZZqspjVro1idzyU88=/1000x1000/museums/logos/000/189/570/original/18e027ce4fe3558ea8d9facb0a54c123bdb2e4b.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101095",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

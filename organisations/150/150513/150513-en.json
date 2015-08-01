@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150513
+  },
+  "name": "IRONDEQUOIT HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 67130",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14617"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2228&mlon=-77.5958#map=15/43.2228/-77.5958",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2228,
+    "longitude": -77.5958
+  },
+  "url": "http://www.ggw.org/~ihsociety/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601807",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

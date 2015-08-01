@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150089
+  },
+  "name": "PIONEER HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1290 TITUS AVE",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14617-4125"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2112&mlon=-77.5809#map=15/43.2112/-77.5809",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2112,
+    "longitude": -77.5809
+  },
+  "telephone": "+1 (585) 467-2206",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601383",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

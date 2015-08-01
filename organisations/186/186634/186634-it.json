@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186634
+  },
+  "name": "Museo archeologico dell'Agro falisco e Forte Sangallo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Forte",
+    "addressLocality": "Civita Castellana",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2884&mlon=12.4102#map=15/42.2884/12.4102",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2884,
+    "longitude": 12.4102
+  },
+  "telephone": "+39 0761513735",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a domenica 8.00-19.00, con visite ogni ora, per gruppi max 30 persone.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AHGy3plbDssfAu8Sd7oDNjYfmaw=/1000x1000/museums/logos/000/186/634/original/d034bfc2b6f3a732353b9638739d20f0d82bfbcd.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20409",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

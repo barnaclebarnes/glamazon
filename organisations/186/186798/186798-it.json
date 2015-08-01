@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186798
+  },
+  "name": "Civico museo storico archeologico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Mazzini, 1",
+    "addressLocality": "Savona",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3044&mlon=8.48439#map=15/44.3044/8.48439",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3044,
+    "longitude": 8.48439
+  },
+  "url": "http://www.museoarcheosavona.it",
+  "telephone": "+39 019-822708",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100472",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

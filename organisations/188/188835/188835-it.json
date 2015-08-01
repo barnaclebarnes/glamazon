@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188835
+  },
+  "name": "Molino di Menicone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Menicone, 2",
+    "addressLocality": "Pescaglia",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9165&mlon=10.4393#map=15/43.9165/10.4393",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9165,
+    "longitude": 10.4393
+  },
+  "url": "http://www.molinomenicone.it",
+  "telephone": "+39 058338090",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0t7JN7lLNu3ATAQ_6OYCjwirWiw=/1000x1000/museums/logos/000/188/835/original/9621837ff256be7582117bd7f2cc979e12282032.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103101",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

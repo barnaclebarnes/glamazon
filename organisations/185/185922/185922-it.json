@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185922
+  },
+  "name": "Museo civico di arte sacra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Eclano, 20",
+    "addressLocality": "Mirabella Eclano",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0419&mlon=14.9939#map=15/41.0419/14.9939",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0419,
+    "longitude": 14.9939
+  },
+  "telephone": "+39 0825 447078",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5XpCIMxSP_uywvkJiHy_-hfSaeQ=/1000x1000/museums/logos/000/185/922/original/4a8426bbd258e53115f6bea8556e75fcca53223.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107075",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130318
+  },
+  "name": "FILOLI",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "86 CANADA ROAD",
+    "addressLocality": "WOODSIDE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94062"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.4728&mlon=-122.306#map=15/37.4728/-122.306",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.4728,
+    "longitude": -122.306
+  },
+  "url": "http://www.filoli.org",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Filoli",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600444",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

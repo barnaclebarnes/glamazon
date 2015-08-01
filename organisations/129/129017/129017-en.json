@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129017
+  },
+  "name": "CITY OF SAXMAN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ROUTE 2, BOX 1 - SAXMAN",
+    "addressLocality": "KETCHIKAN",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=55.3614&mlon=-131.693#map=15/55.3614/-131.693",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 55.3614,
+    "longitude": -131.693
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200088",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

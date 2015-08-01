@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135606
+  },
+  "name": "EDISON INVENTORS ASSOCIATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 07398",
+    "addressLocality": "FORT MYERS",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33906-6972"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=26.5935&mlon=-81.8575#map=15/26.5935/-81.8575",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 26.5935,
+    "longitude": -81.8575
+  },
+  "url": "http://edisoninventors.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201161",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

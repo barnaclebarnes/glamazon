@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187502
+  },
+  "name": "Museo archeologico di Sepino",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4096&mlon=14.6241#map=15/41.4096/14.6241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4096,
+    "longitude": 14.6241
+  },
+  "url": "http://archeologicamolise.beniculturali.it/",
+  "telephone": "+39 0874790207",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.30-15.30 / 16.00-18.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/IBldnPHWcxMvyqqNFNbOrR81zos=/1000x1000/museums/logos/000/187/502/original/6d20b83a164013cc59b4cb322ba50abb9f434f7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108193",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

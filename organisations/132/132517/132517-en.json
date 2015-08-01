@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132517
+  },
+  "name": "SANTA MONICA HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 3059",
+    "addressLocality": "SANTA MONICA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90408-3059"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0194&mlon=-118.493#map=15/34.0194/-118.493",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0194,
+    "longitude": -118.493
+  },
+  "url": "http://santamonicahistory.org/",
+  "telephone": "+1 (310) 395-2290",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602643",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

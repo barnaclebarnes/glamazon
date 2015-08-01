@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142625
+  },
+  "name": "AMERICAN ANTIQUARIAN SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "185 SALISBURY ST",
+    "addressLocality": "WORCESTER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01609-1636"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.278&mlon=-71.8098#map=15/42.278/-71.8098",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.278,
+    "longitude": -71.8098
+  },
+  "url": "http://www.americanantiquarian.org",
+  "telephone": "+1 (508) 755-5221",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500255",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

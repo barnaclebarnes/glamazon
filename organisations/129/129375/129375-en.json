@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129375
+  },
+  "name": "ARIZONA ZOOLOGICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "455 N GALVIN PKWY",
+    "addressLocality": "PHOENIX",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85008-3431"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4539&mlon=-111.953#map=15/33.4539/-111.953",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4539,
+    "longitude": -111.953
+  },
+  "url": "http://phoenixzoo.org",
+  "telephone": "+1 (602) 273-1341",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400277",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

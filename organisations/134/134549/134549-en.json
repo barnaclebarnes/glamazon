@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134549
+  },
+  "name": "MUSEUM OF APOPKANS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "122 E 5TH ST",
+    "addressLocality": "APOPKA",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32703"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=28.6719&mlon=-81.5085#map=15/28.6719/-81.5085",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.6719,
+    "longitude": -81.5085
+  },
+  "url": "http://www.apopkamuseum.org",
+  "telephone": "+1 (407) 703-1707",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200103",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

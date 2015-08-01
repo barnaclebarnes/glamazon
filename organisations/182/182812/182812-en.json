@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182812
+  },
+  "name": "Stadtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Spitalstraße 6",
+    "addressLocality": "Grafenau",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94481"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8544&mlon=13.3951#map=15/48.8544/13.3951",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8544,
+    "longitude": 13.3951
+  },
+  "url": "http://www.grafenau.de",
+  "telephone": "0175/2138409",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182812",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

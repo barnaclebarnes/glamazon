@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183883
+  },
+  "name": "Deutsches Hopfenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Elsenheimerstraße 2",
+    "addressLocality": "Wolnzach",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85283"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.6043&mlon=11.6279#map=15/48.6043/11.6279",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.6043,
+    "longitude": 11.6279
+  },
+  "url": "http://www.hopfenmuseum.de",
+  "telephone": "08442/7574",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183883",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130777
+  },
+  "name": "PIEDMONT HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "358 HILLSIDE AVENUE",
+    "addressLocality": "PIEDMONT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94611"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8233&mlon=-122.235#map=15/37.8233/-122.235",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8233,
+    "longitude": -122.235
+  },
+  "url": "http://www.piedmonthistoricalsociety.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600903",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

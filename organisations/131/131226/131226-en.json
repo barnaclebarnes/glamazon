@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131226
+  },
+  "name": "GUNFIGHTERS FOR HIRE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1124",
+    "addressLocality": "MORONGO VALLEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92256-1124"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0704&mlon=-116.557#map=15/34.0704/-116.557",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0704,
+    "longitude": -116.557
+  },
+  "url": "http://www.gunfightersforhire.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601352",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

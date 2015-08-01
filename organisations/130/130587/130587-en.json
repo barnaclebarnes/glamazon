@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130587
+  },
+  "name": "PENINSULA MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 TWIN PINES LN",
+    "addressLocality": "BELMONT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94010"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5183&mlon=-122.278#map=15/37.5183/-122.278",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5183,
+    "longitude": -122.278
+  },
+  "telephone": "+1 (650) 654-4068",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Peninsula_Museum_of_Art",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600713",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183894
+  },
+  "name": "Museum am Dom",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kiliansplatz",
+    "addressLocality": "Würzburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97070"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7936&mlon=9.93135#map=15/49.7936/9.93135",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7936,
+    "longitude": 9.93135
+  },
+  "url": "http://www.museum-am-dom.de",
+  "telephone": "0931/38665-600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183894",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

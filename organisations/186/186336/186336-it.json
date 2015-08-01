@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186336
+  },
+  "name": "Museo civico \"Antonio Cerutti\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 23",
+    "addressLocality": "Ragogna",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.1791&mlon=12.978#map=15/46.1791/12.978",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.1791,
+    "longitude": 12.978
+  },
+  "url": "http://www.comune.ragogna.ud.it",
+  "telephone": "+39 0432943434",
+  "contactPoint": [
+
+  ],
+  "openingHours": "martedì e giovedì 15.30-18,00; su richiesta in altri giorni e orari",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/w8pDrM0bWGfKHDOm6SC6sM3VuOo=/1000x1000/museums/logos/000/186/336/original/9666e7bfe921aac27da4a6a6162f911b7742d5be.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103850",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184221
+  },
+  "name": "Couldrey House",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.5434&mlon=174.704#map=15/-36.5434/174.704",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.5434,
+    "longitude": 174.704
+  },
+  "url": "http://historiccouldreyhouse.co.nz",
+  "telephone": "64-9-528 3713",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Sat & Sun 1-4pm all year (except Christmas Day & Good Friday). Also weekdays 1-4pm from December to Easter Monday",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Adults $3.00, Children free"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184221",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

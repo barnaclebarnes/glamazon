@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143426
+  },
+  "name": "MUSIC MUSEUM OF NEW ENGLAND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "58 PINEWOOD ROAD",
+    "addressLocality": "NEEDHAM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02492"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2783&mlon=-71.225#map=15/42.2783/-71.225",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2783,
+    "longitude": -71.225
+  },
+  "url": "http://www.mmone.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501056",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

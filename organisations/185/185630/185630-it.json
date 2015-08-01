@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185630
+  },
+  "name": "Taverna ducale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, 13",
+    "addressLocality": "Popoli",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1744&mlon=13.833#map=15/42.1744/13.833",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1744,
+    "longitude": 13.833
+  },
+  "url": "http://www.tavernaducalepopoli.beniculturali.it/",
+  "telephone": "+39 085986701",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì dalle ore 9,00 alle 13,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TL5KPVT4xt3tIhxpkBld3GxPwec=/1000x1000/museums/logos/000/185/630/original/f48ede51fc90f77aea422da033efd6ffd681f7c4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20763",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

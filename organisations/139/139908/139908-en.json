@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139908
+  },
+  "name": "DODGE CITY 300",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 885",
+    "addressLocality": "DODGE CITY",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67801-4407"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7578&mlon=-100.018#map=15/37.7578/-100.018",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7578,
+    "longitude": -100.018
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000234",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

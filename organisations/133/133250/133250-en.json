@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133250
+  },
+  "name": "CHILDRENS MUSEUM OF DENVER INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2121 CHILDRENS MUSEUM DR",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80211-5221"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.751&mlon=-105.016#map=15/39.751/-105.016",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.751,
+    "longitude": -105.016
+  },
+  "url": "http://www.mychildsmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800426",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

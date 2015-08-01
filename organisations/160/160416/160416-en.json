@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160416
+  },
+  "name": "FERRISBURG HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 85",
+    "addressLocality": "FERRISBURGH",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05456"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2064&mlon=-73.2459#map=15/44.2064/-73.2459",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2064,
+    "longitude": -73.2459
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000222",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

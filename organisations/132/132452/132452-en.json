@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132452
+  },
+  "name": "CALIFORNIA POLYTECHNIC STATE UNIVERSITY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 GRAND AVENUE",
+    "addressLocality": "SAN LUIS OBIS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93407"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.3005&mlon=-120.658#map=15/35.3005/-120.658",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.3005,
+    "longitude": -120.658
+  },
+  "url": "http://www.lib.calpoly.edu",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602578",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

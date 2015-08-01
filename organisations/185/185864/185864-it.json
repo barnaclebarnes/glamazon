@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185864
+  },
+  "name": "Museo della 'ndrangheta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cava Aloi",
+    "addressLocality": "Reggio di Calabria",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1113&mlon=15.6473#map=15/38.1113/15.6473",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1113,
+    "longitude": 15.6473
+  },
+  "url": "http://www.museodellandrangheta.eu",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5cjwkzqAWtnkSEZn0cXZu81b89Y=/1000x1000/museums/logos/000/185/864/original/5973d833a0cfcf4c8be06d2727d0ae745f0547a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111038",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

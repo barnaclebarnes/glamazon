@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130112
+  },
+  "name": "NILES CANYON RAILWAY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6 KILKARE RD",
+    "addressLocality": "SUNOL",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94586"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5943&mlon=-121.889#map=15/37.5943/-121.889",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5943,
+    "longitude": -121.889
+  },
+  "url": "http://www.ncry.org",
+  "telephone": "+1 (510) 996-8420",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Niles_Canyon_Railway",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600238",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

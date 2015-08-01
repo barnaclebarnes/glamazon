@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160622
+  },
+  "name": "KLUGE-RUHE ABORIGINAL ART COLLECTION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "400 WORRELL DR",
+    "addressLocality": "CHARLOTTESVILLE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22911"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0249&mlon=-78.4411#map=15/38.0249/-78.4411",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0249,
+    "longitude": -78.4411
+  },
+  "url": "http://www.kluge-ruhe.org",
+  "telephone": "+1 (434) 244-0234",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/380646843008"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100128",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

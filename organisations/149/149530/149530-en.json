@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149530
+  },
+  "name": "AMERICAN FOUNDATION FOR AIDS RESEARCH (AMFAR)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "120 WALL ST #13",
+    "addressLocality": "NEW YORK CITY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10005"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.706&mlon=-74.0088#map=15/40.706/-74.0088",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.706,
+    "longitude": -74.0088
+  },
+  "url": "http://amfar.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600824",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

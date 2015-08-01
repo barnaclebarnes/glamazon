@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162014
+  },
+  "name": "THE CHAC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1621 12TH AVE STE 101",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98122-8419"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6156&mlon=-122.317#map=15/47.6156/-122.317",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6156,
+    "longitude": -122.317
+  },
+  "telephone": "+1 (206) 388-0521",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300463",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

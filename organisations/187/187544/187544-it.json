@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187544
+  },
+  "name": "Palazzo Callori",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello - Castello del Monferrato (Nuova sede operativa), ",
+    "addressLocality": "Casale Monferrato",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1372&mlon=8.45089#map=15/45.1372/8.45089",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1372,
+    "longitude": 8.45089
+  },
+  "url": "http://www.enotecadelmonferrato.it",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106746",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

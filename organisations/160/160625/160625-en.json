@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160625
+  },
+  "name": "HAYMARKET MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15025 WASHINGTON ST",
+    "addressLocality": "HAYMARKET",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "20169"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8125&mlon=-77.6372#map=15/38.8125/-77.6372",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8125,
+    "longitude": -77.6372
+  },
+  "url": "http://www.haymarketmuseum.org",
+  "telephone": "+1 (703) 753-3712",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100131",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

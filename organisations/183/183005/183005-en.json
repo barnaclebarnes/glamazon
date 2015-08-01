@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183005
+  },
+  "name": "Deutsches Fastnachtmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Luitpoldstr. 4",
+    "addressLocality": "Kitzingen",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97318"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7371&mlon=10.1597#map=15/49.7371/10.1597",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7371,
+    "longitude": 10.1597
+  },
+  "url": "http://deutsches-fastnachtmuseum.byseum.de/de/home",
+  "telephone": "09321/23355",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183005",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

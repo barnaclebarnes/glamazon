@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186965
+  },
+  "name": "Museo archeologico di Cremona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Lorenzo, 4",
+    "addressLocality": "Cremona",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1342&mlon=10.0291#map=15/45.1342/10.0291",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1342,
+    "longitude": 10.0291
+  },
+  "url": "http://musei.comune.cremona.it/PostCE-display-ceid-9.phtml",
+  "telephone": "+39 0372 407775",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/PSLnScD1P3vb9yf4PXz6U2iMirA=/1000x1000/museums/logos/000/186/965/original/62145e44d0b574bee7c6a8b1bdaadd81108dc522.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107050",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186248
+  },
+  "name": "Da li mans di Carlin",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pognici, 150",
+    "addressLocality": "Frisanco",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.2131&mlon=12.7293#map=15/46.2131/12.7293",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.2131,
+    "longitude": 12.7293
+  },
+  "url": "http://www.friuli.net/carlin",
+  "telephone": "+39 042778047",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qa7GP1xOk8UaFLdYMdnyotX-DWs=/1000x1000/museums/logos/000/186/248/original/a8c443d0a9ebb1a255f6f1d3e3191d5a825a53c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100200",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

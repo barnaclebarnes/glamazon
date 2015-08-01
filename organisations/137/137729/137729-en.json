@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137729
+  },
+  "name": "PROJECT EXPLORATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4511 S EVANS AVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60653-3520"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8128&mlon=-87.6082#map=15/41.8128/-87.6082",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8128,
+    "longitude": -87.6082
+  },
+  "url": "http://www.projectexploration.org",
+  "telephone": "+1 (312) 273-4026",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700874",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

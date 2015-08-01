@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186365
+  },
+  "name": "Museo della liuteria \"Embergher-Cerrone\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Tulliano, 49",
+    "addressLocality": "Arpino",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6467&mlon=13.6125#map=15/41.6467/13.6125",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6467,
+    "longitude": 13.6125
+  },
+  "url": "http://www.menteantica.it/museoliuteria.htm",
+  "telephone": "+39 0776 848177 - 852123",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00-13.00 e 16.00-19.00 Domenica e festivi visite su prenotazione",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5B5kGp78sa1m9_AL5AodRGujAe8=/1000x1000/museums/logos/000/186/365/original/5d2ab3c26c53a6663f6ca3989781849044365743.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101400",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

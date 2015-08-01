@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188456
+  },
+  "name": "Museo civico di Corleone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Orfanotrofio, 4",
+    "addressLocality": "Corleone",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8116&mlon=13.3019#map=15/37.8116/13.3019",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8116,
+    "longitude": 13.3019
+  },
+  "url": "http://www.comune.corleone.pa.it/museo.html",
+  "telephone": "+39 091 8463918",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni dalle ore 9,30 alle 13,00 e dalle 15,30 alle 19,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jnl7LGeCPrxMIPirssuo_KWlwDk=/1000x1000/museums/logos/000/188/456/original/a8337abfbde82ba622c73ee79b14956597da188b.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101290",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

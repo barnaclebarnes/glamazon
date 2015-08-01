@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150988
+  },
+  "name": "BRUNSWICK HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1776",
+    "addressLocality": "CROPSEYVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12052"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.762&mlon=-73.4735#map=15/42.762/-73.4735",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.762,
+    "longitude": -73.4735
+  },
+  "url": "http://bhs-ny.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602282",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

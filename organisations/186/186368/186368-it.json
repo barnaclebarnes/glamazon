@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186368
+  },
+  "name": "Museo della pietra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largario San Michele, ",
+    "addressLocality": "Ausonia",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.357&mlon=13.7507#map=15/41.357/13.7507",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.357,
+    "longitude": 13.7507
+  },
+  "url": "http://www.comune.ausonia.fr.it/museo/museo_action.php?ACTION=due&cod_museo=5",
+  "telephone": "+39 0776952021",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/p9xfjteDBBCngDxg8AN12zqVW0k=/1000x1000/museums/logos/000/186/368/original/52e0d35962f1249a6598dab2c739222311df27d8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101405",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

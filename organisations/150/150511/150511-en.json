@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150511
+  },
+  "name": "SALISBURY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 185",
+    "addressLocality": "SALISBURY CENTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13454"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1597&mlon=-74.7497#map=15/43.1597/-74.7497",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1597,
+    "longitude": -74.7497
+  },
+  "telephone": "+1 (315) 429-3395",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601805",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

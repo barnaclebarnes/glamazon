@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158666
+  },
+  "name": "HOUSTON BICYCLE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5318 CRAWFORD",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77004-6830"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7244&mlon=-95.3831#map=15/29.7244/-95.3831",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7244,
+    "longitude": -95.3831
+  },
+  "url": "http://houstonbicyclemuseum.info/",
+  "telephone": "+1 (832) 259-7225",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800766",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

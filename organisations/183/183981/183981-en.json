@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183981
+  },
+  "name": "Bayreuther FeuerwehrMuseum e. V.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "An der Feuerwache 4",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95445"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9503&mlon=11.5669#map=15/49.9503/11.5669",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9503,
+    "longitude": 11.5669
+  },
+  "url": "http://www.bayreuther-feuerwehrmuseum.fwd2.de/",
+  "telephone": "0921/83054",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183981",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

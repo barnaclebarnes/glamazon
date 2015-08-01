@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186853
+  },
+  "name": "Museo civico di Scienze Naturali Severo Sini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Locatelli Milesi, 16",
+    "addressLocality": "Villa d'Almè",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7461&mlon=9.61754#map=15/45.7461/9.61754",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7461,
+    "longitude": 9.61754
+  },
+  "url": "http://www.museosini.org/ecomuseo.aspx",
+  "telephone": "+39 035637420",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sab. 9,30/12,00 - 15,00/18,00 mart. 10,00/12,00 ultima dom. del mese 10,00/12,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Rpmnf3Pg-p3YiKely5ZCsGiDlvk=/1000x1000/museums/logos/000/186/853/original/2f4127a1fd9ae63576677cd3ce80f3a6d3d286d0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103541",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

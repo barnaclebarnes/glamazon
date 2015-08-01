@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145515
+  },
+  "name": "MISSISSIPPI MUSIC HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "421 W GALLATIN ST",
+    "addressLocality": "HAZELHURST",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "39083-3029"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.86&mlon=-90.4011#map=15/31.86/-90.4011",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.86,
+    "longitude": -90.4011
+  },
+  "url": "http://www.msmusic.org/index.html",
+  "telephone": "+1 (601) 894-5601",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800222",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

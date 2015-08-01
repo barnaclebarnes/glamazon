@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188179
+  },
+  "name": "Museo comunale città di Torremaggiore",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Luigi Rossi, 1",
+    "addressLocality": "Torremaggiore",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6897&mlon=15.2881#map=15/41.6897/15.2881",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6897,
+    "longitude": 15.2881
+  },
+  "url": "http://www.musenet.it",
+  "telephone": "+39 0882 391114",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Re0Y3cZwbXKmJWlZSsaaVDko5fM=/1000x1000/museums/logos/000/188/179/original/862a7ae36b46e577992938a3cdbdb71932987d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107688",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

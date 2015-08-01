@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187737
+  },
+  "name": "Castello dei Marchesi del Carretto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Emanuele II, ",
+    "addressLocality": "Saliceto",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4142&mlon=8.16717#map=15/44.4142/8.16717",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4142,
+    "longitude": 8.16717
+  },
+  "url": "http://www.comunesaliceto.it",
+  "telephone": "+39 0174 98021",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 15 aprile tutti i sabati e le domeniche fino al 7 ottobre, 1° mag. e 2 giu. dalle 15,00 alle 18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "5,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/y_x792cdQhIVkcEqYOSJhcVGyrc=/1000x1000/museums/logos/000/187/737/original/9c7041ce16fbe1d2d08b8154eadb4c06631b172.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106723",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

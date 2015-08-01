@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142372
+  },
+  "name": "VOLLEYBALL HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "444 DWIGHT STREET",
+    "addressLocality": "HOLYOKE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01041-1099"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2061&mlon=-72.6057#map=15/42.2061/-72.6057",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2061,
+    "longitude": -72.6057
+  },
+  "url": "http://www.volleyhall.org",
+  "telephone": "+1 (413) 536-0926",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500002",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

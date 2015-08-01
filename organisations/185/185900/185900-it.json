@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185900
+  },
+  "name": "Museo etnografico \"Beniamino Tartaglia\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Carbonara, 3",
+    "addressLocality": "Aquilonia",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9888&mlon=15.477#map=15/40.9888/15.477",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9888,
+    "longitude": 15.477
+  },
+  "url": "http://www.aquiloniamusei.it",
+  "telephone": "+39 082783826",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iyuiuJO_x2FiBjHGn_PaTEq6fJo=/1000x1000/museums/logos/000/185/900/original/38af9f54eecb78d98cba881bb8853ef70267.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101766",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

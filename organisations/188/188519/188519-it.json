@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188519
+  },
+  "name": "Castello Grifeo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Benvenuto Graffeo",
+    "addressLocality": "Partanna",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7248&mlon=12.8872#map=15/37.7248/12.8872",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7248,
+    "longitude": 12.8872
+  },
+  "url": "http://www.retemusealebelicina.it",
+  "telephone": "+39 39 092 4923970 - 4923571",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a domenica dal 1 Ottobre al 30 Aprile 9.30-14.30/15.30-18:30 dal 1 Maggio al 30 Settembre 9.30-12.30/16.30-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MgGpUco3W05a-_SWSjFRszzAgcM=/1000x1000/museums/logos/000/188/519/original/f34c0c3b1889ef64bdb9d52c6e87872148b974.gif"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111651",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

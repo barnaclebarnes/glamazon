@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142626
+  },
+  "name": "TRUSTEES OF THE BERKSHIRE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "39 SOUTH ST",
+    "addressLocality": "PITTSFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01201-6108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4486&mlon=-73.2654#map=15/42.4486/-73.2654",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4486,
+    "longitude": -73.2654
+  },
+  "url": "http://www.berkshiremuseum.org",
+  "telephone": "+1 (413) 443-7171",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500256",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163580
+  },
+  "name": "NELSON MUSEUM OF THE WEST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1714 CAREY AVE",
+    "addressLocality": "CHEYENNE",
+    "addressRegion": "WY",
+    "addressCountry": "United States",
+    "postalCode": "82001-4420"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1338&mlon=-104.817#map=15/41.1338/-104.817",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1338,
+    "longitude": -104.817
+  },
+  "url": "http://www.nelsonmuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405600160",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

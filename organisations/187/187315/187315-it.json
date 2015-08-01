@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187315
+  },
+  "name": "Museo civico archeologico \"C. Cellini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza XX Settembre, ",
+    "addressLocality": "Ripatransone",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0006&mlon=13.7623#map=15/43.0006/13.7623",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0006,
+    "longitude": 13.7623
+  },
+  "url": "http://www.museipiceni.it",
+  "telephone": "+39 073599239",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni: 10-12, 16-19",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.50"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104140",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

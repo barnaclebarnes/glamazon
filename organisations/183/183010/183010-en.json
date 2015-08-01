@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183010
+  },
+  "name": "Urweltmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Steinbrucker Straße 4",
+    "addressLocality": "Raubling",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83064"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7678&mlon=12.0659#map=15/47.7678/12.0659",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7678,
+    "longitude": 12.0659
+  },
+  "url": "http://www.urweltmuseum.com",
+  "telephone": "08034/1894",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183010",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

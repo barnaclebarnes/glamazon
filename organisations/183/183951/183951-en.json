@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183951
+  },
+  "name": "Deutsches Spielearchiv Nürnberg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Egidienplatz 23",
+    "addressLocality": "Nürnberg",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.457&mlon=11.0811#map=15/49.457/11.0811",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.457,
+    "longitude": 11.0811
+  },
+  "url": "http://www.museen.nuernberg.de/spielearchiv/",
+  "telephone": "0911/231 - 14 810",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183951",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

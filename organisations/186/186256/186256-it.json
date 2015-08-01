@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186256
+  },
+  "name": "Museo della civiltà contadina di San Giorgio della Richinvelda",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sant'Urbano, 5",
+    "addressLocality": "San Giorgio della Richinvelda",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0456&mlon=12.868#map=15/46.0456/12.868",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0456,
+    "longitude": 12.868
+  },
+  "url": "http://www.richinvelda.it/page.php?26",
+  "telephone": "+39 0427968616",
+  "contactPoint": [
+
+  ],
+  "openingHours": "la prima e la terza domenica del mese, 10.30/12.30 o su appuntamento",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Lyfm1ZxMU7Zf-CQJQw4vqxQWNkU=/1000x1000/museums/logos/000/186/256/original/8ef62ec65a18a2394a41c19598fa3b6322a1f49.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100212",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

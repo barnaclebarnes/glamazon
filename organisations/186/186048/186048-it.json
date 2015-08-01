@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186048
+  },
+  "name": "Museo mineralogico campano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Ciro, 2",
+    "addressLocality": "Vico Equense",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6628&mlon=14.4259#map=15/40.6628/14.4259",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6628,
+    "longitude": 14.4259
+  },
+  "url": "http://www.museomineralogicocampano.it",
+  "telephone": "+39 0818015668",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JTMh-9Jb-AppYR_QAbjtj1Bvyi0=/1000x1000/museums/logos/000/186/048/original/64beae6c9834ebb98adc23a41fc6dca93b92e75.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101882",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

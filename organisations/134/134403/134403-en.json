@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134403
+  },
+  "name": "FRIENDS OF THE ALNWICK GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "555 TWELFTH STREET",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20004-1206"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8967&mlon=-77.028#map=15/38.8967/-77.028",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8967,
+    "longitude": -77.028
+  },
+  "url": "http://www.alnwickgarden.com/friends",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100184",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

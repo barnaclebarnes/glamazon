@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150112
+  },
+  "name": "CIVIC HERITAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 389",
+    "addressLocality": "CATO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13033-0389"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1786&mlon=-76.5744#map=15/43.1786/-76.5744",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1786,
+    "longitude": -76.5744
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601406",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

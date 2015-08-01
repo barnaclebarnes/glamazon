@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189240
+  },
+  "name": "Palazzo ducale di Gubbio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Cattedrale, 1",
+    "addressLocality": "Gubbio",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3542&mlon=12.579#map=15/43.3542/12.579",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3542,
+    "longitude": 12.579
+  },
+  "telephone": "+39 0759275872",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni dalle 8,30 alle 19,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fLVquZ-w-0xbIL_7rpOfeoGQHEI=/1000x1000/museums/logos/000/189/240/original/3eb615cc1e8b2709840cbd23a9c187a208b10a0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20182",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

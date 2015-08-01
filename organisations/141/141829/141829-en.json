@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141829
+  },
+  "name": "BALTIMORE CITY FIRE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "414 OLD TOWN MALL",
+    "addressLocality": "BALTIMORE",
+    "addressRegion": "MD",
+    "addressCountry": "United States",
+    "postalCode": "21202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2952&mlon=-76.6054#map=15/39.2952/-76.6054",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2952,
+    "longitude": -76.6054
+  },
+  "telephone": "+1 (410) 727-2414",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402400122",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

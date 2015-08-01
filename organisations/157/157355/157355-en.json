@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157355
+  },
+  "name": "THE HERMITAGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4500 RACHEL'S LANE",
+    "addressLocality": "HERMITAGE",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37076"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.2125&mlon=-86.6224#map=15/36.2125/-86.6224",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.2125,
+    "longitude": -86.6224
+  },
+  "url": "http://www.thehermitage.com",
+  "telephone": "+1 (615) 889-2941",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700026",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190248
+  },
+  "name": "NATIONAL MUSEUM OF THE U.S. AIR FORCE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1100 SPAATZ ST.",
+    "addressLocality": "DAYTON",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45433"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3174&mlon=-83.2289#map=15/42.3174/-83.2289",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3174,
+    "longitude": -83.2289
+  },
+  "url": "http://www.nationalmuseum.af.mil",
+  "telephone": "+1 (937) 255-3286",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901427",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

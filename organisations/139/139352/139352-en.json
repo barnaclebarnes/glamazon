@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139352
+  },
+  "name": "DUBUQUE ARBORETUM ASSOCIATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3800 ARBORETUM DR",
+    "addressLocality": "DUBUQUE",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52001-1040"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5318&mlon=-90.7178#map=15/42.5318/-90.7178",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5318,
+    "longitude": -90.7178
+  },
+  "url": "http://www.dubuquearboretum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900389",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

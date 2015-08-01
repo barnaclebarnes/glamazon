@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186801
+  },
+  "name": "M. G. Rossello",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Montegrappa, 5",
+    "addressLocality": "Savona",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3112&mlon=8.48169#map=15/44.3112/8.48169",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3112,
+    "longitude": 8.48169
+  },
+  "url": "http://scuolarossellosavona.com",
+  "telephone": "+39 0198 29860",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7_O9iZPlUoQ3Y1lsg7d9fhENGVk=/1000x1000/museums/logos/000/186/801/original/23dcbd10aacd5ef05290ce3698d98f5b2d22ea47.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100466",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

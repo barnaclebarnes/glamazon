@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184383
+  },
+  "name": "Belfast District Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:info@belfastdistrictmuseum.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-43.4551&mlon=172.625#map=15/-43.4551/172.625",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -43.4551,
+    "longitude": 172.625
+  },
+  "url": "http://www.belfastdistrictmuseum.co.nz",
+  "telephone": "(03) 352 5545",
+  "contactPoint": [
+
+  ],
+  "openingHours": "2pm - 4pm first Sunday, September - May, or by arrangement.  Schoolmaster's House and Crofter's Cottage also open twice a year.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Donation"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184383",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186194
+  },
+  "name": "Museo della Resistenza Piacentina",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0474&mlon=9.68658#map=15/45.0474/9.68658",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0474,
+    "longitude": 9.68658
+  },
+  "url": "http://www.resistenzapiacenza.it/",
+  "telephone": "+39 327 4459043",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ogni domenica dalle ore 15.00 alle ore 18.30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111187",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136568
+  },
+  "name": "HONOLULU ACADEMY OF ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "900 S BERETANIA ST",
+    "addressLocality": "HONOLULU",
+    "addressRegion": "HI",
+    "addressCountry": "United States",
+    "postalCode": "96814-1429"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=21.3036&mlon=-157.849#map=15/21.3036/-157.849",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 21.3036,
+    "longitude": -157.849
+  },
+  "url": "http://honolulumuseum.org/cachedsimilar",
+  "telephone": "+1 (808) 532-8700",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/honoluluacademy"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401500107",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

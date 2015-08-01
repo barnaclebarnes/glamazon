@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190288
+  },
+  "name": "PUNXSUTAWNEY WEATHER DISCOVERY CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 NORTH FINDLEY ST.",
+    "addressLocality": "PUNXSUTAWNEY",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "15767"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7939&mlon=-89.652#map=15/39.7939/-89.652",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7939,
+    "longitude": -89.652
+  },
+  "url": "http://www.weatherdiscovery.org",
+  "telephone": "+1 (814) 938-1000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201694",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155851
+  },
+  "name": "NATIONAL MUSEUM OF AMERICAN JEWISH HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101 S INDEPENDENCE MALL E",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19106-2517"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.949&mlon=-75.1492#map=15/39.949/-75.1492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.949,
+    "longitude": -75.1492
+  },
+  "url": "http://www.nmajh.org",
+  "telephone": "+1 (215) 923-0260",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/NMAJH"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/NMAJH"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404201045",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

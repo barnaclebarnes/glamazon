@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151878
+  },
+  "name": "FINE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "JOHN W. BARDO FINE AND PERFORMING ARTS CENTER 199 CENTENNIAL DRIVE",
+    "addressLocality": "CULLOWHEE",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28723"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.2593&mlon=-83.1636#map=15/35.2593/-83.1636",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.2593,
+    "longitude": -83.1636
+  },
+  "url": "http://www.wcu.edu/museum",
+  "telephone": "+1 (828) 227-3591",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700749",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

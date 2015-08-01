@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189504
+  },
+  "name": "Museo del vetro di Venezia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Fondamenta Giustinian 8, ",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4565&mlon=12.3568#map=15/45.4565/12.3568",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4565,
+    "longitude": 12.3568
+  },
+  "url": "http://fortuny.visitmuve.it/",
+  "telephone": "+39 041739586",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/oc7jma5aFa1CWMfzsnAi0Do5Ieg=/1000x1000/museums/logos/000/189/504/original/ba267b87f3ae7e81b9f485859b7cd2db5abcc587.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101028",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186840
+  },
+  "name": "Raccolta museale Memorie della comunità",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Rocca, 1",
+    "addressLocality": "Romano di Lombardia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5214&mlon=9.75384#map=15/45.5214/9.75384",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5214,
+    "longitude": 9.75384
+  },
+  "url": "http://www.comune.romano.bg.it/index.php?pagina=pagine&id=125",
+  "telephone": "+39 0363912186",
+  "contactPoint": [
+
+  ],
+  "openingHours": "giovedì 10.00/12.00 sabato 10.00/12.00 domenica 10.00/12.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lufLxbhn6KiQfPIXlRqYZkMQxlw=/1000x1000/museums/logos/000/186/840/original/a4c290a86c33e1336d2f06cb157a3a59f35cb51.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103528",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

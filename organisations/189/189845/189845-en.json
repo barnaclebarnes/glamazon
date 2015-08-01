@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189845
+  },
+  "name": "CHICAGO BOTANIC GARDEN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 LAKE COOK ROAD",
+    "addressLocality": "GLENCOE",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60022"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.4953&mlon=-82.5888#map=15/39.4953/-82.5888",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.4953,
+    "longitude": -82.5888
+  },
+  "url": "http://www.chicagobotanic.org/",
+  "telephone": "+1 (847) 835-5440",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401701414",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189328
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Bartolomeo d'Alviano, 10",
+    "addressLocality": "Alviano",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5879&mlon=12.2954#map=15/42.5879/12.2954",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5879,
+    "longitude": 12.2954
+  },
+  "telephone": "+39 0744 905028",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GMPGhqnEK1LC205H-cW2soNAVlc=/1000x1000/museums/logos/000/189/328/original/f0fa613b71a8e6f62be7a81cb83e3f15b41cf9.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108151",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

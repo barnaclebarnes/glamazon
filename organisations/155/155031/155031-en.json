@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155031
+  },
+  "name": "DAVID WILLS HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8 LINCOLN SQ",
+    "addressLocality": "GETTYSBURG",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "17325"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8309&mlon=-77.2309#map=15/39.8309/-77.2309",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8309,
+    "longitude": -77.2309
+  },
+  "url": "http://www.davidwillshouse.org",
+  "telephone": "+1 (866) 486-5735",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200225",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130241
+  },
+  "name": "LOS ANGELES ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5333 ZOO DRIVE",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90027"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1483&mlon=-118.283#map=15/34.1483/-118.283",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1483,
+    "longitude": -118.283
+  },
+  "url": "http://lazoo.org",
+  "telephone": "+1 (323) 644-4200",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600367",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187014
+  },
+  "name": "Museo civico di Canneto sull'Oglio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Gramsci, 79",
+    "addressLocality": "Canneto sull'Oglio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1489&mlon=10.3789#map=15/45.1489/10.3789",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1489,
+    "longitude": 10.3789
+  },
+  "url": "http://www.comune.canneto.mn.it",
+  "telephone": "+39 037670175",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/y4DPfTQcLvkyQ_I5UPMVkiL_o4g=/1000x1000/museums/logos/000/187/014/original/ff9c6e71978df35ffb4989085f74c2e831debd6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103736",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

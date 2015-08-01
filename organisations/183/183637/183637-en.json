@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183637
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Museumsgasse 16",
+    "addressLocality": "Schnaittach",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91220"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.558&mlon=11.3412#map=15/49.558/11.3412",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.558,
+    "longitude": 11.3412
+  },
+  "url": "http://www.museumsverein-schnaittach.de/",
+  "telephone": "09153/7434",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183637",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

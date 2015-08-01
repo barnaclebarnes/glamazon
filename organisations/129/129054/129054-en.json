@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129054
+  },
+  "name": "ANCHORAGE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "121 WEST SEVENTH AVENUE",
+    "addressLocality": "ANCHORAGE",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99501-3611"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=61.2156&mlon=-149.884#map=15/61.2156/-149.884",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 61.2156,
+    "longitude": -149.884
+  },
+  "url": "http://www.anchoragemuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200125",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

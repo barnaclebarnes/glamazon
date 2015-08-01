@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187488
+  },
+  "name": "Museo dei gessi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Timoteo Viti, 10",
+    "addressLocality": "Urbino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7277&mlon=12.6358#map=15/43.7277/12.6358",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7277,
+    "longitude": 12.6358
+  },
+  "telephone": "+39 0722.303760",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì-venerdì 10-18, sabato 10-13 Ingresso: dalla portineria di Palazzo Albani; gruppi di massimo 25 visitatori alla volta)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105725",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134254
+  },
+  "name": "SMITHSONIAN INSTITUTION, NATIONAL MUSEUM OF AMERICAN HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1400 CONSTITUTION AVE N",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20560"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8921&mlon=-77.032#map=15/38.8921/-77.032",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8921,
+    "longitude": -77.032
+  },
+  "url": "http://americanhistory.si.edu/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100034",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

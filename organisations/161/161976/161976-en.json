@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161976
+  },
+  "name": "PRATT FINE ARTS CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1902 S MAIN ST",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98144-2206"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6&mlon=-122.308#map=15/47.6/-122.308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6,
+    "longitude": -122.308
+  },
+  "url": "http://www.pratt.org",
+  "telephone": "+1 (206) 726-1012",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300425",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

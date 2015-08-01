@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161029
+  },
+  "name": "GREAT FALLS HISTORICAL SOCIETY VIRGINIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 56",
+    "addressLocality": "GREAT FALLS",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22066"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0022&mlon=-77.3028#map=15/39.0022/-77.3028",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0022,
+    "longitude": -77.3028
+  },
+  "url": "http://www.gfhs.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100535",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

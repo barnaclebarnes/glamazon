@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132468
+  },
+  "name": "RIVERSIDE ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3425 MISSION INN AVE",
+    "addressLocality": "RIVERSIDE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92501-3304"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9815&mlon=-117.371#map=15/33.9815/-117.371",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9815,
+    "longitude": -117.371
+  },
+  "telephone": "+1 (714) 684-7111",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/riversideartmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602594",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

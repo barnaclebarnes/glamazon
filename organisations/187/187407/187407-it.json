@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187407
+  },
+  "name": "Museo civico Villa Colloredo Mels",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gregorio XII, già Via del Duomo, ",
+    "addressLocality": "Recanati",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4034&mlon=13.5623#map=15/43.4034/13.5623",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4034,
+    "longitude": 13.5623
+  },
+  "telephone": "+39 0717570410",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10:00-13:00 16:00-19:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mzNw7QpvvwZKTMJFDMAvrouQvAc=/1000x1000/museums/logos/000/187/407/original/57719673cc125c81fd2f51f3f5f8f1778f33c63.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104221",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

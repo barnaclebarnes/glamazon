@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189579
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Matteotti, ",
+    "addressLocality": "Vicenza",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5492&mlon=11.5495#map=15/45.5492/11.5495",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5492,
+    "longitude": 11.5495
+  },
+  "url": "http://www.museicivicivicenza.it",
+  "telephone": "+39 0444222800",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TETW7rke3lOJNR87wQ_vYvuSh9M=/1000x1000/museums/logos/000/189/579/original/4d997be4e26975c8d02fcc63bc7abbccf717e9d8.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101100",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

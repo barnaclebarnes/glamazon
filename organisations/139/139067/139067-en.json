@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139067
+  },
+  "name": "CHRISTIAN PETERSEN ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1017 MORRILL HALL",
+    "addressLocality": "AMES",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50012"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.025&mlon=-93.6522#map=15/42.025/-93.6522",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.025,
+    "longitude": -93.6522
+  },
+  "url": "http://iastate.edu",
+  "telephone": "+1 (515) 294-9500",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900104",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

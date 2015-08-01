@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134764
+  },
+  "name": "MUSEUM OF THE AMERICAS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2500 NW 79TH AVE STE 104",
+    "addressLocality": "DORAL",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33122-1071"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.7974&mlon=-80.325#map=15/25.7974/-80.325",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7974,
+    "longitude": -80.325
+  },
+  "url": "http://www.museumoftheamericas.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200318",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

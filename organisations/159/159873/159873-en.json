@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159873
+  },
+  "name": "THE WOODLANDS CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4775 W PANTHER CRK DR STE 280",
+    "addressLocality": "THE WOODLANDS",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77381-5501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.1665&mlon=-95.5026#map=15/30.1665/-95.5026",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.1665,
+    "longitude": -95.5026
+  },
+  "url": "http://www.woodlandschildrensmuseum.org",
+  "telephone": "+1 (281) 465-0955",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801973",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186580
+  },
+  "name": "Museo laboratorio della mente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza S. Maria della Pietà, 5",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9407&mlon=12.4191#map=15/41.9407/12.4191",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9407,
+    "longitude": 12.4191
+  },
+  "url": "http://www.asl-rme.it",
+  "telephone": "+39 0668352861",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iLt_bJYFZRdAe3zyzWfyqaRs0Sc=/1000x1000/museums/logos/000/186/580/original/3bf659a4ee71f57c2682d8fad151a9496c56d042.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101582",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

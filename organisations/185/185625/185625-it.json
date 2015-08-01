@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185625
+  },
+  "name": "Museo d'arte moderna Vittoria Colonna",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gramsci, 1",
+    "addressLocality": "Pescara",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4716&mlon=14.2129#map=15/42.4716/14.2129",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4716,
+    "longitude": 14.2129
+  },
+  "url": "http://muvi.org/museovittoriacolonna",
+  "telephone": "+39 085 4283759",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "museo gratuito, eventuali mostre a pagamento"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100076",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

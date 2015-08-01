@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185808
+  },
+  "name": "Rimuseum Museo per l’ambiente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavour, 1",
+    "addressLocality": "Rende",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.3385&mlon=16.2439#map=15/39.3385/16.2439",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.3385,
+    "longitude": 16.2439
+  },
+  "telephone": "+39 0984 465353",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,00 - 13,00 da lunedì a venerdì 15,00 – 18,00 da lunedì a giovedì",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110961",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

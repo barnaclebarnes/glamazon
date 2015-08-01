@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161163
+  },
+  "name": "CITY OF SUFFOLK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "118 BOSLEY AVE",
+    "addressLocality": "SUFFOLK",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23434-5755"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.7291&mlon=-76.5949#map=15/36.7291/-76.5949",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.7291,
+    "longitude": -76.5949
+  },
+  "telephone": "+1 (757) 923-2371",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100669",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

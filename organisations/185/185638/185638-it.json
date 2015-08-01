@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185638
+  },
+  "name": "Museo della civiltà contadina in Val Vibrata",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Giuseppe, 26",
+    "addressLocality": "Controguerra",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8345&mlon=13.801#map=15/42.8345/13.801",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8345,
+    "longitude": 13.801
+  },
+  "url": "http://www.abruzzomio.it/musei/",
+  "telephone": "+39 086 1856630",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutto l'anno: 9.00-19.00 Prezzo",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta libera"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/vOIZS-hPFOpJbSVmNlQ2x9HQpWw=/1000x1000/museums/logos/000/185/638/original/c7a1625cb53fa7e654d3a768d3e7a03b5daada4a.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100094",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

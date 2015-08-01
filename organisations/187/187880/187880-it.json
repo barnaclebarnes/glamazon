@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187880
+  },
+  "name": "Museo Centro visitatori del Parco naturale della Val Troncea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via della Pineta - Frazione Ruà, ",
+    "addressLocality": "Pragelato",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0181&mlon=6.94533#map=15/45.0181/6.94533",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0181,
+    "longitude": 6.94533
+  },
+  "url": "http://www.parconaturalevaltroncea.it",
+  "telephone": "+39 012278849 (Parco Naturale della Val Troncea)",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì-venerdì 9.00-12.00, 14.00-16.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/48sCSWnucNg2bYxMT_Z58mhkEUY=/1000x1000/museums/logos/000/187/880/original/f9ef7f91201956d5fe0b7451091c5443cb940b2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106686",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

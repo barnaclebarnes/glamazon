@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187215
+  },
+  "name": "Museo della motocicletta Frera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Zara, 37",
+    "addressLocality": "Tradate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7152&mlon=8.90808#map=15/45.7152/8.90808",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7152,
+    "longitude": 8.90808
+  },
+  "url": "http://www.comune.tradate.va.it",
+  "telephone": "+39 0331 840105",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106911",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

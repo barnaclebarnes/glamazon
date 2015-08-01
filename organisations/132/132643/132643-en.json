@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132643
+  },
+  "name": "JAPANESE AMERICAN NATIONAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 N CENTRAL AVE",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90012-3911"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0493&mlon=-118.239#map=15/34.0493/-118.239",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0493,
+    "longitude": -118.239
+  },
+  "url": "http://www.janm.org",
+  "telephone": "+1 (213) 625-0414",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/jamuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/jamuseum"
+    }
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GjcZJSL3z8FdiSa7kerAncHhrF4=/1000x1000/museums/logos/000/132/643/original/Japanese_American_National_Museum.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Justefrain&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Justefrain (page does not exist)\">Justefrain</a>",
+    "license": "CC BY 3.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Japanese_American_National_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602769",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

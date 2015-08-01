@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183529
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oberes Eck 3",
+    "addressLocality": "Rain",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86641"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.6895&mlon=10.9144#map=15/48.6895/10.9144",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.6895,
+    "longitude": 10.9144
+  },
+  "url": "http://www.rain.de/kultur/museum/index.htm",
+  "telephone": "09090/703-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183529",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

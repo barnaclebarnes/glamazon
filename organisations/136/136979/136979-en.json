@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136979
+  },
+  "name": "ILLINOIS STATE MILITARY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "CAMP LINCOLN 1301 NORTH MACARTHUR BLVD.",
+    "addressLocality": "SPRINGFIELD",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62702-2399"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8171&mlon=-89.6684#map=15/39.8171/-89.6684",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8171,
+    "longitude": -89.6684
+  },
+  "telephone": "+1 (217) 761-3900",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/Illinois.State.Military.Museum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700124",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

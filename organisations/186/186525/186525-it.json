@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186525
+  },
+  "name": "Galleria Colonna srl",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santi Apostoli, 66",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8971&mlon=12.4833#map=15/41.8971/12.4833",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8971,
+    "longitude": 12.4833
+  },
+  "url": "http://www.galleriacolonna.it",
+  "telephone": "+39 06 6784350",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ogni sabato dalle 9 alle 13,15 (ultimo ingresso)",
+  "offers": {
+    "@Type": "Offer",
+    "description": "12€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YbIak_2Udi6ppqoI90kI8XINOpE=/1000x1000/museums/logos/000/186/525/original/0e96119357c9ceb4d6fdc29da572ac63a180.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101527",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

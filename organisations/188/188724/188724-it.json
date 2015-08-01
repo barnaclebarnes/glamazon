@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188724
+  },
+  "name": "Raccolta d'arte di Palazzo Nerucci",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Colonna, 1",
+    "addressLocality": "Castel del Piano",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8934&mlon=11.5389#map=15/42.8934/11.5389",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8934,
+    "longitude": 11.5389
+  },
+  "url": "http://www.sistemamusealeamiata.it",
+  "telephone": "+39 0564969602",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mh1R9ESJXERyx-cb63bZYvRnL0E=/1000x1000/museums/logos/000/188/724/original/f2249d3959eb37a4cbeb256af99451517eb76e76.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102997",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

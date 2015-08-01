@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186487
+  },
+  "name": "Museo dell’infiorata",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Del Municipio, 8",
+    "addressLocality": "Gerano",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.933&mlon=12.9935#map=15/41.933/12.9935",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.933,
+    "longitude": 12.9935
+  },
+  "url": "http://www.infioratadigerano.org",
+  "telephone": "+39 0774798002",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NP3Mb8aE1twIg4YbIqSbPRNlM0c=/1000x1000/museums/logos/000/186/487/original/df40373867c0c1d2c0b58294262077ae2b7b6fa3.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103953",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

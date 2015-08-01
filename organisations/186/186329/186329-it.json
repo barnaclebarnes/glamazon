@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186329
+  },
+  "name": "Museo storico \"La zona Carnia nella Grande Guerra\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nazionale, 90",
+    "addressLocality": "Paluzza",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5823&mlon=13.0045#map=15/46.5823/13.0045",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5823,
+    "longitude": 13.0045
+  },
+  "url": "http://www.carniamusei.org",
+  "telephone": "+39 0433779168; 0433779292",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2g3o6OE_NPT875kUlyL1_0XUF9k=/1000x1000/museums/logos/000/186/329/original/c110a98d47df73ca7964f8eb55b95f7273d974.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100297",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

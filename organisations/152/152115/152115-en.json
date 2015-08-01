@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152115
+  },
+  "name": "PLAINS ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2338",
+    "addressLocality": "FARGO",
+    "addressRegion": "ND",
+    "addressCountry": "United States",
+    "postalCode": "58108-2338"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.9037&mlon=-96.8093#map=15/46.9037/-96.8093",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.9037,
+    "longitude": -96.8093
+  },
+  "url": "http://www.plainsart.org",
+  "telephone": "+1 (701) 232-3821",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/plainsartmuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/PlainsArtMuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403800071",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

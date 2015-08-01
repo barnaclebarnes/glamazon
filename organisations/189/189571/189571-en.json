@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189571
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Oliero di Sotto, ",
+    "addressLocality": "Valstagna",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8445&mlon=11.6714#map=15/45.8445/11.6714",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8445,
+    "longitude": 11.6714
+  },
+  "url": "http://www.comune.valstagna.vi.it/musei/start.html",
+  "telephone": "+39 042499983",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Uiyqm77s8QCgm__tp6pMeIYBouw=/1000x1000/museums/logos/000/189/571/original/1a1e23540253d2d42ae92fc48fa42e7dd7979d.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101098",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

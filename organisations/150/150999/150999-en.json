@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150999
+  },
+  "name": "FASNY MUSEUM OF FIREFIGHTING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "107 WASHINGTON AVENUE",
+    "addressLocality": "ALBANY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12210-2200"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6547&mlon=-73.7598#map=15/42.6547/-73.7598",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6547,
+    "longitude": -73.7598
+  },
+  "url": "http://www.fasnyfiremuseum.com",
+  "telephone": "+1 (518) 822-1875",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602293",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

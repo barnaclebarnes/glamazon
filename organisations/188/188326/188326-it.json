@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188326
+  },
+  "name": "Museo della civiltà del mare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Niuloni, 1",
+    "addressLocality": "San Teodoro",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7721&mlon=9.67454#map=15/40.7721/9.67454",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7721,
+    "longitude": 9.67454
+  },
+  "url": "http://www.icimar.it",
+  "telephone": "+39 0784 866010",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì, 10.00 - 13.00 e 16.30 - 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CHPEDBOUL1jan_v6qaeU7-EUDRg=/1000x1000/museums/logos/000/188/326/original/e05f654e3b625b98f475eb19f43d6df81a.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103438",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

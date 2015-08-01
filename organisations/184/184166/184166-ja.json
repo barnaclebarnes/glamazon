@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184166
+  },
+  "name": "Clyde Historical Museum",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-45.1875&mlon=169.32#map=15/-45.1875/169.32",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -45.1875,
+    "longitude": 169.32
+  },
+  "telephone": "64-3-449 2092",
+  "contactPoint": [
+
+  ],
+  "openingHours": "火-日 14-16",
+  "offers": {
+    "@Type": "Offer",
+    "description": "博物館: $1 (大人) ハーブ工場: $2"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/ja/museums/184166",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

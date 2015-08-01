@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142689
+  },
+  "name": "STURGIS LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 606",
+    "addressLocality": "BARNSTABLE",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02630-0606"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7015&mlon=-70.3031#map=15/41.7015/-70.3031",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7015,
+    "longitude": -70.3031
+  },
+  "url": "http://sturgislibrary.org",
+  "telephone": "+1 (508) 362-6636",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500319",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

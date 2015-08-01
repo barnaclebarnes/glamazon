@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130239
+  },
+  "name": "JEWISH MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "166 GEARY ST",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94108"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7876&mlon=-122.406#map=15/37.7876/-122.406",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7876,
+    "longitude": -122.406
+  },
+  "telephone": "+1 (415) 591-8800",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hMFfF8XIKayucOtlusXptLor78I=/1000x1000/museums/logos/000/130/239/original/JewishMuseumBerlin.jpg",
+    "creator": "Studio Daniel Libeskind",
+    "license": "CC BY 3.0"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600365",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

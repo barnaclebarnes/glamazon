@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140292
+  },
+  "name": "KENTUCKY AVIATION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "BOWMAN FLD",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40205"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0328&mlon=-84.5983#map=15/38.0328/-84.5983",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0328,
+    "longitude": -84.5983
+  },
+  "url": "http://www.aviationky.org",
+  "telephone": "+1 (859) 231-1219",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100048",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

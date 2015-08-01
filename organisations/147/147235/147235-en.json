@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147235
+  },
+  "name": "THE UNIVERSITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18 LIBRARY WAY",
+    "addressLocality": "DURHAM",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03824-3592"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1368&mlon=-70.9355#map=15/43.1368/-70.9355",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1368,
+    "longitude": -70.9355
+  },
+  "url": "http://www.library.unh.edu/museum",
+  "telephone": "+1 (603) 862-1081",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300010",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

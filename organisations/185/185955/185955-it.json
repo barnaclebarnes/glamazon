@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185955
+  },
+  "name": "Museo civico e degli orologi da torre",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Rovagnera, 24",
+    "addressLocality": "San Marco dei Cavoti",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3081&mlon=14.8771#map=15/41.3081/14.8771",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3081,
+    "longitude": 14.8771
+  },
+  "url": "http://www.sanmarconline.it",
+  "telephone": "+39 0824984009",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1yyo0IQaqiJuLrKNL1_xTq1v_EU=/1000x1000/museums/logos/000/185/955/original/79f344685113a4a027c597d723de1c1e3486f48a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101799",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

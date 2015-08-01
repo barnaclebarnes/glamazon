@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150039
+  },
+  "name": "EARLVILLE OPERA HOUSE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 111",
+    "addressLocality": "EARLVILLE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13332-0111"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7397&mlon=-75.5445#map=15/42.7397/-75.5445",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7397,
+    "longitude": -75.5445
+  },
+  "url": "http://www.earlvilleoperahouse.com/index.cfm/fuseaction/content.display/page/home.cfm",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601333",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

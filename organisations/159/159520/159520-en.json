@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159520
+  },
+  "name": "CALDWELL ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4280",
+    "addressLocality": "TYLER",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75712-4280"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.3687&mlon=-95.3256#map=15/32.3687/-95.3256",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.3687,
+    "longitude": -95.3256
+  },
+  "url": "http://www.caldwellzoo.org",
+  "telephone": "+1 (903) 593-0121",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801620",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

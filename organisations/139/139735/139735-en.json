@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139735
+  },
+  "name": "INDEPENDENCE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 N 8TH ST",
+    "addressLocality": "INDEPENDENCE",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "67301"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.2236&mlon=-95.7081#map=15/37.2236/-95.7081",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.2236,
+    "longitude": -95.7081
+  },
+  "url": "http://www.independencehistoricalmuseum.org",
+  "telephone": "+1 (620) 331-3515",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000061",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

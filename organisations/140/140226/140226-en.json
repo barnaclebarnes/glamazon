@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140226
+  },
+  "name": "INSTITUTE FOR HISTORIC AND EDUCATIONAL ARTS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1005 N 32ND STREET",
+    "addressLocality": "KANSAS CITY",
+    "addressRegion": "KS",
+    "addressCountry": "United States",
+    "postalCode": "66102"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1157&mlon=-94.6656#map=15/39.1157/-94.6656",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1157,
+    "longitude": -94.6656
+  },
+  "url": "http://historicarts.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402000552",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

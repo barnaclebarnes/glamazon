@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187323
+  },
+  "name": "Museo Pietraia dei Poeti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Contrada Barattelle , 3",
+    "addressLocality": "San Benedetto del Tronto",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.961&mlon=13.8746#map=15/42.961/13.8746",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.961,
+    "longitude": 13.8746
+  },
+  "url": "http://www.pietraiadeipoeti.it",
+  "telephone": "+39 338 8771658",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111477",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187372
+  },
+  "name": "Museo della storia postale dei Monti Azzurri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Francesco, 2",
+    "addressLocality": "Loro Piceno",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1671&mlon=13.4156#map=15/43.1671/13.4156",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1671,
+    "longitude": 13.4156
+  },
+  "telephone": "+39 0733509112 - 3493184586",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Mf6-RMx-YqT0vGonAh_dpL0pISU=/1000x1000/museums/logos/000/187/372/original/2e6f2084d2eceba138e947eb7f16a4734ec446.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104187",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

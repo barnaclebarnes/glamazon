@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188261
+  },
+  "name": "Centro socio-culturale di Via Colletta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Quartu, 20",
+    "addressLocality": "Sinnai",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2983&mlon=9.20459#map=15/39.2983/9.20459",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2983,
+    "longitude": 9.20459
+  },
+  "url": "http://www.comune.sinnai.ca.it",
+  "telephone": "+39 070780516",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Knzd39glFLEPcW2_PtGSV01j_BM=/1000x1000/museums/logos/000/188/261/original/bdbc345c38dddfd56eb44dcb35aaa3951c8c576.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103322",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

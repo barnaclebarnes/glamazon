@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185627
+  },
+  "name": "Museo meraviglie marine Ex Museo Ittico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lungofiume Paolucci, SNC",
+    "addressLocality": "Pescara",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4618&mlon=14.2161#map=15/42.4618/14.2161",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4618,
+    "longitude": 14.2161
+  },
+  "url": "http://www.muvi.org/museodellemeravigliemarine",
+  "telephone": "+39 0854 283",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,00 - 13,00 il martedì, giovedì e sabato",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€2,50"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105426",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

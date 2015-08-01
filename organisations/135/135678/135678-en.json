@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135678
+  },
+  "name": "WORLD CHESS HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "13755 SW 119TH AVE",
+    "addressLocality": "MIAMI",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33186-6265"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.6399&mlon=-80.3868#map=15/25.6399/-80.3868",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.6399,
+    "longitude": -80.3868
+  },
+  "url": "http://www.chessmuseum.org",
+  "telephone": "+1 (786) 242-4255",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401201233",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161010
+  },
+  "name": "UNITED STATES SLO-PITCH SFTBL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1998",
+    "addressLocality": "PETERSBURG",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23805-0998"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1621&mlon=-77.3787#map=15/37.1621/-77.3787",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1621,
+    "longitude": -77.3787
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100516",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

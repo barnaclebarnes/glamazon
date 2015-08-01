@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162314
+  },
+  "name": "JOHN BROWN WAX MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "168 HIGH ST",
+    "addressLocality": "HARPERS FERRY",
+    "addressRegion": "WV",
+    "addressCountry": "United States",
+    "postalCode": "25425"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.3237&mlon=-77.7313#map=15/39.3237/-77.7313",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.3237,
+    "longitude": -77.7313
+  },
+  "url": "http://www.johnbrownwaxmuseum.com",
+  "telephone": "+1 (304) 535-6342",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405400027",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

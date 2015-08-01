@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133654
+  },
+  "name": "RIDGEFIELD LIBRARY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "472 MAIN ST",
+    "addressLocality": "RIDGEFIELD",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06877-4504"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2831&mlon=-73.4985#map=15/41.2831/-73.4985",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2831,
+    "longitude": -73.4985
+  },
+  "url": "http://www.ridgefieldlibrary.org",
+  "telephone": "+1 (203) 438-2282",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900129",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

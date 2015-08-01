@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142872
+  },
+  "name": "EAST BOSTON GATEWAY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 584",
+    "addressLocality": "EAST BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02128-0006"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3752&mlon=-71.0335#map=15/42.3752/-71.0335",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3752,
+    "longitude": -71.0335
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500502",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

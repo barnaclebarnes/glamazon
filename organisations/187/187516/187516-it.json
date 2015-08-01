@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187516
+  },
+  "name": "Museo archeologico di Venafro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, 8",
+    "addressLocality": "Venafro",
+    "addressRegion": "Molise",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4856&mlon=14.0425#map=15/41.4856/14.0425",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4856,
+    "longitude": 14.0425
+  },
+  "url": "http://archeologicamolise.beniculturali.it/index.php?it/172/museo-archeologico-di-venafro",
+  "telephone": "+39 0865900742",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Giorni feriali: 8.30-19.30 Domenica e festivi: 14.30-19.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/341dULivXZc0imrmsAlWjZcxOdE=/1000x1000/museums/logos/000/187/516/original/ac1cfec5989d46e417c19645f840a4e182fc7ec.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20351",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

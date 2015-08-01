@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149121
+  },
+  "name": "AMERICAN MUSEUM OF NATURAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2606 HARING ST",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11235"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5895&mlon=-73.9388#map=15/40.5895/-73.9388",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5895,
+    "longitude": -73.9388
+  },
+  "telephone": "+1 (718) 769-5100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600415",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

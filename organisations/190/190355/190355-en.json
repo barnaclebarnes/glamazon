@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190355
+  },
+  "name": "GREAT SMOKY MOUNTAINS NATIONAL PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "107 PARK HEADQUARTERS ROAD",
+    "addressLocality": "GATLINBURG",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37738"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.6922&mlon=-83.5339#map=15/35.6922/-83.5339",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.6922,
+    "longitude": -83.5339
+  },
+  "telephone": "+1 (865) 436-1295",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700581",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

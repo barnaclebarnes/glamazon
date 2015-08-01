@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129183
+  },
+  "name": "ARIZONA MILITARY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5636 E MCDOWELL RD",
+    "addressLocality": "PHOENIX",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85008"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4656&mlon=-111.963#map=15/33.4656/-111.963",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4656,
+    "longitude": -111.963
+  },
+  "url": "http://www.azdema.gov/museum/index.html",
+  "telephone": "+1 (602) 267-2676",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400085",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

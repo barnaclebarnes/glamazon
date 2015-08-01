@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142662
+  },
+  "name": "DEDHAM HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 215",
+    "addressLocality": "DEDHAM",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02027-0215"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2484&mlon=-71.1743#map=15/42.2484/-71.1743",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2484,
+    "longitude": -71.1743
+  },
+  "url": "http://dedhamhistorical.org/",
+  "telephone": "+1 (781) 326-1385",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500292",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

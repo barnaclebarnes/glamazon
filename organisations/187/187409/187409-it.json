@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187409
+  },
+  "name": "Museo didattico - artistico \"G. Leopardi\" del Centro nazionale di studi leopardiani",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Monte Tabor, 2",
+    "addressLocality": "Recanati",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.398&mlon=13.5514#map=15/43.398/13.5514",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.398,
+    "longitude": 13.5514
+  },
+  "url": "http://www.leopardi.it",
+  "telephone": "+39 0717570604",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lunedì - Venerdì: 10/13.30 - 17/19.30; Sabato: 10/13.30",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104224",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

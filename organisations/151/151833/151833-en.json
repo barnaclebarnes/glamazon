@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 151833
+  },
+  "name": "MUSEUM OF THE MARINE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 VALENCIA DR STE 113",
+    "addressLocality": "JACKSONVILLE",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28541-1046"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.743&mlon=-77.3793#map=15/34.743/-77.3793",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.743,
+    "longitude": -77.3793
+  },
+  "url": "http://museumofthemarine.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700704",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

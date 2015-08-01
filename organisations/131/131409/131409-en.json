@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131409
+  },
+  "name": "FINE BOOK CLUB OF CALIFORNIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "312 SUTTER ST STE",
+    "addressLocality": "SAN FRANCISC",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94108-4320"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7896&mlon=-122.406#map=15/37.7896/-122.406",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7896,
+    "longitude": -122.406
+  },
+  "url": "http://bccbooks.org",
+  "telephone": "+1 (415) 781-7532",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601535",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

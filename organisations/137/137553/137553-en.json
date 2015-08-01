@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137553
+  },
+  "name": "WASHINGTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 54",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61571-0054"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.703&mlon=-89.444#map=15/40.703/-89.444",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.703,
+    "longitude": -89.444
+  },
+  "telephone": "+1 (309) 444-4239",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700698",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

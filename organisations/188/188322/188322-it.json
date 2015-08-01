@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188322
+  },
+  "name": "Museo diocesano La Maddalena",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Barone Manno, SNC",
+    "addressLocality": "La Maddalena",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2144&mlon=9.40759#map=15/41.2144/9.40759",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2144,
+    "longitude": 9.40759
+  },
+  "url": "http://www.museumtempioampurias.it",
+  "telephone": "+39 0789 737400",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10,00-13,00 / 15,00-20,00 /21,30-2330",
+  "offers": {
+    "@Type": "Offer",
+    "description": "pagamento"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gPEz7kV_4EufkeMl8-T7yhwJ-e4=/1000x1000/museums/logos/000/188/322/original/20811d44e9976af27738ad766761091723dda3c.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103433",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

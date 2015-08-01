@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187563
+  },
+  "name": "Castello di Piovera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Balbi, ",
+    "addressLocality": "Piovera",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9637&mlon=8.739#map=15/44.9637/8.739",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9637,
+    "longitude": 8.739
+  },
+  "url": "http://www.castellipiemontesi.it",
+  "telephone": "+39 0131698128",
+  "contactPoint": [
+
+  ],
+  "openingHours": "unico turno di visita ore 15,30 Feriali su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "8,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/oleU97oV-wxXK_KBcUvS4HMYKC4=/1000x1000/museums/logos/000/187/563/original/9d8c694a68fefdd849312b2530902cb454d281.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106233",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

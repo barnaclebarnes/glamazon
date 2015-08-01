@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129000
+  },
+  "name": "WHITTIER MUSEUM ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 WHITTIER STREET",
+    "addressLocality": "WHITTIER",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99693"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=60.7743&mlon=-148.683#map=15/60.7743/-148.683",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 60.7743,
+    "longitude": -148.683
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200071",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

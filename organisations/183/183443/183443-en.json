@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183443
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stadtplatz 15",
+    "addressLocality": "Osterhofen",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94486"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7017&mlon=13.0194#map=15/48.7017/13.0194",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7017,
+    "longitude": 13.0194
+  },
+  "url": "http://www.osterhofen.de/index.asp?NAVIID={57E12A50-3118-4F0C-97FD-025DB64F4B75}",
+  "telephone": "09932/4030",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183443",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

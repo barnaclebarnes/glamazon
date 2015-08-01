@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149234
+  },
+  "name": "QUEENS MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "NYC BLDG FLUSHING MEADOW PAR",
+    "addressLocality": "FLUSHING",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11368"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7454&mlon=-73.8606#map=15/40.7454/-73.8606",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7454,
+    "longitude": -73.8606
+  },
+  "url": "http://queensmuse.org",
+  "telephone": "+1 (718) 592-9700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600528",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

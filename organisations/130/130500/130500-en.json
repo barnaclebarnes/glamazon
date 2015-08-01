@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130500
+  },
+  "name": "BANCROFT RANCH HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9065 MEMORY LN",
+    "addressLocality": "SPRING VALLEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91977"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7455&mlon=-117.002#map=15/32.7455/-117.002",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7455,
+    "longitude": -117.002
+  },
+  "url": "https://www.facebook.com/.../bancroft-ranch-house",
+  "telephone": "+1 (619) 469-1480",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OGllkc6Ywz465sS5CoXcws6mfOo=/1000x1000/museums/logos/000/130/500/original/Bancroft_Ranch_House.jpg",
+    "creator": "Flickr user Allan Ferguson",
+    "license": "CC BY 2.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Hubert_H._Bancroft_Ranch_House",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600626",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

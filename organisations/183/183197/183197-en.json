@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183197
+  },
+  "name": "\"Jagdmusseum\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stadtplatz 82",
+    "addressLocality": "Mühldorf",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84453"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2402&mlon=12.5261#map=15/48.2402/12.5261",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2402,
+    "longitude": 12.5261
+  },
+  "url": "http://www.muehldorf.de/freizeit/jagdmusseum.php",
+  "telephone": "08631/15109",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183197",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

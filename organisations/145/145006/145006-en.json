@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145006
+  },
+  "name": "THE WORKS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9740 GRAND AVE S",
+    "addressLocality": "BLOOMINGTON",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55420-4225"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8272&mlon=-93.2852#map=15/44.8272/-93.2852",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8272,
+    "longitude": -93.2852
+  },
+  "url": "http://www.theworks.org",
+  "telephone": "+1 (952) 888-4262",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700446",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

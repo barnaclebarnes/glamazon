@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185642
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Libertà, SNC",
+    "addressLocality": "Giulianova",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7538&mlon=13.9665#map=15/42.7538/13.9665",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7538,
+    "longitude": 13.9665
+  },
+  "telephone": "+39 0858021215 (Ufficio Cultura Comune di Giulianova)",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/a0ohM1PeIXuVwmKAt9UdQcxC-kQ=/1000x1000/museums/logos/000/185/642/original/7a2aa585d79572c54b7c940a0de5d9a49dd7b2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100098",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

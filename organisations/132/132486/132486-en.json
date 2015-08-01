@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132486
+  },
+  "name": "CITY OF DESERT HOT SPRINGS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "65950 PIERSON BOULEVARD",
+    "addressLocality": "DESERT HOT SPRINGS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92240"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9615&mlon=-116.512#map=15/33.9615/-116.512",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9615,
+    "longitude": -116.512
+  },
+  "url": "http://cityofdhs.org",
+  "telephone": "+1 (760) 329-6411",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602612",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

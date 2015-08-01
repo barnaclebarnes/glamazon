@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139482
+  },
+  "name": "HUBBELL CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 SW 7TH SUITE 307",
+    "addressLocality": "DES MOINES",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50309-4506"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5778&mlon=-93.6229#map=15/41.5778/-93.6229",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5778,
+    "longitude": -93.6229
+  },
+  "url": "http://www.hubbell.org",
+  "telephone": "+1 (515) 243-3586",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900519",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186102
+  },
+  "name": "Museo diocesano di Salerno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Plebiscito, 10",
+    "addressLocality": "Salerno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6809&mlon=14.7605#map=15/40.6809/14.7605",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6809,
+    "longitude": 14.7605
+  },
+  "url": "http://www.beniculturali.it",
+  "telephone": "+39 089239126",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/cHloB9kEEUVd9AQox-_wXwvTR6I=/1000x1000/museums/logos/000/186/102/original/c939c17ccb8531b1e95e52d107d52d573e0751e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20277",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

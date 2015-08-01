@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186623
+  },
+  "name": "Museo del fiore",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Predio Giardino, frazione Torre Alfina, 37",
+    "addressLocality": "Acquapendente",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7477&mlon=11.863#map=15/42.7477/11.863",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7477,
+    "longitude": 11.863
+  },
+  "url": "http://www.museodelfiore.it",
+  "telephone": "+39 0763733642",
+  "contactPoint": [
+
+  ],
+  "openingHours": "venerdi, sabato e domenica festivi e prefestivi periodo estivo (ora legale): 1,000-1,003/15,00-19,00 periodo invernale (ora solare): 10,00-17,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/HP-eoC8E93KpoOBFe_FVLxcuYUU=/1000x1000/museums/logos/000/186/623/original/cd26f5e26bc433cc4d1bfcc367cd1aab8c1fd6d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101616",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

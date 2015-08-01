@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187490
+  },
+  "name": "Museo del Lapidario di Urbino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Duca Federico, ",
+    "addressLocality": "Urbino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7245&mlon=12.6369#map=15/43.7245/12.6369",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7245,
+    "longitude": 12.6369
+  },
+  "telephone": "+39 07222760 -",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì 8.30-13.00 - tutti i giorni 8.30-18.15",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Euro 4,00"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20367",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

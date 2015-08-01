@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187287
+  },
+  "name": "Museo biblioteca \"Francesco Antonio Marcucci\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Giacomo, 3",
+    "addressLocality": "Ascoli Piceno",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8568&mlon=13.5705#map=15/42.8568/13.5705",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8568,
+    "longitude": 13.5705
+  },
+  "url": "http://www.monsignormarcucci.com",
+  "telephone": "+39 0736259952",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dal 1 al 31 Luglio tutti i giorni dalle 15.00 alle 19.00, tutto l’anno su richiesta.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "offerta libera"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104092",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

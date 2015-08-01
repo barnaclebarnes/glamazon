@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163597
+  },
+  "name": "UNIVERSITY OF WYOMING ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 E. UNIVERSITY AVENUE DEPT. 3807",
+    "addressLocality": "LARAMIE",
+    "addressRegion": "WY",
+    "addressCountry": "United States",
+    "postalCode": "82071-2000"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3127&mlon=-105.58#map=15/41.3127/-105.58",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3127,
+    "longitude": -105.58
+  },
+  "url": "http://www.uwyo.edu/artmuseum",
+  "telephone": "+1 (307) 766-6622",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/106932153183"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405600177",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185751
+  },
+  "name": "Museo \"Franco Azzinari\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Vittorio Emanuele, 7",
+    "addressLocality": "Altomonte",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.6982&mlon=16.1297#map=15/39.6982/16.1297",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.6982,
+    "longitude": 16.1297
+  },
+  "telephone": "+39 0984.948041 (Comune)",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kpLFOkriHt90Rg1AJC7Rm0hUIQo=/1000x1000/museums/logos/000/185/751/original/233b16cfad5dee9b2546d3c43aac56278ce9c6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108426",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

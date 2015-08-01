@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186930
+  },
+  "name": "Museo I magli di Sarezzo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Valgobbia, 19",
+    "addressLocality": "Sarezzo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6464&mlon=10.202#map=15/45.6464/10.202",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6464,
+    "longitude": 10.202
+  },
+  "url": "http://www.cm.valletrompia.it/musei",
+  "telephone": "+39 0308337494 - 0308337495",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica e festivi 14.00/18.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/GVbiWjngfCTL4hhvmpv76SUquIY=/1000x1000/museums/logos/000/186/930/original/a04464edad6d2a2346b3b827cbc0f18bf819345.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103598",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

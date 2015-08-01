@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186285
+  },
+  "name": "Museo di mineralogia e petrografia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Weiss, 6",
+    "addressLocality": "Trieste",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6589&mlon=13.802#map=15/45.6589/13.802",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6589,
+    "longitude": 13.802
+  },
+  "url": "http://www.dst.units.it",
+  "telephone": "+39 0405582264",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì dalle ore 15.00 alle 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RXkI6JjkkxKR-A_sAcmLDyEMS2k=/1000x1000/museums/logos/000/186/285/original/21d3d8974b2de3c704628b97234b6bc0fa20b9.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100247",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

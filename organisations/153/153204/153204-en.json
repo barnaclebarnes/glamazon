@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 153204
+  },
+  "name": "THE CHILDRENS MUSEUM OF CLEVELAND",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10730 EUCLID AVE",
+    "addressLocality": "CLEVELAND",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44106-2208"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5037&mlon=-81.6126#map=15/41.5037/-81.6126",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5037,
+    "longitude": -81.6126
+  },
+  "url": "http://www.clevelandchildrensmuseum.org",
+  "telephone": "+1 (216) 791-7114",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900982",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

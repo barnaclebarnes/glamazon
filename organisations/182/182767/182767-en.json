@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182767
+  },
+  "name": "Museum Flederwisch",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Lagerplatz 5",
+    "addressLocality": "Furth im Wald",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93437"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.3105&mlon=12.8378#map=15/49.3105/12.8378",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.3105,
+    "longitude": 12.8378
+  },
+  "url": "http://www.drachenschmiede-flederwisch-furth.de/info/info_f.htm",
+  "telephone": "09973/1229",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182767",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

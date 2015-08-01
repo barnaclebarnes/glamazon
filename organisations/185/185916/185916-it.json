@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185916
+  },
+  "name": "Antiquarium Filippo Buonopane",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": " Piazza Vittoria, 5",
+    "addressLocality": "Grottaminarda",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0674&mlon=15.0556#map=15/41.0674/15.0556",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0674,
+    "longitude": 15.0556
+  },
+  "telephone": "+39 0825426061",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/24t5ggmlsk1qbtCX5jdZcvCJBeM=/1000x1000/museums/logos/000/185/916/original/779bbb1e47255d58e1a4f73bdf7c725a0f37c5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101775",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

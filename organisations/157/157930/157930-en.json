@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157930
+  },
+  "name": "STARK MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "712 GREEN AVE",
+    "addressLocality": "ORANGE",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77630"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.0931&mlon=-93.7361#map=15/30.0931/-93.7361",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.0931,
+    "longitude": -93.7361
+  },
+  "url": "http://www.starkmuseum.org",
+  "telephone": "+1 (409) 886-2787",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/starkmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800030",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

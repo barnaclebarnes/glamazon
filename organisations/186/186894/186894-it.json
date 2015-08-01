@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186894
+  },
+  "name": "Museo di San Martino della Battaglia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Torre, 2",
+    "addressLocality": "Desenzano del Garda",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4255&mlon=10.6026#map=15/45.4255/10.6026",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4255,
+    "longitude": 10.6026
+  },
+  "url": "http://www.solferinoesanmartino.it",
+  "telephone": "+39 0309910370",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/a4sClkOd083JTd9Z3FBGrwTzSGk=/1000x1000/museums/logos/000/186/894/original/168f2530643ef98c60b76df1b773c68ac3c6356f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103570",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186081
+  },
+  "name": "Museo archeologico provinciale della Lucania occidentale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Certosa",
+    "addressLocality": "Padula",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.332&mlon=15.6412#map=15/40.332/15.6412",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.332,
+    "longitude": 15.6412
+  },
+  "url": "http://www.museibiblioteche.provincia.salerno.it",
+  "telephone": "+39 0975 77117 - 800 219661 (num. verde)",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NKjtGqYvDmzSXn09rn3qk4Wqoj0=/1000x1000/museums/logos/000/186/081/original/305d6ccbf6711e575f1a59b2b69727b94663356.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101908",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

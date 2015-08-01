@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132399
+  },
+  "name": "RANDALL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "199 MUSEUM WAY",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94114-1429"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.764&mlon=-122.439#map=15/37.764/-122.439",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.764,
+    "longitude": -122.439
+  },
+  "url": "http://www.randallmuseum.org",
+  "telephone": "+1 (415) 554-9600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602525",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

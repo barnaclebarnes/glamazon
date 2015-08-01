@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190262
+  },
+  "name": "MEDINA COUNTY PARK DISTRICT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6364 DEERVIEW LANE",
+    "addressLocality": "MEDINA",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44256"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.3736&mlon=-102.319#map=15/46.3736/-102.319",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.3736,
+    "longitude": -102.319
+  },
+  "url": "http://www.medinacountyparks.com",
+  "telephone": "+1 (330) 239-4814",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403901440",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

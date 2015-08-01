@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134319
+  },
+  "name": "HISTORIC MOUNT PLEASANT INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1731 LAMONT STREET NW",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20010"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.9314&mlon=-77.0405#map=15/38.9314/-77.0405",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.9314,
+    "longitude": -77.0405
+  },
+  "url": "http://historicmountpleasant.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100100",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

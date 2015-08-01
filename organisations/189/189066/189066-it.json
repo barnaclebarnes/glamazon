@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189066
+  },
+  "name": "Museo diocesano di Bressanone/Brixen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Palazzo Vescovile, 2",
+    "addressLocality": "Bressanone/Brixen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.7152&mlon=11.6566#map=15/46.7152/11.6566",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.7152,
+    "longitude": 11.6566
+  },
+  "url": "http://www.hofburg.it",
+  "telephone": "+39 0472830505",
+  "contactPoint": [
+
+  ],
+  "openingHours": "15 marzo - 31 ottobre mar-dom ore 10-17 ; solo collezione dei presepi 1º dicembre - 6 gennaio ogni giorno ore 10-17",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Museo e collezione presepi € 7,00; solo collezione presepi € 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VZgEq4KC4p0uhACdg-_sIAB8ry0=/1000x1000/museums/logos/000/189/066/original/c6594623d38999ce1a3317de29792c329f7cbc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100526",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

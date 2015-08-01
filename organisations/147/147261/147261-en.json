@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147261
+  },
+  "name": "MELVILLE ACADEMY",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8151&mlon=-72.0344#map=15/42.8151/-72.0344",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8151,
+    "longitude": -72.0344
+  },
+  "url": "http://www.jcvis.org/museum/museum.php",
+  "telephone": "+1 (603) 532-7455",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300036",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

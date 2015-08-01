@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149108
+  },
+  "name": "ADIRONDACK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9097 STATE ROUTE 30",
+    "addressLocality": "BLUE MOUNTAIN LAKE",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12812-4701"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.8473&mlon=-74.4152#map=15/43.8473/-74.4152",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8473,
+    "longitude": -74.4152
+  },
+  "url": "http://www.adkmuseum.org",
+  "telephone": "+1 (518) 352-7311",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600402",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

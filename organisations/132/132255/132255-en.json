@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132255
+  },
+  "name": "THE TECH MUSEUM OF INNOVATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 S MARKET ST",
+    "addressLocality": "SAN JOSE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95113-2008"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3314&mlon=-121.89#map=15/37.3314/-121.89",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3314,
+    "longitude": -121.89
+  },
+  "url": "http://www.thetech.org",
+  "telephone": "+1 (408) 294-8324",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602381",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

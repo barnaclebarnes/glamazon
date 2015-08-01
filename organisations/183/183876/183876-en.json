@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183876
+  },
+  "name": "Zirkelmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hugenottenplatz 8",
+    "addressLocality": "Wilhelmsdorf",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91489"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.5638&mlon=10.7372#map=15/49.5638/10.7372",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.5638,
+    "longitude": 10.7372
+  },
+  "url": "http://www.zirkelmuseum.de",
+  "telephone": "09104/8979-30",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183876",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

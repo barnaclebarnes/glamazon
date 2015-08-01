@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132404
+  },
+  "name": "MUSEUM OF RUSSIAN CULTURE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2450 SUTTER STREET",
+    "addressLocality": "SAN FRANCISCO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94115-3016"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7851&mlon=-122.441#map=15/37.7851/-122.441",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7851,
+    "longitude": -122.441
+  },
+  "url": "http://www.russiancentersf.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602530",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

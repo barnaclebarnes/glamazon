@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183729
+  },
+  "name": "Ludwig-Gebhard-Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 23",
+    "addressLocality": "Tiefenbach",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93464"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4372&mlon=12.587#map=15/49.4372/12.587",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4372,
+    "longitude": 12.587
+  },
+  "url": "http://www.tiefenbach-opf.de/gemeinde/museumlg.php",
+  "telephone": "09673/9221-0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183729",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186896
+  },
+  "name": "Museo delle armi e della tradizione armiera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XX Settembre, 31",
+    "addressLocality": "Gardone Val Trompia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6877&mlon=10.1848#map=15/45.6877/10.1848",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6877,
+    "longitude": 10.1848
+  },
+  "url": "http://www.museodellearmi.net",
+  "telephone": "+39 030 831574",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fish_OczyNAs3-TG1BEzRJ2Chis=/1000x1000/museums/logos/000/186/896/original/57fb55311d1cd92f92ad5720da2afb54693fb2e.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106930",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

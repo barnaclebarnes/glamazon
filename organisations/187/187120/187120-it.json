@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187120
+  },
+  "name": "Museo agricolo di Ronco Briantino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Dante, ?",
+    "addressLocality": "Ronco Briantino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6666&mlon=9.40409#map=15/45.6666/9.40409",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6666,
+    "longitude": 9.40409
+  },
+  "url": "http://www.comune.roncobriantino.mb.it",
+  "telephone": "+39 039 6079023",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106928",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

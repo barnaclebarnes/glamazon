@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130291
+  },
+  "name": "FRESNO BEE BUILDING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1555 VAN NESS AVE",
+    "addressLocality": "FRESNO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93721"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.7402&mlon=-119.795#map=15/36.7402/-119.795",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.7402,
+    "longitude": -119.795
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Fresno_Bee_Building",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600417",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

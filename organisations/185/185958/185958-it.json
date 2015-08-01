@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185958
+  },
+  "name": "Museo archeologico dell'antica Allifae",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza XIX Ottobre",
+    "addressLocality": "Alife",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3274&mlon=14.3336#map=15/41.3274/14.3336",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3274,
+    "longitude": 14.3336
+  },
+  "url": "http://www.archeosa.beniculturali.it",
+  "telephone": "+39 0823787005",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì alla domenica ore 8.30-19.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/MJRnHQZno5gCHpA1WKHl7xR8Pf8=/1000x1000/museums/logos/000/185/958/original/57d2f610bb8a56ce7736928462ad8eb9d99361a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20348",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

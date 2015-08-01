@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185759
+  },
+  "name": "Museo diocesano di Cassano all'Ionio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza S. Eusebio, 1",
+    "addressLocality": "Cassano all'Ionio",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7871&mlon=16.3179#map=15/39.7871/16.3179",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7871,
+    "longitude": 16.3179
+  },
+  "url": "http://www.diocesicassanoalloionio.it/altri_enti_organismi/index.htm",
+  "telephone": "+39 098177262",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101657",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

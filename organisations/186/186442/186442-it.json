@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186442
+  },
+  "name": "Museo civico demo-antropologico di Leonessa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via di San Francesco, 85",
+    "addressLocality": "Leonessa",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.563&mlon=12.9644#map=15/42.563/12.9644",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.563,
+    "longitude": 12.9644
+  },
+  "telephone": "+39 0746923212",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Venerdì e Sabato 9,00/12,00 - 15/00/18,00 Domenica 9,00/13.00; Agosto fino al 12 settembre 9,00/12,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BlH1nnnOtPZXklaEkyEvxHbOrr4=/1000x1000/museums/logos/000/186/442/original/f32ea85779bc9eb5d7352e6655d3f3b87e38f1.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101463",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

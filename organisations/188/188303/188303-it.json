@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188303
+  },
+  "name": "Museo della vita e delle tradizioni popolari sarde",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Antonio Mereu, 56",
+    "addressLocality": "Nuoro",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3171&mlon=9.33495#map=15/40.3171/9.33495",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3171,
+    "longitude": 9.33495
+  },
+  "url": "http://isresardegna.org",
+  "telephone": "+39 0784257035",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal 1 ottobre al 14 giugno 09.00-13.00 e 15.00-17.00 (compresi i festivi), chiuso il lunedì; dal 15 giugno al 30 settembre 09.00-20.00 (tutti i giorni, compresi i festivi)",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WUMuCEGbHamu8jQYKqfxMOMhspA=/1000x1000/museums/logos/000/188/303/original/e54aed2660a3df0c3f753673752a057709563eb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103377",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

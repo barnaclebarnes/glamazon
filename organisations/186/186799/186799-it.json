@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186799
+  },
+  "name": "Collezione d'arte \"Sandro Pertini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Mazzini, ",
+    "addressLocality": "Savona",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3043&mlon=8.48445#map=15/44.3043/8.48445",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3043,
+    "longitude": 8.48445
+  },
+  "url": "http://www.comune.savona.it",
+  "telephone": "+39 019-854565",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100473",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

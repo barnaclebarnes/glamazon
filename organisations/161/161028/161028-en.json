@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161028
+  },
+  "name": "MUSEUM IN A TRUNK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 25604",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23260-5604"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5596&mlon=-77.4473#map=15/37.5596/-77.4473",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5596,
+    "longitude": -77.4473
+  },
+  "telephone": "+1 (804) 788-1709",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100534",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187025
+  },
+  "name": "Museo Tazio Nuvolari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sordello, 42",
+    "addressLocality": "Mantova",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1603&mlon=10.7976#map=15/45.1603/10.7976",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1603,
+    "longitude": 10.7976
+  },
+  "url": "http://www.tazionuvolari.it",
+  "telephone": "+39 0376327929",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zHnQsqevJVyga5amjtCfQzyqBKI=/1000x1000/museums/logos/000/187/025/original/d6d04cbb3d144d3f2a411146ea0dde5d23a4d18.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103750",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

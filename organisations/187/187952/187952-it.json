@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187952
+  },
+  "name": "Palazzo Bricherasio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Lagrange, 20 angolo Via Teofilo Rossi, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0662&mlon=7.68238#map=15/45.0662/7.68238",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0662,
+    "longitude": 7.68238
+  },
+  "url": "http://www.palazzobricherasio.it",
+  "telephone": "+39 0115711888; 0115711811",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106610",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

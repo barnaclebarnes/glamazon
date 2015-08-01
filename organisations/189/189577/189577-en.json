@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189577
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Contra' Santa Corona 4, ",
+    "addressLocality": "Vicenza",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5497&mlon=11.5475#map=15/45.5497/11.5475",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5497,
+    "longitude": 11.5475
+  },
+  "telephone": "+39 0444222815",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/XxTxNIf7a6wM9vx9t9DD7OW6e5o=/1000x1000/museums/logos/000/189/577/original/f45ba456cb9b549abd5b28c7486c298453456e2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101106",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137055
+  },
+  "name": "DEPAUL ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "935 W FULLERTON AVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60614"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9254&mlon=-87.6526#map=15/41.9254/-87.6526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9254,
+    "longitude": -87.6526
+  },
+  "url": "http://museums.depaul.edu/artwebsite",
+  "telephone": "+1 (773) 325-7506",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700200",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

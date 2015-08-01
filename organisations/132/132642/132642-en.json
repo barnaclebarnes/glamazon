@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132642
+  },
+  "name": "SIMON WIESENTHAL CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1399 S ROXBURY 2ND FL",
+    "addressLocality": "LOS ANGELES",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90035-4709"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0543&mlon=-118.402#map=15/34.0543/-118.402",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0543,
+    "longitude": -118.402
+  },
+  "url": "http://www.wiesenthal.com",
+  "telephone": "+1 (310) 553-9036",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602768",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

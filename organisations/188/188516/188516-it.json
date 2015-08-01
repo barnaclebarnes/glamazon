@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188516
+  },
+  "name": "Museo Giuseppe Whitaker",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Dante, 167",
+    "addressLocality": "Marsala",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8035&mlon=12.4475#map=15/37.8035/12.4475",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8035,
+    "longitude": 12.4475
+  },
+  "telephone": "+39 0923712598",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Lun-Sab 9:00-13:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "6,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BxyJMbMikiw_C1Iwrv3OIB9gclQ=/1000x1000/museums/logos/000/188/516/original/1747a7533bcd995ca2b35c43971e489fd57dfdf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101383",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182889
+  },
+  "name": "Kunsthalle Jesuitenkirche",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfaffengasse 26",
+    "addressLocality": "Aschaffenburg",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "63739"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9754&mlon=9.14385#map=15/49.9754/9.14385",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9754,
+    "longitude": 9.14385
+  },
+  "url": "http://www.museen-aschaffenburg.de",
+  "telephone": "06021/218698",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182889",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

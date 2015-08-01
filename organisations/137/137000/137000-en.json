@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137000
+  },
+  "name": "HUME' CARNEGIE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "901 WASHINGTON ST",
+    "addressLocality": "MENDOTA",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61342"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5481&mlon=-89.1215#map=15/41.5481/-89.1215",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5481,
+    "longitude": -89.1215
+  },
+  "url": "http://www.mendotamuseums.org",
+  "telephone": "+1 (815) 539-3373",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700145",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

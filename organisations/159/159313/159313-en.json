@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159313
+  },
+  "name": "DALLAS MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1717 N HARWOOD ST",
+    "addressLocality": "DALLAS",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75201-2315"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7875&mlon=-96.7999#map=15/32.7875/-96.7999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7875,
+    "longitude": -96.7999
+  },
+  "url": "http://www.dallasmuseumofart.org",
+  "telephone": "+1 (214) 922-1200",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/DallasMuseumofArt"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/DallasMuseumArt"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801413",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

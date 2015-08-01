@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183311
+  },
+  "name": "Museum im Schmidt-Haus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oberer Markt 4",
+    "addressLocality": "Nabburg",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92507"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4537&mlon=12.1812#map=15/49.4537/12.1812",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4537,
+    "longitude": 12.1812
+  },
+  "url": "http://www.schmidt-haus.com",
+  "telephone": "09433/204639",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183311",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187405
+  },
+  "name": "Civica raccolta d’arte \"B. Biancolini\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trento, 7",
+    "addressLocality": "Potenza Picena",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3673&mlon=13.6204#map=15/43.3673/13.6204",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3673,
+    "longitude": 13.6204
+  },
+  "url": "http://www.comune.potenza-picena.mc.it/sinpv2/aspx/app/museo.aspx?idm=467&forcecss=print",
+  "telephone": "+39 0733679260",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104218",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

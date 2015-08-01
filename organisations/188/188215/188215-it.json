@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188215
+  },
+  "name": "Museo diocesano di Ugento",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via dei Cesari, ",
+    "addressLocality": "Ugento",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.929&mlon=18.1631#map=15/39.929/18.1631",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.929,
+    "longitude": 18.1631
+  },
+  "telephone": "+39 0833632282",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/nCIp3pU6JMZedRKdmsJF3rKPtVc=/1000x1000/museums/logos/000/188/215/original/c442da398cce7d91c84ca6ccebd645388e5d36.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102417",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

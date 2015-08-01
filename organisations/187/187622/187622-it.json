@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187622
+  },
+  "name": "Giardino botanico di Oropa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oropa, Piazzale Teleferica snc, ",
+    "addressLocality": "Biella",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5628&mlon=8.05827#map=15/45.5628/8.05827",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5628,
+    "longitude": 8.05827
+  },
+  "telephone": "+39 0152523058",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/i-xRL7dafP2oI9g15238oEEmzOs=/1000x1000/museums/logos/000/187/622/original/b2d2108f7b3a11501dfec02f8b673863aae3cb.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102513",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

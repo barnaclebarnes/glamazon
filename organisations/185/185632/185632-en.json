@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185632
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via De Litio, SNC",
+    "addressLocality": "Atri",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5806&mlon=13.9758#map=15/42.5806/13.9758",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5806,
+    "longitude": 13.9758
+  },
+  "telephone": "+39 0858797875",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/iBQnC_IOu86v8rU9JHzaiuvKkhQ=/1000x1000/museums/logos/000/185/632/original/9bbf8153833f5b829bd87e31adc97412eb43acc.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100086",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

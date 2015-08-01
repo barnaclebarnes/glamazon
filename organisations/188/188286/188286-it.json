@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188286
+  },
+  "name": "Museo di Santa Barbara",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santa Barbara, 2",
+    "addressLocality": "Villacidro",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.487&mlon=8.66474#map=15/39.487/8.66474",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.487,
+    "longitude": 8.66474
+  },
+  "telephone": "+39 070932018",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0NWOxaveFYUlpwoHGsguJWzywl0=/1000x1000/museums/logos/000/188/286/original/7b77938bbe4731a738312b9a9376da4b6c1ca2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103491",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

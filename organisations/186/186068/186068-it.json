@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186068
+  },
+  "name": "Fototeca \"I segni del tempo\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Mercato, 1",
+    "addressLocality": "Felitto",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3734&mlon=15.2435#map=15/40.3734/15.2435",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3734,
+    "longitude": 15.2435
+  },
+  "url": "http://www.comune.felitto.sa.it",
+  "telephone": "+39 0828945028",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CzDfKyICDrYFFKSBKzISO0nkIyA=/1000x1000/museums/logos/000/186/068/original/3656c8f4c26c74338b21c6571fe985ff9479edb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101897",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

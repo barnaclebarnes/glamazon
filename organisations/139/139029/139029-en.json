@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139029
+  },
+  "name": "HOBO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "51 MAIN AVE S",
+    "addressLocality": "BRITT",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50423"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0965&mlon=-93.8018#map=15/43.0965/-93.8018",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0965,
+    "longitude": -93.8018
+  },
+  "url": "http://www.hobo.com",
+  "telephone": "+1 (641) 843-9104",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900066",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

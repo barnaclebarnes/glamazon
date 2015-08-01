@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187902
+  },
+  "name": "MUSE' O'",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada per Frazione Tachier, ",
+    "addressLocality": "Sauze d'Oulx",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0275&mlon=6.85962#map=15/45.0275/6.85962",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0275,
+    "longitude": 6.85962
+  },
+  "url": "http://www.sauzecultura.it",
+  "telephone": "+39 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106684",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149524
+  },
+  "name": "FIRST STREET GALLERY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "526 W 26TH ST RM 209",
+    "addressLocality": "NEW YORK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10001-5518"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7504&mlon=-74.0046#map=15/40.7504/-74.0046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7504,
+    "longitude": -74.0046
+  },
+  "url": "http://firststreetgallery.net",
+  "telephone": "+1 (646) 336-8053",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600818",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

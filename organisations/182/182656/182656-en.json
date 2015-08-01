@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182656
+  },
+  "name": "Neues Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Museumsplatz 2",
+    "addressLocality": "Donauwörth",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86609"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7174&mlon=10.7787#map=15/48.7174/10.7787",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7174,
+    "longitude": 10.7787
+  },
+  "url": "http://www.donauwoerth.de/html/user_de_Museen+HeimatMuseum.html",
+  "telephone": "0906/789-170",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182656",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130447
+  },
+  "name": "BOEHM GALLERY PALOMAR COLLEGE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1140 WEST MISSION RD.",
+    "addressLocality": "SAN MARCOS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92069-1487"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.1472&mlon=-117.185#map=15/33.1472/-117.185",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.1472,
+    "longitude": -117.185
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Palomar_College",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600573",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

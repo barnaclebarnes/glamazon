@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186482
+  },
+  "name": "Museo etiope Guglielmo Massaia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cardinale Guglielmo Massaia, 26",
+    "addressLocality": "Frascati",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8041&mlon=12.6844#map=15/41.8041/12.6844",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8041,
+    "longitude": 12.6844
+  },
+  "url": "http://www.cappuccinifrascati.ofmcap.org",
+  "telephone": "+39 0694286601",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FmMpFYXnEOuDJqR4oROrdj_ia84=/1000x1000/museums/logos/000/186/482/original/140479d5079c9401d5bc5b2f773dc90521b2e62.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101493",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

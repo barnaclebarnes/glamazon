@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130731
+  },
+  "name": "NATIONAL INVENTORS HALL OF FAME AND INVENTION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "403 S CENTRAL AVE",
+    "addressLocality": "GLENDALE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91204"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.1414&mlon=-118.258#map=15/34.1414/-118.258",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1414,
+    "longitude": -118.258
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/National_Inventors_Hall_of_Fame",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600857",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187225
+  },
+  "name": "Museo botanico di Ancona",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Brecce Bianche, snc",
+    "addressLocality": "Ancona",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5705&mlon=13.4859#map=15/43.5705/13.4859",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5705,
+    "longitude": 13.4859
+  },
+  "url": "http://www.museobotanico.univpm.it",
+  "telephone": "+39 0712204642",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dalle 9,00 fino al tramonto",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104026",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139142
+  },
+  "name": "WEST DES MOINES HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 65563",
+    "addressLocality": "WDM",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "50265-0563"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5741&mlon=-93.7401#map=15/41.5741/-93.7401",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5741,
+    "longitude": -93.7401
+  },
+  "url": "http://www.wdmhistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900179",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

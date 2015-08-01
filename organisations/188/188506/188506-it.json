@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188506
+  },
+  "name": "Museo della civiltà locale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vicolo Baglio Maranzano, ",
+    "addressLocality": "Buseto Palizzolo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.027&mlon=12.7186#map=15/38.027/12.7186",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.027,
+    "longitude": 12.7186
+  },
+  "url": "http://www.comunebusetopalizzolo.it",
+  "telephone": "+39 0923852200",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/NzywaT82h9Y5RQiGU-AZ4uvVytw=/1000x1000/museums/logos/000/188/506/original/317c2be1275f11a7c87bd5d6cafb98d93d37f795.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101373",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

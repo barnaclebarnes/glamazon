@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150500
+  },
+  "name": "SAUGERTIES HISTORICAL SOCIETY INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "119 MAIN ST",
+    "addressLocality": "SAUGERTIES",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12477"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0789&mlon=-73.9492#map=15/42.0789/-73.9492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0789,
+    "longitude": -73.9492
+  },
+  "url": "http://www.welcometosaugerties.com/history",
+  "telephone": "+1 (845) 246-9529",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601794",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

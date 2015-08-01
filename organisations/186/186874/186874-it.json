@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186874
+  },
+  "name": "Museo strumenti musicali liuteria bresciana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trieste, 34",
+    "addressLocality": "Brescia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5375&mlon=10.2241#map=15/45.5375/10.2241",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5375,
+    "longitude": 10.2241
+  },
+  "telephone": "+39 0303776040",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WwgOdeyYVDyaR9BQg3FtAZsnrTE=/1000x1000/museums/logos/000/186/874/original/894912bc89b2c679d2c2a7d517954faee20fc46.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103555",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

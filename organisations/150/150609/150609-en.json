@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150609
+  },
+  "name": "WHITESBORO HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 MOSELEY ST",
+    "addressLocality": "WHITESBORO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13492-1516"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1247&mlon=-75.2945#map=15/43.1247/-75.2945",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1247,
+    "longitude": -75.2945
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601903",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

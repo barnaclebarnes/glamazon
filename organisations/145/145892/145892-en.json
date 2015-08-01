@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145892
+  },
+  "name": "SAINT LOUIS ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ONE GOVERNMENT DRIVE",
+    "addressLocality": "SAINT LOUIS",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63110"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.6367&mlon=-90.292#map=15/38.6367/-90.292",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.6367,
+    "longitude": -90.292
+  },
+  "url": "http://www.stlzoo",
+  "telephone": "+1 (314) 781-0900",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900321",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

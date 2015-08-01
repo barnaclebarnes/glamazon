@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183354
+  },
+  "name": "Stadtmuseum Neuötting",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ludwigstraße 12",
+    "addressLocality": "Neuötting",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84524"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.2414&mlon=12.6832#map=15/48.2414/12.6832",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.2414,
+    "longitude": 12.6832
+  },
+  "url": "http://www.museum.neuoetting.de",
+  "telephone": "08671/88371-13",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183354",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186085
+  },
+  "name": "Museo vichiano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Gian Battista Vico, 1",
+    "addressLocality": "Perdifumo",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.2663&mlon=15.0176#map=15/40.2663/15.0176",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.2663,
+    "longitude": 15.0176
+  },
+  "url": "http://www.fondazionegbvico.org ",
+  "telephone": "+39 0974845549",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni Mattina dalle 9.00 alle 13.00; Pomeriggio dalle 15.00 alle 20.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/U5_9A7S_OHb0_D-6VnjU0pat1ko=/1000x1000/museums/logos/000/186/085/original/8efdf83f59c99bfe85671585e5386c9fa07f4195.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103905",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

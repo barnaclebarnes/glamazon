@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137183
+  },
+  "name": "DIXON HISTORIC CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 345",
+    "addressLocality": "DIXON",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "61021-0345"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8495&mlon=-89.4845#map=15/41.8495/-89.4845",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8495,
+    "longitude": -89.4845
+  },
+  "url": "http://www.dixonhistoriccenter.org",
+  "telephone": "+1 (815) 288-5508",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700328",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

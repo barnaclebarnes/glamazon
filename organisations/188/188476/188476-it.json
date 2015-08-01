@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188476
+  },
+  "name": "Area archeologica e Antiquarium di Himera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Contrada Buonfornello",
+    "addressLocality": "Termini Imerese",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.6594&mlon=14.1046#map=15/37.6594/14.1046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.6594,
+    "longitude": 14.1046
+  },
+  "url": "http://regione.sicilia.it/beniculturali",
+  "telephone": "+39 0918140128",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Antiquarium: da lunedì a sabato dalle 9,00 alle 17,30 - Area archeologica: da lunedì a sabato dalle 9,00 alle 16,30 ; Domenica e festivi 9,00-14,00. La biglietteria chiude 30 minuti prima",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/gpOuhX1Mki4Ba8i52Sfxi5_9Upk=/1000x1000/museums/logos/000/188/476/original/6f1da722924e6c49670ce2a1c9ed647a9407142.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101331",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187289
+  },
+  "name": "Museo dell’arte ceramica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza San Tommaso, 11",
+    "addressLocality": "Ascoli Piceno",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8558&mlon=13.571#map=15/42.8558/13.571",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8558,
+    "longitude": 13.571
+  },
+  "url": "http://www.ascolimusei.it/museo-arte-ceramica.html",
+  "telephone": "+39 0736240290",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tutti i giorni dalle 10.00 alle 19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 8.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/fFKRqwjuB70eR-Hia4mqs9ETE-8=/1000x1000/museums/logos/000/187/289/original/7bba45c9ddebcaebe1f9d419ce8d781cdc11f2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105066",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

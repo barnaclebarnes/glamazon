@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155378
+  },
+  "name": "HIST",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "204 CHURCH ST",
+    "addressLocality": "PHOENIXVILLE",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19460-3414"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1328&mlon=-75.516#map=15/40.1328/-75.516",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1328,
+    "longitude": -75.516
+  },
+  "url": "http://www.hspa-pa.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200572",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

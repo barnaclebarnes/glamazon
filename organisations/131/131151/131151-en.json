@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131151
+  },
+  "name": "USS MIDWAY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "910 N HARBOR DR",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101-5811"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7145&mlon=-117.173#map=15/32.7145/-117.173",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7145,
+    "longitude": -117.173
+  },
+  "url": "http://www.midway.org",
+  "telephone": "+1 (619) 544-9600",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/ussmidwaymuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/USSMidwayMuseum"
+    }
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/USS_Midway_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601277",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

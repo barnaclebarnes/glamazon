@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161031
+  },
+  "name": "MUSEUM ONE INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7823 YORKTOWN DRIVE",
+    "addressLocality": "ALEXANDRIA",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22308"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.7446&mlon=-77.0589#map=15/38.7446/-77.0589",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.7446,
+    "longitude": -77.0589
+  },
+  "url": "http://www.museumoneinc.org",
+  "telephone": "+1 (703) 721-0321",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100537",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

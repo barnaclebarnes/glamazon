@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142754
+  },
+  "name": "BILLERICA HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 381",
+    "addressLocality": "BILLERICA",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01821-1821"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5598&mlon=-71.2713#map=15/42.5598/-71.2713",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5598,
+    "longitude": -71.2713
+  },
+  "url": "http://www.billericahistory.org",
+  "telephone": "+1 (978) 371-5529",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500384",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

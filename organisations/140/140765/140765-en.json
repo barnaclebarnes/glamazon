@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140765
+  },
+  "name": "MELROSE PLANTATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3533 HWY. 119",
+    "addressLocality": "MELROSE",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "71452"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.6385&mlon=-92.9956#map=15/31.6385/-92.9956",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.6385,
+    "longitude": -92.9956
+  },
+  "url": "http://www.melroseplantation.org",
+  "telephone": "+1 (318) 379-0055",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402200047",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

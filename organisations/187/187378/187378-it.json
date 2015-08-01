@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187378
+  },
+  "name": "Museo \"V.F. Piersanti\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Umberto I, 11",
+    "addressLocality": "Matelica",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2559&mlon=13.0082#map=15/43.2559/13.0082",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2559,
+    "longitude": 13.0082
+  },
+  "url": "http://www.comune.matelica.mc.it",
+  "telephone": "+39 073784445",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Ottobre-Marzo: sabato, domenica e festivi 10-12/15-17; Aprile-Settembre: martedì-domenica 10-12/15,30-18.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/76-GFRSFEygs2057GKsweXB346w=/1000x1000/museums/logos/000/187/378/original/7b601cdd7db5a1abccb17cdd2a867c5f171fcdc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104195",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160315
+  },
+  "name": "PITTSFIELD HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 574",
+    "addressLocality": "PITTSFIELD",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05762-0574"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.7578&mlon=-72.8243#map=15/43.7578/-72.8243",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.7578,
+    "longitude": -72.8243
+  },
+  "url": "http://pittsfieldvermont.com/historic-society.php",
+  "telephone": "+1 (802) 746-8147",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000121",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

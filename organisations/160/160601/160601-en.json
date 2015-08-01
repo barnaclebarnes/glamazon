@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160601
+  },
+  "name": "JOHN MARSHALL HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "818 E MARSHALL ST",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23219"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5418&mlon=-77.4333#map=15/37.5418/-77.4333",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5418,
+    "longitude": -77.4333
+  },
+  "url": "http://preservationvirginia.org/visit/historic-properties/the-john-marshall-house",
+  "telephone": "+1 (804) 648-7998",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100107",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

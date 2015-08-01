@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183477
+  },
+  "name": "Burgmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burg",
+    "addressLocality": "Pappenheim",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91788"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9325&mlon=10.9707#map=15/48.9325/10.9707",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9325,
+    "longitude": 10.9707
+  },
+  "url": "http://www.grafschaft-pappenheim.de/Burg-Pappenheim.34.0.html",
+  "telephone": "09143/83890",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183477",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

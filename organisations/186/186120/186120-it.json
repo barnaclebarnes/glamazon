@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186120
+  },
+  "name": "Museo europeo degli studenti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Zamboni, 33, ",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4969&mlon=11.3524#map=15/44.4969/11.3524",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4969,
+    "longitude": 11.3524
+  },
+  "url": "http://www.archiviostorico.unibo.it/museostud",
+  "telephone": "+39 051238602",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Cagv54HT4bXT29IKz0WcY-X3qE4=/1000x1000/museums/logos/000/186/120/original/4463ea90fc3924d23811894735f4dece58c8f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104948",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

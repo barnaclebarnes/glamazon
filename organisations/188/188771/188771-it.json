@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188771
+  },
+  "name": "Museo archivio Giosue' Carducci",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "G. Carducci, 1",
+    "addressLocality": "Castagneto Carducci",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1608&mlon=10.6103#map=15/43.1608/10.6103",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1608,
+    "longitude": 10.6103
+  },
+  "telephone": "+39 0565765032",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FCRESrp4dw0NvylKV5XXy-sC2w8=/1000x1000/museums/logos/000/188/771/original/daf8a59ec78e607f7794db793ebeb16a815d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103047",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

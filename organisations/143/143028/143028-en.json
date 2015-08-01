@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143028
+  },
+  "name": "ROXBURY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "183 ROXBURY STREET",
+    "addressLocality": "ROXBURY",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02119"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3302&mlon=-71.0908#map=15/42.3302/-71.0908",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3302,
+    "longitude": -71.0908
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500658",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

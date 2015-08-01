@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186773
+  },
+  "name": "Museo mineralogico permanente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guglielmo Marconi, 12",
+    "addressLocality": "Carro",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.2722&mlon=9.60853#map=15/44.2722/9.60853",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.2722,
+    "longitude": 9.60853
+  },
+  "url": "http://www.comune-di-carro.it",
+  "telephone": "+39 0187861005",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100431",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

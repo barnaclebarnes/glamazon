@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186671
+  },
+  "name": "Museo storico della CRI",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Primo Cavallieri, 14R",
+    "addressLocality": "Campomorone",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5075&mlon=8.891#map=15/44.5075/8.891",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5075,
+    "longitude": 8.891
+  },
+  "url": "http://www.cricampomorone.com",
+  "telephone": "+39 010 783694",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ekfCJ_tCNcuLGy9Q63HfaNdab7Q=/1000x1000/museums/logos/000/186/671/original/f2f7371fa87de6bceb31deb59a252022cb9b6d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100343",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

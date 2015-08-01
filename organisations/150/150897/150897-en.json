@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150897
+  },
+  "name": "TOWN OF WASHINGTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 135",
+    "addressLocality": "MILLBROOK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12545"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.7835&mlon=-73.6817#map=15/41.7835/-73.6817",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7835,
+    "longitude": -73.6817
+  },
+  "url": "http://www.village.millbrook.ny.us/historicalsociety.html",
+  "telephone": "+1 (845) 677-5083",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602191",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182650
+  },
+  "name": "Heimatmuseum \"Taverne\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tavernenstraße 4",
+    "addressLocality": "Dirlewang",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "87742"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.0012&mlon=10.5053#map=15/48.0012/10.5053",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.0012,
+    "longitude": 10.5053
+  },
+  "url": "http://www.heimatdienst-dirlewang.de",
+  "telephone": "08267/354",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182650",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

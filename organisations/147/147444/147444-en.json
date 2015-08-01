@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147444
+  },
+  "name": "GUNDALOW COMPANY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "60 MARCY ST",
+    "addressLocality": "PORTSMOUTH",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0765&mlon=-70.7523#map=15/43.0765/-70.7523",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0765,
+    "longitude": -70.7523
+  },
+  "url": "http://www.gundalow.org",
+  "telephone": "+1 (603) 433-9505",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300219",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

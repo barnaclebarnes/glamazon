@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186875
+  },
+  "name": "Tosio Martinengo Gallery",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Martinengo da Barco, 1",
+    "addressLocality": "Brescia",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5345&mlon=10.2258#map=15/45.5345/10.2258",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5345,
+    "longitude": 10.2258
+  },
+  "url": "http://www.bresciamusei.com",
+  "telephone": "+39 0303774999",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KhJr1xCdDkd8uqeVOdlBYLDhn38=/1000x1000/museums/logos/000/186/875/original/aebf7f74f1e62f17ae605feea1dc1aa02342fb6d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103556",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

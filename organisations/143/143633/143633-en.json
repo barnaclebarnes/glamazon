@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143633
+  },
+  "name": "DEARBORN HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "915 S BRADY RD",
+    "addressLocality": "DEARBORN",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "48124"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3081&mlon=-83.2404#map=15/42.3081/-83.2404",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3081,
+    "longitude": -83.2404
+  },
+  "url": "http://cityofdearborn.org",
+  "telephone": "+1 (313) 565-3000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600170",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

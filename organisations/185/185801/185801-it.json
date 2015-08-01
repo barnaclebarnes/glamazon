@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185801
+  },
+  "name": "Antiquarium di Papasidero",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Grotta del Romito , ",
+    "addressLocality": "Papasidero",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8797&mlon=15.9053#map=15/39.8797/15.9053",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8797,
+    "longitude": 15.9053
+  },
+  "telephone": "+39 98183078",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/99XLZWIqeotiQipkPddmeqqQUNc=/1000x1000/museums/logos/000/185/801/original/5a993f4e138bc4d2bdbb9f897d930caaba9a6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108446",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

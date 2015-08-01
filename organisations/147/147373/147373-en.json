@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 147373
+  },
+  "name": "DUBLIN HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 415",
+    "addressLocality": "DUBLIN",
+    "addressRegion": "NH",
+    "addressCountry": "United States",
+    "postalCode": "03444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8818&mlon=-72.0363#map=15/42.8818/-72.0363",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8818,
+    "longitude": -72.0363
+  },
+  "url": "http://www.dublinhistory.org/",
+  "telephone": "+1 (603) 563-8545",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403300148",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

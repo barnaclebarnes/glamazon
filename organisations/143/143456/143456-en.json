@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143456
+  },
+  "name": "MUSTANG HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "30 DEARBORN ST",
+    "addressLocality": "MEDFORD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02155-4315"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4141&mlon=-71.1219#map=15/42.4141/-71.1219",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4141,
+    "longitude": -71.1219
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501086",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

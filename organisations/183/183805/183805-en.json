@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183805
+  },
+  "name": "Mineralienschau",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Amselweg 10",
+    "addressLocality": "Vohenstrauß",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92648"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.621&mlon=12.3312#map=15/49.621/12.3312",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.621,
+    "longitude": 12.3312
+  },
+  "url": "http://www.vfmg-weiden.de/s_voh.htm",
+  "telephone": "09651/1413",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183805",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131008
+  },
+  "name": "PRIDE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4101 DUBLIN BLVD F202",
+    "addressLocality": "DUBLIN",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94568"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7131&mlon=-121.906#map=15/37.7131/-121.906",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7131,
+    "longitude": -121.906
+  },
+  "url": "http://www.pridemuseum.org",
+  "telephone": "+1 (408) 320-5084",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601134",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

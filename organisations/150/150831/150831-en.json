@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150831
+  },
+  "name": "HONOR FLIGHT BUFFALO INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 338",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14223-0338"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9716&mlon=-78.8499#map=15/42.9716/-78.8499",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9716,
+    "longitude": -78.8499
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602125",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

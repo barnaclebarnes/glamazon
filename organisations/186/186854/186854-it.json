@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186854
+  },
+  "name": "Museo faunistico di Vilminore",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Sabotino, 4",
+    "addressLocality": "Vilminore di Scalve",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9968&mlon=10.0928#map=15/45.9968/10.0928",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9968,
+    "longitude": 10.0928
+  },
+  "url": "http://www.scalve.it/faunistico/",
+  "telephone": "+39 0346 51317",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106814",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

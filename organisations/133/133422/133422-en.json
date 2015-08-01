@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133422
+  },
+  "name": "INVISIBLE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 48126",
+    "addressLocality": "DENVER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80204"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.7339&mlon=-105.02#map=15/39.7339/-105.02",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.7339,
+    "longitude": -105.02
+  },
+  "url": "http://invisiblemuseum.org",
+  "telephone": "+1 (720) 221-7480",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800598",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

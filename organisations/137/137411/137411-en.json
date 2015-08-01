@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137411
+  },
+  "name": "CHICAGO SYMPHONY ORCHESTRA",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.879&mlon=-87.6244#map=15/41.879/-87.6244",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.879,
+    "longitude": -87.6244
+  },
+  "url": "http://cso.org/",
+  "telephone": "+1 (312) 294-3000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700556",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

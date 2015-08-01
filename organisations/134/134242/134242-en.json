@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134242
+  },
+  "name": "SMITHSONIAN INSTITUTION, NATIONAL POSTAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 MASSACHUSETTS AVE NE",
+    "addressLocality": "WASHINGTON",
+    "addressRegion": "DC",
+    "addressCountry": "United States",
+    "postalCode": "20002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8974&mlon=-77.0087#map=15/38.8974/-77.0087",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8974,
+    "longitude": -77.0087
+  },
+  "url": "http://postalmuseum.si.edu",
+  "telephone": "+1 (202) 633-5555",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401100022",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

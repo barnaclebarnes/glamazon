@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189337
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Precetto - Via della Rocca, ",
+    "addressLocality": "Ferentillo",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6209&mlon=12.7912#map=15/42.6209/12.7912",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6209,
+    "longitude": 12.7912
+  },
+  "telephone": "+39 0744780708",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YNhvoxyGtbcTcL4mKSO0MJcRJi0=/1000x1000/museums/logos/000/189/337/original/22a2fc2c875da8f7cb61103da822b758c5d073.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100773",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

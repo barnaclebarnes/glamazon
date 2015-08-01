@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187265
+  },
+  "name": "Museo \"San Giuseppe da Copertino\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Gallo, 10",
+    "addressLocality": "Osimo",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4865&mlon=13.4838#map=15/43.4865/13.4838",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4865,
+    "longitude": 13.4838
+  },
+  "url": "http://www.sgiusecoperosimo.it",
+  "telephone": "+39 071714523",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni dalle 6.30 alle 12.30 e dalle 15.00 alle 20.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wJfp8Kc-u9E6cmzOifUr7CZ3hL0=/1000x1000/museums/logos/000/187/265/original/c0dd4e74b9f21d19eac72baa557bd6843973e5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104070",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

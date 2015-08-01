@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149999
+  },
+  "name": "MADISON COUNTY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "435 MAIN ST",
+    "addressLocality": "ONEIDA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13421-2440"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1034&mlon=-75.6599#map=15/43.1034/-75.6599",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1034,
+    "longitude": -75.6599
+  },
+  "url": "http://www.mchs19.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601293",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

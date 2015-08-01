@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189499
+  },
+  "name": "Galleria internazionale d'arte moderna di Cà Pesaro",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Santa  Croce, 2076",
+    "addressLocality": "Venezia",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4415&mlon=12.3277#map=15/45.4415/12.3277",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4415,
+    "longitude": 12.3277
+  },
+  "url": "http://capesaro.visitmuve.it/",
+  "telephone": "+39 041721127",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Pea_Zqkjo1v1dLwQMaxNy4Et3ks=/1000x1000/museums/logos/000/189/499/original/fbd3ab5068e85d8c8ed2bd4205181124912f20.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101021",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

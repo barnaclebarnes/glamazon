@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135764
+  },
+  "name": "ROBERT C. WILLIAMS PAPER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 10TH ST NW",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30318"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7815&mlon=-84.4043#map=15/33.7815/-84.4043",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7815,
+    "longitude": -84.4043
+  },
+  "url": "http://ipst.gatech.edu/amp",
+  "telephone": "+1 (404) 894-7840",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/153012484752229"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/rcwmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300035",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140298
+  },
+  "name": "KENTUCKY MUSIC HALL OF FAME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2590 RICHMOND ST",
+    "addressLocality": "RENFRO VALLEY",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40473"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3868&mlon=-84.3317#map=15/37.3868/-84.3317",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3868,
+    "longitude": -84.3317
+  },
+  "url": "http://www.kentuckymusicmuseum.com",
+  "telephone": "+1 (606) 256-1000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100054",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

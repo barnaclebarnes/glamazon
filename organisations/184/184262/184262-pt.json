@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184262
+  },
+  "name": "New Zealand Police Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:museum@police.govt.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-41.1214&mlon=174.857#map=15/-41.1214/174.857",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -41.1214,
+    "longitude": 174.857
+  },
+  "url": "http://www.police.govt.nz/museum",
+  "telephone": "04  238 3141",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Segunda-feira - domingo, 10:00-17:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Free general admission. Tours and Education Programmes."
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/pt/museums/184262",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

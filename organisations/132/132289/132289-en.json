@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132289
+  },
+  "name": "OAKLAND MUSEUM OF CALIFORNIA FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 OAK ST",
+    "addressLocality": "OAKLAND",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94607"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7989&mlon=-122.264#map=15/37.7989/-122.264",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7989,
+    "longitude": -122.264
+  },
+  "url": "http://www.museumca.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602415",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

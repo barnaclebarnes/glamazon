@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162624
+  },
+  "name": "MILWAUKEE TURNERS, INC.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1034 N. 4TH STREET",
+    "addressLocality": "MILWAUKEE",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53203"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0433&mlon=-87.9159#map=15/43.0433/-87.9159",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0433,
+    "longitude": -87.9159
+  },
+  "url": "http://milwaukeeturners.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500073",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

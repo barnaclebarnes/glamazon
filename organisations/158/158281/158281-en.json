@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158281
+  },
+  "name": "BAY AREA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5000 NASA PKWY",
+    "addressLocality": "SEABROOK",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77586"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.5658&mlon=-95.0665#map=15/29.5658/-95.0665",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.5658,
+    "longitude": -95.0665
+  },
+  "url": "http://museumbayarea.org",
+  "telephone": "+1 (281) 326-5950",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800381",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

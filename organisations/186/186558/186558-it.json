@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186558
+  },
+  "name": "Museo della Villa Doria Phampilj",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Aurelia Antica, 183",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8891&mlon=12.4451#map=15/41.8891/12.4451",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8891,
+    "longitude": 12.4451
+  },
+  "telephone": "+39 066797323",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/veMyfcJxuMZue3P057dBLH-KWEg=/1000x1000/museums/logos/000/186/558/original/e8f9de975d2f3e3cad4cca3f72c76d16afa31d64.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104391",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

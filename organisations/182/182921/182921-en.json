@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182921
+  },
+  "name": "Künstlerhaus Gasteiger",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Eduard-Thöny-Straße 43",
+    "addressLocality": "Utting",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86919"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.011&mlon=11.0983#map=15/48.011/11.0983",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.011,
+    "longitude": 11.0983
+  },
+  "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/gasteig.htm",
+  "telephone": "08806/699",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182921",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

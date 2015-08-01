@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150021
+  },
+  "name": "NIAGARA COUNTY HISTORICAL SOCIETY INCORPORATED",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "215 NIAGARA ST",
+    "addressLocality": "LOCKPORT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14094-2605"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.17&mlon=-78.7027#map=15/43.17/-78.7027",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.17,
+    "longitude": -78.7027
+  },
+  "url": "http://niagarahistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601315",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

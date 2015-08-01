@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189329
+  },
+  "name": "Cisterne romane di Foce (Amelia)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Matteotti, ",
+    "addressLocality": "Amelia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5588&mlon=12.412#map=15/42.5588/12.412",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5588,
+    "longitude": 12.412
+  },
+  "url": "http://www.ameliasotterranea.it",
+  "telephone": "+39 0744978436",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-OyFUtBK9JmeBBDo0zZ7NKdxSFM=/1000x1000/museums/logos/000/189/329/original/71e48f4f3654196044a829e74e52b342983e1684.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100768",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

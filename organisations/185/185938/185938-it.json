@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185938
+  },
+  "name": "Museo comunale di Villanova del Battista",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Fornace snc, ",
+    "addressLocality": "Villanova del Battista",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1144&mlon=15.1584#map=15/41.1144/15.1584",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1144,
+    "longitude": 15.1584
+  },
+  "telephone": "+39 0825 826015",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Lu2KxMvBN_2Zt0S5NrhG1Vw8Szs=/1000x1000/museums/logos/000/185/938/original/ced7f12c68857e65a7f4535e6cd5a9168778c2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107070",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

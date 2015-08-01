@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150303
+  },
+  "name": "ROTHSCHILD-PETERSEN PATENT MODEL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2796 WEST LAKE RD",
+    "addressLocality": "CAZENOVIA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13035"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.9552&mlon=-75.8822#map=15/42.9552/-75.8822",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.9552,
+    "longitude": -75.8822
+  },
+  "url": "http://www.patentmodel.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601597",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

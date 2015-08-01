@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183235
+  },
+  "name": "Geologisches Museum München",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Luisenstraße 37",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1476&mlon=11.5645#map=15/48.1476/11.5645",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1476,
+    "longitude": 11.5645
+  },
+  "url": "http://www.palmuc.de/bspg",
+  "telephone": "089/21806566",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183235",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

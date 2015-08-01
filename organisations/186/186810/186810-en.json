@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186810
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Oprando Abate, 5",
+    "addressLocality": "Albino",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7583&mlon=9.79685#map=15/45.7583/9.79685",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7583,
+    "longitude": 9.79685
+  },
+  "url": "http://www.valledellujo.it",
+  "telephone": "+39 035 770727",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LSa5BCW1bRuhHEvhtLLq8eZOZfc=/1000x1000/museums/logos/000/186/810/original/e81d374c68ca63e4f58b9e9b42e4027ddebdc6b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106897",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

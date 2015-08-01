@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140503
+  },
+  "name": "HARRODSBURG HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "220 S CHILES ST BOX 316",
+    "addressLocality": "HARRODSBURG",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40330-1631"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.7611&mlon=-84.8446#map=15/37.7611/-84.8446",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7611,
+    "longitude": -84.8446
+  },
+  "url": "http://harrodsburghistorical.net",
+  "telephone": "+1 (859) 734-5985",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100260",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

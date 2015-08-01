@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186714
+  },
+  "name": "Torre del borgo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via XX Settembre, ",
+    "addressLocality": "Lavagna",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3086&mlon=9.3444#map=15/44.3086/9.3444",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3086,
+    "longitude": 9.3444
+  },
+  "url": "http://www.comune.lavagna.ge.it",
+  "telephone": "+39 018 53671",
+  "contactPoint": [
+
+  ],
+  "openingHours": "estivo dal giovedì al sabato, con orario dalle 20.30 alle 22.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9I4L3pNRdur7fWrgsyDmIzqMAD8=/1000x1000/museums/logos/000/186/714/original/acd322a41e7f737380717f9d8877226aad5a628.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100391",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

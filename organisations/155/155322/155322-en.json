@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155322
+  },
+  "name": "ARBORETUM VILLANOVA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "VILLANOVA UNIVERSITY",
+    "addressLocality": "VILLANOVA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19085"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.0387&mlon=-75.3492#map=15/40.0387/-75.3492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.0387,
+    "longitude": -75.3492
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200516",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

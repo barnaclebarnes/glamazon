@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155459
+  },
+  "name": "JAMES A MICHENER ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "138 S PINE ST",
+    "addressLocality": "DOYLESTOWN",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "18901-4931"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3077&mlon=-75.1264#map=15/40.3077/-75.1264",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3077,
+    "longitude": -75.1264
+  },
+  "url": "http://www.michenerartmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200653",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187607
+  },
+  "name": "Castello di Monastero Bormida",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Castello, 1, ",
+    "addressLocality": "Monastero Bormida",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.6481&mlon=8.32488#map=15/44.6481/8.32488",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.6481,
+    "longitude": 8.32488
+  },
+  "url": "http://www.comunemonastero.at.it",
+  "telephone": "+39 0144 88012",
+  "contactPoint": [
+
+  ],
+  "openingHours": "16 e 23 giugno, 7 e 21 luglio, 18 agosto, 1 e 22 settembre, 6 ottobre",
+  "offers": {
+    "@Type": "Offer",
+    "description": "2,50€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8uUqx9Y0OYzniQnDhsjFLuoA5J0=/1000x1000/museums/logos/000/187/607/original/54356d2d6c20cff30db5fa93368a34cb7eab3aa.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102501",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

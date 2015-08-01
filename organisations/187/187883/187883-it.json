@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187883
+  },
+  "name": "Museo di Rodoretto",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Villa di Rodoretto, ",
+    "addressLocality": "Prali",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9192&mlon=7.05217#map=15/44.9192/7.05217",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9192,
+    "longitude": 7.05217
+  },
+  "url": "http://www.fondazionevaldese.org",
+  "telephone": "+39 01212591508",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102733",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

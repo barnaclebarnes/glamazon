@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160960
+  },
+  "name": "HAYDEN GROUP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1140",
+    "addressLocality": "FRANKLIN",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23851-2226"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.6662&mlon=-76.9329#map=15/36.6662/-76.9329",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.6662,
+    "longitude": -76.9329
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100466",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

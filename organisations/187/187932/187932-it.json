@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187932
+  },
+  "name": "Museo di antichità",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via 20 Settembre , 88",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0749&mlon=7.6857#map=15/45.0749/7.6857",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0749,
+    "longitude": 7.6857
+  },
+  "url": "http://museoarcheologico.piemonte.beniculturali.it",
+  "telephone": "+39 0115212251 - 0115211106",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì alla domenica dalle ore 80,30 alle 19,30. Lunedì chiuso",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00 euro"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/5OaHntPmmq9RW8CcNd8dY5W8PqE=/1000x1000/museums/logos/000/187/932/original/ca1b9f1878b1c858bd2989d80a8b8872bea49ff.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20768",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

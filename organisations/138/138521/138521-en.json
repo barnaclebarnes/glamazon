@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138521
+  },
+  "name": "CONNER PRAIRIE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "13400 ALLISONVILLE RD",
+    "addressLocality": "FISHERS",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "46038-3457"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9706&mlon=-86.0354#map=15/39.9706/-86.0354",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9706,
+    "longitude": -86.0354
+  },
+  "url": "http://www.connerprairie.org",
+  "telephone": "+1 (317) 776-6000",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/connerprairie"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ConnerPrairie"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800307",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

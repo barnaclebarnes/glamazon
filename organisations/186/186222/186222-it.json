@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186222
+  },
+  "name": "Museo del territorio di Riccione",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Lazio, 10, ",
+    "addressLocality": "Riccione",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.9946&mlon=12.6528#map=15/43.9946/12.6528",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.9946,
+    "longitude": 12.6528
+  },
+  "telephone": "+39 0541600113",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2BuFQm0L8gnlAH5pCf28EK7Mk8Q=/1000x1000/museums/logos/000/186/222/original/b98b639ea294eba95351b24ff6cc2062d8e9c4.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102283",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

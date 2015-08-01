@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187740
+  },
+  "name": "Museo storico etnografico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 25, ",
+    "addressLocality": "Sampeyre",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5792&mlon=7.18944#map=15/44.5792/7.18944",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5792,
+    "longitude": 7.18944
+  },
+  "url": "http://www.etnomuseosampeyre.it",
+  "telephone": "+39 0175970022",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102623",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

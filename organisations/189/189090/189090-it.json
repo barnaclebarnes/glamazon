@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189090
+  },
+  "name": "Museo della donna Evelyn Ortner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Portici, 68",
+    "addressLocality": "Merano/Meran",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.6712&mlon=11.1634#map=15/46.6712/11.1634",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.6712,
+    "longitude": 11.1634
+  },
+  "url": "http://www.museia.org",
+  "telephone": "+39 0473231216",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aperto tutto l’anno, da lunedì a venerdì, dalle ore 10.00 alle ore 17.00, sabato dalle ore 10.00 alle ore 12.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 4,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jMQ1nd7KyOmm38QX0W6m6Am-E1w=/1000x1000/museums/logos/000/189/090/original/c0379b30d2edb0546bcaede86669372e1e1a08c.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100548",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

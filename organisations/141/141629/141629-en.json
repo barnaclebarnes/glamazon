@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141629
+  },
+  "name": "MAINE ART MUSEUM TRAIL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 5084",
+    "addressLocality": "PORTLAND",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6597&mlon=-70.2601#map=15/43.6597/-70.2601",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6597,
+    "longitude": -70.2601
+  },
+  "url": "http://www.maineartmuseums.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300478",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

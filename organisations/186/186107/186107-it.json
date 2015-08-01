@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186107
+  },
+  "name": "Museo archeologico nazionale della Valle del Sarno",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cavour (Palazzo Capua),  7",
+    "addressLocality": "Sarno",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8119&mlon=14.6227#map=15/40.8119/14.6227",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8119,
+    "longitude": 14.6227
+  },
+  "url": "http://www.archeosa.beniculturali.it",
+  "telephone": "+39 081 941451",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9.00-19.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VSzLuvc0o5aTgC2OmgJYhXBrYqI=/1000x1000/museums/logos/000/186/107/original/fef13484d91b66788f257a9c2aa57fbfcd91.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105095",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189065
+  },
+  "name": "Museo della Torre Bianca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Parrocchia",
+    "addressLocality": "Bressanone/Brixen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.7165&mlon=11.6576#map=15/46.7165/11.6576",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.7165,
+    "longitude": 11.6576
+  },
+  "url": "http://www.musei-altoadige.it",
+  "telephone": "+39 +39 0472 836333",
+  "contactPoint": [
+
+  ],
+  "openingHours": "23/3-6/1: sab ore 10.30 giu-sett: anche gio ore 21 aperto tutto l'anno su prenotazione",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4.00 €"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/mMvddGbc3s7sl0o_uLnEwXXi_fo=/1000x1000/museums/logos/000/189/065/original/cea408226b36ff348a83396d6e2fef71b481.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111886",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

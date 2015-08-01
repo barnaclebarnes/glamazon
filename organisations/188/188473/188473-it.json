@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188473
+  },
+  "name": "Museo civico jetino",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 318",
+    "addressLocality": "San Cipirello",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9624&mlon=13.1755#map=15/37.9624/13.1755",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9624,
+    "longitude": 13.1755
+  },
+  "url": "http://www.comune.sancipirello.pa.it",
+  "telephone": "+39 091 8573083",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 9,00-13,00; martedì, giovedì e sabato anche di pomeriggio 16,00-20,00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101327",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

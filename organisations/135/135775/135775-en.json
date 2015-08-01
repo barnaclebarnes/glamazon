@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135775
+  },
+  "name": "MICHAEL C. CARLOS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "EMORY UNIVERSITY, 571 S KILGO CIRCLE",
+    "addressLocality": "ATLANTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30322"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7925&mlon=-84.321#map=15/33.7925/-84.321",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7925,
+    "longitude": -84.321
+  },
+  "telephone": "+1 (404) 727-4282",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/CarlosMuseum"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/carlosmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300046",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186792
+  },
+  "name": "Museo del Centro studi Anton Giulio Barrili",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Barrili, 12",
+    "addressLocality": "Carcare",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3573&mlon=8.28681#map=15/44.3573/8.28681",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3573,
+    "longitude": 8.28681
+  },
+  "telephone": "+39 019518729",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/zkgMsrcdnzwZ5eHO99Ko7JfM4JY=/1000x1000/museums/logos/000/186/792/original/d3fde8bcad5e5790cbafcb31bf3c3f44ac884.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105446",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

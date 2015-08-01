@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149020
+  },
+  "name": "FORSYTH PARK ZOO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "467 BROADWAY",
+    "addressLocality": "KINGSTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12401"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9274&mlon=-73.9988#map=15/41.9274/-73.9988",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9274,
+    "longitude": -73.9988
+  },
+  "url": "http://www.forsythnaturecenter.org/",
+  "telephone": "+1 (845) 339-3053",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600314",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

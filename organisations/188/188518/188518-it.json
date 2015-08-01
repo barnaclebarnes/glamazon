@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188518
+  },
+  "name": "Museo preistorico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nunzio Agate, 46",
+    "addressLocality": "Paceco",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.9816&mlon=12.5618#map=15/37.9816/12.5618",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.9816,
+    "longitude": 12.5618
+  },
+  "telephone": "+39 0923881991",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni 9.30 -13.00 e 16.30 -19.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ifGKi1sGiXPB0oxNDl2GMxcS7h0=/1000x1000/museums/logos/000/188/518/original/1f24d78eb7e479095146c9ab4121ebe26bc19f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101387",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

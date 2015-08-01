@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183766
+  },
+  "name": "Druckereimuseum des Traunsteiner Tagblatts",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marienstraße 12",
+    "addressLocality": "Traunstein",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "83278"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.8687&mlon=12.6443#map=15/47.8687/12.6443",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.8687,
+    "longitude": 12.6443
+  },
+  "url": "http://www.traunsteiner-tagblatt.de/index.php?Rubrik=Druckereimuseum&ASeite=main.php",
+  "telephone": "0861/98770",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183766",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

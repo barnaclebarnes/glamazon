@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188719
+  },
+  "name": "Centro visite del parco faunistico",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "del Castello, ",
+    "addressLocality": "Arcidosso",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8721&mlon=11.5357#map=15/42.8721/11.5357",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8721,
+    "longitude": 11.5357
+  },
+  "url": "http://www.sistemamusealeamiata.it",
+  "telephone": "+39 0564969602",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/wZaOhN8TYToHAMznbh-V1M61mew=/1000x1000/museums/logos/000/188/719/original/188f5dc55bbfb813a10b152d7d3b614b5979584.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102995",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

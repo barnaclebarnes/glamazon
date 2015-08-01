@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190213
+  },
+  "name": "RYDER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "20510 184TH STREET SW",
+    "addressLocality": "RYDER",
+    "addressRegion": "ND",
+    "addressCountry": "United States",
+    "postalCode": "58779"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.8781&mlon=-96.7899#map=15/46.8781/-96.7899",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.8781,
+    "longitude": -96.7899
+  },
+  "url": "http://ryderhistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403800269",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

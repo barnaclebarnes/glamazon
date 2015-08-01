@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187426
+  },
+  "name": "Museo della civiltà contadina dell’Abbazia di Santa Maria di Chiaravalle di Fiastra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "contrada abbadia di fiasta(stada statale 78), 2",
+    "addressLocality": "Tolentino",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.2136&mlon=13.2911#map=15/43.2136/13.2911",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2136,
+    "longitude": 13.2911
+  },
+  "url": "http://www.abbadiafiastra.net",
+  "telephone": "+39 0733202122",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Periodi Estivi: 10.00-13.00/ 15.30-18.30 Periodi Invernali (sabato e Domenica)10.00-13.00/ 15-18",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2Z3GDl3KZ2374jraNCZVIauceaM=/1000x1000/museums/logos/000/187/426/original/44b7e74752df4a51337879cbb937d37a163cdd6.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104245",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

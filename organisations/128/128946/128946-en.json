@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128946
+  },
+  "name": "KNIK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "KNIK RD",
+    "addressLocality": "WASILLA",
+    "addressRegion": "AK",
+    "addressCountry": "United States",
+    "postalCode": "99654"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=61.5547&mlon=-149.5#map=15/61.5547/-149.5",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 61.5547,
+    "longitude": -149.5
+  },
+  "telephone": "+1 (907) 376-7755",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400200017",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

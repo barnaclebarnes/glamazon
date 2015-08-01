@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150307
+  },
+  "name": "EDWARDS HISTORICAL ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "61 MAPLE AVE",
+    "addressLocality": "EDWARDS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13635-3169"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3219&mlon=-75.2468#map=15/44.3219/-75.2468",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3219,
+    "longitude": -75.2468
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601601",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

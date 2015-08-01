@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189488
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Rastrello, ",
+    "addressLocality": "Portogruaro",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7736&mlon=12.8382#map=15/45.7736/12.8382",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7736,
+    "longitude": 12.8382
+  },
+  "url": "http://www.comune.portogruaro.ve.it",
+  "telephone": "+39 042172553",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/daqLlYF7lJwFWVu0aXwj96gpwLw=/1000x1000/museums/logos/000/189/488/original/5df33e53722ecf411aac3fb626b51c1867e1f3.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101012",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

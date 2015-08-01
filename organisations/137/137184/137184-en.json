@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137184
+  },
+  "name": "CHICAGO TEEN MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1523 N CALIFORNIA AVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60622-1601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9091&mlon=-87.697#map=15/41.9091/-87.697",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9091,
+    "longitude": -87.697
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700329",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

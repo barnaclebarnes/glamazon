@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183055
+  },
+  "name": "Kirchenmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 35",
+    "addressLocality": "Kößlarn",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94149"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3717&mlon=13.1219#map=15/48.3717/13.1219",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3717,
+    "longitude": 13.1219
+  },
+  "url": "http://www.kirchenmuseum-koesslarn.de",
+  "telephone": "08536/1559",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183055",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

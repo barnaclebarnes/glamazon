@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135822
+  },
+  "name": "FORT DISCOVERY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 7TH ST",
+    "addressLocality": "AUGUSTA",
+    "addressRegion": "GA",
+    "addressCountry": "United States",
+    "postalCode": "30901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4765&mlon=-81.9623#map=15/33.4765/-81.9623",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4765,
+    "longitude": -81.9623
+  },
+  "url": "http://www.nscdiscovery.org",
+  "telephone": "+1 (706) 821-0600",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401300093",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

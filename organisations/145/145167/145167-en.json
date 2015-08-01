@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145167
+  },
+  "name": "OAKSHOTT INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5136 NICOLLET AVE",
+    "addressLocality": "MINNEAPOLIS",
+    "addressRegion": "MN",
+    "addressCountry": "United States",
+    "postalCode": "55419-2616"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.9889&mlon=-93.232#map=15/44.9889/-93.232",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9889,
+    "longitude": -93.232
+  },
+  "url": "http://oakeshott.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402700607",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

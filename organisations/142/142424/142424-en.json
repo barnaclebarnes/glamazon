@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142424
+  },
+  "name": "PAUL REVERE HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "19 N ST",
+    "addressLocality": "BOSTON",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02127"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3374&mlon=-71.0314#map=15/42.3374/-71.0314",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3374,
+    "longitude": -71.0314
+  },
+  "telephone": "+1 (617) 523-1676",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500054",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146601
+  },
+  "name": "MISSOULA ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "335 N PATTEE ST",
+    "addressLocality": "MISSOULA",
+    "addressRegion": "MT",
+    "addressCountry": "United States",
+    "postalCode": "59802-4520"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.8725&mlon=-113.992#map=15/46.8725/-113.992",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.8725,
+    "longitude": -113.992
+  },
+  "url": "http://www.missoulaartmuseum.org",
+  "telephone": "+1 (406) 723-0447",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/missoulaartmuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403000244",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

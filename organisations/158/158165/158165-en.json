@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158165
+  },
+  "name": "FORT BEND MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 HOUSTON ST",
+    "addressLocality": "RICHMOND",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77469"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.5802&mlon=-95.762#map=15/29.5802/-95.762",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.5802,
+    "longitude": -95.762
+  },
+  "url": "http://www.fortbendmuseum.org",
+  "telephone": "+1 (281) 342-6478",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800265",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

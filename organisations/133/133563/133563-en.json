@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133563
+  },
+  "name": "MATTATUCK MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "144 WEST MAIN STREET",
+    "addressLocality": "WATERBURY",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06702-1298"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.5571&mlon=-73.0432#map=15/41.5571/-73.0432",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.5571,
+    "longitude": -73.0432
+  },
+  "telephone": "+1 (203) 753-0381",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900038",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

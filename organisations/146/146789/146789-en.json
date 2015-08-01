@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146789
+  },
+  "name": "HERITAGE NEBRASKA",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8081&mlon=-96.7122#map=15/40.8081/-96.7122",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8081,
+    "longitude": -96.7122
+  },
+  "url": "http://www.heritagenebraska.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100128",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

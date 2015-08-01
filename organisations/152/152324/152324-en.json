@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152324
+  },
+  "name": "MANSFIELD ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "700 MARION AVE",
+    "addressLocality": "MANSFIELD",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "44906"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7459&mlon=-82.5412#map=15/40.7459/-82.5412",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7459,
+    "longitude": -82.5412
+  },
+  "url": "http://mansfieldartcenter.org",
+  "telephone": "+1 (419) 756-1700",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900101",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

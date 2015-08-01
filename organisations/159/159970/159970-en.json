@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159970
+  },
+  "name": "MUSEUM OF MOAB",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "118 E CENTER ST",
+    "addressLocality": "MOAB",
+    "addressRegion": "UT",
+    "addressCountry": "United States",
+    "postalCode": "84532"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5733&mlon=-109.548#map=15/38.5733/-109.548",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5733,
+    "longitude": -109.548
+  },
+  "url": "http://www.moabmuseum.org",
+  "telephone": "+1 (435) 259-7985",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404900036",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157929
+  },
+  "name": "TEXAS MEMORIAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2400 TRINITY ST",
+    "addressLocality": "AUSTIN",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78712"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.287&mlon=-97.7319#map=15/30.287/-97.7319",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.287,
+    "longitude": -97.7319
+  },
+  "url": "http://www.utexas.edu/tmm",
+  "telephone": "+1 (512) 471-1604",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/109934214971"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800029",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183964
+  },
+  "name": "Gärtner- und Häckermuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mittelstraße 34",
+    "addressLocality": "Bamberg",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96052"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.8994&mlon=10.8928#map=15/49.8994/10.8928",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.8994,
+    "longitude": 10.8928
+  },
+  "url": "http://www.ghm-bamberg.de",
+  "telephone": "0951/51938506",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183964",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

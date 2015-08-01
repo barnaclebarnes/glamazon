@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189434
+  },
+  "name": "Museo della centuriazione romana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Europa, 12",
+    "addressLocality": "Borgoricco",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5336&mlon=11.9687#map=15/45.5336/11.9687",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5336,
+    "longitude": 11.9687
+  },
+  "url": "http://www.comune.borgoricco.pd.it",
+  "telephone": "+39 0499337930",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QxpefAl1UIgOdRF2TgJK0QRp0UQ=/1000x1000/museums/logos/000/189/434/original/55fde4ccc72563e61eefd8ee9ec82e6cff54cb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100898",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

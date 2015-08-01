@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186429
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Piemonte, 35",
+    "addressLocality": "Sezze",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4952&mlon=13.0446#map=15/41.4952/13.0446",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4952,
+    "longitude": 13.0446
+  },
+  "telephone": "+39 0773876154",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8dIWcWih77WYif3vHHOeW5TyV2w=/1000x1000/museums/logos/000/186/429/original/6cdd5c7736e6c93bf568de84f96b209860546137.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101453",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

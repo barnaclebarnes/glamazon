@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186307
+  },
+  "name": "Museo cristiano e Tesoro del Duomo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Condotti, 1",
+    "addressLocality": "Cividale del Friuli",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.0928&mlon=13.4316#map=15/46.0928/13.4316",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.0928,
+    "longitude": 13.4316
+  },
+  "url": "http://www.webdiocesi.chiesacattolica.it",
+  "telephone": "+39 0432730403",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal mercoledì alla domenica dalla 10.00 alle 13.00 e dalle 15.00 alle 18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ZqyA1MO7K6j7hJKcCcrH-tkSWAw=/1000x1000/museums/logos/000/186/307/original/6ad9d338273237f3a1d3da123856348957585cc7.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105438",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159202
+  },
+  "name": "FALLS ON THE COLORADO MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1333",
+    "addressLocality": "MARBLE FALLS",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78654-1333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.5826&mlon=-98.2866#map=15/30.5826/-98.2866",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.5826,
+    "longitude": -98.2866
+  },
+  "url": "http://www.fallsmuseum.org/",
+  "telephone": "+1 (830) 798-2157",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801302",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

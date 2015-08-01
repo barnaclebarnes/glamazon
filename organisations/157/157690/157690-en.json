@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 157690
+  },
+  "name": "HOUSTON MUSEUM OF DECORATIVE ARTS",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 HIGH ST",
+    "addressLocality": "CHATTANOOGA",
+    "addressRegion": "TN",
+    "addressCountry": "United States",
+    "postalCode": "37403-1123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.0548&mlon=-85.3056#map=15/35.0548/-85.3056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.0548,
+    "longitude": -85.3056
+  },
+  "url": "http://www.thehoustonmuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404700361",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

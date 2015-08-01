@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132566
+  },
+  "name": "LEMON GROVE HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 624",
+    "addressLocality": "LEMON GROVE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91946"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.743&mlon=-117.026#map=15/32.743/-117.026",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.743,
+    "longitude": -117.026
+  },
+  "url": "http://www.lemongrovehistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602692",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

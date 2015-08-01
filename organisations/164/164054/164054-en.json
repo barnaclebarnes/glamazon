@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164054
+  },
+  "name": "Maroondah Art Gallery",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8196&mlon=145.23#map=15/-37.8196/145.23",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8196,
+    "longitude": 145.23
+  },
+  "url": "http://www.maroondah.vic.gov.au/ArtGallery.aspx",
+  "telephone": " 03 9298 4545",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Tuesday to Friday 10am - 4pm\r\nSaturday 12pm - 4pm\r\nClosed public holidays",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "maroondah-art-gallery",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/maroondah-art-gallery",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

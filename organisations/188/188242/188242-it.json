@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188242
+  },
+  "name": "Museo del tesoro e Area archeologica di Sant'Eulalia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vico Collegio, 2",
+    "addressLocality": "Cagliari",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.2147&mlon=9.11475#map=15/39.2147/9.11475",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.2147,
+    "longitude": 9.11475
+  },
+  "url": "http://web.tiscali.it/mutseu",
+  "telephone": "+39 0706 63724",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10.00-13.00 e 17.00-20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "4,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tFEHNSyQLOkUvD20aE3JVbCZlcQ=/1000x1000/museums/logos/000/188/242/original/5aa6b5ddd4a518a73ba118a8b082ed31de6e8df.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103301",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

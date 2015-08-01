@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134609
+  },
+  "name": "FLORIDA MUSEUM OF NATURAL HISTORY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "UF CULTURAL PLZ",
+    "addressLocality": "GAINESVILLE",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32611"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.642&mlon=-82.3505#map=15/29.642/-82.3505",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.642,
+    "longitude": -82.3505
+  },
+  "url": "http://www.flmnh.ufl.edu",
+  "telephone": "+1 (352) 846-2000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200163",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

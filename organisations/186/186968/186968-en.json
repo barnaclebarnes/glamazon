@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186968
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castelleone, 51",
+    "addressLocality": "Cremona",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1518&mlon=9.99807#map=15/45.1518/9.99807",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1518,
+    "longitude": 9.99807
+  },
+  "url": "http://musei.cremona.it",
+  "telephone": "+39 0372560025",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/al9TsdZ-feph1g1PXPvmfAfHJ9U=/1000x1000/museums/logos/000/186/968/original/9e48a11cca933f9ee63b1213fb7b5992a513829.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103633",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

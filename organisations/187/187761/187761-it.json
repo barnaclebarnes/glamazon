@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187761
+  },
+  "name": "Badia di Dulzago",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Frazione Badia di Dulzago, ",
+    "addressLocality": "Bellinzago Novarese",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5498&mlon=8.61329#map=15/45.5498/8.61329",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5498,
+    "longitude": 8.61329
+  },
+  "url": "http://www.badiadidulzago.it",
+  "telephone": "+39 0321 985469",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/rba48wZLD5O7AEsCdS6BZIp2LEs=/1000x1000/museums/logos/000/187/761/original/2898d2b7a166f68929c085dac75dfc696ba6c627.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106742",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

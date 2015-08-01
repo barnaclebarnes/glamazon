@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185753
+  },
+  "name": "Biblioteca Museo Alessandro Longo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo Vittorio Emanuele , 7",
+    "addressLocality": "Amantea",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1345&mlon=16.077#map=15/39.1345/16.077",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1345,
+    "longitude": 16.077
+  },
+  "telephone": "+39 098242186",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/TPbkr8w9wzKvE4gC46TtAPJBcjI=/1000x1000/museums/logos/000/185/753/original/38c9a1567b2028a6644b1a60265131521b8c19c5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108370",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

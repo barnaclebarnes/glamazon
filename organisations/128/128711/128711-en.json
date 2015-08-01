@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 128711
+  },
+  "name": "BIRMINGHAM ZOO INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2630 CAHABA RD",
+    "addressLocality": "MOUNTAIN BRK",
+    "addressRegion": "AL",
+    "addressCountry": "United States",
+    "postalCode": "35223-1106"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.4899&mlon=-86.7773#map=15/33.4899/-86.7773",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.4899,
+    "longitude": -86.7773
+  },
+  "url": "http://www.birminghamzoo.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400100241",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

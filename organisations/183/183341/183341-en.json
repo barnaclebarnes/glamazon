@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183341
+  },
+  "name": "Schulmuseum Neumarkt-Sankt Veit",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Johannesstraße 9",
+    "addressLocality": "Neumarkt-Sankt Veit",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84494"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3605&mlon=12.511#map=15/48.3605/12.511",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3605,
+    "longitude": 12.511
+  },
+  "url": "http://www.neumarkt-sankt-veit.de/index.php?id=127,38",
+  "telephone": "08639/98880",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183341",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

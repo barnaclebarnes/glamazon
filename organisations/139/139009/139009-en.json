@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139009
+  },
+  "name": "MID AMERICA AIR MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "514 NEBRASKA ST",
+    "addressLocality": "SIOUX CITY",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "51101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4955&mlon=-96.4035#map=15/42.4955/-96.4035",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4955,
+    "longitude": -96.4035
+  },
+  "url": "http://www.midamericaairmuseum.com",
+  "telephone": "+1 (712) 252-5300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900046",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

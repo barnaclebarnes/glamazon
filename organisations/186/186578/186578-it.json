@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186578
+  },
+  "name": "Museo francescano Istituto storico dei Cappuccini",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Circonvallazione Occidentale, 6850",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8545&mlon=12.3774#map=15/41.8545/12.3774",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8545,
+    "longitude": 12.3774
+  },
+  "url": "http://www.istcap.org",
+  "telephone": "+39 06 66052513",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/qds9hUpFfLl863DEOZbXJUYzfqU=/1000x1000/museums/logos/000/186/578/original/1fe83eea18eca69546fcdf350c879d07dc83b66.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101578",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

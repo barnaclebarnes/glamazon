@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189130
+  },
+  "name": "Museo civico di Vipiteno e museo Multscher",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Della Commenda, 11",
+    "addressLocality": "Vipiteno/Sterzing",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.896&mlon=11.4397#map=15/46.896/11.4397",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.896,
+    "longitude": 11.4397
+  },
+  "url": "http://www.musei-altoadige.it/it/musei.asp?muspo_id=612",
+  "telephone": "+39 0472766464",
+  "contactPoint": [
+
+  ],
+  "openingHours": "aprile - ottobre mar-sab ore 10-13, ore 13.30-17",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2,50 adulti, gruppi con visita guidata"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/O74PTYbKg7Q_fipAdIvA3xTGQHU=/1000x1000/museums/logos/000/189/130/original/38ea2cf5665b76c38b967c0b35998f9206cedb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100581",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

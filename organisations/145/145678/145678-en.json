@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145678
+  },
+  "name": "ANHEUSER HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6000 WINDSOR HARBOR LN",
+    "addressLocality": "IMPERIAL",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "63052"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.3611&mlon=-90.3614#map=15/38.3611/-90.3614",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.3611,
+    "longitude": -90.3614
+  },
+  "telephone": "+1 (636) 464-5310",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900107",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

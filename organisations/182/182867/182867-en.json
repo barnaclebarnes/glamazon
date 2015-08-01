@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182867
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorfstraße 20",
+    "addressLocality": "Hergensweiler",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "88138"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.6105&mlon=9.77772#map=15/47.6105/9.77772",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.6105,
+    "longitude": 9.77772
+  },
+  "url": "http://www.hergensweiler.de/gemeinde/heimatmuseum.html",
+  "telephone": "08388/217",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182867",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

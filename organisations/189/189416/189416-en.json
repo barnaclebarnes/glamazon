@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189416
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via IV Ottobre, ",
+    "addressLocality": "Castellavazzo",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.287&mlon=12.3064#map=15/46.287/12.3064",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.287,
+    "longitude": 12.3064
+  },
+  "url": "http://www.pietraescalpellini.it",
+  "telephone": "+39 0437770254",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/_tOpbPK7n-j4uJerzQXJIegtmMk=/1000x1000/museums/logos/000/189/416/original/105cd42bc38d2e1b1815c2c6929ad6fd11041.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106794",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

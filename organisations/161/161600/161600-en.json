@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161600
+  },
+  "name": "RIVERSIDE STATE PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9711 W CHARLES RD",
+    "addressLocality": "NINE MILE FALLS",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "99026"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7769&mlon=-117.547#map=15/47.7769/-117.547",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7769,
+    "longitude": -117.547
+  },
+  "url": "http://www.riversidestatepark.org",
+  "telephone": "+1 (509) 465-5064",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300049",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

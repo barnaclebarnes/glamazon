@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 141336
+  },
+  "name": "STANLEY MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 77",
+    "addressLocality": "KINGFIELD",
+    "addressRegion": "ME",
+    "addressCountry": "United States",
+    "postalCode": "04947-0077"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0171&mlon=-70.1733#map=15/45.0171/-70.1733",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0171,
+    "longitude": -70.1733
+  },
+  "url": "http://www.stanleymuseum.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402300185",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

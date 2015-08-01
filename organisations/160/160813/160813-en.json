@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160813
+  },
+  "name": "ARLINGTON ARTS CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3550 WILSON BLVD",
+    "addressLocality": "ARLINGTON",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22201-2322"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.8821&mlon=-77.1024#map=15/38.8821/-77.1024",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.8821,
+    "longitude": -77.1024
+  },
+  "url": "http://www.arlingtonartscenter.org",
+  "telephone": "+1 (703) 248-6800",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100319",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

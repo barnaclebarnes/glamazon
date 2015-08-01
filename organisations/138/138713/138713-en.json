@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138713
+  },
+  "name": "WILBUR WRIGHT BIRTHPLACE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1525 N COUNTY ROAD 750 E",
+    "addressLocality": "HAGERSTOWN",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "47346-9508"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9594&mlon=-85.2435#map=15/39.9594/-85.2435",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9594,
+    "longitude": -85.2435
+  },
+  "url": "http://www.wwbirthplace.com",
+  "telephone": "+1 (765) 332-2495",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800499",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

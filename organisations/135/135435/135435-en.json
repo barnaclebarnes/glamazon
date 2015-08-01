@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135435
+  },
+  "name": "FRIENDS OF THE BANDSHELL INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1292",
+    "addressLocality": "DAYTONA BEACH",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32115-1292"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.2146&mlon=-81.0206#map=15/29.2146/-81.0206",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.2146,
+    "longitude": -81.0206
+  },
+  "url": "http://www.friendsofthebandshell.org/",
+  "telephone": "+1 (386) 566-9047",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200990",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

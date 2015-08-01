@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184003
+  },
+  "name": "Urwelt-Museum Oberfranken",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kanzleistraße 1",
+    "addressLocality": "Bayreuth",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95444"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9436&mlon=11.5766#map=15/49.9436/11.5766",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9436,
+    "longitude": 11.5766
+  },
+  "url": "http://www.urwelt-Museum.de",
+  "telephone": "0921/5112-11",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/184003",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

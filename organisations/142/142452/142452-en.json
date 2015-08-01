@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142452
+  },
+  "name": "MARY BAKER EDDY HISTORICAL HOME",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "12 BROAD ST",
+    "addressLocality": "LYNN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01902"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4641&mlon=-70.9352#map=15/42.4641/-70.9352",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4641,
+    "longitude": -70.9352
+  },
+  "telephone": "+1 (781) 593-5634",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500082",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

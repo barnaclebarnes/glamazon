@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150076
+  },
+  "name": "COLTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 223",
+    "addressLocality": "COLTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "13625"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.5534&mlon=-74.9387#map=15/44.5534/-74.9387",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.5534,
+    "longitude": -74.9387
+  },
+  "url": "http://coltonmuseum.org/more/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601370",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

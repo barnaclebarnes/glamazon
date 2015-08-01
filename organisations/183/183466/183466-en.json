@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183466
+  },
+  "name": "Baierweinmuseum Bach a. d. Donau",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 1 a",
+    "addressLocality": "Bach",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "93090"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.021&mlon=12.2968#map=15/49.021/12.2968",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.021,
+    "longitude": 12.2968
+  },
+  "url": "http://www.baierwein-museum.de/",
+  "telephone": "09403/95020",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183466",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137800
+  },
+  "name": "ILLINOIS RAILWAY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 427",
+    "addressLocality": "UNION",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60180-0427"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2255&mlon=-88.5307#map=15/42.2255/-88.5307",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2255,
+    "longitude": -88.5307
+  },
+  "url": "http://www.irm.org",
+  "telephone": "+1 (815) 923-4000",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700945",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

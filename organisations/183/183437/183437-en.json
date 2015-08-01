@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183437
+  },
+  "name": "Residenzschloss Oettingen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schloßstraße 1",
+    "addressLocality": "Oettingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86732"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.9546&mlon=10.6046#map=15/48.9546/10.6046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9546,
+    "longitude": 10.6046
+  },
+  "url": "http://www.oettingen-spielberg.de",
+  "telephone": "09082/9694-24",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183437",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

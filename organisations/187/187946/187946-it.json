@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187946
+  },
+  "name": "Museo regionale di scienze naturali",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Giolitti, 36, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0647&mlon=7.68863#map=15/45.0647/7.68863",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0647,
+    "longitude": 7.68863
+  },
+  "url": "http://www.regione.piemonte.it/museoscienzenaturali/museoscienzenaturali.htm",
+  "telephone": "+39 0114326316",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103893",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

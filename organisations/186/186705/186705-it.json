@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186705
+  },
+  "name": "Museo garibaldino di Genova",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Luigi Sartorio, 1",
+    "addressLocality": "Genova",
+    "addressRegion": "Liguria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3945&mlon=8.99469#map=15/44.3945/8.99469",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3945,
+    "longitude": 8.99469
+  },
+  "telephone": "+39 010/385493",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100365",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150355
+  },
+  "name": "WILMINGTON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 174",
+    "addressLocality": "WILMINGTON",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12997-0174"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3894&mlon=-73.8194#map=15/44.3894/-73.8194",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3894,
+    "longitude": -73.8194
+  },
+  "telephone": "+1 (518) 946-7586",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601649",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

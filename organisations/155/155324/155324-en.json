@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155324
+  },
+  "name": "MUSEUM COUNCIL OF PHILA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1607 S FRANKLIN ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19148"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9288&mlon=-75.1579#map=15/39.9288/-75.1579",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9288,
+    "longitude": -75.1579
+  },
+  "url": "http://philadelphiamuseumcouncil.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200518",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

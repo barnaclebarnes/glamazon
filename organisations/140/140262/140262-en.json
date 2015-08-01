@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140262
+  },
+  "name": "TRANSYLVANIA MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 N BROADWAY",
+    "addressLocality": "LEXINGTON",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40508"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0521&mlon=-84.4954#map=15/38.0521/-84.4954",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0521,
+    "longitude": -84.4954
+  },
+  "url": "http://www.transy.edu",
+  "telephone": "+1 (859) 233-8229",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100018",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

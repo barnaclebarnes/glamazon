@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188188
+  },
+  "name": "Museo comunale della ceramica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Municipio, 12",
+    "addressLocality": "Cutrofiano",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.1267&mlon=18.2016#map=15/40.1267/18.2016",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1267,
+    "longitude": 18.2016
+  },
+  "telephone": "+39 0836512461",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/BaQm6F_TQgB4uNvQlKz7Cpwn11M=/1000x1000/museums/logos/000/188/188/original/bf7248ddea66aaf65341a1f6f7c9471ad390.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102395",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

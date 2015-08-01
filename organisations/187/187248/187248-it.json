@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187248
+  },
+  "name": "Museo della Resistenza di Falconara Marittima",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cameranesi, ",
+    "addressLocality": "Falconara Marittima",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6385&mlon=13.3113#map=15/43.6385/13.3113",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6385,
+    "longitude": 13.3113
+  },
+  "url": "http://www.museoresistenza.it",
+  "telephone": "+39 0719177336",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da Pasqua al 31 maggio e dal 1 settembre al 31 dicembre sabato e domenica 15.30-18.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 2.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/sQMMwSMdJx_2wt-DlnjnCWtlZLM=/1000x1000/museums/logos/000/187/248/original/ebaac03ebbeba8141eb6c06b23a18cc2b44a61a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104052",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

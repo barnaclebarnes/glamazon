@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164228
+  },
+  "name": "RACV Heritage Collection",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.9529&mlon=145.18#map=15/-37.9529/145.18",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.9529,
+    "longitude": 145.18
+  },
+  "url": "http://www.racv.com.au/wps/wcm/connect/racv/Internet/Primary/about+RACV/RACV+history/heritage+collection",
+  "telephone": "(03) 9790 3043",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "racv-heritage-collection",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/racv-heritage-collection",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

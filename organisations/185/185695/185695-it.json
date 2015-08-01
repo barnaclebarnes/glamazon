@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185695
+  },
+  "name": "Museo diocesano di Muro Lucano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Seminario, ",
+    "addressLocality": "Muro Lucano",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.753&mlon=15.4881#map=15/40.753/15.4881",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.753,
+    "longitude": 15.4881
+  },
+  "telephone": "+39 09762255",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6SazFOAUNq5ush7MXPopxj5VORs=/1000x1000/museums/logos/000/185/695/original/11fd0b26321d2325657e4654e0975057b0d140.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104974",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

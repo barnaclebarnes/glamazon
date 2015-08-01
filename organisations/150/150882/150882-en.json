@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150882
+  },
+  "name": "SARATOGA AUTOMOBILE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "110 AVENUE OF THE PNES",
+    "addressLocality": "SARATOGA SPGS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12866-6220"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0631&mlon=-73.79#map=15/43.0631/-73.79",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0631,
+    "longitude": -73.79
+  },
+  "telephone": "+1 (518) 587-1935",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602176",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

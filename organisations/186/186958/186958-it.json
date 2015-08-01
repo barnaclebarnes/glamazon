@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186958
+  },
+  "name": "Casa museo della civiltà contadina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Veneto, ?",
+    "addressLocality": "Ponna",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9896&mlon=9.09409#map=15/45.9896/9.09409",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9896,
+    "longitude": 9.09409
+  },
+  "telephone": "+39 031267494",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/CyewnDhZ27uUzu1cDjXHDMyNvrA=/1000x1000/museums/logos/000/186/958/original/621a661b13e7b829d89277c11399151189fcc.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103622",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

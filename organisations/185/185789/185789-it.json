@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185789
+  },
+  "name": "Museo del ciclo e del motociclo Giovanni Parrilla",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma , 2",
+    "addressLocality": "Longobucco",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.4494&mlon=16.6121#map=15/39.4494/16.6121",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.4494,
+    "longitude": 16.6121
+  },
+  "url": "http://www.comunelongobucco.eu",
+  "telephone": "+39 098372178",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Aperto da lunedì a venerdì 9/12 15/18 sabato e festivi su prenotazione",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2Gctv9RV-UB6cAAz_HYqHPf3qjk=/1000x1000/museums/logos/000/185/789/original/9691a1a51b80a4da3a1a438fb5fb33141c82f21.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110916",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

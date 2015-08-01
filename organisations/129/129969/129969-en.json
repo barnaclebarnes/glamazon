@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129969
+  },
+  "name": "STUART COLLECTION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9500 GILMAN DR",
+    "addressLocality": "LA JOLLA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92093"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.8755&mlon=-117.239#map=15/32.8755/-117.239",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.8755,
+    "longitude": -117.239
+  },
+  "url": "http://stuartcollection.ucsd.edu",
+  "telephone": "+1 (858) 534-2117",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Stuart_Collection",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600095",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

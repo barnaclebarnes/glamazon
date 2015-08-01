@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187192
+  },
+  "name": "Museo della Basilica Santa Maria Assunta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Italia, 3",
+    "addressLocality": "Gallarate",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6593&mlon=8.79415#map=15/45.6593/8.79415",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6593,
+    "longitude": 8.79415
+  },
+  "telephone": "+39 0331793611",
+  "contactPoint": [
+
+  ],
+  "openingHours": "16-18 la terza domenica del mese o su richiesta previa telefonata",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103819",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

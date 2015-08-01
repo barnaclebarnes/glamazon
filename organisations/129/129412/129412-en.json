@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129412
+  },
+  "name": "ARIZONA RAILWAY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 842",
+    "addressLocality": "CHANDLER",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85244-0842"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.2704&mlon=-111.729#map=15/33.2704/-111.729",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.2704,
+    "longitude": -111.729
+  },
+  "url": "http://www.azrymuseum.org/",
+  "telephone": "+1 (480) 821-1108",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400314",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

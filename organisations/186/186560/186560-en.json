@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186560
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Andrea Millevoi, 693",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.817&mlon=12.5196#map=15/41.817/12.5196",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.817,
+    "longitude": 12.5196
+  },
+  "url": "http://www.lecarrozzedepoca.it",
+  "telephone": "+39 0651958112",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/dhpSmxrtX2zkD6h4NLuj2Qvxb-M=/1000x1000/museums/logos/000/186/560/original/1d8c70db3a9a952ec3a699b0755de2f42d61932.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101555",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

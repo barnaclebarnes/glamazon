@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189061
+  },
+  "name": "Museo della scuola di Bolzano / Bozen",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cassa di Risparmio, 24",
+    "addressLocality": "Bolzano/Bozen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4987&mlon=11.3492#map=15/46.4987/11.3492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4987,
+    "longitude": 11.3492
+  },
+  "url": "http://www.comune.bolzano.it/cultura_context.jsp?id_link=751&area=48",
+  "telephone": "+39 0471997588",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7_tDmbs8GVDtZ8K-EqPsPSZe5T0=/1000x1000/museums/logos/000/189/061/original/60364c9ad4b937b45b4934e676538ae728aacce.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100520",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

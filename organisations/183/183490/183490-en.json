@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183490
+  },
+  "name": "Museum im Klösterle",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kapellenstraße 1",
+    "addressLocality": "Peiting",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "86971"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.7933&mlon=10.9309#map=15/47.7933/10.9309",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.7933,
+    "longitude": 10.9309
+  },
+  "url": "http://www.peiting.de/tourismus/kultur/peiting/museum-im-kloesterle",
+  "telephone": "08861/6535",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183490",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

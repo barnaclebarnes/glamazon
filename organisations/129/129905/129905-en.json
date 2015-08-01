@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129905
+  },
+  "name": "UNIVERSITY ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "UNIVERSITY OF CALIFORNIA- SANTA BARBARA",
+    "addressLocality": "SANTA BARBARA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93106-7130"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.4173&mlon=-119.846#map=15/34.4173/-119.846",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.4173,
+    "longitude": -119.846
+  },
+  "telephone": "+1 (805) 893-2951",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/UniversityArtMuseumUCSB"
+    }
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/UmVHcLXQarMJKFyt0fKixJ9S13o=/1000x1000/museums/logos/000/129/905/original/Art_2C_Design_2C__26_Architecture_Museum_at_UCSB.jpg",
+    "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Airickson\" title=\"User:Airickson\">Airickson</a>",
+    "license": "CC BY-SA 4.0"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Art,_Design_%26_Architecture_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600031",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

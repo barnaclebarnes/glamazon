@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 163855
+  },
+  "name": "Echuca Historical Society",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-36.1196&mlon=144.745#map=15/-36.1196/144.745",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -36.1196,
+    "longitude": 144.745
+  },
+  "url": "http://www.echucahistoricalsociety.org.au",
+  "telephone": "03 54801325",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Daily 11am - 3.00pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "echuca-historical-society",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/echuca-historical-society",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

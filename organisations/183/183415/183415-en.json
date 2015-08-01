@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183415
+  },
+  "name": "Blaues Schloss",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Blaues Schloss Obernzenn",
+    "addressLocality": "Obernzenn",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91619"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4506&mlon=10.4643#map=15/49.4506/10.4643",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4506,
+    "longitude": 10.4643
+  },
+  "url": "http://www.obernzenn.de",
+  "telephone": "09844/978475",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183415",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

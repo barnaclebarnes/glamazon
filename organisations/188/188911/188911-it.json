@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188911
+  },
+  "name": "Museo diocesano d'arte sacra di San Miniato",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Duomo, 2",
+    "addressLocality": "San Miniato",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6796&mlon=10.8513#map=15/43.6796/10.8513",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6796,
+    "longitude": 10.8513
+  },
+  "telephone": "+39 0571406700",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/R5N-ozcKmF-4lXxwROefDzAKVPg=/1000x1000/museums/logos/000/188/911/original/aa95216eb8a79cd161da17be495a203fb5ea74.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103164",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

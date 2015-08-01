@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149338
+  },
+  "name": "NEW YORK TRANSIT MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "130 LIVINGSTON STREET",
+    "addressLocality": "BROOKLYN",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11201-5106"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6907&mlon=-73.9886#map=15/40.6907/-73.9886",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6907,
+    "longitude": -73.9886
+  },
+  "url": "http://www.mta.info",
+  "telephone": "+1 (718) 694-4952",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600632",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

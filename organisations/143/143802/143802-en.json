@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143802
+  },
+  "name": "HOMER HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "149 E MAIN ST",
+    "addressLocality": "HOMER",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49245"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1455&mlon=-84.8057#map=15/42.1455/-84.8057",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1455,
+    "longitude": -84.8057
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600339",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188826
+  },
+  "name": "Museo italiano del fumetto e dell'immagine di Lucca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "San Romano, 4",
+    "addressLocality": "Lucca",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0403&mlon=10.4693#map=15/44.0403/10.4693",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0403,
+    "longitude": 10.4693
+  },
+  "url": "http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/5787",
+  "telephone": "+39 058356326",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/U6gpRlX8g4olJY8Ebbo7fcYgfHY=/1000x1000/museums/logos/000/188/826/original/1495afdb4c49e5cefb7870e1b06daa727c38.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103096",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

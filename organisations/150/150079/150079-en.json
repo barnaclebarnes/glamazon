@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150079
+  },
+  "name": "MUSEUMWISE: MUSEUM ASSOCIATION OF NEW Y",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "265 RIVER STREET",
+    "addressLocality": "TROY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12180"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7319&mlon=-73.6914#map=15/42.7319/-73.6914",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7319,
+    "longitude": -73.6914
+  },
+  "url": "http://www.manyonline.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601373",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187043
+  },
+  "name": "Museum of Contemporary Photography",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Frova 10, ?",
+    "addressLocality": "Cinisello Balsamo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5573&mlon=9.21501#map=15/45.5573/9.21501",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5573,
+    "longitude": 9.21501
+  },
+  "url": "http://www.museofotografiacontemporanea.org",
+  "telephone": "+39 0266056630",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/maWt_hR_NggkV8AZUUUKUjlGr8o=/1000x1000/museums/logos/000/187/043/original/5024ed92a192bcd3fc6c3a8a1e83beda4d01d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103679",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

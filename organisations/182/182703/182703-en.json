@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182703
+  },
+  "name": "Museum Erding",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Prielmayerstraße 1",
+    "addressLocality": "Erding",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85435"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3052&mlon=11.9108#map=15/48.3052/11.9108",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3052,
+    "longitude": 11.9108
+  },
+  "url": "http://www.museum-erding.de",
+  "telephone": "08122/408150",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182703",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

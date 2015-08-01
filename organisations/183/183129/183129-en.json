@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183129
+  },
+  "name": "Waldmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Waldhausstraße 100",
+    "addressLocality": "Mehlmeisel",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "95694"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9636&mlon=11.8413#map=15/49.9636/11.8413",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9636,
+    "longitude": 11.8413
+  },
+  "url": "http://www.waldhaus-mehlmeisel.de",
+  "telephone": "09272/9790",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183129",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186509
+  },
+  "name": "Antiquarium forense",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santa Maria Nova, 53",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8908&mlon=12.4891#map=15/41.8908/12.4891",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8908,
+    "longitude": 12.4891
+  },
+  "url": "http://www.archeorm.arti.beniculturali.it",
+  "telephone": "+39 06699841 - 0669901100",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/QYnQixiiL1tGbsrO6cCWHeISg_s=/1000x1000/museums/logos/000/186/509/original/5917431e1114b43171889e53c47a229461e420bf.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101517",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

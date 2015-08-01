@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130827
+  },
+  "name": "MUSEUM OF FLYING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2425 OLYMPIC BLVD",
+    "addressLocality": "SANTA MONICA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90404-4034"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.0277&mlon=-118.471#map=15/34.0277/-118.471",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0277,
+    "longitude": -118.471
+  },
+  "url": "http://www.museumofflying.com",
+  "telephone": "+1 (310) 392-8822",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Museum_of_Flying",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600953",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

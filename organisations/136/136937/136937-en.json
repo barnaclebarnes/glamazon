@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136937
+  },
+  "name": "PEGGY NOTEBAERT NATURE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2430 N. CANNON DRIVE",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60614"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9264&mlon=-87.634#map=15/41.9264/-87.634",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9264,
+    "longitude": -87.634
+  },
+  "telephone": "+1 (773) 755-5100",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/thenaturemuseum"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700082",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

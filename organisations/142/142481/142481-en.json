@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142481
+  },
+  "name": "ISAAC WINSLOW HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "64 CARESWELL ST",
+    "addressLocality": "MARSHFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02050"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0825&mlon=-70.6526#map=15/42.0825/-70.6526",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0825,
+    "longitude": -70.6526
+  },
+  "url": "http://www.winslowhouse.org",
+  "telephone": "+1 (781) 837-5753",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500111",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

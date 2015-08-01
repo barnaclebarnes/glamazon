@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183181
+  },
+  "name": "Diözesanmuseum St. Afra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kornhausgasse 3-5",
+    "addressLocality": "Augsburg",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86152"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.3733&mlon=10.8959#map=15/48.3733/10.8959",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.3733,
+    "longitude": 10.8959
+  },
+  "url": "http://www.bistum-augsburg.de/index.php/bistum/Kirche-und-Kultur/Dioezesanmuseum/Informationen",
+  "telephone": "0821/3166-8831",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183181",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187116
+  },
+  "name": "Museo d'arte contemporanea di Lissone",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Padania, 6",
+    "addressLocality": "Lissone",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6074&mlon=9.23456#map=15/45.6074/9.23456",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6074,
+    "longitude": 9.23456
+  },
+  "url": "http://www.comune.lissone.mb.it",
+  "telephone": "+39 0392145174",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/l081Owsv9zy-_wczK4govXsFEEI=/1000x1000/museums/logos/000/187/116/original/60fb798f94f93f6168fa2485405354dcab51a2e0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103688",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

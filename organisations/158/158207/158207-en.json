@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158207
+  },
+  "name": "DENVER CITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "505 N AVE",
+    "addressLocality": "DENVER CITY",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "79323"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.966&mlon=-102.832#map=15/32.966/-102.832",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.966,
+    "longitude": -102.832
+  },
+  "telephone": "+1 (806) 592-2897",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800307",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

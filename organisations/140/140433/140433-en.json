@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140433
+  },
+  "name": "LOUISVILLE ZOO FOUNDATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1100 TREVILIAN WAY",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40213"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2067&mlon=-85.7105#map=15/38.2067/-85.7105",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2067,
+    "longitude": -85.7105
+  },
+  "url": "http://www.louisvillezoo.org",
+  "telephone": "+1 (502) 459-2181",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100190",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

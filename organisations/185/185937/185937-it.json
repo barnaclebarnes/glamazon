@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185937
+  },
+  "name": "Raccolta museale comunale Villamaina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 77",
+    "addressLocality": "Villamaina",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.97&mlon=15.088#map=15/40.97/15.088",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.97,
+    "longitude": 15.088
+  },
+  "telephone": "+39 0825 442083",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/7vNjiJ6L_yxzoGYqR1OdIDtkzhI=/1000x1000/museums/logos/000/185/937/original/20d410c6218d70a2e422d3482792c7159e81afce.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106587",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

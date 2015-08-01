@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 155261
+  },
+  "name": "LIBRARY COMPANY OF PHILADELPHIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1314 LOCUST ST",
+    "addressLocality": "PHILADELPHIA",
+    "addressRegion": "PA",
+    "addressCountry": "United States",
+    "postalCode": "19107-5679"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.948&mlon=-75.163#map=15/39.948/-75.163",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.948,
+    "longitude": -75.163
+  },
+  "url": "http://www.librarycompany.org",
+  "telephone": "+1 (215) 546-3181",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404200455",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

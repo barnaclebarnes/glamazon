@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182925
+  },
+  "name": "Bauerngerätemuseum des Stadtmuseums",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Probststraße 13",
+    "addressLocality": "Ingolstadt",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "85051"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7284&mlon=11.4039#map=15/48.7284/11.4039",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7284,
+    "longitude": 11.4039
+  },
+  "url": "http://www.ingolstadt.de/stadtmuseum",
+  "telephone": "0841/3051885",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182925",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186589
+  },
+  "name": "Museo nazionale etrusco di Villa Giulia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazzale di Villa Giulia, 9",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9183&mlon=12.4748#map=15/41.9183/12.4748",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9183,
+    "longitude": 12.4748
+  },
+  "url": "http://www.villagiulia.beniculturali.it/",
+  "telephone": "+39 063226571 063201951",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedì alla domenica 8.30-19.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 8,00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/AkBGtFpEfQXMTLWO6Q7DKyitDLg=/1000x1000/museums/logos/000/186/589/original/fd4f1d1787f839d7ab899fe118519e726b5fac2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20238",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

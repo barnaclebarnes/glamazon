@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158898
+  },
+  "name": "CONTEMPORARY ARTS MUSEUM HOUSTON",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5216 MONTROSE BLVD",
+    "addressLocality": "HOUSTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77006-6547"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.7268&mlon=-95.391#map=15/29.7268/-95.391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.7268,
+    "longitude": -95.391
+  },
+  "url": "http://www.camh.org",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/theCAMH"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800998",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

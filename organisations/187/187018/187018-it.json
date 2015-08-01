@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187018
+  },
+  "name": "Museo di arte moderna e contemporanea di Gazoldo degli Ippoliti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Guglielmo Marconi, 126",
+    "addressLocality": "Gazoldo degli Ippoliti",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1994&mlon=10.5804#map=15/45.1994/10.5804",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1994,
+    "longitude": 10.5804
+  },
+  "url": "http://www.postumia-mam.it",
+  "telephone": "+39 0376657952",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/LpUSLyaFaF4dUyYUOuEvFQPV2-o=/1000x1000/museums/logos/000/187/018/original/995390e95ab39023c8cae7a6fd864a84a5d3421.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103741",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137353
+  },
+  "name": "NATIONAL MUSEUM OF HEALTH AND MEDICINE CHICAGO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "175 W WASHINGTON STREET",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60602-2313"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8832&mlon=-87.6333#map=15/41.8832/-87.6333",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8832,
+    "longitude": -87.6333
+  },
+  "url": "http://www.nmhmchicago.org",
+  "telephone": "+1 (312) 854-8324",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700498",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

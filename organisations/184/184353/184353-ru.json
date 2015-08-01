@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184353
+  },
+  "name": "Shantytown",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:info@shantytown.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-42.5339&mlon=171.191#map=15/-42.5339/171.191",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -42.5339,
+    "longitude": 171.191
+  },
+  "url": "http://www.shantytown.co.nz",
+  "telephone": "64-3-762 6634",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Трущобах открыт каждый день с 8: 30 утра до 5 вечера, (за исключением Рождества).",
+  "offers": {
+    "@Type": "Offer",
+    "description": "All tickets include gold panning and train ride.  Adults $25, Student/Senior $20, Children (5-17 years) $10.  Discounted family passes available.  Visit www.shantytown.co.nz for more information."
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/ru/museums/184353",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

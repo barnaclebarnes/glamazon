@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 159031
+  },
+  "name": "AUSTIN CHILDREN'S MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 COLORADO ST",
+    "addressLocality": "AUSTIN",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "78701-3922"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.2649&mlon=-97.7454#map=15/30.2649/-97.7454",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.2649,
+    "longitude": -97.7454
+  },
+  "url": "http://thinkeryaustin.org/",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/18308051903"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/ACMkids"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404801131",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

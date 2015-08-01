@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133486
+  },
+  "name": "TOWN OF WINDSOR",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 WALNUT STREET",
+    "addressLocality": "WINDSOR",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80550"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.4785&mlon=-104.901#map=15/40.4785/-104.901",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.4785,
+    "longitude": -104.901
+  },
+  "url": "http://www.windsorgov.com",
+  "telephone": "+1 (970) 674-2439",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800662",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

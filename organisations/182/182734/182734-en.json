@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182734
+  },
+  "name": "Fränkisches Freilandmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bahnhofstraße 19",
+    "addressLocality": "Fladungen",
+    "addressRegion": "Unterfranken",
+    "addressCountry": "Germany",
+    "postalCode": "97650"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=50.5194&mlon=10.1505#map=15/50.5194/10.1505",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.5194,
+    "longitude": 10.1505
+  },
+  "url": "http://www.freilandmuseum-fladungen.de",
+  "telephone": "09778/91230",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182734",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

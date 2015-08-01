@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183600
+  },
+  "name": "Rottauer Museum für Fahrzeuge, Wehrtechnik und Zeitgeschichte",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rottau 11 a",
+    "addressLocality": "Pocking",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94060"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4264&mlon=13.3439#map=15/48.4264/13.3439",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4264,
+    "longitude": 13.3439
+  },
+  "url": "http://www.rottauer-museum.de/",
+  "telephone": "08531/32900",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183600",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

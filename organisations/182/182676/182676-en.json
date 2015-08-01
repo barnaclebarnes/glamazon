@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182676
+  },
+  "name": "Feuerwehrmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Feuerhausgasse 1",
+    "addressLocality": "Eggenfelden",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "84307"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.4036&mlon=12.7644#map=15/48.4036/12.7644",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.4036,
+    "longitude": 12.7644
+  },
+  "telephone": "08721/8844",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182676",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

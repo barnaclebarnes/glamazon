@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158850
+  },
+  "name": "TEXAS MAP SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "702 PLANTEARIUM PLACE",
+    "addressLocality": "ARLINGTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "76019-0497"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7284&mlon=-97.1151#map=15/32.7284/-97.1151",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7284,
+    "longitude": -97.1151
+  },
+  "url": "http://www.texasmapsociety.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800950",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

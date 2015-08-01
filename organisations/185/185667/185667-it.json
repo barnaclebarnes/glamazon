@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185667
+  },
+  "name": "Museo diocesano di Matera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Riscatto - ex Palazzo del Seminario",
+    "addressLocality": "Matera",
+    "addressRegion": "Basilicata",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.6664&mlon=16.6043#map=15/40.6664/16.6043",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.6664,
+    "longitude": 16.6043
+  },
+  "url": "http://materainbasilicata.blogspot.it/2012/12/matera-museo-diocesano.html",
+  "telephone": "+39 0835 2562218 – 338 8831053",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10.00-13.00/16.00-18.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/1cqWE3L8vhKwjQBI63nsi6EXfOs=/1000x1000/museums/logos/000/185/667/original/a47411f48646db195a1c25de47f0f2f05ecf644f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110934",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

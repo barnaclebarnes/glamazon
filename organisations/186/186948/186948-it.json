@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186948
+  },
+  "name": "Sala Casartelli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Cavallotti, 3",
+    "addressLocality": "Como",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.8116&mlon=9.07651#map=15/45.8116/9.07651",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8116,
+    "longitude": 9.07651
+  },
+  "url": "http://www.comune.como.it",
+  "telephone": "+39 031 252550",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/PFJl1bH0zITqhy-4JqM8vw3dqNM=/1000x1000/museums/logos/000/186/948/original/f5369d7eb761bc135be433aecc34b135f2f7eada.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106849",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

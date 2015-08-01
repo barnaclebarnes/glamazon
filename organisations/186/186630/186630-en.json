@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186630
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "località Colle, ",
+    "addressLocality": "Calcata",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.2238&mlon=12.4236#map=15/42.2238/12.4236",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.2238,
+    "longitude": 12.4236
+  },
+  "url": "http://www.operabosco.eu",
+  "telephone": "+39 0761588048",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jBjugQ8V6ZU8d7AF7JN0cYzVSGU=/1000x1000/museums/logos/000/186/630/original/e652c76bd249695258c8b7cf447f9fef2a661a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101621",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

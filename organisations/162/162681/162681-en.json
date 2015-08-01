@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 162681
+  },
+  "name": "CHAZEN MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 UNIVERSITY AVE",
+    "addressLocality": "MADISON",
+    "addressRegion": "WI",
+    "addressCountry": "United States",
+    "postalCode": "53706"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.0733&mlon=-89.3998#map=15/43.0733/-89.3998",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.0733,
+    "longitude": -89.3998
+  },
+  "url": "http://www.chazen.wisc.edu",
+  "telephone": "+1 (608) 263-2246",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/68439989788"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405500130",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

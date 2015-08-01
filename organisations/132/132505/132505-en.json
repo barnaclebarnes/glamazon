@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132505
+  },
+  "name": "LOMPOC MUSEUM ASSOCIATES INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 S H ST",
+    "addressLocality": "LOMPOC",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93436-7206"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.6371&mlon=-120.458#map=15/34.6371/-120.458",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.6371,
+    "longitude": -120.458
+  },
+  "url": "http://www.museumsusa.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602631",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

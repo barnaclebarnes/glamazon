@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133534
+  },
+  "name": "SOMERS HISTORICAL MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9 BATTLE ST",
+    "addressLocality": "SOMERS",
+    "addressRegion": "CT",
+    "addressCountry": "United States",
+    "postalCode": "06071"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3285&mlon=-73.6852#map=15/41.3285/-73.6852",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3285,
+    "longitude": -73.6852
+  },
+  "url": "http://www.somershistoricalsoc.org",
+  "telephone": "+1 (914) 277-4977",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400900009",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

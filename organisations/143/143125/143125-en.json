@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143125
+  },
+  "name": "JOHN F KENNEDY HYANNIS MUSEUM FOUNDATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2488",
+    "addressLocality": "HYANNIS",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02601-7488"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6491&mlon=-70.3112#map=15/41.6491/-70.3112",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6491,
+    "longitude": -70.3112
+  },
+  "url": "http://jfkhyannismuseum.org/",
+  "telephone": "+1 (508) 790-3077",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500755",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

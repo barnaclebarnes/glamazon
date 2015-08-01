@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132603
+  },
+  "name": "LOS ANGELES MARITIME MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "BERTH 84, FOOT OF 6TH STREET",
+    "addressLocality": "SAN PEDRO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90731"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7495&mlon=-118.275#map=15/33.7495/-118.275",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7495,
+    "longitude": -118.275
+  },
+  "url": "http://lamaritimemuseum.org",
+  "telephone": "+1 (310) 548-7618",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602729",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183520
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kemnather Straße 2",
+    "addressLocality": "Pressath",
+    "addressRegion": "Oberpfalz",
+    "addressCountry": "Germany",
+    "postalCode": "92690"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7709&mlon=11.9325#map=15/49.7709/11.9325",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7709,
+    "longitude": 11.9325
+  },
+  "url": "http://www.pressath.de/museum/index.htm",
+  "telephone": "09644/680051",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183520",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

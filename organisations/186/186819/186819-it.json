@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186819
+  },
+  "name": "Museo civico di scienze naturali Enrico Caffi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Cittadella, 10",
+    "addressLocality": "Bergamo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7055&mlon=9.65967#map=15/45.7055/9.65967",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7055,
+    "longitude": 9.65967
+  },
+  "url": "http://museoscienzebergamo.it",
+  "telephone": "+39 035286011",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/WSKcpIycRGZK_by4q1W8zUIbOqs=/1000x1000/museums/logos/000/186/819/original/462ae0658c2756dd25cb50945dd8171914f8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103506",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

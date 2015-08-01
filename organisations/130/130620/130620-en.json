@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130620
+  },
+  "name": "SAN DIEGO COMPUTER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5500 CAMPANILE DR",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92182-0001"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.7746&mlon=-117.072#map=15/32.7746/-117.072",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7746,
+    "longitude": -117.072
+  },
+  "contactPoint": [
+
+  ],
+  "sameAs": "http://a.com",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600746",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142399
+  },
+  "name": "SMITH AND WESSON",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2100 ROOSEVELT AVE",
+    "addressLocality": "SPRINGFIELD",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01104"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.137&mlon=-72.5471#map=15/42.137/-72.5471",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.137,
+    "longitude": -72.5471
+  },
+  "url": "http://www.smith-wesson.com",
+  "telephone": "+1 (413) 781-8300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500029",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

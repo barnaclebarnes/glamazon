@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188632
+  },
+  "name": "Museo agrario tropicale dell’istituto agronomico per Oltremare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Antonio Cocchi, 4",
+    "addressLocality": "Firenze",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.785&mlon=11.284#map=15/43.785/11.284",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.785,
+    "longitude": 11.284
+  },
+  "url": "http://www.iao.florence.it",
+  "telephone": "+39 05550611",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su richiesta",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EnliUd8mna0dAjZgH929l7ZPuFU=/1000x1000/museums/logos/000/188/632/original/98561fe5186945e5911164a4cd32a30d3ebdbc6.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "105607",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184452
+  },
+  "name": "Sir James Fletcher Kawerau Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:museum@kaweraudc.govt.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-38.0872&mlon=176.702#map=15/-38.0872/176.702",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -38.0872,
+    "longitude": 176.702
+  },
+  "url": "http://www.kaweraudc.govt.nz/library/museum.asp",
+  "telephone": "07 306 9041",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Monday-Friday 10am-5pm\r\nSaturday 10am-1pm",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Free"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/en/museums/184452",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

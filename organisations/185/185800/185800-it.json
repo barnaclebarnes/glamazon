@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185800
+  },
+  "name": "Museo del pane di Panettieri",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Risorgimento, 35",
+    "addressLocality": "Panettieri",
+    "addressRegion": "Calabria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0592&mlon=16.4535#map=15/39.0592/16.4535",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0592,
+    "longitude": 16.4535
+  },
+  "url": "http://www.comune.panettieri.cs.it",
+  "telephone": "+39 0039 0968 82018 -  82781",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/2Flo9MHLrTPSAl9sYAARLVoySAQ=/1000x1000/museums/logos/000/185/800/original/6f99a3f369593d98d5e8fccb9fd3fb4ccb2d5a70.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "110958",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

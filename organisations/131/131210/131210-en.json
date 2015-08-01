@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131210
+  },
+  "name": "DISCOVERY SCIENCE CENTER OF ORANGE COUNTY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2500 N MAIN ST",
+    "addressLocality": "SANTA ANA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92705-6600"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.7703&mlon=-117.867#map=15/33.7703/-117.867",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7703,
+    "longitude": -117.867
+  },
+  "url": "http://www.discoverycube.org",
+  "telephone": "+1 (714) 542-2823",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Discovery_Cube_Orange_County",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601336",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

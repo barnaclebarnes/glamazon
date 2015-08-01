@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130237
+  },
+  "name": "KALA ART INSTITUTE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1060 HEINZ AVENUE",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94710"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.8542&mlon=-122.288#map=15/37.8542/-122.288",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8542,
+    "longitude": -122.288
+  },
+  "telephone": "+1 (510) 549-2977",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/kalaartinstitute"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/kalainstitute"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600363",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

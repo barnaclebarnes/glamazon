@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187197
+  },
+  "name": "Museo archeologico e Antiquarium",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza della Libertà, 3",
+    "addressLocality": "Golasecca",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6966&mlon=8.65524#map=15/45.6966/8.65524",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6966,
+    "longitude": 8.65524
+  },
+  "url": "http://www.comune.golasecca.va.it",
+  "telephone": "+39 0331 958850",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106850",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

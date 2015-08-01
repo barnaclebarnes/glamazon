@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146838
+  },
+  "name": "JOSLYN ART MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2200 DODGE ST",
+    "addressLocality": "OMAHA",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68102-1208"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2598&mlon=-95.9461#map=15/41.2598/-95.9461",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2598,
+    "longitude": -95.9461
+  },
+  "url": "http://www.joslyn.org",
+  "telephone": "+1 (402) 342-3300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100177",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

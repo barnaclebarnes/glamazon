@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135102
+  },
+  "name": "ST PETERSBURG HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "335 2ND AVE NE",
+    "addressLocality": "ST PETERSBURG",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33701-3501"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=27.7736&mlon=-82.6275#map=15/27.7736/-82.6275",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 27.7736,
+    "longitude": -82.6275
+  },
+  "url": "http://www.spmoh.org/home.html",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200657",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

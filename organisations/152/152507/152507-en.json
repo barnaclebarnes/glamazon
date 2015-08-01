@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152507
+  },
+  "name": "TAFT MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "316 PIKE STREET",
+    "addressLocality": "CINCINNATI",
+    "addressRegion": "OH",
+    "addressCountry": "United States",
+    "postalCode": "45202-4214"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1018&mlon=-84.5032#map=15/39.1018/-84.5032",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1018,
+    "longitude": -84.5032
+  },
+  "url": "http://www.taftmuseum.org",
+  "telephone": "+1 (513) 241-0343",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/taftmuseumofart"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403900284",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

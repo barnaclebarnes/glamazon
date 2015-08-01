@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131738
+  },
+  "name": "NATIONAL STEINBECK CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 MAIN ST",
+    "addressLocality": "SALINAS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93901-3436"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.6768&mlon=-121.656#map=15/36.6768/-121.656",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.6768,
+    "longitude": -121.656
+  },
+  "url": "http://www.steinbeck.org",
+  "telephone": "+1 (831) 796-3833",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/nationalsteinbeckcenter"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601864",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187119
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Garibaldi, 1",
+    "addressLocality": "Nova Milanese",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5911&mlon=9.19755#map=15/45.5911/9.19755",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5911,
+    "longitude": 9.19755
+  },
+  "telephone": "+39 0362374508",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/r5WJXperUVVehBFoQtHxNdmdKIM=/1000x1000/museums/logos/000/187/119/original/2266fba76393444b8a3b4909a32315300a091.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103895",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

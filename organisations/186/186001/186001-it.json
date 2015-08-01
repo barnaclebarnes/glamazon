@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186001
+  },
+  "name": "ARCA - Museo di arte religiosa contemporanea",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Santa Maria La Nova, 44",
+    "addressLocality": "Napoli",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8441&mlon=14.253#map=15/40.8441/14.253",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8441,
+    "longitude": 14.253
+  },
+  "url": "http://www.oltreilchiostro.org/museale.html",
+  "telephone": "+39 081 5521597 - 081 5523298 -  081 0143583",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/n1L_IuzlPIbCu5yeKHashHbE7Ac=/1000x1000/museums/logos/000/186/001/original/23e77d70f1de99ffa4d395832a7ae2510e28b5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107096",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

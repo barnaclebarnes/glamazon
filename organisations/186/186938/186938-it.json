@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186938
+  },
+  "name": "Raccolta museale dell'avifauna lombarda",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cascina Perego, 1",
+    "addressLocality": "Arosio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7531&mlon=9.24421#map=15/45.7531/9.24421",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7531,
+    "longitude": 9.24421
+  },
+  "url": "http://www.nibbio.org",
+  "telephone": "+39 031762162",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/8lvOdXZRCxgDSaw24kMR14jqNL8=/1000x1000/museums/logos/000/186/938/original/59b7db5376c8144ebe8edbfd9836ce064d86a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103604",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

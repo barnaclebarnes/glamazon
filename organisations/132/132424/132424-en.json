@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132424
+  },
+  "name": "LAKE COUNTY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 1011",
+    "addressLocality": "LAKEPORT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95453"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.0531&mlon=-122.916#map=15/39.0531/-122.916",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.0531,
+    "longitude": -122.916
+  },
+  "url": "http://www.lakecountyhistory.org/news-events/links/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602550",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131031
+  },
+  "name": "GILROY GARDENS FAMILY THEME PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3050 HECKER PASS HWY",
+    "addressLocality": "GILROY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95020-9411"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.0122&mlon=-121.63#map=15/37.0122/-121.63",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0122,
+    "longitude": -121.63
+  },
+  "url": "http://www.gilroygardens.org",
+  "telephone": "+1 (408) 840-7100",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Gilroy_Gardens",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601157",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189389
+  },
+  "name": "Museo alpino \"Duca degli Abruzzi\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada Villair, 2",
+    "addressLocality": "Courmayeur",
+    "addressRegion": "Valle d'Aosta/Vallée d'Aoste",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7389&mlon=7.42619#map=15/45.7389/7.42619",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7389,
+    "longitude": 7.42619
+  },
+  "url": "http://www.guidecourmayeur.com",
+  "telephone": "+39 0165 842064",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dalle 9/12.30 e 16,00/19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/4AqRlpntDD2F8XV8Jd5V5iEEI90=/1000x1000/museums/logos/000/189/389/original/30375768d617a7b64a1415d49205db71fff44d1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100825",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

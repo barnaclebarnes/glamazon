@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190328
+  },
+  "name": "BOLTON MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 13414",
+    "addressLocality": "ALEXANDRIA",
+    "addressRegion": "LA",
+    "addressCountry": "United States",
+    "postalCode": "71315"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.9563&mlon=-83.8704#map=15/35.9563/-83.8704",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.9563,
+    "longitude": -83.8704
+  },
+  "telephone": "+1 (318) 448-3628",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404400220",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

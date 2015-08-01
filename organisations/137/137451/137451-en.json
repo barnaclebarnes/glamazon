@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137451
+  },
+  "name": "CHICAGO JEWISH HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "610 S MICHIGAN AVE 803",
+    "addressLocality": "CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60605-1901"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8738&mlon=-87.6243#map=15/41.8738/-87.6243",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8738,
+    "longitude": -87.6243
+  },
+  "url": "http://www.chicagojewishhistory.org/",
+  "telephone": "+1 (312) 663-5634",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700596",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

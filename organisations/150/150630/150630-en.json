@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150630
+  },
+  "name": "JOHN BURROUGHS NATURAL HISTORY SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 LARK DRIVE",
+    "addressLocality": "WOODSTOCK",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12498"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.0395&mlon=-74.1444#map=15/42.0395/-74.1444",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.0395,
+    "longitude": -74.1444
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601924",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

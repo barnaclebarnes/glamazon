@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186334
+  },
+  "name": "Piccolo museo storico delle macchine per la fotografia e cinematografia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ex Caseificio Sociale, ",
+    "addressLocality": "Prato Carnico",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.5212&mlon=12.8092#map=15/46.5212/12.8092",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.5212,
+    "longitude": 12.8092
+  },
+  "url": "http://www.carniamusei.org",
+  "telephone": "+39 0433 69208",
+  "contactPoint": [
+
+  ],
+  "openingHours": "agosto 16.00-18.00; su richiesta in altri giorni e orari",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Mn68gc_qEnfpeA6xgbi5HFaGhyY=/1000x1000/museums/logos/000/186/334/original/e1a24f5731dc58d9fec8fba19bfaa4a51dae173.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100302",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

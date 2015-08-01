@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131287
+  },
+  "name": "TROTTICO",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1150 BAYWOOD AVE",
+    "addressLocality": "CAMARILLO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93010-3005"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.2289&mlon=-119.056#map=15/34.2289/-119.056",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.2289,
+    "longitude": -119.056
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601413",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

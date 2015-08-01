@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148713
+  },
+  "name": "WASHINGTON'S HEADQUARTERS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "140 VIRGINIA ROAD",
+    "addressLocality": "NORTH WHITE PLAINS",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10603"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0591&mlon=-73.7708#map=15/41.0591/-73.7708",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0591,
+    "longitude": -73.7708
+  },
+  "telephone": "+1 (914) 949-1236",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600007",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

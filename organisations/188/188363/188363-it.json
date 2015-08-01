@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188363
+  },
+  "name": "Museo \"Maria Carta\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Aldo Moro, 1",
+    "addressLocality": "Siligo",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5772&mlon=8.72466#map=15/40.5772/8.72466",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5772,
+    "longitude": 8.72466
+  },
+  "url": "http://www.fondazionemariacarta.it",
+  "telephone": "+39 079 837009",
+  "contactPoint": [
+
+  ],
+  "openingHours": "9,00-13,00 e 15,00-19,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/upuqt-SnmjkwOMpzUaj0IWsWCCo=/1000x1000/museums/logos/000/188/363/original/28279a959979bf12ebc2777eb19675e9f0145d.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103474",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 184250
+  },
+  "name": "Dargaville  Museum",
+  "address": {
+    "@type": "PostalAddress",
+    "email": "mailto:darg.museum@xtra.co.nz"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-35.9605&mlon=173.865#map=15/-35.9605/173.865",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -35.9605,
+    "longitude": 173.865
+  },
+  "url": "http://www.dargavillemuseum.com",
+  "telephone": "09 439 7555",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Verão Inverno 09:00-17:00 (fechado Natal dia) 09:00-16:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Adult $15 Seniors $12\r\nGroups over 10 $10\r\nSchool children $2\r\nFamily (2 adults & children) $32\r\nFamily – 2 Adults & children $22"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "nzmuseums",
+    "url": "http://www.museums.io/pt/museums/184250",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

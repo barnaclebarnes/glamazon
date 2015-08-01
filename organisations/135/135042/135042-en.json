@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 135042
+  },
+  "name": "SOBE LOCAL INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 LINCON RD STE 206",
+    "addressLocality": "MIAMI BEACH",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "33139-2500"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=25.7905&mlon=-80.1389#map=15/25.7905/-80.1389",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7905,
+    "longitude": -80.1389
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200596",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

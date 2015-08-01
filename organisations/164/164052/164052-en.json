@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164052
+  },
+  "name": "Marian College",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.2849&mlon=142.939#map=15/-37.2849/142.939",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.2849,
+    "longitude": 142.939
+  },
+  "url": "http://www.mcararat.catholic.edu.au",
+  "telephone": "03 53523861",
+  "contactPoint": [
+
+  ],
+  "openingHours": "8.30am to 4.30pm",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "marian-college",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/marian-college",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

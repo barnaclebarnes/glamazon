@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186815
+  },
+  "name": "Casa natale di Gaetano Donizetti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Borgo Canale, 14",
+    "addressLocality": "Bergamo",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7063&mlon=9.65613#map=15/45.7063/9.65613",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7063,
+    "longitude": 9.65613
+  },
+  "url": "http://www.donizetti.org",
+  "telephone": "+39 035 5296711",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106854",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

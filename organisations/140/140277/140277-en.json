@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140277
+  },
+  "name": "LOUISVILLE SCIENCE CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "727 WEST MAIN STREET",
+    "addressLocality": "LOUISVILLE",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40202"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2572&mlon=-85.762#map=15/38.2572/-85.762",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2572,
+    "longitude": -85.762
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100033",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132384
+  },
+  "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2150 SHATTUCK AVENUE",
+    "addressLocality": "BERKELEY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94704-5940"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.87&mlon=-122.268#map=15/37.87/-122.268",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.87,
+    "longitude": -122.268
+  },
+  "url": "http://www.berkeley.edu",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602510",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

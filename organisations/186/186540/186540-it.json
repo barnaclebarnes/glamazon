@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186540
+  },
+  "name": "Museo Archivio di fotografia storica",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via di San Michele, 18",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8862&mlon=12.4764#map=15/41.8862/12.4764",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8862,
+    "longitude": 12.4764
+  },
+  "telephone": "+39 06585521 0658552228 0658552231 0658552258",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì ore 9,00 - 13,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/SVMdpbuVRv1FmY2dHP5OGxb5Dvw=/1000x1000/museums/logos/000/186/540/original/eedc8db020955253b3e7794cb99b87ca62429576.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "107784",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

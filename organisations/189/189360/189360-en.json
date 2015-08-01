@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189360
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale della Stazione, 1",
+    "addressLocality": "Parrano",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8759&mlon=12.7361#map=15/42.8759/12.7361",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8759,
+    "longitude": 12.7361
+  },
+  "telephone": "+39 0763838001",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/RfF8WRmcc8GOWCS3aU98bmRBBM4=/1000x1000/museums/logos/000/189/360/original/ce5944aa4bfd4856cc52453329b97ddb6c24a8.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100792",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

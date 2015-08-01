@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143284
+  },
+  "name": "NAHANT HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "41 VALLEY ROAD",
+    "addressLocality": "NAHANT",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01908-1300"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4249&mlon=-70.9225#map=15/42.4249/-70.9225",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4249,
+    "longitude": -70.9225
+  },
+  "url": "http://www.nahanthistory.org",
+  "telephone": "+1 (781) 581-2727",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500914",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

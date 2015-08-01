@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143442
+  },
+  "name": "THOMAS PAINE FRIENDS INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "185 MIDDLE STREET",
+    "addressLocality": "AMHERST",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01002-3011"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.3342&mlon=-72.5046#map=15/42.3342/-72.5046",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.3342,
+    "longitude": -72.5046
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402501072",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

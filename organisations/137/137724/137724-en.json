@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137724
+  },
+  "name": "DWIGHT MAIN STREET PROGRAM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "117 WEST MAIN STREET",
+    "addressLocality": "DWIGHT",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60420-1321"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.0936&mlon=-88.4271#map=15/41.0936/-88.4271",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0936,
+    "longitude": -88.4271
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700869",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

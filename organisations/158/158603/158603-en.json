@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158603
+  },
+  "name": "EXPLORE THE CHILDRENS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "120 FCR 296",
+    "addressLocality": "OAKWOOD",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "75855"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=31.5819&mlon=-95.8474#map=15/31.5819/-95.8474",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.5819,
+    "longitude": -95.8474
+  },
+  "url": "http://exploremuseum.com",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800703",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

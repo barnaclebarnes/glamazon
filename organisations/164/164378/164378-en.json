@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164378
+  },
+  "name": "The Victorian Mental Health Library",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.7987&mlon=144.956#map=15/-37.7987/144.956",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.7987,
+    "longitude": 144.956
+  },
+  "url": "http://library.mh.org.au",
+  "telephone": "(03) 9342 8617",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "victorian-mental-health-library",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/victorian-mental-health-library",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

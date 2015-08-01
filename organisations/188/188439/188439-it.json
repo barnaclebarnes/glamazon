@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188439
+  },
+  "name": "Museo della tonnara e del mare",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Nettuno, 22",
+    "addressLocality": "Milazzo",
+    "addressRegion": "Sicilia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2357&mlon=15.2412#map=15/38.2357/15.2412",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2357,
+    "longitude": 15.2412
+  },
+  "url": "http://www.tonosolemaremilazzo.it",
+  "telephone": "+39 3361669993",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal lunedì al venerdì 9-13 e 15-18 e il sabato 9-13",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103999",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

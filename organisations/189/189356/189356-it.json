@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189356
+  },
+  "name": "Pozzo di San Patrizio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Sangallo, ",
+    "addressLocality": "Orvieto",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7165&mlon=12.1116#map=15/42.7165/12.1116",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7165,
+    "longitude": 12.1116
+  },
+  "url": "http://www.sistemamuseo.it",
+  "telephone": "+39 0763343768",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Ii2M8wRvctmsJY-BTH_3zMg-DOE=/1000x1000/museums/logos/000/189/356/original/599d30e7599641141f349e3e6d80acce87d77.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100788",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

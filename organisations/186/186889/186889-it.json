@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186889
+  },
+  "name": "Museo presepio Paolo VI",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Rizzardi, 30/b",
+    "addressLocality": "Concesio",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.6072&mlon=10.1925#map=15/45.6072/10.1925",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.6072,
+    "longitude": 10.1925
+  },
+  "url": "http://www.presepiopaolosesto.it",
+  "telephone": "+39 0302751388",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KkMMs3JnBZFVwmadzXYusrqxzcU=/1000x1000/museums/logos/000/186/889/original/1af9359c86d8d1da2295f82e8d7a2bd93976029.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103567",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

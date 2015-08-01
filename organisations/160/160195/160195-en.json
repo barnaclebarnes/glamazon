@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160195
+  },
+  "name": "WILSON CASTLE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "W PROCTOR RD",
+    "addressLocality": "PROCTOR",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05765"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6047&mlon=-73.0244#map=15/43.6047/-73.0244",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6047,
+    "longitude": -73.0244
+  },
+  "url": "http://www.wilsoncastle.com",
+  "telephone": "+1 (802) 773-3284",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

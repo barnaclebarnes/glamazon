@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186912
+  },
+  "name": "Civica pinacoteca Antonio e Laura Pasinetti",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Trieste, 56",
+    "addressLocality": "Montichiari",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4101&mlon=10.3965#map=15/45.4101/10.3965",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4101,
+    "longitude": 10.3965
+  },
+  "url": "http://www.montichiarimusei.it",
+  "telephone": "+39 030 9650455",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/szZYu4CCupZ2CbHHOWZthekcEN0=/1000x1000/museums/logos/000/186/912/original/4d80dadbaada87904db3b9cd9fcd90dd514f9b41.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106907",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

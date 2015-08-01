@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187023
+  },
+  "name": "Museo numismatico della Fondazione Banca agricola mantovana",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vittorio Emanuele II, 13",
+    "addressLocality": "Mantova",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.1577&mlon=10.7889#map=15/45.1577/10.7889",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.1577,
+    "longitude": 10.7889
+  },
+  "url": "http://www.fondazione.ban.it",
+  "telephone": "+39 0376311869",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ven. 9.00/12.30- 5.00 /18.30 sab. 09.00/13.00-15.00/18.30 dom. 9.30/13.00",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103749",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

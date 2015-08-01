@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132205
+  },
+  "name": "SAN JOSE INSTITUTE OF CONTEMPORARY ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "560 S 1ST ST",
+    "addressLocality": "SAN JOSE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95113-2806"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.3277&mlon=-121.884#map=15/37.3277/-121.884",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.3277,
+    "longitude": -121.884
+  },
+  "url": "http://www.sjica.org",
+  "telephone": "+1 (408) 283-8155",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/SanJoseICA"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Twitter",
+      "url": "https://twitter.com/sanjoseica"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602331",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

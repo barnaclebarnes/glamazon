@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187228
+  },
+  "name": "Museo tattile statale Omero",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mole Vanvitelliana, Banchina Giovanni da Chio, 28",
+    "addressLocality": "Ancona",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.6143&mlon=13.5037#map=15/43.6143/13.5037",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.6143,
+    "longitude": 13.5037
+  },
+  "url": "http://www.museoomero.it",
+  "telephone": "+39 0712811935",
+  "contactPoint": [
+
+  ],
+  "openingHours": "ORARIO ESTIVO: dal 15 giugno al 15 settembre: dal martedì al venerdì 18 - 22; sabato e domenica 10 - 13 e 18 - 22. Mattino: apertura su prenotazione per gruppi. Chiuso: lunedì, 15 agosto.",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/S149yDAjYuB8mGZnl-ycOOa6Gls=/1000x1000/museums/logos/000/187/228/original/3bd73dff9ad1d341297c85b08dbbc9b4d6a92f90.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20774",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

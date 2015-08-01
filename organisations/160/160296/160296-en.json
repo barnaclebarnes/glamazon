@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160296
+  },
+  "name": "WATERBURY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 708",
+    "addressLocality": "WATERBURY",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05676"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.3416&mlon=-72.7596#map=15/44.3416/-72.7596",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.3416,
+    "longitude": -72.7596
+  },
+  "url": "http://waterburyhistoricalsociety.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000102",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

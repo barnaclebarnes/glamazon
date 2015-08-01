@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185660
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Salita del Castello, SNC",
+    "addressLocality": "Tossicia",
+    "addressRegion": "Abruzzo",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.5466&mlon=13.648#map=15/42.5466/13.648",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.5466,
+    "longitude": 13.648
+  },
+  "url": "http://www.cmgransasso.it",
+  "telephone": "+39 0861698414",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/0lBJNxv1xyzYp2vX-9tPYPGp3tw=/1000x1000/museums/logos/000/185/660/original/95c5e203db37fb725e7b7c73a12f92257c2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100113",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161647
+  },
+  "name": "LIVING COMPUTER MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2245 1ST AVE S",
+    "addressLocality": "SEATTLE",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98134"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=47.5826&mlon=-122.334#map=15/47.5826/-122.334",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.5826,
+    "longitude": -122.334
+  },
+  "url": "http://livingcomputermuseum.org",
+  "telephone": "+1 (206) 342-2020",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300096",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

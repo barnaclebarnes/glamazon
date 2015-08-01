@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 140303
+  },
+  "name": "HUNT-MORGAN HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "201 N MILL ST",
+    "addressLocality": "LEXINGTON",
+    "addressRegion": "KY",
+    "addressCountry": "United States",
+    "postalCode": "40507"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0501&mlon=-84.4961#map=15/38.0501/-84.4961",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0501,
+    "longitude": -84.4961
+  },
+  "url": "http://www.bluegrasstrust.org/hunt-morgan.html",
+  "telephone": "+1 (201) 664-5578",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402100059",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

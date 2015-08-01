@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150409
+  },
+  "name": "STEEL PLANT MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 LEE ST",
+    "addressLocality": "BUFFALO",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14210-2110"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.8648&mlon=-78.8432#map=15/42.8648/-78.8432",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.8648,
+    "longitude": -78.8432
+  },
+  "url": "http://www.steelpltmuseum.org",
+  "telephone": "+1 (716) 823-0630",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601703",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

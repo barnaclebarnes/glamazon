@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186585
+  },
+  "name": "Museo nazionale del Palazzo di Venezia",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via del Plebiscito, 118, ",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8964&mlon=12.4811#map=15/41.8964/12.4811",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8964,
+    "longitude": 12.4811
+  },
+  "url": "http://museopalazzovenezia.beniculturali.it/",
+  "telephone": "+39 06699941",
+  "contactPoint": [
+
+  ],
+  "openingHours": "dal martedi alla domenica: 9.00 - 19.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ct9KRxa_j8zkiWDSHCNPB_05CgY=/1000x1000/museums/logos/000/186/585/original/5354af418c7b15ea6befce71b6f6ee4619dee.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "20255",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

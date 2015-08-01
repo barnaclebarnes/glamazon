@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187949
+  },
+  "name": "Museo storico nazionale d'artiglieria",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Galileo Ferraris, 0, ",
+    "addressLocality": "Torino",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.0697&mlon=7.67351#map=15/45.0697/7.67351",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.0697,
+    "longitude": 7.67351
+  },
+  "url": "http://www.esercito.difesa.it/root/musei/museo_artiglieria.asp",
+  "telephone": "+39 0115629223",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102776",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

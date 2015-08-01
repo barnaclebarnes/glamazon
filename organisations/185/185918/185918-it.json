@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 185918
+  },
+  "name": "Museo Umberto Nobile",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Umberto Nobile snc, ",
+    "addressLocality": "Lauro",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.8792&mlon=14.6331#map=15/40.8792/14.6331",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.8792,
+    "longitude": 14.6331
+  },
+  "url": "http://www.comune.lauro.av.it",
+  "telephone": "+39 0818240265",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/OVFf7xjDB6iDuvG9QEbP1HM54Ys=/1000x1000/museums/logos/000/185/918/original/c422617915c0d02535941e26f4f683a497bad23b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101780",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

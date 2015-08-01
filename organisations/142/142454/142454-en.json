@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142454
+  },
+  "name": "MARTHA'S VINEYARD MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "59 SCHOOL ST",
+    "addressLocality": "EDGARTOWN",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "02539"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.3883&mlon=-70.5166#map=15/41.3883/-70.5166",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.3883,
+    "longitude": -70.5166
+  },
+  "url": "http://www.mvmuseum.org",
+  "telephone": "+1 (508) 627-4441",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500084",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

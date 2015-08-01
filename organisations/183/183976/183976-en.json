@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183976
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgstraße 2",
+    "addressLocality": "Baunach",
+    "addressRegion": "Oberfranken",
+    "addressCountry": "Germany",
+    "postalCode": "96148"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.9856&mlon=10.8507#map=15/49.9856/10.8507",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.9856,
+    "longitude": 10.8507
+  },
+  "url": "http://www.vg-baunach.bnv-bamberg.de/1b-index.html",
+  "telephone": "09544/2990",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183976",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

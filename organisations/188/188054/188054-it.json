@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188054
+  },
+  "name": "Museo civico di Bari",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada Sagges, 13  , ",
+    "addressLocality": "Bari",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.1273&mlon=16.8696#map=15/41.1273/16.8696",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.1273,
+    "longitude": 16.8696
+  },
+  "telephone": "+39 0805214126",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/737PD-o019sU20R7ClMH2vtGWn8=/1000x1000/museums/logos/000/188/054/original/df29c6e6e46f992232bd35825e4fb5f47eda2be5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102304",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

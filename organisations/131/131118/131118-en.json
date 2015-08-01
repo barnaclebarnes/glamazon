@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131118
+  },
+  "name": "VETERANS MUSEUM AND MEMORIAL CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2115 PARK BOULEVARD",
+    "addressLocality": "SAN DIEGO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.727&mlon=-117.149#map=15/32.727/-117.149",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.727,
+    "longitude": -117.149
+  },
+  "url": "http://www.veteranmuseum.org",
+  "telephone": "+1 (619) 239-2300",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Veterans_Museum_and_Memorial_Center",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601244",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

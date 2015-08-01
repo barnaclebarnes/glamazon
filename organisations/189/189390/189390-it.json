@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189390
+  },
+  "name": "Museo della vite e del vino di Donnas",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 71/TER",
+    "addressLocality": "Donnas",
+    "addressRegion": "Valle d'Aosta/Vallée d'Aoste",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.7389&mlon=7.42619#map=15/45.7389/7.42619",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.7389,
+    "longitude": 7.42619
+  },
+  "url": "http://www.donnasvini.it",
+  "telephone": "+39 0125807096",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/eGo69rUVPa7cBQbQ5y7n08i5sHQ=/1000x1000/museums/logos/000/189/390/original/bb8b10b8f58b8ca422bc27e9c7d184782a6e1.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100826",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

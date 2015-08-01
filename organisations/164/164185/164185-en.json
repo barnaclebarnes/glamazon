@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 164185
+  },
+  "name": "Parliament of Victoria",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=-37.8111&mlon=144.973#map=15/-37.8111/144.973",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -37.8111,
+    "longitude": 144.973
+  },
+  "url": "http://www.parliament.vic.gov.au/",
+  "telephone": "(03) 9651 8911 ",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "parliament-victoria",
+    "name": "au_vic",
+    "url": "http://victoriancollections.net.au/organisations/parliament-victoria",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

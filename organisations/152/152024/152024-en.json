@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 152024
+  },
+  "name": "CHARLOTTE ZOOLOGICAL PARK INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 472751",
+    "addressLocality": "CHARLOTTE",
+    "addressRegion": "NC",
+    "addressCountry": "United States",
+    "postalCode": "28247-2751"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.0903&mlon=-80.8445#map=15/35.0903/-80.8445",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.0903,
+    "longitude": -80.8445
+  },
+  "url": "http://www.charlottezoo.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403700895",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

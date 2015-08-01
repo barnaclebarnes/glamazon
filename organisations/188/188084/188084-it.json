@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188084
+  },
+  "name": "Museo DIOCESANO di Monopoli",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ex Seminario Vescovile, Via Cattedrale, 26",
+    "addressLocality": "Monopoli",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.9511&mlon=17.3031#map=15/40.9511/17.3031",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9511,
+    "longitude": 17.3031
+  },
+  "url": "http://www.museodiocesanomonopoli.it/",
+  "telephone": "+39 080748002",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/I-blc8GzJeFDGlJcK_cRC02SIn4=/1000x1000/museums/logos/000/188/084/original/ea27b24162346ea9feee2ac6be498de5da319fb.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103861",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

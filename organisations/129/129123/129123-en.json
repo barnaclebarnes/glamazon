@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129123
+  },
+  "name": "PETERSEN HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "809 E. SOUTHERN AVE.",
+    "addressLocality": "TEMPE",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "85282"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.3929&mlon=-111.927#map=15/33.3929/-111.927",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.3929,
+    "longitude": -111.927
+  },
+  "telephone": "+1 (602) 350-5105",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400025",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

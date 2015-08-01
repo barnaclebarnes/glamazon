@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145407
+  },
+  "name": "TUPELO AUTO MUSEUM INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 OTIS DR",
+    "addressLocality": "TUPELO",
+    "addressRegion": "MS",
+    "addressCountry": "United States",
+    "postalCode": "38804-4015"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.2606&mlon=-88.7014#map=15/34.2606/-88.7014",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.2606,
+    "longitude": -88.7014
+  },
+  "url": "http://www.tupeloauto.com",
+  "telephone": "+1 (662) 842-4242",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402800114",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

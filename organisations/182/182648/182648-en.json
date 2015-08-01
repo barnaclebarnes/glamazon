@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182648
+  },
+  "name": "Museum 3. Dimension",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Nördlinger Straße 62",
+    "addressLocality": "Dinkelsbühl",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91550"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.0657&mlon=10.3243#map=15/49.0657/10.3243",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.0657,
+    "longitude": 10.3243
+  },
+  "url": "http://www.3D-Museum.de",
+  "telephone": "09851/6336",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182648",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

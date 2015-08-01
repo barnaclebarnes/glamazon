@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130015
+  },
+  "name": "ROBERT LOUIS STEVENSON HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "20 CUSTOM HOUSE PLAZA",
+    "addressLocality": "MONTEREY",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93940"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.5943&mlon=-121.88#map=15/36.5943/-121.88",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.5943,
+    "longitude": -121.88
+  },
+  "telephone": "+1 (408) 649-2854",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/tEWoq_wJ8gp8vQaBfFr8V8Qk-F4=/1000x1000/museums/logos/000/130/015/original/Robert_Louis_Stevenson_Knox_Series.jpg",
+    "license": "Public domain"
+  },
+  "sameAs": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600141",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

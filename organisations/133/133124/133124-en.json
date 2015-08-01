@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133124
+  },
+  "name": "HISTORIC FRASER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 205",
+    "addressLocality": "FRASER",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80442-0205"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9488&mlon=-105.817#map=15/39.9488/-105.817",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9488,
+    "longitude": -105.817
+  },
+  "telephone": "+1 (970) 726-4093",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800300",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

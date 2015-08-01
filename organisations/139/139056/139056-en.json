@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 139056
+  },
+  "name": "HERBERT HOOVER PRESIDENTIAL",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "210 PARKSIDE DR",
+    "addressLocality": "WEST BRANCH",
+    "addressRegion": "IA",
+    "addressCountry": "United States",
+    "postalCode": "52358"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.6685&mlon=-91.3462#map=15/41.6685/-91.3462",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6685,
+    "longitude": -91.3462
+  },
+  "url": "http://hoover.archives.gov",
+  "telephone": "+1 (319) 643-5301",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401900093",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187868
+  },
+  "name": "Museo etnografico di Pinerolo",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Brignone, 3, ",
+    "addressLocality": "Pinerolo",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.8867&mlon=7.33409#map=15/44.8867/7.33409",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.8867,
+    "longitude": 7.33409
+  },
+  "url": "http://www.provincia.torino.it",
+  "telephone": "+39 0121794265",
+  "contactPoint": [
+
+  ],
+  "openingHours": "domenica 10,30 -12,00/15,30-18,00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106250",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

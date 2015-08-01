@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 130292
+  },
+  "name": "HERITAGE SQUARE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 SOUTH LOS ROBLES, SUITE 470",
+    "addressLocality": "PASADENA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91101"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=34.144&mlon=-118.141#map=15/34.144/-118.141",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.144,
+    "longitude": -118.141
+  },
+  "telephone": "+1 (323) 225-2700",
+  "contactPoint": [
+
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Heritage_Square_Museum",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400600418",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

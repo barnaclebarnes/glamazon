@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148954
+  },
+  "name": "JOHNSON MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "CORNELL UNIVERSITY",
+    "addressLocality": "ITHACA",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14850"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.4477&mlon=-76.472#map=15/42.4477/-76.472",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.4477,
+    "longitude": -76.472
+  },
+  "url": "http://museum.cornell.edu",
+  "telephone": "+1 (607) 255-6464",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600248",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

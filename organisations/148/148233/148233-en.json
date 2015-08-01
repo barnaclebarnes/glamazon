@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148233
+  },
+  "name": "SHREWSBURY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 333",
+    "addressLocality": "SHREWSBURY",
+    "addressRegion": "NJ",
+    "addressCountry": "United States",
+    "postalCode": "07702"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.3253&mlon=-74.067#map=15/40.3253/-74.067",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.3253,
+    "longitude": -74.067
+  },
+  "url": "http://shrewsburyhistoricalsociety.org",
+  "telephone": "+1 (732) 530-7974",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403400601",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

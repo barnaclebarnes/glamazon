@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188310
+  },
+  "name": "Museo diocesano di Ogliastra",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Roma, 106",
+    "addressLocality": "Lanusei",
+    "addressRegion": "Sardegna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.8763&mlon=9.54263#map=15/39.8763/9.54263",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.8763,
+    "longitude": 9.54263
+  },
+  "url": "http://www.biblitecadiocesana.it ",
+  "telephone": "+39 0782 42158",
+  "contactPoint": [
+
+  ],
+  "openingHours": "su appuntamento",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/hxQBmzTzD_hXv0ld0DlWvzx5HsY=/1000x1000/museums/logos/000/188/310/original/aecf09c57bde69798b5fa5c62615e8fd5a3635.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103386",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

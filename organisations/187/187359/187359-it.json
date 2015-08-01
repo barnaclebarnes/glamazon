@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187359
+  },
+  "name": "Museo delle carbonaie",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "c/o Comune, ",
+    "addressLocality": "Cessapalombo",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1092&mlon=13.2586#map=15/43.1092/13.2586",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1092,
+    "longitude": 13.2586
+  },
+  "url": "http://www.comune.cessapalombo.mc.it",
+  "telephone": "+39 0733907315",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Esn3mWkQyAz6ngx7D7_Qo3YevSc=/1000x1000/museums/logos/000/187/359/original/a8538df698942e977781b4c79bdad8a5131a12.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104172",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

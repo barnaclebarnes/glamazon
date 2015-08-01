@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 134568
+  },
+  "name": "MUSEUM OF MAN IN SEA",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17314 PANAMA CITY BEACH PKWY",
+    "addressLocality": "PANAMA CITY BEACH",
+    "addressRegion": "FL",
+    "addressCountry": "United States",
+    "postalCode": "32413"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=30.2321&mlon=-85.8933#map=15/30.2321/-85.8933",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.2321,
+    "longitude": -85.8933
+  },
+  "url": "http://maninthesea.org",
+  "telephone": "+1 (850) 235-4101",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401200122",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

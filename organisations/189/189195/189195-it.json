@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189195
+  },
+  "name": "Museo comunale di Palazzo Santi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gaetano Palombi, ",
+    "addressLocality": "Cascia",
+    "addressRegion": "Umbria",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.7183&mlon=13.013#map=15/42.7183/13.013",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.7183,
+    "longitude": 13.013
+  },
+  "telephone": "+39 0743751010",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/miRG30TGkmtOEbErK1U_2E5wFJ8=/1000x1000/museums/logos/000/189/195/original/9c5ea96ec74a9a81f3145a117cec437fa66576a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100686",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

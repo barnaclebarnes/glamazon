@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187243
+  },
+  "name": "Museo dei mestieri in bicicletta",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Gioberti",
+    "addressLocality": "Fabriano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.3341&mlon=12.904#map=15/43.3341/12.904",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.3341,
+    "longitude": 12.904
+  },
+  "url": "http://www.mestieriinbicicletta.it/",
+  "telephone": "+39 0732 251810 / 3002",
+  "contactPoint": [
+
+  ],
+  "openingHours": "10,00 - 12,30/15,30 - 18,30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/YXSUvsyo35Cp5S0ClhPWVE-pOtg=/1000x1000/museums/logos/000/187/243/original/13b43146328eb593dd637a86522e0a327e1da56.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111436",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

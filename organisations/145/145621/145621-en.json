@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 145621
+  },
+  "name": "KANSAS CITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3218 GLADSTONE BLVD",
+    "addressLocality": "KANSAS CITY",
+    "addressRegion": "MO",
+    "addressCountry": "United States",
+    "postalCode": "64123"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.1153&mlon=-94.5424#map=15/39.1153/-94.5424",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.1153,
+    "longitude": -94.5424
+  },
+  "url": "http://www.unionstation.org/kansascitymuseum",
+  "telephone": "+1 (816) 483-8300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402900050",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

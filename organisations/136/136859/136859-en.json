@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 136859
+  },
+  "name": "WEST CHICAGO CITY MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "132 MAIN ST.",
+    "addressLocality": "WEST CHICAGO",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "60185"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.8843&mlon=-88.2047#map=15/41.8843/-88.2047",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8843,
+    "longitude": -88.2047
+  },
+  "url": "http://www.westchicago.org/museum",
+  "telephone": "+1 (708) 231-3376",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700004",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

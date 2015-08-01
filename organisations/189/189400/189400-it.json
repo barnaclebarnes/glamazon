@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189400
+  },
+  "name": "Museo del Ponte romano",
+  "address": {
+    "@type": "PostalAddress"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.735&mlon=7.31308#map=15/45.735/7.31308",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.735,
+    "longitude": 7.31308
+  },
+  "url": "http://www.comune.pontsaintmartin.ao.it",
+  "telephone": "+39 +39 0125 804843",
+  "contactPoint": [
+
+  ],
+  "openingHours": "tutti i giorni, dalle ore 9:00 alle ore 18:00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "Ingresso libero"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "112059",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

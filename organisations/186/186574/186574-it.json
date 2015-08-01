@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186574
+  },
+  "name": "Museo di storia della medicina",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale dell'Università, 34/A",
+    "addressLocality": "Roma",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.9051&mlon=12.5144#map=15/41.9051/12.5144",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.9051,
+    "longitude": 12.5144
+  },
+  "url": "http://www.histmed.it/museo/museo.htm",
+  "telephone": "+39 06 49914445",
+  "contactPoint": [
+
+  ],
+  "openingHours": "lunedì, mercoledì e venerdì 9,30 – 14,30; lunedì e giovedì 9,30 – 17,00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/9FYNh0REed4bf-v7byXGxF_GU2g=/1000x1000/museums/logos/000/186/574/original/b0f2a5fc33241fd3e2d12426dfaa2337471aeaf7.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101575",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

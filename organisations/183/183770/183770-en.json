@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183770
+  },
+  "name": "Hans-Böckler-Geburtshaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hans-Böckler-Straße 14",
+    "addressLocality": "Trautskirchen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90619"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4559&mlon=10.5941#map=15/49.4559/10.5941",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4559,
+    "longitude": 10.5941
+  },
+  "telephone": "09107/255",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183770",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

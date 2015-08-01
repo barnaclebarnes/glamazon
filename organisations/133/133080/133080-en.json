@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 133080
+  },
+  "name": "HOTEL DE PARIS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO 307",
+    "addressLocality": "GEORGETOWN",
+    "addressRegion": "CO",
+    "addressCountry": "United States",
+    "postalCode": "80444-0307"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.706&mlon=-105.696#map=15/39.706/-105.696",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.706,
+    "longitude": -105.696
+  },
+  "url": "http://www.hoteldeparismuseum.org",
+  "telephone": "+1 (303) 569-2311",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400800256",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

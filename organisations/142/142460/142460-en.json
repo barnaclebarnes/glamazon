@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 142460
+  },
+  "name": "MUSEUM OF PRINTING",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 MASSACHUSETTS AVE",
+    "addressLocality": "NORTH ANDOVER",
+    "addressRegion": "MA",
+    "addressCountry": "United States",
+    "postalCode": "01845"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6849&mlon=-71.1149#map=15/42.6849/-71.1149",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6849,
+    "longitude": -71.1149
+  },
+  "url": "http://www.museumofprinting.org",
+  "telephone": "+1 (978) 686-0450",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402500090",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

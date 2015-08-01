@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 190443
+  },
+  "name": "ISLANDWOOD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4450 BLAKELY AVENUE NE",
+    "addressLocality": "BAINBRIDGE ISLAND",
+    "addressRegion": "WA",
+    "addressCountry": "United States",
+    "postalCode": "98110"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.7682&mlon=-101.513#map=15/48.7682/-101.513",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7682,
+    "longitude": -101.513
+  },
+  "url": "http://www.islandwood.org",
+  "telephone": "+1 (206) 855-4300",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405300737",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

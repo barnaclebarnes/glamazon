@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182591
+  },
+  "name": "Heimatmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 16",
+    "addressLocality": "Adelsdorf",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91325"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.7136&mlon=10.896#map=15/49.7136/10.896",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.7136,
+    "longitude": 10.896
+  },
+  "url": "http://www.adelsdorf.de/heimatmuseum.html",
+  "telephone": "09195/94320",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182591",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

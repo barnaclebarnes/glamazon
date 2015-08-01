@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187255
+  },
+  "name": "Museo diocesano di Jesi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Federico II, 7",
+    "addressLocality": "Jesi",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5244&mlon=13.2458#map=15/43.5244/13.2458",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5244,
+    "longitude": 13.2458
+  },
+  "telephone": "+39 0731226749",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Dalla seconda settimana di Giugno alla seconda settimana di Settembre: da lun. a ven. 9.30-13 sab. e dom. 16-19; Dalla terza settimana di Settembre alla prima settimana di Giugno: da lun. a ven. 9.30-13 dom. 17-20",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/FUESAi9JX9p0uOQbW-t_4ivmFR8=/1000x1000/museums/logos/000/187/255/original/114925976df0867e236c8bb4e39b97969fece2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104058",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

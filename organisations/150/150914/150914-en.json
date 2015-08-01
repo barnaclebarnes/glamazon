@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150914
+  },
+  "name": "STONY POINT HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 434",
+    "addressLocality": "STONY POINT",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10980-0434"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.2305&mlon=-74.0023#map=15/41.2305/-74.0023",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.2305,
+    "longitude": -74.0023
+  },
+  "url": "http://www.stonypointhistory.org/",
+  "telephone": "+1 (845) 942-5030",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602208",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

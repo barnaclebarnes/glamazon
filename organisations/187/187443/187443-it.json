@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187443
+  },
+  "name": "I Muri. Esposizione permanente del maestro Oscar Piattella",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via IV Novembre, 22",
+    "addressLocality": "Cantiano",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.4731&mlon=12.6281#map=15/43.4731/12.6281",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.4731,
+    "longitude": 12.6281
+  },
+  "url": "http://comunecantiano.eu/oscarpiattella/index.htm",
+  "telephone": "+39 0721789934 - 789936",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Apertura Sabato e Domenica orario 15.00-19.00 dal 1º al 31 Agosto orario 16.00-20.00",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/K6j_zmXKz4OIN9xlr042q5J_RpM=/1000x1000/museums/logos/000/187/443/original/b2a3d1d93bae31b469deb648c76ab31917abb01b.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104264",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

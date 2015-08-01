@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132391
+  },
+  "name": "DAVIS ART CENTER",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4340",
+    "addressLocality": "DAVIS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95617-4340"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5539&mlon=-121.756#map=15/38.5539/-121.756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5539,
+    "longitude": -121.756
+  },
+  "url": "http://www.davisartcenter.org",
+  "telephone": "+1 (530) 756-4100",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602517",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

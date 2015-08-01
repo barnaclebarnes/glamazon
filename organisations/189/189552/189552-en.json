@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189552
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Einaudi, 24",
+    "addressLocality": "Brendola",
+    "addressRegion": "Veneto",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4809&mlon=11.4309#map=15/45.4809/11.4309",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4809,
+    "longitude": 11.4309
+  },
+  "url": "http://www.museobrietan.org",
+  "telephone": "+39 0444490413",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/S70vOQtY_DrRVIIOvFk831RHnfk=/1000x1000/museums/logos/000/189/552/original/bddc37aaf4ee96231cbcc668e25b30e84936e1fe.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101056",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

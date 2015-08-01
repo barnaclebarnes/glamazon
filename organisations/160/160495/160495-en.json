@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160495
+  },
+  "name": "US ARMY TRANSPORTATION MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "300 WASHINGTON BLVD",
+    "addressLocality": "NEWPORT NEWS",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "23604-1276"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.1719&mlon=-76.5714#map=15/37.1719/-76.5714",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.1719,
+    "longitude": -76.5714
+  },
+  "url": "http://www.transchool.eustis.army.mil/museum/museum.html",
+  "telephone": "+1 (757) 878-1115",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100001",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186123
+  },
+  "name": "Museo Morandi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Maggiore, 6, ",
+    "addressLocality": "Bologna",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.4938&mlon=11.3424#map=15/44.4938/11.3424",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.4938,
+    "longitude": 11.3424
+  },
+  "telephone": "+39 051203646",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/lwmwowhWwKlpGAngj3PwxKsp2y8=/1000x1000/museums/logos/000/186/123/original/cbcbe75de57cd6fda35981a2f9162f7511be7f.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101957",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

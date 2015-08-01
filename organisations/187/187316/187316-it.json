@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187316
+  },
+  "name": "Museo civico Palazzo Bonomi-Gera",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso Vittorio Emanuele, ",
+    "addressLocality": "Ripatransone",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.998&mlon=13.7605#map=15/42.998/13.7605",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.998,
+    "longitude": 13.7605
+  },
+  "url": "http://www.museipiceni.it",
+  "telephone": "+39 073599329",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Gennaio-Giugno: sab e dom 10.30-18.30; luglio-agosto: da mar a dom 16-19; settembre-dicembre: sab e dom 15.30-18.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 3.50"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/kPDfxRBBv7j5RWxV0tTN9oitFaM=/1000x1000/museums/logos/000/187/316/original/411a16fead4f119d299d9966e19ea24b365bb65.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104142",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

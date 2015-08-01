@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186086
+  },
+  "name": "MIDA - Musei Integrati dell’Ambiente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Muraglione, 18/20; Sede distaccata: Piazza De Marco snc, ",
+    "addressLocality": "Pertosa",
+    "addressRegion": "Campania",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.5447&mlon=15.4499#map=15/40.5447/15.4499",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.5447,
+    "longitude": 15.4499
+  },
+  "url": "http://www.fondazionemida.it/",
+  "telephone": "+39 0975397220",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/t8d7P8JOGXJRs0jW0jW-X7X300Q=/1000x1000/museums/logos/000/186/086/original/138ddc174b42541a8b12776467b1623f356a79a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106185",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

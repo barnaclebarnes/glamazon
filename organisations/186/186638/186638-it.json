@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186638
+  },
+  "name": "Museo Civita",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza G. Matteotti, 1",
+    "addressLocality": "Grotte di Castro",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6847&mlon=11.9028#map=15/42.6847/11.9028",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6847,
+    "longitude": 11.9028
+  },
+  "url": "http://www.simulabo.it/it/i_musei_del_sistema/grotte_di_castro_museo_civico.html",
+  "telephone": "+39 0763 797173",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/JqQsUOnnGGgY3OcHOgJgx4DmnxQ=/1000x1000/museums/logos/000/186/638/original/2dda782a884efd191acf712270b42e9b9924cfe2.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "108175",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

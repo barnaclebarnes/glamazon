@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182698
+  },
+  "name": "Dorfschule",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchstraße 5",
+    "addressLocality": "Möttingen",
+    "addressRegion": "Schwaben",
+    "addressCountry": "Germany",
+    "postalCode": "86753"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.8271&mlon=10.5741#map=15/48.8271/10.5741",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8271,
+    "longitude": 10.5741
+  },
+  "url": "http://www.rieser-bauernmuseum.de/index.php?id=28",
+  "telephone": "09087/9207170",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182698",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

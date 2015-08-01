@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 149806
+  },
+  "name": "KENT HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 123",
+    "addressLocality": "CARMEL",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "10512"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4961&mlon=-73.7377#map=15/41.4961/-73.7377",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4961,
+    "longitude": -73.7377
+  },
+  "telephone": "+1 (845) 228-1776",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601100",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

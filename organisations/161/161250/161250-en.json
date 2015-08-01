@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 161250
+  },
+  "name": "PRESERVATION PIEDMONT",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 2803",
+    "addressLocality": "CHARLOTTESVILLE",
+    "addressRegion": "VA",
+    "addressCountry": "United States",
+    "postalCode": "22902-2803"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.0173&mlon=-78.4774#map=15/38.0173/-78.4774",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.0173,
+    "longitude": -78.4774
+  },
+  "url": "http://www.preservation-piedmont.org/",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405100756",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

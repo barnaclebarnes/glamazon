@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 129435
+  },
+  "name": "GRAND CANYON HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 31405",
+    "addressLocality": "FLAGSTAFF",
+    "addressRegion": "AZ",
+    "addressCountry": "United States",
+    "postalCode": "86002"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1979&mlon=-111.647#map=15/35.1979/-111.647",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1979,
+    "longitude": -111.647
+  },
+  "url": "http://www.grandcanyonhistory.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400400337",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

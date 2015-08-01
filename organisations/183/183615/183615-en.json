@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183615
+  },
+  "name": "Stadtmuseum Conradtyhaus",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mühlgasse 1",
+    "addressLocality": "Röthenbach",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "90552"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.4811&mlon=11.2369#map=15/49.4811/11.2369",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.4811,
+    "longitude": 11.2369
+  },
+  "url": "http://www.roethenbach.de",
+  "telephone": "0911/9575-121",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183615",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

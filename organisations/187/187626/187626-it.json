@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187626
+  },
+  "name": "Palazzo La Marmora",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso del Piazzo, 19 - Biella Piazzo, ",
+    "addressLocality": "Biella",
+    "addressRegion": "Piemonte",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.5644&mlon=8.04539#map=15/45.5644/8.04539",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.5644,
+    "longitude": 8.04539
+  },
+  "url": "http://www.palazzolamarmora.it",
+  "telephone": "+39 015352533",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/KzX03BKhNBJpFXfRVZYTTwgUl3E=/1000x1000/museums/logos/000/187/626/original/e3ec8d751cec8eb6b579f896ce6afb4a6748ff.jpeg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "102517",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187074
+  },
+  "name": "Museo della Basilica di Sant'Ambrogio",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sant'Ambrogio, 15",
+    "addressLocality": "Milano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.4633&mlon=9.17503#map=15/45.4633/9.17503",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.4633,
+    "longitude": 9.17503
+  },
+  "url": "http://www.santambrogio-basilica.it",
+  "telephone": "+39 02 86450895",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "106912",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

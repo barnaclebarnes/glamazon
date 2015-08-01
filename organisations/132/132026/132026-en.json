@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 132026
+  },
+  "name": "WHITTIER HISTORIC NEIGHBORHOOD ASSOCIATION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 754",
+    "addressLocality": "WHITTIER",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "90601"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.9919&mlon=-118.04#map=15/33.9919/-118.04",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.9919,
+    "longitude": -118.04
+  },
+  "url": "http://whittierhistoric.org",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400602152",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

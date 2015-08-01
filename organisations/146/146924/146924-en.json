@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 146924
+  },
+  "name": "SMITH COLLECTION",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 81906",
+    "addressLocality": "LINCOLN",
+    "addressRegion": "NE",
+    "addressCountry": "United States",
+    "postalCode": "68501-1906"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.817&mlon=-96.7108#map=15/40.817/-96.7108",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.817,
+    "longitude": -96.7108
+  },
+  "telephone": "+1 (402) 323-3181",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403100263",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

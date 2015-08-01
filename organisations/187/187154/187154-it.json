@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187154
+  },
+  "name": "Museo del tesoro del Duomo di Vigevano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sant’Ambrogio, 14",
+    "addressLocality": "Vigevano",
+    "addressRegion": "Lombardia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.3171&mlon=8.85999#map=15/45.3171/8.85999",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.3171,
+    "longitude": 8.85999
+  },
+  "url": "http://www.diocesivigevano.it/index.php?option=com_content&task=view&id=342&Itemid=188",
+  "telephone": "+39 0381690727",
+  "contactPoint": [
+
+  ],
+  "openingHours": "sabato 15.00/18.30 domenica 9.30/12.30 e 15.00/18.30",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/B13VysCLf1OnAUplpSd_pXofB84=/1000x1000/museums/logos/000/187/154/original/d357b23645f561c0df01faff999851a7eec12.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103780",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

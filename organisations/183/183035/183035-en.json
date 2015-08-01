@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183035
+  },
+  "name": "Vilstaler Bauernmuseum",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kröhstorf 142",
+    "addressLocality": "Eichendorf",
+    "addressRegion": "Niederbayern",
+    "addressCountry": "Germany",
+    "postalCode": "94428"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.615&mlon=12.9487#map=15/48.615/12.9487",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.615,
+    "longitude": 12.9487
+  },
+  "url": "http://www.schullandheim-eichenberg.de/index.php/informationen/vilstaler-bauernmuseum",
+  "telephone": "09952/477",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183035",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

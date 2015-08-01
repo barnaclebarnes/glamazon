@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 182725
+  },
+  "name": "Handwerkerstuben",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marktplatz 3",
+    "addressLocality": "Feuchtwangen",
+    "addressRegion": "Mittelfranken",
+    "addressCountry": "Germany",
+    "postalCode": "91555"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=49.1682&mlon=10.331#map=15/49.1682/10.331",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 49.1682,
+    "longitude": 10.331
+  },
+  "url": "http://fraenkisches-museum.de/cms/front_content.php?idcat=16&lang=1",
+  "telephone": "09852/90455",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/182725",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

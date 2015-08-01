@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186223
+  },
+  "name": "Museo di Scolca",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Covignano, 257",
+    "addressLocality": "Rimini",
+    "addressRegion": "Emilia-Romagna",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.0308&mlon=12.5452#map=15/44.0308/12.5452",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0308,
+    "longitude": 12.5452
+  },
+  "url": "http://www.riminiturismo.it",
+  "telephone": "+39 0541 751761",
+  "contactPoint": [
+
+  ],
+  "openingHours": "mercoled' 15.00 -17.00 o prenotazione telefonica",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "111241",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188878
+  },
+  "name": "Raccolta Carlo Pepi",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "I Gioielli, 13/15",
+    "addressLocality": "Crespina",
+    "addressRegion": "Toscana",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.5801&mlon=10.549#map=15/43.5801/10.549",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.5801,
+    "longitude": 10.549
+  },
+  "url": "http://www.collezionecarlopepiarte.it",
+  "telephone": "+39 3355283547",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/-wB_K-MaP5lwqOZ3BRVqa-wAQZI=/1000x1000/museums/logos/000/188/878/original/fe9520b0dae0f7199729ae34902fb2c51c30148d.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "103133",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

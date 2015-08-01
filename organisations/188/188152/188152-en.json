@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 188152
+  },
+  "name": "The Provincial Art Gallery of Modern and Contemporary Art",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza XX Settembre c/o Palazzo Dogana, 20",
+    "addressLocality": "Foggia",
+    "addressRegion": "Puglia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.462&mlon=15.5442#map=15/41.462/15.5442",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.462,
+    "longitude": 15.5442
+  },
+  "url": "http://www.galleria.reciproca.it/",
+  "telephone": "+39 0881791298",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/6JH1Tavlc-u9odleROEHrpNg2ug=/1000x1000/museums/logos/000/188/152/original/ed7b199187701c2dbce3c4cec594c2fb446f682.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104022",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

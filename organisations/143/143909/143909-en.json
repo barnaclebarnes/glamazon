@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 143909
+  },
+  "name": "MORTON HOUSE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "501 TERRITORIAL ROAD",
+    "addressLocality": "BENTON HARBOR",
+    "addressRegion": "MI",
+    "addressCountry": "United States",
+    "postalCode": "49023"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.1186&mlon=-86.4469#map=15/42.1186/-86.4469",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.1186,
+    "longitude": -86.4469
+  },
+  "url": "http://www.mortonhousemuseum.org/",
+  "telephone": "+1 (269) 925-7011",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8402600446",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

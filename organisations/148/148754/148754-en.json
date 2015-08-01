@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 148754
+  },
+  "name": "SOCRATES SCULPTURE PARK",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3205 VERNON BLVD",
+    "addressLocality": "LONG ISLAND CITY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "11106"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=40.7676&mlon=-73.9363#map=15/40.7676/-73.9363",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7676,
+    "longitude": -73.9363
+  },
+  "url": "http://www.socratessculpturepark.org",
+  "telephone": "+1 (718) 956-1819",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/SocratesSculpturePark"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403600048",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

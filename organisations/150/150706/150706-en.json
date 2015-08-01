@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150706
+  },
+  "name": "HISTORIC ALBANY FOUNDATION INC",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "89 LEXINGTON AVE",
+    "addressLocality": "ALBANY",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "12206-3017"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=42.6606&mlon=-73.7664#map=15/42.6606/-73.7664",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 42.6606,
+    "longitude": -73.7664
+  },
+  "url": "http://www.historic-albany.org",
+  "telephone": "+1 (518) 465-0876",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403602000",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

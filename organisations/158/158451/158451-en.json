@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158451
+  },
+  "name": "AMARILLO MUSEUM OF ART",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2200 SOUTH VAN BUREN",
+    "addressLocality": "AMARILLO",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "79109"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=35.1891&mlon=-101.845#map=15/35.1891/-101.845",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.1891,
+    "longitude": -101.845
+  },
+  "url": "http://www.amarilloart.org",
+  "telephone": "+1 (806) 371-5050",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Facebook",
+      "url": "https://www.facebook.com/169874287291"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800551",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

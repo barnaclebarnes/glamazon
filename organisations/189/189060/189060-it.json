@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189060
+  },
+  "name": "Museo civico di Bolzano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Cassa di Risparmio, 14",
+    "addressLocality": "Bolzano/Bozen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4999&mlon=11.3492#map=15/46.4999/11.3492",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4999,
+    "longitude": 11.3492
+  },
+  "url": "http://www.comune.bolzano.it/museo_civico",
+  "telephone": "+39 0471974625 -  997960",
+  "contactPoint": [
+
+  ],
+  "openingHours": "da martedì a domenica: 10.00 - 18.00",
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/Tud-sEsX-D4wtSHJH9ZOrA8xJns=/1000x1000/museums/logos/000/189/060/original/cad53575b697f9fe7376ba1f742192debb454d5.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100519",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

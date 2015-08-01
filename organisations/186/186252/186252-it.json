@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186252
+  },
+  "name": "Museo archeologico del Friuli occidentale",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Vittorio Veneto, 19",
+    "addressLocality": "Pordenone",
+    "addressRegion": "Friuli-Venezia Giulia",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=45.9683&mlon=12.6811#map=15/45.9683/12.6811",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9683,
+    "longitude": 12.6811
+  },
+  "url": "http://museoarcheologico.comune.pordenone.it",
+  "telephone": "+39 0434541433",
+  "contactPoint": [
+
+  ],
+  "offers": {
+    "@Type": "Offer",
+    "description": "3,00€"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/EwUDnXiA4AW5PWx0vQkSvn2gLoA=/1000x1000/museums/logos/000/186/252/original/2286c9dd19e0fd312dc8467387472a977381369a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100207",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

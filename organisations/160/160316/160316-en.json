@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 160316
+  },
+  "name": "ALBANY HISTORICAL SOCIETY",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 317",
+    "addressLocality": "ALBANY",
+    "addressRegion": "VT",
+    "addressCountry": "United States",
+    "postalCode": "05820-0317"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=44.737&mlon=-72.3781#map=15/44.737/-72.3781",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.737,
+    "longitude": -72.3781
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8405000122",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

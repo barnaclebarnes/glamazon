@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 137701
+  },
+  "name": "WORLD AEROSPACE MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 32",
+    "addressLocality": "QUINCY",
+    "addressRegion": "IL",
+    "addressCountry": "United States",
+    "postalCode": "62306-0032"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=39.9499&mlon=-91.3621#map=15/39.9499/-91.3621",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.9499,
+    "longitude": -91.3621
+  },
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401700846",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

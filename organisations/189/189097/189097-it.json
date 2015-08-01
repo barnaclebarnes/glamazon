@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 189097
+  },
+  "name": "Museo territoriale di Nova Ponente",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Castello Thurn, 1",
+    "addressLocality": "Nova Ponente/Deutschnofen",
+    "addressRegion": "Trentino-Alto Adige",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=46.4145&mlon=11.426#map=15/46.4145/11.426",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 46.4145,
+    "longitude": 11.426
+  },
+  "url": "http://www.sentres.com/it/nova-ponente/museo-territoriale-di-nova-ponente",
+  "telephone": "+39 0471617500",
+  "contactPoint": [
+
+  ],
+  "openingHours": "gennaio - giugno; settembre - dicembre mar ore 9-12, gio ore 14.30-17 luglio - agosto lun- ven ore 9-12, gio ore 14.30-17",
+  "offers": {
+    "@Type": "Offer",
+    "description": "gratuito"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/VVOLfsdEBKvJpM-5zc6vWDhwPTQ=/1000x1000/museums/logos/000/189/097/original/c9f33c67bf516cd4f611d5fd322d4da73537ed0.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "100551",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

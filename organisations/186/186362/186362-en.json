@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 186362
+  },
+  "name": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Latina Antica, ",
+    "addressLocality": "Aquino",
+    "addressRegion": "Lazio",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=41.4973&mlon=13.7019#map=15/41.4973/13.7019",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.4973,
+    "longitude": 13.7019
+  },
+  "url": "http://www.menteantica.it/museoaquino.htm",
+  "telephone": "+39 0776729061",
+  "contactPoint": [
+
+  ],
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/jqqPnzy0OjgNHylbe3WsEFqV4Ss=/1000x1000/museums/logos/000/186/362/original/f7a8eef2f2e3a66de0d0884d9945789d8ab1a.jpg"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "101398",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

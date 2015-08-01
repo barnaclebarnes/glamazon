@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 138228
+  },
+  "name": "SANTA CLAUS MUSEUM",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "41 N KRINGLE PL",
+    "addressLocality": "SANTA CLAUS",
+    "addressRegion": "IN",
+    "addressCountry": "United States",
+    "postalCode": "47579"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.1194&mlon=-86.925#map=15/38.1194/-86.925",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1194,
+    "longitude": -86.925
+  },
+  "url": "http://santaclausmuseum.org",
+  "telephone": "+1 (812) 937-2687",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8401800014",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

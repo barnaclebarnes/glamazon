@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 187464
+  },
+  "name": "Museo dei \"Bronzi dorati e della Città di Pergola\"",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Largo San Giacomo, 1",
+    "addressLocality": "Pergola",
+    "addressRegion": "Marche",
+    "addressCountry": "Italy"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.563&mlon=12.8362#map=15/43.563/12.8362",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.563,
+    "longitude": 12.8362
+  },
+  "url": "http://www.bronzidorati.com",
+  "telephone": "+39 0721 734090; 7373278; 7373274",
+  "contactPoint": [
+
+  ],
+  "openingHours": "Luglio e agosto: 10.00 - 12.30 e 15.30 - 19.00 Da settembre a giugno: da martedì a domenica 10.00 -12.30 e 15.30 - 18.30",
+  "offers": {
+    "@Type": "Offer",
+    "description": "€ 6.00"
+  },
+  "photo": {
+    "@type": "ImageObject",
+    "contentUrl": "http://images.museums.io/ILewHZxYIcu141cWB2QYuIDX3uc=/1000x1000/museums/logos/000/187/464/original/beefa326fc394989243956c526f63c231964.JPG"
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "104296",
+    "name": "itapi",
+    "url": "http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.it"
+  }
+}

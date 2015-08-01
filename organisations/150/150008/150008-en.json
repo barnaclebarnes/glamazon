@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 150008
+  },
+  "name": "GEORGE EASTMAN HOUSE",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "900 EAST AVE",
+    "addressLocality": "ROCHESTER",
+    "addressRegion": "NY",
+    "addressCountry": "United States",
+    "postalCode": "14607-2219"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=43.1517&mlon=-77.5811#map=15/43.1517/-77.5811",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.1517,
+    "longitude": -77.5811
+  },
+  "url": "http://www.eastmanhouse.org",
+  "telephone": "+1 (585) 271-3361",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8403601302",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

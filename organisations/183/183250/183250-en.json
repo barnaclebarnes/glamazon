@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 183250
+  },
+  "name": "Literaturhaus München",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Salvatorplatz 1",
+    "addressLocality": "München",
+    "addressRegion": "Oberbayern",
+    "addressCountry": "Germany",
+    "postalCode": "80333"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=48.1421&mlon=11.5749#map=15/48.1421/11.5749",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.1421,
+    "longitude": 11.5749
+  },
+  "url": "http://www.literaturhaus-muenchen.de",
+  "telephone": "089/29 19 34 - 0",
+  "contactPoint": [
+
+  ],
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "name": "de_bavaria",
+    "url": "http://www.museums.io/en/museums/183250",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
