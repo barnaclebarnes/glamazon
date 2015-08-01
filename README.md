@@ -1,6 +1,6 @@
 # GLAMAZON
 
-{ **G**aleries, *L*ibraries, **A**rchives, **M**useums, **A**quariums, **Z**oos, **O**r, **N**ature Reserves}
+{ **G**aleries, **L**ibraries, **A**rchives, **M**useums, **A**quariums, **Z**oos, **O**r, **N**ature Reserves}
 
 This dataset pulls together all of the museums and cultural organisations around the world. Currently 43249 organisations are in the dataset.
 
