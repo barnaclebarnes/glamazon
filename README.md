@@ -1,6 +1,6 @@
 # GLAMAZON
 
-{ __G__aleries, __L__ibraries, __A__rchives, __M__useums, __A__quariums, __Z__oos, __O__r, __N__ature Reserves}
+{ **G**aleries, *L*ibraries, **A**rchives, **M**useums, **A**quariums, **Z**oos, **O**r, **N**ature Reserves}
 
 This dataset pulls together all of the museums and cultural organisations around the world. Currently 43249 organisations are in the dataset.
 
@@ -8,8 +8,10 @@ This dataset pulls together all of the museums and cultural organisations around
 
 The `organisations` folder contains a series of folders with the first 3 numbers of the ID. Under that is a folder for each organisation and within that a series of files for each organisation that have been localised. For example:
 
-`organisations\123\123456\123456-en.json`
-`organisations\123\123456\123456-it.json`
+```
+organisations\123\123456\123456-en.json
+organisations\123\123456\123456-it.json
+```
 
 The records themselves are [Schema.org](http://schema.org/Place) Place records.
 
