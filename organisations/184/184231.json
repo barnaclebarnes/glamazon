@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184231
   },
-  "name": "Mansion House",
+  "name": [
+    {
+      "@value": "Mansion House",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Mansion House",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Mansion House",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Mansion House",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Mansion House",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Mansion House",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Mansion House",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mansion House",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mansion House",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Mansion House",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,18 +59,61 @@
   },
   "url": "http://www.doc.govt.nz/parks-and-recreation/places-to-visit/auckland/hauraki-gulf-islands/kawau-island-historic-reserve/",
   "telephone": "64-9-422 8882",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Winter Hours\r\nMonday-Friday 12 noon - 2pm\r\nSaturday & Sunday 12 noon - 3.30pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Inverno dal lunedì al venerdì ore 12-14 sabato e domenica 12-15:30",
+      "@langauge": "it"
+    },
+    {
+      "@value": "冬天时间星期一-星期五 12 下午-2 下午周六及周日 12 下午-3:30 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Invierno horario lunes-viernes 12:00-14:00 sábado y domingo 12:00-15:30",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Inverno horas de segunda a sexta 12:00-14:00 sábado e domingo 12:00-15:30",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "冬時間 (月曜日-金曜日) 12-14 土曜日・日曜日 12-15:30",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Зима часов понедельник-пятница 12: 00 - 14: 00 Суббота &воскресенье 12: 00 - 3: 30 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Winter Öffnungszeiten Montag-Freitag 12:00-14:00 Samstag & Sonntag 12:00-15:30",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Hiver du lundi au vendredi heures 12:00-14:00 samedi & dimanche 12:00-15:30",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Musim sejuk waktu Isnin-Jumaat 12 tengahari - 2 petang Sabtu & Ahad 12 tengahari - 3.30 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Winter Öffnungszeiten Montag-Freitag 12:00-14:00 Samstag & Sonntag 12:00-15:30",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult $4 \r\nChild $2"
+    "description": [
+      {
+        "@value": "Adult $4 \r\nChild $2",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184231",
+    "url": "http://www.museums.io/en/museums/184231",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

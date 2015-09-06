@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148713
   },
-  "name": "WASHINGTON'S HEADQUARTERS MUSEUM",
+  "name": [
+    {
+      "@value": "WASHINGTON'S HEADQUARTERS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "140 VIRGINIA ROAD",
@@ -22,9 +27,6 @@
     "longitude": -73.7708
   },
   "telephone": "+1 (914) 949-1236",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600007",

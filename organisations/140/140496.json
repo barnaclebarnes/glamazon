@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140496
   },
-  "name": "LIBERTY HALL INCORPORATED",
+  "name": [
+    {
+      "@value": "LIBERTY HALL INCORPORATED",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "515 ANN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.libertyhall.org",
   "telephone": "+1 (502) 227-2560",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100253",

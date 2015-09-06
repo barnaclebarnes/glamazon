@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156641
   },
-  "name": "THAMES MUSEUM",
+  "name": [
+    {
+      "@value": "THAMES MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "77 LONG WHARF",
@@ -22,9 +27,6 @@
     "longitude": -71.3183
   },
   "telephone": "+1 (401) 849-6966",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404400145",

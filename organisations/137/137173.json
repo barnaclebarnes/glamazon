@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137173
   },
-  "name": "ST ELMO HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ST ELMO HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "500 NORTH MAIN STREET",
@@ -22,9 +27,6 @@
     "longitude": -88.8487
   },
   "url": "http://www.st-elmo.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700318",

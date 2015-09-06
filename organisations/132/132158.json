@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132158
   },
-  "name": "ANTIOCH HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ANTIOCH HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1500 W 4TH ST",
@@ -22,9 +27,6 @@
     "longitude": -121.825
   },
   "url": "http://www.art4antioch.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602284",

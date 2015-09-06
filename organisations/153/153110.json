@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153110
   },
-  "name": "OBERLIN COLLEGE",
+  "name": [
+    {
+      "@value": "OBERLIN COLLEGE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "70 N PROFESSOR ST",
@@ -23,9 +28,6 @@
   },
   "url": "https://home.oberlin.edu/",
   "telephone": "+1 (440) 775-8411",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900888",

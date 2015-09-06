@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184841
   },
-  "name": "Jamestown Museum",
+  "name": [
+    {
+      "@value": "Jamestown Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "39 Wepener Street, Jamestown",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "051 641 0913",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

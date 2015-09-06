@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183719
   },
-  "name": "Museum Tegernseer Tal",
+  "name": [
+    {
+      "@value": "Museum Tegernseer Tal",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Seestraße 17",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumtegernseertal.de",
   "telephone": "08022/4978",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

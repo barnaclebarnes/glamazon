@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128868
   },
-  "name": "GEORGE WASHINGTON CARVER INTERPRETIVE MUSEUM",
+  "name": [
+    {
+      "@value": "GEORGE WASHINGTON CARVER INTERPRETIVE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "305 N FOSTER ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gwcarvermuseum.org",
   "telephone": "+1 (334) 712-0933",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100398",

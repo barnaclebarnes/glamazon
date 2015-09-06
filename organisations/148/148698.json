@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148698
   },
-  "name": "ALBUQUERQUE HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ALBUQUERQUE HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 20568",
@@ -22,9 +27,6 @@
     "longitude": -106.532
   },
   "url": "http://albuqhistsoc.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403500288",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183150
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauberstraße 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mindelheim.de/content/view/705/750/",
   "telephone": "08261/9097690",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

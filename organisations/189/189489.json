@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189489
   },
-  "name": "Museo archeologico di Quarto d'Altino",
+  "name": [
+    {
+      "@value": "Museo archeologico di Quarto d'Altino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via S. Eliodoro, 37",
@@ -21,14 +26,6 @@
     "longitude": 12.3996
   },
   "telephone": "+39 0422829008",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9.00 - 20.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 3,00"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "20329",

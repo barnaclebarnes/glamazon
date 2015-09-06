@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142028
   },
-  "name": "HISTORIC ANNAPOLIS INC",
+  "name": [
+    {
+      "@value": "HISTORIC ANNAPOLIS INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "18 PINKNEY STREET",
@@ -22,9 +27,6 @@
     "longitude": -76.4872
   },
   "url": "http://www.annapolis.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400321",

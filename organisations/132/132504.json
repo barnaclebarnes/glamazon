@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132504
   },
-  "name": "SAN DIEGO HALL OF CHAMPIONS INC",
+  "name": [
+    {
+      "@value": "SAN DIEGO HALL OF CHAMPIONS INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2131 PAN AMERICAN PLZ",
@@ -22,9 +27,6 @@
     "longitude": -117.153
   },
   "url": "http://www.sdhoc.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602630",

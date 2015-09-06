@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146239
   },
-  "name": "WESTPORT HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "WESTPORT HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4000 BALTIMORE AVE",
@@ -22,9 +27,6 @@
     "longitude": -94.5875
   },
   "url": "http://www.westporthistorical.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900668",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147187
   },
-  "name": "HISPANIC MUSEUM OF NEVADA",
+  "name": [
+    {
+      "@value": "HISPANIC MUSEUM OF NEVADA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "330 S VALLEY VIEW BLVD",
@@ -22,9 +27,6 @@
     "longitude": -115.193
   },
   "url": "http://www.hispanicmuseumnv.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403200162",

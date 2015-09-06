@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188345
   },
-  "name": "Museo della tecnologia contadina",
+  "name": [
+    {
+      "@value": "Museo della tecnologia contadina",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Deodato Meloni, 1",
@@ -21,10 +26,6 @@
     "longitude": 8.65299
   },
   "telephone": "+39 0783550617",
-  "contactPoint": [
-
-  ],
-  "openingHours": "visite su prenotazione",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/JRb50Sonvqf98hQdgmEGt0Jm9kk=/1000x1000/museums/logos/000/188/345/original/716944452d3bae678c55b644dbff30121962c.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160528
   },
-  "name": "SULLY HISTORIC SITE",
+  "name": [
+    {
+      "@value": "SULLY HISTORIC SITE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3650 HISTORIC SULLY WAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.co.fairfax.va.us/parks/sully",
   "telephone": "+1 (703) 437-1794",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100034",

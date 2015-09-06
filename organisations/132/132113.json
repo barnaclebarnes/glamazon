@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132113
   },
-  "name": "ALPINE COUNTY MUSEUM",
+  "name": [
+    {
+      "@value": "ALPINE COUNTY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 517",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.alpinecounty.com/museum/",
   "telephone": "+1 (530) 694-2317",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602239",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186170
   },
-  "name": "Estense Gallery",
+  "name": [
+    {
+      "@value": "Estense Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Galleria Estense",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza S. Agostino 337",
@@ -22,10 +31,16 @@
   },
   "url": "http://www.galleriaestense.org/",
   "telephone": "+39 0594395711 \n        \n          (+39) 059 4395711 - 059 4395716",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "from Tuesday to Saturday hours 8.30-19.30, Sunday and midweek holidays hours 14.00-19.30, Monday hours 8.30-14.00",
+      "@langauge": "en"
+    },
+    {
+      "@value": "chiusa al pubblico",
+      "@langauge": "it"
+    }
   ],
-  "openingHours": "from Tuesday to Saturday hours 8.30-19.30, Sunday and midweek holidays hours 14.00-19.30, Monday hours 8.30-14.00",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/yZXrV6BbT_h8dU2LyHjjSoje67s=/1000x1000/museums/logos/000/186/170/original/c74043763838416afd237ba52c57329dbf8648.jpg"

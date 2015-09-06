@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163729
   },
-  "name": "Bright & District Historical Society operating the Bright Museum",
+  "name": [
+    {
+      "@value": "Bright & District Historical Society operating the Bright Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.bdhs.org.au",
   "telephone": "03 5755 1949",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sundays 2pm to 4pm September to June.\r\nDuring School Holidays, Spring Festival and Autumn Festival, the Museum is also open on Tuesdays and Thursdays 2pm to 4pm.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Sundays 2pm to 4pm September to June.\r\nDuring School Holidays, Spring Festival and Autumn Festival, the Museum is also open on Tuesdays and Thursdays 2pm to 4pm.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "bright-and-district-historical-society",

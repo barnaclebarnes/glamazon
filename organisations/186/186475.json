@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186475
   },
-  "name": "Museo archeologico nazionale di Civitavecchia",
+  "name": [
+    {
+      "@value": "Museo archeologico nazionale di Civitavecchia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Largo Cavour, 1",
@@ -21,14 +26,6 @@
     "longitude": 11.7927
   },
   "telephone": "+39 076623604",
-  "contactPoint": [
-
-  ],
-  "openingHours": "8.30- 19.30 (dal mart. alla dom.)",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/7ho-cEfU8BZTta7CAvBtB6Eiss8=/1000x1000/museums/logos/000/186/475/original/2318e45b583ebbd7638bc98486236c95d3e15eb2.jpg"

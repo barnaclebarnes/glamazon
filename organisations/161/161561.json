@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161561
   },
-  "name": "WASHINGTON STATE CAPITAL MUSEUM",
+  "name": [
+    {
+      "@value": "WASHINGTON STATE CAPITAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "211 SW 21ST AVENUE",
@@ -22,9 +27,6 @@
     "longitude": -122.903
   },
   "telephone": "+1 (360) 753-2580",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300010",

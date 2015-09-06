@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188251
   },
-  "name": "Museo del territorio di Castiadas",
+  "name": [
+    {
+      "@value": "Museo del territorio di Castiadas",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Castiadas centro - Ex Carceri, SNC",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.comune.castiadas.ca.it",
   "telephone": "+39 070 994501 - 070 99450307",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9,00 - 13,00 e 16,00 - 24,00 (da giugno a ottobre)",
-  "offers": {
-    "@Type": "Offer",
-    "description": "3,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/aBC4IWJQ_8y91EeBDoxZ9E59XWk=/1000x1000/museums/logos/000/188/251/original/b91512b46ffe94cf77889ad55e0b3b112a1747c.jpg"

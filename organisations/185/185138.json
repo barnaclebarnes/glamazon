@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185138
   },
-  "name": "Kivijärvi Museum",
+  "name": [
+    {
+      "@value": "Kivijärvi Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 25.0725
   },
   "url": "http://www.kivijarvenkotiseutuyhdistys.fi/museotoiminta/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

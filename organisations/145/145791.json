@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145791
   },
-  "name": "SPACE MUSEUM",
+  "name": [
+    {
+      "@value": "SPACE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "HIGHWAY 76 WEST",
@@ -23,9 +28,6 @@
   },
   "url": "http://space-mo.org",
   "telephone": "+1 (573) 358-1200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900220",

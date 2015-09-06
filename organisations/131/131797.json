@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131797
   },
-  "name": "CALIFORNIA ANTIQUE AIRCRAFT MUSEUM",
+  "name": [
+    {
+      "@value": "CALIFORNIA ANTIQUE AIRCRAFT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 495",
@@ -22,9 +27,6 @@
     "longitude": -121.607
   },
   "url": "http://www.wingsofhistory.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601923",

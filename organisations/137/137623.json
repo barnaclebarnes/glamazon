@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137623
   },
-  "name": "INSTITUTE MUSEUM INC",
+  "name": [
+    {
+      "@value": "INSTITUTE MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1510 W MONTANA ST",
@@ -21,9 +26,6 @@
     "latitude": 41.9261,
     "longitude": -87.6661
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700768",

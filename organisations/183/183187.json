@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183187
   },
-  "name": "Wasserschloss Mitwitz",
+  "name": [
+    {
+      "@value": "Wasserschloss Mitwitz",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Unteres Schloß 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mitwitz.de/index.php?id=49",
   "telephone": "09266/9833",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

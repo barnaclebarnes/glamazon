@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132159
   },
-  "name": "ALAMEDA HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ALAMEDA HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2324 ALAMEDA AVE",
@@ -22,9 +27,6 @@
     "longitude": -122.244
   },
   "url": "http://www.alamedamuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602285",

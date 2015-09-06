@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163834
   },
-  "name": "Dingley Village & District Historical Society",
+  "name": [
+    {
+      "@value": "Dingley Village & District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.dingleyvillagehistoricalsociety.org.au/HOME.aspx",
   "telephone": "9551 1719",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "dingley-village-district-historical-society-inc",

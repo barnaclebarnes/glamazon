@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156786
   },
-  "name": "AMERICAN MILITARY MUSEUM",
+  "name": [
+    {
+      "@value": "AMERICAN MILITARY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "360 CONCORD ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.americanmilitarymuseum.org",
   "telephone": "+1 (843) 577-7000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404500081",

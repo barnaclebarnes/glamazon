@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161089
   },
-  "name": "MARINERS MUSEUM",
+  "name": [
+    {
+      "@value": "MARINERS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 MUSEUM DR",
@@ -22,9 +27,6 @@
     "longitude": -76.4893
   },
   "url": "http://www.mariner.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100595",

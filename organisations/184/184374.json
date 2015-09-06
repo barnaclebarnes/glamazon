@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184374
   },
-  "name": "Adam Art Gallery",
+  "name": [
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Adam Art Gallery",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,18 +59,61 @@
   },
   "url": "http://www.adamartgallery.org.nz",
   "telephone": "+64 4 463 5229",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday - Sunday, 11am - 5pm \r\n(closed Monday)",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Martedì - domenica, 11-17 (chiuso lunedì)",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周二至周日，11 上午-5 下午 (周一休息)",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El martes - el domingo 11:00-17:00 (el lunes cerrado)",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Terça-feira - domingo, 11:00-17:00 (fechado de segunda-feira)",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "火曜日 - 日曜日、11-17 (月曜日休館)",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Вторник - воскресенье 11 утра - 5 вечера (закрытые понедельник)",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Dienstag - Sonntag 11:00-17:00 (montags geschlossen)",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mardi - dimanche, 11:00-17:00 (fermé le lundi)",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Selasa - Ahad, 11 pagi - 5 petang (ditutup pada hari Isnin)",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Dienstag - Sonntag 11:00-17:00 (montags geschlossen)",
   "offers": {
     "@Type": "Offer",
-    "description": "Free entry"
+    "description": [
+      {
+        "@value": "Free entry",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184374",
+    "url": "http://www.museums.io/en/museums/184374",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

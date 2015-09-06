@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140288
   },
-  "name": "MARY TODD LINCOLN HOUSE",
+  "name": [
+    {
+      "@value": "MARY TODD LINCOLN HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "578 W MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mtlhouse.org",
   "telephone": "+1 (859) 233-9999",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100044",

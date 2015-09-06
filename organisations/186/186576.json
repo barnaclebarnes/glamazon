@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186576
   },
-  "name": "Museo e Galleria Borghese",
+  "name": [
+    {
+      "@value": "Museo e Galleria Borghese",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazzale Scipione Borghese, ",
@@ -22,14 +27,6 @@
   },
   "url": "http://galleriaborghese.beniculturali.it/",
   "telephone": "+39 068416542 - 068417645 - 068413979",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutti i giorni 9.00 - 19.00 (ingresso ogni due ore per un massimo di 360 persone)",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 11,00 (prenotazione obbligatoria + € 2,00)"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Q7A9xGpkl8kfipMtruGdj7-SKoM=/1000x1000/museums/logos/000/186/576/original/14d2e5afa8ab245832241a69a20faafb5341234.jpg"

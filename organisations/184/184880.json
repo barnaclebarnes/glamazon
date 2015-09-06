@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184880
   },
-  "name": "Matatiele Museum",
+  "name": [
+    {
+      "@value": "Matatiele Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "94 High Street, Matatiele",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "039 737 3135",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

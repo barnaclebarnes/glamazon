@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130824
   },
-  "name": "SANTA ANA HISTORICAL PRESERVATION SOCIETY",
+  "name": [
+    {
+      "@value": "SANTA ANA HISTORICAL PRESERVATION SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "120 W CIVIC CENTER DR",
@@ -22,9 +27,6 @@
     "longitude": -117.868
   },
   "url": "http://www.santaanahistory.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600950",

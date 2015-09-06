@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141260
   },
-  "name": "CUSHING HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "CUSHING HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 110",
@@ -22,9 +27,6 @@
     "longitude": -69.2704
   },
   "url": "http://www.cushingmainehistoricalsociety.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402300109",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141751
   },
-  "name": "NATIONAL MUSEUM OF DENTISTRY",
+  "name": [
+    {
+      "@value": "NATIONAL MUSEUM OF DENTISTRY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "31 S GREENE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dentalmuseum.org",
   "telephone": "+1 (410) 706-0600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400044",

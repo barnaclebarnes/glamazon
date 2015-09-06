@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161665
   },
-  "name": "EMP MUSEUM",
+  "name": [
+    {
+      "@value": "EMP MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "325 5TH AVE N",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.empmuseum.org",
   "telephone": "+1 (206) 770-2700",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300114",

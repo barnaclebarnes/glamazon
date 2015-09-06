@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130038
   },
-  "name": "SAN DIEGO POLICE MUSEUM",
+  "name": [
+    {
+      "@value": "SAN DIEGO POLICE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4710 COLLEGE AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sdpolicemuseum.com",
   "telephone": "+1 (619) 726-6151",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600164",

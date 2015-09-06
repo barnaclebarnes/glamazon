@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184412
   },
-  "name": "Blacks Point Museum",
+  "name": [
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Blacks Point Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,18 +57,61 @@
     "latitude": -42.1293,
     "longitude": 171.883
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Oct-April: Wed-Fri 9am-12pm, 1pm-4pm \r\n Sat-Sun 1pm-4pm\r\n May-Sept: By arrangement",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ottobre-aprile: Mer-ven 9-12, 13-16 Sab-Dom 13-16 maggio-settembre: da concordare",
+      "@langauge": "it"
+    },
+    {
+      "@value": "10 月-4 月: 星期三至星期五 9 上午-12 下午，1 下午-4 下午 Sat-太阳 1 下午-4 下午 5 月-9 月: 由安排",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Oct-abril: Miércoles a viernes 9:00-12:00, 13:00-16:00 sábados y domingos de 13:00-16:00 Mayo-Sept: por acuerdo",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Outubro-abril: Qua-Sex 09:00-12:00, 13:00-16:00 13:00-16:00 Sáb-Dom Maio-Setembro: por acordo",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "10 月-4 月: 水-金 9-12、13-16 土日 13 16 5 月 9 月: アレンジ",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Октябрь-Апрель: Ср-пт 9-12 часов, 1-4 вечера сб-вс 1-4 вечера: Май-Сентябрь: по договоренности",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Okt-April: Mi-Fr 09:00-12:00, 13:00-16:00 Sa-So 13:00-16:00 Mai-Sept: nach Vereinbarung",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Octobre-avril : Mer-ven 09:00-12:00, 13:00-16:00 samedi-dimanche 13:00-16:00 mai-Sept: par arrangement",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Okt-April: Rabu-Jumaat 9 am - 12 pm, 1 pm - 4 pm Sabtu-Ahad 1 pm - 4 pm Mei-Sept: dengan pengaturan",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Okt-April: Mi-Fr 09:00-12:00, 13:00-16:00 Sa-So 13:00-16:00 Mai-Sept: nach Vereinbarung",
   "offers": {
     "@Type": "Offer",
-    "description": "Adults $5\r\nChildren $3\r\nFamily $15"
+    "description": [
+      {
+        "@value": "Adults $5\r\nChildren $3\r\nFamily $15",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184412",
+    "url": "http://www.museums.io/en/museums/184412",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

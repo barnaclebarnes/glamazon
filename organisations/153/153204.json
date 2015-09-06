@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153204
   },
-  "name": "THE CHILDRENS MUSEUM OF CLEVELAND",
+  "name": [
+    {
+      "@value": "THE CHILDRENS MUSEUM OF CLEVELAND",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10730 EUCLID AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.clevelandchildrensmuseum.org",
   "telephone": "+1 (216) 791-7114",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900982",

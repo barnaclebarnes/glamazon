@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133276
   },
-  "name": "DENVER AEROSPACE SCIENCE MUSEUM",
+  "name": [
+    {
+      "@value": "DENVER AEROSPACE SCIENCE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "22370 E ROCKINGHORSE PKWY",
@@ -21,9 +26,6 @@
     "latitude": 39.5561,
     "longitude": -104.717
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800452",

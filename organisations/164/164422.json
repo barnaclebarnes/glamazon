@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164422
   },
-  "name": "University of Melbourne, Margaret Lawrence Gallery, Victorian College of the Arts",
+  "name": [
+    {
+      "@value": "University of Melbourne, Margaret Lawrence Gallery, Victorian College of the Arts",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.vca.unimelb.edu.au/gallery",
   "telephone": "+613 9035 9400",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday - Saturday, 12pm - 5pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesday - Saturday, 12pm - 5pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "university-of-melbourne-vca-art-collection-managed-by-margaret-lawrence-gallery-victorian-college-of-arts-",

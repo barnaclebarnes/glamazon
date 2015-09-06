@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141003
   },
-  "name": "BEAUREGARD MUSEUM",
+  "name": [
+    {
+      "@value": "BEAUREGARD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "200 S JEFFERSON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.beau.lib.la.us",
   "telephone": "+1 (337) 463-8148",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200286",

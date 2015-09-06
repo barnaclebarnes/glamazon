@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157063
   },
-  "name": "COUNTY OF CALHOUN",
+  "name": [
+    {
+      "@value": "COUNTY OF CALHOUN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "102 COURTHOUSE DRIVE",
@@ -21,9 +26,6 @@
     "latitude": 33.6637,
     "longitude": -80.7792
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404500358",

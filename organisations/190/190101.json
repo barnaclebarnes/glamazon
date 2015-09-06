@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190101
   },
-  "name": "WEINBERG NATURE CENTER",
+  "name": [
+    {
+      "@value": "WEINBERG NATURE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "455 MAMARONECK RD.",
@@ -23,9 +28,6 @@
   },
   "url": "http://weinbergnaturecenter.org",
   "telephone": "+1 (914) 722-1289",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602450",

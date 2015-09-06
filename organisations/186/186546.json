@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186546
   },
-  "name": "Museo criminologico di Roma",
+  "name": [
+    {
+      "@value": "Museo criminologico di Roma",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via del Gonfalone, 29",
@@ -22,10 +27,6 @@
   },
   "url": "http://museocriminologico.it",
   "telephone": "+39 06 68899442",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal martedì al sabato: 9,00/13,00 il martedì e giovedì anche 14,30/18,30",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/4KTghhDrHJ9PIoNsMK9EWrB09lE=/1000x1000/museums/logos/000/186/546/original/70c07d9cf38262e72691368971b67ed4da73dc.JPG"

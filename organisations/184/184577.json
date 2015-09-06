@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184577
   },
-  "name": "Himeville Museum",
+  "name": [
+    {
+      "@value": "Himeville Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Arbuckle Street, Himeville",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "033 702 1184",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

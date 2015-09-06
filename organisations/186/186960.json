@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186960
   },
-  "name": "Museo Diotti",
+  "name": [
+    {
+      "@value": "Museo Diotti",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Formis, 17",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.museodiotti.it",
   "telephone": "+39 0375 200416",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/o_Qewa1PVvjNNTwJL3hocnyEInI=/1000x1000/museums/logos/000/186/960/original/bc65b7aea5aca1b08a239436d0fbceb1bc3c1686.jpg"

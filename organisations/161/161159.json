@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161159
   },
-  "name": "THE CORPORATION FOR JEFFERSONS POPLAR FOREST",
+  "name": [
+    {
+      "@value": "THE CORPORATION FOR JEFFERSONS POPLAR FOREST",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 419",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.poplarforest.org",
   "telephone": "+1 (434) 525-1806",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100665",

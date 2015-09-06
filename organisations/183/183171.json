@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183171
   },
-  "name": "Stiftsmuseum der Stadt Aschaffenburg",
+  "name": [
+    {
+      "@value": "Stiftsmuseum der Stadt Aschaffenburg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Stiftsgasse 1 a",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museen-aschaffenburg.de",
   "telephone": "06021/4447950",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

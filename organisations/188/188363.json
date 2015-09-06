@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188363
   },
-  "name": "Museo \"Maria Carta\"",
+  "name": [
+    {
+      "@value": "Museo \"Maria Carta\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Aldo Moro, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.fondazionemariacarta.it",
   "telephone": "+39 079 837009",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9,00-13,00 e 15,00-19,00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/upuqt-SnmjkwOMpzUaj0IWsWCCo=/1000x1000/museums/logos/000/188/363/original/28279a959979bf12ebc2777eb19675e9f0145d.JPG"

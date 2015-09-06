@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188172
   },
-  "name": "The Padre Pio Biographical Museum",
+  "name": [
+    {
+      "@value": "The Padre Pio Biographical Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo biografico di Padre Pio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Pirgiano, 25",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museopadrepio.it",
   "telephone": "+39 0882459728",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/n8VVCJxy2YJ8f08RYmHyJR5_WpA=/1000x1000/museums/logos/000/188/172/original/483943b3884d95886e472ddc2459d99e7d95af4.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154542
   },
-  "name": "UNIVERSITY OF PORTLAND BOTANIC GARDEN",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF PORTLAND BOTANIC GARDEN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5000 N WILLAMETTE BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.up.edu",
   "telephone": "+1 (503) 943-8000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100335",

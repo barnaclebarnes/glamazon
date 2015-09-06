@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185960
   },
-  "name": "Museo provinciale campano",
+  "name": [
+    {
+      "@value": "Museo provinciale campano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Roma, 68",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.provincia.caserta.it/museocampano",
   "telephone": "+39 0823620037",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/7-RDDEERf-O9YFjC-H-d5jdb3sQ=/1000x1000/museums/logos/000/185/960/original/e8b9f031db42b51c364a9528ea5513a1fe9924.jpg"

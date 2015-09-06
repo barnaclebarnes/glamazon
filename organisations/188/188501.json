@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188501
   },
-  "name": "Istituto internazionale del papiro",
+  "name": [
+    {
+      "@value": "Istituto internazionale del papiro",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale Teocrito, 66",
@@ -16,9 +21,6 @@
   },
   "url": "http://www.museodelpapiro.it",
   "telephone": "+39 093161616",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/MYps126t9FlyXQxOMjFGBJrHMwE=/1000x1000/museums/logos/000/188/501/original/9d26f6931a524b70b94baec2eed09870aa5970df.jpg"

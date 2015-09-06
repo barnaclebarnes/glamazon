@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150026
   },
-  "name": "SENECA PARK ZOO",
+  "name": [
+    {
+      "@value": "SENECA PARK ZOO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "22222 ST. PAUL STREET",
@@ -22,9 +27,6 @@
     "longitude": -77.6221
   },
   "telephone": "+1 (585) 336-7200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601320",

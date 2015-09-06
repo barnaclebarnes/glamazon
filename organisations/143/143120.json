@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143120
   },
-  "name": "ROMAN CATHOLIC ARCHDIOCESE OF BOSTON",
+  "name": [
+    {
+      "@value": "ROMAN CATHOLIC ARCHDIOCESE OF BOSTON",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": -71.0384
   },
   "url": "http://www.bostoncatholic.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500750",

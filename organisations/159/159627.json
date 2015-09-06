@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159627
   },
-  "name": "NATIONAL CENTER FOR CHILDRENS",
+  "name": [
+    {
+      "@value": "NATIONAL CENTER FOR CHILDRENS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "102 CEDAR ST",
@@ -22,9 +27,6 @@
     "longitude": -99.7355
   },
   "url": "http://www.nccil.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801727",

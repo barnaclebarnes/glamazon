@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164260
   },
-  "name": "Royal Children's Hospital Archives",
+  "name": [
+    {
+      "@value": "Royal Children's Hospital Archives",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.rch.org.au/archives/",
   "telephone": "(03) 9345 5112",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "royal-childrens-hospital-archives",

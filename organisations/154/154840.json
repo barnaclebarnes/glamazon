@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154840
   },
-  "name": "SCHRIVER HOUSE",
+  "name": [
+    {
+      "@value": "SCHRIVER HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "309 BALTIMORE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.shriverhouse.org",
   "telephone": "+1 (717) 337-2800",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200034",

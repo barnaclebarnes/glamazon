@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132965
   },
-  "name": "ANIMAS MUSEUM",
+  "name": [
+    {
+      "@value": "ANIMAS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3065 W 2ND AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.animasmuseum.org/?",
   "telephone": "+1 (970) 259-2402",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800141",

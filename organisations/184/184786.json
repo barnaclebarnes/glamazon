@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184786
   },
-  "name": "Fishhoek Valley Museum",
+  "name": [
+    {
+      "@value": "Fishhoek Valley Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "59 Central Circle, Fishhoek",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "021 782 1752",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

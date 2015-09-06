@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149527
   },
-  "name": "MUSEUM OF THE AMERICAN PIANO",
+  "name": [
+    {
+      "@value": "MUSEUM OF THE AMERICAN PIANO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "291 BROADWAY",
@@ -22,9 +27,6 @@
     "longitude": -74.0058
   },
   "telephone": "+1 (212) 406-5242",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600821",

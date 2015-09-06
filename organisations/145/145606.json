@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145606
   },
-  "name": "MOTO MUSEUM",
+  "name": [
+    {
+      "@value": "MOTO MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3441 OLIVE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.themotomuseum.com",
   "telephone": "+1 (314) 446-1805",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900035",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188491
   },
-  "name": "Museo archeologico ibleo",
+  "name": [
+    {
+      "@value": "Museo archeologico ibleo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Natalelli, 11",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.comune.ragusa.gov.it/cultura/musei.html",
   "telephone": "+39 0932826004",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal Lunedì alla Domenica dalle ore 9.00 alle 13.30 e dalle 16.30 alle ore 19.30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/0uSMTrkUpIPNGp80S8EqTxfuqac=/1000x1000/museums/logos/000/188/491/original/309d4f539a8171f6d31458fc36e4a858944ee6d.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161123
   },
-  "name": "BELLE GROVE INC",
+  "name": [
+    {
+      "@value": "BELLE GROVE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 537",
@@ -21,9 +26,6 @@
     "latitude": 39.0232,
     "longitude": -78.2647
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100629",

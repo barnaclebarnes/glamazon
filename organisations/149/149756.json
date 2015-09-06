@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149756
   },
-  "name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "name": [
+    {
+      "@value": "RENSSELAER POLYTECHNIC INSTITUTE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "110 8TH STREET",
@@ -21,9 +26,6 @@
     "latitude": 42.7313,
     "longitude": -73.684
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601050",

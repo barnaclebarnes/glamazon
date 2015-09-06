@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163724
   },
-  "name": "Box Hill Historical Society",
+  "name": [
+    {
+      "@value": "Box Hill Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://home.vicnet.net.au/~bhhs/",
   "telephone": "(03) 9285 4808 ",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesdays 11am to 4 pm; First Saturday of the month 10 am to noon. Also by appointment. Closed mid December to mid January.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesdays 11am to 4 pm; First Saturday of the month 10 am to noon. Also by appointment. Closed mid December to mid January.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "box-hill-historical-society-inc",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164070
   },
-  "name": "Melbourne's Living Museum of the West",
+  "name": [
+    {
+      "@value": "Melbourne's Living Museum of the West",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.livingmuseum.org.au/",
   "telephone": "+61 0419 154 265",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open Friday and Sunday 11 to 3pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open Friday and Sunday 11 to 3pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "living-museum-west",

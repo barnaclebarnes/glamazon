@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185003
   },
-  "name": "UNISA Anthro & Archaeology Museum",
+  "name": [
+    {
+      "@value": "UNISA Anthro & Archaeology Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Theo van Wijk Building, Preller & Ridge Streets, Muckleneuck, Pretoria",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "012 429 6823",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

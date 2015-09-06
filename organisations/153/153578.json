@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153578
   },
-  "name": "WESTERVILLE HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "WESTERVILLE HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1063",
@@ -22,9 +27,6 @@
     "longitude": -82.9376
   },
   "url": "http://www.westervillehistory.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403901356",

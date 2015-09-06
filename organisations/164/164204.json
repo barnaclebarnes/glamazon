@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164204
   },
-  "name": "Port Fairy Historical Society",
+  "name": [
+    {
+      "@value": "Port Fairy Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.historicalsociety.port-fairy.com",
   "telephone": "355682263",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "2pm to 5pm Wednesday, Saturday and Sunday winter hours 2 pm to 4 pm Saturdays only (July, August)",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "2pm to 5pm Wednesday, Saturday and Sunday winter hours 2 pm to 4 pm Saturdays only (July, August)",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "port-fairy-historical-society-inc",

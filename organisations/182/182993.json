@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182993
   },
-  "name": "Bauern- und Puppenmuseum",
+  "name": [
+    {
+      "@value": "Bauern- und Puppenmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Im Unterdorf 6",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.roehr-hof.de",
   "telephone": "08282/881835",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

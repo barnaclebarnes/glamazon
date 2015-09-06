@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188220
   },
-  "name": "Didactic Museum of Majolica",
+  "name": [
+    {
+      "@value": "Didactic Museum of Majolica",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo didattico delle maioliche",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Jacopo della Quercia, 1 c/o Istituto d'Arte, ",
@@ -21,9 +30,6 @@
     "longitude": 17.4321
   },
   "telephone": "+39 0995666521",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/MsuldxPmfSSqeVpCcLXm7U8ocy0=/1000x1000/museums/logos/000/188/220/original/e21cbd979e34527e3f859ac3b4156fcd9eebaa5.jpg"

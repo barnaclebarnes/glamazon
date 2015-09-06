@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163624
   },
-  "name": "Ansett Museum",
+  "name": [
+    {
+      "@value": "Ansett Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.ansettmuseum.com.au/",
   "telephone": "03 5571 2767",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open Daily, 10:00 am to 4:00 pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open Daily, 10:00 am to 4:00 pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ansett-museum",

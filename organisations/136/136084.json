@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136084
   },
-  "name": "LA GRANGE COLLEGE",
+  "name": [
+    {
+      "@value": "LA GRANGE COLLEGE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 BROAD ST",
@@ -22,9 +27,6 @@
     "longitude": -85.0435
   },
   "telephone": "+1 (706) 880-8000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401300355",

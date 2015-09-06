@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184185
   },
-  "name": "Heritage Kaikohe Pioneer Village",
+  "name": [
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Heritage Kaikohe Pioneer Village",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:heritagekaikohe@gmail.com"
@@ -19,18 +60,73 @@
   },
   "url": "http://www.pioneervillage.org.nz",
   "telephone": "09 401 0816",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon-Sat 10am-4pm,\r\n \r\nSun 1pm-4pm.\r\n\r\nClosed weekends in Winter only.\r\n\r\nClosed Christmas Day.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-sab 10-16, sole 13-16.\n\nChiuso il fine settimana solo in inverno.\n\nGiorno di Natale chiuso.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周一至周六 10 上午-4 下午，太阳 1 下午-4 下午。\n\n只在冬天的封闭的周末。\n\n封闭的圣诞节那天。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lun-sáb 10:00-16:00, el sol 13:00-16:00.\n\nCerrado los fines de semana en invierno solamente.\n\nCerrado día de Navidad.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sáb 10:00-16:00, 13:00-16:00 de sol.\n\nFechado nos fins de semana no inverno só.\n\nFechado no dia de Natal.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月-土 10-16, 13-16 日。\n\n冬季限定土日。\n\n閉じたクリスマスの日。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Пн сб 10 утра - 4 вечера, вс 1-4 вечера.\n\nЗакрытое выходные только зимой.\n\nЗакрытые день Рождества.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Sa 10:00-16:00, so 13:00-16:00.\n\nGeschlossenen Wochenenden nur im Winter.\n\nWeihnachtstag geschlossen.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun-Sam 10:00-16:00, Dim 13:00-16:00.\n\nFermé les week-ends en hiver seulement.\n\nFermé le jour de Noël.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Sabtu 10 am - 4 pm, Sun 1 pm - 4 pm.\n\nDitutup hujung minggu pada musim sejuk sahaja.\n\nHari Krismas tertutup.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Sa 10:00-16:00, so 13:00-16:00.\n\nGeschlossenen Wochenenden nur im Winter.\n\nWeihnachtstag geschlossen.",
   "offers": {
     "@Type": "Offer",
-    "description": "Adults: $15.00,\r\nGold Card: $12.00,\r\nChildren: $5.00,\r\nThese include a guided tour.\r\nGrounds only:\r\nAdult $5.00,\r\nChild  $1.00."
+    "description": [
+      {
+        "@value": "Adults: $15.00,\r\nGold Card: $12.00,\r\nChildren: $5.00,\r\nThese include a guided tour.\r\nGrounds only:\r\nAdult $5.00,\r\nChild  $1.00.",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Adulti: $15,00, Gold Card: $12,00, bambini: $5,00, questi includono un tour guidato.\nGiardino solo: adulti $5,00, bambini $1,00.",
+        "@langauge": "it"
+      },
+      {
+        "@value": "成人: $15.00，金卡会员: $12.00，儿童: $5.00，这些包括导游。\n只有理由: 成人 $5.00，儿童 $1.00。",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Adultos: $15,00, tarjeta oro: $12,00, niños: $5,00, estos incluyen una visita guiada.\nMotivos sólo: adulto $5,00, niño $1,00.",
+        "@langauge": "es"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184185",
+    "url": "http://www.museums.io/en/museums/184185",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149901
   },
-  "name": "WOODSTOCK MUSEUM",
+  "name": [
+    {
+      "@value": "WOODSTOCK MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 73",
@@ -21,9 +26,6 @@
     "latitude": 42.0387,
     "longitude": -74.1086
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601195",

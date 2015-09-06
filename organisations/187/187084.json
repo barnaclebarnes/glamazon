@@ -6,7 +6,16 @@
     "name": "id",
     "value": 187084
   },
-  "name": "Poldi Pezzoli Museum",
+  "name": [
+    {
+      "@value": "Poldi Pezzoli Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo Poldi Pezzoli",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Manzoni, 12",
@@ -22,9 +31,6 @@
   },
   "url": "http://ww.museopoldipezzoli.it",
   "telephone": "+39 0245473800",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/uasYdfh9521aX6Prgp54dEoq3yE=/1000x1000/museums/logos/000/187/084/original/77d49a2119ca273be63f74d55664822f15ebd28.jpg"

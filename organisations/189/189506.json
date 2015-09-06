@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189506
   },
-  "name": "Museo di Palazzo Grimani",
+  "name": [
+    {
+      "@value": "Museo di Palazzo Grimani",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ramo Grimani, Castello 4858",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.palazzogrimani.org/",
   "telephone": "+39 0412210577",
-  "contactPoint": [
-
-  ],
-  "openingHours": "lunedì 8.15 – 14.00 da martedì a domenica 8.15 – 19.15",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 4,00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/IL34KOrSlVcbeyD1UMCHP6BQmb8=/1000x1000/museums/logos/000/189/506/original/a828e8718c8bb2e8bf1b859b763742b7685b16.jpg"

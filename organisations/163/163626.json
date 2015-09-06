@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163626
   },
-  "name": "Apollo Bay Museum",
+  "name": [
+    {
+      "@value": "Apollo Bay Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.apollobay.org.au/history/index.htm",
   "telephone": "439391993",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "2pm-5pm Saturdays and Sundays, Public and School Holidays",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "2pm-5pm Saturdays and Sundays, Public and School Holidays",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "apollo-bay-old-cable-station-museum",

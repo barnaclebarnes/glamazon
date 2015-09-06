@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164421
   },
-  "name": "University of Melbourne, Property and Campus Services Department",
+  "name": [
+    {
+      "@value": "University of Melbourne, Property and Campus Services Department",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.unimelb.edu.au/culturalcollections/collections/engineering.html",
   "telephone": "(03) 8344 6000",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday-Friday 10.00am-4.00pm ",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday-Friday 10.00am-4.00pm ",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "university-melbourne-property-campus-services-photographic-collection",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188322
   },
-  "name": "Museo diocesano La Maddalena",
+  "name": [
+    {
+      "@value": "Museo diocesano La Maddalena",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Barone Manno, SNC",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museumtempioampurias.it",
   "telephone": "+39 0789 737400",
-  "contactPoint": [
-
-  ],
-  "openingHours": "10,00-13,00 / 15,00-20,00 /21,30-2330",
-  "offers": {
-    "@Type": "Offer",
-    "description": "pagamento"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/gPEz7kV_4EufkeMl8-T7yhwJ-e4=/1000x1000/museums/logos/000/188/322/original/20811d44e9976af27738ad766761091723dda3c.JPG"

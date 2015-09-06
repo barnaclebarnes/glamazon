@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144241
   },
-  "name": "GRAND RAPIDS CHILDRENS MUSEUM",
+  "name": [
+    {
+      "@value": "GRAND RAPIDS CHILDRENS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "11 SHELDON AVE NE",
@@ -22,9 +27,6 @@
     "longitude": -85.667
   },
   "url": "http://www.grcm.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600778",

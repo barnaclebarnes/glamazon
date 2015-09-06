@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138467
   },
-  "name": "CLARK COUNTY MUSEUM",
+  "name": [
+    {
+      "@value": "CLARK COUNTY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 749",
@@ -21,9 +26,6 @@
     "latitude": 38.2755,
     "longitude": -85.74
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401800253",

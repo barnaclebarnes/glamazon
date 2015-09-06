@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164357
   },
-  "name": "The Cyril Kett Optometry Museum",
+  "name": [
+    {
+      "@value": "The Cyril Kett Optometry Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://museum.aco.org.au/",
   "telephone": "432217853",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "cyril-kett-optometry-museum",

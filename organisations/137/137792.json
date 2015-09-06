@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137792
   },
-  "name": "DUPAGE GRAUE MILL CORPORATION",
+  "name": [
+    {
+      "@value": "DUPAGE GRAUE MILL CORPORATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3800 YORK RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.grauemill.org",
   "telephone": "+1 (630) 655-2090",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700937",

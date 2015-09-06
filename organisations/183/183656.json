@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183656
   },
-  "name": "Schloss Neuschwanstein",
+  "name": [
+    {
+      "@value": "Schloss Neuschwanstein",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.neuschwanstein.de",
   "telephone": "08362/93988-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

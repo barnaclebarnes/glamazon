@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184337
   },
-  "name": "Ngā Taonga Sound & Vision",
+  "name": [
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Ngā Taonga Sound & Vision",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:information@ngataonga.org.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.ngataonga.org.nz",
   "telephone": "Wgtn: (+64 4) 384 7647, Akld: (+64 9) 379 0688, Chch: (+64 3) 374 8468",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Wellington: Mon-Tues 9.30am-4pm, Wed-Fri 9.30am-7pm, Sat 4pm-7pm. Auckland: Mon-Fri 11am-5pm. Christchurch: by appointment.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Wellington: Lun-mar 9.30 am-16, mer-ven ore 9.30 am-19, sab 16-19 Auckland: lun-ven 11-17 Christchurch: su appuntamento.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "惠灵顿: 周一至周二 9.30 am-4 下午、 星期三至星期五 9.30 am-7 下午，坐 4 下午-7 下午奥克兰: 周一至周五 11 上午-5 下午基督城: 预约。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Wellington: Lun-martes 9.30 am-16:00, miércoles a viernes 9.30 am-19:00, 16:00-19:00 Auckland se sentó: Christchurch de lunes a viernes 11:00-17:00: por cita.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Wellington: Seg-Qua 9: 30 am-16:00, Qua-Sex 9: 30 am-19:00, Sab 16:00-19:00 Auckland: Seg-Sex 11:00-17:00 Christchurch: com hora marcada.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "ウェリントン: 月火 9: 30 午前 16、水金 9: 30 午前-19 土 16 19 オークランド: 月 ~ 金 11-17 クライストチャーチ: 任命によって。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Веллингтон: Пон-Вт 9.30 утра - 4 вечера, среда-пятница 9.30 am - 7 вечера, сб 4 вечера - 7 pm. Окленд: Пн-Пт 11: 00 - 5 pm. Крайстчерч: по предварительной записи.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Wellington: Mo-Di 9.30 Uhr-16:00, Mi-Fr 9.30 Uhr-19:00, Sa 16:00-19:00 Auckland: Mo-Fr 11:00-17:00 Christchurch: nach Vereinbarung.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Wellington : Lun-Mar 9 h 30 am-16:00, mer-ven 9 h 30 am-19:00, sam 16:00-19:00 Auckland : Christchurch de 11:00-17:00 du lundi au vendredi: sur rendez-vous.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Wellington: Mon-sel 9.30 pagi - 4 petang, Rabu-Jumaat 9.30 pagi - 7 petang, duduk 4 pm - 7 pm. Auckland: Isnin-Jumaat 11 am - 5 pm. Christchurch: temujanji.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Wellington: Mo-Di 9.30 Uhr-16:00, Mi-Fr 9.30 Uhr-19:00, Sa 16:00-19:00 Auckland: Mo-Fr 11:00-17:00 Christchurch: nach Vereinbarung.",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184337",
+    "url": "http://www.museums.io/en/museums/184337",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

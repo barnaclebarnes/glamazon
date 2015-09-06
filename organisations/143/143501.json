@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143501
   },
-  "name": "SLOAN MUSEUM",
+  "name": [
+    {
+      "@value": "SLOAN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1221 E KEARSLEY ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sloanmuseum.com",
   "telephone": "+1 (810) 237-3450",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600038",

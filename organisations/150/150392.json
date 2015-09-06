@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150392
   },
-  "name": "MUSEUM OF BIBLICAL ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF BIBLICAL ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1865 BROADWAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mobia.org",
   "telephone": "+1 (212) 408-1500",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601686",

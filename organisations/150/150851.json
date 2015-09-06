@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150851
   },
-  "name": "22 MAIN STREET COOPERSTOWN INC",
+  "name": [
+    {
+      "@value": "22 MAIN STREET COOPERSTOWN INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 731",
@@ -21,9 +26,6 @@
     "latitude": 42.7084,
     "longitude": -74.9124
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602145",

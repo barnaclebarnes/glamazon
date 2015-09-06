@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185922
   },
-  "name": "Museo civico di arte sacra",
+  "name": [
+    {
+      "@value": "Museo civico di arte sacra",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Eclano, 20",
@@ -21,9 +26,6 @@
     "longitude": 14.9939
   },
   "telephone": "+39 0825 447078",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/5XpCIMxSP_uywvkJiHy_-hfSaeQ=/1000x1000/museums/logos/000/185/922/original/4a8426bbd258e53115f6bea8556e75fcca53223.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183292
   },
-  "name": "Museum Fünf Kontinente",
+  "name": [
+    {
+      "@value": "Museum Fünf Kontinente",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Maximilianstraße 42",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-fuenf-kontinente.de/",
   "telephone": "089/210136-100",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

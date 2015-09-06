@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163835
   },
-  "name": "Discovery Science and Technology Centre",
+  "name": [
+    {
+      "@value": "Discovery Science and Technology Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.discovery.asn.au/",
   "telephone": "(03) 5444 4400",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "discovery-science-technology-centre",

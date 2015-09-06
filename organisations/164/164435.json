@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164435
   },
-  "name": "Victoria Police Museum",
+  "name": [
+    {
+      "@value": "Victoria Police Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.policemuseum.vic.gov.au",
   "telephone": "(03) 9247 6354",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday to Friday\r\n10am - 4pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday to Friday\r\n10am - 4pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "victoria-police-museum",

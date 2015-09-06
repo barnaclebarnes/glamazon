@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187918
   },
-  "name": "MAO - Museo d’Arte Orientale",
+  "name": [
+    {
+      "@value": "MAO - Museo d’Arte Orientale",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Palazzo Mazzonis - Via San Domenico, 9-11, ",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.maotorino.it",
   "telephone": "+39 0114436927",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "10,00€ Ingresso libero il primo martedì del mese, se non festivo"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ayx2XPiKp7ZF0kxMrrN_-JPOaOY=/1000x1000/museums/logos/000/187/918/original/a6906ed8d9babf17d21746fb503ea942272a61d.JPG"

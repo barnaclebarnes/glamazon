@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149220
   },
-  "name": "PARRISH ART MUSEUM INC",
+  "name": [
+    {
+      "@value": "PARRISH ART MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "279 MONTAUK HIGHWAY",
@@ -22,9 +27,6 @@
     "longitude": -72.3647
   },
   "url": "http://www.parrishart.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600514",

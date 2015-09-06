@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150335
   },
-  "name": "EMPIRE STATE THEATRE & MUSICAL INSTRUMENT MUSEUM",
+  "name": [
+    {
+      "@value": "EMPIRE STATE THEATRE & MUSICAL INSTRUMENT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 PEBBLESTONE DRIVE",
@@ -21,9 +26,6 @@
     "latitude": 43.0489,
     "longitude": -75.8904
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601629",

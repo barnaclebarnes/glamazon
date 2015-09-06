@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131958
   },
-  "name": "GRIDLEY MUSEUM CORPORATION",
+  "name": [
+    {
+      "@value": "GRIDLEY MUSEUM CORPORATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 KENTUCKY STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://gridleymuseum.com",
   "telephone": "+1 (530) 846-4482",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602084",

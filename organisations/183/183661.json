@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183661
   },
-  "name": "Kunsthalle Schweinfurt im ehemaligen Ernst-Sachs-Bad",
+  "name": [
+    {
+      "@value": "Kunsthalle Schweinfurt im ehemaligen Ernst-Sachs-Bad",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rüfferstraße 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kunsthalle-schweinfurt.de",
   "telephone": "09721/51479",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

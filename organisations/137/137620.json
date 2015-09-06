@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137620
   },
-  "name": "INTERNATIONAL CINEMA MUSEUM",
+  "name": [
+    {
+      "@value": "INTERNATIONAL CINEMA MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "319 W ERIE ST",
@@ -22,9 +27,6 @@
     "longitude": -87.6365
   },
   "telephone": "+1 (708) 202-7055",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700765",

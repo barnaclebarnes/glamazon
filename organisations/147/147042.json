@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147042
   },
-  "name": "MARJORIE BARRICK MUSEUM",
+  "name": [
+    {
+      "@value": "MARJORIE BARRICK MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4505 S MARYLAND PKWY",
@@ -23,9 +28,6 @@
   },
   "url": "http://barrickmuseum.unlv.edu",
   "telephone": "+1 (702) 895-3381",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403200017",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149546
   },
-  "name": "FRIENDS OF ALICE AUSTEN HOUSE INC",
+  "name": [
+    {
+      "@value": "FRIENDS OF ALICE AUSTEN HOUSE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2 HYLAN BLVD",
@@ -22,9 +27,6 @@
     "longitude": -74.0635
   },
   "url": "http://aliceausten.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600840",

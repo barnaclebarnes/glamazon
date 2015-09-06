@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137616
   },
-  "name": "WOMAN MADE",
+  "name": [
+    {
+      "@value": "WOMAN MADE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "685 N MILWAUKEE AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.womanmade.org",
   "telephone": "+1 (312) 738-0400",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700761",

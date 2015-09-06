@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182651
   },
-  "name": "Walhalla",
+  "name": [
+    {
+      "@value": "Walhalla",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Walhallastraße 50",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.walhalla-regensburg.de",
   "telephone": "09403/9616-80",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

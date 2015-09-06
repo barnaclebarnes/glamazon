@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184165
   },
-  "name": "New Zealand Post Museum Collection",
+  "name": [
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "en"
+    },
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "it"
+    },
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "es"
+    },
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "de"
+    },
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "New Zealand Post Museum Collection",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 174.876
   },
   "telephone": "64-4-568 0270",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By arrangement",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Da concordare",
+      "@langauge": "it"
+    },
+    {
+      "@value": "通过安排",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Por el arreglo",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Por arranjo",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "配置によって",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "По договоренности",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Nach Absprache",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Par arrangement",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Dengan pengaturan",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Nach Absprache",
   "offers": {
     "@Type": "Offer",
-    "description": " Kostenlose"
+    "description": [
+      {
+        "@value": " Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": " Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": " Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": " Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": " Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": " Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": " Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184165",
+    "url": "http://www.museums.io/en/museums/184165",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

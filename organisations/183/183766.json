@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183766
   },
-  "name": "Druckereimuseum des Traunsteiner Tagblatts",
+  "name": [
+    {
+      "@value": "Druckereimuseum des Traunsteiner Tagblatts",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Marienstraße 12",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.traunsteiner-tagblatt.de/index.php?Rubrik=Druckereimuseum&ASeite=main.php",
   "telephone": "0861/98770",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

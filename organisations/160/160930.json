@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160930
   },
-  "name": "FRANCONIA MUSEUM INC",
+  "name": [
+    {
+      "@value": "FRANCONIA MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6121 FRANCONIA RD",
@@ -22,9 +27,6 @@
     "longitude": -77.1478
   },
   "url": "http://www.franconiamuseum.org ",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100436",

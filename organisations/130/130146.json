@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130146
   },
-  "name": "NILES TRAIN DEPOT",
+  "name": [
+    {
+      "@value": "NILES TRAIN DEPOT",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "37592 NILES BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nilesdepot.org",
   "telephone": "+1 (510) 797-4449",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600272",

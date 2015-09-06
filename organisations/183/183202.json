@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183202
   },
-  "name": "Amerika Haus",
+  "name": [
+    {
+      "@value": "Amerika Haus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Karolinenplatz 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.amerikahaus.de/index.html",
   "telephone": "089/55 25 37-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

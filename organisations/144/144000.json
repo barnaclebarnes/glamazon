@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144000
   },
-  "name": "ANN ARBOR HANDS ON MUSEUM",
+  "name": [
+    {
+      "@value": "ANN ARBOR HANDS ON MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "220 E ANN ST",
@@ -22,9 +27,6 @@
     "longitude": -83.7469
   },
   "url": "http://www.aahom.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600537",

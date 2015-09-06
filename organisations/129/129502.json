@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129502
   },
-  "name": "MUSEUM OF CONTEMPORARY ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF CONTEMPORARY ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "265 S CHURCH AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.moca-tucson.org",
   "telephone": "+1 (520) 624-5019",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400404",

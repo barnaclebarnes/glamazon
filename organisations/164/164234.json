@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164234
   },
-  "name": "Richmond & Burnley Historical Society",
+  "name": [
+    {
+      "@value": "Richmond & Burnley Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://home.vicnet.net.au/~rbhs/",
   "telephone": "(03) 9428 6231 ",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday     2 - 4pm\r\nSunday  2.15 - 4pm\r\n",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesday     2 - 4pm\r\nSunday  2.15 - 4pm\r\n",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "richmond-and-burnley-historical-society",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150257
   },
-  "name": "MEDINA RAILROAD MUSEUM",
+  "name": [
+    {
+      "@value": "MEDINA RAILROAD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 136",
@@ -23,9 +28,6 @@
   },
   "url": "http://railroadmuseum.net/wp",
   "telephone": "+1 (585) 798-6106",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601551",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184972
   },
-  "name": "Schreiner House",
+  "name": [
+    {
+      "@value": "Schreiner House",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9 Cross Street, Cradock",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "048 881 5251",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

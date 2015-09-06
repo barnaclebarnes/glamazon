@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183876
   },
-  "name": "Zirkelmuseum",
+  "name": [
+    {
+      "@value": "Zirkelmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hugenottenplatz 8",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.zirkelmuseum.de",
   "telephone": "09104/8979-30",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

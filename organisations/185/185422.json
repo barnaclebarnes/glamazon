@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185422
   },
-  "name": "Huittinen Museum",
+  "name": [
+    {
+      "@value": "Huittinen Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 22.696
   },
   "url": "http://www.huittinen.fi/palvelut/kulttuuri_ja_vapaa-aika/huittisten_museo",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

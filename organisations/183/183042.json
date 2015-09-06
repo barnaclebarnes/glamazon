@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183042
   },
-  "name": "Bergbau-Museum",
+  "name": [
+    {
+      "@value": "Bergbau-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchplatz 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bergbau-kupferberg.de",
   "telephone": "09227/5342",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

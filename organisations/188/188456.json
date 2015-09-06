@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188456
   },
-  "name": "Museo civico di Corleone",
+  "name": [
+    {
+      "@value": "Museo civico di Corleone",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Orfanotrofio, 4",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.comune.corleone.pa.it/museo.html",
   "telephone": "+39 091 8463918",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Tutti i giorni dalle ore 9,30 alle 13,00 e dalle 15,30 alle 19,30",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/jnl7LGeCPrxMIPirssuo_KWlwDk=/1000x1000/museums/logos/000/188/456/original/a8337abfbde82ba622c73ee79b14956597da188b.JPG"

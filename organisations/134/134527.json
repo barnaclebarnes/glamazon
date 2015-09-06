@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134527
   },
-  "name": "RANEY HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "RANEY HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "128 MARKET ST",
@@ -22,9 +27,6 @@
     "longitude": -84.9867
   },
   "telephone": "+1 (850) 653-1700",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200081",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129402
   },
-  "name": "ARIZONA SCIENCE CENTER",
+  "name": [
+    {
+      "@value": "ARIZONA SCIENCE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "600 E WASHINGTON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.azscience.org",
   "telephone": "+1 (602) 716-2010",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400304",

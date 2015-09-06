@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183239
   },
-  "name": "Haus des Deutschen Ostens",
+  "name": [
+    {
+      "@value": "Haus des Deutschen Ostens",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Lilienberg 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hdo.bayern.de",
   "telephone": "089/449993-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

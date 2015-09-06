@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188126
   },
-  "name": "The Archaeological Documentation of Latiano Centre",
+  "name": [
+    {
+      "@value": "The Archaeological Documentation of Latiano Centre",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Centro di documentazione archeologica di Latiano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Umberto I, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museinrete.it",
   "telephone": "+39 0831.729465",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/8aFjgeXWGP9cDdajqfu0l2QuZuM=/1000x1000/museums/logos/000/188/126/original/f1f65dcbf6e546822ea8900825439699fafa35.jpg"

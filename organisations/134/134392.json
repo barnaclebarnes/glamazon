@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134392
   },
-  "name": "HERITAGE US",
+  "name": [
+    {
+      "@value": "HERITAGE US",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1025 CONNECTICUT AVE NW SUITE 400",
@@ -21,9 +26,6 @@
     "latitude": 38.9032,
     "longitude": -77.0396
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100173",

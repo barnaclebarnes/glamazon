@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188146
   },
-  "name": "The Diocesan Museum of Bovino",
+  "name": [
+    {
+      "@value": "The Diocesan Museum of Bovino",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo diocesano di Bovino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Castello, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.comune.bovino.it",
   "telephone": "+39 0881961051",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/57lz2y4OeWfPJ8bhexo1T4EmJlU=/1000x1000/museums/logos/000/188/146/original/681e5ea33bd74033b029b021daea5a2af21129ae.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187074
   },
-  "name": "Museo della Basilica di Sant'Ambrogio",
+  "name": [
+    {
+      "@value": "Museo della Basilica di Sant'Ambrogio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Sant'Ambrogio, 15",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.santambrogio-basilica.it",
   "telephone": "+39 02 86450895",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "106912",

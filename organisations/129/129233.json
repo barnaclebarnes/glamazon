@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129233
   },
-  "name": "TUCSON BOTANICAL GARDENS",
+  "name": [
+    {
+      "@value": "TUCSON BOTANICAL GARDENS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2150 N ALVERNON WAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tucsonbotanical.org",
   "telephone": "+1 (520) 326-9686",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400135",

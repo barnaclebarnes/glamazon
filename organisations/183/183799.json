@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183799
   },
-  "name": "Kunststation",
+  "name": [
+    {
+      "@value": "Kunststation",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Petterstraße 10",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kunststationviechtach.de",
   "telephone": "09942/2729",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

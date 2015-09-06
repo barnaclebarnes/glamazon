@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189939
   },
-  "name": "ADAMS NATIONAL HISTORICAL PARK",
+  "name": [
+    {
+      "@value": "ADAMS NATIONAL HISTORICAL PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "135 ADAMS ST",
@@ -22,9 +27,6 @@
     "longitude": -71.0108
   },
   "telephone": "+1 (617) 773-1177",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402501131",

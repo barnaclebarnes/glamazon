@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183277
   },
-  "name": "Sammlung Café Luitpold",
+  "name": [
+    {
+      "@value": "Sammlung Café Luitpold",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Brienner Straße 11",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.luitpoldblock.de",
   "telephone": "089/24257679",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

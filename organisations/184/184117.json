@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184117
   },
-  "name": "Te Aroha & Districts Museum",
+  "name": [
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Te Aroha & Districts Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:tearohamuseum@xtra.co.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.tearoha-museum.com",
   "telephone": "64-7-884 4427",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Summer: 11am-4pm \nWinter: 12pm-3pm\nOutside these hours by appointment: 07 884 8964",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Inverno estate: 11-16: 12-15 fuori da questi orari su appuntamento: 07 884 8964",
+      "@langauge": "it"
+    },
+    {
+      "@value": "夏季: 11 上午-4 下午冬季: 12 下午-3 下午由任命这些时间以外: 07 884 8964",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Invierno verano: 11:00-16:00:12: 00-15:00 fuera de este horario previa cita: 07 884 8964",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Inverno verão: 11:00-16:00:12: 00-15:00 fora deste horário por marcação: 07 884 8964",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "冬の夏: 11-16: 12-15 の予定で時間外: 07 884 8964",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Летом: 11 утра - 4 вечера зимой: 12 pm - 3 pm вне этих часов, назначение: 07 884 8964",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Winter Sommer: 11:00-16:00:12: 00-15:00 außerhalb dieser Zeiten nach Vereinbarung: 07 884 8964",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Hiver été : 11:00-16:00:12 : 00-15:00 en dehors de ces heures sur rendez-vous : 07 884 8964",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Musim sejuk di musim panas: 11 am - 4 pm: 12 pm - 3 pm di luar waktu-waktu temujanji: 07 884 8964",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Winter Sommer: 11:00-16:00:12: 00-15:00 außerhalb dieser Zeiten nach Vereinbarung: 07 884 8964",
   "offers": {
     "@Type": "Offer",
-    "description": "$4 Erwachsene, $2 Kinder (über 5 Jahre), $12-Familie"
+    "description": [
+      {
+        "@value": "$4 adult, $2 child (over 5yrs), $12 family",
+        "@langauge": "en"
+      },
+      {
+        "@value": "adulto $4, $2 bambino (oltre 5 anni), famiglia $12",
+        "@langauge": "it"
+      },
+      {
+        "@value": "$4 成人，$2 儿童 (5 岁以上)，$12 家族",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "adultos $4, $2 niños (más de 5 años), familia $12",
+        "@langauge": "es"
+      },
+      {
+        "@value": "adulto de US $4, $2 criança (mais de 5 anos), família de US $12",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "大人 $4、$2 子供 (5 歳以上) $12 家族",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Взрослый $4, $2 ребенка (более 5 лет), $12 семьи",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "$4 Erwachsene, $2 Kinder (über 5 Jahre), $12-Familie",
+        "@langauge": "de"
+      },
+      {
+        "@value": "adulte 4 $, 2 $ enfant (plus de 5 ans), famille de 12 $",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "$4 orang dewasa, $2 Kanak-Kanak (lebih dari 5yrs), $12 keluarga",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184117",
+    "url": "http://www.museums.io/en/museums/184117",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

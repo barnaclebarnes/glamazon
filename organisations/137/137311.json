@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137311
   },
-  "name": "AQUARIUM FISH SANCTUARY",
+  "name": [
+    {
+      "@value": "AQUARIUM FISH SANCTUARY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3652 SOUTH HAMILTON",
@@ -22,9 +27,6 @@
     "longitude": -87.6788
   },
   "url": "http://www.aquariumfishsanctuary.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700456",

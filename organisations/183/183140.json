@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183140
   },
-  "name": "Heimatmuseum Merkendorf",
+  "name": [
+    {
+      "@value": "Heimatmuseum Merkendorf",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Marktplatz 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.merkendorf.de/museum.htm",
   "telephone": "09826/9772",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

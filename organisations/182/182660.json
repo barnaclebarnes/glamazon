@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182660
   },
-  "name": "Dorfener Heimatmuseum",
+  "name": [
+    {
+      "@value": "Dorfener Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Herzoggraben 10",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dorfen.de/heimatmuseum/heimatmuseum",
   "telephone": "08081/3796",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

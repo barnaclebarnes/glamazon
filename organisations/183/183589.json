@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183589
   },
-  "name": "Fabrikmuseum der Leonischen Industrie",
+  "name": [
+    {
+      "@value": "Fabrikmuseum der Leonischen Industrie",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Obere Mühle 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fabrikmuseum-roth.de",
   "telephone": "09171/60564",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

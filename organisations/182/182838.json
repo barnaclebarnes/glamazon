@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182838
   },
-  "name": "Stadtmuseum Gunzenhausen",
+  "name": [
+    {
+      "@value": "Stadtmuseum Gunzenhausen",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rathausstraße 12",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gunzenhausen.de/geschichte/stadtmuseum/indexstadtmuseum.html",
   "telephone": "09831/508-306",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

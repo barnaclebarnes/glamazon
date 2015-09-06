@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188736
   },
-  "name": "Museolab della città di Grosseto",
+  "name": [
+    {
+      "@value": "Museolab della città di Grosseto",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Vinzaglio, 27",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.archeogr.unisi.it/ccgba/lam/museolab.html",
   "telephone": "+39 0564441205",
-  "contactPoint": [
-
-  ],
-  "openingHours": "lunedì al venerdì 9,00-13,00 / 15,00-18,00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/BIq5k2SyIH4wB2-AYNky7wJ16gc=/1000x1000/museums/logos/000/188/736/original/be527f80bd4ed7dd3eaeaeaee02c6d82e33c7fc.jpg"

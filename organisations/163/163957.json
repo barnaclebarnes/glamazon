@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163957
   },
-  "name": "HMAS Cerberus Museum",
+  "name": [
+    {
+      "@value": "HMAS Cerberus Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.navy.gov.au/history/museums/museum-of-hmas-cerberus",
   "telephone": "03 5931 5678",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon - Fri 9:30 - 2:00 - All visits to be pre arranged ",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Mon - Fri 9:30 - 2:00 - All visits to be pre arranged ",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "museum-of-hmas-cerberus",

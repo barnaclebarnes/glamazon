@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188195
   },
-  "name": "Museum of the Environment (Science and Nature History)",
+  "name": [
+    {
+      "@value": "Museum of the Environment (Science and Nature History)",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo dell'Ambiente (Storia della Scienza e della Natura)",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via per Monteroni, Centro Ecotekne, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.siba3.unile.it/ctle/mda/",
   "telephone": "+39 0832361176",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Tc7QlidE4yw753vkhagPvBU8PKE=/1000x1000/museums/logos/000/188/195/original/7e952bd9d87a9fdcd363342ee9b7ab906e192c7e.jpg"

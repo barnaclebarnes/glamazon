@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163936
   },
-  "name": "Hastings-Western Port Historical Society",
+  "name": [
+    {
+      "@value": "Hastings-Western Port Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://home.vicnet.net.au/~dromana/hastings.htm",
   "telephone": "03 9781 1141",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sundays 2-4 pm   Wednesdays 9.30-12.15pm - at other times by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Sundays 2-4 pm   Wednesdays 9.30-12.15pm - at other times by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "hastings-western-port-historical-society-inc",

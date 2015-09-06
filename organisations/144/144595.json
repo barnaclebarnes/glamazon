@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144595
   },
-  "name": "PERLMAN TEACHING MUSEUM",
+  "name": [
+    {
+      "@value": "PERLMAN TEACHING MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "CARLETON COLLEGE ONE NORTH COLLEGE STREET",
@@ -22,9 +27,6 @@
     "longitude": -93.1657
   },
   "telephone": "+1 (507) 646-4342",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700035",

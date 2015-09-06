@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189082
   },
-  "name": "Museo della frutticoltura",
+  "name": [
+    {
+      "@value": "Museo della frutticoltura",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Brandis, 4",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.obstbaumuseum.it",
   "telephone": "+39 0473564387",
-  "contactPoint": [
-
-  ],
-  "openingHours": "18 marzo - 8 novembre lu-ve ore 10-17 sa ore 13-17 (solo in aprile, maggio, settembre e ottobre) ultima entrata: ore 16",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 4.00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/oT2koCVnL4TQuZirWYW3e5mcpKg=/1000x1000/museums/logos/000/189/082/original/b23afc22bfae504e998bd09a4e87a15b7d57e53a.jpg"

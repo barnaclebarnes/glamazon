@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164369
   },
-  "name": "The Johnston Collection",
+  "name": [
+    {
+      "@value": "The Johnston Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.johnstoncollection.org",
   "telephone": "9416 2525",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "bookings essential | Open Monday to Friday, three tours daily 10.00 am, 12.00 noon 2.15 pm. Closed public holidays.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "bookings essential | Open Monday to Friday, three tours daily 10.00 am, 12.00 noon 2.15 pm. Closed public holidays.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "the-johnston-collection",

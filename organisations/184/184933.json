@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184933
   },
-  "name": "President Pretorius Museum",
+  "name": [
+    {
+      "@value": "President Pretorius Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Van der Hoff Avenue, Potchefstroom",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "018 299 5036",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188187
   },
-  "name": "The Ecomuseum of Cavallino",
+  "name": [
+    {
+      "@value": "The Ecomuseum of Cavallino",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo diffuso di Cavallino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazzetta F.lli Cervi, ",
@@ -16,9 +25,6 @@
   },
   "url": "http://www.unisalento.it/web/guest/180",
   "telephone": "+39 333 1224424",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/2xqJA5d8wZh5KbLoJ6mn7AP-61A=/1000x1000/museums/logos/000/188/187/original/67b6bcc0e1cab578036ce6536d799ee648ed79e.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186707
   },
-  "name": "Museo navale di Pegli",
+  "name": [
+    {
+      "@value": "Museo navale di Pegli",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza C. Bonavino, 7",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.museonavale.it",
   "telephone": "+39 010/6969885",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100368",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133534
   },
-  "name": "SOMERS HISTORICAL MUSEUM",
+  "name": [
+    {
+      "@value": "SOMERS HISTORICAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9 BATTLE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.somershistoricalsoc.org",
   "telephone": "+1 (914) 277-4977",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900009",

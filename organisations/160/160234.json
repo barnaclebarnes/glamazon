@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160234
   },
-  "name": "AMERICAN PRECISION MUSEUM ASSOCATION",
+  "name": [
+    {
+      "@value": "AMERICAN PRECISION MUSEUM ASSOCATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "196 S. MAIN STREET",
@@ -22,9 +27,6 @@
     "longitude": -72.3889
   },
   "telephone": "+1 (802) 674-5781",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405000040",

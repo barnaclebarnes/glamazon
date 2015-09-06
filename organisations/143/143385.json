@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143385
   },
-  "name": "BOSTON LANDMARKS ORCHESTRA",
+  "name": [
+    {
+      "@value": "BOSTON LANDMARKS ORCHESTRA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10 GUEST ST #280",
@@ -22,9 +27,6 @@
     "longitude": -71.1476
   },
   "telephone": "+1 (617) 987-2000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402501015",

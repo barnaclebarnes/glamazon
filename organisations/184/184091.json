@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184091
   },
-  "name": "Künstlerhaus Bremen (art gallery)",
+  "name": [
+    {
+      "@value": "Künstlerhaus Bremen (art gallery)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:buero@kuenstlerhausbremen.de"
@@ -18,9 +23,6 @@
     "longitude": 8.79938
   },
   "telephone": "+49 421 508598",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bremen",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183733
   },
-  "name": "Bernstein-Museum",
+  "name": [
+    {
+      "@value": "Bernstein-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Heilig-Geist-Straße 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bernsteinmuseum.com/bernsteinmuseum-bad-fuessing.html",
   "telephone": "08531/981034",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

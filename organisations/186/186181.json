@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186181
   },
-  "name": "National Archaeological Museum of Parma",
+  "name": [
+    {
+      "@value": "National Archaeological Museum of Parma",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo archeologico nazionale di Parma",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza della Pilotta , 5",
@@ -22,12 +31,18 @@
   },
   "url": "http://www.archeobologna.beniculturali.it/Parma/index.htm",
   "telephone": "+39 0521 233718  \n        \n          (+39) 0521 233718",
-  "contactPoint": [
-
-  ],
   "offers": {
     "@Type": "Offer",
-    "description": "€ 4,00"
+    "description": [
+      {
+        "@value": "€ 4,00",
+        "@langauge": "en"
+      },
+      {
+        "@value": "€ 4,00",
+        "@langauge": "it"
+      }
+    ]
   },
   "photo": {
     "@type": "ImageObject",

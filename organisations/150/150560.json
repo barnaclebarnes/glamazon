@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150560
   },
-  "name": "THE COUNCIL FOR NORTHEAST HISTORICAL ARCHEOLOGY",
+  "name": [
+    {
+      "@value": "THE COUNCIL FOR NORTHEAST HISTORICAL ARCHEOLOGY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 442",
@@ -22,9 +27,6 @@
     "longitude": -73.8577
   },
   "url": "http://www.cneha.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601854",

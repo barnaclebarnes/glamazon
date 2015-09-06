@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188202
   },
-  "name": "The Museum of Borgo Terra",
+  "name": [
+    {
+      "@value": "The Museum of Borgo Terra",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo Borgo Terra",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza del popolo, 6",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museomuro.it",
   "telephone": "+39 0836.343824",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/WuYHQBNc-Qs6H5uLCIjAGEWrcLo=/1000x1000/museums/logos/000/188/202/original/f82ad27ad239978ce48b08ada5213e1e1a087d6.jpg"

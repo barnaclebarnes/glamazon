@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154816
   },
-  "name": "WOODFORD MANSION",
+  "name": [
+    {
+      "@value": "WOODFORD MANSION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2300 N 33RD ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.woodfordmansion.org",
   "telephone": "+1 (215) 229-6115",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200010",

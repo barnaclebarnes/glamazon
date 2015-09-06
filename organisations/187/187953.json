@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187953
   },
-  "name": "Palazzo Cavour",
+  "name": [
+    {
+      "@value": "Palazzo Cavour",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Cavour, 8, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.palazzocavour.it",
   "telephone": "+39 011530690",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/MBVxnH_KQnBJg_430xmtOIDkqFc=/1000x1000/museums/logos/000/187/953/original/abef2a82e58811b8228473dba8c0be7aab10a82.JPG"

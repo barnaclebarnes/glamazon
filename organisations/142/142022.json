@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142022
   },
-  "name": "JOHNS HOPKINS UNIVERSITY",
+  "name": [
+    {
+      "@value": "JOHNS HOPKINS UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3910 KESWICK ROAD",
@@ -21,9 +26,6 @@
     "latitude": 39.335,
     "longitude": -76.6283
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400315",

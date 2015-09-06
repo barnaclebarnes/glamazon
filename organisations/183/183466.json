@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183466
   },
-  "name": "Baierweinmuseum Bach a. d. Donau",
+  "name": [
+    {
+      "@value": "Baierweinmuseum Bach a. d. Donau",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 1 a",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.baierwein-museum.de/",
   "telephone": "09403/95020",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

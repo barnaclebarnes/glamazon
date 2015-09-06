@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184429
   },
-  "name": "Ernest & Marion Davis Library",
+  "name": [
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Ernest & Marion Davis Library",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:emdavislib@xtra.co.nz"
@@ -18,17 +59,19 @@
     "longitude": 174.769
   },
   "telephone": "64 9 379 7440 x 7358",
-  "contactPoint": [
-
-  ],
   "offers": {
     "@Type": "Offer",
-    "description": "The Library is not open to the public."
+    "description": [
+      {
+        "@value": "The Library is not open to the public.",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184429",
+    "url": "http://www.museums.io/en/museums/184429",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

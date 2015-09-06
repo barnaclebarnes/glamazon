@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182672
   },
-  "name": "Historischer Eisenhammer",
+  "name": [
+    {
+      "@value": "Historischer Eisenhammer",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Eisenhammer 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.eisenhammer-eckersmuehlen.de",
   "telephone": "09174/4784",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

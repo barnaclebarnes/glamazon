@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185800
   },
-  "name": "Museo del pane di Panettieri",
+  "name": [
+    {
+      "@value": "Museo del pane di Panettieri",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Risorgimento, 35",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.comune.panettieri.cs.it",
   "telephone": "+39 0039 0968 82018 -  82781",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/2Flo9MHLrTPSAl9sYAARLVoySAQ=/1000x1000/museums/logos/000/185/800/original/6f99a3f369593d98d5e8fccb9fd3fb4ccb2d5a70.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163547
   },
-  "name": "MUSEUM OF NORTH AMERICAN WILDLIFE",
+  "name": [
+    {
+      "@value": "MUSEUM OF NORTH AMERICAN WILDLIFE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1725 11TH ST",
@@ -21,9 +26,6 @@
     "latitude": 44.5191,
     "longitude": -109.066
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405600127",

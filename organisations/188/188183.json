@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188183
   },
-  "name": "The Malacological Museum of Vieste",
+  "name": [
+    {
+      "@value": "The Malacological Museum of Vieste",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo malacologico di Vieste",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Pola, 8",
@@ -21,9 +30,6 @@
     "longitude": 16.1817
   },
   "telephone": "+39 0884707688",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/pz7GiHf0wAiu2XXVjKwLMK46ais=/1000x1000/museums/logos/000/188/183/original/f6fd926f5cb36cd9067ead6a47935804b6d3c6f.jpg"

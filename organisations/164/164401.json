@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164401
   },
-  "name": "University Of Melbourne, Henry Forman Atkinson Dental Museum",
+  "name": [
+    {
+      "@value": "University Of Melbourne, Henry Forman Atkinson Dental Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://museum.dent.unimelb.edu.au/",
   "telephone": "+ 61 3 9341 1518",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday to Friday 9.00 - 5.00",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday to Friday 9.00 - 5.00",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "henry-forman-atkinson-dental-museum-university-melbourne",

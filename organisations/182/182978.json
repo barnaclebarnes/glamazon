@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182978
   },
-  "name": "Befreiungshalle",
+  "name": [
+    {
+      "@value": "Befreiungshalle",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Befreiungshallestraße 11",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/kelheim.htm",
   "telephone": "09441/68207-10",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164480
   },
-  "name": "Winchelsea and District Historical Society",
+  "name": [
+    {
+      "@value": "Winchelsea and District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://home.vicnet.net.au/~winchsoc/",
   "telephone": "+613 52672494. or +613 52672363",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "The Society's rooms in the former Shire Office are open every Wednesday afternoon  1:30 - 5:00 pm  or by appointment.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "The Society's rooms in the former Shire Office are open every Wednesday afternoon  1:30 - 5:00 pm  or by appointment.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "winchelsea-historical-society",

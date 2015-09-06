@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161666
   },
-  "name": "CREHST MUSEUM",
+  "name": [
+    {
+      "@value": "CREHST MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "95 LEE BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.crehst.org",
   "telephone": "+1 (509) 943-9000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300115",

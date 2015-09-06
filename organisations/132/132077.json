@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132077
   },
-  "name": "STANFORD UNIVERSITY",
+  "name": [
+    {
+      "@value": "STANFORD UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3145 PORTER DR",
@@ -21,9 +26,6 @@
     "latitude": 37.4331,
     "longitude": -122.177
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602203",

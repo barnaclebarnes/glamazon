@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161957
   },
-  "name": "CENTRAL WASHINGTON AGRICULTURAL MUSEUM",
+  "name": [
+    {
+      "@value": "CENTRAL WASHINGTON AGRICULTURAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4508 MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.centralwaagmuseum.org",
   "telephone": "+1 (509) 457-8735",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300406",

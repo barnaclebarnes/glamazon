@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184085
   },
-  "name": "Wilhelm Wagenfeld House",
+  "name": [
+    {
+      "@value": "Wilhelm Wagenfeld House",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@wwh-bremen.de"
@@ -18,9 +23,6 @@
     "longitude": 8.81478
   },
   "telephone": "+49 (0) 421 3388116",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bremen",

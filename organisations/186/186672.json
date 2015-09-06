@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186672
   },
-  "name": "Parma Gemma",
+  "name": [
+    {
+      "@value": "Parma Gemma",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Annuti, 31",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.trigoso.it",
   "telephone": "+39 0185 469838",
-  "contactPoint": [
-
-  ],
-  "openingHours": "aperto su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Ay2L0PpMhhqmKSlV8wtEYDhZFh0=/1000x1000/museums/logos/000/186/672/original/9347aa6650f05e2d8c87b52a13a11d3355099.JPG"

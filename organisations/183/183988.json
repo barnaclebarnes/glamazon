@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183988
   },
-  "name": "Jean-Paul-Museum der Stadt Bayreuth",
+  "name": [
+    {
+      "@value": "Jean-Paul-Museum der Stadt Bayreuth",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Wahnfriedstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bayreuth.de/museumsuebersicht/jean_paul_museum_309.html",
   "telephone": "0921/5071444",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158918
   },
-  "name": "AUSTIN NATURE AND SCIENCE CENTER",
+  "name": [
+    {
+      "@value": "AUSTIN NATURE AND SCIENCE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "301 NATURE CENTER DR",
@@ -22,9 +27,6 @@
     "longitude": -97.7752
   },
   "url": "http://www.ci.austin.tx.us/ansc/default.ht",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801018",

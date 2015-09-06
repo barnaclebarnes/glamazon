@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132189
   },
-  "name": "BERKELEY HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "BERKELEY HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1931 CENTER ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.berkeleyhistoricalsociety.org",
   "telephone": "+1 (510) 848-0181",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602315",

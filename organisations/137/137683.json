@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137683
   },
-  "name": "MESOPATAMIA MUSEUM",
+  "name": [
+    {
+      "@value": "MESOPATAMIA MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "25 S WOLF RD",
@@ -21,9 +26,6 @@
     "latitude": 42.0943,
     "longitude": -87.9085
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700828",

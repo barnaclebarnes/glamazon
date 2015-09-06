@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141240
   },
-  "name": "MAINE HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "MAINE HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "489 CONGRESS ST STE 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mainehistory.org",
   "telephone": "+1 (207) 774-1822",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402300089",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131462
   },
-  "name": "MUSEUM OF RECONSTRUCTIONS INC",
+  "name": [
+    {
+      "@value": "MUSEUM OF RECONSTRUCTIONS INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "71 9TH AVE APT 6",
@@ -22,9 +27,6 @@
     "longitude": -122.32
   },
   "url": "http://www.reconstructions.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601588",

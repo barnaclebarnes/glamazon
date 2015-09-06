@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184089
   },
-  "name": "Kunsthalle Bremen - Art museum",
+  "name": [
+    {
+      "@value": "Kunsthalle Bremen - Art museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@kunsthalle-bremen.de"
@@ -18,9 +23,6 @@
     "longitude": 8.81362
   },
   "telephone": "+49 (0) 421 329080",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bremen",

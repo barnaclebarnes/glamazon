@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186695
   },
-  "name": "Museo della storia del Genoa",
+  "name": [
+    {
+      "@value": "Museo della storia del Genoa",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "salita Dinegro, 7/R",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.fondazionegenoa.com",
   "telephone": "+39 010/5536711",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "107207",

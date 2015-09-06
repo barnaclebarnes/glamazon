@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142172
   },
-  "name": "HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "HAMLET COURT 4509 PROSPECT CIRCLE",
@@ -22,9 +27,6 @@
     "longitude": -76.6718
   },
   "telephone": "+1 (410) 664-6711",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400465",

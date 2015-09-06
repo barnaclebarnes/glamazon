@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130075
   },
-  "name": "REEDLEY MUSEUM",
+  "name": [
+    {
+      "@value": "REEDLEY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1752 10TH ST",
@@ -22,9 +27,6 @@
     "longitude": -119.452
   },
   "telephone": "+1 (559) 638-1913",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600201",

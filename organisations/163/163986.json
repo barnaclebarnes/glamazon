@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163986
   },
-  "name": "Kingston Libraries",
+  "name": [
+    {
+      "@value": "Kingston Libraries",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.kingston.vic.gov.au/library/home",
   "telephone": "1300 135 668",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Our main branch at Parkdale is open Mon-Wed 10-8, Thurs-Friday 10-6, Sat 10-2 and Sun 2-5. For the opening hours for all our branches go to www.kingstonlibraries.vic.gov.au",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Our main branch at Parkdale is open Mon-Wed 10-8, Thurs-Friday 10-6, Sat 10-2 and Sun 2-5. For the opening hours for all our branches go to www.kingstonlibraries.vic.gov.au",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "kingston-libraries",

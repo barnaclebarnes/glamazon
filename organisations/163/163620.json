@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163620
   },
-  "name": "Andrew Ross Museum",
+  "name": [
+    {
+      "@value": "Andrew Ross Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.andrewrossmuseum.org.au/",
   "telephone": " 03 9712 0801",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Thurdays\t9:15am - 12pm\r\nSundays (2nd/4th)\t2:00pm - 4pm\r\n\r\nor call 03 9712 0801 to make an appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Thurdays\t9:15am - 12pm\r\nSundays (2nd/4th)\t2:00pm - 4pm\r\n\r\nor call 03 9712 0801 to make an appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "andrew-ross-museum",

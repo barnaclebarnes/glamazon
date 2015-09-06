@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183000
   },
-  "name": "Bajuwarenhof Kirchheim",
+  "name": [
+    {
+      "@value": "Bajuwarenhof Kirchheim",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bajuwarenstr. 11",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bajuwarenhof.de",
   "telephone": "089/9090999",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

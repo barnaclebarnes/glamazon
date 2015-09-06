@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158162
   },
-  "name": "GEORGE WASHINGTON CARVER MUSEUM",
+  "name": [
+    {
+      "@value": "GEORGE WASHINGTON CARVER MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1165 ANGELINA ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ci.austin.tx.us/carver",
   "telephone": "+1 (512) 974-4926",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800262",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163593
   },
-  "name": "HARRY JACKSON MUSEUM",
+  "name": [
+    {
+      "@value": "HARRY JACKSON MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5920 YELLOWSTONE STE 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.harryjackson.com",
   "telephone": "+1 (307) 587-5508",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405600173",

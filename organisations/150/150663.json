@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150663
   },
-  "name": "NEW YORK LANDMARKS CONSERVANCY INC",
+  "name": [
+    {
+      "@value": "NEW YORK LANDMARKS CONSERVANCY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 WHITEHALL ST FL 21",
@@ -21,9 +26,6 @@
     "latitude": 40.7037,
     "longitude": -74.0131
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601957",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154684
   },
-  "name": "OREGON HEALTH & SCIENCE UNIVERSITY",
+  "name": [
+    {
+      "@value": "OREGON HEALTH & SCIENCE UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3181 SW SAM JACKSON PARK ROAD  MAIL CODE: L106",
@@ -22,9 +27,6 @@
     "longitude": -122.688
   },
   "url": "http://www.ohsu.edu/library/hom",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100477",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135478
   },
-  "name": "ANIMAL PARK INC",
+  "name": [
+    {
+      "@value": "ANIMAL PARK INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5701 GULF BREEZE PKWY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gulfbreezezoo.org",
   "telephone": "+1 (850) 932-2229",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201033",

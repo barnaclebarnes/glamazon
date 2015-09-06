@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135523
   },
-  "name": "ORMOND MEMORIAL ART MUSEUM",
+  "name": [
+    {
+      "@value": "ORMOND MEMORIAL ART MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "78 E GRANADA BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ormondartmuseum.org",
   "telephone": "+1 (386) 676-3347",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201078",

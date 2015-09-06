@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187202
   },
-  "name": "Museo ferroviario del Verbano",
+  "name": [
+    {
+      "@value": "Museo ferroviario del Verbano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Marconi, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.verbanoexpress.it",
   "telephone": "+39 3485942829",
-  "contactPoint": [
-
-  ],
-  "openingHours": "sabato pomeriggio dalle ore 14.30 alle ore 18.00 previo appuntamento",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "103828",

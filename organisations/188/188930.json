@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188930
   },
-  "name": "Museo del bonsai",
+  "name": [
+    {
+      "@value": "Museo del bonsai",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Lucchese, 159",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.franchi-bonsai.it/franchi_home_ita.html",
   "telephone": "+39 0572429262",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "103205",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150839
   },
-  "name": "HERITAGE MUSEUM OF EPIRUS",
+  "name": [
+    {
+      "@value": "HERITAGE MUSEUM OF EPIRUS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2514 BROADWAY, 3RD FLOOR",
@@ -23,9 +28,6 @@
   },
   "url": "http://epirusmuseum.wordpress.com",
   "telephone": "+1 (718) 274-3753",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602133",

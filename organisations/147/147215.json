@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147215
   },
-  "name": "NEVADA MUSEUM OF FINE ART",
+  "name": [
+    {
+      "@value": "NEVADA MUSEUM OF FINE ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 27287",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.snmfa.com/",
   "telephone": "+1 (702) 382-2926",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403200190",

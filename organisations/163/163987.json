@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163987
   },
-  "name": "Knox Historical Society",
+  "name": [
+    {
+      "@value": "Knox Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://khs.relics.com",
   "telephone": "(03) 9756 6722",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sundays:  1:00pm to 4:00pm or by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Sundays:  1:00pm to 4:00pm or by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "knox-historical-society",

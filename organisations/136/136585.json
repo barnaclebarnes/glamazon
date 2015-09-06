@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136585
   },
-  "name": "CITY & COUNTY OF HONOLULU",
+  "name": [
+    {
+      "@value": "CITY & COUNTY OF HONOLULU",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "50 N VINEYARD BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.honolulu.gov",
   "telephone": "+1 (808) 522-7060",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401500124",

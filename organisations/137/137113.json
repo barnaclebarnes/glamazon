@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137113
   },
-  "name": "CANTIGNY GARDENS AND PARK",
+  "name": [
+    {
+      "@value": "CANTIGNY GARDENS AND PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1S151 WINFIELD RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.cantigny.org",
   "telephone": "+1 (630) 668-5161",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700258",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184022
   },
-  "name": "Buchheim Museum der Phantasie",
+  "name": [
+    {
+      "@value": "Buchheim Museum der Phantasie",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Hirschgarten 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.buchheimmuseum.de",
   "telephone": "08158/9970-50",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

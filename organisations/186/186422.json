@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186422
   },
-  "name": "Museo della storia della ceramica",
+  "name": [
+    {
+      "@value": "Museo della storia della ceramica",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Garibaldi, ",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.comune.sermoneta.latina.it",
   "telephone": "+39 077330151",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Invernale Sabato, Domenica e festivi 10/13 - 15/18 Estivo 10/13 - 16/19",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "101450",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142938
   },
-  "name": "DEVENS HISTORICAL MUSEUM",
+  "name": [
+    {
+      "@value": "DEVENS HISTORICAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "94 JACKSON RD STE 305",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fortdevensmuseum.org",
   "telephone": "+1 (800) 294-1830",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500568",

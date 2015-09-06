@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184221
   },
-  "name": "Couldrey House",
+  "name": [
+    {
+      "@value": "Couldrey House",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Couldrey House",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Couldrey House",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Couldrey House",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Couldrey House",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Couldrey House",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Couldrey House",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Couldrey House",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Couldrey House",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Couldrey House",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,18 +59,61 @@
   },
   "url": "http://historiccouldreyhouse.co.nz",
   "telephone": "64-9-528 3713",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sat & Sun 1-4pm all year (except Christmas Day & Good Friday). Also weekdays 1-4pm from December to Easter Monday",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Sab & sole tutto l'anno (tranne Natale giorno & Venerdì Santo) 1-16. Anche durante la settimana 1-4 pm da dicembre a Pasqua lunedì",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Sat &太阳 1-4 下午所有年 (除了圣诞节那天 &好星期五)。此外平日下午的 1 4 时，从 12 月至复活节后的星期一",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "SAT & Sun 1-16:00 todo el año (excepto día de Navidad y viernes). También durante la semana 1 a 4 pm de diciembre a lunes de Pascua",
+      "@langauge": "es"
+    },
+    {
+      "@value": "SAT & Sun 1-16:00 durante todo o ano (excepto dia de Natal e sexta-feira). Também durante a semana pm 1-4 de dezembro a segunda-feira de Páscoa",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "土・日 1-16 通年 (クリスマス ・ グッドフラ イデーを除くしています)。平日も 12 月から復活祭の月曜日の 1-4: 00",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "SAT &солнца 1-4 вечера круглый год (за исключением Рождество &Страстная пятница). Также рабочие дни 1-4 вечера с декабря до Пасхи",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Sat & Sun 1-16:00 ganzjährig (außer Weihnachten & Karfreitag). Auch wochentags 1-4 Uhr von Dezember bis Ostermontag",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Sam & Sun 1-16:00 toute l'année (sauf le jour de Noël & vendredi Saint). Également en semaine, 1-4 h de décembre au lundi de Pâques",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Sat & matahari 1-4 petang sepanjang tahun (kecuali hari Krismas & Good Friday). Juga hari Isnin-Jumaat petang 1-4 Disember sampai Isnin Easter",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Sat & Sun 1-16:00 ganzjährig (außer Weihnachten & Karfreitag). Auch wochentags 1-4 Uhr von Dezember bis Ostermontag",
   "offers": {
     "@Type": "Offer",
-    "description": "Adults $3.00, Children free"
+    "description": [
+      {
+        "@value": "Adults $3.00, Children free",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184221",
+    "url": "http://www.museums.io/en/museums/184221",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

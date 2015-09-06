@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155261
   },
-  "name": "LIBRARY COMPANY OF PHILADELPHIA",
+  "name": [
+    {
+      "@value": "LIBRARY COMPANY OF PHILADELPHIA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1314 LOCUST ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.librarycompany.org",
   "telephone": "+1 (215) 546-3181",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200455",

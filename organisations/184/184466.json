@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184466
   },
-  "name": "Katikati Heritage Museum",
+  "name": [
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Katikati Heritage Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,18 +59,61 @@
   },
   "url": "http://www.katikatiheritagemuseum.co.nz",
   "telephone": "64-7-549-0651",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Summer: 9am to 4pm\r\nWinter: 9:30am to 3:30pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Inverno estate: 9 a 16: 9:30 a 15:30",
+      "@langauge": "it"
+    },
+    {
+      "@value": "夏季: 9 上午到 4 下午冬季: 9:30 上午到 3:30 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Verano: 9:00 a 16:00 invierno: 9:30 a 15:30",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Inverno verão: 09:00 a 16:00:09: 30 a 15:30",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "冬の夏: 9、16: 9:30、15:30",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Лето: 9 утра до 4 вечера зимой: 9:30 утра до 3:30 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Winter Sommer: 09:00 bis 16:00:09: 30 bis 15:30",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Hiver été : 09:00 à 16:00:09 : 30 à 15:30",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Musim sejuk di musim panas: 9 pagi hingga 4 petang: 9:30 am hingga 3:30 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Winter Sommer: 09:00 bis 16:00:09: 30 bis 15:30",
   "offers": {
     "@Type": "Offer",
-    "description": "Adults: $7.50\r\nChildren: $5\r\nFamily: $25"
+    "description": [
+      {
+        "@value": "Adults: $7.50\r\nChildren: $5\r\nFamily: $25",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184466",
+    "url": "http://www.museums.io/en/museums/184466",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

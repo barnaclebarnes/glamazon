@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155629
   },
-  "name": "BEAVER COUNTY INDUSTRIAL MUSEUM",
+  "name": [
+    {
+      "@value": "BEAVER COUNTY INDUSTRIAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "508 HILLCREST AVE",
@@ -22,9 +27,6 @@
     "longitude": -80.3354
   },
   "url": "http://www.beavercountyindustrialmuseum.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200823",

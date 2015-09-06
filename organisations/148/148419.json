@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148419
   },
-  "name": "TINKERTOWN MUSEUM",
+  "name": [
+    {
+      "@value": "TINKERTOWN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "121 SANDIA CREST RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tinkertown.com",
   "telephone": "+1 (505) 281-5233",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403500009",

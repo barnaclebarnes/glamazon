@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150013
   },
-  "name": "CORNING MUSEUM OF GLASS",
+  "name": [
+    {
+      "@value": "CORNING MUSEUM OF GLASS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 MUSEUM WAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.cmog.org",
   "telephone": "+1 (607) 937-5371",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601307",

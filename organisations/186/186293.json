@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186293
   },
-  "name": "Museo sveviano",
+  "name": [
+    {
+      "@value": "Museo sveviano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via della Madonna del mare, 13",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.triestecultura.it",
   "telephone": "+39 0406758182",
-  "contactPoint": [
-
-  ],
-  "openingHours": "lun. e merc. 9.00/13.00 giov. 9.00/13.00 - 15.00/19.00 ven. e sab. 9.00/13.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/83v4ysNdgxXmD_A0WZtPdlbCisc=/1000x1000/museums/logos/000/186/293/original/b5941df727fa83fba2e7a3bb2c534798ff0a6f2.JPG"

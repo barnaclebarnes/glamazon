@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159913
   },
-  "name": "USS CHARA",
+  "name": [
+    {
+      "@value": "USS CHARA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1322 RIVERCREST BLVD SUITE 5831",
@@ -21,9 +26,6 @@
     "latitude": 33.1091,
     "longitude": -96.6384
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404802013",

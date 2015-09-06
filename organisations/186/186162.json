@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186162
   },
-  "name": "National Archeological Museum of Sarsina",
+  "name": [
+    {
+      "@value": "National Archeological Museum of Sarsina",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo archeologico nazionale di Sarsina",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Cesio Sabino, 39, ",
@@ -22,13 +31,28 @@
   },
   "url": "http://www.archeobologna.beniculturali.it/Sarsina/index.htm",
   "telephone": "+39 054794641\n        \n          (+ 39) 0547 94641",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Wednesday, Friday, Saturday and Sunday 8.30-13.30, Tuesday and Thursday 8.30-13.30 15.00-18.00",
+      "@langauge": "en"
+    },
+    {
+      "@value": "mercoledì, venerdì, sabato e domenica 8.30-13.30, martedì, giovedì 8.30-13.30 e 15-18",
+      "@langauge": "it"
+    }
   ],
-  "openingHours": "Wednesday, Friday, Saturday and Sunday 8.30-13.30, Tuesday and Thursday 8.30-13.30 15.00-18.00",
   "offers": {
     "@Type": "Offer",
-    "description": "€ 2,00"
+    "description": [
+      {
+        "@value": "€ 2,00",
+        "@langauge": "en"
+      },
+      {
+        "@value": "€ 3,00",
+        "@langauge": "it"
+      }
+    ]
   },
   "photo": {
     "@type": "ImageObject",

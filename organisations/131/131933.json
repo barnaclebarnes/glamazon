@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131933
   },
-  "name": "ATASCADERO MAIN STREET INC",
+  "name": [
+    {
+      "@value": "ATASCADERO MAIN STREET INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5814 TRAFFIC WAY",
@@ -21,9 +26,6 @@
     "latitude": 35.491,
     "longitude": -120.669
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602059",

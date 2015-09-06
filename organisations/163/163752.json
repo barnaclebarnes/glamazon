@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163752
   },
-  "name": "Canterbury Primary School",
+  "name": [
+    {
+      "@value": "Canterbury Primary School",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.canterburyps.vic.edu.au",
   "telephone": "03 9417 6822",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesdays 2pm by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesdays 2pm by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "canterbury-primary-school",

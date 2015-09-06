@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188050
   },
-  "name": "The Archives Library Museum of Altamura",
+  "name": [
+    {
+      "@value": "The Archives Library Museum of Altamura",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo dell'archivio - Biblioteca - Museo civico di Altamura",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Zanardelli, 30",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.altamuraweb.it/cosavisitare/museocivico.asp",
   "telephone": "+39 0803111708",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/tZTUjgI7q70Ep49xqSqdflPgQ6M=/1000x1000/museums/logos/000/188/050/original/f5e9fea6aa5fe3638dcd16e39d8913120994cf5.jpg"

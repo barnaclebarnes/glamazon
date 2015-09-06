@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149195
   },
-  "name": "YORKTOWN HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "YORKTOWN HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 355",
@@ -22,9 +27,6 @@
     "longitude": -73.7933
   },
   "url": "http://yorktownhistory.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600489",

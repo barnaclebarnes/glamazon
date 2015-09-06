@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148442
   },
-  "name": "NATIONAL MUSEUM OF NUCLEAR SCIENCE AND HISTORY",
+  "name": [
+    {
+      "@value": "NATIONAL MUSEUM OF NUCLEAR SCIENCE AND HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 EUBANK BLVD SE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nuclearmuseum.org",
   "telephone": "+1 (505) 245-2137",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403500032",

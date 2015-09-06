@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182738
   },
-  "name": "KZ-Gedenkstätte Flossenbürg",
+  "name": [
+    {
+      "@value": "KZ-Gedenkstätte Flossenbürg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Gedächtnisallee 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gedenkstaette-flossenbuerg.de",
   "telephone": "09603/90390-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

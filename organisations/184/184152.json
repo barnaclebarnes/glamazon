@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184152
   },
-  "name": "Pioneer Hall",
+  "name": [
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Pioneer Hall",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:n.moar@ext.canterbury.ac.nz"
@@ -17,18 +58,97 @@
     "latitude": -43.641,
     "longitude": 172.478
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Oct-Apr first Sun of month 2pm-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Primo sole del mese 14-16 da ottobre ad aprile",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Oct Apr 月 2 下午-4 下午的第一缕阳光",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Oct-abr sol primero de mes 14:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Out-abr primeiro sol do mês 14:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "10 月-4 月 14-16 の月の最初の日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Октябрь-апрель первый солнца, месяца 2-4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Okt-Apr erste Sonne im Monat 14:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Octobre-avril premier soleil du mois de 14:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Okt-Apr pertama matahari bulan 2 pm - 4 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Okt-Apr erste Sonne im Monat 14:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184152",
+    "url": "http://www.museums.io/en/museums/184152",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

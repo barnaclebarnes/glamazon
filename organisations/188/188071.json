@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188071
   },
-  "name": "The Diocesan Museum of Conversano-Monopoli",
+  "name": [
+    {
+      "@value": "The Diocesan Museum of Conversano-Monopoli",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo diocesano Conversano-Monopoli",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via San Benedetto, ",
@@ -21,9 +30,6 @@
     "longitude": 17.1153
   },
   "telephone": "+39 080748642",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/QVHUou1xGTGfP2s1NbWAvZE8Fps=/1000x1000/museums/logos/000/188/071/original/9b886a277d78c3c6ca7d608938a6372af752.jpg"

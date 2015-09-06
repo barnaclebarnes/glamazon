@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132720
   },
-  "name": "MANHATTAN BEACH BOTANICAL GARDEN",
+  "name": [
+    {
+      "@value": "MANHATTAN BEACH BOTANICAL GARDEN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1156",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.manhattanbeachbotanicalgarden.org/",
   "telephone": "+1 (310) 546-1354",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602846",

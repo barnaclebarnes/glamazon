@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182877
   },
-  "name": "Bauernhausmuseum Amerang des Bezirks Oberbayern",
+  "name": [
+    {
+      "@value": "Bauernhausmuseum Amerang des Bezirks Oberbayern",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hopfgarten 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bhm-amerang.de",
   "telephone": "08075/91509-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

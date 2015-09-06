@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140025
   },
-  "name": "KANSAS FIREFIGHTERS MUSEUM INC",
+  "name": [
+    {
+      "@value": "KANSAS FIREFIGHTERS MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1300 S BROADWAY ST",
@@ -21,9 +26,6 @@
     "latitude": 37.6693,
     "longitude": -97.3355
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000351",

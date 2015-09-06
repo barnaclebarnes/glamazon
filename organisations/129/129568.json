@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129568
   },
-  "name": "SAUNDERS MUSEUM",
+  "name": [
+    {
+      "@value": "SAUNDERS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "113 E MADISON AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://berryvillear.com",
   "telephone": "+1 (870) 423-2563",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400500004",

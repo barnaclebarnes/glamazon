@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183327
   },
-  "name": "Schlossmuseum Neuburg – Staatsgalerie Neuburg – Flämische Barockmalerei",
+  "name": [
+    {
+      "@value": "Schlossmuseum Neuburg – Staatsgalerie Neuburg – Flämische Barockmalerei",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Residenzstraße A2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.pinakothek.de/zweiggalerien/neuburg.php",
   "telephone": "08431/6443-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

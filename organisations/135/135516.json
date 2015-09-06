@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135516
   },
-  "name": "MUSEUM OF ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 E LAS OLAS BLVD",
@@ -22,9 +27,6 @@
     "longitude": -80.143
   },
   "telephone": "+1 (954) 525-5500",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201071",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182740
   },
-  "name": "Pfalzmuseum",
+  "name": [
+    {
+      "@value": "Pfalzmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kapellenstraße 16",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.forchheim.de/content/pfalzmuseum-forchheim",
   "telephone": "09191/714-327",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

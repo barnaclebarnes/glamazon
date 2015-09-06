@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164492
   },
-  "name": "Xavier College",
+  "name": [
+    {
+      "@value": "Xavier College",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.xavier.vic.edu.au/",
   "telephone": "(03) 9854 5411",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "xavier-college",

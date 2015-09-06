@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144175
   },
-  "name": "NOKOMIS LEARNING CENTER",
+  "name": [
+    {
+      "@value": "NOKOMIS LEARNING CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5153 MARSH RD",
@@ -22,9 +27,6 @@
     "longitude": -84.4124
   },
   "url": "http://www.nokomis.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600712",

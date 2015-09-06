@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187925
   },
-  "name": "Museo del carcere Le Nuove",
+  "name": [
+    {
+      "@value": "Museo del carcere Le Nuove",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Paolo Borsellino, 3, ",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.museolenuove.it",
   "telephone": "+39 0113090115 / 0117604881 (dalle 15 alle 17)",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "6.00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ljA7C6KkxMO5hjux1ZSCUOK-Ogo=/1000x1000/museums/logos/000/187/925/original/8a76f42254162eff2ce61821acdefce63a91b681.jpg"

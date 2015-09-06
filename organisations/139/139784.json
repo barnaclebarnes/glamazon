@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139784
   },
-  "name": "CARNEGIE ARTS CENTER",
+  "name": [
+    {
+      "@value": "CARNEGIE ARTS CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 S 5TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.carnegieartscenter.org",
   "telephone": "+1 (913) 651-0765",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000110",

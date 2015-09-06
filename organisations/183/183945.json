@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183945
   },
-  "name": "Wassermuseum",
+  "name": [
+    {
+      "@value": "Wassermuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstr. 34",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.zell-main.de",
   "telephone": "0931/468780",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150652
   },
-  "name": "AMITYVILLE HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "AMITYVILLE HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 764",
@@ -22,9 +27,6 @@
     "longitude": -73.4112
   },
   "telephone": "+1 (631) 598-1486",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601946",

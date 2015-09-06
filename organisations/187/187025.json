@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187025
   },
-  "name": "Museo Tazio Nuvolari",
+  "name": [
+    {
+      "@value": "Museo Tazio Nuvolari",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Sordello, 42",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.tazionuvolari.it",
   "telephone": "+39 0376327929",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/zHnQsqevJVyga5amjtCfQzyqBKI=/1000x1000/museums/logos/000/187/025/original/d6d04cbb3d144d3f2a411146ea0dde5d23a4d18.jpg"

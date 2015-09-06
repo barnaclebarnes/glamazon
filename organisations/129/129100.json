@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129100
   },
-  "name": "UNIVERSITY OF ARIZONA MINERAL",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF ARIZONA MINERAL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "UNIVERSITY & CHERRY ST",
@@ -22,9 +27,6 @@
     "longitude": -110.948
   },
   "telephone": "+1 (520) 621-4227",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400002",

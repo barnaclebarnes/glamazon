@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150089
   },
-  "name": "PIONEER HOUSE",
+  "name": [
+    {
+      "@value": "PIONEER HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1290 TITUS AVE",
@@ -22,9 +27,6 @@
     "longitude": -77.5809
   },
   "telephone": "+1 (585) 467-2206",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601383",

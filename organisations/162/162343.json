@@ -6,7 +6,12 @@
     "name": "id",
     "value": 162343
   },
-  "name": "HOGE HOUSE FOUNDATION",
+  "name": [
+    {
+      "@value": "HOGE HOUSE FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3389 WINFIELD ROAD",
@@ -21,9 +26,6 @@
     "latitude": 38.4447,
     "longitude": -81.8461
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405400056",

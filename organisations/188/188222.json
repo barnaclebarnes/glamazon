@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188222
   },
-  "name": "Educational Museum of Archeology",
+  "name": [
+    {
+      "@value": "Educational Museum of Archeology",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo didattico archeologico",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Cesare Battisti 47 , ",
@@ -21,9 +30,6 @@
     "longitude": 16.7999
   },
   "telephone": "+39 0998297911",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/jxzkFzPl_hFTva0v60BWcJuWL3k=/1000x1000/museums/logos/000/188/222/original/5c1172ba5158dab2271c5e89abb4932878b56a36.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187044
   },
-  "name": "Museo del giocattolo e del bambino",
+  "name": [
+    {
+      "@value": "Museo del giocattolo e del bambino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Rodari, 3",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.museodelgiocattoloedelbambino.com",
   "telephone": "+39 340 1509192",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "106812",

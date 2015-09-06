@@ -6,15 +6,22 @@
     "name": "id",
     "value": 163789
   },
-  "name": "Clunes Bottle Museum, Lee Medlyn Bottle Collection",
+  "name": [
+    {
+      "@value": "Clunes Bottle Museum, Lee Medlyn Bottle Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "telephone": "(03)5345 3896 or 54614720",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Thursday - Sunday 11am - 4pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Thursday - Sunday 11am - 4pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "clunes-bottle-museum",

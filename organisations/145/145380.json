@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145380
   },
-  "name": "NATCHEZ HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "NATCHEZ HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 49",
@@ -22,9 +27,6 @@
     "longitude": -91.4043
   },
   "url": "http://www.natchezhistoricalsociety.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402800087",

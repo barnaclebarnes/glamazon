@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154244
   },
-  "name": "OREGON SPORTS HALL OF FAME",
+  "name": [
+    {
+      "@value": "OREGON SPORTS HALL OF FAME",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8500 SE MCLOUGHLIN BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.oregonsportshall.org",
   "telephone": "+1 (503) 227-7466",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100037",

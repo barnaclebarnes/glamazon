@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186234
   },
-  "name": "Museo documentario della città",
+  "name": [
+    {
+      "@value": "Museo documentario della città",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Bergamas, 30",
@@ -21,9 +26,6 @@
     "longitude": 13.5034
   },
   "telephone": "+39 0481967911",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100184",

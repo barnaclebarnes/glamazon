@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151202
   },
-  "name": "LATTA PLANTATION",
+  "name": [
+    {
+      "@value": "LATTA PLANTATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5225 SAMPLE ROAD",
@@ -23,9 +28,6 @@
   },
   "url": "http://lattaplantation.org/latta/index.php?page=home",
   "telephone": "+1 (704) 875-2312",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700073",

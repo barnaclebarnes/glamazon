@@ -6,7 +6,12 @@
     "name": "id",
     "value": 162128
   },
-  "name": "OLYMPIC FLIGHT MUSEUM",
+  "name": [
+    {
+      "@value": "OLYMPIC FLIGHT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7637A OLD HWY 99 SE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.olympicflightmuseum.com",
   "telephone": "+1 (360) 705-3925",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300577",

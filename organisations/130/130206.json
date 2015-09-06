@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130206
   },
-  "name": "LOS ANGELES SCOTTISH RITE",
+  "name": [
+    {
+      "@value": "LOS ANGELES SCOTTISH RITE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4357 WILSHIRE BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.la-sr.org",
   "telephone": "+1 (323) 937-2566",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600332",

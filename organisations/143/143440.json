@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143440
   },
-  "name": "HISTORIC SOMERVILLE INC",
+  "name": [
+    {
+      "@value": "HISTORIC SOMERVILLE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9 JOSEPHINE AVENUE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.historicsomerville.org",
   "telephone": "+1 (617) 625-5809",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402501070",

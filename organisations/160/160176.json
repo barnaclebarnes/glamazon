@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160176
   },
-  "name": "DIXIE COLLEGE",
+  "name": [
+    {
+      "@value": "DIXIE COLLEGE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "225 SOUTH 700 EAST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dixie.edu",
   "telephone": "+1 (435) 652-7909",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900242",

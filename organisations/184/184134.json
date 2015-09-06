@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184134
   },
-  "name": "Liffey Cottage",
+  "name": [
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Liffey Cottage",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:n.moar@ext.canterbury.ac.nz"
@@ -17,18 +58,97 @@
     "latitude": -43.6374,
     "longitude": 172.488
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "First Sunday of month 2pm-4pm (Liffey Cottage)\r\n  First Sunday of month Oct-Apr 2pm - 4pm (Pioneer Hall)",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Prima domenica del mese 14-16 (Liffey Cottage) prima domenica del mese da ottobre ad aprile 14-16 (Pioneer Hall)",
+      "@langauge": "it"
+    },
+    {
+      "@value": "月 2 下午-4 下午 (利菲小屋) 的第一个星期日的月 Oct Apr 2 下午-4 下午 (先锋厅) 的第一个星期日",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Primer domingo de mes 14:00-16:00 (cabaña de Liffey) primer domingo de mes Oct-abr 14:00-16:00 (sala de Pioneer)",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Primeiro domingo do mês 14:00-16:00 (Liffey Cottage) primeiro domingo do mês de outubro a abril 14:00-16:00 (Pioneer Hall)",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "14-16 (リフィー コテージ) 最初の日曜日 10 月-4 月 14-16 (パイオニア ホール) の月の月の最初の日曜日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Первое воскресенье месяца 2-4 вечера (Liffey коттедж) первое воскресенье месяца Oct-Апр 2 pm - 4 pm (Пионер-Холл)",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Ersten Sonntag im Monat 14:00-16:00 (Liffey Cottage) ersten Sonntag des Monats Okt-Apr 14:00-16:00 (Pioneer Halle)",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Premier dimanche du mois 14:00-16:00 (Liffey Cottage) premier dimanche du mois octobre-avril 14:00-16:00 (Pioneer Hall)",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Hari Ahad pertama bulan 2 pm - 4 pm (Liffey Cottage) hari Ahad pertama bulan Okt-Apr 2 pm - 4 pm (Pioneer Hall)",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Ersten Sonntag im Monat 14:00-16:00 (Liffey Cottage) ersten Sonntag des Monats Okt-Apr 14:00-16:00 (Pioneer Halle)",
   "offers": {
     "@Type": "Offer",
-    "description": "Spende"
+    "description": [
+      {
+        "@value": "Donation",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Donazione",
+        "@langauge": "it"
+      },
+      {
+        "@value": "捐赠",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Donación de",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Doação",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "寄付",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Пожертвование",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Spende",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Don",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Derma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184134",
+    "url": "http://www.museums.io/en/museums/184134",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

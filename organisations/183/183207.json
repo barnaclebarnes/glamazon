@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183207
   },
-  "name": "Artothek & Bildersaal - Kunstverleih und Ausstellungsraum. Ein Kunstraum der Stadt",
+  "name": [
+    {
+      "@value": "Artothek & Bildersaal - Kunstverleih und Ausstellungsraum. Ein Kunstraum der Stadt",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rosental 16",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.muenchen.de/artothek",
   "telephone": "089/23269635",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

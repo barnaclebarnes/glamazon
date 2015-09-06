@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188665
   },
-  "name": "Museo nazionale del Bargello",
+  "name": [
+    {
+      "@value": "Museo nazionale del Bargello",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via del Proconsolo, 4",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.polomuseale.firenze.it/musei/?m=bargello",
   "telephone": "+39 0552388606",
-  "contactPoint": [
-
-  ],
-  "openingHours": "feriali e festivi 8.15 - 13.50",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4,00 euro"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/su8XbsUYZ1uyvEpnU-Ksw9hqQ3M=/1000x1000/museums/logos/000/188/665/original/87a6c7a9bb831b240c522f6e7adf6a8d167a2.jpg"

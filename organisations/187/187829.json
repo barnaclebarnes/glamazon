@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187829
   },
-  "name": "Museo del gusto",
+  "name": [
+    {
+      "@value": "Museo del gusto",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Principe Amedeo, 42/a, ",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museodelgusto.it",
   "telephone": "+39 0121352398/0121 355158",
-  "contactPoint": [
-
-  ],
-  "openingHours": "domenica e festivi 10,00-18,00 da lunedì a venerdì: su prenotazione per gruppi e scolaresche",
-  "offers": {
-    "@Type": "Offer",
-    "description": "5.00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/9S3i8irUMBtwAiTr5KTsn4Bht28=/1000x1000/museums/logos/000/187/829/original/5d1e496fa61c171da931dc964c31df65d058416f.jpg"

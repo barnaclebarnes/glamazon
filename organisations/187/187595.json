@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187595
   },
-  "name": "Museo Gancia",
+  "name": [
+    {
+      "@value": "Museo Gancia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Libertà, 66",
@@ -16,14 +21,6 @@
   },
   "url": "http://www.gancia.it",
   "telephone": "+39 0141 8301",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/7I_2yhsz0S2LdyCm8io-pExmj-A=/1000x1000/museums/logos/000/187/595/original/3efd55c242cef44d3bc424a112be64ba3f61e4eb.jpg"

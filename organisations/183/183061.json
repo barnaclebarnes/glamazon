@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183061
   },
-  "name": "Neues Stadtmuseum",
+  "name": [
+    {
+      "@value": "Neues Stadtmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Von-Helfenstein-Gasse 426",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-landsberg.de",
   "telephone": "08191/128360",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

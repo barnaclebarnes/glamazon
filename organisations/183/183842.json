@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183842
   },
-  "name": "Volkskundliche Sammlung des Fichtelgebirgsvereins",
+  "name": [
+    {
+      "@value": "Volkskundliche Sammlung des Fichtelgebirgsvereins",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "In der Verbandsschule",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fichtelgebirgsverein-weidenberg.de",
   "telephone": "09278/1339",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

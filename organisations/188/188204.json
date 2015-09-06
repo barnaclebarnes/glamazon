@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188204
   },
-  "name": "The Enrico Giannelli Art Gallery",
+  "name": [
+    {
+      "@value": "The Enrico Giannelli Art Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca Enrico Giannelli",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Vittorio Emanuele II, 5 c/o Palazzo Ferrari, ",
@@ -16,9 +25,6 @@
   },
   "url": "http://www.comune.parabita.it",
   "telephone": "+39 0833392300",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/gwVtawIHlMjAT24oFzAaRMDHTmw=/1000x1000/museums/logos/000/188/204/original/68b42241b52039c3c5dbad6d8b5226f022dffc.jpg"

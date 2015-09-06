@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132939
   },
-  "name": "DOUGHERTY MUSEUM",
+  "name": [
+    {
+      "@value": "DOUGHERTY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8306 N 107TH ST",
@@ -22,9 +27,6 @@
     "longitude": -105.103
   },
   "telephone": "+1 (303) 776-2520",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800115",

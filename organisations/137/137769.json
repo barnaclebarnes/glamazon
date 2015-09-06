@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137769
   },
-  "name": "LAFOX MUSEUM CORPORATION",
+  "name": [
+    {
+      "@value": "LAFOX MUSEUM CORPORATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 335",
@@ -21,9 +26,6 @@
     "latitude": 41.8822,
     "longitude": -88.4116
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700914",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188124
   },
-  "name": "The Olive oil Museum of Fasano",
+  "name": [
+    {
+      "@value": "The Olive oil Museum of Fasano",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo dell'olio d'oliva di Fasano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Contrada S. Angelo 5 , ",
@@ -21,9 +30,6 @@
     "longitude": 17.2673
   },
   "telephone": "+39 0804413471",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/7pUX3S5g5odDMANUukE_5xOXVeg=/1000x1000/museums/logos/000/188/124/original/836ef4796c4cb61e88901312c4304616f2f22ed5.jpg"

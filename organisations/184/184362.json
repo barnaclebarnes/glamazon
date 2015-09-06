@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184362
   },
-  "name": "Golder Cottage",
+  "name": [
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Golder Cottage",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,18 +59,61 @@
   },
   "url": "http://www.golder.wellington.net.nz/cottage/index.htm",
   "telephone": "64-4-528 9855",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Saturday and Public Holidays (except Christmas Day & Good Friday), 1.30-4pm or by arrangement",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Sabato e giorni festivi (eccetto Natale giorno & Venerdì Santo), 1.30-16 o da concordare",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期六及公众假期 (除了圣诞节那天 &受难)，1.30-4 下午或安排",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El sábado y festivos (excepto día de Navidad y Viernes Santo), 1.30-16:00 o por el arreglo",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Sábado e feriados (exceto Natal dia & sexta-feira), 1,30-16:00 ou por acordo",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "土曜日と祝日 (を除いてクリスマスの日・聖金曜日) 1.30 16 または配置",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Суббота и праздничные дни (за исключением Рождество &Страстная пятница), 1.30-16: 00 или по договоренности",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Samstag und Feiertage (ausser Weihnachten & Karfreitag), 1.30-16:00 oder nach Vereinbarung",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Samedi et jours fériés (sauf le jour de Noël & vendredi Saint), 1. 30-16:00 ou par arrangement",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Hari Sabtu dan cuti umum (kecuali hari Krismas & Good Friday) 1,30-4 petang atau dengan persetujuan",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Samstag und Feiertage (ausser Weihnachten & Karfreitag), 1.30-16:00 oder nach Vereinbarung",
   "offers": {
     "@Type": "Offer",
-    "description": "Admission Fee applies"
+    "description": [
+      {
+        "@value": "Admission Fee applies",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184362",
+    "url": "http://www.museums.io/en/museums/184362",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

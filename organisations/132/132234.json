@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132234
   },
-  "name": "MUSEUM OF ANCIENT AND MODERN ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF ANCIENT AND MODERN ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 975",
@@ -22,9 +27,6 @@
     "longitude": -121.192
   },
   "telephone": "+1 (530) 432-3080",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602360",

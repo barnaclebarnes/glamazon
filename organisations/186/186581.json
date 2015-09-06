@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186581
   },
-  "name": "Museo Mario Praz",
+  "name": [
+    {
+      "@value": "Museo Mario Praz",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Zanardelli, 1 Palazzo Primoli, ",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museopraz.beniculturali.it/",
   "telephone": "+39 066861089",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9.00 - 13.00 / 14.30 - 18.30 (feriali e festivi); 14.30 - 19.00 (lunedi)",
-  "offers": {
-    "@Type": "Offer",
-    "description": "ingresso gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/JzPJ8Bg-Y4ceJAHy6L6VgytypWY=/1000x1000/museums/logos/000/186/581/original/a6969a3fc80dcc696ec792b44365b439447bab.jpg"

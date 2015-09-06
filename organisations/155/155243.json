@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155243
   },
-  "name": "HISTORICAL SOCIETY OF PENNSYLVANIA",
+  "name": [
+    {
+      "@value": "HISTORICAL SOCIETY OF PENNSYLVANIA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1300 LOCUST ST",
@@ -22,9 +27,6 @@
     "longitude": -75.1624
   },
   "url": "http://www.hsp.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200437",

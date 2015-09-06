@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187145
   },
-  "name": "Museo civico di arte contadina",
+  "name": [
+    {
+      "@value": "Museo civico di arte contadina",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Castello, ?",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.varziviva.net/museo_romagnese.htm",
   "telephone": "+39 0383580001",
-  "contactPoint": [
-
-  ],
-  "openingHours": "estate sabato e domenica 10,00 /12,00; nel periodo invernale previo appuntamento",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/FB4vdVbbcf--zg5y-aoAdUFAVm4=/1000x1000/museums/logos/000/187/145/original/21b3c6426850d26e637aeec6ca67d07a32c9c.jpg"

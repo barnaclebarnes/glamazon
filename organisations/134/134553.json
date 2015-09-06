@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134553
   },
-  "name": "MUSEUM OF SCIENCE AND HISTORY",
+  "name": [
+    {
+      "@value": "MUSEUM OF SCIENCE AND HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1025 GULF LIFE DRIVE",
@@ -21,9 +26,6 @@
     "latitude": 30.3186,
     "longitude": -81.6598
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200107",

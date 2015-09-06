@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184303
   },
-  "name": "Tairawhiti Museum",
+  "name": [
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Tairawhiti Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@tairawhitimuseum.org.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.tairawhitimuseum.org.nz",
   "telephone": "0064 6 8673832",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Weekdays 10am-4pm\r\nWeekends 1.30pm-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Giorni feriali 10-16 weekend 1.30 pm-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "平日 10 上午-4 下午周末 1.30 pm-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes 10:00-16:00 los fines de semana 1.30 pm-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "1.30 de fins de semana durante a semana 10:00-16:00 pm-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "平日 10-16 週末 1.30 午後 16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Будни 10 утра - 4 pm выходные 1.30 pm - 4 pm",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Wochentagen 10:00-16:00 an Wochenenden 1.30 pm-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lundi au vendredi 10:00-16:00 week-end 1. 30 pm-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Hari Isnin-Jumaat 10 am - 4 pm hujung minggu 1,30 pm - 4 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Wochentagen 10:00-16:00 an Wochenenden 1.30 pm-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Gold Coin entry.\r\nFree admission Mondays."
+    "description": [
+      {
+        "@value": "Gold Coin entry.\r\nFree admission Mondays.",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184303",
+    "url": "http://www.museums.io/en/museums/184303",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

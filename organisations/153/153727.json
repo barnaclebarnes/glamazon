@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153727
   },
-  "name": "FRANK PHILLIPS HOUSE",
+  "name": [
+    {
+      "@value": "FRANK PHILLIPS HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1107 S CHEROKEE AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.frankphillipshome.org",
   "telephone": "+1 (918) 336-2491",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404000081",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188058
   },
-  "name": "The Museum of Earth Sciences",
+  "name": [
+    {
+      "@value": "The Museum of Earth Sciences",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo di scienze della Terra",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Amendola 173 , ",
@@ -21,9 +30,6 @@
     "longitude": 16.8846
   },
   "telephone": "+39 0805442616",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ip6M-VacMhr9bcKNkV8MJOnTLMA=/1000x1000/museums/logos/000/188/058/original/633cacc3b6b326f09092893b75cb4d3d293a7871.jpg"

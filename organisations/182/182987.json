@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182987
   },
-  "name": "Alpinmuseum",
+  "name": [
+    {
+      "@value": "Alpinmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Landwehrstraße 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bayerisches-nationalmuseum.de/Win/g/g11.htm",
   "telephone": "0831/2525740",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

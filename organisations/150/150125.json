@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150125
   },
-  "name": "HISTORIC 1897 FIREHOUSE",
+  "name": [
+    {
+      "@value": "HISTORIC 1897 FIREHOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 103",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.elmirafiremuseum.org",
   "telephone": "+1 (607) 734-6689",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601419",

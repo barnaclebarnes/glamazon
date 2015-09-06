@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183475
   },
-  "name": "Otto-König-von-Griechenland-Museum",
+  "name": [
+    {
+      "@value": "Otto-König-von-Griechenland-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rathausstraße 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ottobrunn.de/KulturundFreizeit/Koenig-Otto-Museum.aspx",
   "telephone": "089/60808-172",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

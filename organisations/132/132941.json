@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132941
   },
-  "name": "CITY OF EVANS HISTORICAL MUSEUM",
+  "name": [
+    {
+      "@value": "CITY OF EVANS HISTORICAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1100 37TH STREET",
@@ -22,9 +27,6 @@
     "longitude": -104.697
   },
   "telephone": "+1 (970) 339-5344",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800117",

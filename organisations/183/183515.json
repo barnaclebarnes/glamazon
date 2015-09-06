@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183515
   },
-  "name": "Urzeitbahnhof Hartmannshof",
+  "name": [
+    {
+      "@value": "Urzeitbahnhof Hartmannshof",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bahnhofstraße 7 a",
@@ -22,9 +27,6 @@
     "longitude": 11.5546
   },
   "url": "http://www.mein-pommelsbrunn.de/index.php?bereich=verein_id&id=1&menu=99&menu_id=0-3&layout=122",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

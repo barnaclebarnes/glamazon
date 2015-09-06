@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159712
   },
-  "name": "DALLAS WORLD AQUARIUM CORP",
+  "name": [
+    {
+      "@value": "DALLAS WORLD AQUARIUM CORP",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1801 N GRIFFIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dwazoo.com",
   "telephone": "+1 (214) 720-2224",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801812",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183682
   },
-  "name": "Museum Solnhofen",
+  "name": [
+    {
+      "@value": "Museum Solnhofen",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bahnhofstraße 8",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.solnhofen.de/index.php?id=0,49",
   "telephone": "09145/832030",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

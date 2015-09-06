@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184139
   },
-  "name": "Rai Valley Cottage",
+  "name": [
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Rai Valley Cottage",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,18 +57,97 @@
     "latitude": -41.2274,
     "longitude": 173.583
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daylight Hours",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ore diurne",
+      "@langauge": "it"
+    },
+    {
+      "@value": "夏时制时间",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Horas del día",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Horas do dia",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "日照時間",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Дневное время",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Bei Tageslicht",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Heures de lumière du jour",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Waktu siang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Bei Tageslicht",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184139",
+    "url": "http://www.museums.io/en/museums/184139",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

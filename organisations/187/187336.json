@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187336
   },
-  "name": "Museo del cappello di Montappone",
+  "name": [
+    {
+      "@value": "Museo del cappello di Montappone",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Borgo XX settembre, 61",
@@ -15,14 +20,6 @@
     "addressCountry": "Italy"
   },
   "telephone": "+39 0734 760426",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/galgzyaSskvwRt3AsvuJx-_Wiwc=/1000x1000/museums/logos/000/187/336/original/e9c84a1b725ed75bdcd5303f16a3d02e334e6987.jpg"

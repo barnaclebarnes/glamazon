@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183617
   },
-  "name": "Müllner-Peter-Museum",
+  "name": [
+    {
+      "@value": "Müllner-Peter-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schulstraße 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.muellner-peter-museum.de",
   "telephone": "08057/909737",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

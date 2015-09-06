@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164212
   },
-  "name": "Port of Echuca",
+  "name": [
+    {
+      "@value": "Port of Echuca",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.portofechuca.org.au",
   "telephone": "03 54812852",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9am - 5pm ",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "9am - 5pm ",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "port-of-echuca",

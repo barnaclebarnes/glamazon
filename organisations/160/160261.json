@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160261
   },
-  "name": "AMERICAN MUSEUM OF FLY FISHING INC",
+  "name": [
+    {
+      "@value": "AMERICAN MUSEUM OF FLY FISHING INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 42",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.amff.com",
   "telephone": "+1 (802) 362-3300",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405000067",

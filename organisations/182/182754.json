@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182754
   },
-  "name": "Bauernmuseum Bamberger Land",
+  "name": [
+    {
+      "@value": "Bauernmuseum Bamberger Land",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bauernmuseum-frensdorf.de",
   "telephone": "09502/8308",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

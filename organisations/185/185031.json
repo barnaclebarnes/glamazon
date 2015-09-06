@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185031
   },
-  "name": "Wellwood Museum",
+  "name": [
+    {
+      "@value": "Wellwood Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "By appointment, Wellwood Farm, on N9 Graaff Reinet to Middelburg",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "049 840 0302",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

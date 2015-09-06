@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189642
   },
-  "name": "HUMBOLDT STATE UNIVERSITY VERTEBRATE MUSEUM",
+  "name": [
+    {
+      "@value": "HUMBOLDT STATE UNIVERSITY VERTEBRATE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "BIOLOGICAL SCIENCE DEPT. HUMBOLDT STATE UNIVERSITY, 1 HARPST STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://humboldt.edu/vmuseum/",
   "telephone": "+1 (707) 826-4872",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602958",

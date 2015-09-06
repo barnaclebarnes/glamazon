@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187064
   },
-  "name": "Museo archeologico di Milano",
+  "name": [
+    {
+      "@value": "Museo archeologico di Milano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Magenta, 15",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.comune.milano.it/dseserver/museiemostre/index.htm",
   "telephone": "+39 02804843 - 0286450011",
-  "contactPoint": [
-
-  ],
-  "openingHours": "da martedì a domenica: 9.00 -17.30 (ultimo ingresso ore 17.00)",
-  "offers": {
-    "@Type": "Offer",
-    "description": "2,00 euro"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/cNtt4invaKSWroma2O6Os-O6dR0=/1000x1000/museums/logos/000/187/064/original/89d58fd0b51d82c8281b2adc2d0e193cd89276.jpg"

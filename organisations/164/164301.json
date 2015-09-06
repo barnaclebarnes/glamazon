@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164301
   },
-  "name": "Snuff Puppets",
+  "name": [
+    {
+      "@value": "Snuff Puppets",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 144.785
   },
   "url": "http://www.snuffpuppets.com",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By Appointment Only",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By Appointment Only",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "snuff-puppets",

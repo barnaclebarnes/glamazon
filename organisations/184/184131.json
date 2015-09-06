@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184131
   },
-  "name": "Murchison Museum",
+  "name": [
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Murchison Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 172.325
   },
   "telephone": "64-3-523 9392",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 10am-4pm\r\n Except statutory holidays",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 10-16 tranne nei giorni festivi",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 10 上午-4 下午法定节假日除外",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 10:00-16:00 excepto festivos legales",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diariamente 10:00-16:00 exceto feriados legais",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "法定祝日を除く毎日 10-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 10 утра - 4 вечера кроме официальных праздников",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 10:00-16:00 außer an gesetzlichen Feiertagen",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 10:00-16:00 sauf les jours fériés",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 10 pagi - 4 petang kecuali cuti statut",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 10:00-16:00 außer an gesetzlichen Feiertagen",
   "offers": {
     "@Type": "Offer",
-    "description": "Durch Spende"
+    "description": [
+      {
+        "@value": "By donation",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Con una donazione",
+        "@langauge": "it"
+      },
+      {
+        "@value": "由捐赠",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Por la donación",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Por doação",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "寄付によって",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Пожертвование",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Durch Spende",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Par Don",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Oleh sumbangan",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184131",
+    "url": "http://www.museums.io/en/museums/184131",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

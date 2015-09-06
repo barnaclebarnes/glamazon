@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133573
   },
-  "name": "MUSEUM-CONNECTICUT HISTORY",
+  "name": [
+    {
+      "@value": "MUSEUM-CONNECTICUT HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "231 CAPITOL AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumofcthistory.org",
   "telephone": "+1 (860) 757-6535",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900048",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135513
   },
-  "name": "UNIVERSITY OF FLORIDA",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF FLORIDA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "219 GRINTER HALL",
@@ -22,9 +27,6 @@
     "longitude": -82.3505
   },
   "url": "http://rgp.ufl.edu/research",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201068",

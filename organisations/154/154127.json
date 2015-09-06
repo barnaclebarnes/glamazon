@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154127
   },
-  "name": "MUSEUM OF THE GREAT PLAINS AUTHORITY",
+  "name": [
+    {
+      "@value": "MUSEUM OF THE GREAT PLAINS AUTHORITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 NW FERRIS AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://museumgreatplains.org",
   "telephone": "+1 (580) 581-3460",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404000481",

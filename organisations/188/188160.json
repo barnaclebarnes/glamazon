@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188160
   },
-  "name": "The \"Giuseppe Fiorelli\" Civic Museum",
+  "name": [
+    {
+      "@value": "The \"Giuseppe Fiorelli\" Civic Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico \"Giuseppe Fiorelli\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Famiglia De Nicastri, 74",
@@ -21,9 +30,6 @@
     "longitude": 15.3363
   },
   "telephone": "+39 ",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Gon0xerboD2Wu0JwnhlpE61_QYs=/1000x1000/museums/logos/000/188/160/original/11a980a213e23cbca3a9616a89a084eed27bb79.jpg"

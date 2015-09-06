@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150922
   },
-  "name": "SOMERSET UNION MUSEUM",
+  "name": [
+    {
+      "@value": "SOMERSET UNION MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "62 DEERHURST PARK BLVD",
@@ -21,9 +26,6 @@
     "latitude": 42.9689,
     "longitude": -78.8651
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602216",

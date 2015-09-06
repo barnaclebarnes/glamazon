@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186119
   },
-  "name": "Museo d’arte sacra del Santuario del Piratello",
+  "name": [
+    {
+      "@value": "Museo d’arte sacra del Santuario del Piratello",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Emilia Ponente, 27",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.santuariodelpiratello.it",
   "telephone": "+39 0542 40455",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su appuntamento",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "111125",

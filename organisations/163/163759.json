@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163759
   },
-  "name": "Castlemaine Art Gallery & Historical Museum",
+  "name": [
+    {
+      "@value": "Castlemaine Art Gallery & Historical Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.castlemainegallery.com",
   "telephone": "03 54722292",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon - Frid 10 - 5 Sat. &amp; Sun.12 - 5 Closed Xmas Day &amp; Good Friday",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Mon - Frid 10 - 5 Sat. &amp; Sun.12 - 5 Closed Xmas Day &amp; Good Friday",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "castlemaine-art-gallery--historical-museum",

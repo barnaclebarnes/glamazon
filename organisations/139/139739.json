@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139739
   },
-  "name": "KAUFFMAN MUSEUM",
+  "name": [
+    {
+      "@value": "KAUFFMAN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "BETHEL COLLEGE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bethelks.edu/kauffman",
   "telephone": "+1 (316) 283-1612",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000065",

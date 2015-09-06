@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186785
   },
-  "name": "Pinacoteca Carlo Levi",
+  "name": [
+    {
+      "@value": "Pinacoteca Carlo Levi",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Gramsci, 58",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.comune.alassio.sv.it",
   "telephone": "+39 0182/648078",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100445",

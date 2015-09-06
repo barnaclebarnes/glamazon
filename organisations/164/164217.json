@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164217
   },
-  "name": "Presbyterian Ladies' College, Melbourne Heritage and Archive Centre",
+  "name": [
+    {
+      "@value": "Presbyterian Ladies' College, Melbourne Heritage and Archive Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.plc.vic.edu.au/plc-community_plc-archives.aspx",
   "telephone": "03 98085811",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Only by appointment during the Victorian School Term",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Only by appointment during the Victorian School Term",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "presbyterian-ladies-college-melbourne-heritage-archive-centre",

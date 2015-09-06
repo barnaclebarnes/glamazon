@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182824
   },
-  "name": "Museum im Wächterhaus",
+  "name": [
+    {
+      "@value": "Museum im Wächterhaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Großgründlacher Hauptstraße 47",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.unser-grossgruendlach.de/wachter_haus.html",
   "telephone": "0911/301147",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

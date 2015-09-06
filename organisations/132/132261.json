@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132261
   },
-  "name": "CALIFORNIA VEHICLE FOUNDATION",
+  "name": [
+    {
+      "@value": "CALIFORNIA VEHICLE FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2200 FRONT ST",
@@ -22,9 +27,6 @@
     "longitude": -121.511
   },
   "url": "http://www.calautomuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602387",

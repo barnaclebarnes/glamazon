@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182730
   },
-  "name": "Freilichtmuseum Finsterau",
+  "name": [
+    {
+      "@value": "Freilichtmuseum Finsterau",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Museumsstraße 51",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.freilichtmuseum.de/index2.php?inc=02_finsterau&navi=2",
   "telephone": "08557/9606-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

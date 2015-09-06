@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140075
   },
-  "name": "HEART OF THE HEARTLANDS CORPORATION",
+  "name": [
+    {
+      "@value": "HEART OF THE HEARTLANDS CORPORATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 211",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.heartlandstrainclub.org/",
   "telephone": "+1 (620) 396-8594",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000401",

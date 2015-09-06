@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182604
   },
-  "name": "Heimatmuseum des Landkreises Regensburg",
+  "name": [
+    {
+      "@value": "Heimatmuseum des Landkreises Regensburg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Vorwaldstraße 22",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.landkreis-regensburg.de/tourismus.asp?naviid=&ORGID=%7B3964CCD0-60E6-4488-88EA-22FFB8B86509%7D",
   "telephone": "09408/912 u. 283",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

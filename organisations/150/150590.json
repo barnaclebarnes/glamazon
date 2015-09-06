@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150590
   },
-  "name": "MUSEUM OF SCIENCE & TECHNOLOGY FOUNDATION",
+  "name": [
+    {
+      "@value": "MUSEUM OF SCIENCE & TECHNOLOGY FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "500 SOUTH FRANKLIN STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.most.org",
   "telephone": "+1 (315) 425-9068",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601884",

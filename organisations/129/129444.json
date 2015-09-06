@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129444
   },
-  "name": "SEDONA ART MUSEUM INC",
+  "name": [
+    {
+      "@value": "SEDONA ART MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "310 APPLE AVE",
@@ -21,9 +26,6 @@
     "latitude": 34.8716,
     "longitude": -111.762
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400346",

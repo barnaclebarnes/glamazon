@@ -6,7 +6,12 @@
     "name": "id",
     "value": 162885
   },
-  "name": "LAKE GENEVA ART MUSEUM",
+  "name": [
+    {
+      "@value": "LAKE GENEVA ART MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "513 BROAD ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lgam.org",
   "telephone": "+1 (262) 903-8035",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405500334",

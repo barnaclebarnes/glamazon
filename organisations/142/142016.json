@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142016
   },
-  "name": "BALTIMORE AND CHESAPEAKE STEAMBOAT COMPANY INC",
+  "name": [
+    {
+      "@value": "BALTIMORE AND CHESAPEAKE STEAMBOAT COMPANY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5010 LONG GREEN ROAD",
@@ -22,9 +27,6 @@
     "longitude": -76.5029
   },
   "url": "http://bayheritage.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400309",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130002
   },
-  "name": "SAN FRANCISCO MUSEUM OF CRAFT+DESIGN",
+  "name": [
+    {
+      "@value": "SAN FRANCISCO MUSEUM OF CRAFT+DESIGN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "550 SUTTER ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sfmcd.org",
   "telephone": "+1 (415) 773-0303",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600128",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140490
   },
-  "name": "FILSON CLUB",
+  "name": [
+    {
+      "@value": "FILSON CLUB",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1310 S 3RD ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://filsonhistorical.org",
   "telephone": "+1 (502) 635-5083",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100247",

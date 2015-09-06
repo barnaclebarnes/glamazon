@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145892
   },
-  "name": "SAINT LOUIS ZOO",
+  "name": [
+    {
+      "@value": "SAINT LOUIS ZOO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "ONE GOVERNMENT DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stlzoo",
   "telephone": "+1 (314) 781-0900",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900321",

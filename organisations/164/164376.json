@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164376
   },
-  "name": "The School of Physics Museum, University of Melbourne",
+  "name": [
+    {
+      "@value": "The School of Physics Museum, University of Melbourne",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.ph.unimelb.edu.au/museum/",
   "telephone": "03 8344 5076",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Opening hours: 9am to 5pm\r\nMonday to Friday\r\nClosed between Christmas and New Year and on public holidays.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Opening hours: 9am to 5pm\r\nMonday to Friday\r\nClosed between Christmas and New Year and on public holidays.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "university-of-melbourne",

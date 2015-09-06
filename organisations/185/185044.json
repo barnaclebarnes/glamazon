@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185044
   },
-  "name": "Coconi Botanical Garden",
+  "name": [
+    {
+      "@value": "Coconi Botanical Garden",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,13 +22,20 @@
     "longitude": 45.1339
   },
   "telephone": "+262 269 62 50 67",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday to Friday. From 6:30 to 15:15 except on Friday when the garden closes at 11am.\r\nClosed Weekends",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday to Friday. From 6:30 to 15:15 except on Friday when the garden closes at 11am.\r\nClosed Weekends",
   "offers": {
     "@Type": "Offer",
-    "description": "Free"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",

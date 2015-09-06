@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136859
   },
-  "name": "WEST CHICAGO CITY MUSEUM",
+  "name": [
+    {
+      "@value": "WEST CHICAGO CITY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "132 MAIN ST.",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.westchicago.org/museum",
   "telephone": "+1 (708) 231-3376",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700004",

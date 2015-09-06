@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183601
   },
-  "name": "Bayerisches Moor- und Torfmuseum Rottau",
+  "name": [
+    {
+      "@value": "Bayerisches Moor- und Torfmuseum Rottau",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ende der Hackenstraße",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.torfbahnhof-rottau.de",
   "telephone": "08051/9674701",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

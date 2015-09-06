@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159864
   },
-  "name": "HOUSTON MARITIME MUSEUM",
+  "name": [
+    {
+      "@value": "HOUSTON MARITIME MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2204 DORRINGTON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.houstonmaritimemuseum.org",
   "telephone": "+1 (713) 666-1910",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801964",

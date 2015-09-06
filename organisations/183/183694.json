@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183694
   },
-  "name": "Heimatmuseum Stein in Mittelfranken",
+  "name": [
+    {
+      "@value": "Heimatmuseum Stein in Mittelfranken",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mühlstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.heimat-und-kulturverein-stein.de",
   "telephone": "0911/6804757",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

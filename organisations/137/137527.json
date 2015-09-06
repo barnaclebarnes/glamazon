@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137527
   },
-  "name": "ELGIN PUBLIC MUSEUM INCORPORATED",
+  "name": [
+    {
+      "@value": "ELGIN PUBLIC MUSEUM INCORPORATED",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "225 GRAND BLVD",
@@ -22,9 +27,6 @@
     "longitude": -88.2638
   },
   "url": "http://www.elginpublicmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700672",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160186
   },
-  "name": "HERITAGE MUSEUM OF LAYTON",
+  "name": [
+    {
+      "@value": "HERITAGE MUSEUM OF LAYTON",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "403 NORTH WASATCH DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://laytoncity.org",
   "telephone": "+1 (801) 336-3930",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900252",

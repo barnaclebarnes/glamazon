@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129675
   },
-  "name": "PARK CENTRAL LITTLE ROCK",
+  "name": [
+    {
+      "@value": "PARK CENTRAL LITTLE ROCK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 567",
@@ -21,9 +26,6 @@
     "latitude": 34.7431,
     "longitude": -92.2651
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400500111",

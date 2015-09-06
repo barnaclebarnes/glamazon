@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134462
   },
-  "name": "WHITMAN FAMILY MUSEUM",
+  "name": [
+    {
+      "@value": "WHITMAN FAMILY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9700 COLLINS AVE",
@@ -22,9 +27,6 @@
     "longitude": -80.1238
   },
   "telephone": "+1 (305) 403-9254",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200016",

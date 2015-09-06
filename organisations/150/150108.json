@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150108
   },
-  "name": "BOXING HALL OF FAME MUSEUM",
+  "name": [
+    {
+      "@value": "BOXING HALL OF FAME MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 HALL OF FAME DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ibhof.com",
   "telephone": "+1 (315) 697-7095",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601402",

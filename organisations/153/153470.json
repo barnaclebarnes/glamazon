@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153470
   },
-  "name": "CLEVELAND GRAYS",
+  "name": [
+    {
+      "@value": "CLEVELAND GRAYS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1234 BOLIVAR RD",
@@ -21,9 +26,6 @@
     "latitude": 41.4992,
     "longitude": -81.6821
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403901248",

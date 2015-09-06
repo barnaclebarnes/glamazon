@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184235
   },
-  "name": "Melody Farm Music Museum",
+  "name": [
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Melody Farm Music Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 174.892
   },
   "telephone": "64-4-239 9307",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By arrangement",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Da concordare",
+      "@langauge": "it"
+    },
+    {
+      "@value": "通过安排",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Por el arreglo",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Por arranjo",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "配置によって",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "По договоренности",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Nach Absprache",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Par arrangement",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Dengan pengaturan",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Nach Absprache",
   "offers": {
     "@Type": "Offer",
-    "description": "Erwachsene $4 Kind $2"
+    "description": [
+      {
+        "@value": "Adult $4 \r\n Child $2",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Adulto bambino $4 $2",
+        "@langauge": "it"
+      },
+      {
+        "@value": "成人 $4 小童 $2",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Adultos niños $4 $2",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Adulto criança $4 $2",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "大人 $4 $2 子供",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Взрослый ребенок $4 $2",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Erwachsene $4 Kind $2",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Enfant adulte de 4 $2 $",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Dewasa $4 kanak-kanak $2",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184235",
+    "url": "http://www.museums.io/en/museums/184235",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

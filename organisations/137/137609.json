@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137609
   },
-  "name": "CHICAGO BLUES MUSEUM",
+  "name": [
+    {
+      "@value": "CHICAGO BLUES MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 81410",
@@ -22,9 +27,6 @@
     "longitude": -87.6227
   },
   "telephone": "+1 (773) 828-8118",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700754",

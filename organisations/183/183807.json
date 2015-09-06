@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183807
   },
-  "name": "Schelfenhaus",
+  "name": [
+    {
+      "@value": "Schelfenhaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schelfengasse 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museen-kitzingerland.de/museen/uebersicht/art12,80.html",
   "telephone": "09381/40112",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131947
   },
-  "name": "PI MUSEUM",
+  "name": [
+    {
+      "@value": "PI MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "923 ISLAND AVENUE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.pimuseum.org",
   "telephone": "+1 (212) 542-0566",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602073",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188221
   },
-  "name": "The Museum of the Fathers and the Majolica",
+  "name": [
+    {
+      "@value": "The Museum of the Fathers and the Majolica",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo dei padri e della maiolica",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via della Conciliazione , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.comune.laterza.ta.it",
   "telephone": "+39 (+39) 099 8297931",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/HH8foqDLGKOxPm7nm0caWBpswYs=/1000x1000/museums/logos/000/188/221/original/5c92d50f217e5926b5850b4d44c9d293dd11.jpg"

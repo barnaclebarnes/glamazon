@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184053
   },
-  "name": "Museum Bürgstadt",
+  "name": [
+    {
+      "@value": "Museum Bürgstadt",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Mühlgraben",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hgv-buergstadt.de",
   "telephone": "09371/99560",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

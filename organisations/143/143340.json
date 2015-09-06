@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143340
   },
-  "name": "BOSTON BRAVES HISTORICAL ASSOCIATION",
+  "name": [
+    {
+      "@value": "BOSTON BRAVES HISTORICAL ASSOCIATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 67195",
@@ -22,9 +27,6 @@
     "longitude": -71.1505
   },
   "url": "http://boston-braves.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500970",

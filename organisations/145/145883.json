@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145883
   },
-  "name": "ST LOUIS ARTISTS GUILD",
+  "name": [
+    {
+      "@value": "ST LOUIS ARTISTS GUILD",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2 OAK KNOLL PARK",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stlouisartistsguild.org",
   "telephone": "+1 (314) 727-6266",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900312",

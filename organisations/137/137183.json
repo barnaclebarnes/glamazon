@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137183
   },
-  "name": "DIXON HISTORIC CENTER",
+  "name": [
+    {
+      "@value": "DIXON HISTORIC CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 345",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dixonhistoriccenter.org",
   "telephone": "+1 (815) 288-5508",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700328",

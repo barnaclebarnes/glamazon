@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184114
   },
-  "name": "Mangawhai Museum",
+  "name": [
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Mangawhai Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@mangawhai-museum.org.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.mangawhai-museum.org.nz",
   "telephone": "64- 09- 4314645",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "New Museum being constructed. To be opened early December 2014.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Nuovo Museo in costruzione. Apertura inizio dicembre 2014.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "正在建造的新博物馆。要打开 12 月 2014 年初。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Nuevo Museo en construcción. Para abrirse a principios de diciembre de 2014.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Novo Museu em construção. A abertura precoce de dezembro de 2014.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "新しい博物館は構築されています。2014 年 12 月上旬に開かれます。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Новый музей строимо. Будет открыт в начале декабря 2014 года.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Neues Museum errichtet. Anfang Dezember 2014 eröffnet werden.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Nouveau musée en construction. Ouverture début décembre 2014.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Muzium baru yang sedang dibina. Akan dibuka awal Disember 2014.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Neues Museum errichtet. Anfang Dezember 2014 eröffnet werden.",
   "offers": {
     "@Type": "Offer",
-    "description": "Nicht zutreffend gegenwärtig. Museum geschlossen für den Bau."
+    "description": [
+      {
+        "@value": "Not applicable at present. Museum closed for construction.",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Non applicabile al momento. Museo chiuso per costruzione.",
+        "@langauge": "it"
+      },
+      {
+        "@value": "不适用目前。博物馆施工封闭。",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "No es aplicable en la actualidad. Museo cerrado para la construcción.",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Não aplicável no momento. Museu fechado para construção.",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "該当しない現時点では。博物館は工事のため閉鎖。",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Не применимо в настоящее время. Музей закрыт для строительства.",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Nicht zutreffend gegenwärtig. Museum geschlossen für den Bau.",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Ne s'applique pas à l'heure actuelle. Musée fermé pour la construction.",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Tidak boleh digunakan pada masa kini. Muzium ditutup untuk pembinaan.",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184114",
+    "url": "http://www.museums.io/en/museums/184114",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

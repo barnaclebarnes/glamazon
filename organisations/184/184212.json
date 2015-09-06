@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184212
   },
-  "name": "Jubilee Fire Museum",
+  "name": [
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Jubilee Fire Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,18 +57,97 @@
     "latitude": -40.9492,
     "longitude": 175.665
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment until Museum re-opens",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Su appuntamento fino al Museo riapre",
+      "@langauge": "it"
+    },
+    {
+      "@value": "直到博物馆重新开放预约",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Con cita previa hasta el Museo vuelve a abrir",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Com hora marcada até Museu reabre",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "再開館までの予定で",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "По договоренности до музей открывает Re-",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Voranmeldung bis zum Museum öffnet wieder",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Rendez-vous jusqu'au Musée rouvre",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Dengan pelantikan sehingga Muzium dibuka semula",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Voranmeldung bis zum Museum öffnet wieder",
   "offers": {
     "@Type": "Offer",
-    "description": "Spende"
+    "description": [
+      {
+        "@value": "Donation",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Donazione",
+        "@langauge": "it"
+      },
+      {
+        "@value": "捐赠",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Donación de",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Doação",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "寄付",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Пожертвование",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Spende",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Don",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Derma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184212",
+    "url": "http://www.museums.io/en/museums/184212",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

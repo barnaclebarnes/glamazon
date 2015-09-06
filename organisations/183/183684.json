@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183684
   },
-  "name": "Heimathaus",
+  "name": [
+    {
+      "@value": "Heimathaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Sonnenstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sonthofen.de/Kultur/Museen/Heimathaus.aspx",
   "telephone": "08321/3300",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

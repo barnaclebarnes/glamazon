@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184462
   },
-  "name": "Waikaia Museum",
+  "name": [
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Waikaia Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:waikaiaschool@woosh.co.nz"
@@ -18,18 +59,61 @@
     "longitude": 168.849
   },
   "telephone": "03 202 7809",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open Saturday and Sunday 2.00 pm - 4.00 pm (Labour Weekend - Easter)\r\nOther times by arrangement",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Aperto sabato e domenica 14-16 (lavoro Weekend - Pasqua) altri orari da concordare",
+      "@langauge": "it"
+    },
+    {
+      "@value": "打开周六和周日 2 下午-4 下午 (劳工周末-复活节) 其他时间安排",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Abierto el sábados y el domingos 14:00-16:00 (trabajo fin de semana - semana Santa) otras veces por el arreglo",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Aberto sábado e domingo 14:00-16:00 (trabalho fim de semana - Páscoa), outras vezes por arranjo",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "その他の取り決めによって回オープン土曜日と日曜日 14-16 (労働週末 - イースター)",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Открыть в субботу и воскресенье 14.00 - 16.00 (труда выходные - Пасха) другое время по договоренности",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Geöffnet Samstag und Sonntag 14:00-16:00 (Labour-Wochenende - Ostern) andere Zeiten nach Vereinbarung",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Ouvert le samedi et dimanche de 14:00-16:00 (fin de semaine du travail - Pâques) tantôt par arrangement",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Buka hari Sabtu dan Ahad 2.00 petang - 4.00 petang (tenaga kerja hujung minggu - Easter) masa lain dengan persetujuan",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Geöffnet Samstag und Sonntag 14:00-16:00 (Labour-Wochenende - Ostern) andere Zeiten nach Vereinbarung",
   "offers": {
     "@Type": "Offer",
-    "description": "Adults $2.00\r\nChildren Free"
+    "description": [
+      {
+        "@value": "Adults $2.00\r\nChildren Free",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184462",
+    "url": "http://www.museums.io/en/museums/184462",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

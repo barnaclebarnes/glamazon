@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146908
   },
-  "name": "LINCOLN CHILDRENS MUSEUM",
+  "name": [
+    {
+      "@value": "LINCOLN CHILDRENS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1420 P ST",
@@ -22,9 +27,6 @@
     "longitude": -96.7002
   },
   "url": "http://lincolnchildrensmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403100247",

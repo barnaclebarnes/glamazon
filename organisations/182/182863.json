@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182863
   },
-  "name": "Museum \"Vom Kloster zur Stadt\"",
+  "name": [
+    {
+      "@value": "Museum \"Vom Kloster zur Stadt\"",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-heilsbronn.de",
   "telephone": "09872/806-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

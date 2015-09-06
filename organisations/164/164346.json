@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164346
   },
-  "name": "Telstra Museum, Melbourne",
+  "name": [
+    {
+      "@value": "Telstra Museum, Melbourne",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.telstra.com.au/abouttelstra/company-overview/history/telstra-museums/",
   "telephone": "(03) 8647 7944",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open Wednesday (by appointment), other days can be arranged based on volunteer availability.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open Wednesday (by appointment), other days can be arranged based on volunteer availability.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "telstra-museum",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163839
   },
-  "name": "Doncaster RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Doncaster RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 144.785
   },
   "telephone": "03 98428340",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Not normally open to the public",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Not normally open to the public",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "doncaster-rsl",

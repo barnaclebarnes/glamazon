@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149406
   },
-  "name": "MUSEUM OF COMEDY",
+  "name": [
+    {
+      "@value": "MUSEUM OF COMEDY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "561 SEVENTH AVENUE",
@@ -21,9 +26,6 @@
     "latitude": 40.7549,
     "longitude": -73.9878
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600700",

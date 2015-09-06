@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183841
   },
-  "name": "Glas-Knopf-Museum",
+  "name": [
+    {
+      "@value": "Glas-Knopf-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kristallstraße 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.weidenberg.de",
   "telephone": "09278/308",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

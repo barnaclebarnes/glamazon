@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182999
   },
-  "name": "Haslinger Hof",
+  "name": [
+    {
+      "@value": "Haslinger Hof",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ed 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.haslinger-hof.de",
   "telephone": "08531/295-4200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

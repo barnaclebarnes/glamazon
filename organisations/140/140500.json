@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140500
   },
-  "name": "INTERNATIONAL MUSEUM OF THE HORSE",
+  "name": [
+    {
+      "@value": "INTERNATIONAL MUSEUM OF THE HORSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4089 IRON WORKS PIKE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.imh.org",
   "telephone": "+1 (859) 259-4232",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100257",

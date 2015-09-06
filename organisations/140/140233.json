@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140233
   },
-  "name": "ROSE HILL HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ROSE HILL HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 36",
@@ -22,9 +27,6 @@
     "longitude": -97.1335
   },
   "url": "http://www.rosehillhistoricalsociety.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000559",

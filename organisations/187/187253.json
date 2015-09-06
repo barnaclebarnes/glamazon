@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187253
   },
-  "name": "Museo di \"San Clemente\"",
+  "name": [
+    {
+      "@value": "Museo di \"San Clemente\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza S. Clemente, 2",
@@ -21,14 +26,6 @@
     "longitude": 12.9359
   },
   "telephone": "+39 +39 073290090",
-  "contactPoint": [
-
-  ],
-  "openingHours": "da Lun. a Ven. - 15.00-18.00 - Sab. Dom. 11.00-18.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 4.00"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "104056",

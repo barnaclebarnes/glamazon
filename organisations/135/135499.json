@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135499
   },
-  "name": "HISTORICAL SOCIETY OF BAY COUNTY",
+  "name": [
+    {
+      "@value": "HISTORICAL SOCIETY OF BAY COUNTY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1476",
@@ -22,9 +27,6 @@
     "longitude": -85.6334
   },
   "url": "http://www.bayhistory.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201054",

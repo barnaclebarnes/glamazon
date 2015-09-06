@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134425
   },
-  "name": "HISTORICAL SOCIETY OF WASHINGTON DC",
+  "name": [
+    {
+      "@value": "HISTORICAL SOCIETY OF WASHINGTON DC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "801 K ST NW",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.historydc.org/",
   "telephone": "+1 (202) 383-1850",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100206",

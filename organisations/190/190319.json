@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190319
   },
-  "name": "GETTYSBURG NATIONAL MILITARY PARK",
+  "name": [
+    {
+      "@value": "GETTYSBURG NATIONAL MILITARY PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1195 BALTIMORE PIKE",
@@ -22,9 +27,6 @@
     "longitude": -77.222
   },
   "telephone": "+1 (717) 334-1124",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201727",

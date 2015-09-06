@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149898
   },
-  "name": "NATURAL HISTORY MUSEUM OF THE ADIRONDACKS",
+  "name": [
+    {
+      "@value": "NATURAL HISTORY MUSEUM OF THE ADIRONDACKS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "45 MUSEUM DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wildcenter.org",
   "telephone": "+1 (518) 359-7800",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601192",

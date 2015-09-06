@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190303
   },
-  "name": "POWDERMILL NATURE RESERVE",
+  "name": [
+    {
+      "@value": "POWDERMILL NATURE RESERVE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1847 ROUTE 381",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.carnegiemnh.org/powdermill/",
   "telephone": "+1 (724) 583-4555",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201709",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183790
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rathausplatz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.forum-unterschleissheim.de/museen/heimatmuseum/",
   "telephone": "089/3106343",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

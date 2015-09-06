@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186777
   },
-  "name": "Museo del sigillo",
+  "name": [
+    {
+      "@value": "Museo del sigillo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via del Prione, 236",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.laspeziacultura.it",
   "telephone": "+39 0187/778544",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100437",

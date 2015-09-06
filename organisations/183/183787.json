@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183787
   },
-  "name": "Heimatmuseum Unterhaching",
+  "name": [
+    {
+      "@value": "Heimatmuseum Unterhaching",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 51",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.Heimatmuseum-Unterhaching.de",
   "telephone": "089/6251420",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

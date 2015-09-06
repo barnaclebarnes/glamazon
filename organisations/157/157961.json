@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157961
   },
-  "name": "TEXAS AIR MUSEUM HANGER",
+  "name": [
+    {
+      "@value": "TEXAS AIR MUSEUM HANGER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1234 99TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.texasairmuseum.org",
   "telephone": "+1 (210) 977-9885",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800061",

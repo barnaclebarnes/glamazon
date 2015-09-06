@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184611
   },
-  "name": "Montague Museum",
+  "name": [
+    {
+      "@value": "Montague Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -33.8867,
     "longitude": 18.5455
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

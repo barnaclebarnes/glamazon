@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150018
   },
-  "name": "GENEVA HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "GENEVA HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "543 S MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.genevahistoricalsociety.com",
   "telephone": "+1 (315) 789-5151",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601312",

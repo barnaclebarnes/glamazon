@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184296
   },
-  "name": "Oxford Museum",
+  "name": [
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Oxford Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:oxmuseumdata@gmail.com"
@@ -17,18 +58,61 @@
     "latitude": -43.2982,
     "longitude": 172.19
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "11am-4pm every Sunday\r\nOr by arrangement\r\nPlease contact Margaret Norquoy Ph: 03 312 3696",
+      "@langauge": "en"
+    },
+    {
+      "@value": "11-16 ogni domenica o su appuntamento si prega di contattare Margaret Norquoy Ph: 03 312 3696",
+      "@langauge": "it"
+    },
+    {
+      "@value": "11 上午-4 下午每周日或由安排请联系霭仪 Norquoy ph 值: 03 312 3696",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "11:00-16:00 cada domingo o por el arreglo por favor póngase en contacto con Margaret Norquoy Ph: 03 312 3696",
+      "@langauge": "es"
+    },
+    {
+      "@value": "11:00-16:00 cada domingo ou por acordo entre em contato com Margaret Norquoy Ph: 03 312 3696",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "11-16 毎日曜日または配置によってマーガレット Norquoy Ph までご連絡ください: 03 312 3696",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "11 утра - 4 вечера каждое воскресенье или по договоренности свяжитесь с Маргарет Norquoy Ph: 03 312 3696",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "11:00-16:00 jeden Sonntag nach Absprache wenden Sie sich bitte Margaret Norquoy Ph: 03-312-3696",
+      "@langauge": "de"
+    },
+    {
+      "@value": "11:00-16:00 chaque dimanche ou par entente, veuillez communiquer avec Margaret Norquoy Ph: 03 312 3696",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "11 am - 4 pm setiap hari Ahad atau urusan Sila hubungi Margaret Norquoy Ph: 03 312 3696",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "11:00-16:00 jeden Sonntag nach Absprache wenden Sie sich bitte Margaret Norquoy Ph: 03-312-3696",
   "offers": {
     "@Type": "Offer",
-    "description": "Gold Coin Voluntary Donation"
+    "description": [
+      {
+        "@value": "Gold Coin Voluntary Donation",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184296",
+    "url": "http://www.museums.io/en/museums/184296",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

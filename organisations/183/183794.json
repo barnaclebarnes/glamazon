@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183794
   },
-  "name": "Orgelmuseum Altes Schloss",
+  "name": [
+    {
+      "@value": "Orgelmuseum Altes Schloss",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Graf-Arco-Straße 30",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lampl-orgelzentrum.com",
   "telephone": "08024/4144",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147193
   },
-  "name": "LAS VEGAS RAILROAD SOCIETY",
+  "name": [
+    {
+      "@value": "LAS VEGAS RAILROAD SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 33518",
@@ -21,9 +26,6 @@
     "latitude": 36.2063,
     "longitude": -115.252
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403200168",

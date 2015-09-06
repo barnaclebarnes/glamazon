@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150096
   },
-  "name": "NAPLES HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "NAPLES HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 489",
@@ -22,9 +27,6 @@
     "longitude": -77.4006
   },
   "telephone": "+1 (585) 374-6752",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601390",

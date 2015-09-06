@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164265
   },
-  "name": "RSL Victoria - Anzac House Reference Library and Memorabilia Collection",
+  "name": [
+    {
+      "@value": "RSL Victoria - Anzac House Reference Library and Memorabilia Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.rslvic.com.au",
   "telephone": "(03) 9655 5508",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Normally 10am to 2pm Monday to Friday (other times may be arranged). Please contact the librarian (Fred Pratt) prior to visit.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Normally 10am to 2pm Monday to Friday (other times may be arranged). Please contact the librarian (Fred Pratt) prior to visit.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "anzac-house-reference-library-and-memorabilia-collection",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188424
   },
-  "name": "Museo della Sicilia 3m",
+  "name": [
+    {
+      "@value": "Museo della Sicilia 3m",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Roma, 533",
@@ -15,10 +20,6 @@
     "addressCountry": "Italy"
   },
   "telephone": "+39 3385023361-3392002463",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutti i giorni dalle 9.30 alle 13.00 e dalle 15.30 alle 19.30",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "101235",

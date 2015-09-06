@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188177
   },
-  "name": "Museo civico di San Severo",
+  "name": [
+    {
+      "@value": "Museo civico di San Severo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza San Francesco, 48",
@@ -21,14 +26,6 @@
     "longitude": 15.3791
   },
   "telephone": "+39 0882334409",
-  "contactPoint": [
-
-  ],
-  "openingHours": "mar.- ven. 9.00-13.30/17.30-20.30 sab. 18.00-21.00 dom. 10.30-13.30/18.00-21.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito; visite guidate a pagamento"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/FllYxOr7aRq6yTTDXaNDyHqGuk4=/1000x1000/museums/logos/000/188/177/original/caf22d02844b167a64eb6edaced15bcd5b52aad.jpg"

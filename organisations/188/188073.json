@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188073
   },
-  "name": "The Municipal Art Gallery ''P. Finoglio''",
+  "name": [
+    {
+      "@value": "The Municipal Art Gallery ''P. Finoglio''",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca comunale ''P. Finoglio''",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza della Conciliazione , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://test.turismoinconversano.it/modules/pages/page.php?id=36",
   "telephone": "+39 080/4959510",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/9eZARAzr2zbhQuDp-wf--hB0VJo=/1000x1000/museums/logos/000/188/073/original/feac413ea37968b9951ba96a64c93592512e6.jpg"

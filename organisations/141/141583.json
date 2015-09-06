@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141583
   },
-  "name": "UNIVERSITY OF MAINE",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF MAINE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "OFFICE OF SPONSORED RES",
@@ -22,9 +27,6 @@
     "longitude": -68.6619
   },
   "telephone": "+1 (207) 581-1904",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402300432",

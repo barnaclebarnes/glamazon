@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130708
   },
-  "name": "NAPA FIREFIGHTERS MUSEUM",
+  "name": [
+    {
+      "@value": "NAPA FIREFIGHTERS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1201 MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.napafirefightersmuseum.org",
   "telephone": "+1 (707) 259-0609",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600834",

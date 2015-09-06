@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188157
   },
-  "name": "The Provincial Museum of History",
+  "name": [
+    {
+      "@value": "The Provincial Museum of History",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo provinciale di storia naturale",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale Di Vittorio-Ex Liceo Marconi, 31 , ",
@@ -21,9 +30,6 @@
     "longitude": 15.5446
   },
   "telephone": "+39 0881663972",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/82OqhmCVEJhXYjnvMNN7nZfks_4=/1000x1000/museums/logos/000/188/157/original/99416811f1ad51e97b98dacb96d4ac1ad101aa1.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163630
   },
-  "name": "Ararat Regional Art Gallery",
+  "name": [
+    {
+      "@value": "Ararat Regional Art Gallery",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://araratregionalartgallery.blogspot.com.au/",
   "telephone": "+613 5352 2836",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday to Friday 10am to 4.30pm\r\nSaturday, Sunday &amp; Public Holidays 12pm to 4pm\r\nClosed Good Friday, Christmas Day, Boxing Day and New Year's Day\r\n",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday to Friday 10am to 4.30pm\r\nSaturday, Sunday &amp; Public Holidays 12pm to 4pm\r\nClosed Good Friday, Christmas Day, Boxing Day and New Year's Day\r\n",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ararat-regional-art-gallery",

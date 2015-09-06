@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150523
   },
-  "name": "SCIENCENTER DISCOVERY MUSEUM",
+  "name": [
+    {
+      "@value": "SCIENCENTER DISCOVERY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 1ST ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sciencenter.org",
   "telephone": "+1 (607) 272-0600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601817",

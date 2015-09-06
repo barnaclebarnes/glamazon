@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129890
   },
-  "name": "YOUTH SCIENCE INSTITUTE",
+  "name": [
+    {
+      "@value": "YOUTH SCIENCE INSTITUTE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "16260 PENITENCIA CREEK RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ysi-ca.org",
   "telephone": "+1 (408) 258-4322",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600016",

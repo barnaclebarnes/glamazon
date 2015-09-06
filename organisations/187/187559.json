@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187559
   },
-  "name": "Museo dei campionissimi",
+  "name": [
+    {
+      "@value": "Museo dei campionissimi",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale dei Campionissimi, ",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museodeicampionissimi.it",
   "telephone": "+39 0143 322634",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Venerdì 15-19; Sabato, Domenica e Festivi 10-19",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/PNsPGkdQIZpgHbXoUUUq0AxOvwU=/1000x1000/museums/logos/000/187/559/original/833657c72b1c6c66e2428f2bed267ce36182d80.jpg"

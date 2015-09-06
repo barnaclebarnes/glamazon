@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183437
   },
-  "name": "Residenzschloss Oettingen",
+  "name": [
+    {
+      "@value": "Residenzschloss Oettingen",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.oettingen-spielberg.de",
   "telephone": "09082/9694-24",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

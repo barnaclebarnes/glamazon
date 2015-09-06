@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163613
   },
-  "name": "Alexandra Timber Tramway & Museum",
+  "name": [
+    {
+      "@value": "Alexandra Timber Tramway & Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.alexandratramway.org.au/",
   "telephone": "0427 509 988",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Second Sunday of each month(steam train rides) 10:00am - 4:00pm. 4th Sunday of each month (diesel train rides) 10.00am - 4.00 pm. And most Public Holidays. Other times by appointment.  Groups very welcome\r\nPhone 0427 509 988 for information. ",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Second Sunday of each month(steam train rides) 10:00am - 4:00pm. 4th Sunday of each month (diesel train rides) 10.00am - 4.00 pm. And most Public Holidays. Other times by appointment.  Groups very welcome\r\nPhone 0427 509 988 for information. ",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "alexandra-timber-tramway-and-museum",

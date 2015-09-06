@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184083
   },
-  "name": "Museum im Roselius-Haus",
+  "name": [
+    {
+      "@value": "Museum im Roselius-Haus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@pmbm.de"
@@ -18,9 +23,6 @@
     "longitude": 8.80602
   },
   "telephone": "+49 (0) 421 3388222",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bremen",

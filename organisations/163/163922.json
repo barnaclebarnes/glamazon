@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163922
   },
-  "name": "Grey Street Primary School, Traralgon",
+  "name": [
+    {
+      "@value": "Grey Street Primary School, Traralgon",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.greyschlps.vic.edu.au ",
   "telephone": "+61351742055",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9:00am to 3:25pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "9:00am to 3:25pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "grey-street-primary-school",

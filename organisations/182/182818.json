@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182818
   },
-  "name": "Freilandmuseum Grassemann",
+  "name": [
+    {
+      "@value": "Freilandmuseum Grassemann",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Grassemann 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.warmensteinach.de/Grassemann.freilandmuseum_warmensteinach.0.html",
   "telephone": "09277/6105",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

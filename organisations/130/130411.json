@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130411
   },
-  "name": "FALLBROOK CENTER FOR ARTS",
+  "name": [
+    {
+      "@value": "FALLBROOK CENTER FOR ARTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "103 S MAIN AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fallbrookartcenter.org",
   "telephone": "+1 (760) 728-1414",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600537",

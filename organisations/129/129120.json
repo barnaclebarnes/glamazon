@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129120
   },
-  "name": "PENSKE RACING MUSEUM",
+  "name": [
+    {
+      "@value": "PENSKE RACING MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7125 E CHAUNCEY LN",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.penskeracingmuseum.com",
   "telephone": "+1 (480) 538-4444",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400022",

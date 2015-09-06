@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132238
   },
-  "name": "PETALUMA HISTORICAL LIBRARY & MUSEUM",
+  "name": [
+    {
+      "@value": "PETALUMA HISTORICAL LIBRARY & MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "20 4TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.petalumamuseum.com",
   "telephone": "+1 (707) 778-4398",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602364",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135038
   },
-  "name": "PENSACOLA MESS HALL",
+  "name": [
+    {
+      "@value": "PENSACOLA MESS HALL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 847",
@@ -21,9 +26,6 @@
     "latitude": 30.4338,
     "longitude": -87.2347
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200592",

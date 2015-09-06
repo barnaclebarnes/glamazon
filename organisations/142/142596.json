@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142596
   },
-  "name": "INTERNATIONAL WORLD WAR MUSEUM INC",
+  "name": [
+    {
+      "@value": "INTERNATIONAL WORLD WAR MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1776",
@@ -21,9 +26,6 @@
     "latitude": 42.6978,
     "longitude": -73.1117
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500226",

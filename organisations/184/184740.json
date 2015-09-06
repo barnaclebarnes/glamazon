@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184740
   },
-  "name": "Carnarvon Museum",
+  "name": [
+    {
+      "@value": "Carnarvon Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hanao Street, Carnarvon",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "053 382 3012",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

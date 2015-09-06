@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157647
   },
-  "name": "TENNESSEE AQUARIUM",
+  "name": [
+    {
+      "@value": "TENNESSEE AQUARIUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 11048",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tnaqua.org",
   "telephone": "+1 (423) 265-0695",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404700318",

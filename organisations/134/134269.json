@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134269
   },
-  "name": "SMITHSONIAN INSTITUTION, HIRSHHORN MUSEUM AND SCULPTURE GARDEN",
+  "name": [
+    {
+      "@value": "SMITHSONIAN INSTITUTION, HIRSHHORN MUSEUM AND SCULPTURE GARDEN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7TH & INDEPENDENCE SW",
@@ -23,9 +28,6 @@
   },
   "url": "http://hirshhorn.si.edu/",
   "telephone": "+1 (202) 633-4674",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100050",

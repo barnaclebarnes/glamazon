@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183084
   },
-  "name": "Christophs Friseur-Museum",
+  "name": [
+    {
+      "@value": "Christophs Friseur-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Günzburger Straße 21",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.friseur-museum.de",
   "telephone": "08221/7853",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

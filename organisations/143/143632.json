@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143632
   },
-  "name": "CITY OF WAYNE HISTORICAL MUSEUM",
+  "name": [
+    {
+      "@value": "CITY OF WAYNE HISTORICAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "ONE TOWN SQ.",
@@ -22,9 +27,6 @@
     "longitude": -83.3863
   },
   "telephone": "+1 (734) 722-0113",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600169",

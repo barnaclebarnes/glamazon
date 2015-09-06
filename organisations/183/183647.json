@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183647
   },
-  "name": "Städtische Galerie Schwabach",
+  "name": [
+    {
+      "@value": "Städtische Galerie Schwabach",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Königsplatz 29",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kuenstlerbund-schwabach.de",
   "telephone": "09122/875857",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139256
   },
-  "name": "JOHN AND MARY PAPPAJOHN ART FOUNDATION",
+  "name": [
+    {
+      "@value": "JOHN AND MARY PAPPAJOHN ART FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "666 WALNUT STREET",
@@ -21,9 +26,6 @@
     "latitude": 41.5857,
     "longitude": -93.6253
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401900293",

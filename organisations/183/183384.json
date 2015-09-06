@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183384
   },
-  "name": "Museum im Koffer – Kindermuseum",
+  "name": [
+    {
+      "@value": "Museum im Koffer – Kindermuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Michael-Ende-Straße 17",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kindermuseum-nuernberg.de",
   "telephone": "0911/600040",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

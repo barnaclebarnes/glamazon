@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150008
   },
-  "name": "GEORGE EASTMAN HOUSE",
+  "name": [
+    {
+      "@value": "GEORGE EASTMAN HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "900 EAST AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.eastmanhouse.org",
   "telephone": "+1 (585) 271-3361",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601302",

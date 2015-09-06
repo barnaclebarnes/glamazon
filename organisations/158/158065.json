@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158065
   },
-  "name": "LYNDON B. JOHNSON STATE PARK AND HISTORIC SITE",
+  "name": [
+    {
+      "@value": "LYNDON B. JOHNSON STATE PARK AND HISTORIC SITE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "199 STATE PARK RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tpwd.state.tx.us/state-parks/lyndon-b-johnson",
   "telephone": "+1 (830) 644-2252",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800165",

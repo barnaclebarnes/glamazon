@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164045
   },
-  "name": "Maldon Vintage Machinery Museum",
+  "name": [
+    {
+      "@value": "Maldon Vintage Machinery Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "telephone": "0408 146 537",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Saturday's 12noon till 4pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Saturday's 12noon till 4pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "maldon-vintage-machinery-museum-inc",

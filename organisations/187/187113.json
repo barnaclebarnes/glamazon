@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187113
   },
-  "name": "Museo Scalvini",
+  "name": [
+    {
+      "@value": "Museo Scalvini",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Giovanni Maria Lampugnani, 34/36",
@@ -21,9 +26,6 @@
     "longitude": 9.21354
   },
   "telephone": "+39 0362 626991",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/LT7ot6kUyIUXTiQXrbzF0GvdTGY=/1000x1000/museums/logos/000/187/113/original/fc584236ed98f3c9b6f4119ee4bf4323b73c713.jpg"

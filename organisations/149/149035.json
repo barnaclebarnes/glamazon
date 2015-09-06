@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149035
   },
-  "name": "EMPIRE STATE PLAZA ART COLL",
+  "name": [
+    {
+      "@value": "EMPIRE STATE PLAZA ART COLL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2978 CORNING TOWER",
@@ -23,9 +28,6 @@
   },
   "url": "http://ogs.ny.gov/plaza/",
   "telephone": "+1 (518) 473-7521",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600329",

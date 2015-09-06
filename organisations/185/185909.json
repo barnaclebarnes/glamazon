@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185909
   },
-  "name": "Museo irpino",
+  "name": [
+    {
+      "@value": "Museo irpino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Europa, 251; sede distaccata: Piazza d' Armi snc, ",
@@ -21,9 +26,6 @@
     "longitude": 14.7927
   },
   "telephone": "+39 0975861511",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/lJJjtK4AYSntqGea724WEM5fKPg=/1000x1000/museums/logos/000/185/909/original/cfe6b2f923f4704e8260e17214aced5865df0.jpg"

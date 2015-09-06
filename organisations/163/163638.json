@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163638
   },
-  "name": "Austin Hospital Medical Museum",
+  "name": [
+    {
+      "@value": "Austin Hospital Medical Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 145.06
   },
   "telephone": "(03) 9496 5000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "austin-hospital-medical-museum",

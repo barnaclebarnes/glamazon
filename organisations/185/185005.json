@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185005
   },
-  "name": "UNISA Art Gallery",
+  "name": [
+    {
+      "@value": "UNISA Art Gallery",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kgorong Building, cnr Preller & Ridge Str, Muckleneuck Ridge, Pretoria",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "012 441 5683",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

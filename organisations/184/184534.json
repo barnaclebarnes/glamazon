@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184534
   },
-  "name": "Castle Military Museum",
+  "name": [
+    {
+      "@value": "Castle Military Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Castle of Good Hope, Darling Street, Cape Town",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "021 787 1153",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

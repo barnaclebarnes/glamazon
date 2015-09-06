@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183031
   },
-  "name": "Schlossmuseum",
+  "name": [
+    {
+      "@value": "Schlossmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Burgstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloss-kronburg.de",
   "telephone": "08394/271",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

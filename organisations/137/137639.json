@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137639
   },
-  "name": "SMITH MUSEUM OF STAINED GLASS WINDOWS",
+  "name": [
+    {
+      "@value": "SMITH MUSEUM OF STAINED GLASS WINDOWS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "20 N WACKER DRIVE",
@@ -21,9 +26,6 @@
     "latitude": 41.8824,
     "longitude": -87.637
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700784",

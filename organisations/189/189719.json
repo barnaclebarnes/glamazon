@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189719
   },
-  "name": "LINCOLN MEMORIAL",
+  "name": [
+    {
+      "@value": "LINCOLN MEMORIAL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "900 OHIO DRIVE",
@@ -22,9 +27,6 @@
     "longitude": -77.0331
   },
   "telephone": "+1 (202) 245-4672",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100239",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132636
   },
-  "name": "BEVERLY HILLS HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "BEVERLY HILLS HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "444 N REXFORD DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.beverlyhills.org",
   "telephone": "+1 (310) 246-1914",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602762",

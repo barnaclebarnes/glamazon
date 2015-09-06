@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131410
   },
-  "name": "FRANCO AMERICAN HOTEL INC",
+  "name": [
+    {
+      "@value": "FRANCO AMERICAN HOTEL INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "310 W MINER ST",
@@ -21,9 +26,6 @@
     "latitude": 41.732,
     "longitude": -122.637
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601536",

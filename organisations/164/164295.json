@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164295
   },
-  "name": "Shepparton RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Shepparton RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,10 +21,12 @@
     "latitude": -36.3748,
     "longitude": 145.4
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10:00am to 11:00pm- Mon. to Sat.\r\n11:00am to 10:00pm-Sun.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10:00am to 11:00pm- Mon. to Sat.\r\n11:00am to 10:00pm-Sun.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "shepparton-rsl",

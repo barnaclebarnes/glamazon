@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163745
   },
-  "name": "Burrinja Cultural Centre",
+  "name": [
+    {
+      "@value": "Burrinja Cultural Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.burrinja.org.au",
   "telephone": "397548723",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday - Sunday 10.30 am - 4 pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesday - Sunday 10.30 am - 4 pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "burrinja",

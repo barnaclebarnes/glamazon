@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140331
   },
-  "name": "BARLOW HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "BARLOW HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "509 BROADWAY ST",
@@ -22,9 +27,6 @@
     "longitude": -89.0454
   },
   "telephone": "+1 (270) 334-3010",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100088",

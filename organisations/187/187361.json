@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187361
   },
-  "name": "Museo del sidecar",
+  "name": [
+    {
+      "@value": "Museo del sidecar",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Valcarecce, 13",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.sidecar.it",
   "telephone": "+39 0733602651",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/PfNuz1jNPIEbZNsLyYf6rsvJKBE=/1000x1000/museums/logos/000/187/361/original/7d5a20464baa96be69482945d158886667799ad4.jpg"

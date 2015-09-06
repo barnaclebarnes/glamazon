@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149986
   },
-  "name": "PALEONTOLOGICAL RESEARCH INSTITUTION",
+  "name": [
+    {
+      "@value": "PALEONTOLOGICAL RESEARCH INSTITUTION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1259 TRUMANSBURG RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumoftheearth.org",
   "telephone": "+1 (607) 273-6623",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601280",

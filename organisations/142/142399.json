@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142399
   },
-  "name": "SMITH AND WESSON",
+  "name": [
+    {
+      "@value": "SMITH AND WESSON",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2100 ROOSEVELT AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.smith-wesson.com",
   "telephone": "+1 (413) 781-8300",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500029",

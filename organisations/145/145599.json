@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145599
   },
-  "name": "SAINTE GENEVIEVE",
+  "name": [
+    {
+      "@value": "SAINTE GENEVIEVE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": 38.9128,
     "longitude": -90.3756
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900028",

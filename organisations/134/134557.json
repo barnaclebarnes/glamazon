@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134557
   },
-  "name": "MUSEUM OF THE CITY OF LAKE WORTH",
+  "name": [
+    {
+      "@value": "MUSEUM OF THE CITY OF LAKE WORTH",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "414 LAKE AVENUE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lakeworth.org",
   "telephone": "+1 (561) 533-7354",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200111",

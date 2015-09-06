@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188098
   },
-  "name": "The Public Museum of Barletta",
+  "name": [
+    {
+      "@value": "The Public Museum of Barletta",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico Barletta",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Castello - Castello Svevo, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://polomuseale.segreteria@comune.barletta.ba.it",
   "telephone": "+39 (+39) 0883.578613",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/vm0G72oMpBLr5MtDtqLZXeDWJi4=/1000x1000/museums/logos/000/188/098/original/fbbb7d2333a77481f763fcc82d64c21b2c549bf.jpg"

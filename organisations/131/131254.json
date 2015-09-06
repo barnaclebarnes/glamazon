@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131254
+  },
+  "name": [
+    {
+      "@value": "INTERNATIONAL INSTITUTE OF PHOTOGRAPHIC ARTS INC",
+      "@langauge": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1690 FRONTAGE ROAD",
+    "addressLocality": "CHULA VISTA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "91911-3936"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=32.5954&mlon=-117.091#map=15/32.5954/-117.091",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.5954,
+    "longitude": -117.091
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601380",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

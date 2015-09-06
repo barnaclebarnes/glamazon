@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185548
   },
-  "name": "Museo della guerra per la pace",
+  "name": [
+    {
+      "@value": "Museo della guerra per la pace",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Roma, 7",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museodellaguerraperlapace.it",
   "telephone": "+39 0852058744",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su appuntamento",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100040",

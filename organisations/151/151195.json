@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151195
   },
-  "name": "KIDZU CHILDREN'S MUSEUM",
+  "name": [
+    {
+      "@value": "KIDZU CHILDREN'S MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "123 E FRANKLIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://kidzuchildrensmuseum.org",
   "telephone": "+1 (919) 933-1455",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700066",

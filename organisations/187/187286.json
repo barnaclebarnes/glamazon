@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187286
   },
-  "name": "Museo archeologico statale di Ascoli Piceno",
+  "name": [
+    {
+      "@value": "Museo archeologico statale di Ascoli Piceno",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Arringo, 28",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.archeomarche.beniculturali.it/",
   "telephone": "+39 0736253562",
-  "contactPoint": [
-
-  ],
-  "openingHours": "martedì-domenica 8.30-19.30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 2,00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/-EuzFe18rtFc9iHukFHC5LsrDMc=/1000x1000/museums/logos/000/187/286/original/5141a6edc969af5f89fe27a9f3f4d1f4a9f4.jpg"

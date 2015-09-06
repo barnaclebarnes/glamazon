@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161354
   },
-  "name": "MUSEUM OF VALOR",
+  "name": [
+    {
+      "@value": "MUSEUM OF VALOR",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1797",
@@ -21,9 +26,6 @@
     "latitude": 38.1749,
     "longitude": -77.6018
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100860",

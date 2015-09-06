@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190129
   },
-  "name": "BISMARCK AIR MUSEUM FOUNDATION",
+  "name": [
+    {
+      "@value": "BISMARCK AIR MUSEUM FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 7124",
@@ -23,9 +28,6 @@
   },
   "url": "http://bismarckairmuseum.org",
   "telephone": "+1 (701) 223-4754",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403800182",

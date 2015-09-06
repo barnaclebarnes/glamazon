@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185755
   },
-  "name": "Museo del Santuario di Sant'Umile da Bisignano",
+  "name": [
+    {
+      "@value": "Museo del Santuario di Sant'Umile da Bisignano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via del Santuario",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.santumile.com",
   "telephone": "+39 0984 951154",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/_T8B5WUXlo_Emgmw2Xb-iSx9DgM=/1000x1000/museums/logos/000/185/755/original/8d75996cb88a8374fa9f96795db94b3818faa0e2.jpg"

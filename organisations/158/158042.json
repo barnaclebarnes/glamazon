@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158042
   },
-  "name": "MUSEUM OF WEIRD",
+  "name": [
+    {
+      "@value": "MUSEUM OF WEIRD",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "412 E 6TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumoftheweird.com",
   "telephone": "+1 (512) 476-5493",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800142",

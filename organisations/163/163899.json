@@ -6,15 +6,22 @@
     "name": "id",
     "value": 163899
   },
-  "name": "Gippsland Armed Forces Museum",
+  "name": [
+    {
+      "@value": "Gippsland Armed Forces Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "telephone": "428463366",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sat - Sun - Mon  1000 - 1600",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Sat - Sun - Mon  1000 - 1600",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "gippsland-armed-forces-museum",

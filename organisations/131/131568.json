@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131568
   },
-  "name": "WORLD WILDLIFE MUSEUM",
+  "name": [
+    {
+      "@value": "WORLD WILDLIFE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1245 W WEBER AVE",
@@ -22,9 +27,6 @@
     "longitude": -121.308
   },
   "telephone": "+1 (209) 465-2834",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601694",

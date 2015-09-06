@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164502
   },
-  "name": "Zetland Lodge",
+  "name": [
+    {
+      "@value": "Zetland Lodge",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -37.2446,
     "longitude": 144.454
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "zetland-lodge",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132773
   },
-  "name": "CALIFORNIA LIVING MUSEUM (CALM)",
+  "name": [
+    {
+      "@value": "CALIFORNIA LIVING MUSEUM (CALM)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10500 ALFRED HARRELL HWY.",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.calmzoo.org",
   "telephone": "+1 (661) 872-2256",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602899",

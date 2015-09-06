@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186149
   },
-  "name": "National Gallery",
+  "name": [
+    {
+      "@value": "National Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca nazionale di Ferrara",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Ercole I d’Este 21 (Palazzo Diamanti), ",
@@ -22,13 +31,28 @@
   },
   "url": "http://www.pinacotecaferrara.it",
   "telephone": "+39 0532 205844\n        \n          (+39) 0532 205844",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday, Wednesday, Friday and Saturday 9.00-14.00, Thursday 9.00-19.00, Sunday and holidays from 14 October 2012 to 13 January 2012 9.00-14.00",
+      "@langauge": "en"
+    },
+    {
+      "@value": "martedì, mercoledì, venerdì, sabato, domenica e festivi infrasettimanali 9,00- 14,00; giovedì 9,00- 19,00",
+      "@langauge": "it"
+    }
   ],
-  "openingHours": "Tuesday, Wednesday, Friday and Saturday 9.00-14.00, Thursday 9.00-19.00, Sunday and holidays from 14 October 2012 to 13 January 2012 9.00-14.00",
   "offers": {
     "@Type": "Offer",
-    "description": "€ 4,00"
+    "description": [
+      {
+        "@value": "€ 4,00",
+        "@langauge": "en"
+      },
+      {
+        "@value": "€ 2,00",
+        "@langauge": "it"
+      }
+    ]
   },
   "photo": {
     "@type": "ImageObject",

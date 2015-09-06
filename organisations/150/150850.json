@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150850
   },
-  "name": "BUNDY MUSEUM OF HISTORY AND ART",
+  "name": [
+    {
+      "@value": "BUNDY MUSEUM OF HISTORY AND ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "127-129 MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://bundymuseum.org/site3",
   "telephone": "+1 (607) 772-9179",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602144",

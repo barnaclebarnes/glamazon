@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145338
   },
-  "name": "GREENVILLE ARTS COUNCIL",
+  "name": [
+    {
+      "@value": "GREENVILLE ARTS COUNCIL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "323 S MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.greenville-arts-council.com",
   "telephone": "+1 (323) 762-4678",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402800045",

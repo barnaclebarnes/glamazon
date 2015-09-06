@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184275
   },
-  "name": "Lakes District Museum & Gallery",
+  "name": [
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Lakes District Museum & Gallery",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:museum@queenstown.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.MuseumQueenstown.com",
   "telephone": "+64 3 442 1824",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 8:30am-5pm except Christmas Day",
+      "@langauge": "en"
+    },
+    {
+      "@value": "8:30-17 ogni giorno tranne il giorno di Natale",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 8:30 上午-5 下午除了圣诞节那天",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 8:30-17:00 excepto el día de Navidad",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diária 08:30-17:00 excepto dia de Natal",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "クリスマスの日を除いて毎日 8:30-17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 8:30 утра - 5 вечера за исключением Рождества",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 08:30-17:00 außer Weihnachten",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 08:30-17:00 sauf jour de Noël",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Harian 8:30 am - 5 pm kecuali hari Krismas",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 08:30-17:00 außer Weihnachten",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult $8\r\nChildren $2\r\nFamily $16"
+    "description": [
+      {
+        "@value": "Adult $8\r\nChildren $2\r\nFamily $16",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184275",
+    "url": "http://www.museums.io/en/museums/184275",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

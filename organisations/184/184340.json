@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184340
   },
-  "name": "The Timber Museum Of New Zealand Trust",
+  "name": [
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "en"
+    },
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "it"
+    },
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "es"
+    },
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "de"
+    },
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "The Timber Museum Of New Zealand Trust",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,61 @@
     "longitude": 175.779
   },
   "telephone": "64-7-883 7621",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 9am to 4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 9 a 16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 9 上午到 4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 9:00 a 16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diário 09:00 a 16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "16 に毎日 9",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "День 9 утра до 4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 09:00 bis 16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 09:00 à 16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari pukul 9 pagi hingga 4 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 09:00 bis 16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult:   $8.00\r\nChild:   $3.00\r\nFamily:  $18.00\r\nGroups:  $6.00"
+    "description": [
+      {
+        "@value": "Adult:   $8.00\r\nChild:   $3.00\r\nFamily:  $18.00\r\nGroups:  $6.00",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184340",
+    "url": "http://www.museums.io/en/museums/184340",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

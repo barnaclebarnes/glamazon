@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184550
   },
-  "name": "Durban Art Gallery",
+  "name": [
+    {
+      "@value": "Durban Art Gallery",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -29.8609,
     "longitude": 30.9952
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

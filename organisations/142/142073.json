@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142073
   },
-  "name": "CHICKEN MUSEUM INC",
+  "name": [
+    {
+      "@value": "CHICKEN MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "RTE 2",
@@ -21,9 +26,6 @@
     "latitude": 38.3273,
     "longitude": -75.1805
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400366",

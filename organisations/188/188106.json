@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188106
   },
-  "name": "Palazzo Sinesi",
+  "name": [
+    {
+      "@value": "Palazzo Sinesi",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Kennedy, 18",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.archeopuglia.beniculturali.it",
   "telephone": "+39 0883664716",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Tutti i giorni 9.00 - 13.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/rpDATYcM_gSIJJy5sK2CO-2gSI8=/1000x1000/museums/logos/000/188/106/original/b9b5b572231be5aa568ae5c10c9524d4ca5bfe0.png"

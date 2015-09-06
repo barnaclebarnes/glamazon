@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182949
   },
-  "name": "Heinrich-Stiefel-Schulmuseum",
+  "name": [
+    {
+      "@value": "Heinrich-Stiefel-Schulmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Brückenkopf 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.heinrich-stiefel-schulmuseum.de",
   "telephone": "0841/966910",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

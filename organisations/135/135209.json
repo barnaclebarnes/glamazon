@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135209
   },
-  "name": "HENRY B. PLANT MUSEUM",
+  "name": [
+    {
+      "@value": "HENRY B. PLANT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "401 W KENNEDY BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://plantmuseum.com",
   "telephone": "+1 (813) 254-1891",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200764",

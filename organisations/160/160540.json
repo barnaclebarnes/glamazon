@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160540
   },
-  "name": "ROYAL LONDON WAX MUSEUM",
+  "name": [
+    {
+      "@value": "ROYAL LONDON WAX MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1606 ATLANTIC AVE",
@@ -22,9 +27,6 @@
     "longitude": -75.974
   },
   "telephone": "+1 (757) 491-6876",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100046",

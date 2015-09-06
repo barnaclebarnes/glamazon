@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161977
   },
-  "name": "SEATTLE AQUARIUM",
+  "name": [
+    {
+      "@value": "SEATTLE AQUARIUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1438 ALASKAN WAY PIER 5",
@@ -22,9 +27,6 @@
     "longitude": -122.341
   },
   "telephone": "+1 (206) 386-4332",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300426",

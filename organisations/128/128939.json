@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128939
   },
-  "name": "RUSSIAN ORTHODOX MUSEUM",
+  "name": [
+    {
+      "@value": "RUSSIAN ORTHODOX MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "605 A ST",
@@ -22,9 +27,6 @@
     "longitude": -149.883
   },
   "telephone": "+1 (907) 276-7257",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400200010",

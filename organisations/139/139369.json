@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139369
   },
-  "name": "MADRID HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "MADRID HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 105",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.madridiamuseum.com/",
   "telephone": "+1 (515) 795-3249",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401900406",

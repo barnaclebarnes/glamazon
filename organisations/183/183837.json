@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183837
   },
-  "name": "Internationales Keramik-Museum",
+  "name": [
+    {
+      "@value": "Internationales Keramik-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Luitpoldstraße 25",
@@ -23,9 +28,6 @@
   },
   "url": "http://die-neue-sammlung.de/weiden/",
   "telephone": "0961/32030",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

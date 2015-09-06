@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156919
   },
-  "name": "PENN CENTER",
+  "name": [
+    {
+      "@value": "PENN CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 126",
@@ -22,9 +27,6 @@
     "longitude": -80.5708
   },
   "telephone": "+1 (843) 838-2432",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404500214",

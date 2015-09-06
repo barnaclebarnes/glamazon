@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184127
   },
-  "name": "New Zealand Beer Can Museum",
+  "name": [
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "New Zealand Beer Can Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:barrygalateasteiner@msn.com"
@@ -18,18 +59,97 @@
     "longitude": 176.759
   },
   "telephone": "07 3664039 or 07 3664821",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By arrangement",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Da concordare",
+      "@langauge": "it"
+    },
+    {
+      "@value": "通过安排",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Por el arreglo",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Por arranjo",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "配置によって",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "По договоренности",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Nach Absprache",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Par arrangement",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Dengan pengaturan",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Nach Absprache",
   "offers": {
     "@Type": "Offer",
-    "description": "$5 pro Person und ein kostenloses Getränk"
+    "description": [
+      {
+        "@value": "$5 per person and a free drink",
+        "@langauge": "en"
+      },
+      {
+        "@value": "$5 a persona e un drink gratuito",
+        "@langauge": "it"
+      },
+      {
+        "@value": "$ 5 每人免费饮料",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "$5 por persona y una copa gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "$5 por pessoa e uma bebida gratuita",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "人と無料の飲み物あたり 5 ドル",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "$5 за каждого человека и бесплатный напиток",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "$5 pro Person und ein kostenloses Getränk",
+        "@langauge": "de"
+      },
+      {
+        "@value": "5 $ par personne et une boisson gratuite",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "$5 untuk setiap orang dan minuman percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184127",
+    "url": "http://www.museums.io/en/museums/184127",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

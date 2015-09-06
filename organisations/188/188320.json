@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188320
   },
-  "name": "Compendio Garibaldino di Caprera",
+  "name": [
+    {
+      "@value": "Compendio Garibaldino di Caprera",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Compendio garibaldino di Caprera",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": ", ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.compendiogaribaldino.it",
   "telephone": "+39 0789 727162, 0789 726015",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/H0jCwCM10WxTuxmEzE0SQV1Vu28=/1000x1000/museums/logos/000/188/320/original/57df26854c2351f537bb9df80b411a7283cd996.jpg"

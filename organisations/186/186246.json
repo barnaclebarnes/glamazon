@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186246
   },
-  "name": "Museo della grotta",
+  "name": [
+    {
+      "@value": "Museo della grotta",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Cerchia, ",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.grottedipradis.it/",
   "telephone": "+39 0427 80323 cell. 366 1687906",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "3,50€ con visita guidata 5,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/0_pzJm9R_lvdiqPM18WgnmnFjds=/1000x1000/museums/logos/000/186/246/original/f12f31646fbbe2f51ab883dfb17a51349b41e0.JPG"

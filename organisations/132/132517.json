@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132517
   },
-  "name": "SANTA MONICA HISTORICAL SOCIETY INC",
+  "name": [
+    {
+      "@value": "SANTA MONICA HISTORICAL SOCIETY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 3059",
@@ -23,9 +28,6 @@
   },
   "url": "http://santamonicahistory.org/",
   "telephone": "+1 (310) 395-2290",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602643",

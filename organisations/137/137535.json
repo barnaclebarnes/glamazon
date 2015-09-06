@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137535
   },
-  "name": "CHICAGO CHAPTER NATIONAL RAILWAY",
+  "name": [
+    {
+      "@value": "CHICAGO CHAPTER NATIONAL RAILWAY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 53",
@@ -22,9 +27,6 @@
     "longitude": -87.7969
   },
   "telephone": "+1 (708) 579-1905",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700680",

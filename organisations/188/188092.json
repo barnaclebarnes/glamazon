@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188092
   },
-  "name": "The “Cantatore” Art Gallery",
+  "name": [
+    {
+      "@value": "The “Cantatore” Art Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca \"Cantatore\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Madonna delle Grazie, 63",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.ruvosistemamuseale.it/",
   "telephone": "+39 080 9507402",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/juyPSVPllplkcdZeyHpT0fiom9Y=/1000x1000/museums/logos/000/188/092/original/d67dd15ee9ec24a225419de5c32532ef31de0f0.jpg"

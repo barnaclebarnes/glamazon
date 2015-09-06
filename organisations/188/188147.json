@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188147
   },
-  "name": "The Civic Museum of Carlantino",
+  "name": [
+    {
+      "@value": "The Civic Museum of Carlantino",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo Civico di Carlantino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Europa 41 , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.reciproca.foggia.it",
   "telephone": "+39 0881552224",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/zfdcA3C8b5_vywypPHLpdRfCnuI=/1000x1000/museums/logos/000/188/147/original/9937aba730a4cf50bd0c0db4532898a91955856.jpg"

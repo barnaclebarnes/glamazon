@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187515
   },
-  "name": "Museo della zampogna",
+  "name": [
+    {
+      "@value": "Museo della zampogna",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Santa Maria, 1",
@@ -16,14 +21,6 @@
   },
   "url": "http://museodellazampogna.it",
   "telephone": "+39 0865954270",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutti i giorni dalle 10,30 alle 12,30 e dalle 16,30 alle 18,30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 1,00 da 18 a 65 anni"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/7YwbGp4jbf1yxuNLHfDcX59CWK8=/1000x1000/museums/logos/000/187/515/original/f695cccc8d87c56abc709364c693173c666e39.JPG"

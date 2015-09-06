@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183148
   },
-  "name": "Museum.Stadt.Miltenberg",
+  "name": [
+    {
+      "@value": "Museum.Stadt.Miltenberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 169",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-miltenberg.de/pages/museum.stadt.miltenberg-rundgang.php",
   "telephone": "09371/668504",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

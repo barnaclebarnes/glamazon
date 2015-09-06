@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164494
   },
-  "name": "Yarra Glen & District Historical Society",
+  "name": [
+    {
+      "@value": "Yarra Glen & District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 145.367
   },
   "telephone": "9730 1875",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Wednesdays 1:30 to 4:00pm\r\n",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Wednesdays 1:30 to 4:00pm\r\n",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "yarra-glen",

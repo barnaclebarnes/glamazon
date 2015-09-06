@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128532
   },
-  "name": "DAPHNE MUSEUM",
+  "name": [
+    {
+      "@value": "DAPHNE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "405 DRYER AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.daphnemuseumalabama.org/",
   "telephone": "+1 (251) 621-9620",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100062",

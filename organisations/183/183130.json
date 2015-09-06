@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183130
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Fronhof 7",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rhoenline.de/heimat_mellrichst.html",
   "telephone": "09776/1484",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

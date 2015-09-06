@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182629
   },
-  "name": "Handwerksmuseum",
+  "name": [
+    {
+      "@value": "Handwerksmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Maria-Ward-Platz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.handwerksmuseum-deggendorf.de/index.php?id=2145",
   "telephone": "0991/2960-555",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

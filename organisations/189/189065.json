@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189065
   },
-  "name": "Museo della Torre Bianca",
+  "name": [
+    {
+      "@value": "Museo della Torre Bianca",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza della Parrocchia",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.musei-altoadige.it",
   "telephone": "+39 +39 0472 836333",
-  "contactPoint": [
-
-  ],
-  "openingHours": "23/3-6/1: sab ore 10.30 giu-sett: anche gio ore 21 aperto tutto l'anno su prenotazione",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4.00 €"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/mMvddGbc3s7sl0o_uLnEwXXi_fo=/1000x1000/museums/logos/000/189/065/original/cea408226b36ff348a83396d6e2fef71b481.jpg"

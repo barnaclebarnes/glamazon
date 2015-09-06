@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188492
   },
-  "name": "Museo della Cattedrale di Ragusa",
+  "name": [
+    {
+      "@value": "Museo della Cattedrale di Ragusa",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Roma, 132",
@@ -16,10 +21,6 @@
   },
   "url": "http://www.cattedralesangiovanni.it",
   "telephone": "+39 0932621599",
-  "contactPoint": [
-
-  ],
-  "openingHours": "da lunedì a sabato 10.00/12.30 lunedì, mercoledì, venerdì 15.30/18.30",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/aRAyX5mWW3Nc4B4DWtoXK8JY5eQ=/1000x1000/museums/logos/000/188/492/original/a8b87e6c5abf872f55a3a99d16eb245bbcf738d.jpg"

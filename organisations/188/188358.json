@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188358
   },
-  "name": "Museo diocesano di Sassari",
+  "name": [
+    {
+      "@value": "Museo diocesano di Sassari",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Duomo, ",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.sardegnacultura.it",
   "telephone": "+39 0792 32067",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su prenotazione",
-  "offers": {
-    "@Type": "Offer",
-    "description": "2,00€; con visita guidata 3,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/0M2FW6Bigvf_Sk9kzpuXiGrJwkI=/1000x1000/museums/logos/000/188/358/original/e351f54fe48d24141a8a534f1ca79c5c189ee6.JPG"

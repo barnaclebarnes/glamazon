@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189038
   },
-  "name": "Pinacoteca nazionale di Siena",
+  "name": [
+    {
+      "@value": "Pinacoteca nazionale di Siena",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via San Pietro, 29",
@@ -22,14 +27,6 @@
   },
   "url": "http://pinacotecanazionale.siena.it/",
   "telephone": "+39 0577281161 0577286143",
-  "contactPoint": [
-
-  ],
-  "openingHours": "8.30 - 13.30 (lunedì); 9.00 - 19.00 (dal martedì al sabato); 8.00 - 13.00/14.00 - 20.00 (domenica);",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4.00 euro"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/uQy0dgvwwPngpZaQdqQ6f1x8OBQ=/1000x1000/museums/logos/000/189/038/original/2baac9cc91b9cca396405a2dac6477dd7e375f9.jpg"

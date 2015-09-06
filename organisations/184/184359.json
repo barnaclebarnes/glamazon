@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184359
   },
-  "name": "Anderson Park Art Gallery Inc.",
+  "name": [
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Anderson Park Art Gallery Inc.",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:andersonparkgallery@xtra.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.andersonparkgallery.co.nz",
   "telephone": "64-32157432",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Closed until further notice",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Chiuso fino a nuovo avviso",
+      "@langauge": "it"
+    },
+    {
+      "@value": "封闭，直至另行通知为止",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Cerrado hasta nuevo aviso",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Fechado até segunda ordem",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "追って通知があるまで閉鎖",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Закрыты до дальнейшего уведомления",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Bis auf weiteres geschlossen",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Fermé jusqu'à nouvel ordre",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Ditutup sehingga notis selanjutnya",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Bis auf weiteres geschlossen",
   "offers": {
     "@Type": "Offer",
-    "description": "n/a"
+    "description": [
+      {
+        "@value": "n/a",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184359",
+    "url": "http://www.museums.io/en/museums/184359",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

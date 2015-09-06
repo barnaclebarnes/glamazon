@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156515
   },
-  "name": "MUSEUM OF YACHTING",
+  "name": [
+    {
+      "@value": "MUSEUM OF YACHTING",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "449 THAMES STREET",
@@ -22,9 +27,6 @@
     "longitude": -71.3144
   },
   "telephone": "+1 (401) 847-1018",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404400019",

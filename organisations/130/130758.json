@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130758
   },
-  "name": "SAN FRANCISCO ARCHITECTURAL HERITAGE",
+  "name": [
+    {
+      "@value": "SAN FRANCISCO ARCHITECTURAL HERITAGE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2007 FRANKLIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sfheritage.org",
   "telephone": "+1 (415) 441-3000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600884",

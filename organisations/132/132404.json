@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132404
   },
-  "name": "MUSEUM OF RUSSIAN CULTURE INC",
+  "name": [
+    {
+      "@value": "MUSEUM OF RUSSIAN CULTURE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2450 SUTTER STREET",
@@ -22,9 +27,6 @@
     "longitude": -122.441
   },
   "url": "http://www.russiancentersf.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602530",

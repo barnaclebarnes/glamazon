@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184128
   },
-  "name": "Gore Historical Museum",
+  "name": [
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Gore Historical Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 168.945
   },
   "telephone": "64-3-208 7032",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon-Fri 9am-5pm \r\n Sat-Sun 1pm-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-ven 9-17 Sab-Dom 13-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一-星期五 9 上午-5 下午 Sat-太阳 1 下午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes de 9:00-17:00 sábados y domingos de 13:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sex 09:00-17:00 sab-dom 13:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月-金 9-17 土日 13-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Понедельник Пятница 9 утра - 5 вечера сб вс 1-4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Fr 09:00-17:00 Sa-So 13:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun-Ven 09:00-17:00 samedi-dimanche 13:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Jumaat 9 am - 5 pm Sabtu-Ahad 1 pm - 4 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Fr 09:00-17:00 Sa-So 13:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Spende"
+    "description": [
+      {
+        "@value": "Donation",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Donazione",
+        "@langauge": "it"
+      },
+      {
+        "@value": "捐赠",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Donación de",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Doação",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "寄付",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Пожертвование",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Spende",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Don",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Derma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184128",
+    "url": "http://www.museums.io/en/museums/184128",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

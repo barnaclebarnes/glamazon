@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184120
   },
-  "name": "Gus Fisher Gallery",
+  "name": [
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Gus Fisher Gallery",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:gusfishergallery@auckland.ac.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.gusfishergallery.auckland.ac.nz/",
   "telephone": "64 9 373 7599 ext 86646",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday-Friday\r\n10am-5pm\r\nSaturday 12-4pm\r\nClosed Public Holidays",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Martedì-venerdì 10-17 sabato 12-16 chiuso nei giorni festivi",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期二至星期五 10 上午-5 下午 12-4 下午关闭公众假期的星期六",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Martes a viernes 10:00-17:00 sábado 12-16:00 cerrado los días festivos",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Terça-feira-sexta-feira 10:00-17:00 sábado, 12-16:00 fechado feriados",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "火曜日-金曜日 10-17 (土) 12-16 休業祝日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Вторник Пятница 10 утра - 5 вечера субботы, 12-4 вечера закрыты государственные праздники",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Dienstag-Freitag 10:00-17:00 Samstag 12-16:00 Feiertage geschlossen",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mardi-vendredi 10:00-17:00 samedi 12-16:00 fermé les jours fériés",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Selasa-Jumaat 10 am - 5 pm Sabtu 12-4 petang tutup cuti umum",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Dienstag-Freitag 10:00-17:00 Samstag 12-16:00 Feiertage geschlossen",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184120",
+    "url": "http://www.museums.io/en/museums/184120",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

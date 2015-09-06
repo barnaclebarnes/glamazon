@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137010
   },
-  "name": "GREGG HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "GREGG HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "115 N LINDEN AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wpd4fun.org/facilities/gregg-house-museum.htm",
   "telephone": "+1 (630) 960-3392",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700155",

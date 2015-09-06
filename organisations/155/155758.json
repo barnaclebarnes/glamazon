@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155758
   },
-  "name": "CARPENTERS COMPANY OF THE CITY AND COUNTY OF PHILADELPHIA",
+  "name": [
+    {
+      "@value": "CARPENTERS COMPANY OF THE CITY AND COUNTY OF PHILADELPHIA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "320 CHESTNUT ST",
@@ -22,9 +27,6 @@
     "longitude": -75.1464
   },
   "url": "http://www.ushistory.org/carpentershall",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200952",

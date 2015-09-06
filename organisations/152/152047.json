@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152047
   },
-  "name": "ROGER MARIS MUSEUM",
+  "name": [
+    {
+      "@value": "ROGER MARIS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3902 13TH AVE S",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rogermarismuseum.com",
   "telephone": "+1 (701) 282-2222",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403800003",

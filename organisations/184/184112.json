@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184112
   },
-  "name": "Firth Tower Museum",
+  "name": [
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Firth Tower Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:firthtower@mpdc.govt.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.firthtower.co.nz",
   "telephone": "64-7-888 8369",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Thurs, Fri, Sat, Sun, Mon 10am - 4pm\r\nTues & Wed closed (Museum will open on Tues or Wed for pre-booked tours and groups)",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Gio, ven, Sab, Dom, lun 10-16 mar & mer chiuso (Museo aprirà il Mar o Mer per le visite pre-organizzati e gruppi)",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期四、 星期五、 星期六、 星期天、 星期一 10 上午-4 下午周二及周三关闭 (博物馆将开放在周二或周三提前预订的旅游和组)",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El Jue, el Vie, el Sáb, el Dom, el lunes 10:00-16:00 el martes y el miércoles cerrado (Museo abrirá del martes o el miércoles para reservarlas tours y grupos)",
+      "@langauge": "es"
+    },
+    {
+      "@value": ", Sex, Sáb, Dom, seg 10:00-16:00 qua & qua fechado (Museu abrirá em qua ou qua para passeios pré-agendados e grupos)",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "木、金、土、日、月曜日 10-16 (火) ・ (水) 閉鎖 (事前予約のツアーやグループの火または水の博物館開きます)",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Чт, пт, сб, вс, Пн 10 утра - 4 вечера Вт &ср закрыт (музей будет открыт на вторник или среда для предварительно забронировать туры и групп)",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Do, Fr, Sa, so, Mo 10:00-16:00 Di & Mi geschlossen (Museum öffnet am Di oder Mi für gebuchte Touren und Gruppen)",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Jeu, Ven, Sam, Dim, Lun 10:00-16:00 AUT & Wed fermé (Musée ouvrira le mardi ou mercredi pour groupes et excursions réservées à l'avance)",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Khamis, Jumaat, Sabtu, Ahad, Isnin 10 am - 4 pm sel & Tue ditutup (Muzium akan dibuka pada sel atau Tue untuk pra-Tempahan Lawatan dan Kumpulan)",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Do, Fr, Sa, so, Mo 10:00-16:00 Di & Mi geschlossen (Museum öffnet am Di oder Mi für gebuchte Touren und Gruppen)",
   "offers": {
     "@Type": "Offer",
-    "description": "Am Mo, Do, Fr, Sa, so. vorgebuchte Touren Di & Mi $3pp freie"
+    "description": [
+      {
+        "@value": "FREE on Mon, Thurs, Fri, Sat, Sun.\r\nPre-booked tours Tues & Wed $3pp",
+        "@langauge": "en"
+      },
+      {
+        "@value": "SERVIZIO on Lun, Gio, ven, Sab, Dom pre-prenotato turistica Mar Mer & $3pp",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费上周一、 周四、 周五、 周六，太阳提前预订的游览周二及周三美元 3pp",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "El lunes, el jueves, el viernes, el sábado, Domingo reservar visitas gratuitas martes y miércoles $3pp",
+        "@langauge": "es"
+      },
+      {
+        "@value": "GRÁTIS em seg,, Sex, Sáb, passeios pré-agendados de sol ter & qua $3pp",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料月, 木, 金, 土, 日事前予約ツアー (火) ・ (水) $3pp",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "БЕСПЛАТНО на пн, чт, пт, сб, вс предварительно забронировать туры Вт &ср $3pp",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Am Mo, Do, Fr, Sa, so. vorgebuchte Touren Di & Mi $3pp freie",
+        "@langauge": "de"
+      },
+      {
+        "@value": "On Lun, jeu, Ven, Sam, Dim pré-réservé visites gratuites Mar & Mer $3pp",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Kosongkan di Isnin, Khamis, Jumaat, Sabtu, lawatan pratempah Sun. sel & Tue $3pp",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184112",
+    "url": "http://www.museums.io/en/museums/184112",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

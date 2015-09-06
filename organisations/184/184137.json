@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184137
   },
-  "name": "Centre of Contemporary Art (CoCA)",
+  "name": [
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Centre of Contemporary Art (CoCA)",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,18 +59,97 @@
   },
   "url": "http://www.canterbury.cyberplace.org.nz",
   "telephone": "64-3-366 7261",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tue-Fri 11am-5pm \r\n Sat-Sun 12pm-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Mar-ven 11-17 Sab-Dom 12-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周二至周五 11 上午-5 下午 Sat-太阳 12 下午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Martes a viernes 11:00-17:00 sábados y domingos de 12:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Ter-Sex 11:00-17:00 sab-dom 12:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "火 〜 金 11 17 土日 12-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Вт пт 11 утра - 5 вечера сб вс 12-4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Di-Fr 11:00-17:00 Sa-So 12:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mar-ven 11:00-17:00 samedi-dimanche 12:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Selasa-Jumaat 11 am - 5 pm Sabtu-Ahad 12 pm - 4 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Di-Fr 11:00-17:00 Sa-So 12:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184137",
+    "url": "http://www.museums.io/en/museums/184137",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164327
   },
-  "name": "Stratford and District Historical Society",
+  "name": [
+    {
+      "@value": "Stratford and District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://stratfordhs.blogspot.com.au/",
   "telephone": "0418 573 828",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10am to 3pm Tuesdays, 2pm to 4pm 4th Sunday of the month (excepting June to August)",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10am to 3pm Tuesdays, 2pm to 4pm 4th Sunday of the month (excepting June to August)",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "stratford-historical-museum",

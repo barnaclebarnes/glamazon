@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183509
   },
-  "name": "Stadtmuseum",
+  "name": [
+    {
+      "@value": "Stadtmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Marktplatz 25",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stadtmuseum-pleystein.de",
   "telephone": "09654/9222-33",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

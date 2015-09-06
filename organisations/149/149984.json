@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149984
   },
-  "name": "FARMERS MUSEUM INC",
+  "name": [
+    {
+      "@value": "FARMERS MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 ROCKEFELLER PLZ FL 31",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.farmersmuseum.org",
   "telephone": "+1 (607) 547-1521",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601278",

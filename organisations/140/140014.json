@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140014
   },
-  "name": "NESS COUNTY BANK BUILDING",
+  "name": [
+    {
+      "@value": "NESS COUNTY BANK BUILDING",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 6",
@@ -22,9 +27,6 @@
     "longitude": -99.9081
   },
   "telephone": "+1 (785) 798-3337",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000340",

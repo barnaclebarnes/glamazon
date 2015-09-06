@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133824
   },
-  "name": "HARTFORD PUBLIC LIBRARY",
+  "name": [
+    {
+      "@value": "HARTFORD PUBLIC LIBRARY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": -72.6744
   },
   "url": "http://www.hplct.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900299",

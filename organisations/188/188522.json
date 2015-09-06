@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188522
   },
-  "name": "Museo del Santuario di San Vito Lo Capo",
+  "name": [
+    {
+      "@value": "Museo del Santuario di San Vito Lo Capo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Santuario, ",
@@ -22,10 +27,6 @@
   },
   "url": "http://santuariodisanvitolocapo.it",
   "telephone": "+39 0923972327",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutti i giorni 18,00-20,00 / 21,30-23,30",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/wfDTPZZ5wmqyiuZTa-6J3GUKU4Y=/1000x1000/museums/logos/000/188/522/original/bed2a929e186df32c66a83f14bac1eff78d47.jpg"

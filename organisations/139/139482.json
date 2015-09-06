@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139482
   },
-  "name": "HUBBELL CENTER",
+  "name": [
+    {
+      "@value": "HUBBELL CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "500 SW 7TH SUITE 307",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hubbell.org",
   "telephone": "+1 (515) 243-3586",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401900519",

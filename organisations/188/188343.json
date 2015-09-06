@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188343
   },
-  "name": "Museo dell'ossidiana",
+  "name": [
+    {
+      "@value": "Museo dell'ossidiana",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via San Giorgio, 80",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museossidiana.it ",
   "telephone": "+39 0783 939002",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal mercoledì alla domenica: 10.00 - 12.00 / 16.00 - 19.00.",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/uLOHtRrU2w6afiWMCmt00jm5iLg=/1000x1000/museums/logos/000/188/343/original/11db656579ce8896abba791f3b76740ea66d2af.JPG"

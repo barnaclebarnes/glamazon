@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154246
   },
-  "name": "OREGON ZOO",
+  "name": [
+    {
+      "@value": "OREGON ZOO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4001 SW CANYON ROAD",
@@ -22,9 +27,6 @@
     "longitude": -122.717
   },
   "telephone": "+1 (503) 220-2450",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100039",

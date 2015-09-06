@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151101
   },
-  "name": "MUSEUM OF AMERICAN ARMOR INC",
+  "name": [
+    {
+      "@value": "MUSEUM OF AMERICAN ARMOR INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "31 WESTMINSTER RD",
@@ -21,9 +26,6 @@
     "latitude": 40.7912,
     "longitude": -73.4965
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602395",

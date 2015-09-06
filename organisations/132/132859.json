@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132859
   },
-  "name": "PETERSON AIR AND SPACE MUSEUM",
+  "name": [
+    {
+      "@value": "PETERSON AIR AND SPACE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "150 E ENT AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.petemuseum.org",
   "telephone": "+1 (719) 556-4915",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800035",

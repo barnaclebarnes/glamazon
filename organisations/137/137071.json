@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137071
   },
-  "name": "ELLWOOD HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "ELLWOOD HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "509 NORTH FIRST STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ellwoodhouse.org",
   "telephone": "+1 (815) 756-4609",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700216",

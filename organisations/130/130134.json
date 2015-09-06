@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130134
   },
-  "name": "MAGNES MUSEUM",
+  "name": [
+    {
+      "@value": "MAGNES MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "282 2ND ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.thecjm.org",
   "telephone": "+1 (415) 357-9840",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600260",

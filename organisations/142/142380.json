@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142380
   },
-  "name": "WARREN ANATOMICAL MUSEUM",
+  "name": [
+    {
+      "@value": "WARREN ANATOMICAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10 SHATTUCK STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.countway.harvard.edu/warren/index/shtml",
   "telephone": "+1 (617) 432-6196",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500010",

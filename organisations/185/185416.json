@@ -6,14 +6,16 @@
     "name": "id",
     "value": 185416
   },
-  "name": "Jyväskylä Art Museum",
+  "name": [
+    {
+      "@value": "Jyväskylä Art Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.jyvaskyla.fi/taidemuseo",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

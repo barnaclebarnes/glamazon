@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132464
   },
-  "name": "MUSEUM OF CONTEMPORARY ART SAN DIEGO",
+  "name": [
+    {
+      "@value": "MUSEUM OF CONTEMPORARY ART SAN DIEGO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "700 PROSPECT ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mcasd.org",
   "telephone": "+1 (858) 454-3541",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602590",

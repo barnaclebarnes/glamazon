@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134683
   },
-  "name": "ART MUSEUM AT FIU",
+  "name": [
+    {
+      "@value": "ART MUSEUM AT FIU",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "112 UNIVERSITY PARK",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.frostartmuseum.org",
   "telephone": "+1 (305) 348-2890",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200237",

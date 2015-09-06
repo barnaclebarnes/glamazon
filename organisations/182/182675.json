@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182675
   },
-  "name": "Schloss Egg",
+  "name": [
+    {
+      "@value": "Schloss Egg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bernried",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloss-egg.de/",
   "telephone": "09905/8001",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

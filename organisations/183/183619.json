@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183619
   },
-  "name": "Missionsmuseum der Erzabtei St. Ottilien",
+  "name": [
+    {
+      "@value": "Missionsmuseum der Erzabtei St. Ottilien",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Erzabtei 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.missionsmuseum.de",
   "telephone": "08193/710",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

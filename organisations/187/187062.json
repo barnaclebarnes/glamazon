@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187062
   },
-  "name": "MIC - Museo Interattivo del Cinema",
+  "name": [
+    {
+      "@value": "MIC - Museo Interattivo del Cinema",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale Fulvio Testi, ?",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.cinetecamilano.it",
   "telephone": "+39 026554977",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal lunedì al venerdì dalle 15 alle 18 domenica dalle 15 alle 19 nella giornata di sabato il MIC aprirà solo in occasione di eventi e proiezioni speciali",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 5,00"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "103705",

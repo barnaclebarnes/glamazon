@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184807
   },
-  "name": "Gold Reef City",
+  "name": [
+    {
+      "@value": "Gold Reef City",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "On N1, signposted 8km south of Johannesburg",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "011 248 6896",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

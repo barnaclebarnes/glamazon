@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184649
   },
-  "name": "Red Location Museum",
+  "name": [
+    {
+      "@value": "Red Location Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Cnr Olaf Palmer & Singaphi Street, New Brighton, Port Elizabeth",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "041 408 8400",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183011
   },
-  "name": "Oberfränkisches Bauernhofmuseum",
+  "name": [
+    {
+      "@value": "Oberfränkisches Bauernhofmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kleinlosnitz 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kleinlosnitz.de",
   "telephone": "09251/3525",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

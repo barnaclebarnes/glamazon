@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183830
   },
-  "name": "Wasserburger Bierkatakomben",
+  "name": [
+    {
+      "@value": "Wasserburger Bierkatakomben",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kellerstraße",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wasserburg.de/de/bierkatakomben/",
   "telephone": "08071/3803",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

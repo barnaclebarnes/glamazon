@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183215
   },
-  "name": "BMW Museum",
+  "name": [
+    {
+      "@value": "BMW Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Olympiapark 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bmw-museum.de",
   "telephone": "01802/118822",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

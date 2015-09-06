@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184446
   },
-  "name": "Jack Morgan Museum",
+  "name": [
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Jack Morgan Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:enquiries@jackmorganmuseum.co.nz"
@@ -19,17 +60,19 @@
   },
   "url": "http://www.jackmorganmuseum.co.nz",
   "telephone": "09 4339 521",
-  "contactPoint": [
-
-  ],
   "offers": {
     "@Type": "Offer",
-    "description": "$6-00 Adults $2-00 Children $14-00 Family 2A + 3C\r\n$5-00 Groups of 10 +"
+    "description": [
+      {
+        "@value": "$6-00 Adults $2-00 Children $14-00 Family 2A + 3C\r\n$5-00 Groups of 10 +",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184446",
+    "url": "http://www.museums.io/en/museums/184446",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

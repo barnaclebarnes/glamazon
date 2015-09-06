@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164088
   },
-  "name": "Mitchell Shire Council",
+  "name": [
+    {
+      "@value": "Mitchell Shire Council",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.mitchellshire.vic.gov.au",
   "telephone": "(03) 5734 6200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "mitchell-shire-council",

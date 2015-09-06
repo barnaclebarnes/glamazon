@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183156
   },
-  "name": "Geigenbaumuseum",
+  "name": [
+    {
+      "@value": "Geigenbaumuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ballenhausgasse 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.geigenbaumuseum-mittenwald.de",
   "telephone": "08823/2511",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

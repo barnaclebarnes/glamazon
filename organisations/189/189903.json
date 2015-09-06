@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189903
   },
-  "name": "GLEN ECHO PARK",
+  "name": [
+    {
+      "@value": "GLEN ECHO PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7300 MACARTHUR BOULEVARD",
@@ -22,9 +27,6 @@
     "longitude": -77.14
   },
   "telephone": "+1 (301) 320-1410",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400685",

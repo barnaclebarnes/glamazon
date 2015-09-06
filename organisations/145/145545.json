@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145545
   },
-  "name": "UNIVERSITY OF MISSISSIPPI",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF MISSISSIPPI",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 BARR HALL",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.olemiss.edu",
   "telephone": "+1 (662) 915-7073",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402800252",

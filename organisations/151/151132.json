@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151132
   },
-  "name": "WEYMOUTH WOODS NATURE PRESERVE",
+  "name": [
+    {
+      "@value": "WEYMOUTH WOODS NATURE PRESERVE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1024 FORT BRAGG RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://ils.unc.edu/parkproject/wewo.html",
   "telephone": "+1 (910) 692-2167",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700003",

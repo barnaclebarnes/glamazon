@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149683
   },
-  "name": "MUSEUM OF CERAMIC ART-NEW YORK",
+  "name": [
+    {
+      "@value": "MUSEUM OF CERAMIC ART-NEW YORK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "441 EAST 20TH STREET APT 13-B",
@@ -22,9 +27,6 @@
     "longitude": -73.9775
   },
   "url": "http://moca-ny.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600977",

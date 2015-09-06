@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183808
   },
-  "name": "Glockenschmiede",
+  "name": [
+    {
+      "@value": "Glockenschmiede",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Haßlberg 6",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-glockenschmiede.de/",
   "telephone": "08663/2309",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

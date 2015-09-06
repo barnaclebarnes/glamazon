@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128564
   },
-  "name": "BIRMINGHAM HISTORY CENTER",
+  "name": [
+    {
+      "@value": "BIRMINGHAM HISTORY CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1731 1ST AVE N STE 120",
@@ -21,9 +26,6 @@
     "latitude": 33.5182,
     "longitude": -86.8081
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100094",

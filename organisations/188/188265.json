@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188265
   },
-  "name": "Museo del carbone",
+  "name": [
+    {
+      "@value": "Museo del carbone",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Miniera di Serbariu, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.museodelcarbone.it",
   "telephone": "+39 0781670591",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "103339",

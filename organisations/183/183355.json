@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183355
   },
-  "name": "Heimatmuseum Niederaichbach",
+  "name": [
+    {
+      "@value": "Heimatmuseum Niederaichbach",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Isarstraße 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.niederaichbach.de/",
   "telephone": "08702/9404-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

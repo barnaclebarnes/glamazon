@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158105
   },
-  "name": "JOHN NANCE GARNER MUSEUM",
+  "name": [
+    {
+      "@value": "JOHN NANCE GARNER MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "333 N PARK ST",
@@ -22,9 +27,6 @@
     "longitude": -99.792
   },
   "telephone": "+1 (830) 278-5018",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800205",

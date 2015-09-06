@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182691
   },
-  "name": "Heimatmuseum Eitensheim",
+  "name": [
+    {
+      "@value": "Heimatmuseum Eitensheim",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Bachl 7",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.altmuehlnet.de/gemeinden/eitensheim/vereipart/heimat/museum.html",
   "telephone": "08458/9598",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

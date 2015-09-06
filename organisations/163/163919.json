@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163919
   },
-  "name": "Green Gables",
+  "name": [
+    {
+      "@value": "Green Gables",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 143.343
   },
   "telephone": "(03) 5596 2053",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "green-gables",

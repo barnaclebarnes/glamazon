@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163864
   },
-  "name": "Essendon Football Club",
+  "name": [
+    {
+      "@value": "Essendon Football Club",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.essendonfc.com.au",
   "telephone": "9230 0351",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "essendon-fc-hall-of-fame",

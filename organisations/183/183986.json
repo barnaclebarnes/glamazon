@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183986
   },
-  "name": "Historisches Museum",
+  "name": [
+    {
+      "@value": "Historisches Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchplatz 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bayreuth.de/museumsuebersicht/historisches_museum_308.html",
   "telephone": "0921/76401-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

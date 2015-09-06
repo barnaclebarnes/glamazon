@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135101
   },
-  "name": "PENSACOLA MUSEUM OF ART",
+  "name": [
+    {
+      "@value": "PENSACOLA MUSEUM OF ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "407 S JEFFERSON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.pensacolamuseumofart.org",
   "telephone": "+1 (850) 432-6247",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200656",

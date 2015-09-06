@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164267
   },
-  "name": "Running Rabbits Military Museum operated by the Upwey Belgrave RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Running Rabbits Military Museum operated by the Upwey Belgrave RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.upweybelgraversl.org.au/",
   "telephone": "03 9754 3665",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10-2 Thursdays and Sundays",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10-2 Thursdays and Sundays",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "upwey-belgrave-rsl",

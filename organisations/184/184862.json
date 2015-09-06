@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184862
   },
-  "name": "Lady Grey Museum",
+  "name": [
+    {
+      "@value": "Lady Grey Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Stapelberg Street, Lady Grey",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "051 603 0130",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

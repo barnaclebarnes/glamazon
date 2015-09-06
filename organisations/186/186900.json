@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186900
   },
-  "name": "Museo civico di Gottolengo",
+  "name": [
+    {
+      "@value": "Museo civico di Gottolengo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Castelfidardo, ?",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.gottolengo.com",
   "telephone": "+39 030 9518780",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "106898",

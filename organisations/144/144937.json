@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144937
   },
-  "name": "MINNESOTA CHILDRENS MUSEUM",
+  "name": [
+    {
+      "@value": "MINNESOTA CHILDRENS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10 7TH ST W",
@@ -22,9 +27,6 @@
     "longitude": -93.0974
   },
   "url": "http://www.mcm.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700377",

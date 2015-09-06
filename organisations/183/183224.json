@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183224
   },
-  "name": "Deutsches Jagd- und Fischereimuseum",
+  "name": [
+    {
+      "@value": "Deutsches Jagd- und Fischereimuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Neuhauser Straße 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.jagd-fischerei-museum.de",
   "telephone": "089/220522",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

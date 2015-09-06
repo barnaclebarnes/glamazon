@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144579
   },
-  "name": "SPAM MUSEUM",
+  "name": [
+    {
+      "@value": "SPAM MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1101 N MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.spam.com",
   "telephone": "+1 (507) 437-5100",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700019",

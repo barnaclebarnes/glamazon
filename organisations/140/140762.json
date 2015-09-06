@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140762
   },
-  "name": "MADISONVILLE MUSEUM",
+  "name": [
+    {
+      "@value": "MADISONVILLE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "201 CEDAR ST",
@@ -22,9 +27,6 @@
     "longitude": -90.1585
   },
   "telephone": "+1 (985) 845-2100",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200044",

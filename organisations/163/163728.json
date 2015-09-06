@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163728
   },
-  "name": "Bright Art Gallery & Cultural Centre",
+  "name": [
+    {
+      "@value": "Bright Art Gallery & Cultural Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.brightartgallery.org.au",
   "telephone": "03 5750 1660",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10.30 am - 4.30pm during exhibitions and workshops, other times by arrangement.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10.30 am - 4.30pm during exhibitions and workshops, other times by arrangement.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "bright-art-gallery-cultural-centre-inc",

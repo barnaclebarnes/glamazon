@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185719
   },
-  "name": "Museo provinciale",
+  "name": [
+    {
+      "@value": "Museo provinciale",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Villa Margherita, via Guglielmo Marconi , 11",
@@ -21,9 +26,6 @@
     "longitude": 16.5955
   },
   "telephone": "+39 0961 720019",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/N5XMONKyXrVQkG09d7AZ5EDwYKc=/1000x1000/museums/logos/000/185/719/original/f04cbbd688d170d13a2a6f88f79aff116d4584b.jpg"

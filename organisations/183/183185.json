@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183185
   },
-  "name": "Molwitz-Stube",
+  "name": [
+    {
+      "@value": "Molwitz-Stube",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchplatz 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.akh.mitterteich.de/vips/hmolwitz.html",
   "telephone": "09633/89-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

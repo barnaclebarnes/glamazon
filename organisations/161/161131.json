@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161131
   },
-  "name": "SALEM HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "SALEM HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "801 E MAIN ST",
@@ -22,9 +27,6 @@
     "longitude": -80.0475
   },
   "url": "http://www.salemmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100637",

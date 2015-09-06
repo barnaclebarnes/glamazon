@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184097
   },
-  "name": "Canterbury Museum",
+  "name": [
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Canterbury Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@canterburymuseum.com"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.canterburymuseum.com",
   "telephone": "64 3 366 5000",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Summer Daily 9 am - 5.30 pm (October - March)\r\nWinter Daily 9 am - 5 pm  (April - September)\r\nClosed Christmas Day",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 9-17:30 di estate inverno (ottobre - marzo) ogni giorno 9-17 (aprile - settembre) chiuso il giorno di Natale",
+      "@langauge": "it"
+    },
+    {
+      "@value": "夏季每天 9 上午-5:30 下午 (10 月-3 月) 冬季日常 9 上午-5 下午 (4 月-9 月) 关闭圣诞节这一天",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 9:00-17:30 el verano invierno (octubre - marzo) diario 9:00-17:00 (abril - septiembre) cerrado el día de Navidad",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diário 09:00-17:30 de Verão Inverno (outubro - março) diário 09:00-17:00 (abril - setembro) fechou o dia de Natal",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "夏の毎日 9-17:30 (10 月 - 3 月) 冬毎日 9-17 (4 月 - 9 月) 閉鎖クリスマスの日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Летом ежедневно 9 am - 5: 30 вечера зимний (октябрь - март), ежедневно 9 утра - 5 вечера (апрель - сентябрь) закрыт Рождество",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 09:00-17:30 im Sommer (Oktober - März) Winter täglich 09:00-17:00 (April - September) geschlossen Weihnachten",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 09:00-17:30 l'été hiver (octobre - mars), tous les jours 09:00-17:00 (avril - septembre) fermé le jour de Noël",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Musim panas setiap hari 9 am - 5.30 pm (November - Mac) musim sejuk setiap hari 9 am - 5 pm (April - September) ditutup hari Krismas",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 09:00-17:30 im Sommer (Oktober - März) Winter täglich 09:00-17:00 (April - September) geschlossen Weihnachten",
   "offers": {
     "@Type": "Offer",
-    "description": "Der Eintritt ist frei - eine Spende ist willkommen"
+    "description": [
+      {
+        "@value": "Entry is free - a donation is appreciated",
+        "@langauge": "en"
+      },
+      {
+        "@value": "L'ingresso è gratuito - una donazione è apprezzata",
+        "@langauge": "it"
+      },
+      {
+        "@value": "条目是自由 — — 捐赠心怀感激",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "La entrada es gratuita - se agradece una donación",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Entrada é gratuita - uma doação é apreciada",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "エントリは無料です。-寄付は大歓迎です。",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Вход свободен - пожертвование оценили",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Der Eintritt ist frei - eine Spende ist willkommen",
+        "@langauge": "de"
+      },
+      {
+        "@value": "L'entrée est gratuite - un don est apprécié",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Penyertaan adalah percuma - sumbangan dihargai",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184097",
+    "url": "http://www.museums.io/en/museums/184097",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

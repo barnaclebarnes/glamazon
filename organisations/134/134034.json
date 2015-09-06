@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134034
   },
-  "name": "US MAYFLOWER CHARITY INC",
+  "name": [
+    {
+      "@value": "US MAYFLOWER CHARITY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "20 RIVER RD",
@@ -21,9 +26,6 @@
     "latitude": 41.3641,
     "longitude": -72.4007
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900509",

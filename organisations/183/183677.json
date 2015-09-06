@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183677
   },
-  "name": "Waldmuseum",
+  "name": [
+    {
+      "@value": "Waldmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Steinbruchweg 9",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.steinbruchsee.de/wald.htm",
   "telephone": "09973/4476",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

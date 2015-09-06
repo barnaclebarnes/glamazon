@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188340
   },
-  "name": "Museo del gioiello e costume sardo",
+  "name": [
+    {
+      "@value": "Museo del gioiello e costume sardo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Marconi, 4",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.comunedimilis.it",
   "telephone": "+39 0783 51665",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su prenotazione",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/I2WsAlh14987M0LGj2b-8uZlUqY=/1000x1000/museums/logos/000/188/340/original/af6f2a75c9431429422e6da067d188df2aa18.JPG"

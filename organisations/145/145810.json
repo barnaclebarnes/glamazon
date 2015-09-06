@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145810
   },
-  "name": "CHARLOTTE STREET FOUNDATION",
+  "name": [
+    {
+      "@value": "CHARLOTTE STREET FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 10263",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.charlottestreet.org/",
   "telephone": "+1 (816) 221-5115",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900239",

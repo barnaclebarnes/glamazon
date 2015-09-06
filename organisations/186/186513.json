@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186513
   },
-  "name": "Casa di Goethe",
+  "name": [
+    {
+      "@value": "Casa di Goethe",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via del Corso, 18",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.casadigoethe.it",
   "telephone": "+39 06 32650412",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Tutti i giorni 1,.00/18,00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "5,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/6RBkj7MqiEhvemysUXdE2BocktI=/1000x1000/museums/logos/000/186/513/original/aa919808a89456299522b98a662888568cd5ba.JPG"

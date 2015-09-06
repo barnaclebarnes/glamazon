@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135283
   },
-  "name": "MUSEUM OF SCIENCE AND INDUSTRY INC",
+  "name": [
+    {
+      "@value": "MUSEUM OF SCIENCE AND INDUSTRY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4801 E FOWLER AVENUE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mosi.org",
   "telephone": "+1 (813) 987-6000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200838",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185072
   },
-  "name": "Kyckling's House Museum",
+  "name": [
+    {
+      "@value": "Kyckling's House Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 26.2048
   },
   "url": "http://www.museo-opas.fi/fi/museo/kycklingsin-kotiseututalo",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188332
   },
-  "name": "Museo Casa Deriu",
+  "name": [
+    {
+      "@value": "Museo Casa Deriu",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Vittorio Emenuele, 59",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.sardegnaturismo.it/it/punto-di-interesse/museo-casa-deriu",
   "telephone": "+39 0785 377043",
-  "contactPoint": [
-
-  ],
-  "openingHours": "10.00-13.00 e 16.00-18.00 (inverno, altri orari solo su prenotazione)",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4,50"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/j3Av4cF7zilF5sNtnDHrzVKvPRM=/1000x1000/museums/logos/000/188/332/original/906f77606a9f5ac377ae8b2721fc1a5557f06c.JPG"

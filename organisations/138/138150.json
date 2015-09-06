@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138150
   },
-  "name": "BARTLETT HISTORY MUSEUM",
+  "name": [
+    {
+      "@value": "BARTLETT HISTORY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "228 S. MAIN STREET",
@@ -22,9 +27,6 @@
     "longitude": -88.1846
   },
   "url": "http://www.village.bartlett.il.us/museum/museumhistory.html",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401701295",

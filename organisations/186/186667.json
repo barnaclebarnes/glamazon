@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186667
   },
-  "name": "Museo della pesca",
+  "name": [
+    {
+      "@value": "Museo della pesca",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via S. Nicol, 56",
@@ -21,9 +26,6 @@
     "longitude": 9.15605
   },
   "telephone": "+39 ",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "107190",

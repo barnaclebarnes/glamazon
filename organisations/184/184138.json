@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184138
   },
-  "name": "Warkworth & District Museum",
+  "name": [
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Warkworth & District Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 174.661
   },
   "telephone": "64-9-425 7093",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 9am-4pm\r\n June, July, August 9.00am - 3.00pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 9-16 giugno, luglio, agosto: 9-15",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 9 上午-4 下午 6 月、 7 月、 8 月 9 上午-3 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 9:00-16:00 junio, julio, Agosto 9:00-15:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diário 09:00-16:00 junho, julho, agosto 09:00-15:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "6 月、7 月、8 月 9-15 日 9-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "День 9 am - 4 pm июня, июля, августа 9: 00 утра - 3: 00 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 09:00-16:00 Juni, Juli und August 09:00-15:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 09:00-16:00 juin, juillet, août 09:00-15:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 9 am - 4 pm Jun, July, Ogos 9.00 pagi - 3.00 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 09:00-16:00 Juni, Juli und August 09:00-15:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Erwachsene $5,00 $1,00 Familie $10,00"
+    "description": [
+      {
+        "@value": "Adult $5.00 \r\n Child $1.00 \r\n Family $10.00",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Famiglia di adulti $5,00 bambino $1,00 $10,00",
+        "@langauge": "it"
+      },
+      {
+        "@value": "成人 $5.00 家庭儿童 $1.00 美元 10.00",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Familia de niño $1,00 de adulto $5,00 $10,00",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Família de criança $1,00 $5,00 adulto $10,00",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "大人 $5.00 $1.00 の子ファミリー $10.00",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Взрослый семья ребенка $1.00 $5,00 $10.00",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Erwachsene $5,00 $1,00 Familie $10,00",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Adulte 5,00 $ enfant 1,00 $ Family $10.00",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Keluarga kanak-kanak $1.00 $5.00 dewasa $10.00",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184138",
+    "url": "http://www.museums.io/en/museums/184138",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

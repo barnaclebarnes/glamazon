@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190186
   },
-  "name": "MELZER MUSEUM",
+  "name": [
+    {
+      "@value": "MELZER MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "219 2ND ST NW",
@@ -21,9 +26,6 @@
     "latitude": 37.594,
     "longitude": -121.887
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403800241",

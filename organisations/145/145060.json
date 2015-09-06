@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145060
   },
-  "name": "MINNESOTA FISHING MUSEUM",
+  "name": [
+    {
+      "@value": "MINNESOTA FISHING MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "304 W BROADWAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mnfishingmuseum.com",
   "telephone": "+1 (320) 616-2011",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700500",

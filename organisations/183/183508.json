@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183508
   },
-  "name": "Katharinas Puppenhaus",
+  "name": [
+    {
+      "@value": "Katharinas Puppenhaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hagenmühle",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.katharinaspuppenhaus.de",
   "telephone": "09658/1260",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129611
   },
-  "name": "ARKANSAS NATURAL RESOURCES MUSEUM",
+  "name": [
+    {
+      "@value": "ARKANSAS NATURAL RESOURCES MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3853 SMACKOVER HIGHWAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.amnr.org",
   "telephone": "+1 (870) 725-2877",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400500047",

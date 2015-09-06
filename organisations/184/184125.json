@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184125
   },
-  "name": "Methodist Church of New Zealand Archives",
+  "name": [
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Methodist Church of New Zealand Archives",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:archives@methodist.org.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.methodist.org.nz/archives",
   "telephone": "64-3-3666049",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday 9.00 am -12.30 pm by appointment. Closed on public holidays and Easter Tuesday",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Martedì mattino 9,00 -12,30 pm su appuntamento. Chiuso nei giorni festivi e il martedì di Pasqua",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期二上午 9 点-12.30 下午由任命。公众假期及复活节星期二休息",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El martes 9.00 am-12.30 pm con cita previa. Cerrado festivos y el martes de Pascua",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Terça-feira 09: 00-12.30 pm com hora marcada. Fechado aos feriados e terça-feira de Páscoa",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "火曜日午前 9 時-12.30 分午後の予定。祝日とイースター火曜日定休日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Вторник 9.00-12.30 pm по предварительной записи. Закрыт в государственные праздники и Пасху во вторник",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Dienstag 09: 00 Uhr-12.30 Uhr nach Vereinbarung. Geschlossen an Feiertagen und Ostern Dienstag",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mardi 9 h 00-12.30 pm sur rendez-vous. Fermé les jours fériés et le mardi de Pâques",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Selasa 9.00 pagi-12.30 pm temujanji. Ditutup pada hari cuti umum dan Easter Selasa",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Dienstag 09: 00 Uhr-12.30 Uhr nach Vereinbarung. Geschlossen an Feiertagen und Ostern Dienstag",
   "offers": {
     "@Type": "Offer",
-    "description": "Download kostenlos Zugriff auf Archive Collection, Gebühren für den Kauf von Kopien oder für Archive-Personal Forschung in Ihrem Namen"
+    "description": [
+      {
+        "@value": "Free to access Archives Collection, charges for purchasing copies or for Archives staff undertaking research on your behalf",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis da accedere insieme di archivi, spese per l'acquisto di copie o per archivi personale intraprendere ricerche per vostro conto",
+        "@langauge": "it"
+      },
+      {
+        "@value": "自由访问档案收集、 购买副本收费或档案工作人员进行研究，以您的名义",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Libre para obtener acceso a archivos de colección, los cargos por la compra de copias o archivos de personal realización de investigaciones en su nombre",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Livre para acessar a coleção de arquivos, acusações por adquirir cópias ou para arquivos pessoal a realização de pesquisas em seu nome",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "自由にコピーを購入するための料金のコレクション アーカイブにアクセスまたはアーカイブのスタッフがあなたに代わって実施研究",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Свободный доступ к коллекции архивов, расходы на покупку копии или для архивов сотрудников проведение исследований от вашего имени",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Download kostenlos Zugriff auf Archive Collection, Gebühren für den Kauf von Kopien oder für Archive-Personal Forschung in Ihrem Namen",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit pour accéder aux Archives Collection, frais pour l'achat de copies ou d'Archives personnel entreprendre une recherche sur votre nom",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Bebas untuk mengakses Koleksi Arkib, bayaran untuk membeli salinan atau untuk Arkib kakitangan menjalankan penyelidikan bagi pihak anda",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184125",
+    "url": "http://www.museums.io/en/museums/184125",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

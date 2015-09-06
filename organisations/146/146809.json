@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146809
   },
-  "name": "ROBERT HENRI MUSEUM",
+  "name": [
+    {
+      "@value": "ROBERT HENRI MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "218 E 8TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.roberthenrimuseum.org",
   "telephone": "+1 (308) 784-4154",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403100148",

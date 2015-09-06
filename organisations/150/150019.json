@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150019
   },
-  "name": "LANDMARK SOCIETY OF WESTERN NEW YORK INC",
+  "name": [
+    {
+      "@value": "LANDMARK SOCIETY OF WESTERN NEW YORK INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "133 FITZHUGH ST S",
@@ -22,9 +27,6 @@
     "longitude": -77.6122
   },
   "url": "http://www.landmarksociety.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601313",

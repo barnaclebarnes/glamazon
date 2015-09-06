@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186591
   },
-  "name": "Museo numismatico della zecca",
+  "name": [
+    {
+      "@value": "Museo numismatico della zecca",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via XX Settembre, 97",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museozecca.ipzs.it",
   "telephone": "+39 06 47613317",
-  "contactPoint": [
-
-  ],
-  "openingHours": "aperto dalle 9,00 alle 12,30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/U1RQtvQZ0-3cAqELc1noN0OQm9Q=/1000x1000/museums/logos/000/186/591/original/af35be3a69f46c19e46d1a5a45b6d35e7bf74fc.JPG"

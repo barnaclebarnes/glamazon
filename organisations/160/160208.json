@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160208
   },
-  "name": "NOYES HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "NOYES HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1299",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.noyeshousemuseum.org/",
   "telephone": "+1 (802) 888-7617",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405000014",

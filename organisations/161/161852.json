@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161852
   },
-  "name": "GOLDENDALE OBSERVATORY",
+  "name": [
+    {
+      "@value": "GOLDENDALE OBSERVATORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1602 OBSERVATORY DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.parks.wa.gov/parks",
   "telephone": "+1 (509) 773-3141",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300301",

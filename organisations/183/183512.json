@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183512
   },
-  "name": "Museum Polling",
+  "name": [
+    {
+      "@value": "Museum Polling",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchplatz 11",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.polling.de/kunst_kultur/museum_polling/museum_polling.php",
   "telephone": "0881/93900",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

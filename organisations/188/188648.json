@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188648
   },
-  "name": "Museo delle porcellane",
+  "name": [
+    {
+      "@value": "Museo delle porcellane",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Pitti, 1",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.polomuseale.firenze.it/musei/?m=porcellane",
   "telephone": "+39 0552388605 - Firenze Musei 055294883",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9.00 - 13.30",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/aE0p7KFRNJ7fcyHEp-4GMK7pCaQ=/1000x1000/museums/logos/000/188/648/original/891b7223ab14f6aaf71d4c141e6961c072a28b.jpg"

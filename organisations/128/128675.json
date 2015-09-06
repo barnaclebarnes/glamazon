@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128675
   },
-  "name": "COOKS NATURAL SCIENCE MUSEUM",
+  "name": [
+    {
+      "@value": "COOKS NATURAL SCIENCE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1741 5TH AVENUE SE",
@@ -21,9 +26,6 @@
     "latitude": 34.5793,
     "longitude": -86.9819
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100205",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142616
   },
-  "name": "PHILLIPS ACADEMY",
+  "name": [
+    {
+      "@value": "PHILLIPS ACADEMY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "180 MAIN ST",
@@ -22,9 +27,6 @@
     "longitude": -71.1342
   },
   "telephone": "+1 (978) 749-4000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500246",

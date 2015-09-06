@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132994
   },
-  "name": "MUSEUM OF THE MOUNTAIN WEST",
+  "name": [
+    {
+      "@value": "MUSEUM OF THE MOUNTAIN WEST",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "68169 MIAMI RD",
@@ -22,9 +27,6 @@
     "longitude": -107.813
   },
   "telephone": "+1 (970) 249-4162",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800170",

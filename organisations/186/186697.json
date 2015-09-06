@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186697
   },
-  "name": "Museo di archeologia ligure",
+  "name": [
+    {
+      "@value": "Museo di archeologia ligure",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Pallavicini, 11",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.museidigenova.it/spip.php?rubrique34",
   "telephone": "+39 010/6981048; 010/6984045",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100385",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183086
   },
-  "name": "Schloss Leitheim",
+  "name": [
+    {
+      "@value": "Schloss Leitheim",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tucher-leitheim.de",
   "telephone": "09097/1016",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

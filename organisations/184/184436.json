@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184436
   },
-  "name": "Athenree Homestead",
+  "name": [
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Athenree Homestead",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:mckernon@xtra.co.nz"
@@ -18,18 +59,61 @@
     "longitude": 175.962
   },
   "telephone": "07 549 1882",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10am - 4pm First Sunday of each month - Every Sunday Jan-Feb",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Prima domenica di ogni mese - ogni domenica Gen-Feb 10-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "10 上午-4 下午每月-每周日 1-2 月的第一个星期日",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "10:00-16:00 primer domingo de cada mes - cada domingo Ene-Feb",
+      "@langauge": "es"
+    },
+    {
+      "@value": "10:00-16:00 primeiro domingo de cada mês - cada domingo Jan-Fev",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "10-16 - 毎月毎日曜日 1 月 2 月の最初の日曜日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "10 утра - 4 вечера первое воскресенье каждого месяца - каждые воскресенье января-февраля",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "10:00-16:00 erster Sonntag des Monats - jeden Sonntag Jan-Feb",
+      "@langauge": "de"
+    },
+    {
+      "@value": "10:00-16:00 premier dimanche de chaque mois - chaque dimanche Jan-fév",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "10 pagi - 4 petang hari Ahad pertama setiap bulan - setiap Isnin Jan-Feb",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "10:00-16:00 erster Sonntag des Monats - jeden Sonntag Jan-Feb",
   "offers": {
     "@Type": "Offer",
-    "description": "$5 by way of donation"
+    "description": [
+      {
+        "@value": "$5 by way of donation",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184436",
+    "url": "http://www.museums.io/en/museums/184436",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

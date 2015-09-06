@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140600
   },
-  "name": "KENTUCKY REPTILE ZOO",
+  "name": [
+    {
+      "@value": "KENTUCKY REPTILE ZOO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "200 L E RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kyreptilezoo.org",
   "telephone": "+1 (606) 663-9160",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100357",

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131256
+  },
+  "name": [
+    {
+      "@value": "CALIFORNIA CULTURAL RESOURCES PRESERVATION ALLIANCE INC",
+      "@langauge": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 SONGSPARROW",
+    "addressLocality": "IRVINE",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92604-3267"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.6886&mlon=-117.802#map=15/33.6886/-117.802",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.6886,
+    "longitude": -117.802
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601382",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

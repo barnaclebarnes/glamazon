@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164112
   },
-  "name": "Montmorency / Eltham RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Montmorency / Eltham RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 145.122
   },
   "telephone": "03 9434 2085 ",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10.00 A.M. Monday to Saturday.\r\n11.00 A.M. Sundays.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10.00 A.M. Monday to Saturday.\r\n11.00 A.M. Sundays.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "montmorency-eltham-rsl-memorabilia-room",

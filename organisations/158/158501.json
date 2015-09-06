@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158501
   },
-  "name": "MUSEUM OF EAST TEXAS",
+  "name": [
+    {
+      "@value": "MUSEUM OF EAST TEXAS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "503 N 2ND ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.metlufkin.org/",
   "telephone": "+1 (936) 639-4434",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800601",

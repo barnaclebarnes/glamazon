@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164394
   },
-  "name": "Ukrainian Catholic Eparchy of Saints Peter and Paul operating the Ukrainian Arts & Craft Museum",
+  "name": [
+    {
+      "@value": "Ukrainian Catholic Eparchy of Saints Peter and Paul operating the Ukrainian Arts & Craft Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://catholicukes.org.au/",
   "telephone": "9363 1624",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sundays 9.00am - 1.00pm  or by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Sundays 9.00am - 1.00pm  or by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ukrainian-catholic-eparchy",

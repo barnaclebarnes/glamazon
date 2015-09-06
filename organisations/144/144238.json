@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144238
   },
-  "name": "POLISH AMERICAN HISTORIC SITE",
+  "name": [
+    {
+      "@value": "POLISH AMERICAN HISTORIC SITE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4231 SAINT AUBIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stalbertus.org",
   "telephone": "+1 (313) 831-9727",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600775",

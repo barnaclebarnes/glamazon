@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182665
   },
-  "name": "Heimatmuseum Ebenhausen",
+  "name": [
+    {
+      "@value": "Heimatmuseum Ebenhausen",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hennebergstraße 6",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.oerlenbach.de/vereine/eb-heimatmuseum/index.shtml",
   "telephone": "09725/203 u. 6364",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

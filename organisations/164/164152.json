@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164152
   },
-  "name": "National Wool Museum",
+  "name": [
+    {
+      "@value": "National Wool Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.geelongaustralia.com.au/nwm/",
   "telephone": "03 5272 4701",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday-Friday 9:30am-5pm. Saturday and Sunday 10am-5pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday-Friday 9:30am-5pm. Saturday and Sunday 10am-5pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "national-wool-museum",

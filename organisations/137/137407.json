@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137407
   },
-  "name": "LEWIS UNIVERSITY",
+  "name": [
+    {
+      "@value": "LEWIS UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 UNIVERSITY PKWY",
@@ -21,9 +26,6 @@
     "latitude": 41.6055,
     "longitude": -88.0785
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700552",

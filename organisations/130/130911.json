@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130911
   },
-  "name": "SAN FRANCISCO TUGBOATS",
+  "name": [
+    {
+      "@value": "SAN FRANCISCO TUGBOATS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "616 NAPA ST",
@@ -21,9 +26,6 @@
     "latitude": 38.1006,
     "longitude": -122.252
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601037",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135110
   },
-  "name": "SOUTH FLORIDA SCIENCE MUSEUM INC",
+  "name": [
+    {
+      "@value": "SOUTH FLORIDA SCIENCE MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4801 DREHER TRL N",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sfsm.org",
   "telephone": "+1 (561) 832-1988",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200665",

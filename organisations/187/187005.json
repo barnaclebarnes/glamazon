@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187005
   },
-  "name": "Museo del tesoro dell'Incoronata",
+  "name": [
+    {
+      "@value": "Museo del tesoro dell'Incoronata",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Incoronata, 23",
@@ -21,14 +26,6 @@
     "longitude": 9.50169
   },
   "telephone": "+39 0371420369",
-  "contactPoint": [
-
-  ],
-  "openingHours": "domenica 15,00/18,00, giorni feriali su prenotazione",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Dpq2nR-8ruiqqDbWOV6Z_kN8ODU=/1000x1000/museums/logos/000/187/005/original/3c68d6c8c7a6d50715e24ba7f18ad9439c0655d.jpg"

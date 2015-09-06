@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185106
   },
-  "name": "Liminka Museum",
+  "name": [
+    {
+      "@value": "Liminka Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 25.3842
   },
   "url": "http://www.liminka.fi/sivu/fi/liminka_virkistaa/kulttuuri-_ja_vapaa-aika/kulttuuripalvelut/museoalue/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

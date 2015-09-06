@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155372
   },
-  "name": "MUSEUM OF SCIENTIFIC DISCOVERY",
+  "name": [
+    {
+      "@value": "MUSEUM OF SCIENTIFIC DISCOVERY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 934",
@@ -21,9 +26,6 @@
     "latitude": 40.2619,
     "longitude": -76.8821
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200566",

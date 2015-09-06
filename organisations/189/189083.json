@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189083
   },
-  "name": "Piccolo museo a Lana",
+  "name": [
+    {
+      "@value": "Piccolo museo a Lana",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Bottai, 3",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.musei-altoadige.it",
   "telephone": "+39 +39 389 6794823",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutto l’anno su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "offerta libera"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/S5BPBxyn4BMgH8kPWbOT6gkiGXk=/1000x1000/museums/logos/000/189/083/original/195410695b87c42bc14760a9fb2f78e69d77421.jpg"

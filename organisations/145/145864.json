@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145864
   },
-  "name": "AMERICAN PRSDENTIAL MUSEUM LLC",
+  "name": [
+    {
+      "@value": "AMERICAN PRSDENTIAL MUSEUM LLC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2849 GRETNA RD",
@@ -21,9 +26,6 @@
     "latitude": 36.6482,
     "longitude": -93.2654
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900293",

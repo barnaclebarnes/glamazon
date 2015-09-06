@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182875
   },
-  "name": "Luftmuseum Amberg",
+  "name": [
+    {
+      "@value": "Luftmuseum Amberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Eichenforstgäßchen 12",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.luftmuseum.de",
   "telephone": "09621/420883",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

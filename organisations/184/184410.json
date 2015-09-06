@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184410
   },
-  "name": "Otautau Museum",
+  "name": [
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Otautau Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:otautau_museum@yahoo.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.westernsouthland.co.nz/pages/viewentity.php?entity=204",
   "telephone": "(03) 225-8405 or 027-422-2175",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Every Wednesday and Sunday, 2pm-4pm, and by appointment.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni mercoledì e domenica, 14-16 e su appuntamento.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每周三和周日，2 下午-4 下午，和预约。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Todos los miércoles y el domingos, 14:00-16:00 y con cita previa.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Toda quarta-feira e domingo, 14:00-16:00 e com hora marcada.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "毎週水曜日と日曜日、14-16、および予約制。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Каждую среду и воскресенье, 2-4 вечера и по предварительной записи.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Jeden Mittwoch und Sonntag 14:00-16:00, und nach Vereinbarung.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les mercredis et dimanche, de 14:00-16:00 et sur rendez-vous.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap Rabu dan Khamis, 2 pm - 4 pm, dan temujanji.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Jeden Mittwoch und Sonntag 14:00-16:00, und nach Vereinbarung.",
   "offers": {
     "@Type": "Offer",
-    "description": "Free and donations gratefully accepted."
+    "description": [
+      {
+        "@value": "Free and donations gratefully accepted.",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184410",
+    "url": "http://www.museums.io/en/museums/184410",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

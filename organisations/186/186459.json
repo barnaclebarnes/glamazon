@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186459
   },
-  "name": "Museo dello sbarco di Anzio",
+  "name": [
+    {
+      "@value": "Museo dello sbarco di Anzio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via di Villa Adele, SNC",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.sbarcodianzio.it",
   "telephone": "+39 06 9848059",
-  "contactPoint": [
-
-  ],
-  "openingHours": "si accettano visite su prenotazioni",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/UCq4P8AQQhO5knIcrHSBv0D2E3s=/1000x1000/museums/logos/000/186/459/original/1a5278ad6fd31bada47c1fbb7dcd91a7be0e27a.JPG"

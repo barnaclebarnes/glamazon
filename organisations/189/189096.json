@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189096
   },
-  "name": "Museo San Procolo",
+  "name": [
+    {
+      "@value": "Museo San Procolo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via San Procolo",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.naturns.it",
   "telephone": "+39 0473 673139",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Da 01 aprile al 02 novembre 2014 Dal martedì alla domenica, 10.00 - 12.30/14.30 - 17.30",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "111919",

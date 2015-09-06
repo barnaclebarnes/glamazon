@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164412
   },
-  "name": "University Of Melbourne, Baillieu Library Print Collection",
+  "name": [
+    {
+      "@value": "University Of Melbourne, Baillieu Library Print Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.lib.unimelb.edu.au/collections/special/prints/",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Items from the collection can be viewed by prior arrangement, for research purposes. For further information contact Special Collections staff",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Items from the collection can be viewed by prior arrangement, for research purposes. For further information contact Special Collections staff",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "baillieu-library-print-collection-university-melbourne",

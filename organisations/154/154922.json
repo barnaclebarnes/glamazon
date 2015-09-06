@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154922
   },
-  "name": "MUSEUM OF MOURNING ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF MOURNING ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2900 STATE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.arlingtoncemetery.us/museum.asp",
   "telephone": "+1 (610) 259-5800",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200116",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188284
   },
-  "name": "Museo ornitologico della Sardegna",
+  "name": [
+    {
+      "@value": "Museo ornitologico della Sardegna",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Leonardo Da Vinci, ",
@@ -21,14 +26,6 @@
     "longitude": 8.88814
   },
   "telephone": "+39 070939888",
-  "contactPoint": [
-
-  ],
-  "openingHours": "10,00 - 13,00 e 16,00 - 19,00 Orari diversi su prenotazione",
-  "offers": {
-    "@Type": "Offer",
-    "description": "2,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/WWCtsIKBiQO3_A4pWfesDaLqxtM=/1000x1000/museums/logos/000/188/284/original/969d272c6bbb864d0b16b72746c7803169506.jpg"

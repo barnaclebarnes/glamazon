@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129640
   },
-  "name": "POTTS INN MUSEUM",
+  "name": [
+    {
+      "@value": "POTTS INN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "889 EAST ASH STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.pottsinnmuseum.com",
   "telephone": "+1 (479) 968-8369",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400500076",

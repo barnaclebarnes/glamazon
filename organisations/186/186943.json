@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186943
   },
-  "name": "Silk Museum",
+  "name": [
+    {
+      "@value": "Silk Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo didattico della Seta",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Castelnuovo, 9",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museosetacomo.com",
   "telephone": "+39 031303180",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/KmY1e3wQqCbHz7LS2vq3ln0dIkw=/1000x1000/museums/logos/000/186/943/original/8ffac354b3e3b4193c794d246f66a8c7d72e.jpg"

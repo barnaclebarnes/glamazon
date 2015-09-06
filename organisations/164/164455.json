@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164455
   },
-  "name": "Warrnambool RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Warrnambool RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "telephone": "0355624634",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10.00am to 11.00 pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10.00am to 11.00 pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "warrnambool-rsl-",

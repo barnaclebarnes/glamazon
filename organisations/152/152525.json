@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152525
   },
-  "name": "THOMAS EDISON BIRTHPLACE MUSEUM",
+  "name": [
+    {
+      "@value": "THOMAS EDISON BIRTHPLACE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 451",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tomedison.org/",
   "telephone": "+1 (419) 499-2135",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900302",

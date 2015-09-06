@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134295
   },
-  "name": "BLACK FASHION MUSEUM",
+  "name": [
+    {
+      "@value": "BLACK FASHION MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2007 VERMONT AVENUE NW",
@@ -22,9 +27,6 @@
     "longitude": -77.025
   },
   "url": "http://www.bfmdc.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100076",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164310
   },
-  "name": "Stanley Athenaeum & Public Room",
+  "name": [
+    {
+      "@value": "Stanley Athenaeum & Public Room",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 146.755
   },
   "telephone": "0357 286 594 or 0357 286 702",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open 2nd Wednesday and 4th Sunday of the month 10am - 12pm and other times by appointment P: 0357286594 or P: 0357286702",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open 2nd Wednesday and 4th Sunday of the month 10am - 12pm and other times by appointment P: 0357286594 or P: 0357286702",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "stanley-athenaeum",

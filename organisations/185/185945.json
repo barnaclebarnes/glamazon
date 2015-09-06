@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185945
   },
-  "name": "Museo del Sannio",
+  "name": [
+    {
+      "@value": "Museo del Sannio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Santa Sofia snc, ",
@@ -21,9 +26,6 @@
     "longitude": 14.7812
   },
   "telephone": "+39 082421818",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/8eVbW6TDrwaUkObnBWEestn0FK0=/1000x1000/museums/logos/000/185/945/original/ca2ac4aa44b019fc69e98cbb1344b634dfd8893e.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138296
   },
-  "name": "LINCOLN MUSEUM",
+  "name": [
+    {
+      "@value": "LINCOLN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "200 E BERRY ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.thelincolnmuseum.org",
   "telephone": "+1 (260) 455-3864",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401800082",

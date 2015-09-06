@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186986
   },
-  "name": "Museo archeologico del Barro - MAB",
+  "name": [
+    {
+      "@value": "Museo archeologico del Barro - MAB",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Sede Parco: Via Bertarelli, 11",
@@ -22,10 +27,6 @@
   },
   "url": "http://parcobarro.it",
   "telephone": "+39 0341240215",
-  "contactPoint": [
-
-  ],
-  "openingHours": "mercoledì 14,00/17,00 - sabato e domenica 10,00/12,00 - 14,00/17,00",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "103651",

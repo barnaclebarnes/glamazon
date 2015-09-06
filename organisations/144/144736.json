@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144736
   },
-  "name": "ST LOUIS PARK HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ST LOUIS PARK HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3700 MONTEREY DRIVE",
@@ -22,9 +27,6 @@
     "longitude": -93.3399
   },
   "url": "http://www.slphistory.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700176",

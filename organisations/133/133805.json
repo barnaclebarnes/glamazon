@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133805
   },
-  "name": "KNIGHTS OF COLUMBUS MUSEUM INC",
+  "name": [
+    {
+      "@value": "KNIGHTS OF COLUMBUS MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "ONE COLUMBUS PLAZA",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kofc.org",
   "telephone": "+1 (203) 752-4000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900280",

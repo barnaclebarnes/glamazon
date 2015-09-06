@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183458
   },
-  "name": "Schwäbisches Handwerkermuseum",
+  "name": [
+    {
+      "@value": "Schwäbisches Handwerkermuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Beim Rabenbad 6",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hwk-schwaben.de/webview71/view?onr=71&pnr=252",
   "telephone": "0821/3259-1270",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

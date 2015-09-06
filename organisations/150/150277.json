@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150277
   },
-  "name": "TOWN OF LEXINGTON HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "TOWN OF LEXINGTON HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 247",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lexingtonnyhistoricalsociety.com/",
   "telephone": "+1 (518) 989-9570",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601571",

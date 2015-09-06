@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184498
   },
-  "name": "ABSA Group Museum",
+  "name": [
+    {
+      "@value": "ABSA Group Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "ABSA Museum Building, 187 Fox Street, Johannesburg",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "011 350 6889",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

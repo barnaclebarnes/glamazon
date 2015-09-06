@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134067
   },
-  "name": "HILL MUSEUM CORP",
+  "name": [
+    {
+      "@value": "HILL MUSEUM CORP",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "210 WEST ST",
@@ -21,9 +26,6 @@
     "latitude": 41.2998,
     "longitude": -72.9431
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900542",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164374
   },
-  "name": "The Royal Society of Victoria",
+  "name": [
+    {
+      "@value": "The Royal Society of Victoria",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.sciencevictoria.org.au",
   "telephone": "(03) 9663 5259 ",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "royal-society-victoria-inc",

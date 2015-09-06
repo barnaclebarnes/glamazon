@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134118
   },
-  "name": "UNIVERSITY OF YORK IN AMERICA",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF YORK IN AMERICA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": -75.5506
   },
   "url": "http://www.yorkspace.net/giving/how-to-give/uya",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401000050",

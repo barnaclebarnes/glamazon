@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150222
   },
-  "name": "SOUTH BRISTOL HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "SOUTH BRISTOL HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6500 W GANNETT HILL RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.southbristolny.org/",
   "telephone": "+1 (585) 374-6341",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601516",

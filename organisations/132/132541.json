@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132541
   },
-  "name": "ANAHEIM HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ANAHEIM HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 927",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.anaheimhistoricalsociety.com",
   "telephone": "+1 (714) 397-9182",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602667",

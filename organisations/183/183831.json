@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183831
   },
-  "name": "Wegmachermuseum",
+  "name": [
+    {
+      "@value": "Wegmachermuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Herderstraße 7",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stbaro.bayern.de/links/wegmachermuseum.php",
   "telephone": "08092/8273-12",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

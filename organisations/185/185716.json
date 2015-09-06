@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185716
   },
-  "name": "Museo diocesano di arte sacra di Catanzaro",
+  "name": [
+    {
+      "@value": "Museo diocesano di arte sacra di Catanzaro",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Arcivescovado , 13 ",
@@ -21,14 +26,6 @@
     "longitude": 16.5917
   },
   "telephone": "+39 0961 721333",
-  "contactPoint": [
-
-  ],
-  "openingHours": "17.30-19.30 lunedì, mercoledì e sabato, altri orari a richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "1,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/5wGD052MS-bzElR2zoCS6ax8rUQ=/1000x1000/museums/logos/000/185/716/original/eac92d6296a535f16b462c72605d8d1720d81fd7.jpg"

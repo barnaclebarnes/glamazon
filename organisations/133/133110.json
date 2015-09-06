@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133110
   },
-  "name": "UNITED CENTER INCORPORATED",
+  "name": [
+    {
+      "@value": "UNITED CENTER INCORPORATED",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1028",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.unitedcenterinc.com/",
   "telephone": "+1 (303) 567-1771",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800286",

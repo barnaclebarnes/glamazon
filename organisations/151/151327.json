@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151327
   },
-  "name": "NATHAN BROWN HOUSE INC",
+  "name": [
+    {
+      "@value": "NATHAN BROWN HOUSE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1167",
@@ -22,9 +27,6 @@
     "longitude": -80.4646
   },
   "url": "http://nathanbrownhouse.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700198",

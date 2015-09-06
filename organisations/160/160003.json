@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160003
   },
-  "name": "ANASAZI STATE PARK",
+  "name": [
+    {
+      "@value": "ANASAZI STATE PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "460 NORTH HIGHWAY 12",
@@ -22,9 +27,6 @@
     "longitude": -111.433
   },
   "telephone": "+1 (435) 335-7382",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900069",

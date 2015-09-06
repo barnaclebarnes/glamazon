@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184289
   },
-  "name": "Coaltown Museum",
+  "name": [
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Coaltown Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@coaltown.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.coaltown.co.nz",
   "telephone": "+64 3 789 6658",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open 7 days a week\r\n\r\nMay – September Winter Hours\r\n10am to 4pm weekends and 9am to 5pm weekdays\r\n \r\nOctober - April Summer Hours\r\n9am - 5pm 7 days a week",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Aperto 7 giorni a settimana maggio – settembre orario invernale 10 a 16 fine settimana e giorni feriali 9-17 ottobre - aprile estate ore 9-17 7 giorni alla settimana",
+      "@langauge": "it"
+    },
+    {
+      "@value": "5 月 — — 9 月冬季小时 10 上午到 4 下午周末和平日 9 上午到 5 下午十月至四月夏季小时一周 7 天开放 9 上午-5 下午每周 7 天",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Abierto los 7 días a la semana de mayo – horario de invierno de septiembre 10:00 a 16:00 los fines de semana y días laborables de 9:00 a 17:00 de octubre - horario de verano de abril 9:00-17:00 7 días a la semana",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Aberto 7 dias por semana, de maio a setembro de inverno horas nos fins de semana 10:00 a 16:00 e 09:00 a 17:00 durante a semana de outubro - horário de verão abril 09:00-17:00 7 dias por semana",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "週 5 月-9 月冬時間 10 に 16 土日平日 9 に 17 4 月夏の時間 - 10 月 7 日オープン 9-17 週 7 日間",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ресторан открыт 7 дней в неделю мая-сентябрь зимний часов 10 утра до 4 вечера выходные и будни 9 утра до 5 вечера Октябрь - Апрель летний часов 9 утра - 5 вечера 7 дней в неделю",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Geöffnet 7 Tage die Woche von Mai – September Winter Stunden Wochenenden von 10:00 bis 16:00 und 09:00 bis 17:00 werktags Oktober - April Sommer Stunden 09:00-17:00 7 Tage die Woche",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Ouvert 7j / 7 mai – septembre horaires d'hiver fin de semaine de 10:00 à 16:00 et 09:00 à 17:00 en semaine octobre - horaire d'été avril 09:00-17:00 7j / 7",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Buka 7 hari seminggu Mei – September musim sejuk jam 10 pagi hingga 4 petang hujung minggu dan hari Isnin-Jumaat 9 pagi hingga 5 petang Oktober - April musim panas jam 9 pagi - 5 petang 7 hari seminggu",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Geöffnet 7 Tage die Woche von Mai – September Winter Stunden Wochenenden von 10:00 bis 16:00 und 09:00 bis 17:00 werktags Oktober - April Sommer Stunden 09:00-17:00 7 Tage die Woche",
   "offers": {
     "@Type": "Offer",
-    "description": "Adults\t$15.00\r\nSenior Citizens\t$13.50\r\nStudents 16y+\t$13.50\r\nChildren\t$7\r\nFamily Pass 2A\r\n+ up to 3C\t$38\r\nPre School\tFree"
+    "description": [
+      {
+        "@value": "Adults\t$15.00\r\nSenior Citizens\t$13.50\r\nStudents 16y+\t$13.50\r\nChildren\t$7\r\nFamily Pass 2A\r\n+ up to 3C\t$38\r\nPre School\tFree",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184289",
+    "url": "http://www.museums.io/en/museums/184289",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

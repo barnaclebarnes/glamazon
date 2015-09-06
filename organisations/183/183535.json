@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183535
   },
-  "name": "Bulldog-Oldtimer-Museum",
+  "name": [
+    {
+      "@value": "Bulldog-Oldtimer-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Maierhof 7",
@@ -22,9 +27,6 @@
     "longitude": 12.7766
   },
   "telephone": "09963/910888",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

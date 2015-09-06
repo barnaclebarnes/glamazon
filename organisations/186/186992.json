@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186992
   },
-  "name": "Museo archeologico di Lecco",
+  "name": [
+    {
+      "@value": "Museo archeologico di Lecco",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Matteotti, 32",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.museilecco.org",
   "telephone": "+39 0341 481248",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/VtseWUqcUgFEGVOXODG1AIJrf5Q=/1000x1000/museums/logos/000/186/992/original/9a3b656c362a3c94a46a32ca42f7be61316fa4a.jpg"

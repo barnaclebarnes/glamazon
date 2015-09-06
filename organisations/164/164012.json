@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164012
   },
-  "name": "Lara RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Lara RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 144.456
   },
   "telephone": "Ken Simons - President 52821813",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By Appointment, call  Bruce on 0400546449 or see a member at the Sub Branch Friday nights 6-8pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By Appointment, call  Bruce on 0400546449 or see a member at the Sub Branch Friday nights 6-8pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "lara-rsl",

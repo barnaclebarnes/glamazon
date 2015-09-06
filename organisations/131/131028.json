@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131028
   },
-  "name": "MUSEUM OF NATURAL SCIENCE INC",
+  "name": [
+    {
+      "@value": "MUSEUM OF NATURAL SCIENCE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 2211",
@@ -21,9 +26,6 @@
     "latitude": 35.6206,
     "longitude": -120.689
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601154",

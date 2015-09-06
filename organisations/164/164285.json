@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164285
   },
-  "name": "Seaworks Maritime Discovery Centre",
+  "name": [
+    {
+      "@value": "Seaworks Maritime Discovery Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.seaworks.com.au",
   "telephone": "0417 292 021",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Refer events calendar at www.seaworks.com.au",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Refer events calendar at www.seaworks.com.au",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "seaworks-foundation",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183615
   },
-  "name": "Stadtmuseum Conradtyhaus",
+  "name": [
+    {
+      "@value": "Stadtmuseum Conradtyhaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mühlgasse 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.roethenbach.de",
   "telephone": "0911/9575-121",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

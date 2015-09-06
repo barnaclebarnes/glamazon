@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150117
   },
-  "name": "TOWN OF ONONDAGA HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "TOWN OF ONONDAGA HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5020 BALL RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://onondagatownhist.org/",
   "telephone": "+1 (315) 469-3144",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601411",

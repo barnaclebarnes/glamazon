@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186973
   },
-  "name": "Museo civico ponchielliano",
+  "name": [
+    {
+      "@value": "Museo civico ponchielliano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Amilcare Ponchielli, 21",
@@ -22,14 +27,6 @@
   },
   "url": "http://museoponchielli.e-cremona.it",
   "telephone": "+39 0374367200",
-  "contactPoint": [
-
-  ],
-  "openingHours": "mar., giov., venerdì 14.00/18.30 sabato e domenica 8.00/12.00 - 14./18.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/vGaYoQ59-Z75GIgsaOZYbKSoaTU=/1000x1000/museums/logos/000/186/973/original/cf76ecf26f98ba5f6f1f743811afdd624f02daf.jpg"

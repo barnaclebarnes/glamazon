@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182601
   },
-  "name": "Altdorfer Universitäts-Museum",
+  "name": [
+    {
+      "@value": "Altdorfer Universitäts-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Neubaugasse 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.altdorf.de",
   "telephone": "09187/807-1241",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

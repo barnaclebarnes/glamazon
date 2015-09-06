@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184105
   },
-  "name": "The Huia Settlers Museum",
+  "name": [
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "The Huia Settlers Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:huiamuseum@xtra.co.nz"
@@ -18,18 +59,97 @@
     "longitude": 174.566
   },
   "telephone": "64-9-811 8971",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Saturday and Sunday, 1:30 – 4:30 and at other times by appointment. Groups are welcome.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Sabato e domenica, 01.30 – 04.30 e in altri orari su appuntamento. I gruppi sono benvenuti.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期六和星期日，1:30-4:30 在其他时间预约。组是欢迎的。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El sábados y el domingos, 1:30 – 4:30 y en otros momentos por cita. Los grupos son bienvenidos.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Sábado e domingo, 01:30 – 04:30 e às vezes com hora marcada. Grupos são bem-vindos.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "土曜日と日曜日 1:30-4:30、予約制で他の回。団体も歓迎します。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Суббота и воскресенье, 1:30-4:30 и в другое время по договоренности. Группы приветствуются.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Samstag und Sonntag, 01:30 – 04:30 und zu anderen Zeiten nach Vereinbarung. Gruppen sind willkommen.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Samedi et dimanche, 01:30-04:30 et à d'autres moments sur rendez-vous. Les groupes sont bienvenus.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Hari Sabtu dan Ahad, 1:30 – 4:30 dan pada masa yang lain dengan pelantikan. Kumpulan adalah dialu-alukan.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Samstag und Sonntag, 01:30 – 04:30 und zu anderen Zeiten nach Vereinbarung. Gruppen sind willkommen.",
   "offers": {
     "@Type": "Offer",
-    "description": "Spende"
+    "description": [
+      {
+        "@value": "Donation",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Donazione",
+        "@langauge": "it"
+      },
+      {
+        "@value": "捐赠",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Donación de",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Doação",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "寄付",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Пожертвование",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Spende",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Don",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Derma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184105",
+    "url": "http://www.museums.io/en/museums/184105",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

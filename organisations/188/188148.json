@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188148
   },
-  "name": "The Municipal Antiquarium Archaeological Museum",
+  "name": [
+    {
+      "@value": "The Municipal Antiquarium Archaeological Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo archeologico antiquarium comunale",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Carlo Rossi, 45/A, ",
@@ -21,9 +30,6 @@
     "longitude": 14.9783
   },
   "telephone": "+39 0881554016",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/vyQ1-XpoIPFNlz5yu8AFP7bVgJM=/1000x1000/museums/logos/000/188/148/original/f43d7c58dc9f6d3948a1764a1bb49ca2e193ccc6.jpg"

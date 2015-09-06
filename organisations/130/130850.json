@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130850
   },
-  "name": "SOUTH BAY CHILDREN'S MUSEUM",
+  "name": [
+    {
+      "@value": "SOUTH BAY CHILDREN'S MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2220 OTAY LAKES RD",
@@ -21,9 +26,6 @@
     "latitude": 32.647,
     "longitude": -116.968
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600976",

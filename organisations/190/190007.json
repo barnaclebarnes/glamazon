@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190007
   },
-  "name": "SHAW NATURE RESERVE",
+  "name": [
+    {
+      "@value": "SHAW NATURE RESERVE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "P.O. BOX 38",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.shawnature.org",
   "telephone": "+1 (636) 451-3512",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900790",

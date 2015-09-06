@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188156
   },
-  "name": "The Provincial Museum of Territory",
+  "name": [
+    {
+      "@value": "The Provincial Museum of Territory",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo provinciale del territorio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Arpi 155 , ",
@@ -21,9 +30,6 @@
     "longitude": 15.5397
   },
   "telephone": "+39 0881711134",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/B-sb3LHCdill6g_wbktgHeTd1eo=/1000x1000/museums/logos/000/188/156/original/1133387efeb1bd50d8ec2d90a01f09622935b2a.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182833
   },
-  "name": "Heimatmuseum Gundremmingen",
+  "name": [
+    {
+      "@value": "Heimatmuseum Gundremmingen",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rathausplatz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gundremmingen.de",
   "telephone": "08224/96800",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184124
   },
-  "name": "Geological Collections, The University of Auckland",
+  "name": [
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Geological Collections, The University of Auckland",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:n.hudson@auckland.ac.nz"
@@ -18,18 +59,97 @@
     "longitude": 174.769
   },
   "telephone": "64-9-3737599 x87431",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon-Fri 8.30am-5pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-ven ore 8.30 am-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周一至周五 8: 30 am-5 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes 8.30 am-17:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sex 8: 30 am-17:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月 〜 金 8: 30 午前 17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Пн Пт 8: 30 утра - 5 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Fr 8.30 Uhr-17:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lu-ve 8. 30 am-17:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Jumaat 8.30 am - 5 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Fr 8.30 Uhr-17:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184124",
+    "url": "http://www.museums.io/en/museums/184124",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

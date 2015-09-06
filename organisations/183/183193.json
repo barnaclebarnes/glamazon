@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183193
   },
-  "name": "Modelleisenbahnmuseum",
+  "name": [
+    {
+      "@value": "Modelleisenbahnmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bayreuther Straße 23",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.modellbahnmuseum.de",
   "telephone": "09196/1630",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

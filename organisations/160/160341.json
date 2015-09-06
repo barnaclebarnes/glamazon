@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160341
   },
-  "name": "ELMORE HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ELMORE HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 123",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.elmorehistoricalsociety.org",
   "telephone": "+1 (802) 888-3618",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405000147",

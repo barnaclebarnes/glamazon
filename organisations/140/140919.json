@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140919
   },
-  "name": "LOUISIANA RAILROAD MUSEUM INC",
+  "name": [
+    {
+      "@value": "LOUISIANA RAILROAD MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 8412",
@@ -21,9 +26,6 @@
     "latitude": 29.9987,
     "longitude": -90.0617
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200201",

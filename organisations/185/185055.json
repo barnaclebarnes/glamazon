@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185055
   },
-  "name": "Kuopio Natural History Museum",
+  "name": [
+    {
+      "@value": "Kuopio Natural History Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 27.6769
   },
   "url": "http://www.kuopionluonnontieteellinenmuseo.fi",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

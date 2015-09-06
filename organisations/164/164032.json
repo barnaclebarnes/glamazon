@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164032
   },
-  "name": "Linton & District Museum",
+  "name": [
+    {
+      "@value": "Linton & District Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -37.6823,
     "longitude": 143.566
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "linton-district-museum",

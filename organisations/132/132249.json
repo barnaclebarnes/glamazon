@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132249
   },
-  "name": "CLOVIS MUSEUM",
+  "name": [
+    {
+      "@value": "CLOVIS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "401 POLLASKY AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://clovis-museum.com",
   "telephone": "+1 (559) 297-8033",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602375",

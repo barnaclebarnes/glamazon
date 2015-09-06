@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137112
   },
-  "name": "BEARDSTOWN LINCOLN MUSEUM",
+  "name": [
+    {
+      "@value": "BEARDSTOWN LINCOLN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "101 W 3RD ST",
@@ -22,9 +27,6 @@
     "longitude": -90.4338
   },
   "telephone": "+1 (217) 323-3225",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700257",

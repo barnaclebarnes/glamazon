@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130993
   },
-  "name": "IMAGINATION LABORATORIES",
+  "name": [
+    {
+      "@value": "IMAGINATION LABORATORIES",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "316 SUNSET LANE",
@@ -21,9 +26,6 @@
     "latitude": 35.141,
     "longitude": -119.468
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601119",

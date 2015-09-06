@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137300
   },
-  "name": "MATT LAMB CHICAGO MUSEUM",
+  "name": [
+    {
+      "@value": "MATT LAMB CHICAGO MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "150 SOUTH WACKER DRIVE",
@@ -21,9 +26,6 @@
     "latitude": 41.8797,
     "longitude": -87.6371
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700445",

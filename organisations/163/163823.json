@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163823
   },
-  "name": "Dartmoor District Museum",
+  "name": [
+    {
+      "@value": "Dartmoor District Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://dartmoordistrictmuseum.wordpress.com/",
   "telephone": "488553803",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "dartmoor-district-museum",

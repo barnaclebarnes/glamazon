@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131323
+  },
+  "name": [
+    {
+      "@value": "BLUE WING ADOBE TR",
+      "@langauge": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "425 DENMARK STREET",
+    "addressLocality": "SONOMA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95476-7602"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.2804&mlon=-122.452#map=15/38.2804/-122.452",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.2804,
+    "longitude": -122.452
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601449",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

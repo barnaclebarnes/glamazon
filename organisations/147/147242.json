@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147242
   },
-  "name": "ROBERT FROST HOMESTEAD",
+  "name": [
+    {
+      "@value": "ROBERT FROST HOMESTEAD",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.robertfrostfarm.org/",
   "telephone": "+1 (603) 432-3091",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403300017",

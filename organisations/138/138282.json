@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138282
   },
-  "name": "INTERNATIONAL CIRCUS HALL OF FAME",
+  "name": [
+    {
+      "@value": "INTERNATIONAL CIRCUS HALL OF FAME",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3076 E CIRCUS LANE",
@@ -22,9 +27,6 @@
     "longitude": -86.0197
   },
   "telephone": "+1 (765) 472-7553",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401800068",

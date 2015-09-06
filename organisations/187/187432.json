@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187432
   },
-  "name": "Museo del Cardinal Gasparri",
+  "name": [
+    {
+      "@value": "Museo del Cardinal Gasparri",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza XI Febbraio, 5",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.ussita.sinp.net",
   "telephone": "+39 0737971211",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/DyT3mVHjM25vtLpmennLko6W5lc=/1000x1000/museums/logos/000/187/432/original/2054f6f9c76a86a75b2f5f8d253e552c1697f4d.jpg"

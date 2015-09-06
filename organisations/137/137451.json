@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137451
   },
-  "name": "CHICAGO JEWISH HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "CHICAGO JEWISH HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "610 S MICHIGAN AVE 803",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.chicagojewishhistory.org/",
   "telephone": "+1 (312) 663-5634",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700596",

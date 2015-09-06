@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130066
   },
-  "name": "ORANGE COUNTY NATURAL HISTORY MUSEUM",
+  "name": [
+    {
+      "@value": "ORANGE COUNTY NATURAL HISTORY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "28373 ALICIA PKWY",
@@ -23,9 +28,6 @@
   },
   "url": "http://orangecounty.citysearch.com",
   "telephone": "+1 (949) 831-3287",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600192",

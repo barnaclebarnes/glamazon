@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163741
   },
-  "name": "Buninyong & District Historical Society",
+  "name": [
+    {
+      "@value": "Buninyong & District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,10 +21,12 @@
     "latitude": -37.6484,
     "longitude": 143.885
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9.30am to 1.30pm, third Saturday of the month.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "9.30am to 1.30pm, third Saturday of the month.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "buninyong-historical-society",

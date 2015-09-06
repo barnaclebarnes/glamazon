@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184244
   },
-  "name": "Taieri Historical Museum",
+  "name": [
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Taieri Historical Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:neil.gamble@xtra.co.nz"
@@ -18,18 +59,61 @@
     "longitude": 170.247
   },
   "telephone": "64-3-486 2701",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sun 2pm - 4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Sun 14-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "太阳 2 下午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Dom 14:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Sun, 14:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "太陽 14-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "ВС 2-4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Sun, 14:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Dim 14:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Sun 2 pm - 4 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Sun, 14:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult $2\r\n Child $1"
+    "description": [
+      {
+        "@value": "Adult $2\r\n Child $1",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184244",
+    "url": "http://www.museums.io/en/museums/184244",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

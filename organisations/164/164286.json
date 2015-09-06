@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164286
   },
-  "name": "Sebastopol & District Historical Society",
+  "name": [
+    {
+      "@value": "Sebastopol & District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 143.845
   },
   "telephone": "03 5338 4361",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "First Sunday of the month. 2 - 4 pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "First Sunday of the month. 2 - 4 pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "sebastapol-and-district-historical-society",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188384
   },
-  "name": "Museo di Adrano",
+  "name": [
+    {
+      "@value": "Museo di Adrano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Umberto I, SNC",
@@ -16,14 +21,6 @@
   },
   "url": "http://www.regione.sicilia.it/beniculturali/museoadrano/",
   "telephone": "+39 0957692660",
-  "contactPoint": [
-
-  ],
-  "openingHours": "da martedì a sabato 9.00/19.00 domenica e festivi 9.00/13.30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/2p9aYPv2ekP2F7rqeynAdqfYLFU=/1000x1000/museums/logos/000/188/384/original/76b98d804d41f435ab732d78d21f05fb7ca666.jpg"

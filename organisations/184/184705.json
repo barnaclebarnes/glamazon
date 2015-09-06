@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184705
   },
-  "name": "Anderson Museum",
+  "name": [
+    {
+      "@value": "Anderson Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Grey Street, Dordrecht",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "045 943 1017",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

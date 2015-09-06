@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184789
   },
-  "name": "Fort Durnford Museum",
+  "name": [
+    {
+      "@value": "Fort Durnford Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kemps Road, Escourt",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "036 352 3000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

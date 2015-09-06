@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188516
   },
-  "name": "Museo Giuseppe Whitaker",
+  "name": [
+    {
+      "@value": "Museo Giuseppe Whitaker",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Dante, 167",
@@ -21,14 +26,6 @@
     "longitude": 12.4475
   },
   "telephone": "+39 0923712598",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Lun-Sab 9:00-13:00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "6,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/BxyJMbMikiw_C1Iwrv3OIB9gclQ=/1000x1000/museums/logos/000/188/516/original/1747a7533bcd995ca2b35c43971e489fd57dfdf.jpg"

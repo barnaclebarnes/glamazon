@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163625
   },
-  "name": "ANZ Banking Museum & ANZ Group Archive",
+  "name": [
+    {
+      "@value": "ANZ Banking Museum & ANZ Group Archive",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.anz.com/about-us/our-company/profile/facts/archives/",
   "telephone": "03 8655 7478",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10am to 3pm Monday to Friday (closed public holidays)",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10am to 3pm Monday to Friday (closed public holidays)",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "anz-banking-museum",

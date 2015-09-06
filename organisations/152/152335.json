@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152335
   },
-  "name": "JOHN SCOTT GARBRY MUSEUM",
+  "name": [
+    {
+      "@value": "JOHN SCOTT GARBRY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8811 CAREER DRIVE",
@@ -22,9 +27,6 @@
     "longitude": -84.2148
   },
   "telephone": "+1 (937) 778-1980",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900112",

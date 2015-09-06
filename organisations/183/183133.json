@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183133
   },
-  "name": "Schloss Seehof mit Ferdinand-Tietz-Museum",
+  "name": [
+    {
+      "@value": "Schloss Seehof mit Ferdinand-Tietz-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloß Seehof 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/seehof.htm",
   "telephone": "0951/4095-71",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

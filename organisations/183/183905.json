@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183905
   },
-  "name": "Vronis Museumsstube",
+  "name": [
+    {
+      "@value": "Vronis Museumsstube",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßstraße 13",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.zapfendorf.de/?site=010106",
   "telephone": "09547/1896",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

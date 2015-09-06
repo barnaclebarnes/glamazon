@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158023
   },
-  "name": "PASADENA HISTORICAL MUSEUM",
+  "name": [
+    {
+      "@value": "PASADENA HISTORICAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "201 VINCE ST",
@@ -22,9 +27,6 @@
     "longitude": -95.2148
   },
   "telephone": "+1 (713) 477-7237",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800123",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148683
   },
-  "name": "LOVINGTON MAINSTREET CORPORATION",
+  "name": [
+    {
+      "@value": "LOVINGTON MAINSTREET CORPORATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1418",
@@ -21,9 +26,6 @@
     "latitude": 32.9486,
     "longitude": -103.347
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403500273",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161664
   },
-  "name": "CROSBY HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "CROSBY HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "703 DESCHUTES WAY SW",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ci.tumwater.wa.us/about-tumwater/history/crosby-house",
   "telephone": "360264292",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300113",

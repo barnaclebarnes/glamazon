@@ -6,7 +6,16 @@
     "name": "id",
     "value": 187043
   },
-  "name": "Museum of Contemporary Photography",
+  "name": [
+    {
+      "@value": "Museum of Contemporary Photography",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo di fotografia contemporanea",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Frova 10, ?",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museofotografiacontemporanea.org",
   "telephone": "+39 0266056630",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/maWt_hR_NggkV8AZUUUKUjlGr8o=/1000x1000/museums/logos/000/187/043/original/5024ed92a192bcd3fc6c3a8a1e83beda4d01d.jpg"

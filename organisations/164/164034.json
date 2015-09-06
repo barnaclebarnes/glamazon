@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164034
   },
-  "name": "Loch Public Hall",
+  "name": [
+    {
+      "@value": "Loch Public Hall",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -38.3697,
     "longitude": 145.708
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "loch-public-hall-inc",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182832
   },
-  "name": "Sudetendeutsche Heimatstube",
+  "name": [
+    {
+      "@value": "Sudetendeutsche Heimatstube",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 35",
@@ -22,9 +27,6 @@
     "longitude": 10.3666
   },
   "telephone": "09073/7982",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

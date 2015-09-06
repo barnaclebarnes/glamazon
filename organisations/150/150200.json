@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150200
   },
-  "name": "LEHIGH VALLEY RAILROAD HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "LEHIGH VALLEY RAILROAD HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX RR",
@@ -21,9 +26,6 @@
     "latitude": 42.9614,
     "longitude": -77.2302
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601494",

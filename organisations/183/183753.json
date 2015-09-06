@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183753
   },
-  "name": "Fränkisches Freilandmuseum mit Archäologiemuseum und Museum \"Kirche in Franken\"",
+  "name": [
+    {
+      "@value": "Fränkisches Freilandmuseum mit Archäologiemuseum und Museum \"Kirche in Franken\"",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Eisweiherweg 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.freilandmuseum.de",
   "telephone": "09841/6680-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

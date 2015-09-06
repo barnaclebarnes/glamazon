@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143793
   },
-  "name": "MICHIGAN TRANSIT MUSEUM",
+  "name": [
+    {
+      "@value": "MICHIGAN TRANSIT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 12",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.michigantransitmuseum.org/",
   "telephone": "+1 (586) 463-1863",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600330",

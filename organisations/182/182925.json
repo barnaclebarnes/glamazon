@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182925
   },
-  "name": "Bauerngerätemuseum des Stadtmuseums",
+  "name": [
+    {
+      "@value": "Bauerngerätemuseum des Stadtmuseums",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Probststraße 13",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ingolstadt.de/stadtmuseum",
   "telephone": "0841/3051885",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

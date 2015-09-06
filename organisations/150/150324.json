@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150324
   },
-  "name": "HERITAGE FOUNDATION OF OSWEGO",
+  "name": [
+    {
+      "@value": "HERITAGE FOUNDATION OF OSWEGO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 405",
@@ -23,9 +28,6 @@
   },
   "url": "http://oswegocountyheritage.org/",
   "telephone": "+1 (315) 342-3354",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601618",

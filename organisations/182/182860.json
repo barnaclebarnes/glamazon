@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182860
   },
-  "name": "Gemeindemuseum Hebertsfelden",
+  "name": [
+    {
+      "@value": "Gemeindemuseum Hebertsfelden",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bahnhofstraße 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rottalermuseumstrasse.de/index.php?page=37",
   "telephone": "08721/96360",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

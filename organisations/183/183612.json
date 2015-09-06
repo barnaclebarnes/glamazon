@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183612
   },
-  "name": "Schloss Rosenau",
+  "name": [
+    {
+      "@value": "Schloss Rosenau",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rosenau 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sgvcoburg.de",
   "telephone": "09563/3084-10",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

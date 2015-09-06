@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158090
   },
-  "name": "HUMANITIES RESEARCH CENTER",
+  "name": [
+    {
+      "@value": "HUMANITIES RESEARCH CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "UNIVERSITY OF TEXAS AT AUSTIN",
@@ -21,9 +26,6 @@
     "latitude": 30.2853,
     "longitude": -97.7419
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800190",

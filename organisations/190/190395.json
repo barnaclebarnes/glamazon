@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190395
   },
-  "name": "PADRE ISLAND NATIONAL SEASHORE",
+  "name": [
+    {
+      "@value": "PADRE ISLAND NATIONAL SEASHORE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "20301 PARK RD 22",
@@ -22,9 +27,6 @@
     "longitude": -97.2221
   },
   "telephone": "+1 (361) 949-8173",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404802070",

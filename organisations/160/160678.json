@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160678
   },
-  "name": "CARRIAGE MUSEUM OF AMERICA",
+  "name": [
+    {
+      "@value": "CARRIAGE MUSEUM OF AMERICA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "17263 SOUTHERN PLANTER LANE",
@@ -22,9 +27,6 @@
     "longitude": -77.5725
   },
   "url": "http://www.morvenpark.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100184",

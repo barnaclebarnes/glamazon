@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182760
   },
-  "name": "Museum im Schloss Friedberg",
+  "name": [
+    {
+      "@value": "Museum im Schloss Friedberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßstraße 21",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-friedberg.de",
   "telephone": "0821/6002148",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132779
   },
-  "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+  "name": [
+    {
+      "@value": "REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9500 GILMAN DRIVE",
@@ -22,9 +27,6 @@
     "longitude": -117.239
   },
   "url": "http://www.aquarium.ucsd.edu",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602905",

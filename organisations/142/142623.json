@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142623
   },
-  "name": "TUFTS UNIVERSITY ART GALLERY",
+  "name": [
+    {
+      "@value": "TUFTS UNIVERSITY ART GALLERY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "40 TALBOT AVENUE, AIDEKMAN ARTS CENTER",
@@ -23,9 +28,6 @@
   },
   "url": "http://artgallery.tufts.edu",
   "telephone": "+1 (617) 627-3518",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500253",

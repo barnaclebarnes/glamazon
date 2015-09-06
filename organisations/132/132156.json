@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132156
   },
-  "name": "HUMBOLDT BAY MARITIME MUSEUM",
+  "name": [
+    {
+      "@value": "HUMBOLDT BAY MARITIME MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 282",
@@ -23,9 +28,6 @@
   },
   "url": "http://humboldtbaymaritimemuseum.com/",
   "telephone": "+1 (707) 444-9440",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602282",

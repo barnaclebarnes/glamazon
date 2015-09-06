@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164054
   },
-  "name": "Maroondah Art Gallery",
+  "name": [
+    {
+      "@value": "Maroondah Art Gallery",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.maroondah.vic.gov.au/ArtGallery.aspx",
   "telephone": " 03 9298 4545",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday to Friday 10am - 4pm\r\nSaturday 12pm - 4pm\r\nClosed public holidays",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesday to Friday 10am - 4pm\r\nSaturday 12pm - 4pm\r\nClosed public holidays",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "maroondah-art-gallery",

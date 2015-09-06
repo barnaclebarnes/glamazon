@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146140
   },
-  "name": "AMERICAN NATIONAL FISH AND WILDLIFE MUSEUM",
+  "name": [
+    {
+      "@value": "AMERICAN NATIONAL FISH AND WILDLIFE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "500 W SUNSHINE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wondersofwildlife.org",
   "telephone": "+1 (417) 890-9453",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900569",

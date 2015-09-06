@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142652
   },
-  "name": "FRUITLANDS MUSEUMS INC",
+  "name": [
+    {
+      "@value": "FRUITLANDS MUSEUMS INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "102 PROSPECT HILL RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fruitlands.org",
   "telephone": "+1 (978) 456-3924",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500282",

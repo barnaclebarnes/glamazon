@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163639
   },
-  "name": "Australian Army Signals Museum",
+  "name": [
+    {
+      "@value": "Australian Army Signals Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.army.gov.au/Our-history/Army-Museum-Network/Corps-Museums",
   "telephone": "(03) 8481 7876",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "australian-army-signals-museum",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182695
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 21",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-elsenfeld.de/",
   "telephone": "06022/8488",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

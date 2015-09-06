@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130706
   },
-  "name": "AMERICAN TALL SHIP INSTITUTE",
+  "name": [
+    {
+      "@value": "AMERICAN TALL SHIP INSTITUTE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3600 HARBOR BLVD 56",
@@ -21,9 +26,6 @@
     "latitude": 34.1752,
     "longitude": -119.222
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600832",

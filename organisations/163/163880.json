@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163880
   },
-  "name": "Fox Classic Car Collection",
+  "name": [
+    {
+      "@value": "Fox Classic Car Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.foxcollection.org.au",
   "telephone": "03 9620 4086",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesdays and Wednesdays 10am to 2pm, Saturdays 10am to 1pm, February to December",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesdays and Wednesdays 10am to 2pm, Saturdays 10am to 1pm, February to December",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "fox-classic-car-collection-1",

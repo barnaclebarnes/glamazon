@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135738
   },
-  "name": "WOODROW WILSON HOUSE",
+  "name": [
+    {
+      "@value": "WOODROW WILSON HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "419 7TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wilsonboyhoodhome.org",
   "telephone": "+1 (706) 722-9828",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401300009",

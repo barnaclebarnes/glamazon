@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134357
   },
-  "name": "US NAVY MEMORIAL FOUNDATION",
+  "name": [
+    {
+      "@value": "US NAVY MEMORIAL FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "701 PENNSYLVANIA AVE NW STE 123",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.navymemorial.org/",
   "telephone": "+1 (202) 380-0710",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100138",

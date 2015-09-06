@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132566
   },
-  "name": "LEMON GROVE HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "LEMON GROVE HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 624",
@@ -22,9 +27,6 @@
     "longitude": -117.026
   },
   "url": "http://www.lemongrovehistoricalsociety.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602692",

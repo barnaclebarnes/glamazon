@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128503
   },
-  "name": "NATIONAL MARITIME MUSEUM",
+  "name": [
+    {
+      "@value": "NATIONAL MARITIME MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "250 N WATER ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nmm.ac.uk",
   "telephone": "+1 (251) 436-8901",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100033",

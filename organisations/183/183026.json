@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183026
   },
-  "name": "Festung Rosenberg",
+  "name": [
+    {
+      "@value": "Festung Rosenberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Festung 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kronach.de/festung-geschichte/cms/1267435900/Festung+Rosenberg/festung+rosenberg+burg+veste+anlage+unterirdische+g%C3%A4nge.html",
   "telephone": "09261/6041-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

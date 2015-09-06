@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137168
   },
-  "name": "JOHN DEERE HOME & FARM HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "JOHN DEERE HOME & FARM HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "210 E 3RD STREET",
@@ -21,9 +26,6 @@
     "latitude": 41.7887,
     "longitude": -89.693
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700313",

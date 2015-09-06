@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153070
   },
-  "name": "SPRINGFIELD MUSEUM OF ART",
+  "name": [
+    {
+      "@value": "SPRINGFIELD MUSEUM OF ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "107 CLIFF PARK RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.springfieldart.museum/",
   "telephone": "+1 (937) 325-4673",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900847",

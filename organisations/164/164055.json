@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164055
   },
-  "name": "Maryborough Midlands Historical Society operating the Worsley Cottage Museum",
+  "name": [
+    {
+      "@value": "Maryborough Midlands Historical Society operating the Worsley Cottage Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://home.vicnet.net.au/~mbhs/Worsley_Cottage/Maryborough_Midlands.html",
   "telephone": "5461 2518",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesdays/Thursdays 10-2pm. Sundays 2-4pm. Or by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesdays/Thursdays 10-2pm. Sundays 2-4pm. Or by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "maryborough-midlands-historical-society-worsley-cottage-museum",

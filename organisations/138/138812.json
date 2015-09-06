@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138812
   },
-  "name": "INDIANAPOLIS AUTOMOBILE MUSEUM",
+  "name": [
+    {
+      "@value": "INDIANAPOLIS AUTOMOBILE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1306 N PARK AVE",
@@ -21,9 +26,6 @@
     "latitude": 39.7848,
     "longitude": -86.1477
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401800598",

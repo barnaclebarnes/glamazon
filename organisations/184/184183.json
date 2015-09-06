@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184183
   },
-  "name": "Wyndham and District Historical Museum",
+  "name": [
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Wyndham and District Historical Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,18 +57,97 @@
     "latitude": -46.3295,
     "longitude": 168.849
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Thurs, Fri, Sat 2pm-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Gio, ven, sab 14-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期四，星期五，星期六 2 下午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El Jue, el Vie, Sáb 14:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Qui, Sex, Sáb 14:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "木、金、土 14-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Чт, пт, сб 2-4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Do, SA Fr, 14:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Jeu, Ven, sam 14:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Khamis, Jumaat, duduk 2 pm - 4 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Do, SA Fr, 14:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184183",
+    "url": "http://www.museums.io/en/museums/184183",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

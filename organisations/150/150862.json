@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150862
   },
-  "name": "DAYTON HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "DAYTON HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 15",
@@ -21,9 +26,6 @@
     "latitude": 42.4065,
     "longitude": -78.9728
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602156",

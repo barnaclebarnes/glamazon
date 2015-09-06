@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135852
   },
-  "name": "BOOTH WESTERN ART MUSEUM",
+  "name": [
+    {
+      "@value": "BOOTH WESTERN ART MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "501 N MUSEUM DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.boothmuseum.org",
   "telephone": "+1 (770) 387-1300",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401300123",

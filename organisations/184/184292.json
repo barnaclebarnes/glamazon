@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184292
   },
-  "name": "Air Force Museum of New Zealand",
+  "name": [
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Air Force Museum of New Zealand",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@airforcemuseum.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.airforcemuseum.co.nz",
   "telephone": "64-3-343 9532",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 10am-5pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 10-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 10 上午-5 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 10:00-17:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diariamente 10:00-17:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "毎日 10-17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 10 утра - 5 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 10:00-17:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 10:00-17:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 10 pagi - 5 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 10:00-17:00",
   "offers": {
     "@Type": "Offer",
-    "description": "FREE ADMISSION"
+    "description": [
+      {
+        "@value": "FREE ADMISSION",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184292",
+    "url": "http://www.museums.io/en/museums/184292",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150791
   },
-  "name": "SCHNEIDER CATAQUARIUM",
+  "name": [
+    {
+      "@value": "SCHNEIDER CATAQUARIUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 615",
@@ -22,9 +27,6 @@
     "longitude": -73.975
   },
   "url": "http://www.cataquarium.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602085",

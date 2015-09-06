@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147594
   },
-  "name": "NEW HAMPSHIRE TELEPHONE MUSEUM",
+  "name": [
+    {
+      "@value": "NEW HAMPSHIRE TELEPHONE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 444",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nhtelephonemuseum.com",
   "telephone": "+1 (603) 456-2234",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403300369",

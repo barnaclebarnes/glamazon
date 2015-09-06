@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184004
   },
-  "name": "Wilhelm-Leuschner-Gedenkstätte der Stadt Bayreuth",
+  "name": [
+    {
+      "@value": "Wilhelm-Leuschner-Gedenkstätte der Stadt Bayreuth",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Moritzhöfen 25",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bayreuth.de/museumsuebersicht/leuschner_gedenkstaette_316.html",
   "telephone": "0921/150-7200 u. 764",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

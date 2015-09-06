@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188094
   },
-  "name": "The \"Michele De Napoli\" Art Gallery",
+  "name": [
+    {
+      "@value": "The \"Michele De Napoli\" Art Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca \"Michele De Napoli\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Dante 9 , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.comune.terlizzi.ba.it",
   "telephone": "+39 0803517577",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/FVokseTfvfcypcGlfyJlBz3bqaY=/1000x1000/museums/logos/000/188/094/original/b660b975e38843af9986cd157f9fe5759aaa3d7.jpg"

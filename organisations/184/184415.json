@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184415
   },
-  "name": "Wellington Museums Trust",
+  "name": [
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Wellington Museums Trust",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:trust@wmt.org.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.wmt.org.nz",
   "telephone": "64-4-471 0919",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "See individual facilities",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Vedi strutture individuali",
+      "@langauge": "it"
+    },
+    {
+      "@value": "请参阅个别设施",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Ver instalaciones individuales",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Ver instalações individuais",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "各施設を見る",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Увидеть отдельных объектов",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Siehe einzelne Einrichtungen",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Voir installations individuelles",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Lihat kemudahan individu",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Siehe einzelne Einrichtungen",
   "offers": {
     "@Type": "Offer",
-    "description": "See individual facilities"
+    "description": [
+      {
+        "@value": "See individual facilities",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184415",
+    "url": "http://www.museums.io/en/museums/184415",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

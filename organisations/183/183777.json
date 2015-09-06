@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183777
   },
-  "name": "Ortsmuseum",
+  "name": [
+    {
+      "@value": "Ortsmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Graf-Vieregg-Straße 14",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tutzing.de/default.asp?tg=&wid=169&uwid=385&kon=&spk=de&spkg=de&sid=193462700&art=u",
   "telephone": "08158/258397",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

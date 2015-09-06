@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130162
   },
-  "name": "MILLBRAE MUSEUM",
+  "name": [
+    {
+      "@value": "MILLBRAE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "450 POPLAR AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.millbraehs.org",
   "telephone": "+1 (650) 692-5786",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600288",

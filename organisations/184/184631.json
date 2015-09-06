@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184631
   },
-  "name": "Nelson Mandela Metropolitan Art Museum",
+  "name": [
+    {
+      "@value": "Nelson Mandela Metropolitan Art Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 Park Drive, Port Elizabeth",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "041 506 2000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

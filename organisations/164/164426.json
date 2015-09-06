@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164426
   },
-  "name": "Upper Yarra Museum",
+  "name": [
+    {
+      "@value": "Upper Yarra Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://upperyarramuseum.org.au/",
   "telephone": "0427 707 730",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": " Wednesday &amp; Sunday 11 - 4pm\r\n Group Tours by Arrangement. Please book one week in advance.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": " Wednesday &amp; Sunday 11 - 4pm\r\n Group Tours by Arrangement. Please book one week in advance.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "upper-yarra-museum",

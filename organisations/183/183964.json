@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183964
   },
-  "name": "Gärtner- und Häckermuseum",
+  "name": [
+    {
+      "@value": "Gärtner- und Häckermuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mittelstraße 34",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ghm-bamberg.de",
   "telephone": "0951/51938506",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

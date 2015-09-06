@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142619
   },
-  "name": "LOWELL GENERAL HOSPITAL",
+  "name": [
+    {
+      "@value": "LOWELL GENERAL HOSPITAL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "295 VARNUM AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lowellgeneral.org",
   "telephone": "+1 (978) 937-6247",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500249",

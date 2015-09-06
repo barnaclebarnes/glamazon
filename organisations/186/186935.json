@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186935
   },
-  "name": "Museo musicale Quattro torri",
+  "name": [
+    {
+      "@value": "Museo musicale Quattro torri",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Palazzo Vantiniano, Piazzale Ospedale, ?",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.travagliato.it",
   "telephone": "+39 030661961",
-  "contactPoint": [
-
-  ],
-  "openingHours": "martedì 9.00/11.00 venerdì 15.00/17.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/lpNusnAg0J00zItv3Ze3slqvGys=/1000x1000/museums/logos/000/186/935/original/e5ace4715263f9ab569fcf4ea0bf2d49bce51a.jpg"

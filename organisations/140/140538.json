@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140538
   },
-  "name": "JACOBS HALL MUSEUM",
+  "name": [
+    {
+      "@value": "JACOBS HALL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "303 S. SECOND ST.",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ksd.kyschools.us",
   "telephone": "+1 (859) 239-7017",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100295",

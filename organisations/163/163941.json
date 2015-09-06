@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163941
   },
-  "name": "Heathcote McIvor Historical Society",
+  "name": [
+    {
+      "@value": "Heathcote McIvor Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 144.708
   },
   "telephone": "0354333776",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10 am - 3.p.m. Wednesdays, Public Holidays \r\nor group tours by appointment.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10 am - 3.p.m. Wednesdays, Public Holidays \r\nor group tours by appointment.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "heathcote-mcivor-historical-society",

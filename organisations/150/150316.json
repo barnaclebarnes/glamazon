@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150316
   },
-  "name": "JAMESTOWN AUDUBON SOCIETY",
+  "name": [
+    {
+      "@value": "JAMESTOWN AUDUBON SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1600 RIVERSIDE ROAD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.jamestownaudubon.org/",
   "telephone": "+1 (716) 569-2345",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601610",

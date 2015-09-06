@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134594
   },
-  "name": "JACKSONVILLE FIRE MUSEUM",
+  "name": [
+    {
+      "@value": "JACKSONVILLE FIRE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1406 GATOR BOWL BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.jacksonvillefiremuseum.com",
   "telephone": "+1 (904) 630-0618",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200148",

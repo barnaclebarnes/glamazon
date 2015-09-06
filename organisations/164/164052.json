@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164052
   },
-  "name": "Marian College",
+  "name": [
+    {
+      "@value": "Marian College",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.mcararat.catholic.edu.au",
   "telephone": "03 53523861",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "8.30am to 4.30pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "8.30am to 4.30pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "marian-college",

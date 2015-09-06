@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186479
   },
-  "name": "Museo delle navi",
+  "name": [
+    {
+      "@value": "Museo delle navi",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Vis Alessandro Guidoni, 35/37",
@@ -22,14 +27,6 @@
   },
   "url": "http://archeoroma.beniculturali.it/museo_delle_navi",
   "telephone": "+39 0665010089",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Chiuso al pubblico per lavori di restauro",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/YjEGviFe_K9oSpMt5L2mKKeVRa0=/1000x1000/museums/logos/000/186/479/original/22465d3e82d6682abd4bbb5b45db9bd6c96518.jpg"

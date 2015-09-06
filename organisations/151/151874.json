@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151874
   },
-  "name": "COUNTY OF NEW HANOVER",
+  "name": [
+    {
+      "@value": "COUNTY OF NEW HANOVER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "814 MARKET STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.capefearmuseum.com",
   "telephone": "+1 (910) 798-4370",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700745",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149331
   },
-  "name": "LONGWOOD ALLIANCE",
+  "name": [
+    {
+      "@value": "LONGWOOD ALLIANCE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 24",
@@ -22,9 +27,6 @@
     "longitude": -72.9478
   },
   "url": "http://longwoodalliance.com/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600625",

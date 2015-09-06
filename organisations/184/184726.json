@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184726
   },
-  "name": "Boschendal Manor House",
+  "name": [
+    {
+      "@value": "Boschendal Manor House",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Boschendal Estate, on R310 Pniel Road towards Franschhoek",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "021 870 4279",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

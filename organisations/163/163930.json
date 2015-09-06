@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163930
   },
-  "name": "Hamilton History Centre",
+  "name": [
+    {
+      "@value": "Hamilton History Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 142.021
   },
   "url": "http://home.vicnet.net.au/~hamhist/",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "The Centre is open every day except Saturday; from 2.00pm to 5.00pm\r\n(Saturday or other times by appointment only)\r\n\r\n",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "The Centre is open every day except Saturday; from 2.00pm to 5.00pm\r\n(Saturday or other times by appointment only)\r\n\r\n",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "hamilton-history-centre",

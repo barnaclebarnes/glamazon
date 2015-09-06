@@ -6,23 +6,140 @@
     "name": "id",
     "value": 184215
   },
-  "name": "New Zealand Centre for Photography",
-  "address": {
-    "@type": "PostalAddress"
-  },
-  "url": "http://nzcp.wellington.net.nz",
-  "contactPoint": [
-
+  "name": [
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "en"
+    },
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "it"
+    },
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "es"
+    },
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "de"
+    },
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "New Zealand Centre for Photography",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Fr 10:00-16:00",
+  "url": "http://nzcp.wellington.net.nz",
+  "openingHours": [
+    {
+      "@value": "Mon-Fri 10am-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-ven 10-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一-星期五 10 上午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes de 10:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sex 10:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月-金 10-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Пн Пт 10 утра - 4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Fr 10:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun-ven 10:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Jumaat 10 am - 4 pm",
+      "@langauge": "ms"
+    }
+  ],
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184215",
+    "url": "http://www.museums.io/en/museums/184215",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160178
   },
-  "name": "UTAH STATE UNIVERSITY",
+  "name": [
+    {
+      "@value": "UTAH STATE UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2400 OLD MAIN HI",
@@ -21,9 +26,6 @@
     "latitude": 41.7442,
     "longitude": -111.801
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900244",

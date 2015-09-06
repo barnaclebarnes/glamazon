@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182869
   },
-  "name": "Museum im Augustiner-Chorherrenstift (Altes Schloss)",
+  "name": [
+    {
+      "@value": "Museum im Augustiner-Chorherrenstift (Altes Schloss)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Herrenchiemsee 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.herrenchiemsee.de/deutsch/a_schloss/museum.htm",
   "telephone": "08051/6887-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

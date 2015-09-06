@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183168
   },
-  "name": "Schloss und Park Schönbusch",
+  "name": [
+    {
+      "@value": "Schloss und Park Schönbusch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kleine Schönbuschallee 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/as_sb.htm",
   "telephone": "06021/38657-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

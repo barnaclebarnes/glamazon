@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183194
   },
-  "name": "Museum für Ur- und Umwelt",
+  "name": [
+    {
+      "@value": "Museum für Ur- und Umwelt",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bahnhofstraße 4",
@@ -22,9 +27,6 @@
     "longitude": 10.7124
   },
   "telephone": "09831/7938",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

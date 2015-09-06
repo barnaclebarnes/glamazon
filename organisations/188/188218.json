@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188218
   },
-  "name": "The Public Museum of Santa Parasceve",
+  "name": [
+    {
+      "@value": "The Public Museum of Santa Parasceve",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico del territorio Santa Parasceve",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Vittorio Emanuele \"Palazzo della cultura\", 95",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.concadellegravine.museum",
   "telephone": "+39 (+39) 099.8291213",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/XJWhKPdwRFplb7z4agsypkfVhFE=/1000x1000/museums/logos/000/188/218/original/86939bdc88bfacff84c4a03c223848632bb16bfc.jpg"

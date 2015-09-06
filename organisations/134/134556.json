@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134556
   },
-  "name": "MANDARIN MUSEUM",
+  "name": [
+    {
+      "@value": "MANDARIN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "11964 MANDARIN RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://mandarinmuseum.net",
   "telephone": "+1 (904) 268-0784",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200110",

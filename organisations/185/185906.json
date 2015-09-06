@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185906
   },
-  "name": "Antiquarium di Avella",
+  "name": [
+    {
+      "@value": "Antiquarium di Avella",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Francesco De Sanctis, 16",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.archeosa.beniculturali.it",
   "telephone": "+39 0818251044",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal Lunedì al Sabato dalle 8,30 alle 13,30 e dalle 14,00 alle 17,30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/icnfUg5yPCFdssQBZ6VMm4VCbZQ=/1000x1000/museums/logos/000/185/906/original/bb4cf4398251c83b1a4443b995f213f1291c63e.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161031
   },
-  "name": "MUSEUM ONE INC",
+  "name": [
+    {
+      "@value": "MUSEUM ONE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7823 YORKTOWN DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumoneinc.org",
   "telephone": "+1 (703) 721-0321",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100537",

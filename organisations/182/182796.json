@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182796
   },
-  "name": "Museum Zeit+Raum",
+  "name": [
+    {
+      "@value": "Museum Zeit+Raum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Domonter Straße 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.germering.de/stadtmuseum/",
   "telephone": "089/89419191",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

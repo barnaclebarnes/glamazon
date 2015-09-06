@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182983
   },
-  "name": "Heimat- und Handfeuerwaffenmuseum",
+  "name": [
+    {
+      "@value": "Heimat- und Handfeuerwaffenmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Trautenbergstraße 36",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hakkem.de/museum.htm",
   "telephone": "09642/3366",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

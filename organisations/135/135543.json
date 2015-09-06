@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135543
   },
-  "name": "FLORIDA POSTAL MUSEUM INC",
+  "name": [
+    {
+      "@value": "FLORIDA POSTAL MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "300 SOUTH VOLUSIA AVENUE",
@@ -22,9 +27,6 @@
     "longitude": -81.2989
   },
   "url": "http://floridapostalmuseum.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201098",

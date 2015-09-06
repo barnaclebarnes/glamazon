@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135160
   },
-  "name": "INTERNATIONAL MOBILE MUSEUMS INC",
+  "name": [
+    {
+      "@value": "INTERNATIONAL MOBILE MUSEUMS INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1445 SW 127TH CT",
@@ -21,9 +26,6 @@
     "latitude": 25.7545,
     "longitude": -80.4012
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200715",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185272
   },
-  "name": "Kuopio Art Museum",
+  "name": [
+    {
+      "@value": "Kuopio Art Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": 27.6828,
     "longitude": 27.6828
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

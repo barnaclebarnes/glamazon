@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131317
+  },
+  "name": [
+    {
+      "@value": "CITRUS ROOTS-PRESERVING CITRUS HERITAGE FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2141 EAST OCEAN BLVD",
+    "addressLocality": "NEWPORT BEACH",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "92661-1522"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=33.596&mlon=-117.883#map=15/33.596/-117.883",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.596,
+    "longitude": -117.883
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601443",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

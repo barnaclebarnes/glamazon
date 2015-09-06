@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153649
   },
-  "name": "WILL ROGERS MEMORIAL",
+  "name": [
+    {
+      "@value": "WILL ROGERS MEMORIAL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1720 W WILL ROGERS BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.willrogers.com",
   "telephone": "+1 (918) 341-0719",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404000003",

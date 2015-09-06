@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184305
   },
-  "name": "Ashburton Art Gallery",
+  "name": [
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Ashburton Art Gallery",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@ashburtonartgallery.org.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.ashburtonartgallery.org.nz",
   "telephone": "+64 3 308 1133",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Gallery Hours: Tuesday-Friday 10am-4pm Wednesdays 10am-7pm Saturday & Sunday 1pm-4pm Closed Mondays and Public Holidays",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Orario galleria: Martedì-venerdì 10-16 mercoledì 10-19 sabato e domenica 13-16 chiuso il lunedì e nei giorni festivi",
+      "@langauge": "it"
+    },
+    {
+      "@value": "开放时间: 星期二至星期五 10 上午-4 下午星期三 10 上午-7 下午周六及周日 1 下午-4 下午闭合的星期一及公众假期",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Horario: Martes a viernes 10:00-16:00 miércoles 10:00-19:00 el sábado y el domingo 13:00-16:00 cerrados el lunes y festivos",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Horário da Galeria: Terça-feira-sexta-feira 10:00-16:00 quarta-feira 10:00-19:00, sábado e domingo 13:00-16:00 fechados segundas e feriados",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "ギャラリーの営業時間: 火曜日-金曜日 10-16 水曜 10-19 土曜日・日曜日 13-16 月曜休館、祝日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Галерея Часы работы: Вторник Пятница 10 утра - 4 вечера по средам 10 утра - 7 вечера субботы &воскресенье 1-4 вечера, закрыт по понедельникам и праздничным",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Galerie Öffnungszeiten: Dienstag-Freitag 10:00-16:00 Mittwoch 10:00-19:00 Samstag & Sonntag 13:00-16:00 Montag geschlossen und an Feiertagen",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Galerie heures d'ouverture : Mardi-vendredi 10:00-16:00 mercredi 10:00-19:00 samedi & dimanche 13:00-16:00 fermés le lundi et les jours fériés",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Galeri waktu: Isnin-Jumaat 10 am - 4 pm Rabu 10 pagi - 7 petang Sabtu & Ahad 1 pm - 4 pm Tutup pada hari Isnin dan cuti umum",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Galerie Öffnungszeiten: Dienstag-Freitag 10:00-16:00 Mittwoch 10:00-19:00 Samstag & Sonntag 13:00-16:00 Montag geschlossen und an Feiertagen",
   "offers": {
     "@Type": "Offer",
-    "description": "Admission Free (Donation/koha appreciated)"
+    "description": [
+      {
+        "@value": "Admission Free (Donation/koha appreciated)",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184305",
+    "url": "http://www.museums.io/en/museums/184305",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

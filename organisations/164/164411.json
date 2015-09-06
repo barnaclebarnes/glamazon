@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164411
   },
-  "name": "University of Melbourne, Medical History Museum",
+  "name": [
+    {
+      "@value": "University of Melbourne, Medical History Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://museum.medicine.unimelb.edu.au",
   "telephone": "03 83449935",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday -Friday 10.00am -5.00pm, Saturday 1.00pm to 5.00pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday -Friday 10.00am -5.00pm, Saturday 1.00pm to 5.00pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "medical-history-museum-1",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182897
   },
-  "name": "Schloss Johannisburg",
+  "name": [
+    {
+      "@value": "Schloss Johannisburg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßplatz 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/as_joh.htm",
   "telephone": "06021/38657-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

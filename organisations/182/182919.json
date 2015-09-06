@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182919
   },
-  "name": "Kunst & Museum",
+  "name": [
+    {
+      "@value": "Kunst & Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Eiergasse 13",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hollfeld.de/kunst/kunstmus.htm",
   "telephone": "09274/741",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

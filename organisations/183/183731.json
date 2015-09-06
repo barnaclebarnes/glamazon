@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183731
   },
-  "name": "Deutsches Fahrradmuseum",
+  "name": [
+    {
+      "@value": "Deutsches Fahrradmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Heinrich-von-Bibra-Straße 24",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.deutsches-fahrradmuseum.de",
   "telephone": "09741/93825-5",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

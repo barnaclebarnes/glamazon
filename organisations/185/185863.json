@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185863
   },
-  "name": "Museo del bergamotto",
+  "name": [
+    {
+      "@value": "Museo del bergamotto",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": " Via Vittorio Veneto, 2",
@@ -21,9 +26,6 @@
     "longitude": 15.6529
   },
   "telephone": "+39 342 1471594",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/9p4U0bEl48Rqt7dzDp0-BzkT1go=/1000x1000/museums/logos/000/185/863/original/2d517cca8f6e89896ae3e81aaeb2f069e841a5e5.jpg"

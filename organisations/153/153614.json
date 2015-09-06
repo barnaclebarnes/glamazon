@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153614
   },
-  "name": "ALDUS SOCIETY",
+  "name": [
+    {
+      "@value": "ALDUS SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1150",
@@ -22,9 +27,6 @@
     "longitude": -83.0112
   },
   "url": "http://www.aldussociety.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403901392",

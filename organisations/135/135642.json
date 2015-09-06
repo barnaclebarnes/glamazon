@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135642
   },
-  "name": "CUBAN MUSEUM INC",
+  "name": [
+    {
+      "@value": "CUBAN MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1500 S DIXIE HWY STE 200",
@@ -22,9 +27,6 @@
     "longitude": -80.2596
   },
   "telephone": "+1 (305) 529-5400",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201197",

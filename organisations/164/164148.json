@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164148
   },
-  "name": "National Sports Museum",
+  "name": [
+    {
+      "@value": "National Sports Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.nsm.org.au/",
   "telephone": "61 3 9657 8940 ",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "NSM open from 10.00am - 5.00pm (last admissions 4.00pm)",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "NSM open from 10.00am - 5.00pm (last admissions 4.00pm)",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "national-sports-museum",

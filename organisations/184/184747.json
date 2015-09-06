@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184747
   },
-  "name": "Citrusdal Museum",
+  "name": [
+    {
+      "@value": "Citrusdal Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Cnr Kerk & Muller Streets, Citrusdal",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "022 921 3210",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186984
   },
-  "name": "Museo Medardo Rosso",
+  "name": [
+    {
+      "@value": "Museo Medardo Rosso",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Baruffaldi, 4",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.medardorosso.org",
   "telephone": "+39 0341996416",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/zdTu2o1zFzddCB-fAGvCdGNB7q8=/1000x1000/museums/logos/000/186/984/original/9cd65fc2cfb449c235bc90317d2caf4be078.jpg"

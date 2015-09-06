@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187268
   },
-  "name": "Museo diocesano (Osimo)",
+  "name": [
+    {
+      "@value": "Museo diocesano (Osimo)",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Duomo, 7",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.duomodiosimo.it",
   "telephone": "+39 0717231808",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal lunedì al sabato 9.30-10.30, domenica 16-19, con visita guidata. Aperto su prenotazione",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 3.00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/8B-8aB6Bnt88Z-57ArEruO_yaHo=/1000x1000/museums/logos/000/187/268/original/9c4ca52ecbf3475fef53230fd17d297ac2c2c1b.jpg"

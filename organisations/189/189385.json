@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189385
   },
-  "name": "Museo del miele di Chatillon",
+  "name": [
+    {
+      "@value": "Museo del miele di Chatillon",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Chanoux",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.lovevda.it",
   "telephone": "+39 (+39) 0166 560627",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Per visite, contattare l‘Ufficio Commercio del comune di Châtillon tel. 0166 560627",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "112022",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183333
   },
-  "name": "Waldnaabtal-Museum in der Burg Neuhaus",
+  "name": [
+    {
+      "@value": "Waldnaabtal-Museum in der Burg Neuhaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Burgstraße 13",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.windischeschenbach.de/Museum_home.html",
   "telephone": "09681/534",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

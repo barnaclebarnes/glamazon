@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142160
   },
-  "name": "HAGERSTOWN ROUNDHOUSE MUSEUM INC",
+  "name": [
+    {
+      "@value": "HAGERSTOWN ROUNDHOUSE MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 2858",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.roundhouse.org/",
   "telephone": "+1 (301) 739-4665",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400453",

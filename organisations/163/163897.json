@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163897
   },
-  "name": "Geoffrey Kaye Museum of Anaesthetic History",
+  "name": [
+    {
+      "@value": "Geoffrey Kaye Museum of Anaesthetic History",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.anzca.edu.au/resources/geoffrey-kaye-museum",
   "telephone": "+61 3 8517 5309",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "The Geoffrey Kaye Museum of Anaesthetic History is currently undergoing a redevelopment and is temporarily closed. The Museum will be open again in September, please contact the Museum for more information.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "The Geoffrey Kaye Museum of Anaesthetic History is currently undergoing a redevelopment and is temporarily closed. The Museum will be open again in September, please contact the Museum for more information.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "geoffrey-kaye-museum-of-anaesthetic-history",

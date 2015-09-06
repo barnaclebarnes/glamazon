@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188671
   },
-  "name": "Opificio delle pietre dure",
+  "name": [
+    {
+      "@value": "Opificio delle pietre dure",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Alfani, 78",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.opificiodellepietredure.it/",
   "telephone": "+39 05526511 - 055.294882",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal lunedì, mercoledì, giovedì, venerdì e sabato ore 8,15-14; martedì ore orario continuato dalle 8,",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "20200",

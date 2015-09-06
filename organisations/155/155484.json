@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155484
   },
-  "name": "AGRICULTURAL AND INDUSTRIAL MUSEUM",
+  "name": [
+    {
+      "@value": "AGRICULTURAL AND INDUSTRIAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "480 E MARKET ST",
@@ -22,9 +27,6 @@
     "longitude": -76.7172
   },
   "url": "https://www.yorkheritage.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200678",

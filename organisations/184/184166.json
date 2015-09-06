@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184166
   },
-  "name": "Clyde Historical Museum",
+  "name": [
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Clyde Historical Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 169.32
   },
   "telephone": "64-3-449 2092",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tues-Sun 2pm-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Mar-dom 14-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周二-太阳 2 下午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Martes a domingo de 14:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Ter-dom 14:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "火-日 14-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Вт Вс 2-4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Di-So 14:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mardi-dimanche de 14:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Sel-Ahad 2 pm - 4 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Di-So 14:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Museum: $1 (Erwachsener) Herb Fabrik: $2"
+    "description": [
+      {
+        "@value": "Museum: $1 (Adult) \r\n Herb Factory: $2",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Museo: $1 (adulto) erba fabbrica: $2",
+        "@langauge": "it"
+      },
+      {
+        "@value": "博物馆: $1 (成人) 草本植物工厂: $2",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Museo: fábrica de la hierba $1 (adulto): $2",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Museu: fábrica de erva $1 (adulto): $2",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "博物館: $1 (大人) ハーブ工場: $2",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Музей: $1 (взрослый) травы завод: $2",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Museum: $1 (Erwachsener) Herb Fabrik: $2",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Musée: 1 $ (adulte) Herb Factory: 2 $",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Muzium: $1 (dewasa) herba kilang: $2",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184166",
+    "url": "http://www.museums.io/en/museums/184166",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

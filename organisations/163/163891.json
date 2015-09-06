@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163891
   },
-  "name": "Geelong Cycling Club",
+  "name": [
+    {
+      "@value": "Geelong Cycling Club",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://geelongcycling.com/",
   "telephone": "+61342020028",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "geelong-cycling-club",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183233
   },
-  "name": "Galerie der Künstler, BBK - Berufsverband bildender Künstler München und Oberbayern e.V.",
+  "name": [
+    {
+      "@value": "Galerie der Künstler, BBK - Berufsverband bildender Künstler München und Oberbayern e.V.",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Maximilianstr. 42",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bbk-muc-obb.de",
   "telephone": "089/22 04 63",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

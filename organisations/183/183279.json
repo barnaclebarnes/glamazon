@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183279
   },
-  "name": "Sammlung Moderne Kunst / Pinakothek der Moderne",
+  "name": [
+    {
+      "@value": "Sammlung Moderne Kunst / Pinakothek der Moderne",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Barer Straße 40",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.pinakothek.de/pinakothek-der-moderne/",
   "telephone": "089/23805-360",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

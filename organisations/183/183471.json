@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183471
   },
-  "name": "Orgelbaumuseum Schloss Hanstein e. V.",
+  "name": [
+    {
+      "@value": "Orgelbaumuseum Schloss Hanstein e. V.",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Paulinenstraße 20",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.orgelbaumuseum.de",
   "telephone": "09777/1743",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

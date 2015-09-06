@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130459
   },
-  "name": "AFRO-AMERICAN MUSEUM",
+  "name": [
+    {
+      "@value": "AFRO-AMERICAN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "EXPOSITION PARK",
@@ -22,9 +27,6 @@
     "longitude": -118.287
   },
   "telephone": "+1 (213) 744-7432",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600585",

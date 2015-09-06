@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131258
+  },
+  "name": [
+    {
+      "@value": "THE WORLD CRYSTAL MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 4631",
+    "addressLocality": "SALINAS",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93912"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.6964&mlon=-121.67#map=15/36.6964/-121.67",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.6964,
+    "longitude": -121.67
+  },
+  "url": "http://www.worldcrystalmuseum.org",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601384",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

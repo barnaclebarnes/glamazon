@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146090
   },
-  "name": "INTERNATIONAL JAZZ HALL OF FAME",
+  "name": [
+    {
+      "@value": "INTERNATIONAL JAZZ HALL OF FAME",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "922 OAK ST",
@@ -22,9 +27,6 @@
     "longitude": -94.5784
   },
   "telephone": "+1 (816) 523-3501",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900519",

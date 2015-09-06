@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139332
   },
-  "name": "MANNING HERITAGE FOUNDATION",
+  "name": [
+    {
+      "@value": "MANNING HERITAGE FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "12196 311TH ST",
@@ -21,9 +26,6 @@
     "latitude": 41.9057,
     "longitude": -95.05
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401900369",

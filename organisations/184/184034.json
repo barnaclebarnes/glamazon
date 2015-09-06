@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184034
   },
-  "name": "Rundfunkmuseum Schloss Brunn",
+  "name": [
+    {
+      "@value": "Rundfunkmuseum Schloss Brunn",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Schloß 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rundfunkmuseum-brunn.de/",
   "telephone": "09104/2482",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

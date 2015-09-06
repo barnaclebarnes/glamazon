@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186574
   },
-  "name": "Museo di storia della medicina",
+  "name": [
+    {
+      "@value": "Museo di storia della medicina",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale dell'Università, 34/A",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.histmed.it/museo/museo.htm",
   "telephone": "+39 06 49914445",
-  "contactPoint": [
-
-  ],
-  "openingHours": "lunedì, mercoledì e venerdì 9,30 – 14,30; lunedì e giovedì 9,30 – 17,00",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/9FYNh0REed4bf-v7byXGxF_GU2g=/1000x1000/museums/logos/000/186/574/original/b0f2a5fc33241fd3e2d12426dfaa2337471aeaf7.JPG"

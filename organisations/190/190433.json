@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190433
   },
-  "name": "SHENANDOAH NATIONAL PARK",
+  "name": [
+    {
+      "@value": "SHENANDOAH NATIONAL PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3655 US HWY 211 EAST",
@@ -22,9 +27,6 @@
     "longitude": -78.3708
   },
   "telephone": "+1 (540) 999-3500",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405101077",

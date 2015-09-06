@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155836
   },
-  "name": "DWIGHT D EISENHOWER SOCIETY",
+  "name": [
+    {
+      "@value": "DWIGHT D EISENHOWER SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 4772",
@@ -22,9 +27,6 @@
     "longitude": -77.229
   },
   "url": "http://www.dwightdeisenhowersociety.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201030",

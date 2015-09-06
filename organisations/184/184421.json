@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184421
   },
-  "name": "World of WearableArt™ and Classic Cars Museum",
+  "name": [
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "World of WearableArt™ and Classic Cars Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@wowcars.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.wowcars.co.nz",
   "telephone": "64-3 547 4573",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10am -5pm daily except 25th December ",
+      "@langauge": "en"
+    },
+    {
+      "@value": "10 17 tutti i giorni tranne il 25 dicembre ",
+      "@langauge": "it"
+    },
+    {
+      "@value": "10 上午 5 下午每日除了 12 月 25 日",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "10:00 17:00 todos los días excepto 25 de diciembre ",
+      "@langauge": "es"
+    },
+    {
+      "@value": "10:00 17:00 diariamente excepto 25 de dezembro ",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "10 17 12 月 25 日を除く毎日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "10 утра -5 вечера ежедневно, кроме 25 декабря ",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "10:00 17:00 täglich außer 25. Dezember ",
+      "@langauge": "de"
+    },
+    {
+      "@value": "10:00 17:00 tous les jours sauf le 25 décembre ",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "10: 00 pm-5 setiap hari kecuali 25 Disember ",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "10:00 17:00 täglich außer 25. Dezember ",
   "offers": {
     "@Type": "Offer",
-    "description": "$22 Adults, $16 seniors/Students , $8 children. Family concessions and group rates available."
+    "description": [
+      {
+        "@value": "$22 Adults, $16 seniors/Students , $8 children. Family concessions and group rates available.",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184421",
+    "url": "http://www.museums.io/en/museums/184421",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

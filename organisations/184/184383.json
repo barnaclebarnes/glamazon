@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184383
   },
-  "name": "Belfast District Museum",
+  "name": [
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Belfast District Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@belfastdistrictmuseum.co.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.belfastdistrictmuseum.co.nz",
   "telephone": "(03) 352 5545",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "2pm - 4pm first Sunday, September - May, or by arrangement.  Schoolmaster's House and Crofter's Cottage also open twice a year.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "prima domenica, 14-16 settembre - maggio, o da concordare.  Casa del maestro di scuola e Cottage di Crofter anche aprire due volte l'anno.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "2 下午-4 下午第一个星期日，9 月-可能，或由所安排。 校长的房子和 Crofter 的小屋也打开一年两次。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "14:00-16:00 primer domingo, mayo septiembre -, o por el arreglo.  Casa del maestro de escuela y casa de Crofter también abren dos veces al año.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "14:00-16:00 primeiro domingo, setembro - maio, ou por acordo.  Casa do professor e Cottage do arrendatário também abrir duas vezes por ano.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "14-16 最初の日曜日、9 月 - 5 月、または配置します。 校長の家および Crofter のコテージも年に 2 回を開きます。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "2 pm – 4 pm первое воскресенье, Сентябрь - май, или по договоренности.  Школьный учитель в дом и коттедж в Crofter также открыть два раза в год.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "14:00-16:00 erster Sonntag, September - Mai, oder nach Vereinbarung.  Schulmeister Haus und dem Einödbauern Cottage öffnen auch zweimal im Jahr.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "14:00-16:00 premier dimanche, septembre - mai, ou par entente.  Maison de maître d'école et Cottage de Crofter également ouvrent deux fois l'an.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "2 pm - 4 pm hari Ahad pertama, September - boleh, atau dengan persetujuan.  Rumah di schoolmaster dan di Crofter Cottage juga dibuka dua kali setahun.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "14:00-16:00 erster Sonntag, September - Mai, oder nach Vereinbarung.  Schulmeister Haus und dem Einödbauern Cottage öffnen auch zweimal im Jahr.",
   "offers": {
     "@Type": "Offer",
-    "description": "Spende"
+    "description": [
+      {
+        "@value": "Donation",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Donazione",
+        "@langauge": "it"
+      },
+      {
+        "@value": "捐赠",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Donación de",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Doação",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "寄付",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Пожертвование",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Spende",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Don",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Derma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184383",
+    "url": "http://www.museums.io/en/museums/184383",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

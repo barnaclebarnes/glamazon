@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160245
   },
-  "name": "THE ORGANIC CENTER INC",
+  "name": [
+    {
+      "@value": "THE ORGANIC CENTER INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "28 VERNON STREET",
@@ -21,9 +26,6 @@
     "latitude": 42.8502,
     "longitude": -72.5566
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405000051",

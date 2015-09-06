@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150700
   },
-  "name": "GUILDERLAND HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "GUILDERLAND HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 282",
@@ -22,9 +27,6 @@
     "longitude": -73.9647
   },
   "url": "http://www.guilderlandhistoricalsociety.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601994",

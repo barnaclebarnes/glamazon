@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183827
   },
-  "name": "Museum im Malhaus",
+  "name": [
+    {
+      "@value": "Museum im Malhaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Halbinselstraße 77",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-malhaus-wasserburg-bodensee.de",
   "telephone": "08382/887197",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

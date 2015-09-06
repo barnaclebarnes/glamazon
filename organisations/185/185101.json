@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185101
   },
-  "name": "Kemijärvi Museum",
+  "name": [
+    {
+      "@value": "Kemijärvi Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 27.4024
   },
   "url": "http://www.kemijarvenmuseo.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

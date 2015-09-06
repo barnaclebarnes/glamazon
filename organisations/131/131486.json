@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131486
   },
-  "name": "SILK ROAD HOUSE",
+  "name": [
+    {
+      "@value": "SILK ROAD HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1944 UNIVERSITY AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.silkroadhouse.org",
   "telephone": "+1 (510) 981-0700",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601612",

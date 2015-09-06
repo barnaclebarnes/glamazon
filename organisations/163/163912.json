@@ -6,15 +6,22 @@
     "name": "id",
     "value": 163912
   },
-  "name": "Goldfields Library",
+  "name": [
+    {
+      "@value": "Goldfields Library",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.ncgrl.vic.gov.au ",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "See the website for each Library's opening hours and contact details",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "See the website for each Library's opening hours and contact details",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "goldfields-library",

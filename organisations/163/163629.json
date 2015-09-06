@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163629
   },
-  "name": "Ararat & District Historical Society operating the Langi Morgala Museum",
+  "name": [
+    {
+      "@value": "Ararat & District Historical Society operating the Langi Morgala Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 142.935
   },
   "telephone": "(03) 5352 3117",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tue to Thu : 10:00hrs to 15:00hrs /\r\nSat to Sun : 13:00hrs to 16:00hrs /       \r\nOther times by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tue to Thu : 10:00hrs to 15:00hrs /\r\nSat to Sun : 13:00hrs to 16:00hrs /       \r\nOther times by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ararat-and-district-historical-society",

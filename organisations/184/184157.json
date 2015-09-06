@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184157
   },
-  "name": "Northbrook Museum",
+  "name": [
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Northbrook Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 172.609
   },
   "telephone": "64-3-313 7427",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Su appuntamento",
+      "@langauge": "it"
+    },
+    {
+      "@value": "预约",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Con cita previa",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Com hora marcada",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "予約制で",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "По предварительной договоренности",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Nach Vereinbarung",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Sur rendez-vous",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Dengan pelantikan",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Nach Vereinbarung",
   "offers": {
     "@Type": "Offer",
-    "description": "Erwachsene $2,50 Kind $1"
+    "description": [
+      {
+        "@value": "Adult $2.50 \r\n Child $1",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Adulto bambino $2,50 $1",
+        "@langauge": "it"
+      },
+      {
+        "@value": "成人 $2.50 小童 $1",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Adulto niño $2,50 $1",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Adulto criança $2,50 $1",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "大人 $2.50 子供 $1",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Взрослый ребенок $2,50 $1",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Erwachsene $2,50 Kind $1",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Adulte enfant $2,50 $1",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Dewasa $2.50 kanak-kanak $1",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184157",
+    "url": "http://www.museums.io/en/museums/184157",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

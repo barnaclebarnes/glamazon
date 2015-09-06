@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184815
   },
-  "name": "Hector Pieterson Museum",
+  "name": [
+    {
+      "@value": "Hector Pieterson Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8288 Khumalo Street, Orlando West, Soweto",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "011 536 0611",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

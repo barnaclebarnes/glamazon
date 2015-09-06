@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137108
   },
-  "name": "BIRKS MUSEUM",
+  "name": [
+    {
+      "@value": "BIRKS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1184 W MAIN ST",
@@ -22,9 +27,6 @@
     "longitude": -88.9747
   },
   "telephone": "+1 (217) 424-6337",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700253",

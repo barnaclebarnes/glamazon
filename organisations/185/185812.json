@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185812
   },
-  "name": "Museo diocesano di Rossano",
+  "name": [
+    {
+      "@value": "Museo diocesano di Rossano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Arcivescovado , 5",
@@ -21,9 +26,6 @@
     "longitude": 16.6357
   },
   "telephone": "+39 0983 525263",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/3oXrIhutTHeyJY5mzN0m2yeELuE=/1000x1000/museums/logos/000/185/812/original/58b6c2496230c3aaa91c2cae16797b78e14645fb.jpg"

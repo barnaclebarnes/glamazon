@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164261
   },
-  "name": "Royal Flying Doctor Service of Australia, Victorian Section",
+  "name": [
+    {
+      "@value": "Royal Flying Doctor Service of Australia, Victorian Section",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.flyingdoctor.org.au",
   "telephone": "9429 6344",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "royal-flying-doctor-service-of-australia",

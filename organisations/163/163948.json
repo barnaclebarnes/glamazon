@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163948
   },
-  "name": "Heritage Victoria Conservation Laboratory",
+  "name": [
+    {
+      "@value": "Heritage Victoria Conservation Laboratory",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.heritage.vic.gov.au",
   "telephone": "(03) 9415 4444",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "heritage-victoria-conservation-laboratory",

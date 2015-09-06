@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132213
   },
-  "name": "SACRAMENTO COUNTY HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "SACRAMENTO COUNTY HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 160065",
@@ -21,9 +26,6 @@
     "latitude": 38.5731,
     "longitude": -121.471
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602339",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163998
   },
-  "name": "Kyneton Historical Society operating Kyneton Museum",
+  "name": [
+    {
+      "@value": "Kyneton Historical Society operating Kyneton Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://home.vicnet.net.au/~kyhist/",
   "telephone": "5422 1228",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Friday, Saturday &amp; Sunday 11am-4pm.  Open for groups outside these hours.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Friday, Saturday &amp; Sunday 11am-4pm.  Open for groups outside these hours.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "kyneton-museum",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183663
   },
-  "name": "Museum Georg Schäfer",
+  "name": [
+    {
+      "@value": "Museum Georg Schäfer",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Brückenstraße 20",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumgeorgschaefer.de",
   "telephone": "09721/51-920",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

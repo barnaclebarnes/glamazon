@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164049
   },
-  "name": "Mansfield Historical Society",
+  "name": [
+    {
+      "@value": "Mansfield Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.mansfieldhistoricalsociety.com.au/",
   "telephone": "357791094",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "11.00am to 32.00pm Fri., Sat. &amp; Sun.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "11.00am to 32.00pm Fri., Sat. &amp; Sun.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "mansfield-historical-society-inc",

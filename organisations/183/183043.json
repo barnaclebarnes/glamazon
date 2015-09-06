@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183043
   },
-  "name": "Bergbau- und Industriemuseum Ostbayern",
+  "name": [
+    {
+      "@value": "Bergbau- und Industriemuseum Ostbayern",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Portnerstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumtheuern.de",
   "telephone": "09624/832",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

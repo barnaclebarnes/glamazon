@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160645
   },
-  "name": "FAIRFAX STATION RAILROAD MUSEUM",
+  "name": [
+    {
+      "@value": "FAIRFAX STATION RAILROAD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "11200 FAIRFAX STATION RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fairfax-station.org",
   "telephone": "+1 (703) 425-9225",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100151",

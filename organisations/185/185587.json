@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185587
   },
-  "name": "Museo civico di Cerchio",
+  "name": [
+    {
+      "@value": "Museo civico di Cerchio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Sandro Pertini, SNC",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.comunedicerchio.it",
   "telephone": "+39 0863 78116",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Lunedì – Sababato 08,00 – 14,00 Domenica 10,00 – 12,00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "2,00€"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100007",

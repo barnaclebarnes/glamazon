@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136232
   },
-  "name": "MUSEUM OF DESIGN ATLANTA INC",
+  "name": [
+    {
+      "@value": "MUSEUM OF DESIGN ATLANTA INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "GROUND FLOOR",
@@ -22,9 +27,6 @@
     "longitude": -84.385
   },
   "url": "http://www.museumofdesign.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401300503",

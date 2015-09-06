@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188110
   },
-  "name": "The Minervino Murge Civic Museum",
+  "name": [
+    {
+      "@value": "The Minervino Murge Civic Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico Minervino Murge",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Aldo Moro 6 , ",
@@ -21,9 +30,6 @@
     "longitude": 16.0799
   },
   "telephone": "+39 0883695900",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/0lsTvTZCHNTK6XtUreW0_eLzGYs=/1000x1000/museums/logos/000/188/110/original/c4220ec7458de45397a5328815f0f195551655.jpg"

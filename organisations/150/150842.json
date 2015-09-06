@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150842
   },
-  "name": "AMERICAN ITALIAN HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "AMERICAN ITALIAN HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1227 CENTRAL AVENUE",
@@ -21,9 +26,6 @@
     "latitude": 42.6962,
     "longitude": -73.8084
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602136",

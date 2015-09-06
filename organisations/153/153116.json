@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153116
   },
-  "name": "BUTLER INSTITUTE OF AMERICAN ART",
+  "name": [
+    {
+      "@value": "BUTLER INSTITUTE OF AMERICAN ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "524 WICK AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.butlerart.com",
   "telephone": "+1 (330) 743-1107",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900894",

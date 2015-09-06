@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147235
   },
-  "name": "THE UNIVERSITY MUSEUM",
+  "name": [
+    {
+      "@value": "THE UNIVERSITY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "18 LIBRARY WAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.library.unh.edu/museum",
   "telephone": "+1 (603) 862-1081",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403300010",

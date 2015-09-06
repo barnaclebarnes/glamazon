@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183033
   },
-  "name": "Krumbacher Wachsmuseum",
+  "name": [
+    {
+      "@value": "Krumbacher Wachsmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Nordstraße 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.morsa.de/index.php?link=Wachsmuseum/Wechselausstellung&menu=1",
   "telephone": "08282/5896",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

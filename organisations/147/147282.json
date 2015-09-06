@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147282
   },
-  "name": "GILMAN MUSEUM",
+  "name": [
+    {
+      "@value": "GILMAN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "123 MAIN ST",
@@ -22,9 +27,6 @@
     "longitude": -71.2157
   },
   "telephone": "+1 (603) 875-0201",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403300057",

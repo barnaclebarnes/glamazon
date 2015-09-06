@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183196
   },
-  "name": "Schlossmuseum Murnau",
+  "name": [
+    {
+      "@value": "Schlossmuseum Murnau",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßhof 2-5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schlossmuseum-murnau.de",
   "telephone": "08841/476-207",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

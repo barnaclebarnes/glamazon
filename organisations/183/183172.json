@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183172
   },
-  "name": "Prientalmuseum und Schloss Hohenaschau",
+  "name": [
+    {
+      "@value": "Prientalmuseum und Schloss Hohenaschau",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloss Hohenaschau",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.aschau.de/de/schloss-hohenaschau-und-prientalmuseum",
   "telephone": "08052/956640",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

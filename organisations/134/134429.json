@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134429
   },
-  "name": "INTERNATIONAL INTELLECTUAL PROPERTY INSTITUTE",
+  "name": [
+    {
+      "@value": "INTERNATIONAL INTELLECTUAL PROPERTY INSTITUTE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1100 H STREET NWSUITE 1",
@@ -22,9 +27,6 @@
     "longitude": -77.032
   },
   "telephone": "+1 (202) 544-6610",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100210",

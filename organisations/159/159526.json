@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159526
   },
-  "name": "CITY-COUNTY HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "CITY-COUNTY HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 136",
@@ -22,9 +27,6 @@
     "longitude": -100.307
   },
   "telephone": "+1 (806) 492-2143",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801626",

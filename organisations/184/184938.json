@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184938
   },
-  "name": "Queenstown Museum",
+  "name": [
+    {
+      "@value": "Queenstown Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "23 Shepstone Street, Queenstown",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "045 839 5860",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

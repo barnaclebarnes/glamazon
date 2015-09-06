@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159978
   },
-  "name": "HYRUM MUSEUM",
+  "name": [
+    {
+      "@value": "HYRUM MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "50 W MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hyrumlibrary.com",
   "telephone": "+1 (435) 245-0208",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900044",

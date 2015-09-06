@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153302
   },
-  "name": "PACKARD MUSEUM ASSOCIATION",
+  "name": [
+    {
+      "@value": "PACKARD MUSEUM ASSOCIATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1899 MAHONING AVE NW",
@@ -22,9 +27,6 @@
     "longitude": -80.8292
   },
   "url": "http://www.packardmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403901080",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152227
   },
-  "name": "WARTHER MUSEUM",
+  "name": [
+    {
+      "@value": "WARTHER MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "331 KARL AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.warthers.com/index.htm",
   "telephone": "+1 (330) 343-7513",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900004",

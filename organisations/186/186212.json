@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186212
   },
-  "name": "Piccolo museo della moto",
+  "name": [
+    {
+      "@value": "Piccolo museo della moto",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via S. Giuseppe, 16/A",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.piccolomuseodellamoto.it",
   "telephone": "+39 0522 824064 - 338 8969989",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su prenotazione",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/gj7Utv-fIXK6NZVe6L4kdpvvpxI=/1000x1000/museums/logos/000/186/212/original/81df34e31fa39bc791fab04c6ec1d57493f98a.jpg"

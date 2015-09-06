@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133275
   },
-  "name": "DENVER FIREFIGHTERS MUSEUM INC",
+  "name": [
+    {
+      "@value": "DENVER FIREFIGHTERS MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1326 TREMONT PL",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.denverfirefightersmuseum.org",
   "telephone": "+1 (303) 892-1436",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800451",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183414
   },
-  "name": "Keramikmuseum Schloss Obernzell",
+  "name": [
+    {
+      "@value": "Keramikmuseum Schloss Obernzell",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßplatz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.obernzell.de/index.php?option=com_content&task=view&id=100&Itemid=145",
   "telephone": "08591/1066",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

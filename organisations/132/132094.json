@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132094
   },
-  "name": "MONTEREY MUSEUM OF ART",
+  "name": [
+    {
+      "@value": "MONTEREY MUSEUM OF ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "559 PACIFIC ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://info@montereyart.org",
   "telephone": "+1 (831) 372-5477",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602220",

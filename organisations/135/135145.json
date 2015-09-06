@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135145
   },
-  "name": "MUSEUM OF SOUTHERN HISTORY",
+  "name": [
+    {
+      "@value": "MUSEUM OF SOUTHERN HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4304 HERSCHEL ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumsouthernhistory.com",
   "telephone": "+1 (904) 388-3574",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200700",

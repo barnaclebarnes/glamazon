@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184047
   },
-  "name": "Deutsches Schustermuseum",
+  "name": [
+    {
+      "@value": "Deutsches Schustermuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Marktplatz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.burgkunstadt.de/2303_DEU_WWW.php",
   "telephone": "09572/4703",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

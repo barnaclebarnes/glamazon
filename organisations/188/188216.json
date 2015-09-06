@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188216
   },
-  "name": "The Rodolfo Valentino Museum",
+  "name": [
+    {
+      "@value": "The Rodolfo Valentino Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo \"Rodolfo Valentino\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso V.Emanuele \"Ex Monastero S.Chiara\", ",
@@ -21,9 +30,6 @@
     "longitude": 16.9397
   },
   "telephone": "+39 0998492398",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/aLz-Pc5wRC0UMvXJyPdz00YMmOE=/1000x1000/museums/logos/000/188/216/original/6cfb6423ba2e2e54c1cf3307eb364f246b8feed.jpg"

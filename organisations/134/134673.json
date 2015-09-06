@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134673
   },
-  "name": "CORNELL FINE ARTS MUSEUM",
+  "name": [
+    {
+      "@value": "CORNELL FINE ARTS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1000 HOLT AVE.",
@@ -22,9 +27,6 @@
     "longitude": -81.3486
   },
   "telephone": "+1 (407) 646-2526",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200227",

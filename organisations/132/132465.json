@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132465
   },
-  "name": "EASTERN CALIFORNIA MUSEUM ASSN",
+  "name": [
+    {
+      "@value": "EASTERN CALIFORNIA MUSEUM ASSN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 604",
@@ -21,9 +26,6 @@
     "latitude": 35.7051,
     "longitude": -117.834
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602591",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130473
   },
-  "name": "BONITA MUSEUM AND CULTURAL CENTER",
+  "name": [
+    {
+      "@value": "BONITA MUSEUM AND CULTURAL CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4355 BONITA RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bonitamuseum.org",
   "telephone": "+1 (619) 267-5141",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600599",

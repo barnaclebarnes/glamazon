@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183869
   },
-  "name": "Schwäbisches Ofenmuseum",
+  "name": [
+    {
+      "@value": "Schwäbisches Ofenmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mühlwinkel 12",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ofenmuseum.com/",
   "telephone": "08272/84-196",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

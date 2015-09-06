@@ -6,7 +6,12 @@
     "name": "id",
     "value": 162314
   },
-  "name": "JOHN BROWN WAX MUSEUM",
+  "name": [
+    {
+      "@value": "JOHN BROWN WAX MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "168 HIGH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.johnbrownwaxmuseum.com",
   "telephone": "+1 (304) 535-6342",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405400027",

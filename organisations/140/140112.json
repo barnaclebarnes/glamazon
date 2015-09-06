@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140112
   },
-  "name": "HISTORIC PRESERVATION CORPORATION",
+  "name": [
+    {
+      "@value": "HISTORIC PRESERVATION CORPORATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "803 W MAIN ST",
@@ -21,9 +26,6 @@
     "latitude": 38.6591,
     "longitude": -96.4974
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000438",

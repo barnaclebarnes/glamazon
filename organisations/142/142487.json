@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142487
   },
-  "name": "JFK MUSEUM",
+  "name": [
+    {
+      "@value": "JFK MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "397 MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://jfkhyannismuseum.org",
   "telephone": "+1 (508) 790-3077",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500117",

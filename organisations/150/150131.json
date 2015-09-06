@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150131
   },
-  "name": "TOWN OF YORK HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "TOWN OF YORK HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 464",
@@ -22,9 +27,6 @@
     "longitude": -77.9057
   },
   "url": "https://www.facebook.com/tofyhs/info",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601425",

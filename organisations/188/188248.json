@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188248
   },
-  "name": "National Art Gallery of Cagliari",
+  "name": [
+    {
+      "@value": "National Art Gallery of Cagliari",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca nazionale",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Arsenale, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.pinacoteca.cagliari.beniculturali.it",
   "telephone": "+39 070 662496",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/9VQ_eMtBptx4ts7zMWEXOS6Q-oQ=/1000x1000/museums/logos/000/188/248/original/ad9fa391edddcae31c6922776f145c98669d974.jpg"

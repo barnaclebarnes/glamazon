@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188186
   },
-  "name": "The Pompiliano Museum",
+  "name": [
+    {
+      "@value": "The Pompiliano Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo Pompiliano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Pirrotta, 2",
@@ -16,9 +25,6 @@
   },
   "url": "http://www.ameipuglia.it",
   "telephone": "+39 0832791034",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/CaHKIJMEF-mK83dV-JH-8_ulAY8=/1000x1000/museums/logos/000/188/186/original/c596dd9be69db1bf26e08de5d144e6375728e70.jpg"

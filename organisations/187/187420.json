@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187420
   },
-  "name": "Museo dell’olio di Serrapetrona",
+  "name": [
+    {
+      "@value": "Museo dell’olio di Serrapetrona",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Borgo, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.serrapetrona.sinp.net",
   "telephone": "+39 0733908321",
-  "contactPoint": [
-
-  ],
-  "openingHours": "apertura su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/WX17POPM7bSRujZo8BUxnKR-E-c=/1000x1000/museums/logos/000/187/420/original/68a1a1ab6b74399d5f9ccddcb168b407f881b40.jpg"

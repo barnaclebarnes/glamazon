@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129126
   },
-  "name": "PHIPPEN ART MUSEUM",
+  "name": [
+    {
+      "@value": "PHIPPEN ART MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4701 NORTH HWY 89",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.phippenartmuseum.org",
   "telephone": "+1 (928) 778-1385",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400028",

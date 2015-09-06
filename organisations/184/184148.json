@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184148
   },
-  "name": "Rewa's Village",
+  "name": [
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Rewa's Village",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 173.962
   },
   "telephone": "64-9-407 6454",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Summer 9am-5pm \r\n Winter 10am-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Estate inverno 10-16 9-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "夏季 9 上午-5 下午冬季 10 上午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Verano 9:00-17:00 invierno 10:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Verão 09:00-17:00 inverno 10:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "夏 9-17 冬 10-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Летом 9 утра - 5 вечера зимой 10 утра - 4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Sommer 09:00-17:00 Winter 10:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Été 09:00-17:00 hiver 10:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Musim panas 9 am - 5 pm musim sejuk 10 pagi - 4 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Sommer 09:00-17:00 Winter 10:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": " Erwachsene Kind $0,50-$2,50-Familie $6"
+    "description": [
+      {
+        "@value": " Adult $2.50 \r\n Child $0.50\r\n Family $6",
+        "@langauge": "en"
+      },
+      {
+        "@value": " Famiglia di adulti $2,50 bambini $0,50 $6",
+        "@langauge": "it"
+      },
+      {
+        "@value": "成人 $2.50 家庭儿童 $0.50 美元 6",
+        "@langauge": "zh"
+      },
+      {
+        "@value": " Familia de niño $0,50 $2,50 adultos $6",
+        "@langauge": "es"
+      },
+      {
+        "@value": " Família de criança $0,50 $2,50 adultos $6",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "大人 $2.50 子ども $0.50 ファミリー $6",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Взрослый семья ребенка $0,50 $2,50 $6",
+        "@langauge": "ru"
+      },
+      {
+        "@value": " Erwachsene Kind $0,50-$2,50-Familie $6",
+        "@langauge": "de"
+      },
+      {
+        "@value": " Adulte $2,50 $0,50 famille 6 $",
+        "@langauge": "fr"
+      },
+      {
+        "@value": " Keluarga kanak-kanak $0.50 $2,50 dewasa $6",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184148",
+    "url": "http://www.museums.io/en/museums/184148",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

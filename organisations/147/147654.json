@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147654
   },
-  "name": "TRAIN MUSEUM",
+  "name": [
+    {
+      "@value": "TRAIN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "495 US HIGHWAY 202",
@@ -22,9 +27,6 @@
     "longitude": -74.8187
   },
   "telephone": "+1 (908) 782-4022",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403400022",

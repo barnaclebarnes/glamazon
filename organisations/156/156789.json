@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156789
   },
-  "name": "BOB CAMPBELL GEOLOGY MUSEUM",
+  "name": [
+    {
+      "@value": "BOB CAMPBELL GEOLOGY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "140 DISCOVERY LN",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.clemson.edu/geomuseum",
   "telephone": "+1 (864) 656-4600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404500084",

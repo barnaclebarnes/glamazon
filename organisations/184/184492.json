@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184492
   },
-  "name": "North Otago Museum",
+  "name": [
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "North Otago Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:museum@waitaki.govt.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.northotagomuseum.co.nz",
   "telephone": "64 3 4330852",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon-Fri 10.30 am - 4.30 pm  weekends & public holidays 1.00pm - 4.30 pm.    \r\nClosed Good Friday & Christmas Day.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-ven 10:30-16:30 nei fine settimana e festivi 13-16:30.    \nChiuso venerdì santo & giorno di Natale.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周一至周五 10:30 上午-4:30 下午周末及公众假期 1 下午-4:30 下午。   \n封闭的受难 &圣诞节这一天。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes de 10:30-16:30 los fines de semana y festivos 13:00-16:30.    \nCerrado Viernes Santo y día de Navidad.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sex 10:30-16:30 nos fins de semana e feriados 13:00-16:30.    \nFechada sexta-feira e dia de Natal.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月-金 10:30-16:30 週末・祝日 13-16:30。   \n閉じたグッドフラ イデー ・ クリスマスの日。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Пн-Пт 10: 30 утра - 4: 30 вечера выходные &праздники 1: 00 вечера - 4: 30 вечера.    \nЗакрытые Страстная пятница &Рождество.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Fr 10:30-16:30 Wochenenden & Feiertage 13:00-16:30.    \nGeschlossene Karfreitag & Weihnachtstag.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun-ven 10:30-16:30 week-ends & fériés 13:00-16:30.    \nFermé vendredi Saint & le jour de Noël.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Jumaat 10.30 pagi - 4.30 petang hujung minggu & cuti umum 1.00 petang - 4.30 petang.    \nTertutup Good Friday & hari Krismas.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Fr 10:30-16:30 Wochenenden & Feiertage 13:00-16:30.    \nGeschlossene Karfreitag & Weihnachtstag.",
   "offers": {
     "@Type": "Offer",
-    "description": "Free admission"
+    "description": [
+      {
+        "@value": "Free admission",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184492",
+    "url": "http://www.museums.io/en/museums/184492",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

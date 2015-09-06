@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157408
   },
-  "name": "GREAT SMOKEY MOUNTAIN HERITAGE CENTER",
+  "name": [
+    {
+      "@value": "GREAT SMOKEY MOUNTAIN HERITAGE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "123 CROMWELL DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gsmheritagecenter.org",
   "telephone": "+1 (865) 448-0044",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404700079",

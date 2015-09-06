@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132955
   },
-  "name": "BYERS-EVANS HOUSE",
+  "name": [
+    {
+      "@value": "BYERS-EVANS HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1310 BANNOCK ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.historycolorado.org/museums/byers-evans-house-museum",
   "telephone": "+1 (303) 620-4933",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800131",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183698
   },
-  "name": "Teichmühle Steinwiesen",
+  "name": [
+    {
+      "@value": "Teichmühle Steinwiesen",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Teichmühle 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://teichmuehle-steinwiesen.byseum.de/",
   "telephone": "09261 91912",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183139
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bouttevillestraße 23",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mering.de/tabellen/showtable.php?lang=de&tabellenid=22&menuid=78",
   "telephone": "08233/600180",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

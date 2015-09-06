@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157144
   },
-  "name": "LANTIS ENTERPRISES",
+  "name": [
+    {
+      "@value": "LANTIS ENTERPRISES",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4755 E COLORADO BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lantisnet.com",
   "telephone": "+1 (605) 642-7736",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404600029",

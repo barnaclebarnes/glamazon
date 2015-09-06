@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185582
   },
-  "name": "Museo del capriolo",
+  "name": [
+    {
+      "@value": "Museo del capriolo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Roma",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.montagnagrande.it ",
   "telephone": "+39 ",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Tutto l'anno domenica 10-13.00 e 15-18.00 estivo dal 21 luglio al 21 agosto aperto tutti i giorni",
-  "offers": {
-    "@Type": "Offer",
-    "description": "Gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/8pvf8CAC8xGWnnG0hDLJH7xPphQ=/1000x1000/museums/logos/000/185/582/original/89befcebf399ef5783355b8f4940d9c010877593.JPG"

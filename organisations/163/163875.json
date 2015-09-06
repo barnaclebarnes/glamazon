@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163875
   },
-  "name": "Footscray Community Arts Centre",
+  "name": [
+    {
+      "@value": "Footscray Community Arts Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://footscrayarts.com/",
   "telephone": "03 9362 8888",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Office Hours:\r\nTuesday - Sunday\r\n9:30 - 5:00",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Office Hours:\r\nTuesday - Sunday\r\n9:30 - 5:00",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "footscray-community-arts-centre",

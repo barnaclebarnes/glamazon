@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183448
   },
-  "name": "Kunstverein Augsburg e.V.",
+  "name": [
+    {
+      "@value": "Kunstverein Augsburg e.V.",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Vorderer Lech 20",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kunstverein-augsburg.de",
   "telephone": "0821/2413939",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

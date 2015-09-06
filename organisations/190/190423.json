@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190423
   },
-  "name": "LYNCHBURG NATURE CENTER",
+  "name": [
+    {
+      "@value": "LYNCHBURG NATURE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1076 KANAWHA LANE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lynchburgnaturecenter.org",
   "telephone": "+1 (434) 485-0025",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405101065",

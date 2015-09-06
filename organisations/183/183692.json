@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183692
   },
-  "name": "Museum Starnberger See",
+  "name": [
+    {
+      "@value": "Museum Starnberger See",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Possenhofener Straße 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-starnberger-see.de",
   "telephone": "08151/447757-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

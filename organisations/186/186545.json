@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186545
   },
-  "name": "Museo centrale del Risorgimento di Roma",
+  "name": [
+    {
+      "@value": "Museo centrale del Risorgimento di Roma",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Venezia",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.risorgimento.it",
   "telephone": "+39 066793598",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutti i giorni 9.30-18-30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/my1nKehYx6RZ3_uiFx8UY4KiYUA=/1000x1000/museums/logos/000/186/545/original/44c057f1f9ad5860bb3f7d679206a6d1796c37.jpg"

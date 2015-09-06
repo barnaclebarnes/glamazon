@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182706
   },
-  "name": "Botanischer Garten der Universität Erlangen-Nürnberg",
+  "name": [
+    {
+      "@value": "Botanischer Garten der Universität Erlangen-Nürnberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Loschgestraße 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.botanischer-garten.uni-erlangen.de",
   "telephone": "09131/8522-969",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

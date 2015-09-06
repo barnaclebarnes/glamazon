@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160103
   },
-  "name": "UTAH HUMANITIES COUNCIL",
+  "name": [
+    {
+      "@value": "UTAH HUMANITIES COUNCIL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "202 W 300 N",
@@ -22,9 +27,6 @@
     "longitude": -111.897
   },
   "telephone": "+1 (801) 359-9670",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900169",

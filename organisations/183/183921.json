@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183921
   },
-  "name": "John-Bauer-Museum",
+  "name": [
+    {
+      "@value": "John-Bauer-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchplatz 1",
@@ -22,9 +27,6 @@
     "longitude": 10.1328
   },
   "telephone": "09725/710118",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

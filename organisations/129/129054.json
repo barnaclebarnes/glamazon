@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129054
   },
-  "name": "ANCHORAGE MUSEUM",
+  "name": [
+    {
+      "@value": "ANCHORAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "121 WEST SEVENTH AVENUE",
@@ -22,9 +27,6 @@
     "longitude": -149.884
   },
   "url": "http://www.anchoragemuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400200125",

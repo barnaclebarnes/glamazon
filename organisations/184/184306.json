@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184306
   },
-  "name": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+  "name": [
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Sarjeant Gallery / Te Whare o Rehua / Whanganui",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@sarjeant.queenspark.org.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.sarjeant.org.nz",
   "telephone": "06 349 0506",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday to Sunday; 10.30am to 4.30pm\r\nPublic Holidays; 1.00pm to 4.30pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Dal lunedì alla domenica; 10:30 a 16:30 nei giorni festivi; 13 a 16:30",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一至星期日;10:30 上午到 4:30 下午的公众假期;1 下午到 4:30 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes al domingo; Festivos 10:30 a 16:30; 13:00 a 16:30",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Segunda a domingo; Feriados de 10:30 a 16:30; 13:00 a 16:30",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月曜日から日曜日まで10:30 に 16:30 祝日;13 に 16:30",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "С понедельника по воскресенье; 10: 30 утра до 4: 30 вечера государственные праздники; 1: 00 вечера до 4: 30 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Montag bis Sonntag; Feiertagen von 10:30 bis 16:30; 13:00 bis 16:30",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lundi au dimanche ; 10:30 à 16:30 les jours fériés ; 13:00 à 16:30",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin hingga Ahad; Cuti umum pukul 9.30 pagi untuk 4.30 petang; 3.00 ptg ke 4.30 ptg",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Montag bis Sonntag; Feiertagen von 10:30 bis 16:30; 13:00 bis 16:30",
   "offers": {
     "@Type": "Offer",
-    "description": "Admission is free, donations are encouraged."
+    "description": [
+      {
+        "@value": "Admission is free, donations are encouraged.",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184306",
+    "url": "http://www.museums.io/en/museums/184306",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

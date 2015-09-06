@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140775
   },
-  "name": "LAFAYETTE NATURAL HISTORY MUSEUM",
+  "name": [
+    {
+      "@value": "LAFAYETTE NATURAL HISTORY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "637 GIRARD PARK DRIVE",
@@ -22,9 +27,6 @@
     "longitude": -92.0182
   },
   "telephone": "+1 (337) 291-5544",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200057",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163890
   },
-  "name": "Geelong Botanic Gardens",
+  "name": [
+    {
+      "@value": "Geelong Botanic Gardens",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 144.374
   },
   "url": "http://www.geelongaustralia.com.au/gbg/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "geelong-botanic-gardens",

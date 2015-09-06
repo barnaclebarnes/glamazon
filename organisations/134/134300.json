@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134300
   },
-  "name": "SHOOK MUSEUM FOUNDATION",
+  "name": [
+    {
+      "@value": "SHOOK MUSEUM FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "802 MASSACHUSETTS AVE NE",
@@ -22,9 +27,6 @@
     "longitude": -76.9946
   },
   "url": "http://shookmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100081",

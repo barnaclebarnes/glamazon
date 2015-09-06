@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136129
   },
-  "name": "CENTER FOR PUPPETRY ARTS",
+  "name": [
+    {
+      "@value": "CENTER FOR PUPPETRY ARTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1404 SPRING STREET NW",
@@ -22,9 +27,6 @@
     "longitude": -84.3892
   },
   "url": "http://www.puppet.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401300400",

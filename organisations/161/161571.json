@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161571
   },
-  "name": "SEATTLE PINBALL MUSEUM",
+  "name": [
+    {
+      "@value": "SEATTLE PINBALL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "508 MAYNARD AVE S",
@@ -23,9 +28,6 @@
   },
   "url": "http://seattlepinballmuseum.com",
   "telephone": "+1 (206) 623-0759",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300020",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132053
   },
-  "name": "LATINO ART MUSEUM",
+  "name": [
+    {
+      "@value": "LATINO ART MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "281 S THOMAS ST STE 105",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lamoa.net",
   "telephone": "+1 (909) 620-6009",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602179",

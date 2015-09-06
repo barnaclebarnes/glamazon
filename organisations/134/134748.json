@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134748
   },
-  "name": "TAMPA BAY AQUARIUM SOCIETY",
+  "name": [
+    {
+      "@value": "TAMPA BAY AQUARIUM SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 27044",
@@ -22,9 +27,6 @@
     "longitude": -82.3205
   },
   "url": "http://tbas1.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200302",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183539
   },
-  "name": "Museum im fressenden Haus Burgkasten Weißenstein",
+  "name": [
+    {
+      "@value": "Museum im fressenden Haus Burgkasten Weißenstein",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Weißenstein 16",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.burgverein-weissenstein.de/",
   "telephone": "09921/604-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

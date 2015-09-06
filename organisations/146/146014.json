@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146014
   },
-  "name": "AMERICAN KENNEL CLUB MUSEUM OF THE DOG",
+  "name": [
+    {
+      "@value": "AMERICAN KENNEL CLUB MUSEUM OF THE DOG",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1721 S MASON RD",
@@ -22,9 +27,6 @@
     "longitude": -90.4854
   },
   "url": "http://www.museumofthedog.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900443",

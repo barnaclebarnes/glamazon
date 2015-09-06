@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149429
   },
-  "name": "HECKSCHER MUSEUM",
+  "name": [
+    {
+      "@value": "HECKSCHER MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2 PRIME AVE",
@@ -22,9 +27,6 @@
     "longitude": -73.4224
   },
   "url": "http://www.heckscher.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600723",

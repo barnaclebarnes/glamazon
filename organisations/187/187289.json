@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187289
   },
-  "name": "Museo dell’arte ceramica",
+  "name": [
+    {
+      "@value": "Museo dell’arte ceramica",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza San Tommaso, 11",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.ascolimusei.it/museo-arte-ceramica.html",
   "telephone": "+39 0736240290",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Tutti i giorni dalle 10.00 alle 19.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 8.00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/fFKRqwjuB70eR-Hia4mqs9ETE-8=/1000x1000/museums/logos/000/187/289/original/7bba45c9ddebcaebe1f9d419ce8d781cdc11f2.jpg"

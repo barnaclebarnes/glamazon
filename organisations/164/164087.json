@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164087
   },
-  "name": "Mission to Seafarers Victoria",
+  "name": [
+    {
+      "@value": "Mission to Seafarers Victoria",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.missiontoseafarers.com.au",
   "telephone": "96297083",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9am-10pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "9am-10pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "mission-to-seafarers-victoria",

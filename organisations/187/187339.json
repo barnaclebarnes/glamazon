@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187339
   },
-  "name": "Polo culturale San Francesco",
+  "name": [
+    {
+      "@value": "Polo culturale San Francesco",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Pagani, 13",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museipiceni.it",
   "telephone": "+39 0734259980",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Inverno: sabato e domenica 10-12, 15-17. Luglio-agosto: da martedì a domenica e festivi 10-12, 17-19.",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 2.50"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/X37jNYN3LQPTZQLNPYXgmh7RcRs=/1000x1000/museums/logos/000/187/339/original/fbae4b9ef711a9efe8a73de59c196df26dd85290.jpg"

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184262
   },
-  "name": "New Zealand Police Museum",
+  "name": [
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "New Zealand Police Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:museum@police.govt.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.police.govt.nz/museum",
   "telephone": "04  238 3141",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday - Sunday, 10am-5pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lunedì - domenica, 10-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一至星期日，10 上午-5 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes - el domingo, de 10:00-17:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Segunda-feira - domingo, 10:00-17:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月曜日 - 日曜日、10-17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Понедельник - воскресенье, 10 утра - 5 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Montag - Sonntag, 10:00-17:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lundi - dimanche, 10:00-17:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin - Ahad, 10pg -5ptg",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Montag - Sonntag, 10:00-17:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Free general admission. Tours and Education Programmes."
+    "description": [
+      {
+        "@value": "Free general admission. Tours and Education Programmes.",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184262",
+    "url": "http://www.museums.io/en/museums/184262",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

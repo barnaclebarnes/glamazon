@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151133
   },
-  "name": "UNIVERSITY OF NORTH CAROLINA HERBARIUM",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF NORTH CAROLINA HERBARIUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
@@ -22,9 +27,6 @@
     "longitude": -79.051
   },
   "telephone": "+1 (919) 962-0522",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700004",

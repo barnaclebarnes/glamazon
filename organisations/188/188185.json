@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188185
   },
-  "name": "Natural History Museum of Salento",
+  "name": [
+    {
+      "@value": "Natural History Museum of Salento",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo di storia naturale del Salento",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Europa 95 , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museocalimera.it",
   "telephone": "+39 0832875301",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/-zFCmbyzFSYd5WMHa53mm8SFZAw=/1000x1000/museums/logos/000/188/185/original/6f3c83204c9563bd546c22c39b5e915193f73cc5.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163857
   },
-  "name": "Ellis Cottage",
+  "name": [
+    {
+      "@value": "Ellis Cottage",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -37.6711,
     "longitude": 145.175
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ellis-cottage",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184321
   },
-  "name": "The Physics Room",
+  "name": [
+    {
+      "@value": "The Physics Room",
+      "@langauge": "en"
+    },
+    {
+      "@value": "The Physics Room",
+      "@langauge": "it"
+    },
+    {
+      "@value": "The Physics Room",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "The Physics Room",
+      "@langauge": "es"
+    },
+    {
+      "@value": "The Physics Room",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "The Physics Room",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "The Physics Room",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "The Physics Room",
+      "@langauge": "de"
+    },
+    {
+      "@value": "The Physics Room",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "The Physics Room",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:physicsroom@physicsroom.org.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.physicsroom.org.nz",
   "telephone": "03 379 5583",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday - Friday 10am-5pm; Saturday 10am-3pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Martedì - venerdì 10-17; Sabato 10-15",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周二至周五 10 上午-5 下午;星期六 10 上午-3 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Martes - el viernes 10:00-17:00; Sábado 10:00-15:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Terça-feira - sexta-feira 10:00-17:00; Sábado 10:00-15:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "火曜日 - 金曜日 10-17;土曜 10-15",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Вторник - Пятница 10 утра - 5 вечера; Суббота 10 утра - 3 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Dienstag - Freitag 10:00-17:00; Samstag 10:00-15:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mardi - vendredi 10:00-17:00 ; Samedi 10:00-15:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Selasa - Jumaat 10 am - 5 pm; Sabtu 10 am - 3 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Dienstag - Freitag 10:00-17:00; Samstag 10:00-15:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184321",
+    "url": "http://www.museums.io/en/museums/184321",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

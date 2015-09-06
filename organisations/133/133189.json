@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133189
   },
-  "name": "DENVER ART MUSEUM FOUNDATION",
+  "name": [
+    {
+      "@value": "DENVER ART MUSEUM FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 W 14TH AVE PKWY",
@@ -21,9 +26,6 @@
     "latitude": 39.7378,
     "longitude": -104.989
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800365",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153158
   },
-  "name": "JOHN PAULDING HISTORICAL SOCIETY INC",
+  "name": [
+    {
+      "@value": "JOHN PAULDING HISTORICAL SOCIETY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 93",
@@ -22,9 +27,6 @@
     "longitude": -84.5801
   },
   "url": "http://www.johnpauldinghistoricalsociety.or",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900936",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159802
   },
-  "name": "MOODY GARDENS",
+  "name": [
+    {
+      "@value": "MOODY GARDENS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 HOPE BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.moodygardens.com/?",
   "telephone": "+1 (409) 744-4673",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801902",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149583
   },
-  "name": "MUSEUM OF ARTS AND DESIGN",
+  "name": [
+    {
+      "@value": "MUSEUM OF ARTS AND DESIGN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "40 W 53RD ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.madmuseum.org",
   "telephone": "+1 (212) 956-3535",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600877",

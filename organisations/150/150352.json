@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150352
   },
-  "name": "THEATER MUSEUM",
+  "name": [
+    {
+      "@value": "THEATER MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "40 WORTH ST RM 824",
@@ -21,9 +26,6 @@
     "latitude": 40.7173,
     "longitude": -74.0067
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601646",

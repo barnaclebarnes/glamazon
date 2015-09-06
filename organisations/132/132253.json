@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132253
   },
-  "name": "VACAVILLE HERITAGE COUNCIL",
+  "name": [
+    {
+      "@value": "VACAVILLE HERITAGE COUNCIL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "618 EAST MAIN STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.vacavilleheritagecouncil.org",
   "telephone": "+1 (707) 447-0518",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602379",

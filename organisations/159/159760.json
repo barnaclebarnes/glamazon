@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159760
   },
-  "name": "PEROT MUSEUM OF NATURE AND SCIENCE",
+  "name": [
+    {
+      "@value": "PEROT MUSEUM OF NATURE AND SCIENCE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2201 N FIELD ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.perotmuseum.org",
   "telephone": "+1 (214) 428-5555",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801860",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158113
   },
-  "name": "HOUSTON POLICE ACADEMY",
+  "name": [
+    {
+      "@value": "HOUSTON POLICE ACADEMY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "17000 ALDINE WESTFIELD RD",
@@ -22,9 +27,6 @@
     "longitude": -95.3641
   },
   "telephone": "+1 (281) 230-2300",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800213",

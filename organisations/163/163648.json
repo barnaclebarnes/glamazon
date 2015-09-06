@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163648
   },
-  "name": "Australian Gliding Museum",
+  "name": [
+    {
+      "@value": "Australian Gliding Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.australianglidingmuseum.org.au",
   "telephone": "03 9802 1098",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment – contact President David Goldsmith 03 5428 3358 or Secretary Graeme Barton 03 9802 1098",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment – contact President David Goldsmith 03 5428 3358 or Secretary Graeme Barton 03 9802 1098",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "australian-gliding-museum",

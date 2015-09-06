@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148907
   },
-  "name": "MUSEUM OF AMERICAN GANGSTER",
+  "name": [
+    {
+      "@value": "MUSEUM OF AMERICAN GANGSTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "80 SAINT MARKS PL",
@@ -23,9 +28,6 @@
   },
   "url": "http://museumoftheamericangangster.org",
   "telephone": "+1 (212) 228-5736",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600201",

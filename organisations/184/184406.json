@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184406
   },
-  "name": "Taupo Museum",
+  "name": [
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Taupo Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:taupomuseum@taupo.govt.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.taupo.govt.nz/museum",
   "telephone": "64-7-3760414",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 10.00am-4.30pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Giornalmente 10.00 am-4.30 pm",
+      "@langauge": "it"
+    },
+    {
+      "@value": "上午每日 10.00-4.30 pm",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diariamente 10.00 am-4.30 pm",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diariamente 10: 00-4: 30 pm",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "毎日 10.00 午前-4.30 pm",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 10.00-4.30 pm",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 10.00-16.30 Uhr",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 10 : 00-16 h 30 pm",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 10.00 pagi-4.30 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 10.00-16.30 Uhr",
   "offers": {
     "@Type": "Offer",
-    "description": "$5 Adults; $3 Seniors and Students\r\nFree to Children and Local Residents"
+    "description": [
+      {
+        "@value": "$5 Adults; $3 Seniors and Students\r\nFree to Children and Local Residents",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184406",
+    "url": "http://www.museums.io/en/museums/184406",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188180
   },
-  "name": "The Civic Museum of Troia",
+  "name": [
+    {
+      "@value": "The Civic Museum of Troia",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico Troia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Regina Margherita, 72-, 84",
@@ -21,9 +30,6 @@
     "longitude": 15.3103
   },
   "telephone": "+39 0881978420",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/PAAdcvM6QUceH3qVzAOHz9GMPck=/1000x1000/museums/logos/000/188/180/original/8bc0fb534a7894438e26d4782bfe8691cf58835.jpg"

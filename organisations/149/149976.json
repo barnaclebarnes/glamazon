@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149976
   },
-  "name": "CORNELL UNIVERSITY",
+  "name": [
+    {
+      "@value": "CORNELL UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "377 PINE TREE RD",
@@ -21,9 +26,6 @@
     "latitude": 42.438,
     "longitude": -76.4653
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601270",

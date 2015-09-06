@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153069
   },
-  "name": "OHIO ACADEMY OF SCIENCE",
+  "name": [
+    {
+      "@value": "OHIO ACADEMY OF SCIENCE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1500 W 3RD AVE STE 228",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ohiosci.org",
   "telephone": "+1 (614) 488-2228",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900846",

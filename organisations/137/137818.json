@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137818
   },
-  "name": "ARLINGTON HEIGHTS HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ARLINGTON HEIGHTS HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "110 W FREMONT ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ahmuseum.org",
   "telephone": "+1 (708) 255-1225",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700963",

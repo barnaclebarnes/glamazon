@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160681
   },
-  "name": "BROWNSBURG MUSEUM",
+  "name": [
+    {
+      "@value": "BROWNSBURG MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2716 BROWNSBURG TPKE",
@@ -22,9 +27,6 @@
     "longitude": -79.3086
   },
   "telephone": "+1 (540) 348-1600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100187",

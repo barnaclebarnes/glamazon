@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190413
   },
-  "name": "CAPITOL REEF NATIONAL PARK",
+  "name": [
+    {
+      "@value": "CAPITOL REEF NATIONAL PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "HC 70 BOX 15",
@@ -22,9 +27,6 @@
     "longitude": -111.548
   },
   "telephone": "+1 (435) 425-4141",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900272",

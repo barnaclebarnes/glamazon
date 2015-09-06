@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132678
   },
-  "name": "CALIFORNIA HISTORIC ROUTE 66 ASSOCIATION",
+  "name": [
+    {
+      "@value": "CALIFORNIA HISTORIC ROUTE 66 ASSOCIATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8816 FOOTHILL BLVD SUITE 103-66",
@@ -22,9 +27,6 @@
     "longitude": -117.613
   },
   "url": "http://www.route66ca.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602804",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183890
   },
-  "name": "Kunstschiff Arte Noah",
+  "name": [
+    {
+      "@value": "Kunstschiff Arte Noah",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": " Veitshöchheimer Straße 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kunstverein-wuerzburg.de",
   "telephone": "0171/5454325",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

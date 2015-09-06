@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149732
   },
-  "name": "NICHOLAS ROERICH MUSEUM",
+  "name": [
+    {
+      "@value": "NICHOLAS ROERICH MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "319 W 107TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.roerich.org",
   "telephone": "+1 (212) 864-7752",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601026",

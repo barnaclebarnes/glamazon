@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188111
   },
-  "name": "The Public Museum of San Ferdinando of Puglia",
+  "name": [
+    {
+      "@value": "The Public Museum of San Ferdinando of Puglia",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico San Ferdinando di Puglia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Giovanni Paolo II 11 , ",
@@ -16,9 +25,6 @@
   },
   "url": "http://www.sanferdinandodipugliaweb.it",
   "telephone": "+39 (+39) 0883.621310",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/jqMPLvoQ4-_XUmdkRCwRGVvLMoQ=/1000x1000/museums/logos/000/188/111/original/4ab79cccfec86a8a0b38b4c85693ca54754be0.jpg"

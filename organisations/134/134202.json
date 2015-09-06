@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134202
   },
-  "name": "FORT DELAWARE STATE PARK",
+  "name": [
+    {
+      "@value": "FORT DELAWARE STATE PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 170",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.destateparks.org",
   "telephone": "+1 (302) 834-7941",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401000134",

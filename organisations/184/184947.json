@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184947
   },
-  "name": "Robben Island Museum",
+  "name": [
+    {
+      "@value": "Robben Island Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Leave from Nelson Mandela Gateway, V& A Waterfront, Cape Town",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "021 409 5149",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

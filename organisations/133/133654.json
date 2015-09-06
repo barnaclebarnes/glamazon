@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133654
   },
-  "name": "RIDGEFIELD LIBRARY",
+  "name": [
+    {
+      "@value": "RIDGEFIELD LIBRARY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "472 MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ridgefieldlibrary.org",
   "telephone": "+1 (203) 438-2282",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900129",

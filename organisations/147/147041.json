@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147041
   },
-  "name": "MADAME TUSSAUDS LAS VEGAS",
+  "name": [
+    {
+      "@value": "MADAME TUSSAUDS LAS VEGAS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3377 LAS VEGAS BLVD S",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mtvegas.com",
   "telephone": "+1 (702) 862-7800",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403200016",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163581
   },
-  "name": "CHEYENNE CHILDRENS MUSEUM",
+  "name": [
+    {
+      "@value": "CHEYENNE CHILDRENS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "515 E PERSHING",
@@ -22,9 +27,6 @@
     "longitude": -104.788
   },
   "url": "http://www.childrensmuseumofcheyenne.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405600161",

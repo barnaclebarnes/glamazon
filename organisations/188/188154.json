@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188154
   },
-  "name": "The Museum of Popular Religiosity of Foggia",
+  "name": [
+    {
+      "@value": "The Museum of Popular Religiosity of Foggia",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo della religiosità popolare di Foggia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Sant’Eligio c/o Cripta Chiesa delle Croci o del Monte Calvario , ",
@@ -21,9 +30,6 @@
     "longitude": 15.5446
   },
   "telephone": "+39 0881771823",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/SE1QnIaqB9NsT1PPNS-1vCYvkjk=/1000x1000/museums/logos/000/188/154/original/cb903fad35eded4a9b84dcfb339577451cc65af.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160248
   },
-  "name": "SHELBURNE MUSEUM INCORPORATED",
+  "name": [
+    {
+      "@value": "SHELBURNE MUSEUM INCORPORATED",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 10",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.shelburnemuseum.org",
   "telephone": "+1 (802) 985-3346",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405000054",

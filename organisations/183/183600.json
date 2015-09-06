@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183600
   },
-  "name": "Rottauer Museum für Fahrzeuge, Wehrtechnik und Zeitgeschichte",
+  "name": [
+    {
+      "@value": "Rottauer Museum für Fahrzeuge, Wehrtechnik und Zeitgeschichte",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rottau 11 a",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rottauer-museum.de/",
   "telephone": "08531/32900",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

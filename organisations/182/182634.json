@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182634
   },
-  "name": "Maskenmuseum",
+  "name": [
+    {
+      "@value": "Maskenmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Lindenstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.maskenmuseum.de",
   "telephone": "08238/60245",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

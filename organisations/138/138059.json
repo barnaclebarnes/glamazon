@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138059
   },
-  "name": "UNIVERSITY OF ILLINOIS AT CHICAGO",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF ILLINOIS AT CHICAGO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1305 W GREEN ST",
@@ -22,9 +27,6 @@
     "longitude": -88.2267
   },
   "telephone": "+1 (312) 355-4850",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401701204",

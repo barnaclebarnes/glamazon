@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189747
   },
-  "name": "BISCAYNE NATIONAL PARK",
+  "name": [
+    {
+      "@value": "BISCAYNE NATIONAL PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9700 SW 328TH ST.",
@@ -22,9 +27,6 @@
     "longitude": -80.3388
   },
   "telephone": "+1 (305) 230-1144",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201310",

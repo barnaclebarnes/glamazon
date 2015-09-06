@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140765
   },
-  "name": "MELROSE PLANTATION",
+  "name": [
+    {
+      "@value": "MELROSE PLANTATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3533 HWY. 119",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.melroseplantation.org",
   "telephone": "+1 (318) 379-0055",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200047",

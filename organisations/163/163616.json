@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163616
   },
-  "name": "Allansford Cheese World Museum",
+  "name": [
+    {
+      "@value": "Allansford Cheese World Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.cheeseworld.com.au/cheese-world-museum.htm",
   "telephone": "03 5565 3190",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "8.30am - 5.00pm Monday to Friday",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "8.30am - 5.00pm Monday to Friday",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "cheeseworld-museum",

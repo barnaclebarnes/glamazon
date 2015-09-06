@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129545
   },
-  "name": "ARIZONA STATE UNIVERSITY",
+  "name": [
+    {
+      "@value": "ARIZONA STATE UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "411 NORTH CENTRAL AVENUE",
@@ -22,9 +27,6 @@
     "longitude": -112.07
   },
   "telephone": "+1 (1104) 548-7083",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400447",

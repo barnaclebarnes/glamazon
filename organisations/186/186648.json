@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186648
   },
-  "name": "Museo delle confraternite",
+  "name": [
+    {
+      "@value": "Museo delle confraternite",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza del Popolo, SNC",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museodelleconfraternite.it/cms/",
   "telephone": "+39 0761 403180",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ZB5Zl71jr3zDOZRGkc5VpDJgIZ0=/1000x1000/museums/logos/000/186/648/original/fce67663ba6fd41e4e7628581e358d33b62db.JPG"

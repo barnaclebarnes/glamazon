@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160687
   },
-  "name": "ARLINGTON HOUSE",
+  "name": [
+    {
+      "@value": "ARLINGTON HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "321 SHERMAN DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nps.gov/arho",
   "telephone": "+1 (703) 235-1530",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100193",

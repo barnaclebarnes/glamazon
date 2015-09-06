@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164337
   },
-  "name": "Surrey Hills Neighbourhood Centre Heritage Collection",
+  "name": [
+    {
+      "@value": "Surrey Hills Neighbourhood Centre Heritage Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.surreyhillsnc.org.au",
   "telephone": "9890 2467",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mondays (during school terms), 10am-4pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Mondays (during school terms), 10am-4pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "surrey-hills-neighbourhood-centre-heritage-collection",

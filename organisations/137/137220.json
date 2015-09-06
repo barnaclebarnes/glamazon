@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137220
   },
-  "name": "SOUTH HOLLAND HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "SOUTH HOLLAND HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "474 E 163RD STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.southholland.org/",
   "telephone": "+1 (708) 474-6300",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700365",

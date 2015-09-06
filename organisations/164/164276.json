@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164276
   },
-  "name": "Sacred Heart College",
+  "name": [
+    {
+      "@value": "Sacred Heart College",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.shcgeelong.catholic.edu.au/AboutUs-archives",
   "telephone": "03) 52221 4211",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9am - 4pm, Contact the College Archivist            03) 52221 4211",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "9am - 4pm, Contact the College Archivist            03) 52221 4211",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "sacred-heart-college",

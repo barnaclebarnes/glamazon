@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154258
   },
-  "name": "MILWAUKIE MUSEUM",
+  "name": [
+    {
+      "@value": "MILWAUKIE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3737 SE ADAMS ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://milwaukiemuseum.tripod.com",
   "telephone": "+1 (503) 659-5780",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100051",

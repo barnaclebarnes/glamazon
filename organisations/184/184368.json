@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184368
   },
-  "name": "National Transport & Toy Museum",
+  "name": [
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "National Transport & Toy Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:wanakamuseum@xtra.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.nttmuseumwanaka.co.nz",
   "telephone": "64 3 443 8765",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "open 7 days 8.30am - 5pm \r\nExtended hours during summer.  \r\nClosed Christmas day.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "aperto 12 ore estesa durante l'estate.  \nGiorno di Natale chiuso.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "在夏季开放 12 下午扩展小时。 \n封闭的圣诞节那天。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "abierto 12:00 horas extendido durante el verano.  \nCerrado día de Navidad.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "aberto 12:00 horas de estendido durante o verão.  \nFechado no dia de Natal.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "夏の間に開いている 12 拡張時間。 \n閉じたクリスマスの日。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "открыт 7 дней 8: 30 утра - 5 вечера расширенной часов в летнее время.  \nЗакрытые день Рождества.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "geöffnet 12:00 Extended Stunden im Sommer.  \nWeihnachtstag geschlossen.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "ouvert 12:00 heures d'élargie pendant l'été.  \nFermé le jour de Noël.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Buka 7 hari 8.30 pagi - 5 petang dilanjutkan jam semasa musim panas.  \nHari Krismas tertutup.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "geöffnet 12:00 Extended Stunden im Sommer.  \nWeihnachtstag geschlossen.",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult $12.00 \r\nChild (school age) $5.00 \r\nUnder 5 free\r\nFamily (2 Adults and up to 5 children) $30.00 Discount for large groups"
+    "description": [
+      {
+        "@value": "Adult $12.00 \r\nChild (school age) $5.00 \r\nUnder 5 free\r\nFamily (2 Adults and up to 5 children) $30.00 Discount for large groups",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184368",
+    "url": "http://www.museums.io/en/museums/184368",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

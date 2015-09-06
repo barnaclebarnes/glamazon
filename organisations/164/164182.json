@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164182
   },
-  "name": "Ouyen District History & Genealogy Centre",
+  "name": [
+    {
+      "@value": "Ouyen District History & Genealogy Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://ouyen.vic.au/history",
   "telephone": "50941331",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open each Friday 9:30am - 4:00 pm or by appointment, closed January",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open each Friday 9:30am - 4:00 pm or by appointment, closed January",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ouyen-district-history-genealogy-centre",

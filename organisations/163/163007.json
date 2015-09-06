@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163007
   },
-  "name": "VERNON COUNTY MUSEUM",
+  "name": [
+    {
+      "@value": "VERNON COUNTY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 444",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.vernoncountyhistory.org",
   "telephone": "+1 (608) 637-7396",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405500456",

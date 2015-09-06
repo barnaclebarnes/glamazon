@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143546
   },
-  "name": "MICHIGAN STATE UNIV MUSEUM",
+  "name": [
+    {
+      "@value": "MICHIGAN STATE UNIV MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "W CIRCLE DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum.msu.edu/generalinformation/museumstore",
   "telephone": "+1 (517) 355-7474",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600083",

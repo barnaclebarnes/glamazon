@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164406
   },
-  "name": "University of Melbourne Art Collection, (managed by the Ian Potter Museum of Art)",
+  "name": [
+    {
+      "@value": "University of Melbourne Art Collection, (managed by the Ian Potter Museum of Art)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.art-museum.unimelb.edu.au/",
   "telephone": "8344 7933",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "M-F 10am - 5pm Sat and Sun 12 noon - 5pm ",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "M-F 10am - 5pm Sat and Sun 12 noon - 5pm ",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ian-potter-museum-art",

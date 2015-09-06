@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185143
   },
-  "name": "Museum of Jakobstad, The Cottage of Mother Westman",
+  "name": [
+    {
+      "@value": "Museum of Jakobstad, The Cottage of Mother Westman",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 22.7018
   },
   "url": "http://www.pietarsaari.fi/html/292.shtml",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

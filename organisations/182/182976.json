@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182976
   },
-  "name": "Stadtmuseum Kaufbeuren",
+  "name": [
+    {
+      "@value": "Stadtmuseum Kaufbeuren",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kaisergäßchen 14",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stadtmuseum-kaufbeuren.de",
   "telephone": "08341/9668390",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

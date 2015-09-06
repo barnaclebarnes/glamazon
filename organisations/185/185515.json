@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185515
   },
-  "name": "Karvia Museum",
+  "name": [
+    {
+      "@value": "Karvia Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 22.5599
   },
   "url": "http://www.karvia.fi/index.php?sivu=1/21/30/99",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129612
   },
-  "name": "ARKANSAS POST MUSEUM",
+  "name": [
+    {
+      "@value": "ARKANSAS POST MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5530 HIGHWAY 165 S",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.arkansasstateparks.com",
   "telephone": "+1 (870) 548-2634",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400500048",

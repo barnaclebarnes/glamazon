@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130529
   },
-  "name": "INTERNATIONAL MUSEUM THEATRE ALLIANCE INC",
+  "name": [
+    {
+      "@value": "INTERNATIONAL MUSEUM THEATRE ALLIANCE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "886 CANNERY ROW",
@@ -22,9 +27,6 @@
     "longitude": -85.39
   },
   "url": "http://www.imtal.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600655",

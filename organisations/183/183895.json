@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183895
   },
-  "name": "Museum im Kulturspeicher Würzburg",
+  "name": [
+    {
+      "@value": "Museum im Kulturspeicher Würzburg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Oskar-Laredo-Platz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kulturspeicher.de",
   "telephone": "0931/32225-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

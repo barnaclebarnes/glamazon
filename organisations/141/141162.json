@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141162
   },
-  "name": "WADSWORTH-LONGFELLOW HOUSE",
+  "name": [
+    {
+      "@value": "WADSWORTH-LONGFELLOW HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "489 CONGRESS ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hwlongfellow.org/house_wlh_overview.shtml",
   "telephone": "+1 (207) 774-1822",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402300011",

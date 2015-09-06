@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163821
   },
-  "name": "Darebin Parklands Association",
+  "name": [
+    {
+      "@value": "Darebin Parklands Association",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 145.029
   },
   "url": "http://www.dpa.org.au/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "darebin-parklands-association",

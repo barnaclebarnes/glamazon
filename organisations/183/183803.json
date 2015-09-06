@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183803
   },
-  "name": "Färbermuseum",
+  "name": [
+    {
+      "@value": "Färbermuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Pleysteiner Straße 5",
@@ -22,9 +27,6 @@
     "longitude": 12.3424
   },
   "telephone": "0941/40839",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

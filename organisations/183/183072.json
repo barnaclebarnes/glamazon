@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183072
   },
-  "name": "Stadtresidenz Landshut",
+  "name": [
+    {
+      "@value": "Stadtresidenz Landshut",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Altstadt 79",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/la_res.htm",
   "telephone": "0871/9659490",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

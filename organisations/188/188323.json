@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188323
   },
-  "name": "Collezione Forteleoni",
+  "name": [
+    {
+      "@value": "Collezione Forteleoni",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Carlo Alberto, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.forteleoni.it",
   "telephone": "+39 079 647547",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su appuntamento",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Zklo19dMmHk2grs7plOIYv6KDNs=/1000x1000/museums/logos/000/188/323/original/fc5b3663d6b0398942d8ea65cbac25f0a584f2e0.JPG"

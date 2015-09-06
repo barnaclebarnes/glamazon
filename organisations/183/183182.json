@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183182
   },
-  "name": "Fugger und Welser Erlebnismuseum",
+  "name": [
+    {
+      "@value": "Fugger und Welser Erlebnismuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Äußeres Pfaffengäßchen 23",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fugger-und-welser-museum.de",
   "telephone": "0821-45097821",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

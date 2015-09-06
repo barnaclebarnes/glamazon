@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150189
   },
-  "name": "TOWN OF WATERTOWN HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "TOWN OF WATERTOWN HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "22867 COUNTY ROUTE 67",
@@ -21,9 +26,6 @@
     "latitude": 43.9417,
     "longitude": -75.9136
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601483",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188497
   },
-  "name": "Museo archeologico di Lentini",
+  "name": [
+    {
+      "@value": "Museo archeologico di Lentini",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via del Museo, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.prolococarlentini.it",
   "telephone": "+39 095902383",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9.00/18.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/zNqVEfanc-b4urQ0uq9XZaxvokM=/1000x1000/museums/logos/000/188/497/original/104690588d2b8098e83b5d86ec64ae2f3362dd.jpg"

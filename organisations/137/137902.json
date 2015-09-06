@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137902
   },
-  "name": "MUSEUM ASSOCIATION OF DOUGLAS COUNTY",
+  "name": [
+    {
+      "@value": "MUSEUM ASSOCIATION OF DOUGLAS COUNTY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "700 S MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.douglascountymuseum.org/",
   "telephone": "+1 (217) 253-2535",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401701047",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187372
   },
-  "name": "Museo della storia postale dei Monti Azzurri",
+  "name": [
+    {
+      "@value": "Museo della storia postale dei Monti Azzurri",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza San Francesco, 2",
@@ -21,14 +26,6 @@
     "longitude": 13.4156
   },
   "telephone": "+39 0733509112 - 3493184586",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Mf6-RMx-YqT0vGonAh_dpL0pISU=/1000x1000/museums/logos/000/187/372/original/2e6f2084d2eceba138e947eb7f16a4734ec446.jpg"

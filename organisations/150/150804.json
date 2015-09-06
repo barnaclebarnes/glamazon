@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150804
   },
-  "name": "HONEOYE-RICHMOND HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "HONEOYE-RICHMOND HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8690 MAIN STREET",
@@ -22,9 +27,6 @@
     "longitude": -77.5118
   },
   "url": "http://www.honeoyelakechamber.org/history.html",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602098",

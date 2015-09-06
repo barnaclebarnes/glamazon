@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185593
   },
-  "name": "Museo della cultura della memoria di Fontecchio",
+  "name": [
+    {
+      "@value": "Museo della cultura della memoria di Fontecchio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza del Popolo",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.comune.fontecchio.aq.it/",
   "telephone": "+39 0862 85131",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "110922",

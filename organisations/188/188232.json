@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188232
   },
-  "name": "Museo archeologico nazionale di Taranto",
+  "name": [
+    {
+      "@value": "Museo archeologico nazionale di Taranto",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Cavour, 10",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museotaranto.org",
   "telephone": "+39 0994532112",
-  "contactPoint": [
-
-  ],
-  "openingHours": "08.30 - 19.30 (chiuso il 1 gennaio, 1 maggio, 25 dicembre) Chiusura biglietteria ore 19.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 5,00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/zaJBr-i-jJ84iu_ZJnZ1ewn9hBo=/1000x1000/museums/logos/000/188/232/original/311e94a553bf4b2e6a373815618319417e5a7783.jpg"

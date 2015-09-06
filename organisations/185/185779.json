@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185779
   },
-  "name": "Museo del peperoncino",
+  "name": [
+    {
+      "@value": "Museo del peperoncino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Duomo ",
@@ -21,9 +26,6 @@
     "longitude": 15.818
   },
   "telephone": "+39 0985 81130",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/-HChrnwKpdZGuyUv5ty868YRbMg=/1000x1000/museums/logos/000/185/779/original/8226724ff82c25758b92c4bdefc384ac3bebbe41.jpg"

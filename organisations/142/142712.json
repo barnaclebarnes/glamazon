@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142712
   },
-  "name": "USS CONSTITUTION MUSEUM INC",
+  "name": [
+    {
+      "@value": "USS CONSTITUTION MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 291812",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ussconstitutionmuseum.org",
   "telephone": "+1 (617) 426-1812",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500342",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129098
   },
-  "name": "DOROTHY PAGE MUSEUM",
+  "name": [
+    {
+      "@value": "DOROTHY PAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "323 N MAIN ST.",
@@ -22,9 +27,6 @@
     "longitude": -149.441
   },
   "telephone": "+1 (907) 373-9071",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400200169",

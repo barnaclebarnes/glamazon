@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146761
   },
-  "name": "DILLER OPERA HOUSE",
+  "name": [
+    {
+      "@value": "DILLER OPERA HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "509 LAVELLE ST",
@@ -22,9 +27,6 @@
     "longitude": -96.9365
   },
   "url": "http://diller-ne.com/diller-opera-house/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403100100",

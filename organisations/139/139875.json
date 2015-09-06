@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139875
   },
-  "name": "JOHN BROWN FOUNDATION",
+  "name": [
+    {
+      "@value": "JOHN BROWN FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "431 MAIN STREET",
@@ -21,9 +26,6 @@
     "latitude": 38.4994,
     "longitude": -94.9476
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000201",

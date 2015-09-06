@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150885
   },
-  "name": "WOODLAWN CONSERVANCY INC",
+  "name": [
+    {
+      "@value": "WOODLAWN CONSERVANCY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4199 WEBSTER AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://woodlawnconservancy.org/",
   "telephone": "+1 (718) 920-1469",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602179",

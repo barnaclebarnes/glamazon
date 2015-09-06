@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129365
   },
-  "name": "MUSEUM OF NORTHERN ARIZONA INC",
+  "name": [
+    {
+      "@value": "MUSEUM OF NORTHERN ARIZONA INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3101 N FORT VALLEY RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.musnaz.org",
   "telephone": "+1 (928) 774-5213",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400267",

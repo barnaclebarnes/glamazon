@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155852
   },
-  "name": "JOHN BARTRAM ASSOCIATION",
+  "name": [
+    {
+      "@value": "JOHN BARTRAM ASSOCIATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "54TH & LINDBERGH BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bartramsgarden.org",
   "telephone": "+1 (215) 729-5281",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201046",

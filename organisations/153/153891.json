@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153891
   },
-  "name": "BILLBOARD MUSEUM",
+  "name": [
+    {
+      "@value": "BILLBOARD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 446",
@@ -22,9 +27,6 @@
     "longitude": -97.6401
   },
   "url": "http://billboardmuseum.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404000245",

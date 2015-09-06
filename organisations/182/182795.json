@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182795
   },
-  "name": "Museum der Stadt Geretsried",
+  "name": [
+    {
+      "@value": "Museum der Stadt Geretsried",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Karl-Lederer-Platz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.geretsried.de/781/",
   "telephone": "08171/629827",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

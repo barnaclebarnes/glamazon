@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129578
   },
-  "name": "RANDOLPH CO HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "RANDOLPH CO HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "106 E EVERETT ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.randolphcomuseum.org",
   "telephone": "+1 (870) 892-4056",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400500014",

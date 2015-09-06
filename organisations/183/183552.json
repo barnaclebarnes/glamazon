@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183552
   },
-  "name": "Historisches Museum",
+  "name": [
+    {
+      "@value": "Historisches Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Dachauplatz 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.regensburg.de/kultur/museen-in-regensburg/staedtische-museen/historisches-museum/37608",
   "telephone": "0941/507-1440",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

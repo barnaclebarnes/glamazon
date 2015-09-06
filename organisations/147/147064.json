@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147064
   },
-  "name": "DEBBIE REYNOLDS HOLLYWOOD",
+  "name": [
+    {
+      "@value": "DEBBIE REYNOLDS HOLLYWOOD",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "305 CONVENTION CENTER DR",
@@ -22,9 +27,6 @@
     "longitude": -115.159
   },
   "telephone": "+1 (702) 733-2243",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403200039",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150405
   },
-  "name": "MUSEUM OF COMPUTER ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF COMPUTER ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "515 E 19 ST",
@@ -22,9 +27,6 @@
     "longitude": -73.96
   },
   "url": "http://moca.virtual.museum",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601699",

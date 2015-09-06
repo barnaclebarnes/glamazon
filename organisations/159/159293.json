@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159293
   },
-  "name": "VETERANS OF FOREIGN WARS OF US",
+  "name": [
+    {
+      "@value": "VETERANS OF FOREIGN WARS OF US",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1011",
@@ -21,9 +26,6 @@
     "latitude": 29.7886,
     "longitude": -95.8222
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801393",

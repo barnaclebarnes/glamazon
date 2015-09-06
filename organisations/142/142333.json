@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142333
   },
-  "name": "NORTH DORCHESTER RAILROAD INC",
+  "name": [
+    {
+      "@value": "NORTH DORCHESTER RAILROAD INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1258",
@@ -22,9 +27,6 @@
     "longitude": -75.8632
   },
   "telephone": "+1 (410) 376-3620",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400626",

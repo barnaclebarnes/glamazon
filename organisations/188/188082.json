@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188082
   },
-  "name": "Museum of the Sea",
+  "name": [
+    {
+      "@value": "Museum of the Sea",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo del mare di Monopoli",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Largo Castello - Molo Margherita, ",
@@ -21,9 +30,6 @@
     "longitude": 17.2994
   },
   "telephone": "+39 080930314",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Yh3t94MaChdH81eZ4-SUqsinNr8=/1000x1000/museums/logos/000/188/082/original/a52dfc8b61be3bb9c2e94ee7ce45c2ec27c17d3.jpg"

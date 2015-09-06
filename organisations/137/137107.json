@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137107
   },
-  "name": "BYRON MUSEUM OF HISTORY",
+  "name": [
+    {
+      "@value": "BYRON MUSEUM OF HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "110 N UNION ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.byronmuseum.org",
   "telephone": "+1 (815) 234-5031",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700252",

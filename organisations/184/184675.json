@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184675
   },
-  "name": "South End Museum",
+  "name": [
+    {
+      "@value": "South End Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Cnr Humewood Rd & Walmer Boulevard, South End, Port Elizabeth",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "041 582 3325",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

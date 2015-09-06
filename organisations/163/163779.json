@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163779
   },
-  "name": "Churchill Island Heritage Farm",
+  "name": [
+    {
+      "@value": "Churchill Island Heritage Farm",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.penguins.org.au",
   "telephone": "5956 7214",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 10 a.m. - 5 p.m.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Daily 10 a.m. - 5 p.m.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "churchill-island-heritage-farm",

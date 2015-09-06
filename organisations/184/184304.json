@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184304
   },
-  "name": "Mercury Bay Regional Museum",
+  "name": [
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Mercury Bay Regional Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@mercurybaymuseum.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.mercurybaymuseum.co.nz",
   "telephone": "07 866 0730",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open every day (Christmas excluded) 10am to 4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Aperto tutti i giorni (Natale escluso) 10-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "打开每一天 (圣诞节排除) 10 上午到 4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Abierto todos los días (Navidad excluido) 10:00 a 16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Aberto todos os dias (Natal excluído) 10:00 a 16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "無休 (クリスマスは除外) 10 へ 16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Открыт каждый день (Рождество исключены) 10 утра до 4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich geöffnet (ausgenommen Weihnachten) 10:00 bis 16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Ouvert tous les jours (Noël exclus) 10:00 à 16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Dibuka setiap hari (tidak termasuk hari Krismas) 10 pagi hingga 4 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich geöffnet (ausgenommen Weihnachten) 10:00 bis 16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult - $5.00\r\nChild 50 cents\r\nFamily, two adults and two or more children $11.00"
+    "description": [
+      {
+        "@value": "Adult - $5.00\r\nChild 50 cents\r\nFamily, two adults and two or more children $11.00",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184304",
+    "url": "http://www.museums.io/en/museums/184304",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

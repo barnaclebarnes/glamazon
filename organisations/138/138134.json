@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138134
   },
-  "name": "CHICAGO LITERARY HALL OF FAME",
+  "name": [
+    {
+      "@value": "CHICAGO LITERARY HALL OF FAME",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8519 KARLOV AVE",
@@ -21,9 +26,6 @@
     "latitude": 42.0358,
     "longitude": -87.7303
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401701279",

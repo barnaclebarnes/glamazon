@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136660
   },
-  "name": "PRIEST LAKE MUSEUM",
+  "name": [
+    {
+      "@value": "PRIEST LAKE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "38 W LAKESHORE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.plmuseum.org",
   "telephone": "+1 (208) 443-2676",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401600010",

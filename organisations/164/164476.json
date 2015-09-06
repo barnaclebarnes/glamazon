@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164476
   },
-  "name": "Williamstown High School",
+  "name": [
+    {
+      "@value": "Williamstown High School",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.willihigh.vic.edu.au/",
   "telephone": "03 93939027",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment during school hours.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment during school hours.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "williamstown-high-school",

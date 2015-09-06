@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150065
   },
-  "name": "WARSAW HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "WARSAW HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "15 PERRY AVENUE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.warsawhistory.org",
   "telephone": "+1 (585) 786-2030",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601359",

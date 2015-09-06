@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153337
   },
-  "name": "UNITED STATES AVIATION MUSEUM",
+  "name": [
+    {
+      "@value": "UNITED STATES AVIATION MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4477 MACKALL RD",
@@ -22,9 +27,6 @@
     "longitude": -81.5185
   },
   "telephone": "+1 (216) 501-4505",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403901115",

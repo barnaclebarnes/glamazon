@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183980
   },
-  "name": "Ausstellungshalle im Neuen Rathaus",
+  "name": [
+    {
+      "@value": "Ausstellungshalle im Neuen Rathaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Luitpoldplatz 13",
@@ -22,9 +27,6 @@
     "longitude": 11.5761
   },
   "telephone": "0921/7645310",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

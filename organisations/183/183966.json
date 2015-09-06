@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183966
   },
-  "name": "Internationales Künstlerhaus Villa Concordia",
+  "name": [
+    {
+      "@value": "Internationales Künstlerhaus Villa Concordia",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Concordiastraße 28",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.villa-concordia.de",
   "telephone": "0951/95501-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

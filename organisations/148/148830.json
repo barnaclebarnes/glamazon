@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148830
   },
-  "name": "ROCK AND ROLL HALL OF FAME ANNEX",
+  "name": [
+    {
+      "@value": "ROCK AND ROLL HALL OF FAME ANNEX",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "76 MERCER ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rockhall.com/",
   "telephone": "+1 (646) 786-6680",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600124",

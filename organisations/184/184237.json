@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184237
   },
-  "name": "Govett-Brewster Art Gallery",
+  "name": [
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Govett-Brewster Art Gallery",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:govettinfo@govettbrewster.com"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.govettbrewster.com",
   "telephone": "+64 6 759 6060",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10am – 5pm daily. \r\nClosed Christmas day.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "10 – 17 tutti i giorni. \nGiorno di Natale chiuso.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "10 上午 — — 5 下午每日。\n封闭的圣诞节那天。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "10:00 – 17:00 diariamente. \nCerrado día de Navidad.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "10:00 – 17:00 diariamente. \nFechado no dia de Natal.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "10-17 毎日。\n閉じたクリスマスの日。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "10 утра-5 вечера ежедневно. \nЗакрытые день Рождества.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "10:00 – 17:00 täglich. \nWeihnachtstag geschlossen.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "10:00 – 17:00 tous les jours. \nFermé le jour de Noël.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "10 pagi – 5 petang setiap hari. \nHari Krismas tertutup.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "10:00 – 17:00 täglich. \nWeihnachtstag geschlossen.",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184237",
+    "url": "http://www.museums.io/en/museums/184237",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

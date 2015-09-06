@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142033
   },
-  "name": "BALTIMORE HERITAGE INCORPORATED",
+  "name": [
+    {
+      "@value": "BALTIMORE HERITAGE INCORPORATED",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "11-12 WEST CHASE STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.baltimoreheritage.org",
   "telephone": "+1 (410) 332-9992",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400326",

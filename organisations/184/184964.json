@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184964
   },
-  "name": "SA Rugby Museum",
+  "name": [
+    {
+      "@value": "SA Rugby Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Sports Science Institute, Boundary Rd, Newlands",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "021 659 6788",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

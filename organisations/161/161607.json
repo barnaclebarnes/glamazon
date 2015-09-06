@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161607
   },
-  "name": "MICROSOFT MUSEUM",
+  "name": [
+    {
+      "@value": "MICROSOFT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4420 148TH AVE NE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.microsoft.com",
   "telephone": "+1 (425) 703-6214",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300056",

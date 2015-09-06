@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144901
   },
-  "name": "PAUL BUNYAN ARBORETUM",
+  "name": [
+    {
+      "@value": "PAUL BUNYAN ARBORETUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 375",
@@ -21,9 +26,6 @@
     "latitude": 46.3525,
     "longitude": -94.1779
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700341",

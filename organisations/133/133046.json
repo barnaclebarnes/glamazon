@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133046
   },
-  "name": "SAN JUAN HISTORICAL SOCIETY INC",
+  "name": [
+    {
+      "@value": "SAN JUAN HISTORICAL SOCIETY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1711",
@@ -22,9 +27,6 @@
     "longitude": -107.076
   },
   "url": "http://pagosamuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800222",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163746
   },
-  "name": "Bus and Coach Society of Victoria",
+  "name": [
+    {
+      "@value": "Bus and Coach Society of Victoria",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -37.9193,
     "longitude": 145.099
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "bus-coach-society-victoria",

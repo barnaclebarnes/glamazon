@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136674
   },
-  "name": "IDAHO MUSEUM OF NATURAL HISTORY",
+  "name": [
+    {
+      "@value": "IDAHO MUSEUM OF NATURAL HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5TH SAINT AND DILLON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://imnh.isu.edu",
   "telephone": "+1 (208) 282-3317",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401600024",

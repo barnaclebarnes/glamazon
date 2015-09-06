@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183671
   },
-  "name": "Römermuseum Bedaium",
+  "name": [
+    {
+      "@value": "Römermuseum Bedaium",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Römerstraße 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.roemermuseum-bedaium.byseum.de",
   "telephone": "08667/7503",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185040
   },
-  "name": "Wits Art Museum (WAG)",
+  "name": [
+    {
+      "@value": "Wits Art Museum (WAG)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "University Corner, Jorissen Street & Jan Smuts Ave, Braamfontein",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "011 717 1365",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

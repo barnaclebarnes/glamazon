@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184256
   },
-  "name": "Larnach Castle",
+  "name": [
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Larnach Castle",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:Contact Deborah Price via: larnach@larnachcastle.co.nz"
@@ -18,18 +59,61 @@
     "longitude": 170.627
   },
   "telephone": "64 3 476 1616",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 9am-5pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 9-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 9 上午-5 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 9:00-17:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diário 09:00-17:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "毎日 9-17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 9 утра - 5 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 09:00-17:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 09:00-17:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 9 am - 5 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 09:00-17:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult Castle and Garden Entry $27.00 Child (5-14years) Castle & Garden Entry $10.00, Adult Garden Entry $12.50 Child Garden Entry  $ 4.00"
+    "description": [
+      {
+        "@value": "Adult Castle and Garden Entry $27.00 Child (5-14years) Castle & Garden Entry $10.00, Adult Garden Entry $12.50 Child Garden Entry  $ 4.00",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184256",
+    "url": "http://www.museums.io/en/museums/184256",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188069
   },
-  "name": "Speleological Museum \"Franco Anelli\"",
+  "name": [
+    {
+      "@value": "Speleological Museum \"Franco Anelli\"",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo speleologico Franco Anelli",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazzale Anelli , ",
@@ -21,9 +30,6 @@
     "longitude": 17.1485
   },
   "telephone": "+39 0804998230",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/VzCea-Zf4T96oFxMsrMkwofgfzw=/1000x1000/museums/logos/000/188/069/original/5bea85da6e333a888a18b4ca9cc80f3f89f9abc.jpg"

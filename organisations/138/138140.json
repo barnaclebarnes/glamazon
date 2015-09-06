@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138140
   },
-  "name": "MILLER PARK ZOOLOGICAL SOCIETY",
+  "name": [
+    {
+      "@value": "MILLER PARK ZOOLOGICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1020 S MORRIS AVE",
@@ -22,9 +27,6 @@
     "longitude": -89.0063
   },
   "url": "http://www.millerparkzoo.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401701285",

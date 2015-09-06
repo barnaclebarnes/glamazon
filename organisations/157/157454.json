@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157454
   },
-  "name": "ALEX HALEY HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "ALEX HALEY HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "200 S CHURCH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.alexhaleymuseum.org",
   "telephone": "+1 (731) 738-2240",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404700125",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183131
   },
-  "name": "Kreisgalerie",
+  "name": [
+    {
+      "@value": "Kreisgalerie",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rhoenline.de/kreisgalerie.html",
   "telephone": "09776/7213",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

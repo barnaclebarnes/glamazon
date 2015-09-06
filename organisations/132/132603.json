@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132603
   },
-  "name": "LOS ANGELES MARITIME MUSEUM",
+  "name": [
+    {
+      "@value": "LOS ANGELES MARITIME MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "BERTH 84, FOOT OF 6TH STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://lamaritimemuseum.org",
   "telephone": "+1 (310) 548-7618",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602729",

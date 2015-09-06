@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137404
   },
-  "name": "CHICAGO ZOOLOGICAL SOCIETY",
+  "name": [
+    {
+      "@value": "CHICAGO ZOOLOGICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3300 GOLF RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.brookfieldzoo.org",
   "telephone": "+1 (708) 688-8315",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700549",

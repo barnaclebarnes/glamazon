@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140222
   },
-  "name": "AMERICAN FLIGHT MUSEUM INC",
+  "name": [
+    {
+      "@value": "AMERICAN FLIGHT MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4134 SEELE WAY",
@@ -21,9 +26,6 @@
     "latitude": 38.9748,
     "longitude": -95.2912
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000548",

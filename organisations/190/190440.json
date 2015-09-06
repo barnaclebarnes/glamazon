@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190440
   },
-  "name": "PRINCE WILLIAM FOREST PARK",
+  "name": [
+    {
+      "@value": "PRINCE WILLIAM FOREST PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "18100 PARK HEADQUARTERS RD",
@@ -22,9 +27,6 @@
     "longitude": -77.3671
   },
   "telephone": "+1 (703) 221-4706",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405101084",

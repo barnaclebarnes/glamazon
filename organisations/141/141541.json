@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141541
   },
-  "name": "MAINE NATURAL HISTORY OBSERVATORY",
+  "name": [
+    {
+      "@value": "MAINE NATURAL HISTORY OBSERVATORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "317 GUZZLE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mainenaturalhistory.org/contact-us",
   "telephone": "+1 (207) 963-2012",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402300390",

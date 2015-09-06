@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185959
   },
-  "name": "Museo diocesano di Aversa",
+  "name": [
+    {
+      "@value": "Museo diocesano di Aversa",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Duomo, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.diocesiaversa.it",
   "telephone": "+39 081 5037665; 081 8901764",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "107076",

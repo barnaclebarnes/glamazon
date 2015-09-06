@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149120
   },
-  "name": "CAMPBELL-WHITTLESEY HOUSE",
+  "name": [
+    {
+      "@value": "CAMPBELL-WHITTLESEY HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "123 FITZHUGH ST S",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.landmarksociety.org",
   "telephone": "+1 (585) 546-7029",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600414",

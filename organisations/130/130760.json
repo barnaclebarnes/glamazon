@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130760
   },
-  "name": "NAPA VALLEY MUSEUM",
+  "name": [
+    {
+      "@value": "NAPA VALLEY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 3567",
@@ -22,9 +27,6 @@
     "longitude": -122.362
   },
   "telephone": "+1 (707) 944-0500",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600886",

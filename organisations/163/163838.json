@@ -6,14 +6,21 @@
     "name": "id",
     "value": 163838
   },
-  "name": "Donald Old Police Camp",
+  "name": [
+    {
+      "@value": "Donald Old Police Camp",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "by  Appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "by  Appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "donald-police-camp",

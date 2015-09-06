@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147036
   },
-  "name": "PAHRUMP VALLEY MUSEUM",
+  "name": [
+    {
+      "@value": "PAHRUMP VALLEY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "401 E BASIN AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://pahrumpvalleymuseum.org/",
   "telephone": "+1 (775) 751-1970",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403200011",

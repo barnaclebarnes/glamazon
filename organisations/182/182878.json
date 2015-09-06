@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182878
   },
-  "name": "Templerhaus",
+  "name": [
+    {
+      "@value": "Templerhaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bädersweg 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.amorbach.de/index.php?c=hcpg&p=282",
   "telephone": "09373/200-574",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183709
   },
-  "name": "Burgmuseum Sulzberg",
+  "name": [
+    {
+      "@value": "Burgmuseum Sulzberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Burgruine Sulzberg",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.burgfreunde-sulzberg.de.vu/",
   "telephone": "08376/9201-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

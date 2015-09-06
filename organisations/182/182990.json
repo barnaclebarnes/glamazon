@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182990
   },
-  "name": "Schauraum Erasmuskapelle",
+  "name": [
+    {
+      "@value": "Schauraum Erasmuskapelle",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "St.-Mang-Platz",
@@ -22,9 +27,6 @@
     "longitude": 10.3195
   },
   "telephone": "0831/2525-200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

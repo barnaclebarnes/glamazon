@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163701
   },
-  "name": "Bendigo Historical Society",
+  "name": [
+    {
+      "@value": "Bendigo Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.bendigohistory.com/",
   "telephone": "03 5441 3443 ",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "bendigo-historical-society",

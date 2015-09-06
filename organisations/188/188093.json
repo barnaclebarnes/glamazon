@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188093
   },
-  "name": "The Museum of Rural Life",
+  "name": [
+    {
+      "@value": "The Museum of Rural Life",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo della civiltà contadina \"Terlizzi\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale Pacecco, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.comune.terlizzi.ba.it",
   "telephone": "+39 0803517577",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/NHm3KhQ5-0ILLMwtSGrwaKDVH74=/1000x1000/museums/logos/000/188/093/original/ecca7b23548564789f2128e407e2734f886d5dc.jpg"

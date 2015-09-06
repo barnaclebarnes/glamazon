@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186449
   },
-  "name": "Museo delle bande musicali di Poggio Mirteto",
+  "name": [
+    {
+      "@value": "Museo delle bande musicali di Poggio Mirteto",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Cairoli, 23/25",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.mubam.it/",
   "telephone": "+39 0765441365",
-  "contactPoint": [
-
-  ],
-  "openingHours": "chiuso per lavori",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "101472",

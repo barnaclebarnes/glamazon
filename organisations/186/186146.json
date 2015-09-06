@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186146
   },
-  "name": "National Archaelogical Museum",
+  "name": [
+    {
+      "@value": "National Archaelogical Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo archeologico nazionale di Ferrara",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via XX Settembre n. 122, ",
@@ -22,13 +31,28 @@
   },
   "url": "http://www.archeoferrara.beniculturali.it",
   "telephone": "+39 0532 66299 \n        \n          (+39) 0532 66299",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "from Tuesday to Sunday hours 9.30-17.00",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Estivo : da martedì a domenica 9.30-19 (ultimo ingresso 18.30) Invernale: da domenica a giovedì 9.30-17 (ultimo ingresso 16.30), venerdì e sabato 9.30-19 (ultimo ingresso 18.30)",
+      "@langauge": "it"
+    }
   ],
-  "openingHours": "from Tuesday to Sunday hours 9.30-17.00",
   "offers": {
     "@Type": "Offer",
-    "description": "€ 5,00"
+    "description": [
+      {
+        "@value": "€ 5,00",
+        "@langauge": "en"
+      },
+      {
+        "@value": "€ 5,00",
+        "@langauge": "it"
+      }
+    ]
   },
   "photo": {
     "@type": "ImageObject",

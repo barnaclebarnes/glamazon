@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133080
   },
-  "name": "HOTEL DE PARIS MUSEUM",
+  "name": [
+    {
+      "@value": "HOTEL DE PARIS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO 307",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hoteldeparismuseum.org",
   "telephone": "+1 (303) 569-2311",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800256",

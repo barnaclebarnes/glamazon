@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136900
   },
-  "name": "SLOVENIAN HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "SLOVENIAN HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "431 N CHICAGO ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.swua.org",
   "telephone": "+1 (815) 727-1926",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700045",

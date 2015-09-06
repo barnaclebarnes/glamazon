@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134250
   },
-  "name": "NATIONAL MUSEUM OF CRIME AND PUNISHMENT",
+  "name": [
+    {
+      "@value": "NATIONAL MUSEUM OF CRIME AND PUNISHMENT",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "575 7TH ST NW",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.crimemuseum.org",
   "telephone": "+1 (202) 393-1099",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100030",

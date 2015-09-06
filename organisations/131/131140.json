@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131140
   },
-  "name": "LAGUNA BEACH HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "LAGUNA BEACH HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "278 OCEAN AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lagunahistory.org",
   "telephone": "+1 (949) 497-6834",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601266",

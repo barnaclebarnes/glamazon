@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187258
   },
-  "name": "Museo storico aeronautico",
+  "name": [
+    {
+      "@value": "Museo storico aeronautico",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Boccalini, 36",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museostoricoaeronautico.it/",
   "telephone": "+39 071970330 - 3356116733",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Dal martedì al venerdì 16-19, sabato e domenica 10-13/16-19",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/3QqHjweHTF7gM5vXNS0vNX4rwOQ=/1000x1000/museums/logos/000/187/258/original/88fb2cb6f39c43d33dba5f668e9951cfc39e7a.jpg"

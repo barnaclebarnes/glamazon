@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151732
   },
-  "name": "BREVARD STATION MUSEUM",
+  "name": [
+    {
+      "@value": "BREVARD STATION MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "112 SOUTH MAIN STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://brevardstation.com",
   "telephone": "+1 (704) 263-9801",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700603",

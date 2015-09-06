@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183710
   },
-  "name": "Landlmuseum Sulzbürg",
+  "name": [
+    {
+      "@value": "Landlmuseum Sulzbürg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Marktplatz 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sulzbuerg.de/html/museum.html",
   "telephone": "09181/407300",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

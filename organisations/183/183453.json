@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183453
   },
-  "name": "Reichenberger Heimatstube",
+  "name": [
+    {
+      "@value": "Reichenberger Heimatstube",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Konrad-Adenauer-Allee 39",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.heimatkreis.de/index.php?option=com_content&view=article&id=24&Itemid=30",
   "telephone": "0821/312707",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

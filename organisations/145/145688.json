@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145688
   },
-  "name": "CAMPBELL HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "CAMPBELL HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1508 LOCUST STREET",
@@ -22,9 +27,6 @@
     "longitude": -90.2015
   },
   "telephone": "+1 (314) 421-0325",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900117",

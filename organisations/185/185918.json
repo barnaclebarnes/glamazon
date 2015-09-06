@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185918
   },
-  "name": "Museo Umberto Nobile",
+  "name": [
+    {
+      "@value": "Museo Umberto Nobile",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Umberto Nobile snc, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.comune.lauro.av.it",
   "telephone": "+39 0818240265",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/OVFf7xjDB6iDuvG9QEbP1HM54Ys=/1000x1000/museums/logos/000/185/918/original/c422617915c0d02535941e26f4f683a497bad23b.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184057
   },
-  "name": "Museumsscheune",
+  "name": [
+    {
+      "@value": "Museumsscheune",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rathausplatz 4",
@@ -22,9 +27,6 @@
     "longitude": 10.3512
   },
   "telephone": "09325/6248",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

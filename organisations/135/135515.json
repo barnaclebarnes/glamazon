@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135515
   },
-  "name": "BOCA RATON MUSEUM OF ART INC",
+  "name": [
+    {
+      "@value": "BOCA RATON MUSEUM OF ART INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "501 PLAZA REAL",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bocamuseum.org",
   "telephone": "+1 (561) 392-2500",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201070",

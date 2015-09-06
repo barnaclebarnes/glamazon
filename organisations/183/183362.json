@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183362
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Münnerstädter Straße 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nuedlingen.rhoen-saale.net",
   "telephone": "0971/99713",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184803
   },
-  "name": "George Museum",
+  "name": [
+    {
+      "@value": "George Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9 Courtney Street , George",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "044 873 5343",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134076
   },
-  "name": "JOHN DICKINSON PLANTATION",
+  "name": [
+    {
+      "@value": "JOHN DICKINSON PLANTATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "340 KITTS HUMMOCK RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://history.delaware.gov/museums/jdp/jdp_main.shtml",
   "telephone": "+1 (302) 739-3277",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401000008",

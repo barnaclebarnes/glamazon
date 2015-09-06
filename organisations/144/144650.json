@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144650
   },
-  "name": "GREAT NORTHERN DEPOT",
+  "name": [
+    {
+      "@value": "GREAT NORTHERN DEPOT",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "MINNESOTA AVE",
@@ -21,9 +26,6 @@
     "latitude": 47.4679,
     "longitude": -94.8833
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700090",

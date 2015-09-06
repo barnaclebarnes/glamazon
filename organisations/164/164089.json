@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164089
   },
-  "name": "Moe & District Historical Society",
+  "name": [
+    {
+      "@value": "Moe & District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://home.vicnet.net.au/~moehs/",
   "telephone": "03 5127 6264",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Wednesday 1 - 4.00pm Feb to November.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Wednesday 1 - 4.00pm Feb to November.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "me-district-historical-scoiety",

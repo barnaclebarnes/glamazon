@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164293
   },
-  "name": "Shepparton Family History Group",
+  "name": [
+    {
+      "@value": "Shepparton Family History Group",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://home.vicnet.net.au/~shepfh/",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Every Wednesday 12.30 to 3.30 pm\r\nEven dated Sundays 1.00 to 4.00 pm\r\nOdd dated Fridays 10.00 am to 1.00 pm \r\nSee website for public holiday and Christmas times",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Every Wednesday 12.30 to 3.30 pm\r\nEven dated Sundays 1.00 to 4.00 pm\r\nOdd dated Fridays 10.00 am to 1.00 pm \r\nSee website for public holiday and Christmas times",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "shepparton-family-history-group",

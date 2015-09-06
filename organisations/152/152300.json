@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152300
   },
-  "name": "MUSEUM AT FRIENDS HOME",
+  "name": [
+    {
+      "@value": "MUSEUM AT FRIENDS HOME",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "115 S 4TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.friendshomemuseum.org",
   "telephone": "+1 (513) 897-1607",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900077",

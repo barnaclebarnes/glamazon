@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129330
   },
-  "name": "MESA CITY SPORTS HALL OF FAME",
+  "name": [
+    {
+      "@value": "MESA CITY SPORTS HALL OF FAME",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6436 E HOLIDAY DR",
@@ -22,9 +27,6 @@
     "longitude": -111.829
   },
   "url": "http://www.mesasports.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400232",

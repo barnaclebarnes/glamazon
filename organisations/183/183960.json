@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183960
   },
-  "name": "Diözesanmuseum",
+  "name": [
+    {
+      "@value": "Diözesanmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Domplatz 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dioezesanmuseum-bamberg.de",
   "telephone": "0951/502-316",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

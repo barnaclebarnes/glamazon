@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182899
   },
-  "name": "Kunstmuseum Hersbruck",
+  "name": [
+    {
+      "@value": "Kunstmuseum Hersbruck",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Amberger Straße 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kunstmuseum-hersbruck.de",
   "telephone": "09151/862575",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160725
   },
-  "name": "NATIONAL RECREATION AND PARK ASSOCIATION",
+  "name": [
+    {
+      "@value": "NATIONAL RECREATION AND PARK ASSOCIATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "22377 BELMONT RIDGE ROAD",
@@ -22,9 +27,6 @@
     "longitude": -77.5305
   },
   "url": "http://www.nrpa.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100231",

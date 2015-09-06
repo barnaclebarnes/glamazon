@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154535
   },
-  "name": "OREGON MUSEUM OF SCIENCE AND INDUSTRY",
+  "name": [
+    {
+      "@value": "OREGON MUSEUM OF SCIENCE AND INDUSTRY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1945 SE WATER AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.omsi.edu",
   "telephone": "+1 (503) 797-4000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100328",

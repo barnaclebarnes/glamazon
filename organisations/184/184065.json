@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184065
   },
-  "name": "Gerhard Marcks House",
+  "name": [
+    {
+      "@value": "Gerhard Marcks House",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@marcks.de"
@@ -18,9 +23,6 @@
     "longitude": 8.8147
   },
   "telephone": "+49 (0) 421 9897520",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bremen",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185030
   },
-  "name": "Wellington Museum",
+  "name": [
+    {
+      "@value": "Wellington Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "College & Church St, Wellington",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "021 873 4710",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

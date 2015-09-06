@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137833
   },
-  "name": "LINCOLN HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "LINCOLN HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "300 KEOKUK STREET",
@@ -22,9 +27,6 @@
     "longitude": -89.3627
   },
   "url": "http://www.lincolncollege.edu/museum",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700978",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188179
   },
-  "name": "The Municipal Museum of Torremaggiore",
+  "name": [
+    {
+      "@value": "The Municipal Museum of Torremaggiore",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo comunale città di Torremaggiore",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Luigi Rossi, 1",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.musenet.it",
   "telephone": "+39 0882 391114",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Re0Y3cZwbXKmJWlZSsaaVDko5fM=/1000x1000/museums/logos/000/188/179/original/862a7ae36b46e577992938a3cdbdb71932987d.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163488
   },
-  "name": "CODY HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "CODY HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 701",
@@ -22,9 +27,6 @@
     "longitude": -109.123
   },
   "url": "http://codyheritagemuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405600068",

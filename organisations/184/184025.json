@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184025
   },
-  "name": "Bayerisches Brauereimuseum Kulmbach mit Bäckerei- und Brotmuseum",
+  "name": [
+    {
+      "@value": "Bayerisches Brauereimuseum Kulmbach mit Bäckerei- und Brotmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hofer Straße 20",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bayerisches-brauereimuseum.de",
   "telephone": "09221/805-14",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

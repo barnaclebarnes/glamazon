@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182645
   },
-  "name": "Haus der Geschichte Dinkelsbühl",
+  "name": [
+    {
+      "@value": "Haus der Geschichte Dinkelsbühl",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Altrathausplatz 14",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hausdergeschichte-dinkelsbuehl.de",
   "telephone": "09851/902-180",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

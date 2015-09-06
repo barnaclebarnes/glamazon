@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182616
   },
-  "name": "Kunstsammlungen der Veste Coburg",
+  "name": [
+    {
+      "@value": "Kunstsammlungen der Veste Coburg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Veste Coburg 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kunstsammlungen-coburg.de",
   "telephone": "09561/8790",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

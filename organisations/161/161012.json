@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161012
   },
-  "name": "THE CHRYSLER MUSEUM INC",
+  "name": [
+    {
+      "@value": "THE CHRYSLER MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "245 W OLNEY RD",
@@ -22,9 +27,6 @@
     "longitude": -76.2925
   },
   "url": "http://www.chrysler.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100518",

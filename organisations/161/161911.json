@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161911
   },
-  "name": "TACOMA ART MUSEUM TACOMA WA",
+  "name": [
+    {
+      "@value": "TACOMA ART MUSEUM TACOMA WA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1701 PACIFIC AVE",
@@ -22,9 +27,6 @@
     "longitude": -122.437
   },
   "url": "http://www.tacomaartmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300360",

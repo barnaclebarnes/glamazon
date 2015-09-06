@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137624
   },
-  "name": "JOHN F. KENNEDY HEALTH WORLD",
+  "name": [
+    {
+      "@value": "JOHN F. KENNEDY HEALTH WORLD",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2400 E MAIN STREET SUITE #103-305",
@@ -22,9 +27,6 @@
     "longitude": -88.2859
   },
   "url": "http://www.healthworldoutreach.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700769",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184854
   },
-  "name": "Knysna Museums",
+  "name": [
+    {
+      "@value": "Knysna Museums",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Old Gaol Complex, cnr Queen & Main Streets, Knysna",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "044 302 6320",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183468
   },
-  "name": "Museum Bad Abbach im Neuen Rathaus",
+  "name": [
+    {
+      "@value": "Museum Bad Abbach im Neuen Rathaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Raiffeisenstraße 72",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bad-abbach.de/de/kultur-freizeit/kultur/museum/",
   "telephone": "09405/959035",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

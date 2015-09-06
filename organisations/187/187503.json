@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187503
   },
-  "name": "Museo della 'ndoccia",
+  "name": [
+    {
+      "@value": "Museo della 'ndoccia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Caracciolo, SNC",
@@ -16,14 +21,6 @@
   },
   "url": "http://www.prolocoagnone.com/",
   "telephone": "+39 086577249",
-  "contactPoint": [
-
-  ],
-  "openingHours": "visitabile su appuntamento",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100498",

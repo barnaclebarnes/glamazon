@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164436
   },
-  "name": "Victoria Racing Club",
+  "name": [
+    {
+      "@value": "Victoria Racing Club",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://vrc.net.au/",
   "telephone": "03 8378 0646",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment only",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment only",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "victoria-racing-club",

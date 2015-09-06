@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140377
   },
-  "name": "PORTLAND MUSEUM INC",
+  "name": [
+    {
+      "@value": "PORTLAND MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2308 PORTLAND AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.goportland.org",
   "telephone": "+1 (502) 776-7678",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100134",

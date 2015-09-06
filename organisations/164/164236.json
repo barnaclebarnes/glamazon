@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164236
   },
-  "name": "Ringwood Secondary College",
+  "name": [
+    {
+      "@value": "Ringwood Secondary College",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.ringwoodsc.vic.edu.au/",
   "telephone": "(03) 9870 2002",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment only\r\nContact College - School hours. (03) 9870 2002\r\nOutside school hours - Off-site Archivist\r\n(03) 98970 2714",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment only\r\nContact College - School hours. (03) 9870 2002\r\nOutside school hours - Off-site Archivist\r\n(03) 98970 2714",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ringwood-secondary-college",

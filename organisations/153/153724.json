@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153724
   },
-  "name": "GEOSCIENCE CENTER",
+  "name": [
+    {
+      "@value": "GEOSCIENCE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8801 S YALE AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://tulsageosciencecenter.org",
   "telephone": "+1 (918) 392-4556",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404000078",

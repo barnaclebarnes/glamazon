@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150595
   },
-  "name": "MUSEUM OF EUROPEAN ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF EUROPEAN ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10545 MAIN ST",
@@ -22,9 +27,6 @@
     "longitude": -78.595
   },
   "telephone": "+1 (716) 759-6078",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601889",

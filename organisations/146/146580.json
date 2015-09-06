@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146580
   },
-  "name": "MUSEUM ASSOCIATION OF MONTANA",
+  "name": [
+    {
+      "@value": "MUSEUM ASSOCIATION OF MONTANA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 881",
@@ -22,9 +27,6 @@
     "longitude": -109.25
   },
   "url": "http://www.montanamuseums.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403000223",

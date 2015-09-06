@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183269
   },
-  "name": "Paläontologisches Museum München",
+  "name": [
+    {
+      "@value": "Paläontologisches Museum München",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Richard-Wagner-Straße 10",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.palmuc.de/bspg",
   "telephone": "089/21806630",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136862
   },
-  "name": "UNION DEPOT RAILROAD MUSEUM",
+  "name": [
+    {
+      "@value": "UNION DEPOT RAILROAD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "683 MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mendotamuseums.org/udrr.htm",
   "telephone": "+1 (815) 538-3800",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700007",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146341
   },
-  "name": "GLENDALE HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "GLENDALE HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9 HILL DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.glendalehistorical.org",
   "telephone": " 8182427447",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900770",

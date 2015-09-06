@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164463
   },
-  "name": "Wesley College Melbourne Archives and Art Collection",
+  "name": [
+    {
+      "@value": "Wesley College Melbourne Archives and Art Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://wesleycollege.net",
   "telephone": "03 8102 6290",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Collection viewing by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Collection viewing by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "wesley-college-melbourne",

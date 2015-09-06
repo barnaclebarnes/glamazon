@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159972
   },
-  "name": "MUSEUM OF PEOPLES AND CULTURES",
+  "name": [
+    {
+      "@value": "MUSEUM OF PEOPLES AND CULTURES",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 E 700 N",
@@ -23,9 +28,6 @@
   },
   "url": "http://mpc.byu.edu",
   "telephone": "+1 (801) 422-0020",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900038",

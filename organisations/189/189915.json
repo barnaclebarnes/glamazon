@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189915
   },
-  "name": "EDWARD GOREY HOUSE",
+  "name": [
+    {
+      "@value": "EDWARD GOREY HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8 STRAWBERRY LANE",
@@ -22,9 +27,6 @@
     "longitude": -102.14
   },
   "url": "http://www.edwardgoreyhouse.org/lochours.html",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402501103",

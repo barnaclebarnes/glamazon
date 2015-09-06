@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188102
   },
-  "name": "The Diocesan Museum of Bisceglie",
+  "name": [
+    {
+      "@value": "The Diocesan Museum of Bisceglie",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo diocesano - Sezione di Bisceglie",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Largo S.Donato \"Palazzo Vescovile\" 5 , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.ameipuglia.it",
   "telephone": "+39 0803968014",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/25c-tPq0VvwjlyuQeCt_8iscMvM=/1000x1000/museums/logos/000/188/102/original/13517e609025e1178a94a4c54bf215678d32ebb.jpg"

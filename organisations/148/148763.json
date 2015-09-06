@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148763
   },
-  "name": "TIBET HOUSE",
+  "name": [
+    {
+      "@value": "TIBET HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "22 W 15TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://tibethouse.org",
   "telephone": "+1 (212) 807-0563",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600057",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182845
   },
-  "name": "Wallfahrtsmuseum Gößweinstein",
+  "name": [
+    {
+      "@value": "Wallfahrtsmuseum Gößweinstein",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Balthasar-Neumann-Straße 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wallfahrtsmuseum.info",
   "telephone": "09242/741766",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130958
   },
-  "name": "UNITED STATES ARMY VETERANS SUPPORT COMMAND",
+  "name": [
+    {
+      "@value": "UNITED STATES ARMY VETERANS SUPPORT COMMAND",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10282 PARKVIEW AVENUE",
@@ -21,9 +26,6 @@
     "latitude": 33.7504,
     "longitude": -117.95
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601084",

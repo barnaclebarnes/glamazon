@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132379
   },
-  "name": "GILROY MUSEUM",
+  "name": [
+    {
+      "@value": "GILROY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "195 FIFTH STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.cityofgilroy.org/cityofgilroy/community/museum/default.aspx",
   "telephone": "+1 (408) 846-0446",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602505",

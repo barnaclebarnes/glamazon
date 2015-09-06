@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154219
   },
-  "name": "UNIVERSITY OF OREGON MUSEUM OF NATURAL HISTORY",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF OREGON MUSEUM OF NATURAL HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1224 UNIVERSITY OF OREGON",
@@ -22,9 +27,6 @@
     "longitude": -123.076
   },
   "telephone": "+1 (541) 346-5115",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100012",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184287
   },
-  "name": "Auckland Art Gallery Toi o Tāmaki",
+  "name": [
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Auckland Art Gallery Toi o Tāmaki",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:gallery@aucklandartgallery.govt.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.aucklandartgallery.govt.nz",
   "telephone": "64-9-379 1349",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 10am-5pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 10-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 10 上午-5 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 10:00-17:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diariamente 10:00-17:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "毎日 10-17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 10 утра - 5 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 10:00-17:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 10:00-17:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 10 pagi - 5 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 10:00-17:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Free entry (charges for special exhibitions)"
+    "description": [
+      {
+        "@value": "Free entry (charges for special exhibitions)",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184287",
+    "url": "http://www.museums.io/en/museums/184287",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182670
   },
-  "name": "Museum der Geschichte Ebrachs",
+  "name": [
+    {
+      "@value": "Museum der Geschichte Ebrachs",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Marktplatz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ebrach.de/Museum_Museum_115_kkmenue.html",
   "telephone": "09553/9220-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

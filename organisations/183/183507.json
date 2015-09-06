@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183507
   },
-  "name": "Heimat- und Brauereimuseum",
+  "name": [
+    {
+      "@value": "Heimat- und Brauereimuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchenplatz 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.pleinfeld-am-brombachsee.de/pleinfeld/museen.html?L=0",
   "telephone": "09144/9200-70",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

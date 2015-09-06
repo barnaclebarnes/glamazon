@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151266
   },
-  "name": "BELLAMY MANSION MUSEUM",
+  "name": [
+    {
+      "@value": "BELLAMY MANSION MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "503 MARKET ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bellamymansion.org",
   "telephone": "+1 (910) 251-3700",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700137",

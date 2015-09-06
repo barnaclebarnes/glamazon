@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188518
   },
-  "name": "Museo preistorico",
+  "name": [
+    {
+      "@value": "Museo preistorico",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Nunzio Agate, 46",
@@ -21,10 +26,6 @@
     "longitude": 12.5618
   },
   "telephone": "+39 0923881991",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutti i giorni 9.30 -13.00 e 16.30 -19.30",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ifGKi1sGiXPB0oxNDl2GMxcS7h0=/1000x1000/museums/logos/000/188/518/original/1f24d78eb7e479095146c9ab4121ebe26bc19f.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182914
   },
-  "name": "Jura-Bauernhof-Museum",
+  "name": [
+    {
+      "@value": "Jura-Bauernhof-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßstraße 19",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.jura-bauernhof-museum.de",
   "telephone": "08406/276",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

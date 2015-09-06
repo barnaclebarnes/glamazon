@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189778
   },
-  "name": "BISHOP MUSEUM",
+  "name": [
+    {
+      "@value": "BISHOP MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1525 BERNICE STREET",
@@ -22,9 +27,6 @@
     "longitude": -71.1126
   },
   "url": "http://www.bishopmuseum.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401500191",

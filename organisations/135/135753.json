@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135753
   },
-  "name": "TALLAPOOSA MUSEUM",
+  "name": [
+    {
+      "@value": "TALLAPOOSA MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "185 MANN ST",
@@ -22,9 +27,6 @@
     "longitude": -85.2936
   },
   "telephone": "+1 (770) 574-3125",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401300024",

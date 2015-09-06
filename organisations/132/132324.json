@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132324
   },
-  "name": "HILLER AVIATION INSTITUTE",
+  "name": [
+    {
+      "@value": "HILLER AVIATION INSTITUTE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 SKYWAY RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hiller.org",
   "telephone": "+1 (650) 654-0200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602450",

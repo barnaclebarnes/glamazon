@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182745
   },
-  "name": "Höhlenmuseum mit Dorfmuseum",
+  "name": [
+    {
+      "@value": "Höhlenmuseum mit Dorfmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schulstraße 7",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hukv-frasdorf.de/hukvfrasdorfmuseen/index.html",
   "telephone": "08052/179625",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

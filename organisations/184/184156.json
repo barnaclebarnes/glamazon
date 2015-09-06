@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184156
   },
-  "name": "Rotorua R.S.A. Museum",
+  "name": [
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Rotorua R.S.A. Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 176.251
   },
   "telephone": "64-7-348 1055",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon-Sat 9am-4pm  Sun 2pm-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-sab 9-16 Sun 14-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一至六 9 上午-4 下午太阳 2 下午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lun-sáb 9:00-16:00 domingo 14:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sáb 09:00-16:00 sol 14:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月-土 9-16 Sun 14-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Пн Сб 9 утра - 4 pm Sun 2-4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Sa 09:00-16:00 Sun 14:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun-Sam 09:00-16:00 Dim 14:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Sabtu 9 am - 4 pm Sun 2 pm - 4 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Sa 09:00-16:00 Sun 14:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184156",
+    "url": "http://www.museums.io/en/museums/184156",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

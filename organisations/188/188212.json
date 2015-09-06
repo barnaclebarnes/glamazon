@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188212
   },
-  "name": "The Museum of the Radio",
+  "name": [
+    {
+      "@value": "The Museum of the Radio",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo della radio di Tuglie",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Vittorio Veneto, 114",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museoradiotuglie.it/",
   "telephone": "+39 0833597747",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ccmFaQmcTsU7h6j9ypBcxjm8PRU=/1000x1000/museums/logos/000/188/212/original/90c57e656a82794cb99922d45cac59b797f928.jpg"

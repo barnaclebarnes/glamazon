@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183361
   },
-  "name": "Internationale Spitzensammlung",
+  "name": [
+    {
+      "@value": "Internationale Spitzensammlung",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Klöppelschule 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nordhalben.de/Museen.20.0.html",
   "telephone": "09267/375",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

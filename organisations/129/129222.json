@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129222
   },
-  "name": "MIAMI SPORTS GROUP",
+  "name": [
+    {
+      "@value": "MIAMI SPORTS GROUP",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "11151 E SOMBRA AVE",
@@ -21,9 +26,6 @@
     "latitude": 33.3254,
     "longitude": -111.593
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400124",

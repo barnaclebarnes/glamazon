@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187066
   },
-  "name": "Museo aziendale Mario Buccellati",
+  "name": [
+    {
+      "@value": "Museo aziendale Mario Buccellati",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Montenapoleone, 23",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.mariobuccellati.it",
   "telephone": "+39 02 795059",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "106902",

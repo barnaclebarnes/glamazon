@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139354
   },
-  "name": "PORTER HOUSE MUSEUM INCORPORATED",
+  "name": [
+    {
+      "@value": "PORTER HOUSE MUSEUM INCORPORATED",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 115",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.porterhousemuseum.org",
   "telephone": "+1 (563) 382-8465",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401900391",

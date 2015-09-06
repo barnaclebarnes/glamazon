@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182822
   },
-  "name": "Hutter-Heimatmuseum",
+  "name": [
+    {
+      "@value": "Hutter-Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Walkertshofener Straße 14",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.erdweg.de",
   "telephone": "08138/931710",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

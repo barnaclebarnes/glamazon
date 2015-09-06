@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150563
   },
-  "name": "ONEIDA COMMUNITY MANSION HOUSE",
+  "name": [
+    {
+      "@value": "ONEIDA COMMUNITY MANSION HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "170 KENWOOD AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.oneidacommunity.org",
   "telephone": "+1 (315) 363-0745",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601857",

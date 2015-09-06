@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190032
   },
-  "name": "MIDWEST REGIONAL OFFICE",
+  "name": [
+    {
+      "@value": "MIDWEST REGIONAL OFFICE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 RIVERFRONT DRIVE",
@@ -22,9 +27,6 @@
     "longitude": -95.9258
   },
   "telephone": "+1 (402) 661-1936",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403100378",

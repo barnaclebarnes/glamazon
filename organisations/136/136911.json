@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136911
   },
-  "name": "OTTAWA SCOUTING MUSEUM",
+  "name": [
+    {
+      "@value": "OTTAWA SCOUTING MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1100 CANAL ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ottawascoutingmuseum.org",
   "telephone": "+1 (815) 431-9353",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700056",

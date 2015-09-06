@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132302
   },
-  "name": "SIERRA NEVADA CHILDRENS MUSEUM",
+  "name": [
+    {
+      "@value": "SIERRA NEVADA CHILDRENS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "11711 DONNER PASS RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kidzonemuseum.org",
   "telephone": "+1 (530) 587-5437",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602428",

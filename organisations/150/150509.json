@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150509
   },
-  "name": "ULYSSES HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ULYSSES HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 455",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ulysses.ny.us/history",
   "telephone": "+1 (607) 387-6666",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601803",

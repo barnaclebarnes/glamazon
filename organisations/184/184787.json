@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184787
   },
-  "name": "Florisbad Research Station",
+  "name": [
+    {
+      "@value": "Florisbad Research Station",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Florisbad, Soutpan, 40 km NW of Bloemfontein",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "051 447 9609",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

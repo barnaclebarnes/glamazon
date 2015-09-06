@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146252
   },
-  "name": "KANSAS CITY ATHENAEUM",
+  "name": [
+    {
+      "@value": "KANSAS CITY ATHENAEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "900 E LINWOOD BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kcathenaeum.org",
   "telephone": "+1 (816) 561-3525",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900681",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188112
   },
-  "name": "The Adduasio Historical Photo Museum",
+  "name": [
+    {
+      "@value": "The Adduasio Historical Photo Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo storico fotografico \"Adduasio\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Cavallotti 14 , ",
@@ -21,9 +30,6 @@
     "longitude": 16.0871
   },
   "telephone": "+39 0883681409",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/dMSfjE94zyElhe6j2CDIrss3fgs=/1000x1000/museums/logos/000/188/112/original/703d612eac9bd8470cc90d92251c73d189aa235.jpg"

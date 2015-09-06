@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182644
   },
-  "name": "Museum Dingolfing",
+  "name": [
+    {
+      "@value": "Museum Dingolfing",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Obere Stadt 19",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-dingolfing.de",
   "telephone": "08731/312228",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

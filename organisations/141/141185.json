@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141185
   },
-  "name": "NATURAL HISTORY MUSEUM",
+  "name": [
+    {
+      "@value": "NATURAL HISTORY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "COLLEGE OF THE ATLANTIC",
@@ -21,9 +26,6 @@
     "latitude": 44.3897,
     "longitude": -68.223
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402300034",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186281
   },
-  "name": "Museo commerciale della Camera Di Commercio di Trieste",
+  "name": [
+    {
+      "@value": "Museo commerciale della Camera Di Commercio di Trieste",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via San Nicolò, 7",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.ts.camcom.it",
   "telephone": "+39 04067011",
-  "contactPoint": [
-
-  ],
-  "openingHours": "da lunedì a venerdì 10.00/13.00 martedì e mercoledì 15.00/17.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/i4s7tjqB0GHiW4Vp2WsQc87PWRw=/1000x1000/museums/logos/000/186/281/original/f2d115425aaa287a3db4c181687c8184ffb7b8.JPG"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134235
   },
-  "name": "NATIONAL SCIENCE RESOURCES CENTER",
+  "name": [
+    {
+      "@value": "NATIONAL SCIENCE RESOURCES CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "900 JEFFERSON DR SW",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.smithsonianeducation.org/tools/contact.asp",
   "telephone": "+1 (202) 633-5330",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100015",

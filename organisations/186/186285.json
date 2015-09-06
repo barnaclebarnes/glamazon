@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186285
   },
-  "name": "Museo di mineralogia e petrografia",
+  "name": [
+    {
+      "@value": "Museo di mineralogia e petrografia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Weiss, 6",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.dst.units.it",
   "telephone": "+39 0405582264",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal lunedì al venerdì dalle ore 15.00 alle 18.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/RXkI6JjkkxKR-A_sAcmLDyEMS2k=/1000x1000/museums/logos/000/186/285/original/21d3d8974b2de3c704628b97234b6bc0fa20b9.JPG"

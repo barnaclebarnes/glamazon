@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190119
   },
-  "name": "BLUE RIDGE PARKWAY",
+  "name": [
+    {
+      "@value": "BLUE RIDGE PARKWAY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "199 HEMPHILL KNOB ROAD",
@@ -22,9 +27,6 @@
     "longitude": -82.49
   },
   "telephone": "+1 (828) 348-3436",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700924",

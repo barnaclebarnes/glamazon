@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129566
   },
-  "name": "WALTON ARTS CENTER",
+  "name": [
+    {
+      "@value": "WALTON ARTS CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": -94.1593
   },
   "url": "http://www.waltonartscenter.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400500002",

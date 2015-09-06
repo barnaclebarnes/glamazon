@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187363
   },
-  "name": "Museo storico del trotto",
+  "name": [
+    {
+      "@value": "Museo storico del trotto",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "C.Da Asola, 24",
@@ -16,14 +21,6 @@
   },
   "url": "http://www.museodeltrotto.it/fondazione-mori/",
   "telephone": "+39 07331871163",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal lunedì al venerdì dalle 9.00 alle 12.00 e dalle 15.00 alle 17.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 2.00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/d4oVzKux0-5NE_gupdzflbc9V-k=/1000x1000/museums/logos/000/187/363/original/372afe58875a6b0d9bd74b0cc71fb9461ac34.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183774
   },
-  "name": "Volkskundemuseum Treuchtlingen",
+  "name": [
+    {
+      "@value": "Volkskundemuseum Treuchtlingen",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Heinrich-Aurnhammer-Straße 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.treuchtlingen.de",
   "telephone": "09142/960060",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

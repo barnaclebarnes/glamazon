@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152632
   },
-  "name": "STREETSBORO HERITAGE FOUNDATION",
+  "name": [
+    {
+      "@value": "STREETSBORO HERITAGE FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 2036",
@@ -22,9 +27,6 @@
     "longitude": -81.3619
   },
   "url": "http://www.streetsboroheritage.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900409",

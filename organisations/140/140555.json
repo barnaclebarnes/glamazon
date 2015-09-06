@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140555
   },
-  "name": "LINCOLN MUSEUM INC",
+  "name": [
+    {
+      "@value": "LINCOLN MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "66 LINCOLN SQ",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lincolnmuseum-ky.org",
   "telephone": "+1 (270) 358-3163",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100312",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184200
   },
-  "name": "Dalmatian Genealogical and Historical Society",
+  "name": [
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Dalmatian Genealogical and Historical Society",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 174.76
   },
   "telephone": "64-9-379 7680",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon 9.30am-1pm \r\n Fri 7.30pm-9pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun ore 9.30 am-13 ven 7.30 pm-21",
+      "@langauge": "it"
+    },
+    {
+      "@value": "孟 9.30 am-1 下午星期五 7.30 pm-9 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes 9: 30 am-13:00 viernes 7: 30 pm-21:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg 9: 30 am-13:00 sexta-feira 7: 30 pm-21:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月 9.30 am-13 金 7.30 午後 21",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Понедельник 9.30 утра - 1 pm пятница 7.30 вечера - 9 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo 9.30 Uhr-13:00 Fr 07.30 Uhr-21:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun 9 h 30 am-13:00 ven 19 h-21:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin 9.30 am - 1 pm Jumaat 7.30 pm - 9 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo 9.30 Uhr-13:00 Fr 07.30 Uhr-21:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Spende"
+    "description": [
+      {
+        "@value": "Donation",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Donazione",
+        "@langauge": "it"
+      },
+      {
+        "@value": "捐赠",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Donación de",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Doação",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "寄付",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Пожертвование",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Spende",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Don",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Derma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184200",
+    "url": "http://www.museums.io/en/museums/184200",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

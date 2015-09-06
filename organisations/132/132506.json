@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132506
   },
-  "name": "MUSEUM OF PHOTOGRAPHIC ARTS",
+  "name": [
+    {
+      "@value": "MUSEUM OF PHOTOGRAPHIC ARTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1649 EL PRADO",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mopa.org",
   "telephone": "+1 (619) 696-0199",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602632",

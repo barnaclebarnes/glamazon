@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182865
   },
-  "name": "Spielzeugmuseum",
+  "name": [
+    {
+      "@value": "Spielzeugmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Stadtplatz 4",
@@ -22,9 +27,6 @@
     "longitude": 11.7822
   },
   "telephone": "09491/94000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

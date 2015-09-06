@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187963
   },
-  "name": "Museo valdese di Torre Pellice",
+  "name": [
+    {
+      "@value": "Museo valdese di Torre Pellice",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Beckwith, 3 - Piano II, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.fondazionevaldese.org",
   "telephone": "+39 0121932179",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "102783",

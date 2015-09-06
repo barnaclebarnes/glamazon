@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183524
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Valdagno-Platz 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.prien.de/de/main/kunst_und_kultur.htm",
   "telephone": "08051/92710",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

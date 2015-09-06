@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152299
   },
-  "name": "ROSE HILL MUSEUM",
+  "name": [
+    {
+      "@value": "ROSE HILL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "27715 LAKE RD",
@@ -22,9 +27,6 @@
     "longitude": -81.927
   },
   "telephone": "+1 (440) 871-7338",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900076",

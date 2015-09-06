@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184890
   },
-  "name": "Molteno Museum",
+  "name": [
+    {
+      "@value": "Molteno Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "35 Smith Street, Molteno",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "045 967 0581",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

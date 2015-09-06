@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188899
   },
-  "name": "Museo di anatomia e istologia patologica",
+  "name": [
+    {
+      "@value": "Museo di anatomia e istologia patologica",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Roma, 57",
@@ -22,9 +27,6 @@
   },
   "url": "http://paleopatologia.it/museo",
   "telephone": "+39 050992894",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "103153",

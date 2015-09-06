@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183858
   },
-  "name": "Archäologisches Museum der Stadt Weißenhorn",
+  "name": [
+    {
+      "@value": "Archäologisches Museum der Stadt Weißenhorn",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schulstraße 4",
@@ -22,9 +27,6 @@
     "longitude": 10.1612
   },
   "telephone": "07309/6793",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

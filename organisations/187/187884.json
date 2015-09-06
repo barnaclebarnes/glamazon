@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187884
   },
-  "name": "Museo valdese di Prali",
+  "name": [
+    {
+      "@value": "Museo valdese di Prali",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ex Tempio Valdese - Frazione Ghigo, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.fondazionevaldese.org",
   "telephone": "+39 0121950203",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "102732",

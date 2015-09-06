@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187712
   },
-  "name": "Museo del Piropo",
+  "name": [
+    {
+      "@value": "Museo del Piropo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Roma, 25, ",
@@ -21,10 +26,6 @@
     "longitude": 7.36671
   },
   "telephone": "+39 0175 46505",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Primavera - Estate: domenica 14,30-18,30",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/92_Y78dZe6kp4KTZppTmZZbHr7I=/1000x1000/museums/logos/000/187/712/original/3387d7ad74c296c0fb728b8a9529b6ad3e3be333.jpg"

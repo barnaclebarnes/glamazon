@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188153
   },
-  "name": "The Public Museum of Foggia",
+  "name": [
+    {
+      "@value": "The Public Museum of Foggia",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico di Foggia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Vincenzo Nigri 1 , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.apuliamuseum.com",
   "telephone": "+39 0881726245",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Y3s59F8tAbRlQ1hlXE5TdNsstzs=/1000x1000/museums/logos/000/188/153/original/7711eaedd90e61c52a69fb7ec4a0bd8f2a72fa.jpg"

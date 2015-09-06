@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132942
   },
-  "name": "DENVER CENTER-PERFORMING ARTS",
+  "name": [
+    {
+      "@value": "DENVER CENTER-PERFORMING ARTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1245 CHAMPA ST",
@@ -22,9 +27,6 @@
     "longitude": -104.998
   },
   "telephone": "+1 (303) 893-4100",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800118",

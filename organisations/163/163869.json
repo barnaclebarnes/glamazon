@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163869
   },
-  "name": "Federation University Australia Art Collection",
+  "name": [
+    {
+      "@value": "Federation University Australia Art Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://federation.edu.au/about-feduni/our-university/history/art-and-historical-collection",
   "telephone": "5327 9168",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "federation-university-australia-art-collection",

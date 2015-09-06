@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164071
   },
-  "name": "Melbourne Tank Museum",
+  "name": [
+    {
+      "@value": "Melbourne Tank Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -37.9691,
     "longitude": 145.317
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "melbourne-tank-museum",

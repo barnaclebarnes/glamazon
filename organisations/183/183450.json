@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183450
   },
-  "name": "Maximilianmuseum",
+  "name": [
+    {
+      "@value": "Maximilianmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Fuggerplatz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kunstsammlungen-museen.augsburg.de/index.php?id=20131",
   "telephone": "0821/324-4167",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188129
   },
-  "name": "The Municipal Art Gallery of Latiano",
+  "name": [
+    {
+      "@value": "The Municipal Art Gallery of Latiano",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca comunale di Latiano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Umberto I, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museinrete.it",
   "telephone": "+39 0831.729465",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/1POAt39eGDOumWqr6GptUipVC7o=/1000x1000/museums/logos/000/188/129/original/97e76e3070537634cc11b418c53815a59e94fb7.jpg"

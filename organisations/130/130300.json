@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130300
   },
-  "name": "GIFT OF FAME ENTERPRISES",
+  "name": [
+    {
+      "@value": "GIFT OF FAME ENTERPRISES",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1534 N MOORPARK RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.giftoffame.com",
   "telephone": "+1 (805) 373-8848",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600426",

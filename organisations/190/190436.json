@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190436
   },
-  "name": "GREAT FALLS PARK",
+  "name": [
+    {
+      "@value": "GREAT FALLS PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "GEORGE WASHINGTON MEMORIAL PARKWAY",
@@ -22,9 +27,6 @@
     "longitude": -77.0816
   },
   "telephone": "+1 (703) 235-1535",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405101080",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163615
   },
-  "name": "Alfred Hospital Nurses League-Nursing Archives",
+  "name": [
+    {
+      "@value": "Alfred Hospital Nurses League-Nursing Archives",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.alfrednursesleague.org.au/Archives.html",
   "telephone": "0439 337 101     and office: 90763540",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday and Wednesdays 10:00hrs- 16:00 hrs",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday and Wednesdays 10:00hrs- 16:00 hrs",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "alfred-hospital-nursing-archives",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129470
   },
-  "name": "ARIZONA MUSEUM OF NATURAL",
+  "name": [
+    {
+      "@value": "ARIZONA MUSEUM OF NATURAL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "53 N MACDONALD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.azmnh.org",
   "telephone": "+1 (480) 644-2230",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400372",

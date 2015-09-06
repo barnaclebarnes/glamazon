@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131448
   },
-  "name": "CALIFORNIA HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "CALIFORNIA HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2612 MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.californiaheritagemuseum.org",
   "telephone": "+1 (310) 392-8537",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601574",

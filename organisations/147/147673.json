@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147673
   },
-  "name": "MUSEUM OF NJ MARITIME HISTORY",
+  "name": [
+    {
+      "@value": "MUSEUM OF NJ MARITIME HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "450 CENTRE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumofnjmh.org",
   "telephone": "+1 (609) 492-0202",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403400041",

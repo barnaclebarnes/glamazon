@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158076
   },
-  "name": "MOODY HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "MOODY HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "114 W 9TH ST",
@@ -22,9 +27,6 @@
     "longitude": -97.4108
   },
   "telephone": "+1 (512) 352-8654",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800176",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163850
   },
-  "name": "East Gippsland Art Gallery",
+  "name": [
+    {
+      "@value": "East Gippsland Art Gallery",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.eastgippslandartgallery.org.au/",
   "telephone": "(03) 5153 1988 ",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "east-gippsland-art-gallery",

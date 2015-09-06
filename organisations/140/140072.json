@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140072
   },
-  "name": "CITY OF MANHATTAN, KANSAS",
+  "name": [
+    {
+      "@value": "CITY OF MANHATTAN, KANSAS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2333 OAK ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sunsetzoo.com",
   "telephone": "+1 (785) 587-2737",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000398",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155314
   },
-  "name": "MUMMERS MUSEUM",
+  "name": [
+    {
+      "@value": "MUMMERS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1100 S 2ND ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mummersmuseum.com",
   "telephone": "+1 (215) 336-3050",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200508",

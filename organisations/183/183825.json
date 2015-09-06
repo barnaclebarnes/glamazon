@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183825
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Rathaus 5",
@@ -22,9 +27,6 @@
     "longitude": 12.3316
   },
   "telephone": "09657/922035-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184268
   },
-  "name": "Isel House",
+  "name": [
+    {
+      "@value": "Isel House",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Isel House",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Isel House",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Isel House",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Isel House",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Isel House",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Isel House",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Isel House",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Isel House",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isel House",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:isel@ihug.co.nz"
@@ -18,18 +59,97 @@
     "longitude": 173.241
   },
   "telephone": "+64 3 5471347",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "House: 11am - 4pm Tuesday to Sunday. Closed Mondays and public holidays\r\nPark: open all hours",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Casa: 11-16 da martedì a domenica. Chiuso il lunedì e nei giorni festivi parco: aperto tutte le ore",
+      "@langauge": "it"
+    },
+    {
+      "@value": "房子: 11 上午-4 下午周二至周日。星期一及公众假期公园关闭: 所有小时都开放",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Casa: 11:00-16:00 el martes al domingo. Cerrado el lunes y festivos Parque: Abra todas las horas",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Casa: 11:00-16:00 terça-feira a domingo. Fechado às segundas e feriados públicos parque: aberto a todas as horas",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "家: 11-16 火曜日 ~ 日曜日。毎週月曜日と祝日公園を閉鎖: 時間すべてを開ける",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Дом: 11 am - 4 pm вторника по воскресенье. Закрыт по понедельникам и праздничным парк: открыть все часы",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Haus: 11:00-16:00 Dienstag bis Sonntag. Geschlossen montags und Feiertags Park: alle Öffnungszeiten",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Maison : 11:00-16:00 du mardi au dimanche. Fermé les lundis et les jours fériés Park : toutes les heures d'ouverture",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Rumah: 11 pagi - 4 petang Selasa hingga Ahad. Ditutup Isnin dan cuti umum Park: membuka semua jam",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Haus: 11:00-16:00 Dienstag bis Sonntag. Geschlossen montags und Feiertags Park: alle Öffnungszeiten",
   "offers": {
     "@Type": "Offer",
-    "description": "Eintritt gegen Spende"
+    "description": [
+      {
+        "@value": "Admission by donation",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Ammissione di donazione",
+        "@langauge": "it"
+      },
+      {
+        "@value": "由捐赠入场",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Ingreso por donación",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Admissão por doação",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "寄贈受付",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Вход по пожертвование",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Eintritt gegen Spende",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Admission par Don",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Kemasukan oleh sumbangan",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184268",
+    "url": "http://www.museums.io/en/museums/184268",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

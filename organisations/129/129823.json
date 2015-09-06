@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129823
   },
-  "name": "MAIN STREET DUMAS",
+  "name": [
+    {
+      "@value": "MAIN STREET DUMAS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": -91.4918
   },
   "url": "http://dumasar.net/main-street-dumas.html",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400500259",

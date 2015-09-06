@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163846
   },
-  "name": "Duneira, Mt Macedon",
+  "name": [
+    {
+      "@value": "Duneira, Mt Macedon",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.duneira.com.au",
   "telephone": "5426 1490",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By advertisement. Office hours Monday - Thursday, 9-3pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By advertisement. Office hours Monday - Thursday, 9-3pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "duneira-mt-macedon",

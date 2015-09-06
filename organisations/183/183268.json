@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183268
   },
-  "name": "Orff-Zentrum München",
+  "name": [
+    {
+      "@value": "Orff-Zentrum München",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kaulbachstraße 16",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.orff-zentrum.de",
   "telephone": "089/288105-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

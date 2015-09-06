@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131348
   },
-  "name": "MUSEUM OF NORTHERN CALIFORNIA ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF NORTHERN CALIFORNIA ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 4654",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.monca.org",
   "telephone": "+1 (530) 891-4304",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601474",

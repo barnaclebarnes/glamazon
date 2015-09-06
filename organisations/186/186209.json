@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186209
   },
-  "name": "The National Museum of Ravenna",
+  "name": [
+    {
+      "@value": "The National Museum of Ravenna",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo nazionale di Ravenna",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via San Vitale, 17",
@@ -22,13 +31,28 @@
   },
   "url": "http://www.soprintendenzaravenna.beniculturali.it",
   "telephone": "+39 0544 543711\n        \n          (+39) 0544 543711",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "from Tuesday to Sunday 8.30-19.30",
+      "@langauge": "en"
+    },
+    {
+      "@value": "da martedi a domenica ore 8.30-19.30",
+      "@langauge": "it"
+    }
   ],
-  "openingHours": "from Tuesday to Sunday 8.30-19.30",
   "offers": {
     "@Type": "Offer",
-    "description": "€ 5,00"
+    "description": [
+      {
+        "@value": "€ 5,00",
+        "@langauge": "en"
+      },
+      {
+        "@value": "€ 5,00",
+        "@langauge": "it"
+      }
+    ]
   },
   "photo": {
     "@type": "ImageObject",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182830
   },
-  "name": "Automobil-Veteranen-Salon",
+  "name": [
+    {
+      "@value": "Automobil-Veteranen-Salon",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bächinger Straße 68",
@@ -22,9 +27,6 @@
     "longitude": 10.3525
   },
   "telephone": "09073/2575",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

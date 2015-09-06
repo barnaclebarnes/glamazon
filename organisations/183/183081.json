@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183081
   },
-  "name": "Heimathaus",
+  "name": [
+    {
+      "@value": "Heimathaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Herzog-Georg-Straße 57 a",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lauingen.de/1528_DEU_HTML.php",
   "telephone": "09072/5491",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

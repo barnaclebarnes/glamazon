@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164127
   },
-  "name": "Mount Evelyn History Group",
+  "name": [
+    {
+      "@value": "Mount Evelyn History Group",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.mt-evelyn.net/Community-Groups/Mt-Evelyn-History-Group.aspx",
   "telephone": "c/o President 9736 2935",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "We hold committee meetings on the fourth Thursday evening of even-numbered months. In odd-numbered months we have guest speakers on the fourth Saturday afternoon.  Visitors are welcome at meetings and lectures.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "We hold committee meetings on the fourth Thursday evening of even-numbered months. In odd-numbered months we have guest speakers on the fourth Saturday afternoon.  Visitors are welcome at meetings and lectures.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "mt-evelyn-history-group",

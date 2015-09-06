@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184123
   },
-  "name": "Southland Museum and Art Gallery",
+  "name": [
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Southland Museum and Art Gallery",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 168.354
   },
   "telephone": "64-3 218 9753",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon-Fri 9am-5.00pm\r\n Weekends & Public Holidays; 10am - 5pm\r\n Closed Christmas Day",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-ven 9-5,00 pm week-end e nei giorni festivi; 10-17 chiuso il giorno di Natale",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一-星期五 9 上午-5.00 pm 周末及公众假期;10 上午-5 下午关闭圣诞节这一天",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes de 9:00-5.00 pm los fines de semana y festivos; 10:00-17:00 cerrado el día de Navidad",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sex 09:00-5.00 pm nos fins de semana e feriados; 10:00-17:00 fechado no dia de Natal",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月-金 9-5.00 pm 週末・祝日;10-17 閉じたクリスマスの日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Пн Пт 9 am-5 pm выходные &праздники; 10 утра - 5 вечера закрыт Рождество",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Fr 09:00-5.00 Uhr Wochenenden & Feiertage; 10:00-17:00 geschlossen Weihnachten",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun-Ven 09:00-5.00 pm week-ends & les jours fériés ; 10:00-17:00 fermé le jour de Noël",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Jumaat 9 am-5.00 pm hujung minggu & cuti umum; 10 pagi - 5 petang ditutup hari Krismas",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Fr 09:00-5.00 Uhr Wochenenden & Feiertage; 10:00-17:00 geschlossen Weihnachten",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184123",
+    "url": "http://www.museums.io/en/museums/184123",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

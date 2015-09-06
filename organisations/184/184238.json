@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184238
   },
-  "name": "Glasstime Glass Museum",
+  "name": [
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Glasstime Glass Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:abowey@clear.net.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.glass.co.nz",
   "telephone": "64-9-402 8538",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sat 11am - 2pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Sab 11-14",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Sat 11 上午-2 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Sáb 11:00-14:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Sáb 11:00-14:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "土 11-14",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Сб с 11 утра - 2 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Sa 11:00-14:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Samedi 11:00-14:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Sabtu 11 am - 2 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Sa 11:00-14:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184238",
+    "url": "http://www.museums.io/en/museums/184238",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140323
   },
-  "name": "CAMP NELSON HERITAGE PARK",
+  "name": [
+    {
+      "@value": "CAMP NELSON HERITAGE PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6614 DANVILLE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.campnelson.org",
   "telephone": "+1 (859) 881-5716",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100080",

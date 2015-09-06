@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184310
   },
-  "name": "The Plains Vintage Railway and Historical Museum",
+  "name": [
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "The Plains Vintage Railway and Historical Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@plainsrailway.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.plainsrailway.co.nz",
   "telephone": "64-3 3089600",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open days as per our website .",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Aprire giorni secondo il nostro sito Web.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "根据我们的网站的开放日。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Jornadas de puertas abiertas según nuestro sitio Web.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Dias abertos como por nosso Web site.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "当社のウェブサイトに従って日を開きます。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Дни открытых дверей в соответствии с нашего веб-сайта.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Tage der offenen Tür nach unserer Website.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Journées portes ouvertes selon les directives de notre site Web.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Hari terbuka seperti di laman web kami.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Tage der offenen Tür nach unserer Website.",
   "offers": {
     "@Type": "Offer",
-    "description": "Free to museum site. Train fares additional charge."
+    "description": [
+      {
+        "@value": "Free to museum site. Train fares additional charge.",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184310",
+    "url": "http://www.museums.io/en/museums/184310",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135031
   },
-  "name": "DAUER MUSEUM OF CLASSIC CARS INC",
+  "name": [
+    {
+      "@value": "DAUER MUSEUM OF CLASSIC CARS INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4850 W OAKLAND PARK BLVD 145",
@@ -22,9 +27,6 @@
     "longitude": -80.215
   },
   "url": "http://www.dauerclassiccars.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200585",

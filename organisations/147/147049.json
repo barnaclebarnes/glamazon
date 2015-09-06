@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147049
   },
-  "name": "MARK TWAIN MUSEUM",
+  "name": [
+    {
+      "@value": "MARK TWAIN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "47 S C ST",
@@ -22,9 +27,6 @@
     "longitude": -119.649
   },
   "telephone": "+1 (775) 847-0525",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403200024",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160834
   },
-  "name": "MILITARY AVIATION MUSEUM",
+  "name": [
+    {
+      "@value": "MILITARY AVIATION MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4455 SOUTH BLVD STE 400",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.militaryaviationmuseum.org",
   "telephone": "+1 (757) 721-7767",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100340",

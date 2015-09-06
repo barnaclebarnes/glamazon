@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183669
   },
-  "name": "Oberpfälzer Heimatmuseum Seebarn",
+  "name": [
+    {
+      "@value": "Oberpfälzer Heimatmuseum Seebarn",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchplatz 8",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ti-neunburg.de/html/museum_seebarn.html",
   "telephone": "09672/92190",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

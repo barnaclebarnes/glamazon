@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187317
   },
-  "name": "Museo vescovile d’arte sacra",
+  "name": [
+    {
+      "@value": "Museo vescovile d’arte sacra",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "C.so Vittorio Emanuele II, ",
@@ -16,10 +21,6 @@
   },
   "url": "http://www.ascolipiceno.chiesacattolica.it",
   "telephone": "+39 +39 0736 252883",
-  "contactPoint": [
-
-  ],
-  "openingHours": "sabato e domenica",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "104143",

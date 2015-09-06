@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164123
   },
-  "name": "Morwell Historical Society",
+  "name": [
+    {
+      "@value": "Morwell Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.morwellhistoricalsociety.org.au",
   "telephone": "(03) 5134 1149",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "morwell-historical-society",

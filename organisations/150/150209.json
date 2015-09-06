@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150209
   },
-  "name": "TOY TOWN MUSEUM",
+  "name": [
+    {
+      "@value": "TOY TOWN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 238",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.toytownusa.com",
   "telephone": "+1 (716) 687-5151",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601503",

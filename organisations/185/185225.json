@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185225
   },
-  "name": "KUH Hospital Museum",
+  "name": [
+    {
+      "@value": "KUH Hospital Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 27.6627
   },
   "url": "http://www.psshp.fi/sairaanhoitopiiri/sairaalamuseo",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

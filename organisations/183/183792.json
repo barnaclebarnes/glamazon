@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183792
   },
-  "name": "Klostermuseum Ursberg mit Klosterbibliothek",
+  "name": [
+    {
+      "@value": "Klostermuseum Ursberg mit Klosterbibliothek",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Klosterhof 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ursberg.de/St.Josefskongregation/Einrichtungen/Klostermuseum",
   "telephone": "08281/92-3330",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

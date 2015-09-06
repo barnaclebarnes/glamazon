@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142630
   },
-  "name": "CONCORD ANTIQUARIAN SOCIETY",
+  "name": [
+    {
+      "@value": "CONCORD ANTIQUARIAN SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "200 LEXINGTON RD",
@@ -22,9 +27,6 @@
     "longitude": -71.3422
   },
   "url": "http://www.concordmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500260",

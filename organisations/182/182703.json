@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182703
   },
-  "name": "Museum Erding",
+  "name": [
+    {
+      "@value": "Museum Erding",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Prielmayerstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-erding.de",
   "telephone": "08122/408150",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

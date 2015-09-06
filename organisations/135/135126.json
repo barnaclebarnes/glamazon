@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135126
   },
-  "name": "FLORIDA OCEANOGRAPHIC SOCIETY",
+  "name": [
+    {
+      "@value": "FLORIDA OCEANOGRAPHIC SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "890 NE OCEAN BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.floridaocean.org",
   "telephone": "+1 (772) 225-0505",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200681",

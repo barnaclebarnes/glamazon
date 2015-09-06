@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186180
   },
-  "name": "National Gallery",
+  "name": [
+    {
+      "@value": "National Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Galleria nazionale di Parma",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza della Pilotta, 15",
@@ -22,13 +31,28 @@
   },
   "url": "http://www.parmabeniartistici.beniculturali.it/galleria-nazionale-di-parma/",
   "telephone": "+39 0521 233309 - 0521 233617 \n        \n          (+39) 0521 233309 - 0521 233617",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "From Tuesday to Sunday hours 8.30-14.00, for Gallery itinerary B from Tuesday to Saturday hours 8.30-19.00",
+      "@langauge": "en"
+    },
+    {
+      "@value": "da martedì a sabato ore 8.30 -19.00; domenica e festivi 8.30 -14.00; ogni prima domenica del mese 8.30 - 18.00",
+      "@langauge": "it"
+    }
   ],
-  "openingHours": "From Tuesday to Sunday hours 8.30-14.00, for Gallery itinerary B from Tuesday to Saturday hours 8.30-19.00",
   "offers": {
     "@Type": "Offer",
-    "description": "€ 6,00 (inclusive Teatro Farnese entry)"
+    "description": [
+      {
+        "@value": "€ 6,00 (inclusive Teatro Farnese entry)",
+        "@langauge": "en"
+      },
+      {
+        "@value": "€ 6,00 (il biglietto comprende l'ingresso al Teatro Farnese)",
+        "@langauge": "it"
+      }
+    ]
   },
   "photo": {
     "@type": "ImageObject",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185099
   },
-  "name": "Nurmo Museum",
+  "name": [
+    {
+      "@value": "Nurmo Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 22.9281
   },
   "url": "http://www.nurmoo-seura.fi/nurmon-museo/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

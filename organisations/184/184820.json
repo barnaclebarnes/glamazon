@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184820
   },
-  "name": "Hester Rupert Art Museum",
+  "name": [
+    {
+      "@value": "Hester Rupert Art Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Church Street, Graaff Reinet",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "049 892 2121",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

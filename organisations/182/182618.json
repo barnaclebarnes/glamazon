@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182618
   },
-  "name": "Schloss Callenberg: Deutsches Schützenmuseum",
+  "name": [
+    {
+      "@value": "Schloss Callenberg: Deutsches Schützenmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Callenberg 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dsb.de/tradition/historie/schuetzenmuseum/",
   "telephone": "09561/5515-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

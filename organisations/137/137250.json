@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137250
   },
-  "name": "CHICAGO GENEALOGICAL SOCIETY",
+  "name": [
+    {
+      "@value": "CHICAGO GENEALOGICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1160",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.chicagogenealogy.org/index.html",
   "telephone": "+1 (312) 725-1306",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700395",

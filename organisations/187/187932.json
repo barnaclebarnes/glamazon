@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187932
   },
-  "name": "Museo di antichità",
+  "name": [
+    {
+      "@value": "Museo di antichità",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via 20 Settembre , 88",
@@ -22,14 +27,6 @@
   },
   "url": "http://museoarcheologico.piemonte.beniculturali.it",
   "telephone": "+39 0115212251 - 0115211106",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal martedì alla domenica dalle ore 80,30 alle 19,30. Lunedì chiuso",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4,00 euro"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/5OaHntPmmq9RW8CcNd8dY5W8PqE=/1000x1000/museums/logos/000/187/932/original/ca1b9f1878b1c858bd2989d80a8b8872bea49ff.jpg"

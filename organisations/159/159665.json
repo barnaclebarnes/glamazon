@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159665
   },
-  "name": "TEXAS FIRE MUSEUM INC",
+  "name": [
+    {
+      "@value": "TEXAS FIRE MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2600 CHALK HILL RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.texasfiremuseum.com",
   "telephone": "+1 (214) 267-1867",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801765",

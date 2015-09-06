@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142257
   },
-  "name": "WASHINGTON ARTS MUSEUM",
+  "name": [
+    {
+      "@value": "WASHINGTON ARTS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9811 CAPITOL VIEW AVE",
@@ -22,9 +27,6 @@
     "longitude": -77.0583
   },
   "url": "http://www.wamuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400550",

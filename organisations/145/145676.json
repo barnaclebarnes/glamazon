@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145676
   },
-  "name": "BISSELL HOUSE",
+  "name": [
+    {
+      "@value": "BISSELL HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10225 BELLEFONTAINE RD",
@@ -22,9 +27,6 @@
     "longitude": -90.2228
   },
   "telephone": "+1 (314) 544-5714",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900105",

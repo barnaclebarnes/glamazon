@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183237
   },
-  "name": "Glyptothek",
+  "name": [
+    {
+      "@value": "Glyptothek",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Königsplatz 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.antike-am-koenigsplatz.mwn.de/glyptothek/index.html",
   "telephone": "089/286100",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

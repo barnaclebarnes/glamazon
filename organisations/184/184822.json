@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184822
   },
-  "name": "Hilton College Museum",
+  "name": [
+    {
+      "@value": "Hilton College Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hilton College, Hilton",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "033 383080",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

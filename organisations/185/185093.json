@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185093
   },
-  "name": "Kemi Art Museum",
+  "name": [
+    {
+      "@value": "Kemi Art Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 24.5585
   },
   "url": "http://www.kemi.fi/taidemuseo",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

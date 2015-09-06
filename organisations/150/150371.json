@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150371
   },
-  "name": "ST LAWRENCE POWER & EQUIPMENT MUSEUM",
+  "name": [
+    {
+      "@value": "ST LAWRENCE POWER & EQUIPMENT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 400",
@@ -22,9 +27,6 @@
     "longitude": -75.1328
   },
   "url": "http://www.slpowermuseum.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601665",

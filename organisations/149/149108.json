@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149108
   },
-  "name": "ADIRONDACK MUSEUM",
+  "name": [
+    {
+      "@value": "ADIRONDACK MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9097 STATE ROUTE 30",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.adkmuseum.org",
   "telephone": "+1 (518) 352-7311",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600402",

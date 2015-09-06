@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183725
   },
-  "name": "Museum im Tuchmacherhaus",
+  "name": [
+    {
+      "@value": "Museum im Tuchmacherhaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Edmund-Zimmermann-Straße 16",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tuchmacherhaus.de/3.html",
   "telephone": "08281/3772",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

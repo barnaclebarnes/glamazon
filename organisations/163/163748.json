@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163748
   },
-  "name": "Camperdown & District Historical Society",
+  "name": [
+    {
+      "@value": "Camperdown & District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 143.144
   },
   "url": "http://www.camperdownhistory.org.au",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10am to 3pm Tuesday\r\n10am to 3pm first Sunday of the month",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10am to 3pm Tuesday\r\n10am to 3pm first Sunday of the month",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "camperdown-and-district-historical-society",

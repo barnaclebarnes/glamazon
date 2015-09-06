@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137309
   },
-  "name": "MUSEUM OF CLASSIC CHICAGO TELEVISION",
+  "name": [
+    {
+      "@value": "MUSEUM OF CLASSIC CHICAGO TELEVISION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "705 MAGNOLIA CT",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fuzzymemories.tv",
   "telephone": "+1 (630) 803-1977",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700454",

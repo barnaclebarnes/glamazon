@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183614
   },
-  "name": "Museum für Historische Wehrtechnik",
+  "name": [
+    {
+      "@value": "Museum für Historische Wehrtechnik",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Heinrich-Diehl-Straße",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wehrtechnikmuseum.de",
   "telephone": "09158/928851",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

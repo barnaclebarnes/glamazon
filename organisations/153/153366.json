@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153366
   },
-  "name": "BIRMINGHAM HALL OF FAME",
+  "name": [
+    {
+      "@value": "BIRMINGHAM HALL OF FAME",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5758 PICKLE RD",
@@ -21,9 +26,6 @@
     "latitude": 41.6309,
     "longitude": -83.4098
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403901144",

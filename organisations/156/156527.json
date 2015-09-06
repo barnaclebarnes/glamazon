@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156527
   },
-  "name": "CULINARY ARTS MUSEUM",
+  "name": [
+    {
+      "@value": "CULINARY ARTS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "315 HARBORSIDE BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.culinary.org",
   "telephone": "+1 (401) 598-2805",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404400031",

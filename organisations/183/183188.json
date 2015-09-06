@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183188
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kastulusplatz 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.moosburg.org/info/tour/heimus.html",
   "telephone": "08761/68420",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

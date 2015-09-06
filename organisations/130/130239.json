@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130239
   },
-  "name": "JEWISH MUSEUM",
+  "name": [
+    {
+      "@value": "JEWISH MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "166 GEARY ST",
@@ -22,9 +27,6 @@
     "longitude": -122.406
   },
   "telephone": "+1 (415) 591-8800",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/hMFfF8XIKayucOtlusXptLor78I=/1000x1000/museums/logos/000/130/239/original/JewishMuseumBerlin.jpg",

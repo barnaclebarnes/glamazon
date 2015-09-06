@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134579
   },
-  "name": "KNOTT HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "KNOTT HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "301 EAST PARK AVENUE",
@@ -22,9 +27,6 @@
     "longitude": -84.2793
   },
   "telephone": "+1 (850) 488-1484",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200133",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189904
   },
-  "name": "MUSEUM RESOURCE CENTER",
+  "name": [
+    {
+      "@value": "MUSEUM RESOURCE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3300 HUBBARD ROAD",
@@ -22,9 +27,6 @@
     "longitude": -76.8751
   },
   "telephone": "+1 (301) 341-0706",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400687",

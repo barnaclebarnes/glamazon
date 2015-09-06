@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188171
   },
-  "name": "The Peschici Castle",
+  "name": [
+    {
+      "@value": "The Peschici Castle",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Castello di Peschici",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Recinto Baronale, 1",
@@ -22,9 +31,6 @@
   },
   "url": "http://www. tiscalinet.it/castellopeschici",
   "telephone": "+39 ",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/SQSOlz7KL4_r9r783Jz4qv2Ic_w=/1000x1000/museums/logos/000/188/171/original/48945cf12ec32b4dc61ef04ce83391f0b52c7c.jpg"

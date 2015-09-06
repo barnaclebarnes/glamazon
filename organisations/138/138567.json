@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138567
   },
-  "name": "FORT WAYNE MUSEUM OF ART INC",
+  "name": [
+    {
+      "@value": "FORT WAYNE MUSEUM OF ART INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "311 E MAIN ST",
@@ -22,9 +27,6 @@
     "longitude": -85.1358
   },
   "url": "http://www.fwmoa.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401800353",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164277
   },
-  "name": "Sages Cottage",
+  "name": [
+    {
+      "@value": "Sages Cottage",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -38.1972,
     "longitude": 145.139
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "sages-cottage",

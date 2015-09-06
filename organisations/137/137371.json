@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137371
   },
-  "name": "MUSEUMS IN HAND",
+  "name": [
+    {
+      "@value": "MUSEUMS IN HAND",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "233 S WACKER DR UNIT 9370",
@@ -22,9 +27,6 @@
     "longitude": -87.6368
   },
   "url": "http://www.museumsinhand.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700516",

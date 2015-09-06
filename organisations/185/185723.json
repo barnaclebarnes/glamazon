@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185723
   },
-  "name": "Museo della castagna e dell’arte contadina di Cerva",
+  "name": [
+    {
+      "@value": "Museo della castagna e dell’arte contadina di Cerva",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Roma",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.comune.cerva.cz.it/",
   "telephone": "+39 3929817911 (Sindaco)",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Su richiesta tutti i giorni",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/-DO9Fy1ZwRTH18199R2WegsYZ2E=/1000x1000/museums/logos/000/185/723/original/805e5fd7f38e5375f5cf17fbb9f02ea44614f65d.jpg"

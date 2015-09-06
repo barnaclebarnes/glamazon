@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183726
   },
-  "name": "Klostermühlenmuseum",
+  "name": [
+    {
+      "@value": "Klostermühlenmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Franzengasse 21",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.klostermuehlenmuseum.de",
   "telephone": "08271/1769",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

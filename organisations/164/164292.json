@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164292
   },
-  "name": "Shepparton Art Museum",
+  "name": [
+    {
+      "@value": "Shepparton Art Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.sheppartonartmuseum.com.au/",
   "telephone": "(03) 5832 9861",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open every day except Good Friday, Christmas and New Years Day.  \r\n10.00am - 4.00pm \r\nPublic Holidays 1.00pm - 4.00pm ",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open every day except Good Friday, Christmas and New Years Day.  \r\n10.00am - 4.00pm \r\nPublic Holidays 1.00pm - 4.00pm ",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "shepparton-art-museum",

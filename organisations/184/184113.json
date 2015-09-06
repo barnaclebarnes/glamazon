@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184113
   },
-  "name": "Taranaki Pioneer Village",
+  "name": [
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Taranaki Pioneer Village",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:pioneer.village@infogen.net.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.pioneervillage.co.nz",
   "telephone": "64-6-765 5399",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 10am-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 10-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 10 上午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 10:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diariamente 10:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "毎日 10-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 10 утра - 4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 10:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 10:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 10 pagi - 4 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 10:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Erwachsene $10,00 $5,00 Familie $20,00"
+    "description": [
+      {
+        "@value": "Adult $10.00 \r\n Child $5.00\r\n Family $20.00",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Famiglia di adulti $10,00 bambino $5,00 $20,00",
+        "@langauge": "it"
+      },
+      {
+        "@value": "成人 $10.00 美元 5.00 儿童家庭 $20.00",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Adulto familia de niño $5,00 $10,00 $20,00",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Família de criança $5,00 adulto $10,00 $20,00",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "大人 $10.00 $5.00 の子ファミリー $20.00",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Взрослый семья ребенка $5,00 $10.00 $20.00",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Erwachsene $10,00 $5,00 Familie $20,00",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Adulte 10,00 $ enfants 5,00 $ famille 20,00 $",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Keluarga kanak-kanak $5.00 $10.00 dewasa $20.00",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184113",
+    "url": "http://www.museums.io/en/museums/184113",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

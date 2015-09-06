@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128519
   },
-  "name": "GREENE MUSEUM",
+  "name": [
+    {
+      "@value": "GREENE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "500 14TH ST",
@@ -22,9 +27,6 @@
     "longitude": -84.9994
   },
   "telephone": "+1 (334) 298-5413",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100049",

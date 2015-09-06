@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187999
   },
-  "name": "Museo naturalistico Alpe Selviana",
+  "name": [
+    {
+      "@value": "Museo naturalistico Alpe Selviana",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Agrano di Omegna - Via Selviana, 42, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.lagodorta.net",
   "telephone": "+39 032381287",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "102813",

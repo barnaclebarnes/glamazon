@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186352
   },
-  "name": "Sala della rimembranza",
+  "name": [
+    {
+      "@value": "Sala della rimembranza",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via S. Agostino, 8",
@@ -21,14 +26,6 @@
     "longitude": 13.2391
   },
   "telephone": "+39 043 2584007",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Da lunedì a sabato h 8.00-16.30 (su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Q71MQsL6mWURALRw5VxTPmQp_PI=/1000x1000/museums/logos/000/186/352/original/1567d6deb2bbc28c5324b823a3363dee3af61aa.JPG"

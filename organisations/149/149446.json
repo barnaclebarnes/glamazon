@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149446
   },
-  "name": "AMERICAN ACADEMY OF ARTS AND LETTERS",
+  "name": [
+    {
+      "@value": "AMERICAN ACADEMY OF ARTS AND LETTERS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "633 W 155TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.artsandletters.org",
   "telephone": "+1 (212) 368-5900",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600740",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144014
   },
-  "name": "GROSSE POINTE HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "GROSSE POINTE HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "381 KERCHEVAL AVE STE 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gphistorical.org",
   "telephone": "+1 (313) 884-7010",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600551",

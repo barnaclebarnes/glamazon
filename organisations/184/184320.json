@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184320
   },
-  "name": "The Wellington Fire Museum Trust",
+  "name": [
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "en"
+    },
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "it"
+    },
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "es"
+    },
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "de"
+    },
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "The Wellington Fire Museum Trust",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@firemuseum.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.firemuseum.co.nz",
   "telephone": "64-21779904",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment only",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Solo su appuntamento",
+      "@langauge": "it"
+    },
+    {
+      "@value": "仅限预约",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Sólo con cita previa",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Somente com hora marcada",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "完全予約制で",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Только по предварительной записи",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Nur auf Voranmeldung",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Sur rendez-vous seulement",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Dengan temujanji sahaja",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Nur auf Voranmeldung",
   "offers": {
     "@Type": "Offer",
-    "description": "By Koha (Donation)"
+    "description": [
+      {
+        "@value": "By Koha (Donation)",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184320",
+    "url": "http://www.museums.io/en/museums/184320",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

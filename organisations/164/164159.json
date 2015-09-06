@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164159
   },
-  "name": "Nillumbik Historical Society",
+  "name": [
+    {
+      "@value": "Nillumbik Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 145.177
   },
   "url": "http://nillumbikhistoricalsociety.blogspot.com.au",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "2:00pm to 4:00pm on first Sunday of each month",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "2:00pm to 4:00pm on first Sunday of each month",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "nillumbik-historical-society-inc",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189727
   },
-  "name": "ARCHBOLD BIOLOGICAL STATION",
+  "name": [
+    {
+      "@value": "ARCHBOLD BIOLOGICAL STATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "123 MAIN DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.archbold-station.org",
   "telephone": "+1 (863) 465-2571",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201289",

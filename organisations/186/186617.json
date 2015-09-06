@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186617
   },
-  "name": "Museo civico degli ex-voto",
+  "name": [
+    {
+      "@value": "Museo civico degli ex-voto",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Italia, 2",
@@ -22,9 +27,6 @@
   },
   "url": "http://beni-culturali.provincia.roma.it/content/museo-civico-degli-ex-voto",
   "telephone": "+39 0774899031",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "101610",

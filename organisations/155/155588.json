@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155588
   },
-  "name": "PHILADELPHIA AIR & SPACE MUSEUM",
+  "name": [
+    {
+      "@value": "PHILADELPHIA AIR & SPACE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1125 WALNUT ST",
@@ -21,9 +26,6 @@
     "latitude": 39.9488,
     "longitude": -75.1603
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200782",

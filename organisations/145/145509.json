@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145509
   },
-  "name": "MARDI GRAS MUSEUM INC",
+  "name": [
+    {
+      "@value": "MARDI GRAS MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1923",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.biloxi.ms.us/museums/mardigras",
   "telephone": "+1 (228) 435-6245",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402800216",

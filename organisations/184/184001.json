@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184001
   },
-  "name": "Richard Wagner Museum mit Nationalarchiv der Richard-Wagner-Stiftung Bayreuth",
+  "name": [
+    {
+      "@value": "Richard Wagner Museum mit Nationalarchiv der Richard-Wagner-Stiftung Bayreuth",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Wahnfriedstr. 2 ",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wagnermuseum.de",
   "telephone": "0921/75728-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

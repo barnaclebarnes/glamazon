@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133313
   },
-  "name": "GEORGETOWN ENERGY MUSEUM",
+  "name": [
+    {
+      "@value": "GEORGETOWN ENERGY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 338",
@@ -23,9 +28,6 @@
   },
   "url": "http://georgetownenergymuseum.org",
   "telephone": "+1 (303) 569-3557",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800489",

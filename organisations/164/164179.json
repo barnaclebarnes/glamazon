@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164179
   },
-  "name": "Orbost & District Historical Society",
+  "name": [
+    {
+      "@value": "Orbost & District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 148.459
   },
   "telephone": "(03) 5152 4574   (03) 5154 2474",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9am - 5pm weekdays",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "9am - 5pm weekdays",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "orbost-and-district-historical-society",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143823
   },
-  "name": "GREAT LAKES ZOOLOGICAL SOCIETY",
+  "name": [
+    {
+      "@value": "GREAT LAKES ZOOLOGICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "310 N MAIN STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.glzszoo.org",
   "telephone": "+1 (734) 332-1628",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600360",

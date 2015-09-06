@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153114
   },
-  "name": "STARK COUNTY HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "STARK COUNTY HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "800 MCKINLEY MONUMENT DR NW",
@@ -22,9 +27,6 @@
     "longitude": -81.3925
   },
   "url": "http://www.mckinleymuseum.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900892",

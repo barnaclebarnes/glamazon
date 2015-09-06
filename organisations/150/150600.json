@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150600
   },
-  "name": "AMOS PATTERSON MUSEUM",
+  "name": [
+    {
+      "@value": "AMOS PATTERSON MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "407 GROVELAND AVE",
@@ -21,9 +26,6 @@
     "latitude": 42.1156,
     "longitude": -76.0108
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601894",

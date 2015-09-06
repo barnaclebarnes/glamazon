@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163704
   },
-  "name": "Bendigo RSL Military Museum",
+  "name": [
+    {
+      "@value": "Bendigo RSL Military Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.bendigorsl.com.au",
   "telephone": "03 54424513",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Winter, June, July, August. 11.00am - 3.00pm.\r\nRest of year, 10.00am - 4.00pm. Sunday to Friday. Closed Saturdays and Public Holidays",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Winter, June, July, August. 11.00am - 3.00pm.\r\nRest of year, 10.00am - 4.00pm. Sunday to Friday. Closed Saturdays and Public Holidays",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "bendigo-rsl-soldiers-memorial-museum",

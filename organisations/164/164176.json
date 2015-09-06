@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164176
   },
-  "name": "Olinda Fire Brigade",
+  "name": [
+    {
+      "@value": "Olinda Fire Brigade",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 144.785
   },
   "url": "http://www.olindacfa.info/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "olinda-fire-brigade",

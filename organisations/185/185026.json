@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185026
   },
-  "name": "War Museum of Boer Republics",
+  "name": [
+    {
+      "@value": "War Museum of Boer Republics",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Monument Road, Bloemfontein",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "051 447 3447",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

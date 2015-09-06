@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161899
   },
-  "name": "SEATTLE MUSEUM OF MYSTERIES",
+  "name": [
+    {
+      "@value": "SEATTLE MUSEUM OF MYSTERIES",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "623 BROADWAY E",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nwlegendsmuseum.com/",
   "telephone": "+1 (206) 328-6499",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300348",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183071
   },
-  "name": "Skulpturenmuseum im Hofberg",
+  "name": [
+    {
+      "@value": "Skulpturenmuseum im Hofberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Prantlgarten 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.skulpturenmuseum-im-hofberg.de",
   "telephone": "0871/890-21",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

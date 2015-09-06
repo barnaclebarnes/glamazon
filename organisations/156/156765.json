@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156765
   },
-  "name": "CITY OF BEAUFORT MUSEUM",
+  "name": [
+    {
+      "@value": "CITY OF BEAUFORT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1911 BOUNDARY ST",
@@ -22,9 +27,6 @@
     "longitude": -80.6856
   },
   "url": "http://beauforthistorymuseum.com/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404500060",

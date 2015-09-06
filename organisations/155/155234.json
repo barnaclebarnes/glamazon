@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155234
   },
-  "name": "SAFE MUSEUM",
+  "name": [
+    {
+      "@value": "SAFE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6825 NORWITCH DR",
@@ -22,9 +27,6 @@
     "longitude": -75.2258
   },
   "telephone": "+1 (215) 365-7233",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200428",

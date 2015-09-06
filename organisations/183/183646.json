@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183646
   },
-  "name": "Stadtmuseum",
+  "name": [
+    {
+      "@value": "Stadtmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Museumsstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schwabach.de/stadtmuseum",
   "telephone": "09122/833-933",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

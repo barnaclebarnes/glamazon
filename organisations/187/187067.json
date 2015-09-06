@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187067
   },
-  "name": "Museo Cappuccini",
+  "name": [
+    {
+      "@value": "Museo Cappuccini",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via A. Kramer, 5",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.bccmuseum.org",
   "telephone": "+39 02 77122321",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Martedi dalle ore 10,00 alle ore 18,30 ultimo ingresso alle ore 18,00 Da mercoledi a sabato dalle ore 13,30 alle ore 18,00 ultimo ingresso alle ore 17,30",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "103704",

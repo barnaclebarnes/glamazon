@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184247
   },
-  "name": "Museum of Aviation (Kapiti) Inc",
+  "name": [
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Museum of Aviation (Kapiti) Inc",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,18 +57,97 @@
     "latitude": -40.9014,
     "longitude": 174.992
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sunday 10:00am - 4:00pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Domenica 10:0-16:0",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周日 10:0 上午-4:0 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Domingo 10:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Domingo 10:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "日曜日 10:00-16:00",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Воскресенье 10:00 - 4:00 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Sonntag 10:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Dimanche 10:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Ahad 10:00 am - 4:00 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Sonntag 10:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Eintritt gegen Spende"
+    "description": [
+      {
+        "@value": "Admission by donation",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Ammissione di donazione",
+        "@langauge": "it"
+      },
+      {
+        "@value": "由捐赠入场",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Ingreso por donación",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Admissão por doação",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "寄贈受付",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Вход по пожертвование",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Eintritt gegen Spende",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Admission par Don",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Kemasukan oleh sumbangan",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184247",
+    "url": "http://www.museums.io/en/museums/184247",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

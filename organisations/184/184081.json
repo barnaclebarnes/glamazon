@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184081
   },
-  "name": "German Maritime Rescue Service (GMSRS)",
+  "name": [
+    {
+      "@value": "German Maritime Rescue Service (GMSRS)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@seenotretter.de"
@@ -18,9 +23,6 @@
     "longitude": 8.80735
   },
   "telephone": "+49 421 53707665",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bremen",

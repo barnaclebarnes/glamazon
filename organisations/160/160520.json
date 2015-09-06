@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160520
   },
-  "name": "SPOTSYLVANIA COUNTY MUSEUM",
+  "name": [
+    {
+      "@value": "SPOTSYLVANIA COUNTY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8956 COURTHOUSE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://spotsylvaniamuseum.org/",
   "telephone": "+1 (540) 507-7278",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100026",

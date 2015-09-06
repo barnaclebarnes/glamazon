@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189160
   },
-  "name": "Museo della scuola di Pergine Valsugana",
+  "name": [
+    {
+      "@value": "Museo della scuola di Pergine Valsugana",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via San Pietro, 2",
@@ -16,10 +21,6 @@
   },
   "url": "http://www.infotrentino.com/Trentino/IT/c/1327/1/0/Itinerario-etnografico.html",
   "telephone": "+39 0461 532448 - 0461 502390",
-  "contactPoint": [
-
-  ],
-  "openingHours": "martedì e il sabato dalle ore 9.00 alle 12.00",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100625",

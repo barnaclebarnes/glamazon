@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183979
   },
-  "name": "Archäologisches Museum des Historischen Vereins für Oberfranken e. V.",
+  "name": [
+    {
+      "@value": "Archäologisches Museum des Historischen Vereins für Oberfranken e. V.",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ludwigstraße 25 b",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hvo.franken.org",
   "telephone": "0921/65307",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

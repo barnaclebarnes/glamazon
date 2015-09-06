@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129058
   },
-  "name": "ALASKA MUSEUM OF NATURAL HISTORY",
+  "name": [
+    {
+      "@value": "ALASKA MUSEUM OF NATURAL HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "201 N BRAGAW ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.alaskamuseum.org",
   "telephone": "+1 (907) 274-2400",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400200129",

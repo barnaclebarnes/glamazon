@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142223
   },
-  "name": "NATIONAL CRYPTOLOGIC MUSEUM",
+  "name": [
+    {
+      "@value": "NATIONAL CRYPTOLOGIC MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1682",
@@ -22,9 +27,6 @@
     "longitude": -76.7591
   },
   "telephone": "+1 (301) 688-5849",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400516",

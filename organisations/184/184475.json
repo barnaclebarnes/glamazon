@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184475
   },
-  "name": "National Scout Museum",
+  "name": [
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "National Scout Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:nationalscoutmuseum@scouts.org.nz"
@@ -18,18 +59,61 @@
     "longitude": 172.653
   },
   "telephone": "64-3-385 7599 (Graham Matheson)",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Sunday from 1pm to 4pm or alternatively by arrangement. Guided tours can be provided, also by arrangement.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Domenica dalle 13 alle 16 o in alternativa da concordare. Visite guidate possono essere fornite, anche da concordare.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周日从 1 下午至 4 下午或者由安排。可以提供导赏的服务，也是由安排。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El domingo de 13:00 a 16:00 o bien por el arreglo. Visitas guiadas pueden suministrarse, también por el arreglo.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Domingo de 13:00-16:00 ou alternativamente pelo arranjo. Visitas guiadas podem ser fornecidas, também pelo arranjo.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "日曜日の 13 から 16 または配置によって。またガイド付きツアーは、アレンジでは提供できます。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Воскресенье с 13: 00 до 16: 00 или по договоренности. Также может предоставляться экскурсии по договоренности.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Sonntag von 13:00 bis 16:00 oder nach Vereinbarung. Führungen können auch nach Vereinbarung bereitgestellt werden.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Dimanche de 13:00 à 16:00 ou bien par l'arrangement. Des visites guidées peuvent être fournis, également par l'arrangement.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Ahad dari 1 pm hingga 4 pm, atau sebagai alternatif dengan pengaturan. Lawatan berpandu boleh disediakan, juga dengan pengaturan.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Sonntag von 13:00 bis 16:00 oder nach Vereinbarung. Führungen können auch nach Vereinbarung bereitgestellt werden.",
   "offers": {
     "@Type": "Offer",
-    "description": "Donations welcome"
+    "description": [
+      {
+        "@value": "Donations welcome",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184475",
+    "url": "http://www.museums.io/en/museums/184475",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183111
   },
-  "name": "Heimatmuseum Markt Schwaben",
+  "name": [
+    {
+      "@value": "Heimatmuseum Markt Schwaben",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bahnhofstraße 28",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.markt-schwaben.de/index.php?id=0,123",
   "telephone": "08121/3252",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

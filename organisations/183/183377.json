@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183377
   },
-  "name": "Krankenhausmuseum",
+  "name": [
+    {
+      "@value": "Krankenhausmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Prof.-Ernst-Nathan-Straße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.klinikum-nuernberg.de/DE/ueber_uns/projekte_initiativen/kh_museum1/kh_museum.html",
   "telephone": "0911/3982-550",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164245
   },
-  "name": "Rochester Historical and Pioneer Society Museum",
+  "name": [
+    {
+      "@value": "Rochester Historical and Pioneer Society Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 144.709
   },
   "telephone": "(03) 5484 1759  and (03) 5484 2556  and (03) 5484 1787 ",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open by appointment by contacting \n\nJ. &amp; M. Harley - Ph:(03) 5484 1759 \n\nB. &amp; F. Griffin - Ph:(03) 5484 1787 \n\nJ. &amp; L. Haines - Ph;(03) 5484 2556 \n",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open by appointment by contacting \n\nJ. &amp; M. Harley - Ph:(03) 5484 1759 \n\nB. &amp; F. Griffin - Ph:(03) 5484 1787 \n\nJ. &amp; L. Haines - Ph;(03) 5484 2556 \n",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "rochester-historical-pioneer-society-museum",

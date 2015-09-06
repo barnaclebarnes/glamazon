@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183477
   },
-  "name": "Burgmuseum",
+  "name": [
+    {
+      "@value": "Burgmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Burg",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.grafschaft-pappenheim.de/Burg-Pappenheim.34.0.html",
   "telephone": "09143/83890",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

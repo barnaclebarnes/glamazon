@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186575
   },
-  "name": "Museo di zoologia dell'Università \"La Sapienza\"",
+  "name": [
+    {
+      "@value": "Museo di zoologia dell'Università \"La Sapienza\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazzale Aldo Moro, 5",
@@ -22,14 +27,6 @@
   },
   "url": "http://w3.uniroma1.it/museozoologia",
   "telephone": "+39 06 49914742 -  060608",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9,00/19,00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "7,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/TabnNWLIaPukbs_uuf3oIRiSsVQ=/1000x1000/museums/logos/000/186/575/original/99933f83756cc5dd99903cfbae9ff4a3833bc223.JPG"

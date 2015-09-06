@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185610
   },
-  "name": "MUSEO DELLE TECNICHE FOTOGRAFICHE",
+  "name": [
+    {
+      "@value": "MUSEO DELLE TECNICHE FOTOGRAFICHE",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Galileo Galilei, 10",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.muvi.org/museoimmaginesulmona ",
   "telephone": "+39 0864 211035",
-  "contactPoint": [
-
-  ],
-  "openingHours": "lunedì-sabato 16-20; anche a richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100029",

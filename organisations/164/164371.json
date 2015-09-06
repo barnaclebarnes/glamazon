@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164371
   },
-  "name": "The Peninsula School",
+  "name": [
+    {
+      "@value": "The Peninsula School",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://tps.vic.edu.au",
   "telephone": "97887730",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "School hours",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "School hours",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "peninsula-school",

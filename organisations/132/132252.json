@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132252
   },
-  "name": "SACRAMENTO ZOOLOGICAL SOCIETY",
+  "name": [
+    {
+      "@value": "SACRAMENTO ZOOLOGICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3930 W LAND PARK DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.saczoo.org",
   "telephone": "+1 (916) 808-5885",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602378",

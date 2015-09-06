@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185625
   },
-  "name": "Museo d'arte moderna Vittoria Colonna",
+  "name": [
+    {
+      "@value": "Museo d'arte moderna Vittoria Colonna",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Gramsci, 1",
@@ -22,13 +27,6 @@
   },
   "url": "http://muvi.org/museovittoriacolonna",
   "telephone": "+39 085 4283759",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "museo gratuito, eventuali mostre a pagamento"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100076",

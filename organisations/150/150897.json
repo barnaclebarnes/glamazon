@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150897
   },
-  "name": "TOWN OF WASHINGTON HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "TOWN OF WASHINGTON HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 135",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.village.millbrook.ny.us/historicalsociety.html",
   "telephone": "+1 (845) 677-5083",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602191",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144174
   },
-  "name": "GRAND RAPIDS PUBLIC MUSEUM FOUNDATION",
+  "name": [
+    {
+      "@value": "GRAND RAPIDS PUBLIC MUSEUM FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "272 PEARL ST NW",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.grmuseum.org",
   "telephone": "+1 (616) 456-3977",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600711",

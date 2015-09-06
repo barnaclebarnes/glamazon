@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188155
   },
-  "name": "The Interactive Museum of Science",
+  "name": [
+    {
+      "@value": "The Interactive Museum of Science",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo interattivo delle scienze Via Futura",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Imperiale , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.bibliotecaprovinciale.foggia.it",
   "telephone": "+39 0881688706",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/MCJ8EoTwTyZhx83pHwxeAAzlLFs=/1000x1000/museums/logos/000/188/155/original/02db816e2122fef68fc398b266d92fdc1c3528.jpg"

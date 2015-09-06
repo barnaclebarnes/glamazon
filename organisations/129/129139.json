@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129139
   },
-  "name": "MUSICAL INSTRUMENT MUSEUM",
+  "name": [
+    {
+      "@value": "MUSICAL INSTRUMENT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4725 EAST MAYO BOULEVARD",
@@ -23,9 +28,6 @@
   },
   "url": "http://mim.org/",
   "telephone": "+1 (480) 478-6000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400041",

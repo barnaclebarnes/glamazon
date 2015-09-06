@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190481
   },
-  "name": "UNIVERSITY OF WISCONSIN STEVENS POINT",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF WISCONSIN STEVENS POINT",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "WCEE-CNR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.uwsp.edu/cnr-ap/wcee/pages/default.aspx",
   "telephone": "+1 (715) 346-4272",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405500887",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184285
   },
-  "name": "Bluff Maritime Museum",
+  "name": [
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Bluff Maritime Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,61 @@
     "longitude": 168.331
   },
   "telephone": "64-3-212 7534",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon-Fri 10am ­ 4.30pm \r\nSat-Sun and Public holidays 1pm - 5pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-ven 10 4,30 pm Sab-Dom e festivi 13-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一-星期五 10 上午四时半星期六、 日及公众假期 1 下午-5 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes de 10:00 4,30 pm Sab-Dom y festivos 13:00-17:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sex 10:00 4,30 pm Sáb-Dom e feriados 13:00-17:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月-金 10 4.30 pm 土日・祝日 13-17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Пн-Пт 10: 00 4.30 вечера СБ-ВС и праздничные дни 1-5 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Fr 10:00 4,30 Uhr Sa-So und Feiertage 13:00-17:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun-ven 10:00 4,30 h Sam-Dim et jours fériés de 13:00-17:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Jumaat 10pg 4.30 pm Sabtu-Ahad dan cuti umum 1 pm - 5 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Fr 10:00 4,30 Uhr Sa-So und Feiertage 13:00-17:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult $2.00\r\nChildren .50c"
+    "description": [
+      {
+        "@value": "Adult $2.00\r\nChildren .50c",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184285",
+    "url": "http://www.museums.io/en/museums/184285",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

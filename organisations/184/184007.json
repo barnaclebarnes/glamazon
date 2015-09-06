@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184007
   },
-  "name": "Spielzeugmuseum Beilngries",
+  "name": [
+    {
+      "@value": "Spielzeugmuseum Beilngries",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 49",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museen-anno-dazumal.de",
   "telephone": "08461/6011-76",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

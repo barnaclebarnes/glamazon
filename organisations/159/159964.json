@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159964
   },
-  "name": "OGDEN UNION STATION",
+  "name": [
+    {
+      "@value": "OGDEN UNION STATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2501 WALL AVENUE",
@@ -23,9 +28,6 @@
   },
   "url": "http://theunionstation.org/",
   "telephone": "+1 (801) 393-9890",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900030",

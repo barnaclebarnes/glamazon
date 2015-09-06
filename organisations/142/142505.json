@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142505
   },
-  "name": "FRAMINGHAM HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "FRAMINGHAM HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "16 VERNON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://framinghamhistory.org",
   "telephone": "+1 (508) 872-3780",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500135",

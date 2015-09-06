@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140283
   },
-  "name": "MY OLD KENTUCKY HOME STATE PARK",
+  "name": [
+    {
+      "@value": "MY OLD KENTUCKY HOME STATE PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "501 E. STEPHEN FOSTER AVE.",
@@ -23,9 +28,6 @@
   },
   "url": "http://parks.ky.gov",
   "telephone": "+1 (502) 348-3502",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100039",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139391
   },
-  "name": "SCIENCE STATION",
+  "name": [
+    {
+      "@value": "SCIENCE STATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4444 FIRST AVE NE - LINDALE MALL",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.crsciencecenter.org",
   "telephone": "+1 (319) 363-7836",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401900428",

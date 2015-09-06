@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184748
   },
-  "name": "Clanwilliam Museum",
+  "name": [
+    {
+      "@value": "Clanwilliam Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Old Gaol, Clanwilliam",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "027 482 2024",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

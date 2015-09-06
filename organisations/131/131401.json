@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131401
   },
-  "name": "UMUNHUM CONSERVANCY INC",
+  "name": [
+    {
+      "@value": "UMUNHUM CONSERVANCY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "327 CURIE DR",
@@ -21,9 +26,6 @@
     "latitude": 37.2278,
     "longitude": -121.798
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601527",

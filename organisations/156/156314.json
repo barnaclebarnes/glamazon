@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156314
   },
-  "name": "APPALACHIAN TRAIL MUSEUM INC",
+  "name": [
+    {
+      "@value": "APPALACHIAN TRAIL MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1120 PINE GROVE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.atmuseum.org",
   "telephone": "+1 (717) 486-8126",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201508",

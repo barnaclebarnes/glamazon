@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158251
   },
-  "name": "BOTANICAL RESEARCH INSTITUTE OF TEXAS",
+  "name": [
+    {
+      "@value": "BOTANICAL RESEARCH INSTITUTE OF TEXAS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "509 PECAN ST.",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.brit.org",
   "telephone": "+1 (817) 335-8158",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800351",

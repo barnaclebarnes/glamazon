@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188445
   },
-  "name": "Farmacia cinquecentesca",
+  "name": [
+    {
+      "@value": "Farmacia cinquecentesca",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Umberto I, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://comune.roccavaldina.me.it",
   "telephone": "+39 090 9977741",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "2,60€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/HmkXjPidRXOkGpJ67blvCsHGG54=/1000x1000/museums/logos/000/188/445/original/53031b550392d95c641f4a486c99864aa788b.JPG"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182874
   },
-  "name": "Museum der Stadt Alzenau",
+  "name": [
+    {
+      "@value": "Museum der Stadt Alzenau",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßstraße 13",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.alzenau.de/buergernetz/kultur___bildung/museum_der_stadt_alzenau/",
   "telephone": "06023/5020",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

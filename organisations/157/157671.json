@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157671
   },
-  "name": "UNIVERSITY OF THE SOUTH",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF THE SOUTH",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "735 UNIVERSITY AVENUE",
@@ -22,9 +27,6 @@
     "longitude": -85.921
   },
   "url": "http://www.sewanee.edu",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404700342",

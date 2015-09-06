@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138470
   },
-  "name": "BRAZIL MAINSTREET",
+  "name": [
+    {
+      "@value": "BRAZIL MAINSTREET",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "203 E NATIONAL AVE",
@@ -21,9 +26,6 @@
     "latitude": 39.5234,
     "longitude": -87.1261
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401800256",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134549
   },
-  "name": "MUSEUM OF APOPKANS",
+  "name": [
+    {
+      "@value": "MUSEUM OF APOPKANS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "122 E 5TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.apopkamuseum.org",
   "telephone": "+1 (407) 703-1707",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200103",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161380
   },
-  "name": "CHRISTIANSBURG INSTITUTE INC",
+  "name": [
+    {
+      "@value": "CHRISTIANSBURG INSTITUTE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 433",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.christiansburginstitute.org",
   "telephone": "+1 (540) 394-5001",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100886",

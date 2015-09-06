@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128645
   },
-  "name": "CAPITAL CITIES USA",
+  "name": [
+    {
+      "@value": "CAPITAL CITIES USA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "11120 LIGHTER DRIVE",
@@ -21,9 +26,6 @@
     "latitude": 33.3495,
     "longitude": -87.565
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100175",

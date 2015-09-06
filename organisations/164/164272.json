@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164272
   },
-  "name": "Russian Welfare Society",
+  "name": [
+    {
+      "@value": "Russian Welfare Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.russianwelfare.org.au",
   "telephone": "(03) 9793 5955",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Reception/Administration: Mon - Fri 9am - 5pm (except Public Holidays)",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Reception/Administration: Mon - Fri 9am - 5pm (except Public Holidays)",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "russian-welfare-society",

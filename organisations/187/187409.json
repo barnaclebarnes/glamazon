@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187409
   },
-  "name": "Museo didattico - artistico \"G. Leopardi\" del Centro nazionale di studi leopardiani",
+  "name": [
+    {
+      "@value": "Museo didattico - artistico \"G. Leopardi\" del Centro nazionale di studi leopardiani",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Monte Tabor, 2",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.leopardi.it",
   "telephone": "+39 0717570604",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Lunedì - Venerdì: 10/13.30 - 17/19.30; Sabato: 10/13.30",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "104224",

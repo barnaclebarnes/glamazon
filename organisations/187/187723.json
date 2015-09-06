@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187723
   },
-  "name": "Museo delle api e del miele",
+  "name": [
+    {
+      "@value": "Museo delle api e del miele",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Località Fabbrica, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.web.tiscali.it/montezemolo",
   "telephone": "+39 0174705600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "105824",

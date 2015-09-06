@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188049
   },
-  "name": "The Wine Museum of Alberobello",
+  "name": [
+    {
+      "@value": "The Wine Museum of Alberobello",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo del vino di Alberobello",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Due Macelli, 2",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.albeavini.com",
   "telephone": "+39 080.4323548",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/vTtCsbFpls93a5H6_MQ7gWDDzvo=/1000x1000/museums/logos/000/188/049/original/afbb67151b5a8457c336537954387a2b9c694dc.jpg"

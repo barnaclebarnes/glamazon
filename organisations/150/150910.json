@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150910
   },
-  "name": "MUSEUM OF AMERICAN HUMOR",
+  "name": [
+    {
+      "@value": "MUSEUM OF AMERICAN HUMOR",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "175 WEST 13TH ST",
@@ -21,9 +26,6 @@
     "latitude": 40.7376,
     "longitude": -73.9995
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602204",

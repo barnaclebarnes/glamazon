@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183728
   },
-  "name": "Töpfermuseum Thurnau",
+  "name": [
+    {
+      "@value": "Töpfermuseum Thurnau",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchplatz 12",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.toepfermuseum-thurnau.de",
   "telephone": "09228/5351",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

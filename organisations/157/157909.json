@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157909
   },
-  "name": "US VETERANS MUSEUM",
+  "name": [
+    {
+      "@value": "US VETERANS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 THORPE SPRINGS RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.usveteransmuseum.com",
   "telephone": "+1 (817) 578-3288",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800009",

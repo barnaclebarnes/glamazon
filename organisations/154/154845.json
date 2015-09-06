@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154845
   },
-  "name": "ST. PETER'S MUSEUM",
+  "name": [
+    {
+      "@value": "ST. PETER'S MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "127 CHERRY ALLEY",
@@ -21,9 +26,6 @@
     "latitude": 40.151,
     "longitude": -76.6047
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200039",

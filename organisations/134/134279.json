@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134279
   },
-  "name": "AMERICAN RED CROSS MUSEUM",
+  "name": [
+    {
+      "@value": "AMERICAN RED CROSS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "430 17TH STREET NW",
@@ -22,9 +27,6 @@
     "longitude": -77.0395
   },
   "telephone": "+1 (202) 639-3331",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100060",

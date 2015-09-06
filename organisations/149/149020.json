@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149020
   },
-  "name": "FORSYTH PARK ZOO",
+  "name": [
+    {
+      "@value": "FORSYTH PARK ZOO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "467 BROADWAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.forsythnaturecenter.org/",
   "telephone": "+1 (845) 339-3053",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600314",

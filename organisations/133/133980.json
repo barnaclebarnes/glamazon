@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133980
   },
-  "name": "BERLIN HISTORICAL SOCIETY INC",
+  "name": [
+    {
+      "@value": "BERLIN HISTORICAL SOCIETY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 8192",
@@ -21,9 +26,6 @@
     "latitude": 41.6213,
     "longitude": -72.7775
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900455",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186020
   },
-  "name": "Museo etnopreistorico",
+  "name": [
+    {
+      "@value": "Museo etnopreistorico",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Eldorado, 34",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.cainapoli.it",
   "telephone": "+39 0817645343",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "101861",

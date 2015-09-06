@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159502
   },
-  "name": "RED RIVER RAILROAD MUSEUM",
+  "name": [
+    {
+      "@value": "RED RIVER RAILROAD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "101 E MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.redriverrailmuseum.org",
   "telephone": "+1 (903) 463-5289",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801602",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186173
   },
-  "name": null,
+  "name": [
+    {
+      "@value": "Museo lapidario estense",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza S. Agostino, 337",
@@ -22,13 +27,28 @@
   },
   "url": "http://www.spsae-mo.beniculturali.it",
   "telephone": "+39 059 4395711\n        \n          (+39) 059 4395711",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "everyday hours 7.30-19.30",
+      "@langauge": "en"
+    },
+    {
+      "@value": "tutti i giorni dalle ore 7.30-19.30",
+      "@langauge": "it"
+    }
   ],
-  "openingHours": "everyday hours 7.30-19.30",
   "offers": {
     "@Type": "Offer",
-    "description": "free"
+    "description": [
+      {
+        "@value": "free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "gratuito",
+        "@langauge": "it"
+      }
+    ]
   },
   "photo": {
     "@type": "ImageObject",

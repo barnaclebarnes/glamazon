@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144020
   },
-  "name": "SANFORD HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "SANFORD HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2222 N SMITH ST",
@@ -22,9 +27,6 @@
     "longitude": -84.3886
   },
   "url": "http://www.sanfordhist.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600557",

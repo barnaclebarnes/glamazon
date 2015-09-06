@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183916
   },
-  "name": "Waldmuseum Zwiesel",
+  "name": [
+    {
+      "@value": "Waldmuseum Zwiesel",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchplatz 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.waldmuseum-zwiesel.de",
   "telephone": "09922/503706",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

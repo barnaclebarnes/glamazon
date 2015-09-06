@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163697
   },
-  "name": "Benalla Art Gallery",
+  "name": [
+    {
+      "@value": "Benalla Art Gallery",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.benallaartgallery.com/",
   "telephone": "5760 2600 ",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10-5pm daily.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10-5pm daily.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "benalla-art-gallery",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184408
   },
-  "name": "Akaroa Museum  Te Whare Taonga",
+  "name": [
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Akaroa Museum  Te Whare Taonga",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:akaroa.museum@ccc.govt.nz"
@@ -18,18 +59,61 @@
     "longitude": 172.967
   },
   "telephone": "64-3-304 1013",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10.30am-4.30pm Summer, 10.30am-4pm Winter",
+      "@langauge": "en"
+    },
+    {
+      "@value": "ore 10.30-16.30 pm estate, 10.30 am-16 inverno",
+      "@langauge": "it"
+    },
+    {
+      "@value": "上午-4.30 pm 夏天，10: 30 am-4 下午冬季",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "10: 30 am-4.30 pm verano, 10: 30 am-16:00 invierno",
+      "@langauge": "es"
+    },
+    {
+      "@value": "10: 30-4: 30 pm verão, 10: 30 am-16:00 inverno",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "10: 30 午前-4.30 pm 夏、10.30 am 16 冬",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "10.30-4.30 вечера летом, 10.30 утра - 4 вечера зимой",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "10.30 Uhr-16.30 Uhr Sommer, 10.30 Uhr-16:00-Winter",
+      "@langauge": "de"
+    },
+    {
+      "@value": "10 h 30-16 h 30 pm Summer, 10.30 hiver am-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "10.30 am-4.30 pm musim panas, 10.30 pagi - 4 petang musim sejuk",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "10.30 Uhr-16.30 Uhr Sommer, 10.30 Uhr-16:00-Winter",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult $4.00 \r\n Child $1.00 \r\nFamily $8.00\r\n Concessions available"
+    "description": [
+      {
+        "@value": "Adult $4.00 \r\n Child $1.00 \r\nFamily $8.00\r\n Concessions available",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184408",
+    "url": "http://www.museums.io/en/museums/184408",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

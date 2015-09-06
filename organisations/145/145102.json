@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145102
   },
-  "name": "WRIGHT AIR MUSEUM",
+  "name": [
+    {
+      "@value": "WRIGHT AIR MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4859 US HWY 12 SW",
@@ -21,9 +26,6 @@
     "latitude": 45.0649,
     "longitude": -93.9896
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700542",

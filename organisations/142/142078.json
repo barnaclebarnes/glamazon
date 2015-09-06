@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142078
   },
-  "name": "TRUSTEES OF THE WALTERS ART GALLERY",
+  "name": [
+    {
+      "@value": "TRUSTEES OF THE WALTERS ART GALLERY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "600 NORTH CHARLES ST.",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.thewalters.org",
   "telephone": "+1 (410) 547-9000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400371",

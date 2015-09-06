@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131472
   },
-  "name": "MUSEUM OF CRAFT AND DESIGN",
+  "name": [
+    {
+      "@value": "MUSEUM OF CRAFT AND DESIGN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2569 3RD ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sfmcd.org",
   "telephone": "+1 (415) 773-0303",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601598",

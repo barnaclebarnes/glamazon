@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188188
   },
-  "name": "The Municipal Museum of Ceramics",
+  "name": [
+    {
+      "@value": "The Municipal Museum of Ceramics",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo comunale della ceramica",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Municipio, 12",
@@ -21,9 +30,6 @@
     "longitude": 18.2016
   },
   "telephone": "+39 0836512461",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/BaQm6F_TQgB4uNvQlKz7Cpwn11M=/1000x1000/museums/logos/000/188/188/original/bf7248ddea66aaf65341a1f6f7c9471ad390.jpg"

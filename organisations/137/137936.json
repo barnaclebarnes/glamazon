@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137936
   },
-  "name": "CHILDRENS MUSEUM OF ILLINOIS",
+  "name": [
+    {
+      "@value": "CHILDRENS MUSEUM OF ILLINOIS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "55 S COUNTRY CLUB RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.cmofil.com",
   "telephone": "+1 (217) 423-5437",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401701081",

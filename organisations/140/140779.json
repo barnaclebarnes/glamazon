@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140779
   },
-  "name": "INTERNATIONAL PETROLEUM MUSEUM",
+  "name": [
+    {
+      "@value": "INTERNATIONAL PETROLEUM MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "111 1ST ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rigmuseum.com",
   "telephone": "+1 (985) 384-3744",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200061",

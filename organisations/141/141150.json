@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141150
   },
-  "name": "USS ORLECK NAVAL MUSEUM INC",
+  "name": [
+    {
+      "@value": "USS ORLECK NAVAL MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 4470",
@@ -23,9 +28,6 @@
   },
   "url": "http://orleck.org/",
   "telephone": "+1 (337) 214-7447",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200433",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134857
   },
-  "name": "HALIFAX HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "HALIFAX HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "252 S BEACH ST",
@@ -22,9 +27,6 @@
     "longitude": -81.0176
   },
   "url": "http://www.halifaxhistorical.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200411",

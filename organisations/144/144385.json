@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144385
   },
-  "name": "MUSEUM OF NEW ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF NEW ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "19 NORTH SAGINAW",
@@ -22,9 +27,6 @@
     "longitude": -83.2921
   },
   "telephone": "+1 (248) 651-4941",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600922",

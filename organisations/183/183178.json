@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183178
   },
-  "name": "Architekturmuseum Schwaben",
+  "name": [
+    {
+      "@value": "Architekturmuseum Schwaben",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Thelottstraße 11",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.architekturmuseum.de/augsburg/",
   "telephone": "0821/228183-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

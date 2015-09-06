@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142607
   },
-  "name": "NATIONAL FIRE PROTECTION ASSOCIATION",
+  "name": [
+    {
+      "@value": "NATIONAL FIRE PROTECTION ASSOCIATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 BATTERYMARCH PARK",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nfpa.org",
   "telephone": "+1 (617) 984-7446",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500237",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186660
   },
-  "name": "Museo della Casa di Santa Rosa",
+  "name": [
+    {
+      "@value": "Museo della Casa di Santa Rosa",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Casa di Santa Rosa, ",
@@ -21,10 +26,6 @@
     "longitude": 12.1087
   },
   "telephone": "+39 0761 342887",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9,30-12,00 /16,00-17,00. Estivo 9,30-12,00/16,00-18,00",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "101647",

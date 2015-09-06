@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132743
   },
-  "name": "THE HOLLYWOOD MUSEUM",
+  "name": [
+    {
+      "@value": "THE HOLLYWOOD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1660 N HIGHLAND AVE",
@@ -22,9 +27,6 @@
     "longitude": -118.339
   },
   "url": "http://www.thehollywoodmuseum.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602869",

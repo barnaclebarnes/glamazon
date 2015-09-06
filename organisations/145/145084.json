@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145084
   },
-  "name": "MINNESOTA AQUARIUM SOCIETY INCORPORATED",
+  "name": [
+    {
+      "@value": "MINNESOTA AQUARIUM SOCIETY INCORPORATED",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "965 BEACON LANE",
@@ -22,9 +27,6 @@
     "longitude": -93.2342
   },
   "url": "http://aquarium.mn/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700524",

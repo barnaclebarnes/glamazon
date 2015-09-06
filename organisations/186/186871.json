@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186871
   },
-  "name": "Museo diocesano di Brescia",
+  "name": [
+    {
+      "@value": "Museo diocesano di Brescia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Gasparo da Salò, 13",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museodiocesanobrescia.it/",
   "telephone": "+39 03040233",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Lunedì, martedì, giovedì, venerdì, sabato e domenica 10:00-12:00 15:00-18:00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "5,00 euro"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/yCnbJAx7uWrNesGTccSiHb98gKo=/1000x1000/museums/logos/000/186/871/original/37ee88f7dc1f1945e9a3131514a92d37d707671.jpg"

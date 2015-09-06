@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187013
   },
-  "name": "Museo parrocchiale Paolo Tosio",
+  "name": [
+    {
+      "@value": "Museo parrocchiale Paolo Tosio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Libertà, 3",
@@ -21,14 +26,6 @@
     "longitude": 10.4134
   },
   "telephone": "+39 0376710123",
-  "contactPoint": [
-
-  ],
-  "openingHours": "domenica 15.00/17.30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "103898",

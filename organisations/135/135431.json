@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135431
   },
-  "name": "ARMED FORCES MILITARY MUSEUM INC",
+  "name": [
+    {
+      "@value": "ARMED FORCES MILITARY MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 280",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.armedforcesmuseum.com",
   "telephone": "+1 (727) 539-8371",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200986",

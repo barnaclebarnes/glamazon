@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141712
   },
-  "name": "WILLIAMSPORT MUSEUM",
+  "name": [
+    {
+      "@value": "WILLIAMSPORT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "14 SPRINGFIELD LN",
@@ -22,9 +27,6 @@
     "longitude": -77.8133
   },
   "telephone": "+1 (301) 223-5854",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400005",

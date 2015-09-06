@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147407
   },
-  "name": "JAMES HOUSE ASSOCIATION INC",
+  "name": [
+    {
+      "@value": "JAMES HOUSE ASSOCIATION INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 234",
@@ -22,9 +27,6 @@
     "longitude": -70.8394
   },
   "url": "http://jameshousemuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403300182",

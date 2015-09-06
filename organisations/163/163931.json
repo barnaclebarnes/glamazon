@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163931
   },
-  "name": "Hamilton Hospital Medical Museum",
+  "name": [
+    {
+      "@value": "Hamilton Hospital Medical Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.wdhs.net",
   "telephone": "Wed. 0355518389 or AH 03 55722851",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Wednesdays 11am - 6pm by appointment, Please telephone 03 55722851 or on Wednesday 03 55518389",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Wednesdays 11am - 6pm by appointment, Please telephone 03 55722851 or on Wednesday 03 55518389",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "hamilton-base-hospital",

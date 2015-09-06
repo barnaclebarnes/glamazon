@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132747
   },
-  "name": "PETERSEN AUTOMOTIVE MUSEUM FOUNDATION",
+  "name": [
+    {
+      "@value": "PETERSEN AUTOMOTIVE MUSEUM FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6060 WILSHIRE BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.petersen.org",
   "telephone": "+1 (323) 930-2277",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602873",

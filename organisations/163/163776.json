@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163776
   },
-  "name": "Chinese Museum",
+  "name": [
+    {
+      "@value": "Chinese Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.chinesemuseum.com.au/",
   "telephone": "03 9662 2888",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10 am to 5 pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10 am to 5 pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "chinese-museum",

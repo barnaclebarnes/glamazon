@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190113
   },
-  "name": "SARATOGA NATIONAL HISTORICAL PARK",
+  "name": [
+    {
+      "@value": "SARATOGA NATIONAL HISTORICAL PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "648 ROUTE 32",
@@ -22,9 +27,6 @@
     "longitude": -73.653
   },
   "telephone": "+1 (518) 670-2953",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602466",

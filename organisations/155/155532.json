@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155532
   },
-  "name": "FAIR HILL BURIAL GROUND CORPORATION",
+  "name": [
+    {
+      "@value": "FAIR HILL BURIAL GROUND CORPORATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1515 CHERRY STREET",
@@ -22,9 +27,6 @@
     "longitude": -75.1651
   },
   "url": "http://www.historicfairhill.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200726",

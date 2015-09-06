@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130898
   },
-  "name": "ARTNOW INTERNATIONAL INC",
+  "name": [
+    {
+      "@value": "ARTNOW INTERNATIONAL INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "50 CALIFORNIA ST STE 3200",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.artnowinternational.org",
   "telephone": "+1 (415) 788-2929",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601024",

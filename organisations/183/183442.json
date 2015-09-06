@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183442
   },
-  "name": "Schlossmuseum",
+  "name": [
+    {
+      "@value": "Schlossmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Vorderschloß 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloss-ortenburg.de",
   "telephone": "08542/8984060",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

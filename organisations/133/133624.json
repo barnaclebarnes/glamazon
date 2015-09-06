@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133624
   },
-  "name": "BARNES MUSEUM",
+  "name": [
+    {
+      "@value": "BARNES MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "85 N MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.southingtonlibrary.org/barnes_museum1.htm",
   "telephone": "+1 (860) 628-5426",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900099",

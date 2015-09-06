@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188060
   },
-  "name": "The Diocesan Museum of Bari (or The Cathedral Museum)",
+  "name": [
+    {
+      "@value": "The Diocesan Museum of Bari (or The Cathedral Museum)",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo diocesano di Bari (o Museo della Cattedrale)",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Dottula, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.arcidiocesibaribitonto.it",
   "telephone": "+39 0805210064",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/QXPDInWFu41VIUm4neOSudiB9oo=/1000x1000/museums/logos/000/188/060/original/c70c3181a183052796a766203bb480fb3a560.jpg"

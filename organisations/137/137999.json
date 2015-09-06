@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137999
   },
-  "name": "GALESBURG MUSEUMS INC",
+  "name": [
+    {
+      "@value": "GALESBURG MUSEUMS INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "128 S CHAMBERS ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.discoverydepot.org",
   "telephone": "+1 (309) 344-8876",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401701144",

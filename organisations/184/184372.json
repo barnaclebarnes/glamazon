@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184372
   },
-  "name": "Aigantighe Art Gallery",
+  "name": [
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Aigantighe Art Gallery",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:gallery@timdc.govt.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.timaru.govt.nz/art-gallery",
   "telephone": "64-3-688 4424",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tue-Fri 10.00am-4.00pm \r\nSat-Sun 12.00pm­ -4.00pm \r\nThe sculpture garden is always open.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Mar-ven ore 10.00-16.00 Sab-Dom 12-4.00 pm il giardino delle sculture è sempre aperto.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周二至周五上午 10.00-4.00 pm Sat-太阳 12 下午-4.00 pm 雕塑花园永远是敞开的。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Martes a viernes 10.00 am-4.00 pm Sat-Sun 12:00-4.00 pm en el jardín de esculturas está siempre abierto.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Ter-sex 10: 00-4: 00 pm Sáb-Dom 12:00-4.00 pm jardim de esculturas está sempre aberto.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "火-金午前 10.00-4.00 午後土日 12-4.00 pm 彫刻庭園は常にオープン。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Вт-пт 10.00-4.00 pm сб-вс 12.00-4.00 pm всегда открыт сад скульптур.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Di-Fr 10.00-16.00 Uhr Sa-So 12:00-4.00 Uhr der Skulpturengarten immer offen ist.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mar-Ven 10 : 00-16 h 00 Sam-Dim 12:00-4.00 p.m. le jardin de sculptures est toujours ouvert.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Selasa-Jumaat 10.00 am-4.00 pm Sabtu-Ahad 12.00 tgh-4.00 pm Taman arca ini sentiasa dibuka.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Di-Fr 10.00-16.00 Uhr Sa-So 12:00-4.00 Uhr der Skulpturengarten immer offen ist.",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184372",
+    "url": "http://www.museums.io/en/museums/184372",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

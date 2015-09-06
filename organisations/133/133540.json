@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133540
   },
-  "name": "STONY CREEK MUSEUM",
+  "name": [
+    {
+      "@value": "STONY CREEK MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "84 THIMBLE ISLAND RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stonycreekmuseum.com",
   "telephone": "+1 (203) 481-9369",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900015",

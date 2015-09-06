@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151999
   },
-  "name": "BLACK MOUNTAIN COLLEGE MUSEUMS & ARTS CENTER",
+  "name": [
+    {
+      "@value": "BLACK MOUNTAIN COLLEGE MUSEUMS & ARTS CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 18912",
@@ -22,9 +27,6 @@
     "longitude": -82.5546
   },
   "url": "http://www.blackmountaincollege.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700870",

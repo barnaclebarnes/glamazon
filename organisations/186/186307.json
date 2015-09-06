@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186307
   },
-  "name": "Museo cristiano e Tesoro del Duomo",
+  "name": [
+    {
+      "@value": "Museo cristiano e Tesoro del Duomo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Condotti, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.webdiocesi.chiesacattolica.it",
   "telephone": "+39 0432730403",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal mercoledì alla domenica dalla 10.00 alle 13.00 e dalle 15.00 alle 18.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4.00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ZqyA1MO7K6j7hJKcCcrH-tkSWAw=/1000x1000/museums/logos/000/186/307/original/6ad9d338273237f3a1d3da123856348957585cc7.jpg"

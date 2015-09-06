@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144855
   },
-  "name": "SAINT JOHNS UNIVERSITY",
+  "name": [
+    {
+      "@value": "SAINT JOHNS UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 2400",
@@ -22,9 +27,6 @@
     "longitude": -94.3408
   },
   "url": "http://sjualum.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700295",

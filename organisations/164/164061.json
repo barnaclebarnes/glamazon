@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164061
   },
-  "name": "McCrae Homestead, National Trust of Australia (Victoria)",
+  "name": [
+    {
+      "@value": "McCrae Homestead, National Trust of Australia (Victoria)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 144.931
   },
   "url": "http://www.nationaltrust.org.au/vic/mccrae-homestead",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "mccrae-homestead--museum",

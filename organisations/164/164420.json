@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164420
   },
-  "name": "University of Melbourne, Land and Environment Library, Creswick",
+  "name": [
+    {
+      "@value": "University of Melbourne, Land and Environment Library, Creswick",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://library.unimelb.edu.au/libraries/land_and_environment_library/creswick",
   "telephone": "+61 5321 4116",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "n/a",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "n/a",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "university-melbourne",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185036
   },
-  "name": "Willem Annandale Art Gallery",
+  "name": [
+    {
+      "@value": "Willem Annandale Art Gallery",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mellville Street, Lichtenburg",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "081 632 5051",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

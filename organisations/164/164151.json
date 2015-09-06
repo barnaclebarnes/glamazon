@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164151
   },
-  "name": "National Vietnam Veterans Museum",
+  "name": [
+    {
+      "@value": "National Vietnam Veterans Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.vietnamvetsmuseum.org",
   "telephone": "03 5956 6400",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon, Wed, Thurs, Fri, Sat, Sun 10am - 5pm. Closed Tuesdays, Good Friday and Christmas Day",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Mon, Wed, Thurs, Fri, Sat, Sun 10am - 5pm. Closed Tuesdays, Good Friday and Christmas Day",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "national-vietnam-veterans-museum",

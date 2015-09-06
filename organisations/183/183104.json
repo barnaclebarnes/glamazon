@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183104
   },
-  "name": "Rieser Bauernmuseum",
+  "name": [
+    {
+      "@value": "Rieser Bauernmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Klosterhof 3 und 8",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rieser-bauernmuseum.de",
   "telephone": "09087/920717-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

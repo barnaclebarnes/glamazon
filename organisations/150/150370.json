@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150370
   },
-  "name": "BRONX LAND TRUST",
+  "name": [
+    {
+      "@value": "BRONX LAND TRUST",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "148 W 37TH ST FL 13",
@@ -21,9 +26,6 @@
     "latitude": 40.7527,
     "longitude": -73.9887
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601664",

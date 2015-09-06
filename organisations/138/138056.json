@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138056
   },
-  "name": "UNIVERSITY OF ILLINOIS",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF ILLINOIS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "MB 502, (MC 551)",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kam.illinois.edu",
   "telephone": "+1 (434) 666-3722",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401701201",

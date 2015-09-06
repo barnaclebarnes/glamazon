@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184967
   },
-  "name": "SAIAB (SA Institute for Aquatic Biodiversity)",
+  "name": [
+    {
+      "@value": "SAIAB (SA Institute for Aquatic Biodiversity)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Somerset Street, Grahamstown",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "046 603 5800",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

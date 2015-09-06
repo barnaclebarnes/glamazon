@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146723
   },
-  "name": "GEORGE W. FRANK HOUSE",
+  "name": [
+    {
+      "@value": "GEORGE W. FRANK HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "HISTORIC PL",
@@ -21,9 +26,6 @@
     "latitude": 40.7022,
     "longitude": -99.0964
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403100062",

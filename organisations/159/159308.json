@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159308
   },
-  "name": "JOHN P MCGOVERN MUSEUM OF HEALTH & MEDICAL SCIENCE",
+  "name": [
+    {
+      "@value": "JOHN P MCGOVERN MUSEUM OF HEALTH & MEDICAL SCIENCE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1515 HERMANN DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mhms.org",
   "telephone": "+1 (713) 521-1515",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801408",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182676
   },
-  "name": "Feuerwehrmuseum",
+  "name": [
+    {
+      "@value": "Feuerwehrmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Feuerhausgasse 1",
@@ -22,9 +27,6 @@
     "longitude": 12.7644
   },
   "telephone": "08721/8844",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

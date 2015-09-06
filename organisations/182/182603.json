@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182603
   },
-  "name": "Altenstädter Museum",
+  "name": [
+    {
+      "@value": "Altenstädter Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Pfarrplatz 12",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.heimatverein-altenstadt.de/heiminfo",
   "telephone": "09602/4713",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

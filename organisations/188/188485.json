@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188485
   },
-  "name": "Museo strumenti etnico musicali",
+  "name": [
+    {
+      "@value": "Museo strumenti etnico musicali",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Montesano, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.comune.chiaramonte.rg.it",
   "telephone": "+39 0932711239",
-  "contactPoint": [
-
-  ],
-  "openingHours": "da Lun. a Ven. 8.30/13.30 Sab. Dom. 9.30/18.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/FLV3yU_BheDQjtHhJZmY_UOWr0U=/1000x1000/museums/logos/000/188/485/original/ccf42e4cba871e2ab99e7e8ea1fda75e8a91695e.jpg"

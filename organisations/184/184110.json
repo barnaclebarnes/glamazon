@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184110
   },
-  "name": "Whangarei Museum & Kiwi House at Heritage Park",
+  "name": [
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Whangarei Museum & Kiwi House at Heritage Park",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:admin@whangareimuseum.co.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.whangareimuseum.co.nz",
   "telephone": "64-9-438 9630",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 10am-4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 10-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 10 上午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 10:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diariamente 10:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "毎日 10-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 10 утра - 4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 10:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 10:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 10 pagi - 4 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 10:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Freier Eintritt Park, Eintritt durch den Ort zum Museum & Kiwi-Haus: Erwachsene $10 Schüler/Kind $5 Familie und Gruppe Ermäßigungen"
+    "description": [
+      {
+        "@value": "Entry to park free, admission by venue to museum & kiwi house:\r\nAdult $10\r\nStudent/Child $5\r\nFamily and group discounts available",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Ingresso da sede alla Casa Museo & kiwi, ingresso al parco gratuito: adulti $10 studenti/bambini $5 famiglia e gruppo sconti disponibili",
+        "@langauge": "it"
+      },
+      {
+        "@value": "进入公园免费，由博物馆 &猕猴桃做客场地入场: 成人 $10 $5 的学生/孩子家庭和组特价可用",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Entrada al parque gratis, admisión por sede a la casa museo y kiwi: familia alumno/niño $5 $10 adultos y grupo de descuentos disponibles",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Entrada para o Parque gratuito, pelo local, a casa museu do &amp; do quivi: adultos $10 $5 do estudante/criança família e grupo descontos disponíveis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "公園への入場無料、博物館・ キウイの家に会場で入場料: 大人 $10 学生/子供 $5 家族・ グループ割引利用",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Вход в парк бесплатный, вход на место Дом музей &Киви: Взрослый группы и семьи студента/ребенок $5 $10 скидки",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Freier Eintritt Park, Eintritt durch den Ort zum Museum & Kiwi-Haus: Erwachsene $10 Schüler/Kind $5 Familie und Gruppe Ermäßigungen",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Entrée de la salle de conférence maison musée & kiwi, entrée au parc gratuite : adulte 10 $ étudiant/enfant 5 $ famille et groupe compte-rendus disponibles",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Kemasukan ke Taman percuma, kemasukan oleh tempat ke rumah Muzium & kiwi: dewasa $10 pelajar kanak-kanak $5 keluarga dan Kumpulan diskaun disediakan",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184110",
+    "url": "http://www.museums.io/en/museums/184110",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

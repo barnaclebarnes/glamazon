@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134581
   },
-  "name": "JOHN AND MABLE RINGLING MUSEUM OF ART",
+  "name": [
+    {
+      "@value": "JOHN AND MABLE RINGLING MUSEUM OF ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5401 BAY SHORE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ringling.org",
   "telephone": "+1 (941) 359-5700",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200135",

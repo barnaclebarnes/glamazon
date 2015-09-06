@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158212
   },
-  "name": "COLEMAN MUSEUM",
+  "name": [
+    {
+      "@value": "COLEMAN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "400 W COLLEGE AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.colemantexas.org",
   "telephone": "+1 (325) 625-2000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800312",

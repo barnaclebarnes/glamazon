@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163121
   },
-  "name": "THE BUILDING FOR KIDS INC",
+  "name": [
+    {
+      "@value": "THE BUILDING FOR KIDS INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 W COLLEGE AVENUE",
@@ -22,9 +27,6 @@
     "longitude": -88.4068
   },
   "url": "http://buildingforkids.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405500570",

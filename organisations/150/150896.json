@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150896
   },
-  "name": "DYCKMAN FARMHOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "DYCKMAN FARMHOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4881 BROADWAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dyckmanfarmhouse.org",
   "telephone": "+1 (212) 304-9422",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602190",

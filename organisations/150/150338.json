@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150338
   },
-  "name": "ATTICA HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "ATTICA HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 24",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.townofattica.net/history.htm",
   "telephone": "+1 (585) 591-2161",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601632",

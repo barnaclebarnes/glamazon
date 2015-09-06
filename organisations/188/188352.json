@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188352
   },
-  "name": "Museo taverna dell'Aquila",
+  "name": [
+    {
+      "@value": "Museo taverna dell'Aquila",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via del Tempio, 6",
@@ -21,14 +26,6 @@
     "longitude": 8.98585
   },
   "telephone": "+39 079 786249",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutti i giorni su prenotazione con orari da concordare",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/INMUTBJtToom62862mb6Jeyzgv4=/1000x1000/museums/logos/000/188/352/original/f6ecb9168c25ea7d21f547696817d229a3c763.JPG"

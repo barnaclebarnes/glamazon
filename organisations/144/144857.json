@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144857
   },
-  "name": "CARLETON COLLEGE",
+  "name": [
+    {
+      "@value": "CARLETON COLLEGE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 N COLLEGE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.carleton.edu",
   "telephone": "+1 (507) 646-4342",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700297",

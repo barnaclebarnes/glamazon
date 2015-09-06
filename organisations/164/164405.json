@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164405
   },
-  "name": "University of Melbourne, Maps Collection: Rare and Historic Maps",
+  "name": [
+    {
+      "@value": "University of Melbourne, Maps Collection: Rare and Historic Maps",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.lib.unimelb.edu.au/collections/maps/map-historical.html",
   "telephone": "13 MELB",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon- Fri 9:30am - 5:30pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Mon- Fri 9:30am - 5:30pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "map-collection-rare-historical-maps-university-melbourne",

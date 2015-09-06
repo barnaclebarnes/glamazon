@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139122
   },
-  "name": "NATIONAL MOTORCYCLE MUSEUM",
+  "name": [
+    {
+      "@value": "NATIONAL MOTORCYCLE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 405",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nationalmcmuseum.org",
   "telephone": "+1 (319) 462-3925",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401900159",

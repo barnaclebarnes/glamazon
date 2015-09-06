@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188785
   },
-  "name": "Istituto di biologia ed ecologia Marina di Piombino",
+  "name": [
+    {
+      "@value": "Istituto di biologia ed ecologia Marina di Piombino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bovio, 3/4",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.biomare.it",
   "telephone": "+39 0565225196",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "103057",

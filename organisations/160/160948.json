@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160948
   },
-  "name": "ART DISCOVERY INSTITUTE",
+  "name": [
+    {
+      "@value": "ART DISCOVERY INSTITUTE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1114 SUGAR MAPLE LANE",
@@ -21,9 +26,6 @@
     "latitude": 39.0029,
     "longitude": -77.3633
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100454",

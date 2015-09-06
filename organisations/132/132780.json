@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132780
   },
-  "name": "UNIVERSITY OF CALIFORNIA",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF CALIFORNIA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3201 SAASB",
@@ -21,9 +26,6 @@
     "latitude": 34.4173,
     "longitude": -119.846
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602906",

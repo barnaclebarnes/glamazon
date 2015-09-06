@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158715
   },
-  "name": "HISTORIC QUEEN THEATRE",
+  "name": [
+    {
+      "@value": "HISTORIC QUEEN THEATRE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 780",
@@ -22,9 +27,6 @@
     "longitude": -95.7704
   },
   "url": "http://www.queentheatre.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800815",

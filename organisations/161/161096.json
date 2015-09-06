@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161096
   },
-  "name": "MUSEUM OF THE CONFEDERACY",
+  "name": [
+    {
+      "@value": "MUSEUM OF THE CONFEDERACY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1201 E CLAY ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.moc.org",
   "telephone": "+1 (804) 649-1861",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100602",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185806
   },
-  "name": "Museo di paleontologia",
+  "name": [
+    {
+      "@value": "Museo di paleontologia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via P. Bucci, 14B",
@@ -22,10 +27,6 @@
   },
   "url": "http://museopaleo.unical.it",
   "telephone": "+39 0984 493685",
-  "contactPoint": [
-
-  ],
-  "openingHours": "martedì-mercoledì-goiovedì 10.00 - 12.00",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/T2K7DFkeJOf8kRP-h7OPstXud80=/1000x1000/museums/logos/000/185/806/original/75dd8642d8dbc1f65ddd59bfa08e6410188d2314.jpg"

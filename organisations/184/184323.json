@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184323
   },
-  "name": "Te Hikoi - Southern Journey",
+  "name": [
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Te Hikoi - Southern Journey",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:tehikoi@xtra.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.tehikoi.co.nz",
   "telephone": "64-3-234 8260",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10am - 4:30pm  daily",
+      "@langauge": "en"
+    },
+    {
+      "@value": "10-16:30 tutti i giorni",
+      "@langauge": "it"
+    },
+    {
+      "@value": "10 上午-4:30 下午每日",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "10:00-16:30 diario",
+      "@langauge": "es"
+    },
+    {
+      "@value": "10:00-16:30 diariamente",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "10-16:30 毎日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "10 утра - 4:30 вечера ежедневно",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "10:00-16:30 täglich",
+      "@langauge": "de"
+    },
+    {
+      "@value": "10:00-16:30 tous les jours",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "10 am - 4:30 pm setiap hari",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "10:00-16:30 täglich",
   "offers": {
     "@Type": "Offer",
-    "description": "Adults $12, Senior Citizens $9, Family $25"
+    "description": [
+      {
+        "@value": "Adults $12, Senior Citizens $9, Family $25",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184323",
+    "url": "http://www.museums.io/en/museums/184323",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

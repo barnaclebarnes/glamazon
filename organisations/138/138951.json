@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138951
   },
-  "name": "SHERIDAN MAIN STREET",
+  "name": [
+    {
+      "@value": "SHERIDAN MAIN STREET",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "802 S OHIO STREET",
@@ -21,9 +26,6 @@
     "latitude": 40.1313,
     "longitude": -86.2218
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401800737",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187245
   },
-  "name": "Museo della civiltà contadina di Fabriano",
+  "name": [
+    {
+      "@value": "Museo della civiltà contadina di Fabriano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via serraloggia, ",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.museolaginestra.it/MuseoCiviltaContadina",
   "telephone": "+39 0732 24013",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "1,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Wy46Y6lSA63D-DauFKtcXWZXr9E=/1000x1000/museums/logos/000/187/245/original/c5dc5f782184e3f4e96b26aed21f112b9ede24.JPG"

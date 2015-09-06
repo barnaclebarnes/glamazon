@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130975
   },
-  "name": "WORLD WILDLIFE AND NATURAL HISTORY MUSEUM OF SACRAMENTO",
+  "name": [
+    {
+      "@value": "WORLD WILDLIFE AND NATURAL HISTORY MUSEUM OF SACRAMENTO",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5150 MADISON AVE",
@@ -21,9 +26,6 @@
     "latitude": 38.6608,
     "longitude": -121.345
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601101",

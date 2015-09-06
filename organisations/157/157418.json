@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157418
   },
-  "name": "ETSU NATURAL HISTORY MUSEUM",
+  "name": [
+    {
+      "@value": "ETSU NATURAL HISTORY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1212 SUNCREST DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.etsu.edu/naturalhistorymuseum",
   "telephone": "+1 (423) 439-3659",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404700089",

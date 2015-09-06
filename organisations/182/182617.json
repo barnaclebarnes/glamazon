@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182617
   },
-  "name": "Naturkunde-Museum",
+  "name": [
+    {
+      "@value": "Naturkunde-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Park 6",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.naturkunde-museum-coburg.de",
   "telephone": "09561/8081-20",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

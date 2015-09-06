@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164038
   },
-  "name": "Lorne Historical Society",
+  "name": [
+    {
+      "@value": "Lorne Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://victoriancollections.net.au/organisations/lorne-historical-society",
   "telephone": "03 5367 5254",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "1.00pm to 4.00pm first Sunday each month",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "1.00pm to 4.00pm first Sunday each month",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "lorne-historical-society",

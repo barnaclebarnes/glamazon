@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161166
   },
-  "name": "LIBRARY OF VIRGINIA",
+  "name": [
+    {
+      "@value": "LIBRARY OF VIRGINIA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "800 E BROAD ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.lva.virginia.gov/",
   "telephone": "+1 (804) 692-3500",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100672",

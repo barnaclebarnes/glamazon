@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190348
   },
-  "name": "GREAT SMOKY MOUNTAINS INSTITUTE AT TREMONT",
+  "name": [
+    {
+      "@value": "GREAT SMOKY MOUNTAINS INSTITUTE AT TREMONT",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "9275 TREMONT ROAD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gsmit.org",
   "telephone": "+1 (865) 448-6709",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404700572",

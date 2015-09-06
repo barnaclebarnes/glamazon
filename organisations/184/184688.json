@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184688
   },
-  "name": "University of Witwatersrand",
+  "name": [
+    {
+      "@value": "University of Witwatersrand",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -26.1635,
     "longitude": 28.024
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

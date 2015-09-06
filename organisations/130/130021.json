@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130021
   },
-  "name": "SAN BERNARDINO MUSEUM",
+  "name": [
+    {
+      "@value": "SAN BERNARDINO MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2001 W AGUA MANSA RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://sbcounty.gov",
   "telephone": "+1 (909) 370-2091",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600147",

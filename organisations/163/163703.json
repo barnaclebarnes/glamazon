@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163703
   },
-  "name": "Bendigo Regional Archives Centre",
+  "name": [
+    {
+      "@value": "Bendigo Regional Archives Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.brac.vic.gov.au ",
   "telephone": "03 54492700 ",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10.00am - 4.30pm Wednesdays &amp; Thursdays",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10.00am - 4.30pm Wednesdays &amp; Thursdays",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "bendigo-regional-archives-centre",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156330
   },
-  "name": "PENNSYLVANIA HOSPITAL OF THE UNIVERSITY OF PENNSYLVANIA",
+  "name": [
+    {
+      "@value": "PENNSYLVANIA HOSPITAL OF THE UNIVERSITY OF PENNSYLVANIA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.uphs.upenn.edu/paharc",
   "telephone": "+1 (800) 789-PENN",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201524",

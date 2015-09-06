@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146123
   },
-  "name": "CHESTERFIELD ARTS INC",
+  "name": [
+    {
+      "@value": "CHESTERFIELD ARTS INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "17905 WILD HORSE CREEK RD",
@@ -21,9 +26,6 @@
     "latitude": 38.6488,
     "longitude": -90.6474
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900552",

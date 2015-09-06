@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187359
   },
-  "name": "Museo delle carbonaie",
+  "name": [
+    {
+      "@value": "Museo delle carbonaie",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "c/o Comune, ",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.comune.cessapalombo.mc.it",
   "telephone": "+39 0733907315",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Esn3mWkQyAz6ngx7D7_Qo3YevSc=/1000x1000/museums/logos/000/187/359/original/a8538df698942e977781b4c79bdad8a5131a12.jpg"

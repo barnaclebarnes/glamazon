@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159684
   },
-  "name": "THE MUSEUM OF NORTH TEXAS HISTORY",
+  "name": [
+    {
+      "@value": "THE MUSEUM OF NORTH TEXAS HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1619",
@@ -22,9 +27,6 @@
     "longitude": -98.4915
   },
   "url": "https://www.museumofnorthtexashistory.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801784",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133536
   },
-  "name": "THOMAS AVERY HOUSE",
+  "name": [
+    {
+      "@value": "THOMAS AVERY HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "SOCIETY RD",
@@ -21,9 +26,6 @@
     "latitude": 41.3481,
     "longitude": -72.2187
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900011",

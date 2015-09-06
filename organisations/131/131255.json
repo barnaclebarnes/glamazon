@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131255
+  },
+  "name": [
+    {
+      "@value": "CHILDRENS MUSEUM OF THE SEQUOIAS INC",
+      "@langauge": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX 688",
+    "addressLocality": "VISALIA",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "93279-0688"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=36.3092&mlon=-119.314#map=15/36.3092/-119.314",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.3092,
+    "longitude": -119.314
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601381",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

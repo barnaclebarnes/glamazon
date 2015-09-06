@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135732
   },
-  "name": "VIRGINIA STREET",
+  "name": [
+    {
+      "@value": "VIRGINIA STREET",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1309 VIRGINIA ST",
@@ -22,9 +27,6 @@
     "longitude": -84.9741
   },
   "telephone": "+1 (706) 507-0314",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401300003",

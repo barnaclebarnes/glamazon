@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150623
   },
-  "name": "NORTH SALEM HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "NORTH SALEM HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 31",
@@ -22,9 +27,6 @@
     "longitude": -73.5687
   },
   "url": "http://www.nshs.info/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601917",

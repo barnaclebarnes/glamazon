@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184281
   },
-  "name": "Kaiapoi Museum",
+  "name": [
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Kaiapoi Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:jeand.frank@xtra.co.nz"
@@ -18,18 +59,61 @@
     "longitude": 172.659
   },
   "telephone": "03 327 8678",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "2pm to 4pm \r\nThursdays and Sundays\r\nor by arrangement.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "14 a 16 giovedì e la domenica o su appuntamento.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "2 下午到 4 下午周四和周日或安排。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "14:00 a 16:00 el jueves y el domingos o por el arreglo.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "14:00 a 16:00 as quintas-feiras e domingos ou por acordo.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "14 に 16 は木曜と日曜、配置。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "2 до 4 вечера по четвергам и воскресеньям или по договоренности.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "14:00 bis 16:00 donnerstags und sonntags oder nach Vereinbarung.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "14:00 à 16:00 les jeudis et dimanches ou par arrangement.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "pukul 2 petang hingga 4 petang hari Khamis dan Ahad atau susunan.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "14:00 bis 16:00 donnerstags und sonntags oder nach Vereinbarung.",
   "offers": {
     "@Type": "Offer",
-    "description": "$2.00 Adults\r\n50 cents children\r\nCurrent financial members free admission"
+    "description": [
+      {
+        "@value": "$2.00 Adults\r\n50 cents children\r\nCurrent financial members free admission",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184281",
+    "url": "http://www.museums.io/en/museums/184281",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

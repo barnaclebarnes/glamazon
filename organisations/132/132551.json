@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132551
   },
-  "name": "CITY OF SAN BERNARDINO HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "CITY OF SAN BERNARDINO HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 875",
@@ -21,9 +26,6 @@
     "latitude": 34.1085,
     "longitude": -117.292
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602677",

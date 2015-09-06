@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183291
   },
-  "name": "Staatliche Münzsammlung München – Museum für Münzen, Papiergeld, Medaillen und geschnittene Steine",
+  "name": [
+    {
+      "@value": "Staatliche Münzsammlung München – Museum für Münzen, Papiergeld, Medaillen und geschnittene Steine",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Residenzstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.staatliche-muenzsammlung.de",
   "telephone": "089/227221",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

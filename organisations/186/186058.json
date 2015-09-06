@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186058
   },
-  "name": "Museo archeologico nazionale di Paestum",
+  "name": [
+    {
+      "@value": "Museo archeologico nazionale di Paestum",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Magna Grecia, 919",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museopaestum.beniculturali.it",
   "telephone": "+39 0828811023  068412312",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutti i giorni dalle ore 08:30 – 19:30 (ultimo ingresso 18:45)",
-  "offers": {
-    "@Type": "Offer",
-    "description": "7,00 euro (vedi dettaglio)"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/XDQIHP0jwymu6Gp91IOqObtMghQ=/1000x1000/museums/logos/000/186/058/original/f3f7937a781f48f242a7b7f8e41ef4275c11c.jpg"

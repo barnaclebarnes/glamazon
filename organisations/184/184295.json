@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184295
   },
-  "name": "Golden Bay Museum & Gallery",
+  "name": [
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Golden Bay Museum & Gallery",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:goldenbaymuseum@xtra.co.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.virtualbay.co.nz/gbmuseum",
   "telephone": "64-3-525 6268",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 10am - 4pm \r\nClosed Sundays in winter",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 10-16 domenica chiuso in inverno",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 10 上午-4 下午封闭的星期天在冬天",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 10:00-16:00 cerrado domingos en invierno",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diariamente 10:00-16:00, fechado aos domingos, no inverno",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "冬に毎日 10-16 日曜",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 10 утра - 4 вечера закрытых воскресеньям зимой",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 10:00-16:00 Sonntag geschlossen im winter",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 10:00-16:00 fermé le dimanche en hiver",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Ditutup hari Ahad setiap hari 10 pagi - 4 petang di musim sejuk",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 10:00-16:00 Sonntag geschlossen im winter",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184295",
+    "url": "http://www.museums.io/en/museums/184295",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

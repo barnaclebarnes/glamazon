@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156716
   },
-  "name": "SOUTH CAROLINA STATE MUSEUM",
+  "name": [
+    {
+      "@value": "SOUTH CAROLINA STATE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "301 GERVAIS ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum.state.sc.us",
   "telephone": "+1 (803) 898-4921",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404500011",

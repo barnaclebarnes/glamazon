@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164308
   },
-  "name": "St. Aloysius College",
+  "name": [
+    {
+      "@value": "St. Aloysius College",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.aloysius.vic.edu.au/",
   "telephone": "9329 0411",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "8.00am to 4.00pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "8.00am to 4.00pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "st-aloysius-college",

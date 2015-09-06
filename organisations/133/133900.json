@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133900
   },
-  "name": "JOHN J MCCARTHY OBSERVATORY CORPORATION",
+  "name": [
+    {
+      "@value": "JOHN J MCCARTHY OBSERVATORY CORPORATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3 ARAMON CIR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mccarthyobservatory.org/",
   "telephone": "+1 (860) 946-0312",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900375",

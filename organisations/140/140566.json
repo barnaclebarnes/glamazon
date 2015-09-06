@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140566
   },
-  "name": "DOWNTOWN FRANKFORT INC",
+  "name": [
+    {
+      "@value": "DOWNTOWN FRANKFORT INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 CAPITOL AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.downtownfrankfort.com",
   "telephone": "+1 (502) 223-2261",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100323",

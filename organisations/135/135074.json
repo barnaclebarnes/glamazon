@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135074
   },
-  "name": "MARITIME RESEARCH INSTITUTE",
+  "name": [
+    {
+      "@value": "MARITIME RESEARCH INSTITUTE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "17189 96TH WAY",
@@ -21,9 +26,6 @@
     "latitude": 26.9301,
     "longitude": -80.1863
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200628",

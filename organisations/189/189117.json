@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189117
   },
-  "name": "Museo della Val Venosta",
+  "name": [
+    {
+      "@value": "Museo della Val Venosta",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Merano, 1",
@@ -16,14 +21,6 @@
   },
   "url": "http://www.musei-altoadige.it/it/musei.asp?muspo_id=640",
   "telephone": "+39 473615590",
-  "contactPoint": [
-
-  ],
-  "openingHours": "20 marzo - 31 ottobre mar-dom e festivi ore 10-12 e 15-18",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 4,50"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Ct3xhxWwKo2vHrUgLZpBtU11UHk=/1000x1000/museums/logos/000/189/117/original/abee18c48f6f748d521f3e4b2ddb644c90a34d.jpg"

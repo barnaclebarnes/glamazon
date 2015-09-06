@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163619
   },
-  "name": "Ambleside Park Homestead Museum operated by the Knox Historical Society",
+  "name": [
+    {
+      "@value": "Ambleside Park Homestead Museum operated by the Knox Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://home.vicnet.net.au/~khsinc/index.html",
   "telephone": "(03) 9758 6722",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open Sundays 1pm - 4pm and at other times by appointment.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open Sundays 1pm - 4pm and at other times by appointment.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ambleside-park-homestead-museum",

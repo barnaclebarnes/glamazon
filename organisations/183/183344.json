@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183344
   },
-  "name": "Schloss Neunhof",
+  "name": [
+    {
+      "@value": "Schloss Neunhof",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Neunhofer Schloßplatz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gnm.de/dependancen.html",
   "telephone": "0911/1331-238",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

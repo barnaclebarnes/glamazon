@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185476
   },
-  "name": "Museum Eerola",
+  "name": [
+    {
+      "@value": "Museum Eerola",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 24.8694
   },
   "url": "http://www.hameenheimoliitto.fi/museoportaali/?page_id=255",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

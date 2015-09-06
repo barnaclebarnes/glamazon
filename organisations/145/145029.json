@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145029
   },
-  "name": "CLAN TARTAN",
+  "name": [
+    {
+      "@value": "CLAN TARTAN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4736 12TH AV S",
@@ -22,9 +27,6 @@
     "longitude": -93.2575
   },
   "url": "http://www.tartans.scotland.net",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700469",

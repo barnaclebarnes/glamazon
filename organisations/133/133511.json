@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133511
   },
-  "name": "MUSEUM OF ARCHEOLOGY AND MATERIAL CULTURE",
+  "name": [
+    {
+      "@value": "MUSEUM OF ARCHEOLOGY AND MATERIAL CULTURE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 762",
@@ -21,9 +26,6 @@
     "latitude": 38.5488,
     "longitude": -106.933
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800687",

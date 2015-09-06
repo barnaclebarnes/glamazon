@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150109
   },
-  "name": "CHAUTAUQUA SPORTS HALL OF FAME INC",
+  "name": [
+    {
+      "@value": "CHAUTAUQUA SPORTS HALL OF FAME INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1192",
@@ -22,9 +27,6 @@
     "longitude": -79.242
   },
   "url": "http://www.chautauquasportshalloffame.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601403",

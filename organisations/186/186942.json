@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186942
   },
-  "name": "Paolo Giovio Archaeological Museum",
+  "name": [
+    {
+      "@value": "Paolo Giovio Archaeological Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Civico museo archeologico Paolo Giovio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Medaglie d'Oro, 1",
@@ -21,9 +30,6 @@
     "longitude": 9.08609
   },
   "telephone": "+39 031252550",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/CK54NXsjnf-SEmRi1vwimE1fc2g=/1000x1000/museums/logos/000/186/942/original/23cfe05bbb97f645ec6d6b6bc3d18e17a84d5.jpg"

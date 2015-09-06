@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164141
   },
-  "name": "Narre Warren and District Family History Group",
+  "name": [
+    {
+      "@value": "Narre Warren and District Family History Group",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 145.302
   },
   "url": "http://nwfhg.org.au/",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "October to April:\r\nTuesday 11 am to 3 pm\r\nThursday 7 pm to 9 pm\r\nSaturday 11 am to 3 pm\r\nMay to September:\r\nTuesday 11 am to 3 pm\r\nSaturday 11 am to 3 pm\r\nSunday 2 pm to 4 pm\r\n*Please note that on the second Saturday of the month during May, June, July, August and September the Research Room will close at 2 pm to allow the volunteers on duty to attend the general meeting.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "October to April:\r\nTuesday 11 am to 3 pm\r\nThursday 7 pm to 9 pm\r\nSaturday 11 am to 3 pm\r\nMay to September:\r\nTuesday 11 am to 3 pm\r\nSaturday 11 am to 3 pm\r\nSunday 2 pm to 4 pm\r\n*Please note that on the second Saturday of the month during May, June, July, August and September the Research Room will close at 2 pm to allow the volunteers on duty to attend the general meeting.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "narre-warren-and-district-family-history-group",

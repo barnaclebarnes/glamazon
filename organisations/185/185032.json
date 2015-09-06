@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185032
   },
-  "name": "Westcoast Fossil Park",
+  "name": [
+    {
+      "@value": "Westcoast Fossil Park",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "R45, Langebaanweg near Vredenburg",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "022 766 1600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188158
   },
-  "name": "The Ethnographic Museum of the City of Lesina",
+  "name": [
+    {
+      "@value": "The Ethnographic Museum of the City of Lesina",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo etnografico del Comune di Lesina",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Banchina Vollaro, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.comunelesina.it",
   "telephone": "+39 0882.707420",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Y4OL1SIojlzuZSpwJ_0jBf6HfxA=/1000x1000/museums/logos/000/188/158/original/a1b95fd23696d3d79646365e714c6e37c08b3b.jpg"

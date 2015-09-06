@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183325
   },
-  "name": "Schlossmuseum Neuburg – Abteilung Pfalz-Neuburg",
+  "name": [
+    {
+      "@value": "Schlossmuseum Neuburg – Abteilung Pfalz-Neuburg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Residenzstraße A 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloesser.bayern.de/deutsch/schloss/objekte/neuburg.htm",
   "telephone": "08431/6443-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

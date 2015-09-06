@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186875
   },
-  "name": "Tosio Martinengo Gallery",
+  "name": [
+    {
+      "@value": "Tosio Martinengo Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca civica Tosio Martinengo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Martinengo da Barco, 1",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.bresciamusei.com",
   "telephone": "+39 0303774999",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/KhJr1xCdDkd8uqeVOdlBYLDhn38=/1000x1000/museums/logos/000/186/875/original/aebf7f74f1e62f17ae605feea1dc1aa02342fb6d.jpg"

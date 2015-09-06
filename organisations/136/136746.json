@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136746
   },
-  "name": "BOISE ART MUSEUM INCORPORATED",
+  "name": [
+    {
+      "@value": "BOISE ART MUSEUM INCORPORATED",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "670 S JULIA DAVIS DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.boiseartmuseum.org/",
   "telephone": "+1 (208) 345-8330",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401600096",

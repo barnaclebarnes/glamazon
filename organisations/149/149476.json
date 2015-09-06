@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149476
   },
-  "name": "EXPLORERS CLUB",
+  "name": [
+    {
+      "@value": "EXPLORERS CLUB",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "46 E 70TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.explorers.org",
   "telephone": "+1 (212) 628-8383",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600770",

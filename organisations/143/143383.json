@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143383
   },
-  "name": "SEARS HOUSE ASSOCIATION INC",
+  "name": [
+    {
+      "@value": "SEARS HOUSE ASSOCIATION INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "42 BEACON ST",
@@ -21,9 +26,6 @@
     "latitude": 42.3568,
     "longitude": -71.0666
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402501013",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135127
   },
-  "name": "FLAGLER COLLEGE",
+  "name": [
+    {
+      "@value": "FLAGLER COLLEGE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": -81.3171
   },
   "url": "http://www.flagler.edu/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200682",

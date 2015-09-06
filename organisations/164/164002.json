@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164002
   },
-  "name": "Lake Bolac & District Historical Society",
+  "name": [
+    {
+      "@value": "Lake Bolac & District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "telephone": "+61353376011",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "3rd Sunday of Month 10am-4pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "3rd Sunday of Month 10am-4pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "lake-bolac-and-district-historical-society",

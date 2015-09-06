@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184556
   },
-  "name": "East Griqualand Museum",
+  "name": [
+    {
+      "@value": "East Griqualand Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Main Street, Kokstad",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "039 797 6610",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

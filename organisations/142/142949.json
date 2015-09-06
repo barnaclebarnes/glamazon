@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142949
   },
-  "name": "MARY BAKER EDDY LIBRARY BETTLE",
+  "name": [
+    {
+      "@value": "MARY BAKER EDDY LIBRARY BETTLE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "200 MASSACHUSETTS AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.marybakereddylibrary.org",
   "telephone": "+1 (617) 450-7000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500579",

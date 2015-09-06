@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149447
   },
-  "name": "HENRY STREET SETTLEMENT",
+  "name": [
+    {
+      "@value": "HENRY STREET SETTLEMENT",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "466 GRAND ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.henrystreet.org",
   "telephone": "+1 (212) 766-9200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600741",

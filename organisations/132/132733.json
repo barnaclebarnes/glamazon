@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132733
   },
-  "name": "CHILDRENS WORLD MUSEUM",
+  "name": [
+    {
+      "@value": "CHILDRENS WORLD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3700 4TH AVENUE",
@@ -21,9 +26,6 @@
     "latitude": 34.2336,
     "longitude": -118.26
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602859",

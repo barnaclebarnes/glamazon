@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155341
   },
-  "name": "OLD DRY ROAD FARM INC",
+  "name": [
+    {
+      "@value": "OLD DRY ROAD FARM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 163",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dryroadfarm.net/",
   "telephone": "+1 (610) 678-1226",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200535",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182848
   },
-  "name": "Böhmerwäldler Heimatstube",
+  "name": [
+    {
+      "@value": "Böhmerwäldler Heimatstube",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Dreisesselstraße 12",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.haidmuehle.de",
   "telephone": "08556/375",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

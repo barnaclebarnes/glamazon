@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130442
   },
-  "name": "CEDARS-SINAI MEDICAL CENTER - ART COUNCIL",
+  "name": [
+    {
+      "@value": "CEDARS-SINAI MEDICAL CENTER - ART COUNCIL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8700 BEVERLY BLVD., ROOM 2416",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.cedars-sinai.edu",
   "telephone": "+1 (310) 423-3277",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600568",

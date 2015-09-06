@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158075
   },
-  "name": "MUSEUM OF NATURE AND SCIENCE",
+  "name": [
+    {
+      "@value": "MUSEUM OF NATURE AND SCIENCE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1318 S 2ND AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.natureandscience.org",
   "telephone": "+1 (214) 428-5555",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800175",

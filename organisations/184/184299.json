@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184299
   },
-  "name": "Northland Medical Museum",
+  "name": [
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Northland Medical Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:curator@nhl.co.nz"
@@ -18,18 +59,61 @@
     "longitude": 174.324
   },
   "telephone": "64 (0) 9 430 4101 x 3261",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By Appointment",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Su appuntamento",
+      "@langauge": "it"
+    },
+    {
+      "@value": "预约",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Con cita previa",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Com hora marcada",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "予約制で",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "По предварительной договоренности",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Nach Vereinbarung",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Sur rendez-vous",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Dengan pelantikan",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Nach Vereinbarung",
   "offers": {
     "@Type": "Offer",
-    "description": "By Donation - not suitable for wheelchairs"
+    "description": [
+      {
+        "@value": "By Donation - not suitable for wheelchairs",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184299",
+    "url": "http://www.museums.io/en/museums/184299",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

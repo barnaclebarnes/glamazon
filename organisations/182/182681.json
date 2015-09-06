@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182681
   },
-  "name": "Haus der Natur",
+  "name": [
+    {
+      "@value": "Haus der Natur",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Eichenberg 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schullandheim-eichenberg.de/index.php/informationen/naturkundemuseum",
   "telephone": "09952/477",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

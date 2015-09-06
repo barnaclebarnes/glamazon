@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164363
   },
-  "name": "The Foundling Archive, The Good Room",
+  "name": [
+    {
+      "@value": "The Foundling Archive, The Good Room",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "telephone": "+61431529403",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Wednesday - Sunday 10am-5pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Wednesday - Sunday 10am-5pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "good-room-gallery-foundling-archives",

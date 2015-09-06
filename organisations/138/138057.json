@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138057
   },
-  "name": "TOWN OF NORMAL",
+  "name": [
+    {
+      "@value": "TOWN OF NORMAL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 EAST PHOENIX AVENUE",
@@ -22,9 +27,6 @@
     "longitude": -88.9832
   },
   "telephone": "+1 (309) 433-3447",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401701202",

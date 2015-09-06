@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151767
   },
-  "name": "MCGILL ROSE GARDEN",
+  "name": [
+    {
+      "@value": "MCGILL ROSE GARDEN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "940 N DAVIDSON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mcgillrosegarden.org",
   "telephone": "+1 (704) 333-6497",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700638",

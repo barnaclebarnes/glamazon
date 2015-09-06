@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159977
   },
-  "name": "MUSEUM ARTS",
+  "name": [
+    {
+      "@value": "MUSEUM ARTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1618 S 1100 W",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumarts.net",
   "telephone": "+1 (801) 392-3289",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900043",

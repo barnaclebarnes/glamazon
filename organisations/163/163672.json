@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163672
   },
-  "name": "Ballarat Botanical Gardens",
+  "name": [
+    {
+      "@value": "Ballarat Botanical Gardens",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.ballarat.com/botanicgardens/gardens/",
   "telephone": "(03) 5320 5500 ",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ballarat-botanical-gardens",

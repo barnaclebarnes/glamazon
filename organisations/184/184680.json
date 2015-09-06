@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184680
   },
-  "name": "Tatham Art Gallery",
+  "name": [
+    {
+      "@value": "Tatham Art Gallery",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Chief Albert Luthuli / Commercial Rd, Pietermaritzburg",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "333,922,800",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

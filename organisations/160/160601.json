@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160601
   },
-  "name": "JOHN MARSHALL HOUSE",
+  "name": [
+    {
+      "@value": "JOHN MARSHALL HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "818 E MARSHALL ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://preservationvirginia.org/visit/historic-properties/the-john-marshall-house",
   "telephone": "+1 (804) 648-7998",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100107",

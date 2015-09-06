@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183572
   },
-  "name": "Riedenburger Bauernhofmuseum",
+  "name": [
+    {
+      "@value": "Riedenburger Bauernhofmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Echendorf 11",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.altmuehltal.de/riedenburg/muse-bau.htm",
   "telephone": "09442/20357",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130093
   },
-  "name": "PATRICK RANCH MUSEUM",
+  "name": [
+    {
+      "@value": "PATRICK RANCH MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10381 MIDWAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.patrickranchmuseum.org",
   "telephone": "+1 (530) 342-4359",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600219",

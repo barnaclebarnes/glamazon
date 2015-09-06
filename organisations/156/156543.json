@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156543
   },
-  "name": "RHODE ISLAND HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "RHODE ISLAND HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "110 BENEVOLENT ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rihs.org",
   "telephone": "+1 (401) 331-8575",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404400047",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188267
   },
-  "name": "Museo civico di Carlo Forte",
+  "name": [
+    {
+      "@value": "Museo civico di Carlo Forte",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Cisterna Del Re, 20/24",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.carloforte.net/museo",
   "telephone": "+39 0781 855880",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "2,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/HYh1bb2VrNrutWWG20rgkgWa3as=/1000x1000/museums/logos/000/188/267/original/a4885d8c775bf89b606a396c9722428efd278.JPG"

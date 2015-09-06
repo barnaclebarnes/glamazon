@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130803
   },
-  "name": "REDLANDS AREA HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "REDLANDS AREA HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 8775",
@@ -22,9 +27,6 @@
     "longitude": -117.196
   },
   "url": "http://rahs.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600929",

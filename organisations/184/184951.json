@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184951
   },
-  "name": "Roodepoort Museum",
+  "name": [
+    {
+      "@value": "Roodepoort Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Civic Centre, Christiaan de Wet Road, Florida Park",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "011 761 0226",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

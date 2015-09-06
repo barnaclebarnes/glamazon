@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188213
   },
-  "name": "The Civic Museum (Ugento)",
+  "name": [
+    {
+      "@value": "The Civic Museum (Ugento)",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico Ugento",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via della Zecca, 1",
@@ -15,9 +24,6 @@
     "addressCountry": "Italy"
   },
   "telephone": "+39 0833555819",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ejmjqqqiJXUledpciwMCLLl_HyU=/1000x1000/museums/logos/000/188/213/original/a364b4a882e176a6c9738c58d507951dd36f92b.jpg"

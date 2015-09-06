@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184233
   },
-  "name": "Massey University Art Collection",
+  "name": [
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Massey University Art Collection",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,97 @@
     "longitude": 175.616
   },
   "telephone": "+ 64 6 350 5799 xtn 2409",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday – Friday 8am – 6pm\r\nOr by appointment",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Dal lunedì al venerdì 8-18 o su appuntamento",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一至星期五 8 上午 — — 6 下午或预约",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El lunes al viernes de 8:00 – 18:00 o por cita",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Segunda a sexta 08:00 – 18:00 ou por marcação",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月曜日-金曜日 8-18 または任命によって",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Понедельник – Пятница 8 утра-6 вечера или по предварительной записи",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Montag – Freitag 08:00 – 18:00 oder nach Vereinbarung",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lundi au vendredi de 08:00 – 18:00 ou sur rendez-vous",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Jumaat 8 am-6 pm atau temujanji",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Montag – Freitag 08:00 – 18:00 oder nach Vereinbarung",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184233",
+    "url": "http://www.museums.io/en/museums/184233",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

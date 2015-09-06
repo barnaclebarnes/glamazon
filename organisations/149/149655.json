@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149655
   },
-  "name": "THE INTERACTIVE MUSEUM",
+  "name": [
+    {
+      "@value": "THE INTERACTIVE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "23 CENTER ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.theinteractivemuseum.com",
   "telephone": "+1 (845) 344-3131",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600949",

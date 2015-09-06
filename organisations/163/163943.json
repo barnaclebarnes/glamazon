@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163943
   },
-  "name": "Heidelberg Repatriation Hospital",
+  "name": [
+    {
+      "@value": "Heidelberg Repatriation Hospital",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 145.049
   },
   "telephone": "03 9496 5000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "heidelberg-repatriation-hospital",

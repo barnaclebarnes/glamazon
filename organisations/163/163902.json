@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163902
   },
-  "name": "Gippsland Vehicle Collection",
+  "name": [
+    {
+      "@value": "Gippsland Vehicle Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 146.984
   },
   "url": "http://www.gippslandvehiclecollection.org.au/",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Fri, Sat, Sun, Mon, 10am-4pm, all School Holidays other times by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Fri, Sat, Sun, Mon, 10am-4pm, all School Holidays other times by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "gippsland-vehicle-collection",

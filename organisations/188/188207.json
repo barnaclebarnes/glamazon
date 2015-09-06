@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188207
   },
-  "name": "The Rural Life Museum",
+  "name": [
+    {
+      "@value": "The Rural Life Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo della civiltà contadina di Presicce",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza del Popolo, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museodellaciviltacontadina.net",
   "telephone": "+39 08337474418",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ZTlcBCcAR5xsV3yvBsVxfOlauPk=/1000x1000/museums/logos/000/188/207/original/9c1ff85829f8262f31c1a1e25d9ad8c5ec81c34.jpg"

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184392
   },
-  "name": "Kapiti Coast Museum",
+  "name": [
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Kapiti Coast Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:manager@kapiticoastmuseum.org.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.kapiticoastmuseum.org.nz",
   "telephone": "04 9056313",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Saturday & Sunday 2pm - 4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Sabato e domenica 14-16",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期六及星期日 2 下午-4 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El sábado y el domingo 14:00-16:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Sábado e domingo 14:00-16:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "土曜日・日曜日 14-16",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Суббота &воскресенье 2-4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Samstag & Sonntag 14:00-16:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Samedi & dimanche 14:00-16:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Sabtu & Ahad 2 pm - 4 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Samstag & Sonntag 14:00-16:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184392",
+    "url": "http://www.museums.io/en/museums/184392",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

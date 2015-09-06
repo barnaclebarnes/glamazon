@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183648
   },
-  "name": "Museum und Galerie der Stadt",
+  "name": [
+    {
+      "@value": "Museum und Galerie der Stadt",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Holzheystraße 12",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-schwabmuenchen.de",
   "telephone": "08232/950260",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

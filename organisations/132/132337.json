@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132337
   },
-  "name": "SAN FRANCISCO AERONAUTICAL SOCIETY",
+  "name": [
+    {
+      "@value": "SAN FRANCISCO AERONAUTICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 250250",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sfaero.org/",
   "telephone": "+1 (650) 821-6720",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602463",

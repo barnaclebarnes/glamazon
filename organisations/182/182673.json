@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182673
   },
-  "name": "Fränkisches Bildstockzentrum Egenhausen",
+  "name": [
+    {
+      "@value": "Fränkisches Bildstockzentrum Egenhausen",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "St.-Johannes-Straße 73",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bildstockzentrum.de",
   "telephone": "09722/2262",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

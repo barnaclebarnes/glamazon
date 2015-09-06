@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137017
   },
-  "name": "HENNEPIN CANAL PARKWAY",
+  "name": [
+    {
+      "@value": "HENNEPIN CANAL PARKWAY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "16006 875E",
@@ -21,9 +26,6 @@
     "latitude": 41.3813,
     "longitude": -89.6913
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700162",

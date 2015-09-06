@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150426
   },
-  "name": "MUSEUM OF KIDS ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF KIDS ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "299 HAZELWOOD TER",
@@ -22,9 +27,6 @@
     "longitude": -77.5679
   },
   "telephone": "+1 (585) 288-5930",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601720",

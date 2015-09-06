@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157672
   },
-  "name": "WATKINS INSTITUTE",
+  "name": [
+    {
+      "@value": "WATKINS INSTITUTE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 POWELL PL",
@@ -21,9 +26,6 @@
     "latitude": 36.1059,
     "longitude": -86.7651
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404700343",

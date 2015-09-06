@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142450
   },
-  "name": "MARITIME MUSEUM",
+  "name": [
+    {
+      "@value": "MARITIME MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "301 DRIFTWAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.scituatehistoricalsociety.org/sites_maritime.html",
   "telephone": "+1 (781) 545-5565",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500080",

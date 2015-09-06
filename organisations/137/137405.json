@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137405
   },
-  "name": "DEPAUL UNIVERSITY",
+  "name": [
+    {
+      "@value": "DEPAUL UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": -87.6266
   },
   "url": "http://www.depaul.edu/pages/default.aspx",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700550",

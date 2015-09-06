@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163861
   },
-  "name": "Emerging Writers' Festival",
+  "name": [
+    {
+      "@value": "Emerging Writers' Festival",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.emergingwritersfestival.org.au/",
   "telephone": "(03)9094 7877",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Access to the collection can be arranged by appointment pending availability",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Access to the collection can be arranged by appointment pending availability",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "emerging-writers-festival",

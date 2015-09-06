@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183065
   },
-  "name": "Grosse Rathausgalerie",
+  "name": [
+    {
+      "@value": "Grosse Rathausgalerie",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Altstadt 315",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.landshut.de/grosserathausgalerie",
   "telephone": "0871/88 16 16",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

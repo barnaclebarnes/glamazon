@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130467
   },
-  "name": "AMERICAN MUSEUM OF QUILTS",
+  "name": [
+    {
+      "@value": "AMERICAN MUSEUM OF QUILTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "110 PASEO DE SAN ANTONIO",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sjquiltmuseum.org",
   "telephone": "+1 (408) 971-0323",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600593",

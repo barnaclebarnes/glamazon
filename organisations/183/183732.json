@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183732
   },
-  "name": "Museum im Alten Rathaus",
+  "name": [
+    {
+      "@value": "Museum im Alten Rathaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Alter Rathausplatz 1",
@@ -21,9 +26,6 @@
     "longitude": 9.78735
   },
   "telephone": "09741/6903",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

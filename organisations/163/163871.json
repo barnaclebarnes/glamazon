@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163871
   },
-  "name": "Finnish Society of Melbourne",
+  "name": [
+    {
+      "@value": "Finnish Society of Melbourne",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.fsmelbourne.com.au",
   "telephone": "+613 99742912",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open for various functions,other times by appointment.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open for various functions,other times by appointment.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "finnish-society-melbourne-inc",

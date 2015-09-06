@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134998
   },
-  "name": "INTERNATIONAL HARP MUSEUM INC",
+  "name": [
+    {
+      "@value": "INTERNATIONAL HARP MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 690171",
@@ -22,9 +27,6 @@
     "longitude": -81.365
   },
   "url": "http://www.internationalharpmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200552",

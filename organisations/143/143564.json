@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143564
   },
-  "name": "HUNTER HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "HUNTER HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "500 W MAPLE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://hunterhousemuseum.org",
   "telephone": "+1 (248) 647-7588",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600101",

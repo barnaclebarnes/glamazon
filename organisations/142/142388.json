@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142388
   },
-  "name": "STONE HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "STONE HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "20 MAPLE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stonehousemuseum.org",
   "telephone": "+1 (413) 323-6573",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500018",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185665
   },
-  "name": "Pinacoteca d'arte moderna",
+  "name": [
+    {
+      "@value": "Pinacoteca d'arte moderna",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza S. Bernandino, 04",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.comune.bernalda.mt.it/",
   "telephone": "+39 0835540111 (comune)",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100117",

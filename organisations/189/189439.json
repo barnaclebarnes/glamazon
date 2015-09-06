@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189439
   },
-  "name": "Museo nazionale Atestino",
+  "name": [
+    {
+      "@value": "Museo nazionale Atestino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Guido Negri, 9/c",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.atestino.beniculturali.it/",
   "telephone": "+39 04292085",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Tutti i giorni 9.00 20.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 2,00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/fYt9eYPQdLlEyyiqrOhia50IPfg=/1000x1000/museums/logos/000/189/439/original/f47bb6434c868bdc35721d1e3e3d48e311f6b80.jpg"

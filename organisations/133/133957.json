@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133957
   },
-  "name": "BRUCE MUSEUM INC",
+  "name": [
+    {
+      "@value": "BRUCE MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "MUSEUM DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.brucemuseum.org",
   "telephone": "+1 (203) 869-0376",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900432",

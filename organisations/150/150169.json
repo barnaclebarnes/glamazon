@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150169
   },
-  "name": "L FRANK BAUM MUSEUM",
+  "name": [
+    {
+      "@value": "L FRANK BAUM MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "227 GENESEE ST",
@@ -21,9 +26,6 @@
     "latitude": 43.0449,
     "longitude": -75.8666
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601463",

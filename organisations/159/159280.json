@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159280
   },
-  "name": "GEORGE FOUNDATION",
+  "name": [
+    {
+      "@value": "GEORGE FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1248",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.thegeorgefoundation.org/",
   "telephone": "+1 (281) 342-6109",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801380",

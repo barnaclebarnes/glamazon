@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135356
   },
-  "name": "LARGO CENTRAL RAILROAD INC",
+  "name": [
+    {
+      "@value": "LARGO CENTRAL RAILROAD INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 823",
@@ -21,9 +26,6 @@
     "latitude": 27.9095,
     "longitude": -82.7877
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200911",

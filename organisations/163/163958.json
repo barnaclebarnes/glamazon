@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163958
   },
-  "name": "Hobsons Bay City Council",
+  "name": [
+    {
+      "@value": "Hobsons Bay City Council",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.hobsonsbay.vic.gov.au/Home",
   "telephone": "0428175798",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "hobsons-bay-city-council",

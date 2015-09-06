@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160514
   },
-  "name": "SMITHSONIAN INSTITUTION, STEVEN F. UDVAR-HAZY CENTER",
+  "name": [
+    {
+      "@value": "SMITHSONIAN INSTITUTION, STEVEN F. UDVAR-HAZY CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "14390 AIR AND SPACE MUSEUM PARKWAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://airandspace.si.edu/visit/udvar-hazy-center/",
   "telephone": "+1 (703) 572-4118",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100020",

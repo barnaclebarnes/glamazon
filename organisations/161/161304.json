@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161304
   },
-  "name": "NATIONAL WOMENS HISTORY MUSEUM",
+  "name": [
+    {
+      "@value": "NATIONAL WOMENS HISTORY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "205 S WHITING ST STE 254",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nwhm.org",
   "telephone": "+1 (703) 461-1920",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100810",

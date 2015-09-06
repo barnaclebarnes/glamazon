@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190124
   },
-  "name": "CAPE LOOKOUT NATIONAL SEASHORE",
+  "name": [
+    {
+      "@value": "CAPE LOOKOUT NATIONAL SEASHORE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "131 CHARLES ST.",
@@ -22,9 +27,6 @@
     "longitude": -76.5265
   },
   "telephone": "+1 (252) 728-2250",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700928",

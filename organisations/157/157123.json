@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157123
   },
-  "name": "WILD WEST WAX MUSEUM",
+  "name": [
+    {
+      "@value": "WILD WEST WAX MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "601 MAIN ST",
@@ -22,9 +27,6 @@
     "longitude": -102.242
   },
   "telephone": "+1 (605) 279-2915",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404600008",

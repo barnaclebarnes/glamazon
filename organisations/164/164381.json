@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164381
   },
-  "name": "4th/19th Prince of Wales's  Light Horse Regiment Unit History Room",
+  "name": [
+    {
+      "@value": "4th/19th Prince of Wales's  Light Horse Regiment Unit History Room",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 145.07
   },
   "telephone": "(03) 9442 5205",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday and Thursday mornings or by appointment.\r\nClosed public holidays",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday and Thursday mornings or by appointment.\r\nClosed public holidays",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "4th-19th-prince-of-wales-light-horse-regiment-unit-history-room",

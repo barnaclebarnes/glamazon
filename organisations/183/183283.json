@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183283
   },
-  "name": "Schloss Nymphenburg – Nymphenburger Porzellan – Sammlung Bäuml",
+  "name": [
+    {
+      "@value": "Schloss Nymphenburg – Nymphenburger Porzellan – Sammlung Bäuml",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloss Nymphenburg",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloss-nymphenburg.de/deutsch/marstall/porzell.htm",
   "telephone": "089/179080",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

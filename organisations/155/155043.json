@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155043
   },
-  "name": "EASTERN MUSEUM OF MOTOR RACING",
+  "name": [
+    {
+      "@value": "EASTERN MUSEUM OF MOTOR RACING",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 BALTIMORE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.emmr.org",
   "telephone": "+1 (717) 528-8279",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200237",

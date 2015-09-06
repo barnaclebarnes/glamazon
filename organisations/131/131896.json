@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131896
   },
-  "name": "WILDLING MUSEUM",
+  "name": [
+    {
+      "@value": "WILDLING MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 907",
@@ -22,9 +27,6 @@
     "longitude": -120.115
   },
   "url": "http://www.wildlingmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602022",

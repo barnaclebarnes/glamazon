@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128558
   },
-  "name": "BERMAN MUSEUM OF WORLD HISTORY",
+  "name": [
+    {
+      "@value": "BERMAN MUSEUM OF WORLD HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "840 MUSEUM DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bermanmuseum.org",
   "telephone": "+1 (256) 237-6766",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100088",

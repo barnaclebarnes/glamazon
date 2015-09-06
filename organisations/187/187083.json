@@ -6,7 +6,16 @@
     "name": "id",
     "value": 187083
   },
-  "name": "Leonardo da Vinci Museum of Science and Technology",
+  "name": [
+    {
+      "@value": "Leonardo da Vinci Museum of Science and Technology",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo nazionale della scienza e della tecnologia Leonardo da Vinci",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via San Vittore, 21",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museoscienza.org",
   "telephone": "+39 0248555402",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/8mRB2iyocsZZnHSrxkHi4nU4Q6g=/1000x1000/museums/logos/000/187/083/original/f34869115bfbd52e4b1f7f41588f357558d179.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189567
   },
-  "name": "Museo specializzato del treno in miniatura",
+  "name": [
+    {
+      "@value": "Museo specializzato del treno in miniatura",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Baratto , 39",
@@ -22,14 +27,6 @@
   },
   "url": "http://patrimonioculturale.provincia.vicenza.it",
   "telephone": "+39 0445 691392",
-  "contactPoint": [
-
-  ],
-  "openingHours": "venerdì dalle 21.00 alle 23.00; prima domenica del mese 15.00-18.30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "ingresso gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/yspIr_XiLjOA6iCL1XTicpnZxNo=/1000x1000/museums/logos/000/189/567/original/7f44bdc85636c5a70a3e2e3e4c3a80b935c4cb.jpg"

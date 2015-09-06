@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190380
   },
-  "name": "NATURE DISCOVERY CENTER",
+  "name": [
+    {
+      "@value": "NATURE DISCOVERY CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7112 NEWCASTLE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.naturediscoverycenter.org",
   "telephone": "+1 (713) 667-6550",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404802054",

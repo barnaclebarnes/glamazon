@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159143
   },
-  "name": "CHILDRENS MUSEUM OF THE BRAZOS",
+  "name": [
+    {
+      "@value": "CHILDRENS MUSEUM OF THE BRAZOS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "111 E 27TH ST",
@@ -22,9 +27,6 @@
     "longitude": -96.3725
   },
   "url": "http://cmbv.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801243",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163786
   },
-  "name": "City of Whittlesea",
+  "name": [
+    {
+      "@value": "City of Whittlesea",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 145.069
   },
   "url": "http://www.whittlesea.vic.gov.au",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "8.30am - 5pm Monday to Friday except public holidays. Appointments are required to view any of our civic history items stored at the Civic Centre",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "8.30am - 5pm Monday to Friday except public holidays. Appointments are required to view any of our civic history items stored at the Civic Centre",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "city-of-whittlesea",

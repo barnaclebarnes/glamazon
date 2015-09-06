@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139623
   },
-  "name": "BARNS MUSEUM",
+  "name": [
+    {
+      "@value": "BARNS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5506 B AVE",
@@ -21,9 +26,6 @@
     "latitude": 42.72,
     "longitude": -95.8405
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401900660",

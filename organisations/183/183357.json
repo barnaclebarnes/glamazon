@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183357
   },
-  "name": "Kolonialwarenmuseum",
+  "name": [
+    {
+      "@value": "Kolonialwarenmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Flemingstraße 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kolonialwarenmuseum.de/",
   "telephone": "09721/74017",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

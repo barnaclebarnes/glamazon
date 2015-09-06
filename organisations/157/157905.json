@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157905
   },
-  "name": "WHARTON COUNTY MUSEUM",
+  "name": [
+    {
+      "@value": "WHARTON COUNTY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3615 N RICHMOND RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.whartoncountymuseum.org",
   "telephone": "+1 (979) 532-2600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800005",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183490
   },
-  "name": "Museum im Klösterle",
+  "name": [
+    {
+      "@value": "Museum im Klösterle",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kapellenstraße 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.peiting.de/tourismus/kultur/peiting/museum-im-kloesterle",
   "telephone": "08861/6535",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

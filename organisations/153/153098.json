@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153098
   },
-  "name": "KENNEDY MUSEUM OF ART",
+  "name": [
+    {
+      "@value": "KENNEDY MUSEUM OF ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "LIN HALL",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ohio.edu/museum",
   "telephone": "+1 (740) 593-9832",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900876",

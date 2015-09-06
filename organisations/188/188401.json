@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188401
   },
-  "name": "Museo diocesano di Catania",
+  "name": [
+    {
+      "@value": "Museo diocesano di Catania",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Etnea, 8",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.museodiocesanocatania.it",
   "telephone": "+39 095281635",
-  "contactPoint": [
-
-  ],
-  "openingHours": "da lunedì a venerdì 9.00/14.00 sabato 9.00/13.00",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/xSCDkjvk3fOBwoQwYiHQGBizbrw=/1000x1000/museums/logos/000/188/401/original/215116be144c0153a74f6c2e33a2f34dd5c62a.jpg"

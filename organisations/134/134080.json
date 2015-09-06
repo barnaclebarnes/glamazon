@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134080
   },
-  "name": "CLAUDE E. PHILLIPS HERBARIUM",
+  "name": [
+    {
+      "@value": "CLAUDE E. PHILLIPS HERBARIUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1200 N. DUPONT HWY",
@@ -21,9 +26,6 @@
     "latitude": 39.1838,
     "longitude": -75.5333
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401000012",

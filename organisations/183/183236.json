@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183236
   },
-  "name": "Geranienhaus Schlosspark Nymphenburg",
+  "name": [
+    {
+      "@value": "Geranienhaus Schlosspark Nymphenburg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": " Eingang 19",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schloss-nymphenburg.de",
   "telephone": "089/17908654",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

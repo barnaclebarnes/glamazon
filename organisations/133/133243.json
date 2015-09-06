@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133243
   },
-  "name": "HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 962",
@@ -22,9 +27,6 @@
     "longitude": -106.304
   },
   "telephone": "+1 (719) 486-1878",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800419",

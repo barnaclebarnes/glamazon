@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150859
   },
-  "name": "GRAND STREET COMMUNITY ARTS",
+  "name": [
+    {
+      "@value": "GRAND STREET COMMUNITY ARTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "14 WILBUR ST",
@@ -22,9 +27,6 @@
     "longitude": -73.7581
   },
   "telephone": "+1 (518) 433-0679",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602153",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143748
   },
-  "name": "PETER DOUGHERTY SOCIETY",
+  "name": [
+    {
+      "@value": "PETER DOUGHERTY SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 101",
@@ -22,9 +27,6 @@
     "longitude": -85.489
   },
   "url": "http://www.oldmissionhouse.com/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600285",

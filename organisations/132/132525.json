@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132525
   },
-  "name": "SEA & DESERT INTERPRETIVE ASSOC",
+  "name": [
+    {
+      "@value": "SEA & DESERT INTERPRETIVE ASSOC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100225 STATE PARK RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://seaanddesert.org",
   "telephone": "+1 (760) 393-3810",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602651",

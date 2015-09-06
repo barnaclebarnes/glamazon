@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188349
   },
-  "name": "Museo diocesano dell'arte sacra",
+  "name": [
+    {
+      "@value": "Museo diocesano dell'arte sacra",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Duomo, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.algheromuseo.it",
   "telephone": "+39 079 9733041",
-  "contactPoint": [
-
-  ],
-  "openingHours": "10,00 - 12,30 e 19,00 - 22,00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "2,50€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/foML3tP4QwkPm_Gggj__oodr-CQ=/1000x1000/museums/logos/000/188/349/original/28678dbecc059b8c628e6c2c8f918147d750d4.JPG"

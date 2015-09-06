@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183446
   },
-  "name": "Heimatmuseum Stadt und Landkreis Neudek",
+  "name": [
+    {
+      "@value": "Heimatmuseum Stadt und Landkreis Neudek",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Von-Cobres-Straße 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.augsburg.de/index.php?id=1152",
   "telephone": "0821/880555",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

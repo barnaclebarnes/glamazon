@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184806
   },
-  "name": "Goetz Fleishack Museum",
+  "name": [
+    {
+      "@value": "Goetz Fleishack Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Cnr Gouws& Wolmarans Streets, Potchefstroom",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "018 299 5031",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

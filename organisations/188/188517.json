@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188517
   },
-  "name": "Museo diocesano di Mazara del Vallo",
+  "name": [
+    {
+      "@value": "Museo diocesano di Mazara del Vallo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via dell'Orologio, 3",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.diocesimazara.it",
   "telephone": "+39 0923909431",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/WNfp3tE_gEswRATXmiG-C9gGVzQ=/1000x1000/museums/logos/000/188/517/original/10f77316cd06a5ed84ca09c8cf9d7f73b40c651.jpg"

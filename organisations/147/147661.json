@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147661
   },
-  "name": "ROEBLING MUSEUM",
+  "name": [
+    {
+      "@value": "ROEBLING MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 2ND AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.roeblingmuseum.org",
   "telephone": "+1 (609) 499-7200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403400029",

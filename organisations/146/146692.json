@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146692
   },
-  "name": "MUSEUM OF NEBRASKA HISTORY",
+  "name": [
+    {
+      "@value": "MUSEUM OF NEBRASKA HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "131 CENTENNIAL MALL N",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nebraskahistory.org",
   "telephone": "+1 (402) 471-4754",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403100031",

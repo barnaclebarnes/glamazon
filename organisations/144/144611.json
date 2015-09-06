@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144611
   },
-  "name": "MACALESTER COLLEGE ART GALLERY",
+  "name": [
+    {
+      "@value": "MACALESTER COLLEGE ART GALLERY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1600 GRAND AVENUE",
@@ -22,9 +27,6 @@
     "longitude": -93.1671
   },
   "telephone": "+1 (651) 696-6416",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700051",

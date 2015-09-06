@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185680
   },
-  "name": "Archeoparco del Basileus",
+  "name": [
+    {
+      "@value": "Archeoparco del Basileus",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Localita' Toppo S. Antonio, SNC",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.archeoparco.it",
   "telephone": "+39 0971997071",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "5.00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/8ryOCfQIeHljZ3vXZI5sr6Tav1Q=/1000x1000/museums/logos/000/185/680/original/ecdc8beeffda2a2a604c6324a446ed5f86ba7dd5.jpg"

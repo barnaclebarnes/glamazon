@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163802
   },
-  "name": "Collingwood Historical Society",
+  "name": [
+    {
+      "@value": "Collingwood Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.collingwoodhs.org.au",
   "telephone": "(03) 9426 5620",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "collingwood-historical-society",

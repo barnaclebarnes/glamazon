@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157122
   },
-  "name": "UNIVERSITY OF SOUTH DAKOTA",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF SOUTH DAKOTA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "414 E CLARK STREET",
@@ -21,9 +26,6 @@
     "latitude": 42.7825,
     "longitude": -96.9274
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404600007",

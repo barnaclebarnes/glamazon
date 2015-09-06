@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163667
   },
-  "name": "Ballan Shire Historical Society",
+  "name": [
+    {
+      "@value": "Ballan Shire Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 144.229
   },
   "telephone": "+61 3 5368 2544",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open by appointment.\r\nThe Secretary can be contacted on 03 5368 2544 or by e-mail at bshsinc@hotmail.com.au.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open by appointment.\r\nThe Secretary can be contacted on 03 5368 2544 or by e-mail at bshsinc@hotmail.com.au.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ballan-shire-historical-society",

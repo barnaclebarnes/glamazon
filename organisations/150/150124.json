@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150124
   },
-  "name": "ELMA HISTORICAL SOCIETY INC",
+  "name": [
+    {
+      "@value": "ELMA HISTORICAL SOCIETY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 84",
@@ -22,9 +27,6 @@
     "longitude": -78.6492
   },
   "url": "http://www.elmanyhistory.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601418",

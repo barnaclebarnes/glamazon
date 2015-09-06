@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183715
   },
-  "name": "Keltenhaus",
+  "name": [
+    {
+      "@value": "Keltenhaus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Köglweg",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.taufkirchen-mucl.de/wDe/03_kultur_freizeit/03_museen/00_listenelemente/00_museen/keltenhaus.php",
   "telephone": "089/66672112",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185735
   },
-  "name": "Museo della civiltà dell’olio, del vino e dei sapori mediterranei",
+  "name": [
+    {
+      "@value": "Museo della civiltà dell’olio, del vino e dei sapori mediterranei",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via P. Nenni, 144",
@@ -21,10 +26,6 @@
     "longitude": 16.3355
   },
   "telephone": "+39 096879023",
-  "contactPoint": [
-
-  ],
-  "openingHours": "museo non ancora aperto al pubblico",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "104943",

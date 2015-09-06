@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140487
   },
-  "name": "MUSEUM OF THE AMERICAN PRINTING HOUSE FOR THE BLIND",
+  "name": [
+    {
+      "@value": "MUSEUM OF THE AMERICAN PRINTING HOUSE FOR THE BLIND",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1839 FRANKFORT AVE.",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.aph.org/museum",
   "telephone": "+1 (502) 895-2405",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100244",

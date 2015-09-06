@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188178
   },
-  "name": "The Diocesan Museum of San Severo",
+  "name": [
+    {
+      "@value": "The Diocesan Museum of San Severo",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo diocesano di San Severo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Vico Freddo, 23",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.ameipuglia.it",
   "telephone": "+39 0882375715",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/twYKMh7ppqjGJdPtp-g18qgN-8o=/1000x1000/museums/logos/000/188/178/original/69dff15c64fa3effe2a9294b6a72d2c798138f27.jpg"

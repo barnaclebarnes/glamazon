@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136462
   },
-  "name": "US ARMY MUSEUM OF HAWAII",
+  "name": [
+    {
+      "@value": "US ARMY MUSEUM OF HAWAII",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "SARATOGA RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hiarmymuseumsoc.org/index.html",
   "telephone": "+1 (808) 955-9552",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401500001",

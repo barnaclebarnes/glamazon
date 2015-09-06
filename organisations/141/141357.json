@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141357
   },
-  "name": "THE COASTAL CHILDRENS MUSEUM",
+  "name": [
+    {
+      "@value": "THE COASTAL CHILDRENS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "75 MECHANIC STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.coastalchildrensmuseum.org",
   "telephone": "+1 (207) 596-0300",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402300206",

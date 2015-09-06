@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145577
   },
-  "name": "US ARMY ENGINEER MUSEUM",
+  "name": [
+    {
+      "@value": "US ARMY ENGINEER MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "427 FREEDOM DR",
@@ -21,9 +26,6 @@
     "latitude": 37.7576,
     "longitude": -92.1106
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900006",

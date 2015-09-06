@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164162
   },
-  "name": "NMIT (Northern Melbourne Institute of TAFE)",
+  "name": [
+    {
+      "@value": "NMIT (Northern Melbourne Institute of TAFE)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 144.998
   },
   "url": "http://www.nmit.vic.edu.au",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday to Friday (Check website for details).\r\nwww.nmit.vic.edu.au ",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday to Friday (Check website for details).\r\nwww.nmit.vic.edu.au ",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "northern-melbourne-institute-of-tafe",

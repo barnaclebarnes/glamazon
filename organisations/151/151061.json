@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151061
   },
-  "name": "THE WATERMILL CENTER",
+  "name": [
+    {
+      "@value": "THE WATERMILL CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "39 WATERMILL TOWD ROAD",
@@ -22,9 +27,6 @@
     "longitude": -72.3411
   },
   "url": "http://www.watermillcenter.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602355",

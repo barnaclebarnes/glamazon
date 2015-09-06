@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130441
   },
-  "name": "BADE MUSEUM",
+  "name": [
+    {
+      "@value": "BADE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1798 SCENIC AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://bade.psr.edu",
   "telephone": "+1 (510) 849-8286",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400600567",

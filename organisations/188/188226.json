@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188226
   },
-  "name": "The Pianelle Park Museum",
+  "name": [
+    {
+      "@value": "The Pianelle Park Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo del Parco Pianelle",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Palazzo Ducale , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.comune.martina-franca.ta.it",
   "telephone": "+39 0804836279",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/FyiDbl33tozfbvIp7Bv-O2GDKI4=/1000x1000/museums/logos/000/188/226/original/963f10a1a4965c241fbc5ab7c72044e9776f99.jpg"

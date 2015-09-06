@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134222
   },
-  "name": "WOODROW WILSON HOUSE",
+  "name": [
+    {
+      "@value": "WOODROW WILSON HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2340 S ST NW",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.woodrowwilsonhouse.org",
   "telephone": "+1 (202) 387-4062",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100002",

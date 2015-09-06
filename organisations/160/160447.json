@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160447
   },
-  "name": "MONTSHIRE MUSEUM OF SCIENCE",
+  "name": [
+    {
+      "@value": "MONTSHIRE MUSEUM OF SCIENCE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1 MONTSHIRE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.montshire.org",
   "telephone": "+1 (802) 649-2200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405000253",

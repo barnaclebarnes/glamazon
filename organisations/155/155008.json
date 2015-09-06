@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155008
   },
-  "name": "HALL OF PRESIDENTS",
+  "name": [
+    {
+      "@value": "HALL OF PRESIDENTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "789 BALTIMORE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gettysburgbattlefieldtours.com",
   "telephone": "+1 (717) 334-5717",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200202",

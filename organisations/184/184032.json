@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184032
   },
-  "name": "Heimat- und Bauernmuseum",
+  "name": [
+    {
+      "@value": "Heimat- und Bauernmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Museumstraße 1",
@@ -22,9 +27,6 @@
     "longitude": 12.3374
   },
   "telephone": "09434/3068",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

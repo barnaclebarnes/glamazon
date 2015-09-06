@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163655
   },
-  "name": "Australian Racing Museum & Hall of Fame",
+  "name": [
+    {
+      "@value": "Australian Racing Museum & Hall of Fame",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.nsm.org.au/Exhibitions/Champions%20Racing%20Gallery.aspx",
   "telephone": "1300 139 407",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "australian-racing-museum",

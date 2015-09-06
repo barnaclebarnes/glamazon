@@ -6,7 +6,12 @@
     "name": "id",
     "value": 162896
   },
-  "name": "MILWAUKEE ART MUSEUM INC",
+  "name": [
+    {
+      "@value": "MILWAUKEE ART MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "700 N ART MUSEUM DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mam.org",
   "telephone": "+1 (414) 224-3200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405500345",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160506
   },
-  "name": "VIRGINIA HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "VIRGINIA HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4301 SULGRAVE RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.vahistorical.org/your-visit/virginia-house",
   "telephone": "+1 (804) 353-4251",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100012",

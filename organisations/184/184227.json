@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184227
   },
-  "name": "Archives New Zealand",
+  "name": [
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Archives New Zealand",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:enquiries@archives.govt.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.archives.govt.nz",
   "telephone": "64-4-499 5595",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon-Fri 9am-5pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-ven 9-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一-星期五 9 上午-5 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes de 9:00-17:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sex 09:00-17:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月-金 9-17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Понедельник Пятница 9 утра - 5 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Fr 09:00-17:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun-Ven 09:00-17:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Jumaat 9 am - 5 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Fr 09:00-17:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184227",
+    "url": "http://www.museums.io/en/museums/184227",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

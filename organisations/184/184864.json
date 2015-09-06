@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184864
   },
-  "name": "Laingsburg Museum",
+  "name": [
+    {
+      "@value": "Laingsburg Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Information Centre, Laingsburg",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "023 551 1868",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

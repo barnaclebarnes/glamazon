@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139815
   },
-  "name": "SMITH & WESSON HISTORICALFOUNDATION",
+  "name": [
+    {
+      "@value": "SMITH & WESSON HISTORICALFOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4912 QUAIL CREEK DR",
@@ -22,9 +27,6 @@
     "longitude": -98.801
   },
   "url": "http://www.swhistoricalfoundation.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000141",

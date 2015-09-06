@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188515
   },
-  "name": "Museo civico di Marsala",
+  "name": [
+    {
+      "@value": "Museo civico di Marsala",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via L. A. Correale, ",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.marsalaturismo.com/?mn=1:34:0:0",
   "telephone": "+39 0923718741",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dalle 9.00 alle 13.00 e dalle 16.00 alle 20.00",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/TnX5moKo7uAYWiuCsrhLPPkbGdU=/1000x1000/museums/logos/000/188/515/original/2fd41268ba6277eab74fff572cdf6cc8aff4645d.jpg"

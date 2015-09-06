@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134377
   },
-  "name": "NATIONAL HEALTH MUSEUM",
+  "name": [
+    {
+      "@value": "NATIONAL HEALTH MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1155 15TH ST NW STE 810",
@@ -21,9 +26,6 @@
     "latitude": 38.9048,
     "longitude": -77.0346
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100158",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164329
   },
-  "name": "Streatham and District Historical Society",
+  "name": [
+    {
+      "@value": "Streatham and District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 143.059
   },
   "telephone": "(03) 53507675",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Every Third Sunday between 11.30am - 4.30pm or\r\nby appointment.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Every Third Sunday between 11.30am - 4.30pm or\r\nby appointment.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "streatham-and-district-historical-society",

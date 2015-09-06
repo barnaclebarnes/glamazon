@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129109
   },
-  "name": "TUCSON RODEO TICKETS",
+  "name": [
+    {
+      "@value": "TUCSON RODEO TICKETS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4823 S 6TH AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tucsonrodeoparade.org",
   "telephone": "+1 (520) 294-3636",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400011",

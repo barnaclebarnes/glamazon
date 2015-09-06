@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163935
   },
-  "name": "Harrietville Historical Society",
+  "name": [
+    {
+      "@value": "Harrietville Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 144.785
   },
   "telephone": "03 5759 2530",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Summer &amp; Autumn",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Summer &amp; Autumn",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "harrietville-museum",

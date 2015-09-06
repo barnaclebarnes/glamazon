@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140523
   },
-  "name": "UNIVERSITY ART GALLERIES",
+  "name": [
+    {
+      "@value": "UNIVERSITY ART GALLERIES",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "604 FINE ARTS BUILDING",
@@ -22,9 +27,6 @@
     "longitude": -88.2993
   },
   "url": "http://www.murraystate.edu/artgallery",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100280",

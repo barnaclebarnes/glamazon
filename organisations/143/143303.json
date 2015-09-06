@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143303
   },
-  "name": "SUSAN B ANTHONY BIRTHPLACE MUSEUM INC",
+  "name": [
+    {
+      "@value": "SUSAN B ANTHONY BIRTHPLACE MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "67 EAST RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.susanbanthonybirthplace.com",
   "telephone": "+1 (413) 743-7121",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500933",

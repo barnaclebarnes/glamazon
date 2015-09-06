@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183155
   },
-  "name": "Carl-Hirnbein-Museum",
+  "name": [
+    {
+      "@value": "Carl-Hirnbein-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 45",
@@ -22,9 +27,6 @@
     "longitude": 10.1224
   },
   "telephone": "08320/456",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

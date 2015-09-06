@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188152
   },
-  "name": "The Provincial Art Gallery of Modern and Contemporary Art",
+  "name": [
+    {
+      "@value": "The Provincial Art Gallery of Modern and Contemporary Art",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Galleria provinciale d'arte moderna e contemporanea",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza XX Settembre c/o Palazzo Dogana, 20",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.galleria.reciproca.it/",
   "telephone": "+39 0881791298",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/6JH1Tavlc-u9odleROEHrpNg2ug=/1000x1000/museums/logos/000/188/152/original/ed7b199187701c2dbce3c4cec594c2fb446f682.jpg"

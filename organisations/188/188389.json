@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188389
   },
-  "name": "Museo della fotografia",
+  "name": [
+    {
+      "@value": "Museo della fotografia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Principessa Maria Jose', 5",
@@ -16,9 +21,6 @@
   },
   "url": "http://www.provincia.ct.it",
   "telephone": "+39 093354567",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/_ESi8Oh4OeGavrETGfEx4GJ-40g=/1000x1000/museums/logos/000/188/389/original/1a5a6d22654221f0401be4651e26277f08198.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146726
   },
-  "name": "FRANK HOUSE",
+  "name": [
+    {
+      "@value": "FRANK HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2010 UNIVERSITY DRIVE UNIVERSITY OF NEBRASKA-KEARNEY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.frankhouse.org",
   "telephone": "+1 (308) 865-8284",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403100065",

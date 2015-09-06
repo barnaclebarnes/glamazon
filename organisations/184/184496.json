@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184496
   },
-  "name": "Te Awamutu Museum",
+  "name": [
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Te Awamutu Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:museum@waipadc.govt.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.tamuseum.org.nz",
   "telephone": "64-7-872 0085 or FREEPHONE: 0800-WAIPADC (0800-924-723)",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open Mon - Fri 10am to 4pm.  \r\nSat 10am to 1pm and Sun 1pm to 4pm.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Aperto lun - ven 10-16.  \nSab 10-13 e Dom 13 a 16.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周一至周五 10 上午到 4 下午开放。 \n10 上午到 1 下午 Sat 和太阳 1 下午到 4 下午。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Abierto el lunes al viernes de 10:00 a 16:00.  \nEl Sáb 10:00 a 13:00 y el Dom 13:00 a 16:00.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Aberto Seg - Sex 10:00 a 16:00.  \nSáb 10:00 a 13:00 e dom 13:00 a 16:00.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月 - 金 10 に 16 にオープンします。 \n土 10 に 13 と太陽 13 に 16。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Открыто пн - пт 10 утра до 4 вечера.  \nСуббота 10 утра до 1 вечера и солнца 1 до 4 вечера.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Geöffnet Mo - Fr 10:00 bis 16:00.  \nSa 10:00 bis 13:00 / So 13:00 bis 16:00.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Ouvert Lun - ven 10:00 à 16:00.  \nSamedi 10:00 à 13:00 et dimanche 13:00 à 16:00.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Buka Isnin - Jumaat 10 pagi hingga 4 petang.  \nSabtu 10 pagi hingga 1 petang dan matahari 1 pm hingga 4 pm.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Geöffnet Mo - Fr 10:00 bis 16:00.  \nSa 10:00 bis 13:00 / So 13:00 bis 16:00.",
   "offers": {
     "@Type": "Offer",
-    "description": "By koha (donation)"
+    "description": [
+      {
+        "@value": "By koha (donation)",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184496",
+    "url": "http://www.museums.io/en/museums/184496",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

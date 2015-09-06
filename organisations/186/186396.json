@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186396
   },
-  "name": "Museo archeologico di Gaeta",
+  "name": [
+    {
+      "@value": "Museo archeologico di Gaeta",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Annunziata, 7",
@@ -21,14 +26,6 @@
     "longitude": 13.5804
   },
   "telephone": "+39 0771 464293",
-  "contactPoint": [
-
-  ],
-  "openingHours": "16.30-19.30; anche a richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "111265",

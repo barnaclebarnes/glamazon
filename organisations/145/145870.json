@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145870
   },
-  "name": "CRANE MUSEUM",
+  "name": [
+    {
+      "@value": "CRANE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "10665 OLD HWY 40",
@@ -22,9 +27,6 @@
     "longitude": -91.7077
   },
   "url": "http://cranesmuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900299",

@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164360
   },
-  "name": "The Dunmoochin Foundation",
+  "name": [
+    {
+      "@value": "The Dunmoochin Foundation",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.dunmoochin.org",
   "telephone": "(03) 9714 8553",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment only.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment only.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "dunmonchin-foundation",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188053
   },
-  "name": "Botanical Garden Institute",
+  "name": [
+    {
+      "@value": "Botanical Garden Institute",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Istituto orto botanico",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Orabona, 4",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.cismus.uniba.it/ortobota.htm",
   "telephone": "+39 080/5442152; 080/5442153",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/4uBGoMGclfp1Llk1N3Lpnvr2tFU=/1000x1000/museums/logos/000/188/053/original/61b03ab38e3816ee4f1f3fc92aaf255b49a6a85.jpg"

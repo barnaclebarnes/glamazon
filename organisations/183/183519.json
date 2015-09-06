@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183519
   },
-  "name": "Burgmuseum Burg Pottenstein",
+  "name": [
+    {
+      "@value": "Burgmuseum Burg Pottenstein",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.burgpottenstein.de",
   "telephone": "09243/7221",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

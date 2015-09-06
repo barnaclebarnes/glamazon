@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190468
   },
-  "name": "BEAVER CREEK RESERVE",
+  "name": [
+    {
+      "@value": "BEAVER CREEK RESERVE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "S1 COUNTY HWY K",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.beavercreekreserve.org",
   "telephone": "+1 (715) 877-2212",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405500873",

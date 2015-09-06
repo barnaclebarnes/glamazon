@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140311
   },
-  "name": "CREATION MUSEUM",
+  "name": [
+    {
+      "@value": "CREATION MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2800 BULLITTSBURG CHURCH RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.creationmuseum.org",
   "telephone": "+1 (888) 582-4253",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100067",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183488
   },
-  "name": "Römermuseum Kastell Boiotro",
+  "name": [
+    {
+      "@value": "Römermuseum Kastell Boiotro",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Lederergasse 43-45",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stadtarchaeologie.de/museum/default.htm",
   "telephone": "0851/34769",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

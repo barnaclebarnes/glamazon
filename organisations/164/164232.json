@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164232
   },
-  "name": "Red Cliffs Military Museum",
+  "name": [
+    {
+      "@value": "Red Cliffs Military Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 142.191
   },
   "telephone": "03 50241499",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10am to 4pm 1st Sunday of each month\r\nFriday mornings 9am to 12md \r\nor by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10am to 4pm 1st Sunday of each month\r\nFriday mornings 9am to 12md \r\nor by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "red-cliffs-military-museum",

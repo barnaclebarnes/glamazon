@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184873
   },
-  "name": "Mafikeng Museum",
+  "name": [
+    {
+      "@value": "Mafikeng Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Martin St, Mafikeng",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "0140 816102",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

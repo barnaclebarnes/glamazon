@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151142
   },
-  "name": "SMITH ISLAND MUSEUM OF HISTORY",
+  "name": [
+    {
+      "@value": "SMITH ISLAND MUSEUM OF HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "101 LIGHTHOUSE WYND",
@@ -23,9 +28,6 @@
   },
   "url": "http://oldbaldy.org",
   "telephone": "+1 (910) 457-7481",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700013",

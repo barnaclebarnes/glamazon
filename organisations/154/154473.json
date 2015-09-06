@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154473
   },
-  "name": "UNIVERSITY OF OREGON",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF OREGON",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5219 UNIVERSITY OF OREGON",
@@ -23,9 +28,6 @@
   },
   "url": "http://uoregon.edu/",
   "telephone": "+1 (541) 346-1000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100266",

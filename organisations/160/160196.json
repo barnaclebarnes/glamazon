@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160196
   },
-  "name": "WILSON HOUSE",
+  "name": [
+    {
+      "@value": "WILSON HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "378 VILLAGE ST",
@@ -21,9 +26,6 @@
     "latitude": 43.2395,
     "longitude": -73.0092
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405000002",

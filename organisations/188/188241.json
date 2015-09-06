@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188241
   },
-  "name": "Museo del Duomo di Cagliari",
+  "name": [
+    {
+      "@value": "Museo del Duomo di Cagliari",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Fossario, 5",
@@ -21,14 +26,6 @@
     "longitude": 9.11676
   },
   "telephone": "+39 33327009",
-  "contactPoint": [
-
-  ],
-  "openingHours": "sabato e domenica dalle 10,00 alle 13,00 e dalle 16,30 alle 19,30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/wXCCALrP10BdzBKgNUF1cM2rkTM=/1000x1000/museums/logos/000/188/241/original/afc95dee5effd5164a46556512823c773af47a.jpg"

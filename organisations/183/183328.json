@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183328
   },
-  "name": "Stadtmuseum Neuburg a. d. Donau",
+  "name": [
+    {
+      "@value": "Stadtmuseum Neuburg a. d. Donau",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Amalienstraße A 19",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stadtmuseum-neuburg.de",
   "telephone": "08431/539053",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186192
   },
-  "name": "Antiquarian and archaeological area of the Roman city of Veleia",
+  "name": [
+    {
+      "@value": "Antiquarian and archaeological area of the Roman city of Veleia",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Area archeologica e Antiquarium di Veleia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Strada Provinciale, 14",
@@ -22,13 +31,28 @@
   },
   "url": "http://www.archeobologna.beniculturali.it/veleia/index.htm",
   "telephone": "+39 0523 807113\n        \n          (+39) 0523 807113",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9.00- to one hour before sunset; from the 1 December to the 15 March hours 9.00-15.00",
+      "@langauge": "en"
+    },
+    {
+      "@value": "9.00- a un’ora prima del tramonto; dal 1 dicembre al 15 marzo ore 9.00-15.00",
+      "@langauge": "it"
+    }
   ],
-  "openingHours": "9.00- to one hour before sunset; from the 1 December to the 15 March hours 9.00-15.00",
   "offers": {
     "@Type": "Offer",
-    "description": "€ 2,00"
+    "description": [
+      {
+        "@value": "€ 2,00",
+        "@langauge": "en"
+      },
+      {
+        "@value": "€ 2,00",
+        "@langauge": "it"
+      }
+    ]
   },
   "photo": {
     "@type": "ImageObject",

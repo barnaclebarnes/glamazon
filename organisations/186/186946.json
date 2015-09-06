@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186946
   },
-  "name": "Palazzo Volpi Gallery",
+  "name": [
+    {
+      "@value": "Palazzo Volpi Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca civica di Palazzo Volpi",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Diaz, 84",
@@ -21,9 +30,6 @@
     "longitude": 9.08351
   },
   "telephone": "+39 031269869",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/zqALdGqqODDh28uAhrjId7Ze_7k=/1000x1000/museums/logos/000/186/946/original/5c86e2429ce98a15d926e7678715f6bc4d21.jpg"

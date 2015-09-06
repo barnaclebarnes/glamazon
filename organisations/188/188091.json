@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188091
   },
-  "name": "The San Domenico Civic Museum",
+  "name": [
+    {
+      "@value": "The San Domenico Civic Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico San Domenico",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Madonna delle Grazie, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.ruvosistemamuseale.it/",
   "telephone": "+39 080 9507402",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/8FMbaVGqaZJyKIPFDFt0X2gNIVE=/1000x1000/museums/logos/000/188/091/original/85ae4479de1322ecd544dab7d1239885de388.jpg"

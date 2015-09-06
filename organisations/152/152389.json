@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152389
   },
-  "name": "CLYDE MUSEUM",
+  "name": [
+    {
+      "@value": "CLYDE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "124 W BUCKEYE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.clydeheritageleague.org/museum.htm",
   "telephone": "+1 (419) 547-7946",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900166",

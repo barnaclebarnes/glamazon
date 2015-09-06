@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187028
   },
-  "name": "Museo civico archeologico di Pegognaga",
+  "name": [
+    {
+      "@value": "Museo civico archeologico di Pegognaga",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Vittorio Veneto, ?",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.comune.pegognaga.mn.it",
   "telephone": "+39 0376 558688",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "Gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "106436",

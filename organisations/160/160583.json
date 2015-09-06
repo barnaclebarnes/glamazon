@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160583
   },
-  "name": "MUSEUM MASTERWORKS",
+  "name": [
+    {
+      "@value": "MUSEUM MASTERWORKS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8417 GLAZEBROOK AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museummasterworks.com",
   "telephone": "+1 (804) 440-1431",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100089",

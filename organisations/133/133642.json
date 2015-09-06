@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133642
   },
-  "name": "HILL-STEAD MUSEUM",
+  "name": [
+    {
+      "@value": "HILL-STEAD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "35 MOUNTAIN RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hillstead.org",
   "telephone": "+1 (860) 677-2063",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900117",

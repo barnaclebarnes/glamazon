@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163787
   },
-  "name": "City of Yarra",
+  "name": [
+    {
+      "@value": "City of Yarra",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.yarracity.vic.gov.au/",
   "telephone": "8205 5045",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "city-of-yarra",

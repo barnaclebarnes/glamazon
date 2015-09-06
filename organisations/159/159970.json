@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159970
   },
-  "name": "MUSEUM OF MOAB",
+  "name": [
+    {
+      "@value": "MUSEUM OF MOAB",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "118 E CENTER ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.moabmuseum.org",
   "telephone": "+1 (435) 259-7985",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900036",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154282
   },
-  "name": "JACKSONVILLE MUSEUM",
+  "name": [
+    {
+      "@value": "JACKSONVILLE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "206 N 5TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.oregonmuseums.org",
   "telephone": "+1 (541) 773-6536",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100075",

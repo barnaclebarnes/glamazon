@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182724
   },
-  "name": "Fränkisches Museum Feuchtwangen",
+  "name": [
+    {
+      "@value": "Fränkisches Museum Feuchtwangen",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Museumstraße 19",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fraenkisches-museum.de",
   "telephone": "09852/2575",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

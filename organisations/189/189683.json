@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189683
   },
-  "name": "MOUNTAIN PARK ENVIRONMENTAL CENTER",
+  "name": [
+    {
+      "@value": "MOUNTAIN PARK ENVIRONMENTAL CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "P.O. BOX 99",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hikeandlearn.org",
   "telephone": "+1 (719) 485-4444",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800709",

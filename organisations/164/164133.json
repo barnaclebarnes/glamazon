@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164133
   },
-  "name": "Murray Brewery Historic Museum",
+  "name": [
+    {
+      "@value": "Murray Brewery Historic Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.murraybreweries.com.au",
   "telephone": "(03) 5728 1304",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "murray-brewery-historic-museum",

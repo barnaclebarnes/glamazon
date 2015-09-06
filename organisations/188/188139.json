@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188139
   },
-  "name": "The Civic Museum of Accadia",
+  "name": [
+    {
+      "@value": "The Civic Museum of Accadia",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico di Accadia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Borgo 16 , ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.comune.accadia.fg.it",
   "telephone": "+39 0881981012",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/82flC2UZZVLkoaCX7Ca5wP-Dbew=/1000x1000/museums/logos/000/188/139/original/b1cba98378dc6d4da9bdda0b6cc6fe2ead84f.jpg"

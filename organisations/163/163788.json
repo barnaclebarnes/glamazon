@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163788
   },
-  "name": "Civil Aviation Historical Society operating The Airways Museum",
+  "name": [
+    {
+      "@value": "Civil Aviation Historical Society operating The Airways Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.airwaysmuseum.com",
   "telephone": "9374 3905",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday 9 am - 3 pm &amp; by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesday 9 am - 3 pm &amp; by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "civil-aviation-historical-society",

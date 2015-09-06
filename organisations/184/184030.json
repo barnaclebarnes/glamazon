@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184030
   },
-  "name": "Hammermühle Breitenberg",
+  "name": [
+    {
+      "@value": "Hammermühle Breitenberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Dreisesselstraße 59",
@@ -22,9 +27,6 @@
     "longitude": 13.793
   },
   "telephone": "08584/910-19",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

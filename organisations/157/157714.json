@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157714
   },
-  "name": "BEERSHEBA SPRINGS HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "BEERSHEBA SPRINGS HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 117",
@@ -22,9 +27,6 @@
     "longitude": -85.6876
   },
   "url": "http://www.beershebaspringshistoricalsociety.org/index.php",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404700385",

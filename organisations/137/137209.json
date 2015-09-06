@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137209
   },
-  "name": "SWEDISH HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "SWEDISH HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "404 S 3RD ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://swedishhistorical.org",
   "telephone": "+1 (815) 963-5559",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700354",

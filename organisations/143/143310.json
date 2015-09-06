@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143310
   },
-  "name": "STONY BROOK MUSEUM INC",
+  "name": [
+    {
+      "@value": "STONY BROOK MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "25 BUTLER CIRCLE",
@@ -21,9 +26,6 @@
     "latitude": 42.3704,
     "longitude": -71.5077
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500940",

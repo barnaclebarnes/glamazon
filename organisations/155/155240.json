@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155240
   },
-  "name": "PHILADELPHIA ART ALLIANCE",
+  "name": [
+    {
+      "@value": "PHILADELPHIA ART ALLIANCE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "251 S 18TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.philartalliance.org",
   "telephone": "+1 (215) 545-4302",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200434",

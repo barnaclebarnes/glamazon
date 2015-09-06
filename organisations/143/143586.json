@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143586
   },
-  "name": "JAPANESE CULTURAL CENTER",
+  "name": [
+    {
+      "@value": "JAPANESE CULTURAL CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "527 EZRA RUST DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://japaneseculturalcenter.org/",
   "telephone": "+1 (989) 759-1648",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600123",

@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164375
   },
-  "name": "The Salvation Army - Australia Southern Territory Archives and Museum",
+  "name": [
+    {
+      "@value": "The Salvation Army - Australia Southern Territory Archives and Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "telephone": "03 96533270",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9am-3.30pm, Monday - Friday. After hours by Appointment.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "9am-3.30pm, Monday - Friday. After hours by Appointment.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "salvation-army-australia-southern-territory-archives-museum",

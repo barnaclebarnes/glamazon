@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153567
   },
-  "name": "JEFFERSON CENTER FOR LEARNING & THE ARTS",
+  "name": [
+    {
+      "@value": "JEFFERSON CENTER FOR LEARNING & THE ARTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "65 JEFFERSON AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.thejeffersoncenter.org",
   "telephone": "+1 (614) 228-7441",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403901345",

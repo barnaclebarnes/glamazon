@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143543
   },
-  "name": "MUSEUM OF ART",
+  "name": [
+    {
+      "@value": "MUSEUM OF ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "525 S. STATE STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.umma.umich.edu",
   "telephone": "+1 (734) 764-0395",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600080",

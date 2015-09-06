@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137443
   },
-  "name": "LANDMARKS PRESERVATION COUNCIL",
+  "name": [
+    {
+      "@value": "LANDMARKS PRESERVATION COUNCIL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "53 W JACKSON BLVD STE 1315",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.landmarks.org",
   "telephone": "+1 (312) 922-1742",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700588",

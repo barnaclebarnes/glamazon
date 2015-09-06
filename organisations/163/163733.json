@@ -6,16 +6,23 @@
     "name": "id",
     "value": 163733
   },
-  "name": "Brimbank City Council Art Collection",
+  "name": [
+    {
+      "@value": "Brimbank City Council Art Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.brimbank.vic.gov.au/LEISURE/Arts_and_Culture",
   "telephone": "(03) 9249 4600",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon - Thurs: 9am - 5.30pm; Fri: 9am - 4.30pm; Sat:  9am - 12pm. Closed public holidays",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Mon - Thurs: 9am - 5.30pm; Fri: 9am - 4.30pm; Sat:  9am - 12pm. Closed public holidays",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "brimbank-city-council-art-collection",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154590
   },
-  "name": "OREGON MARITIME MUSEUM",
+  "name": [
+    {
+      "@value": "OREGON MARITIME MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "115 SW ASH ST",
@@ -22,9 +27,6 @@
     "longitude": -122.672
   },
   "url": "http://www.oregonmaritimemuseum.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100383",

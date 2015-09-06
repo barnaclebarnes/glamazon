@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137293
   },
-  "name": "CHICAGO CULINARY MUSEUM AND CHEFSHALL OF FAME",
+  "name": [
+    {
+      "@value": "CHICAGO CULINARY MUSEUM AND CHEFSHALL OF FAME",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "650 E DIEHL ROAD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.thechicagoculinarymuseum.org",
   "telephone": "+1 (630) 815-4499",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700438",

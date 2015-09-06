@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159856
   },
-  "name": "HISTORIC HOUSTON",
+  "name": [
+    {
+      "@value": "HISTORIC HOUSTON",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 130463",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.historichouston.org/",
   "telephone": "+1 (713) 522-0542",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801956",

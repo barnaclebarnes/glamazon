@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188191
   },
-  "name": "The Civic Museum \"Emanuele Barba\"",
+  "name": [
+    {
+      "@value": "The Civic Museum \"Emanuele Barba\"",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico \"Emanuele Barba\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Antonietta de Pace, 108",
@@ -15,9 +24,6 @@
     "addressCountry": "Italy"
   },
   "telephone": "+39 0833264224",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Vr-0Cb2rnnM0CM6J-izJVb-7xbA=/1000x1000/museums/logos/000/188/191/original/d4b94a1efa8219dc39386c3c675dd11caaa8fc38.jpg"

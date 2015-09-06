@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152286
   },
-  "name": "OHIO WESLEYAN UNIVERSITY",
+  "name": [
+    {
+      "@value": "OHIO WESLEYAN UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "61 S SANDUSKY ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.owu.edu",
   "telephone": "+1 (740) 368-2000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900063",

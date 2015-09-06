@@ -6,7 +6,12 @@
     "name": "id",
     "value": 136678
   },
-  "name": "IDAHO STATE HISTORICAL MUSEUM",
+  "name": [
+    {
+      "@value": "IDAHO STATE HISTORICAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "610 N. JULIA DAVIS DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://history.idaho.gov/idaho-state-historical-museum",
   "telephone": "+1 (208) 334-2120",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401600028",

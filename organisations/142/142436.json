@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142436
   },
-  "name": "ROWLAND INSTITUTE FOR SCIENCE",
+  "name": [
+    {
+      "@value": "ROWLAND INSTITUTE FOR SCIENCE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 EDWIN LAND BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rowland.harvard.edu",
   "telephone": "+1 (617) 497-4600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500066",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184457
   },
-  "name": "CHB Settlers Museum",
+  "name": [
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "CHB Settlers Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:chbmuseum@xtra.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.chbsettlersmuseum.co.nz",
   "telephone": "06 8577288",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open 7 days 10am - 4pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Aperto 12",
+      "@langauge": "it"
+    },
+    {
+      "@value": "打开 12 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Abierto de 12:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Aberto de 12:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "オープン 12",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Открыт 7 дней 10 утра - 4 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Geöffnet von 12:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Ouvert de 12:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Buka 7 hari 10 pagi - 4 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Geöffnet von 12:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult $5\r\nCHB Resident $3\r\nChildren(5-12years) $1"
+    "description": [
+      {
+        "@value": "Adult $5\r\nCHB Resident $3\r\nChildren(5-12years) $1",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184457",
+    "url": "http://www.museums.io/en/museums/184457",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

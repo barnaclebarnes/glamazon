@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182885
   },
-  "name": "Staatsgalerie in der Residenz",
+  "name": [
+    {
+      "@value": "Staatsgalerie in der Residenz",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Promenade 27",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.pinakothek.de/zweiggalerien/ansbach.php",
   "telephone": "0981/953839-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

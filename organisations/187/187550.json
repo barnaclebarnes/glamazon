@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187550
   },
-  "name": "Museo Cristoforo Colombo",
+  "name": [
+    {
+      "@value": "Museo Cristoforo Colombo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Colonnello Mazza, 1, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.colombodicuccaro.it",
   "telephone": "+39 ",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "106630",

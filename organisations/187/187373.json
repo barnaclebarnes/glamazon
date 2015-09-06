@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187373
   },
-  "name": "Museo delle due guerre mondiali",
+  "name": [
+    {
+      "@value": "Museo delle due guerre mondiali",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza San Liberato, ",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.loropiceno.sinp.net",
   "telephone": "+39 0733509112",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Aperto da metà Giugno a metà Settembre: Sabato, Domenica e festivi dalle 10.00 alle 13.00 e dalle 16.00 alle 19.00.",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 2.50"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/-alcNSQTo2e0a3JJWLP_UPaz-Nc=/1000x1000/museums/logos/000/187/373/original/227462435d596a4aadcc0c8739aba701bcb920.jpg"

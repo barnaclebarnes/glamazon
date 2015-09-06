@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142442
   },
-  "name": "MUSEUM OF MODERN RENAISSANCE",
+  "name": [
+    {
+      "@value": "MUSEUM OF MODERN RENAISSANCE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "115 COLLEGE AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mod-ren.com",
   "telephone": "+1 (617) 628-9303",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500072",

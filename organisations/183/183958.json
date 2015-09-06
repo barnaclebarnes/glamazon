@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183958
   },
-  "name": "Meerrettichmuseum",
+  "name": [
+    {
+      "@value": "Meerrettichmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Judengasse 11",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.schamel.de/DEU/index.php",
   "telephone": "09133/603040",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

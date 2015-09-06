@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160625
   },
-  "name": "HAYMARKET MUSEUM",
+  "name": [
+    {
+      "@value": "HAYMARKET MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "15025 WASHINGTON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.haymarketmuseum.org",
   "telephone": "+1 (703) 753-3712",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100131",

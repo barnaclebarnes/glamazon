@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183778
   },
-  "name": "Fränkische Schweiz-Museum",
+  "name": [
+    {
+      "@value": "Fränkische Schweiz-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Museum 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fsmt.de",
   "telephone": "09242/1640",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

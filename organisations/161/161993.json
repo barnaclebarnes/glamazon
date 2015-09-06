@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161993
   },
-  "name": "FRIENDS OF THE ABERDEEN MUSEUM",
+  "name": [
+    {
+      "@value": "FRIENDS OF THE ABERDEEN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 722",
@@ -22,9 +27,6 @@
     "longitude": -123.807
   },
   "url": "http://aberdeen-museum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405300442",

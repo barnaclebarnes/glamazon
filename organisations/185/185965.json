@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185965
   },
-  "name": "Reggia di Caserta",
+  "name": [
+    {
+      "@value": "Reggia di Caserta",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Douhet, 2a",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.reggiadicaserta.beniculturali.it",
   "telephone": "+39 0823277468 - 0823277443",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Tutti i giorni ore 8.30 - 19.30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "12,00 €"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/lJu0VazLRuqItifrGbGq4tdGDRo=/1000x1000/museums/logos/000/185/965/original/4d773493bf6a167b1fb93c40655693e27a943fb7.jpg"

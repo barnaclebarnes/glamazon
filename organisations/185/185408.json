@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185408
   },
-  "name": "Kauppila House",
+  "name": [
+    {
+      "@value": "Kauppila House",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": 23.3645,
     "longitude": 23.3645
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "fi",

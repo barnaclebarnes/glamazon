@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185654
   },
-  "name": "Museo civico della cultura materiale",
+  "name": [
+    {
+      "@value": "Museo civico della cultura materiale",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Umberto I, 51",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.muvi.org/museodimontepagano ",
   "telephone": "+39 085 8936053",
-  "contactPoint": [
-
-  ],
-  "openingHours": "tutti i giorni: est. 9.00/12.00 - 15.30/19.30; inv. dal lun. al sab. 9.00/12.00 Scuole 15.30/18.30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100106",

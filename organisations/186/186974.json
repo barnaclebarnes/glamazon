@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186974
   },
-  "name": "&nbsp;The Antiquarium of Palazzo Pignano",
+  "name": [
+    {
+      "@value": "&nbsp;The Antiquarium of Palazzo Pignano",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Antiquarium di Palazzo Pignano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Luoghi Vecchi, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.archeologica.lombardia.beniculturali.it",
   "telephone": "+39 02 89400555 ",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "106544",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184700
   },
-  "name": "Worcester Museum",
+  "name": [
+    {
+      "@value": "Worcester Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "23 Traub Street, Worcester",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "023 342 2225",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190220
   },
-  "name": "SHERIFF'S HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "SHERIFF'S HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "416 6TH ST NE",
@@ -21,9 +26,6 @@
     "latitude": 40.1469,
     "longitude": -89.38
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403800274",

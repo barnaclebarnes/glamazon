@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153409
   },
-  "name": "CLEVELAND AQUARIUM INC",
+  "name": [
+    {
+      "@value": "CLEVELAND AQUARIUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3412 RIDGE PARK DR",
@@ -21,9 +26,6 @@
     "latitude": 41.3345,
     "longitude": -81.6673
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403901187",

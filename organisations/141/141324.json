@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141324
   },
-  "name": "BOOTHBAY RAILWAY VILLAGE",
+  "name": [
+    {
+      "@value": "BOOTHBAY RAILWAY VILLAGE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 123",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.railwayvillage.org/",
   "telephone": "+1 (207) 633-4727",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402300173",

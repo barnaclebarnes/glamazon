@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154267
   },
-  "name": "MUSEUM OF NATURAL AND CULTURAL HISTORY",
+  "name": [
+    {
+      "@value": "MUSEUM OF NATURAL AND CULTURAL HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1680 E 15TH AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://natural-history.uoregon.edu",
   "telephone": "+1 (541) 346-3024",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100060",

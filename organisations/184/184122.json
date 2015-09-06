@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184122
   },
-  "name": "Te Manawa",
+  "name": [
+    {
+      "@value": "Te Manawa",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Te Manawa",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Te Manawa",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Te Manawa",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Te Manawa",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Te Manawa",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Te Manawa",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Te Manawa",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Te Manawa",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Te Manawa",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:enquiries@temanawa.co.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.temanawa.co.nz",
   "telephone": "64-6-355 5000",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 10am-5pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 10-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 10 上午-5 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 10:00-17:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diariamente 10:00-17:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "毎日 10-17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 10 утра - 5 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 10:00-17:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 10:00-17:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 10 pagi - 5 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 10:00-17:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Eintritt frei / Koha"
+    "description": [
+      {
+        "@value": "Free Entry / Koha",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Ingresso gratuito / Koha",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费入场 / Koha",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Entrada gratuita / Koha",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Entrada livre / Koha",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "入場無料/すすめ",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Свободный вход / Коха",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Eintritt frei / Koha",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Entrée libre / Koha",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Masuk percuma / Koha",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184122",
+    "url": "http://www.museums.io/en/museums/184122",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186723
   },
-  "name": "Istituto delle Suore Benedettine della Provvidenza",
+  "name": [
+    {
+      "@value": "Istituto delle Suore Benedettine della Provvidenza",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via S. Benedetto Cambiagio Frassinello, 25",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.benedettineprovvidenza.it",
   "telephone": "+39 010/935914",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "107173",

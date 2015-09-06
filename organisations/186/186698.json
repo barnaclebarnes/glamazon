@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186698
   },
-  "name": "Museo di chimica di Genova",
+  "name": [
+    {
+      "@value": "Museo di chimica di Genova",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale Benedetto XV, 3",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.chimica.unige.it/museo/index.htm",
   "telephone": "+39 010 3538728",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/rBhLnSS36amK3_NoViXPJa9XTHI=/1000x1000/museums/logos/000/186/698/original/2ad93ebbf0d2bd2cce2396e6589b6d8d3e1e76ae.JPG"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163441
   },
-  "name": "NATURAL HISTORY MUSEUM",
+  "name": [
+    {
+      "@value": "NATURAL HISTORY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "WESTERN ARCHAEOLOGY SERVICES 1000 DEWER DRIVE",
@@ -22,9 +27,6 @@
     "longitude": -109.236
   },
   "telephone": "+1 (307) 382-1666",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405600021",

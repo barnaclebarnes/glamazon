@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134232
   },
-  "name": "POWHATAN MUSEUM",
+  "name": [
+    {
+      "@value": "POWHATAN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1519 MONROE ST NW",
@@ -22,9 +27,6 @@
     "longitude": -77.0356
   },
   "telephone": "+1 (202) 265-0136",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100012",

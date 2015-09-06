@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140735
   },
-  "name": "OLD US MINT",
+  "name": [
+    {
+      "@value": "OLD US MINT",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "400 ESPLANADE AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://lsm.crt.state.la.us/mintex.htm",
   "telephone": "+1 (504) 568-6968",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200017",

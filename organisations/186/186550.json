@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186550
   },
-  "name": "Museo del Tasso",
+  "name": [
+    {
+      "@value": "Museo del Tasso",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza S. Onofrio al Gianicolo, 2",
@@ -21,14 +26,6 @@
     "longitude": 12.4409
   },
   "telephone": "+39 06 6877347",
-  "contactPoint": [
-
-  ],
-  "openingHours": "solo su appuntamento",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/WRP57-WXeDM-_dTrtG0VmPv_QoQ=/1000x1000/museums/logos/000/186/550/original/8a8189b8d724985e245abd83da264cbc3f15cb9.JPG"

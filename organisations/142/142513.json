@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142513
   },
-  "name": "GEORGE PEABODY HOUSE",
+  "name": [
+    {
+      "@value": "GEORGE PEABODY HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "205 WASHINGTON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.peabodymuseums.org",
   "telephone": "+1 (978) 531-0355",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500143",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184399
   },
-  "name": "South Canterbury Museum",
+  "name": [
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "South Canterbury Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:museum@timdc.govt.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.timaru.govt.nz/museum",
   "telephone": "64-3-687 7212",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tue-Fri 10am ­ 4.30pm \r\n Sat-Sun, Public holidays 1:30pm ­ 4.30pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Mar-ven 10 4,30 pm Sab-Dom e festivi 13:30 16:30",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周二至周五 10 上午 4.30 pm 周六周日、 公众假期 1:30 下午 4:30 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Martes a viernes 10:00 4,30 pm sábados y domingos, festivos 13:30 16:30",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Ter-sex 10:00 4,30 pm Sáb-Dom, feriados 13:30 16:30",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "火-金 10 4.30 pm 土日、祝日 13:30 16:30",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Вт-пт 10: 00 4.30 вечера сб-вс, государственные праздники 1:30 pm 4: 30 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Di-Fr 10:00 4,30 Uhr Sa-So, Feiertage 13:30 16:30",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mar-Ven 10:00 h samedi et dimanche, jours fériés 4,30 13:30 16:30",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Selasa-Jumaat 10pg 4.30 pm Sabtu-Ahad, cuti umum 1:30 petang 4.30 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Di-Fr 10:00 4,30 Uhr Sa-So, Feiertage 13:30 16:30",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184399",
+    "url": "http://www.museums.io/en/museums/184399",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139690
   },
-  "name": "STERNBERG MUSEUM OF NATURAL HISTORY",
+  "name": [
+    {
+      "@value": "STERNBERG MUSEUM OF NATURAL HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3000 STERNBERG DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fhsu.edu/sternberg",
   "telephone": "+1 (877) 332-1165",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000016",

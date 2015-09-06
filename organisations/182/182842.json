@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182842
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rathausgasse 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://host3.guenzburg.de/home.php?m=3&pageid=14",
   "telephone": "08221/38828",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

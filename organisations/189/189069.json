@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189069
   },
-  "name": "Museo provinciale del vino",
+  "name": [
+    {
+      "@value": "Museo provinciale del vino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via dell'Oro, 1",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.museo-del-vino.it",
   "telephone": "+39 0471963168",
-  "contactPoint": [
-
-  ],
-  "openingHours": "al 1° aprile al 11 novembre martedì - sabato: ore 10 - 17 domenica e festivi: ore 10 - 12",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/gKiRN-RWu8Qo9gJSbNysB9NFOMs=/1000x1000/museums/logos/000/189/069/original/c6e8258f18d884ac14c8d8881ec9b1841e69e8cf.jpg"

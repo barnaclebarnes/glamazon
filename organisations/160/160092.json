@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160092
   },
-  "name": "COLLEGE OF EASTERN UTAH",
+  "name": [
+    {
+      "@value": "COLLEGE OF EASTERN UTAH",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "451 E 400 N",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ceu.edu",
   "telephone": "+1 (435) 637-2120",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900158",

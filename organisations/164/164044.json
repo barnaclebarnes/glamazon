@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164044
   },
-  "name": "Maldon Museum & Archives Association",
+  "name": [
+    {
+      "@value": "Maldon Museum & Archives Association",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "telephone": "+613 5475 1633",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Saturdays 1:30pm to 4:00pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Saturdays 1:30pm to 4:00pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "maldon-museum-archives-association-inc-",

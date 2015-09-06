@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155897
   },
-  "name": "WESTMORELAND MUSEUM OF ART",
+  "name": [
+    {
+      "@value": "WESTMORELAND MUSEUM OF ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "221 N MAIN ST",
@@ -22,9 +27,6 @@
     "longitude": -79.5454
   },
   "url": "http://www.wmuseumaa.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201091",

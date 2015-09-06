@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164256
   },
-  "name": "Royal Australian College of General Practitioners",
+  "name": [
+    {
+      "@value": "Royal Australian College of General Practitioners",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.racgp.org.au",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By arrangement",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By arrangement",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "royal-australian-college-general-practitioners",

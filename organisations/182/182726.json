@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182726
   },
-  "name": "Sängermuseum",
+  "name": [
+    {
+      "@value": "Sängermuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Spittel 2-6",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.saengermuseum.de",
   "telephone": "09852/4833",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

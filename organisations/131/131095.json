@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131095
   },
-  "name": "HERMOSA BEACH HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "HERMOSA BEACH HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "710 PIER AVENUE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hermosabeachhistoricalsociety.org/",
   "telephone": "+1 (310) 318-9421",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601221",

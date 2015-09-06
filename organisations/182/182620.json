@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182620
   },
-  "name": "Schloss Ehrenburg",
+  "name": [
+    {
+      "@value": "Schloss Ehrenburg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßplatz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sgvcoburg.de",
   "telephone": "09561/8088-32",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

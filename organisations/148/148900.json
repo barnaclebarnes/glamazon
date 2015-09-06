@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148900
   },
-  "name": "MUSEUM AT THE FASHION INSTITUTE OF TECHNOLOGY",
+  "name": [
+    {
+      "@value": "MUSEUM AT THE FASHION INSTITUTE OF TECHNOLOGY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "SEVENTH AVENUE AT 27TH STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fitnyc.edu/museum",
   "telephone": "+1 (212) 217-4530",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600194",

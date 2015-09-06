@@ -6,7 +6,16 @@
     "name": "id",
     "value": 187191
   },
-  "name": "MAGA - Gallery of Modern Art",
+  "name": [
+    {
+      "@value": "MAGA - Gallery of Modern Art",
+      "@langauge": "en"
+    },
+    {
+      "@value": "MAGA - Museo Arte Gallarate",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via De Magri, 1",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.museomaga.it",
   "telephone": "+39 0331 706011",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/LthSuD8nYdNlCqvI-N-wW7HrunA=/1000x1000/museums/logos/000/187/191/original/305ba9b21c5c52616871b474714df315d26d2e70.jpg"

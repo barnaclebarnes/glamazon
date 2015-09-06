@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186195
   },
-  "name": "Museo della stampa del quotidiano \"Libertà\"",
+  "name": [
+    {
+      "@value": "Museo della stampa del quotidiano \"Libertà\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Benedettine, 66",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.liberta.it/",
   "telephone": "+39 0523 393939",
-  "contactPoint": [
-
-  ],
-  "openingHours": "sabato dalle ore 17.00 alle ore 19.00",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "111189",

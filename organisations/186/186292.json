@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186292
   },
-  "name": "Museo storico del Castello di Miramare",
+  "name": [
+    {
+      "@value": "Museo storico del Castello di Miramare",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale Miramare",
@@ -21,14 +26,6 @@
     "longitude": 13.7136
   },
   "telephone": "+39 040 224143",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dalle 9.00 alle 19.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "6 euro"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/RCHl0OGKlgi9z65DIUtdvSVXxXg=/1000x1000/museums/logos/000/186/292/original/a8c0ca34f8203031b18c778727e5b11bc31c44.jpg"

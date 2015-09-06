@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132102
   },
-  "name": "MARIN HISTORY MUSEUM",
+  "name": [
+    {
+      "@value": "MARIN HISTORY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1125 B ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.marinhistory.org",
   "telephone": "+1 (415) 454-8538",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602228",

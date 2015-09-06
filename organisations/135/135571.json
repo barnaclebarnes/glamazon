@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135571
   },
-  "name": "BONNET HOUSE",
+  "name": [
+    {
+      "@value": "BONNET HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "900 N BIRCH RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bonnethouse.org",
   "telephone": " 9545635393",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201126",

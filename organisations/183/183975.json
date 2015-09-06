@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183975
   },
-  "name": "Museum Kloster Banz",
+  "name": [
+    {
+      "@value": "Museum Kloster Banz",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kloster Banz",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bad-staffelstein.de/de/tourismus/kultur/museum_banz.php",
   "telephone": "09573/337-744",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

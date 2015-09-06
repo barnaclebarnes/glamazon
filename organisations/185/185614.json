@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185614
   },
-  "name": "Centro Orso",
+  "name": [
+    {
+      "@value": "Centro Orso",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Colle di Marco Andrea, ",
@@ -22,13 +27,6 @@
   },
   "url": "http://www.sherpa.abruzzo.it",
   "telephone": "+39 0864 797634",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "3,00€"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100035",

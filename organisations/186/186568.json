@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186568
   },
-  "name": "Museo di chimica di Roma",
+  "name": [
+    {
+      "@value": "Museo di chimica di Roma",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazzale Aldo Moro, 5",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.chem.uniroma1.it/museo/menu.htm",
   "telephone": "+39 06 49913167",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/bEwngmwFOqQghtbPGD_1iNpG5S4=/1000x1000/museums/logos/000/186/568/original/c997d2229816b12c60aa30e3a9f778d49963804.JPG"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142378
   },
-  "name": "UNITED STATES NAVEL AND SHIPBUILDING MUSEUM",
+  "name": [
+    {
+      "@value": "UNITED STATES NAVEL AND SHIPBUILDING MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1250 HANCOCK ST., SUITE 105N",
@@ -21,9 +26,6 @@
     "latitude": 42.2523,
     "longitude": -71.0042
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500008",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150201
   },
-  "name": "PARISH TOWN HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "PARISH TOWN HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 145",
@@ -21,9 +26,6 @@
     "latitude": 43.4136,
     "longitude": -76.1123
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601495",

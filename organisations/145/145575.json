@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145575
   },
-  "name": "WORLD'S LARGEST TOY MUSEUM",
+  "name": [
+    {
+      "@value": "WORLD'S LARGEST TOY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3609 W 76 COUNTRY BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.worldslargesttoymuseum.com",
   "telephone": "+1 (417) 332-1499",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900004",

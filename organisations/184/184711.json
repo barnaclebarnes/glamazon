@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184711
   },
-  "name": "Barberton Museums",
+  "name": [
+    {
+      "@value": "Barberton Museums",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "36 Pilgrim Street, Barberton",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "013 712 4208",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

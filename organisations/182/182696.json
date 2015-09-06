@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182696
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Brunnenstraße 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hassberge.de/837.html",
   "telephone": "09522/6754",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149524
   },
-  "name": "FIRST STREET GALLERY INC",
+  "name": [
+    {
+      "@value": "FIRST STREET GALLERY INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "526 W 26TH ST RM 209",
@@ -23,9 +28,6 @@
   },
   "url": "http://firststreetgallery.net",
   "telephone": "+1 (646) 336-8053",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600818",

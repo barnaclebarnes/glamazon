@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164068
   },
-  "name": "Melbourne Museum of Printing",
+  "name": [
+    {
+      "@value": "Melbourne Museum of Printing",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://mmop.org.au",
   "telephone": "(03)9689 7555",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "melbourne-museum-printing-1",

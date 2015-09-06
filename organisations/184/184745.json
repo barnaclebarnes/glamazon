@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184745
   },
-  "name": "Cato Manor Heritage Centre",
+  "name": [
+    {
+      "@value": "Cato Manor Heritage Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "750 Francois Road, Cato Manor",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "031 261 3216",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

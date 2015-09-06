@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184721
   },
-  "name": "Bernard Price Institute of Palaeontology",
+  "name": [
+    {
+      "@value": "Bernard Price Institute of Palaeontology",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Van Riet Louw Bldg, E Campus, Wits, Jan Smuts Ave, Braamfontein",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "011 717 6682",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

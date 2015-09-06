@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141721
   },
-  "name": "SMITH ISLAND CENTER",
+  "name": [
+    {
+      "@value": "SMITH ISLAND CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "20846 CALEB JONES ROAD",
@@ -22,9 +27,6 @@
     "longitude": -76.0331
   },
   "telephone": "+1 (410) 651-2292",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400014",

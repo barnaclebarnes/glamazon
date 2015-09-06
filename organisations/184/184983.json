@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184983
   },
-  "name": "Springbok Museum",
+  "name": [
+    {
+      "@value": "Springbok Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Voortrekker Street, Springbok",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "027 712 8035",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

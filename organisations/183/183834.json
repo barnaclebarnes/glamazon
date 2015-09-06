@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183834
   },
-  "name": "Dorfmuseum",
+  "name": [
+    {
+      "@value": "Dorfmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ohrnbachtalstraße 23",
@@ -22,9 +27,6 @@
     "longitude": 9.1764
   },
   "telephone": "09373/2741",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

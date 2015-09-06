@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190323
   },
-  "name": "FLIGHT 93 NATIONAL MEMORIAL",
+  "name": [
+    {
+      "@value": "FLIGHT 93 NATIONAL MEMORIAL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "273 PARK HEADQUARTERS ROAD",
@@ -22,9 +27,6 @@
     "longitude": -78.905
   },
   "telephone": "+1 (814) 893-6322",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201731",

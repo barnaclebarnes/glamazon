@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184766
   },
-  "name": "Ditsong Museum of Natural History",
+  "name": [
+    {
+      "@value": "Ditsong Museum of Natural History",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "432 Paul Kruger Street, Pretoria",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "012 322 7632",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

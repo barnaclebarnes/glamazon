@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164026
   },
-  "name": "Leongatha and District Historical Society",
+  "name": [
+    {
+      "@value": "Leongatha and District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://www.leongathahistory.org.au",
   "telephone": "03 5668 6365",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "12.00 noon to 4.00 pm on Thursday and Friday",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "12.00 noon to 4.00 pm on Thursday and Friday",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "leongatha-district-historical-society-1",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186294
   },
-  "name": "Piccolo museo (Il)",
+  "name": [
+    {
+      "@value": "Piccolo museo (Il)",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via dei Fabbri, 3",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.ilrestauronline.com",
   "telephone": "+39 3381547018",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su appuntamento",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100255",

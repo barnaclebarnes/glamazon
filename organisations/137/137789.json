@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137789
   },
-  "name": "ANTHROPOLOGY MUSEUM OF NORTHERN ILLINOIS UNIVERSITY",
+  "name": [
+    {
+      "@value": "ANTHROPOLOGY MUSEUM OF NORTHERN ILLINOIS UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "STEVENS BUILDING, NIU",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.niu.edu/anthro_museum",
   "telephone": "+1 (815) 753-0230",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700934",

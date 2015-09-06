@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133196
   },
-  "name": "YUMA MUSEUM",
+  "name": [
+    {
+      "@value": "YUMA MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 454",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.goyuma.com/cgi-bin/museum/page.cgi",
   "telephone": "+1 (970) 848-5430",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800372",

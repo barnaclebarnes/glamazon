@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183912
   },
-  "name": "Heimatstube Weprowatz",
+  "name": [
+    {
+      "@value": "Heimatstube Weprowatz",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Fürther Straße 8",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.weprowatz.de/html/heimatstube.html",
   "telephone": "0911/605783",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

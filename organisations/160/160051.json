@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160051
   },
-  "name": "ST GEORGE CHILDRENS MUSEUM",
+  "name": [
+    {
+      "@value": "ST GEORGE CHILDRENS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "86 S MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sgchildrensmuseum.org/",
   "telephone": "+1 (435) 986-4000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404900117",

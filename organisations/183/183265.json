@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183265
   },
-  "name": "Münchner Sanitätsmuseum",
+  "name": [
+    {
+      "@value": "Münchner Sanitätsmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Boschetsrieder Straße 33",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.brk-museum.de",
   "telephone": "0172/8250577",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

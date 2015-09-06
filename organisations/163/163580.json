@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163580
   },
-  "name": "NELSON MUSEUM OF THE WEST",
+  "name": [
+    {
+      "@value": "NELSON MUSEUM OF THE WEST",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1714 CAREY AVE",
@@ -22,9 +27,6 @@
     "longitude": -104.817
   },
   "url": "http://www.nelsonmuseum.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405600160",

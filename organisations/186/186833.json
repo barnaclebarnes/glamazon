@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186833
   },
-  "name": "Tadini Academy Gallery",
+  "name": [
+    {
+      "@value": "Tadini Academy Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Galleria dell'Accademia Tadini di Lovere",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Tadini, 40",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.accademiatadini.it",
   "telephone": "+39 035962780",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/cbBvjoYpiHqwKrj55MO4k2_LL_g=/1000x1000/museums/logos/000/186/833/original/b97e1bf69de57b28ad2acccb1c73bf07e694eca.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 149877
   },
-  "name": "ORANGE COUNTY FIREFIGHTERS MUSEUM",
+  "name": [
+    {
+      "@value": "ORANGE COUNTY FIREFIGHTERS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 688",
@@ -22,9 +27,6 @@
     "longitude": -74.2395
   },
   "url": "http://ocfm.us",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601171",

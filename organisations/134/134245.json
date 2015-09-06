@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134245
   },
-  "name": "NAVAL HISTORICAL CENTER",
+  "name": [
+    {
+      "@value": "NAVAL HISTORICAL CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "805 KIDDER BREEZE ST SE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.history.navy.mil",
   "telephone": "+1 (202) 433-4882",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100025",

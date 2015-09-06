@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164101
   },
-  "name": "Monash University Medical Sciences Collection",
+  "name": [
+    {
+      "@value": "Monash University Medical Sciences Collection",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,9 +22,6 @@
     "longitude": 145.134
   },
   "telephone": "(03) 9905 4301",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "monash-university-medical-sciences-collection",

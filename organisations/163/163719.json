@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163719
   },
-  "name": "B-24 Liberator Memorial Restoration Australia Inc",
+  "name": [
+    {
+      "@value": "B-24 Liberator Memorial Restoration Australia Inc",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://b24australia.org.au/home.html",
   "telephone": "9731 1263",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Every Tuesday, Thursday and Sunday between 9:30 am and 3:30 pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Every Tuesday, Thursday and Sunday between 9:30 am and 3:30 pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "b24-liberator-restoration-fund",

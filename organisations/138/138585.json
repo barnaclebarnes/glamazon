@@ -6,7 +6,12 @@
     "name": "id",
     "value": 138585
   },
-  "name": "UNIVERSITY OF SOUTHERN INDIANA",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF SOUTHERN INDIANA",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 579",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.newharmony.org",
   "telephone": "+1 (812) 682-4488",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401800371",

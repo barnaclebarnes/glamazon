@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182806
   },
-  "name": "Schloss Spielberg",
+  "name": [
+    {
+      "@value": "Schloss Spielberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Spielberg 16",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kunstmuseum-donauries.de",
   "telephone": "09833/357",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

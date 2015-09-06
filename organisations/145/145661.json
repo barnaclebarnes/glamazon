@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145661
   },
-  "name": "DAUM MUSEUM-CONTEMPORARY ART",
+  "name": [
+    {
+      "@value": "DAUM MUSEUM-CONTEMPORARY ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3201 W 16TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.daummuseum.org",
   "telephone": "+1 (660) 530-5888",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900090",

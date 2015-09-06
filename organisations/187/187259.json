@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187259
   },
-  "name": "Museo \"Gaspare Spontini\"",
+  "name": [
+    {
+      "@value": "Museo \"Gaspare Spontini\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Spontini, 15",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.maiolati.spontini.it",
   "telephone": "+39 073170751",
-  "contactPoint": [
-
-  ],
-  "openingHours": ": inverno e luglio: sab.dom. 15-19, agosto: tutti i giorni 16-20, settembre 10-13/17-20 tutti giorni",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 2.50"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/4v-wKAuFaQceKWVvvCUWolXTja4=/1000x1000/museums/logos/000/187/259/original/e545f4cf72dc155a26228a58e6b8d669176e445.jpg"

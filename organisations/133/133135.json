@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133135
   },
-  "name": "BROOMFIELD DEPOT MUSEUM",
+  "name": [
+    {
+      "@value": "BROOMFIELD DEPOT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 274",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.broomfield.org/index.aspx?nid=12",
   "telephone": "+1 (303) 460-6824",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800311",

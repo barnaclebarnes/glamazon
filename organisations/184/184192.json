@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184192
   },
-  "name": "The Pointon Collection",
+  "name": [
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "en"
+    },
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "it"
+    },
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "es"
+    },
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "de"
+    },
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "The Pointon Collection",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,18 +58,61 @@
     "longitude": 175.697
   },
   "telephone": "64-6-378 6710",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "We are open daily 10am-4pm (other times by appointment)",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Siamo aperti ogni giorno 10-16 (altri orari su appuntamento)",
+      "@langauge": "it"
+    },
+    {
+      "@value": "我们是开放日常 10 上午-4 下午 (预约其他时间)",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Estamos abiertos diariamente 10:00-16:00 (otras veces con cita previa)",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Estamos abertos diariamente 10:00-16:00 (outras vezes com hora marcada)",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "我々 はオープン毎日 10 16 (任命によって他の回)",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Мы являемся открыт ежедневно 10 утра - 4 вечера (другое время по договоренности)",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Wir sind geöffnet täglich 10:00-16:00 (andere Zeiten nach Vereinbarung)",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Nous sommes ouvert tous les jours 10:00-16:00 (autres moments sur rendez-vous)",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Kami akan dibuka setiap hari 10 pagi - 4 petang (waktu lain dengan pelantikan)",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Wir sind geöffnet täglich 10:00-16:00 (andere Zeiten nach Vereinbarung)",
   "offers": {
     "@Type": "Offer",
-    "description": "Adults $6 & children $2 (groups of 20 or more adults discounted to $5) "
+    "description": [
+      {
+        "@value": "Adults $6 & children $2 (groups of 20 or more adults discounted to $5) ",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184192",
+    "url": "http://www.museums.io/en/museums/184192",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

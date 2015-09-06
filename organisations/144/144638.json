@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144638
   },
-  "name": "GAMMELGARDEN MUSEUM",
+  "name": [
+    {
+      "@value": "GAMMELGARDEN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "20880 OLINDA TRL N",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gammelgardenmuseum.org",
   "telephone": "+1 (651) 433-5053",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700078",

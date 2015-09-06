@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128749
   },
-  "name": "ALABAMA WILDLIFE CENTER",
+  "name": [
+    {
+      "@value": "ALABAMA WILDLIFE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 TERRACE DR",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.awrc.org",
   "telephone": "+1 (205) 663-7930",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100279",

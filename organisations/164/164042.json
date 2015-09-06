@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164042
   },
-  "name": "Maffra Sugarbeet Museum",
+  "name": [
+    {
+      "@value": "Maffra Sugarbeet Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.maffra.net.au/heritage/musmaf.htm",
   "telephone": "0418 573 828",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Museum 10am to 2pm first Sunday of the month, Archives at Maffra Library 1pm to 3pm Thursdays.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Museum 10am to 2pm first Sunday of the month, Archives at Maffra Library 1pm to 3pm Thursdays.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "maffra-sugarbeet-museum",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140719
   },
-  "name": "USS KIDD",
+  "name": [
+    {
+      "@value": "USS KIDD",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "305 RIVER RD N",
@@ -22,9 +27,6 @@
     "longitude": -91.1905
   },
   "telephone": "+1 (225) 342-1942",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200001",

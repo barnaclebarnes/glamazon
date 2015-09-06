@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183299
   },
-  "name": "Valentin-Karlstadt-Musäum",
+  "name": [
+    {
+      "@value": "Valentin-Karlstadt-Musäum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Tal 50",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.valentin-musaeum.de",
   "telephone": "089/223266",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

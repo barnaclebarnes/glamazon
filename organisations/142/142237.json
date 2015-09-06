@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142237
   },
-  "name": "AMERICAN MILITARY MEDICAL IMPRESSION",
+  "name": [
+    {
+      "@value": "AMERICAN MILITARY MEDICAL IMPRESSION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6101 WELSHIRE PLACE",
@@ -21,9 +26,6 @@
     "latitude": 38.8053,
     "longitude": -76.8251
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400530",

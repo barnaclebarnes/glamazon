@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159250
   },
-  "name": "DICKEY MUSEUM",
+  "name": [
+    {
+      "@value": "DICKEY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "500 BERKEY ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.preservationtexas.org/endangered/dr-james-lee-dickey-house/",
   "telephone": "+1 (512) 365-6068",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801350",

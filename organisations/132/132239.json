@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132239
   },
-  "name": "AEROSPACE MUSEUM OF CALIFORNIA FOUNDATION",
+  "name": [
+    {
+      "@value": "AEROSPACE MUSEUM OF CALIFORNIA FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3200 FREEDOM PARK DRIVE",
@@ -22,9 +27,6 @@
     "longitude": -121.391
   },
   "url": "http://www.aerospacemuseumofcalifornia.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602365",

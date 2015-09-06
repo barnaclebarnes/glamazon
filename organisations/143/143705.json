@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143705
   },
-  "name": "YPSILANTI AUTOMOTIVE HERITAGE MUSEUM",
+  "name": [
+    {
+      "@value": "YPSILANTI AUTOMOTIVE HERITAGE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 E CROSS ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.ypsiautoheritage.org",
   "telephone": "+1 (734) 482-5200",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600242",

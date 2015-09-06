@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145572
   },
-  "name": "WORLD AQUARIUM",
+  "name": [
+    {
+      "@value": "WORLD AQUARIUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "701 NORTH 15TH STREET, 2ND FLOOR",
@@ -23,9 +28,6 @@
   },
   "url": "http://worldaquarium.net/",
   "telephone": "+1 (314) 647-6011",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900001",

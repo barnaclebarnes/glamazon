@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188260
   },
-  "name": "Museo \"Sa domu nosta\"",
+  "name": [
+    {
+      "@value": "Museo \"Sa domu nosta\"",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Scaledda, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museosadomunosta.it/",
   "telephone": "+39 0709809071",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9.00 - 13.00 e 16.00 - 19.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "3,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/TimOsIqRj0-JdlsfquAAGEeyOoQ=/1000x1000/museums/logos/000/188/260/original/1ed0aa274581957bcb8f621b3b2964e4b3c434c.jpg"

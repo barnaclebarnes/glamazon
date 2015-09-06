@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163800
   },
-  "name": "Colac RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Colac RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 143.591
   },
   "telephone": "03 52312942",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10am till late",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10am till late",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "colac-rsl",

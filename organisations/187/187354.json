@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187354
   },
-  "name": "Museo della Basilica di S.Venanzio",
+  "name": [
+    {
+      "@value": "Museo della Basilica di S.Venanzio",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza S. Venanzio, 10",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.turismo.marche.it",
   "telephone": "+39 0737630400",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Apertura su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/rTILENaPCN500s-VBEmxYRwMhbQ=/1000x1000/museums/logos/000/187/354/original/df31515ec7113123c29979957f74916c61d9c37.jpg"

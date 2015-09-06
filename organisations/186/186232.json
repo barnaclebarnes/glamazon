@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186232
   },
-  "name": "Museo di storia e arte",
+  "name": [
+    {
+      "@value": "Museo di storia e arte",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Borgo Castello, 13",
@@ -21,9 +26,6 @@
     "longitude": 13.6281
   },
   "telephone": "+39 0481533926",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/0dfXjNzfgcLD2UNrzmldNa90OgU=/1000x1000/museums/logos/000/186/232/original/da96661079da281ba91f16c4884138e7bb6e69f1.jpg"

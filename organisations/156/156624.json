@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156624
   },
-  "name": "UNIVERSITY OF RHODE ISLAND",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF RHODE ISLAND",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "70 LOWER COLLEGE RD.",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.uri.edu",
   "telephone": "+1 (401) 874-1000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404400128",

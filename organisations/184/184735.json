@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184735
   },
-  "name": "Calitzdorp Museum",
+  "name": [
+    {
+      "@value": "Calitzdorp Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Van Riebeeck Street, Calitzdorp",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "044 213 3414",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

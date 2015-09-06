@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184363
   },
-  "name": "Eastern Southland Gallery",
+  "name": [
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Eastern Southland Gallery",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:jgeddes@goredc.govt.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.esgallery.co.nz",
   "telephone": "64-3-208 9907",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday to Friday 10am-4.30pm \r\nWeekends and Public Holidays 1pm-4pm\r\nClosed Christmas Day, Boxing Day, New Years Day and Good Friday",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Dal lunedì al venerdì 10-4,30 pm week-end e nei giorni festivi 13-16 chiuso il giorno di Natale, Boxing Day, nuovi anni giorno e buon venerdì",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一至星期五 10 上午-4.30 pm 周末及公众假期 1 下午-4 下午周五圣诞节那天，年新拳击一天，天和好",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "El lunes al viernes 10:00-4: 30 pm los fines de semana y días festivos 13:00-16:00 cerrado el día de Navidad, día de boxeo nuevo años día y buen el viernes",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Segunda a sexta 10:00-4: 30 pm nos fins de semana e feriados 13:00-16:00 fechado no dia de Natal, boxe dia, novo anos dia e bom sexta-feira",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月曜日から金曜日まで 10-4.30 pm 土日祝日 13-16 クリスマスの日、ボクシングデー、新しい年の日と休業良い金曜日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "С понедельника по пятницу 10 утра-4.30 pm выходные и праздничные дни 1-4 вечера закрыты Рождество, бокс день, новые годы день и хорошее Пятница",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Montag bis Freitag 10:00-16.30 Uhr an Wochenenden und Feiertagen 13:00-16:00 geschlossen Weihnachten, Stephanstag, neue Jahre Tag und gut Freitag",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lundi au vendredi 10:00-16 h week-ends et jours fériés de 13:00-16:00 fermé le jour de Noël, Boxing Day, neuf années jour et bon vendredi",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin hingga Jumaat 10 am-4.30 pm hujung minggu dan cuti umum 1 pm - 4 pm ditutup hari Krismas, tinju hari, baru tahun hari dan baik Jumaat",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Montag bis Freitag 10:00-16.30 Uhr an Wochenenden und Feiertagen 13:00-16:00 geschlossen Weihnachten, Stephanstag, neue Jahre Tag und gut Freitag",
   "offers": {
     "@Type": "Offer",
-    "description": "Kostenlose"
+    "description": [
+      {
+        "@value": "Free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Grátis",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Kostenlose",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184363",
+    "url": "http://www.museums.io/en/museums/184363",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163988
   },
-  "name": "Koorie Heritage Trust",
+  "name": [
+    {
+      "@value": "Koorie Heritage Trust",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.koorieheritagetrust.com/",
   "telephone": "8622 2600",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9am - 5pm, Monday-Friday",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "9am - 5pm, Monday-Friday",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "koorie-heritage-trust",

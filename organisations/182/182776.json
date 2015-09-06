@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182776
   },
-  "name": "Stadtmuseum Fürth Ludwig Erhard",
+  "name": [
+    {
+      "@value": "Stadtmuseum Fürth Ludwig Erhard",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ottostraße 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stadtmuseum-ludwig-erhard.de/",
   "telephone": "0911/97922290",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

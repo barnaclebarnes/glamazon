@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183814
   },
-  "name": "Kreismuseum Walderbach",
+  "name": [
+    {
+      "@value": "Kreismuseum Walderbach",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchstraße 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kreismuseum-walderbach.de",
   "telephone": "09464/676",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

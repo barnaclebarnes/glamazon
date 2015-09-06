@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156999
   },
-  "name": "UNIVERSITY OF SOUTH CAROLINA, RESEARCH",
+  "name": [
+    {
+      "@value": "UNIVERSITY OF SOUTH CAROLINA, RESEARCH",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "901 SUMTER ST., SUITE 501",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sc.edu/research",
   "telephone": "+1 (803) 777-0169",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404500294",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137150
   },
-  "name": "HOMER GLEN COMMUNITY & NATURE CENTER",
+  "name": [
+    {
+      "@value": "HOMER GLEN COMMUNITY & NATURE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "15429 WEST 139TH ST",
@@ -22,9 +27,6 @@
     "longitude": -87.9957
   },
   "url": "http://www.homerglenfoundation.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700295",

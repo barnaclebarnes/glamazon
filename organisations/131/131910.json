@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131910
   },
-  "name": "FLANDERS FOUNDATION",
+  "name": [
+    {
+      "@value": "FLANDERS FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1414",
@@ -21,9 +26,6 @@
     "latitude": 36.5395,
     "longitude": -121.906
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602036",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134181
   },
-  "name": "FRIENDS OF THE DELAWARE ARCHIVES INC",
+  "name": [
+    {
+      "@value": "FRIENDS OF THE DELAWARE ARCHIVES INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 287",
@@ -22,9 +27,6 @@
     "longitude": -75.5233
   },
   "url": "http://archives.delaware.gov/friends.shtml",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401000113",

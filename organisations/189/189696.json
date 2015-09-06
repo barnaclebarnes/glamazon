@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189696
   },
-  "name": "MESA VERDE NATIONAL PARK",
+  "name": [
+    {
+      "@value": "MESA VERDE NATIONAL PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 8",
@@ -22,9 +27,6 @@
     "longitude": -108.419
   },
   "telephone": "+1 (970) 529-4614",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800722",

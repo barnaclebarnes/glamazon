@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160679
   },
-  "name": "BACON'S CASTLE",
+  "name": [
+    {
+      "@value": "BACON'S CASTLE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2300 E. GRACE ST.",
@@ -21,9 +26,6 @@
     "latitude": 37.5318,
     "longitude": -77.4213
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100185",

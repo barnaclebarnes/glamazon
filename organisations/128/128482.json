@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128482
   },
-  "name": "SPRINGVILLE MUSEUM",
+  "name": [
+    {
+      "@value": "SPRINGVILLE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6496 US HIGHWAY 11",
@@ -22,9 +27,6 @@
     "longitude": -86.4706
   },
   "telephone": "+1 (205) 467-2339",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400100012",

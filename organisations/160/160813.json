@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160813
   },
-  "name": "ARLINGTON ARTS CENTER",
+  "name": [
+    {
+      "@value": "ARLINGTON ARTS CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3550 WILSON BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.arlingtonartscenter.org",
   "telephone": "+1 (703) 248-6800",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100319",

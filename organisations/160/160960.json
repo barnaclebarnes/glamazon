@@ -6,7 +6,12 @@
     "name": "id",
     "value": 160960
   },
-  "name": "HAYDEN GROUP",
+  "name": [
+    {
+      "@value": "HAYDEN GROUP",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1140",
@@ -21,9 +26,6 @@
     "latitude": 36.6662,
     "longitude": -76.9329
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100466",

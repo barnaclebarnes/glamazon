@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182781
   },
-  "name": "Marktmuseum",
+  "name": [
+    {
+      "@value": "Marktmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Pebenhauserstraße 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.marktmuseum.de/start/",
   "telephone": "08458/342969",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

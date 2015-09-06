@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189997
   },
-  "name": "VOYAGEURS NATIONAL PARK",
+  "name": [
+    {
+      "@value": "VOYAGEURS NATIONAL PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "360 HIGHWAY 11 EAST",
@@ -22,9 +27,6 @@
     "longitude": -93.3771
   },
   "telephone": "+1 (218) 283-6676",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700751",

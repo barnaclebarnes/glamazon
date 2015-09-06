@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142585
   },
-  "name": "BOSTON TEA PARTY SHIP AND MUSEUM",
+  "name": [
+    {
+      "@value": "BOSTON TEA PARTY SHIP AND MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "CONGRESS STREET BRG",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bostonteapartyship.com",
   "telephone": "+1 (617) 338-1773",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500215",

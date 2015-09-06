@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187123
   },
-  "name": "Museo della Certosa di Pavia",
+  "name": [
+    {
+      "@value": "Museo della Certosa di Pavia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale Monumento, 1",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museo.certosadipavia.beniculturali.it/",
   "telephone": "+39 0272263231",
-  "contactPoint": [
-
-  ],
-  "openingHours": "giovedì, venerdì, sabato: 14.30 - 17.00; domenica: 9.30 - 12.00 e 14.15 - 17.00 martedì e mercoledì: visita su prenotazione (a pagamento)",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/YjO5KiHWSTVlVtKTY1a89PpzcNk=/1000x1000/museums/logos/000/187/123/original/1449f4534ade647ee287a021dfa7ebd7da26ca8.jpg"

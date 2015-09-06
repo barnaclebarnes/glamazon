@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142973
   },
-  "name": "WILMINGTON TOWN MUSEUM",
+  "name": [
+    {
+      "@value": "WILMINGTON TOWN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "430 SALEM STREET",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.town.wilmington.ma.us/tavern1.htm",
   "telephone": "+1 (978) 658-5475",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500603",

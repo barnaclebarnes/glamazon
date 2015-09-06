@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152320
   },
-  "name": "MALTZ JEWISH MUSEUM",
+  "name": [
+    {
+      "@value": "MALTZ JEWISH MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2929 RICHMOND RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.maltzmuseum.org",
   "telephone": "+1 (216) 593-0575",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900097",

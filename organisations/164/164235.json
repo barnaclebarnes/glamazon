@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164235
   },
-  "name": "Ringwood and District Historical Society",
+  "name": [
+    {
+      "@value": "Ringwood and District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 145.227
   },
   "telephone": "(03) 9876 4367",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ringwood-and-district-historical-society",

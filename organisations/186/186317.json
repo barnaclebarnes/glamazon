@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186317
   },
-  "name": "Museo Civico di Gemona",
+  "name": [
+    {
+      "@value": "Museo Civico di Gemona",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Palazzo Elti - Via Bini, 9",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.gemonaweb.it",
   "telephone": "+39 0432973258",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100284",

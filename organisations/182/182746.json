@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182746
   },
-  "name": "Glasmuseum",
+  "name": [
+    {
+      "@value": "Glasmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Am Museumspark 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.glasmuseum-frauenau.de",
   "telephone": "09926/9410-20",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

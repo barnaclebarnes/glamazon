@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189457
   },
-  "name": "Museo archeologico nazionale di Adria",
+  "name": [
+    {
+      "@value": "Museo archeologico nazionale di Adria",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Badini, 59",
@@ -21,14 +26,6 @@
     "longitude": 12.0546
   },
   "telephone": "+39 042621612",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Tutti i giorni 9.00 - 20.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 2,00"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "20330",

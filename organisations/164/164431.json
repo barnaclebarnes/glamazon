@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164431
   },
-  "name": "Victorian Interpretive Projects",
+  "name": [
+    {
+      "@value": "Victorian Interpretive Projects",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://vipsinc.wordpress.com/",
   "telephone": "N/A",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "N/A",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "N/A",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "victorian-interpretive-projects",

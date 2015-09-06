@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182763
   },
-  "name": "Dorfmuseum",
+  "name": [
+    {
+      "@value": "Dorfmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchstraße 6",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fuchsstadt.rhoen-saale.net/Kultur/Museen",
   "telephone": "Tel. 09732/2664",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

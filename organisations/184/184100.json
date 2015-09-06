@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184100
   },
-  "name": "McCahon House",
+  "name": [
+    {
+      "@value": "McCahon House",
+      "@langauge": "en"
+    },
+    {
+      "@value": "McCahon House",
+      "@langauge": "it"
+    },
+    {
+      "@value": "McCahon House",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "McCahon House",
+      "@langauge": "es"
+    },
+    {
+      "@value": "McCahon House",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "McCahon House",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "McCahon House",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "McCahon House",
+      "@langauge": "de"
+    },
+    {
+      "@value": "McCahon House",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "McCahon House",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:mccahon@lopdell.org.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.mccahonhouse.org.nz/",
   "telephone": "(09) 817 8087 x203",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10 am to 2 pm\r\nWednesdays, Saturdays and Sundays.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "10 a 14 mercoledì, il sabato e la domenica.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "10 上午到 2 下午星期三、 星期六和星期天。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "10:00 a 14:00 los miércoles, el sábados y el domingos.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "10:00 a 14:00 às quartas-feiras, sábados e domingos.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "10 に 14 水曜、土曜、日曜。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "10 утра до 2 вечера средам, субботам и воскресеньям.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "10:00 bis 14:00 mittwochs, samstags und sonntags.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "10:00 à 14:00 les mercredis, samedis et dimanches.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "10 pagi hingga 2 petang Rabu, Sabtu dan Ahad.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "10:00 bis 14:00 mittwochs, samstags und sonntags.",
   "offers": {
     "@Type": "Offer",
-    "description": "$5 freiwillige Spende für Erwachsene."
+    "description": [
+      {
+        "@value": "$5 suggested donation for adults.",
+        "@langauge": "en"
+      },
+      {
+        "@value": "donazione suggerita di 5 $ per gli adulti.",
+        "@langauge": "it"
+      },
+      {
+        "@value": "$5 建议捐赠为成年人。",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "donación sugerida $5 para adultos.",
+        "@langauge": "es"
+      },
+      {
+        "@value": "doação sugerida de r $5 para adultos.",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "$5 は、大人のための寄付を提案しました。",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "предложенное пожертвование $5 для взрослых.",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "$5 freiwillige Spende für Erwachsene.",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Don suggéré de 5 $ pour les adultes.",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "$5 derma untuk orang dewasa yang disyorkan.",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184100",
+    "url": "http://www.museums.io/en/museums/184100",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

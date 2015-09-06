@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157001
   },
-  "name": "RIVERBANKS ZOOLOGICAL PARK AND BOTANICAL GARDEN",
+  "name": [
+    {
+      "@value": "RIVERBANKS ZOOLOGICAL PARK AND BOTANICAL GARDEN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1060",
@@ -22,9 +27,6 @@
     "longitude": -81.0747
   },
   "url": "http://www.riverbanks.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404500296",

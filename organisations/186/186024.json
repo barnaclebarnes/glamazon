@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186024
   },
-  "name": "Museo Madre",
+  "name": [
+    {
+      "@value": "Museo Madre",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Settembrini (Palazzo Donnaregina) , 79",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.museomadre.it",
   "telephone": "+39 081 19313016",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Lunedì, Mercoledì, Giovedì, Venerdì, Sabato 10.00 - 19.30 — Domenica 10.00 - 20.00 La biglietteria chiude un'ora prima; Lunedì ingresso gratuito",
-  "offers": {
-    "@Type": "Offer",
-    "description": "7,00 euro"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/SJkvg_jGVLnS43M9c41EPCPfWS4=/1000x1000/museums/logos/000/186/024/original/f943d84ad0acf9704dd923f4609596b6e5fc330.jpg"

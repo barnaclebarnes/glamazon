@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163841
   },
-  "name": "Donvale Christian College",
+  "name": [
+    {
+      "@value": "Donvale Christian College",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,10 +21,12 @@
     "latitude": -37.4713,
     "longitude": 144.785
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "donvale-christian-college",

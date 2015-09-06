@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129111
   },
-  "name": "T-REX MUSEUM",
+  "name": [
+    {
+      "@value": "T-REX MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "100 E DRACHMAN ST",
@@ -22,9 +27,6 @@
     "longitude": -110.97
   },
   "telephone": "+1 (520) 792-2884",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400013",

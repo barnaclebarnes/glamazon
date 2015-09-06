@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163676
   },
-  "name": "Ballarat Fire Brigade",
+  "name": [
+    {
+      "@value": "Ballarat Fire Brigade",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 143.868
   },
   "telephone": "03 5332 2530",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "The station is open during Ballarat Heritage Weekend every year or by appointment. Appointments can be made by email - ballarat.fs@cfa.vic.gov.au or by phoning 5332 2530 on monday nights between 7.00pm &amp; 9.30pm.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "The station is open during Ballarat Heritage Weekend every year or by appointment. Appointments can be made by email - ballarat.fs@cfa.vic.gov.au or by phoning 5332 2530 on monday nights between 7.00pm &amp; 9.30pm.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "ballarat-fire-brigade",

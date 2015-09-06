@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164495
   },
-  "name": "Yarra Ranges Regional Museum",
+  "name": [
+    {
+      "@value": "Yarra Ranges Regional Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.yarraranges.vic.gov.au/ach/Regional_Museum",
   "telephone": "613 9294 6313",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Every day 10am to 4pm (closed public holidays)",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Every day 10am to 4pm (closed public holidays)",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "yarra-ranges-regional-museum",

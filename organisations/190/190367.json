@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190367
   },
-  "name": "BOB JONES NATURE CENTER",
+  "name": [
+    {
+      "@value": "BOB JONES NATURE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "355 E. BOB JONES ROAD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bjnc.org",
   "telephone": "+1 (817) 491-6333",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404802038",

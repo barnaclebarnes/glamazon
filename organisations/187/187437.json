@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187437
   },
-  "name": "Museo storico della Linea gotica",
+  "name": [
+    {
+      "@value": "Museo storico della Linea gotica",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Provinciale, 79",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.montefeltro.net/lineagotica/",
   "telephone": "+39 0722362170",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Da lunedì a domenica 9.00 - 12.00 e 15.00 - 18.30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "€ 5,00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/2-5-4kAkuUSiUakgGkCEdxaN1R4=/1000x1000/museums/logos/000/187/437/original/afd6eca15659f6f8f968c35313cbb931d6ecb0.jpg"

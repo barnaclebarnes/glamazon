@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183045
   },
-  "name": "Dorfschulmuseum",
+  "name": [
+    {
+      "@value": "Dorfschulmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ködnitz 6",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.dorfschulmuseum.de",
   "telephone": "09221/1529",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

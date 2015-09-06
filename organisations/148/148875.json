@@ -6,7 +6,12 @@
     "name": "id",
     "value": 148875
   },
-  "name": "NEW YORK STATE MUSEUM LAB",
+  "name": [
+    {
+      "@value": "NEW YORK STATE MUSEUM LAB",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "FISH HATCHERY RD",
@@ -22,9 +27,6 @@
     "longitude": -73.3531
   },
   "telephone": "+1 (518) 677-8245",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403600169",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183603
   },
-  "name": "Radiomuseum",
+  "name": [
+    {
+      "@value": "Radiomuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Neufahrner Straße 3",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rmrl.de",
   "telephone": "08781/2789",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

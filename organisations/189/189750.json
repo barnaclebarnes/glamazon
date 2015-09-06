@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189750
   },
-  "name": "EVERGLADES NATIONAL PARK",
+  "name": [
+    {
+      "@value": "EVERGLADES NATIONAL PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "40001 STATE ROAD 9336",
@@ -22,9 +27,6 @@
     "longitude": -80.582
   },
   "telephone": "+1 (305) 242-7826",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201312",

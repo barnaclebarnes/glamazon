@@ -6,7 +6,12 @@
     "name": "id",
     "value": 146491
   },
-  "name": "MUSEUM INC",
+  "name": [
+    {
+      "@value": "MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 628",
@@ -22,9 +27,6 @@
     "longitude": -115.522
   },
   "url": "http://www.libbyheritagemuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403000134",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153895
   },
-  "name": "BOSTON FIRE MUSEUM",
+  "name": [
+    {
+      "@value": "BOSTON FIRE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "603 W JACKSON",
@@ -21,9 +26,6 @@
     "latitude": 42.3507,
     "longitude": -71.049
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404000249",

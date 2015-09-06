@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131324
+  },
+  "name": [
+    {
+      "@value": "RAILROAD TECHNOLOGY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 14TH STREET",
+    "addressLocality": "SACRAMENTO",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "95814-0909"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=38.5863&mlon=-121.485#map=15/38.5863/-121.485",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.5863,
+    "longitude": -121.485
+  },
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601450",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

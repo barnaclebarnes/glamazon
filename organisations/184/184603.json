@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184603
   },
-  "name": "Mary Moffat Museum",
+  "name": [
+    {
+      "@value": "Mary Moffat Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Main Street, Griquatown",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "053 343 0180",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

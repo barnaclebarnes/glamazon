@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183263
   },
-  "name": "Münchner Künstlerhaus am Lenbachplatz",
+  "name": [
+    {
+      "@value": "Münchner Künstlerhaus am Lenbachplatz",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Lenbachplatz 8",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.kuenstlerhaus-muc.de",
   "telephone": "089/599184-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

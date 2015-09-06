@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137831
   },
-  "name": "CHICAGO HUMANITIES FESTIVAL",
+  "name": [
+    {
+      "@value": "CHICAGO HUMANITIES FESTIVAL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "500 N DEARBORN ST STE 8",
@@ -23,9 +28,6 @@
   },
   "url": "http://info@chicagohumanities.org/www.chfestival.org ",
   "telephone": "+1 (312) 661-1028",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700976",

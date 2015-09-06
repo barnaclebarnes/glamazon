@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184271
   },
-  "name": "Waihi Arts Centre & Museum Association (Inc)",
+  "name": [
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Waihi Arts Centre & Museum Association (Inc)",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:wacma@waihimuseum.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.waihimuseum.co.nz",
   "telephone": "64-7-863 8386",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Thursday  -  Sunday  10am - 3pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Giovedì - domenica 10-15",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周四-周日 10 上午-3 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Jueves - el domingo 10:00-15:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Quinta-feira - domingo 10:00-15:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "木曜日 - 日曜日 10-15",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Четверг - воскресенье 10 утра - 3 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Donnerstag - Sonntag 10:00-15:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Jeudi - dimanche 10:00-15:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Khamis - Ahad 10 pagi - 3 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Donnerstag - Sonntag 10:00-15:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult $5 \r\nschool Child $3\r\ngroups of 15 or more  -  $4"
+    "description": [
+      {
+        "@value": "Adult $5 \r\nschool Child $3\r\ngroups of 15 or more  -  $4",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184271",
+    "url": "http://www.museums.io/en/museums/184271",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

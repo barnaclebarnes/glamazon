@@ -6,7 +6,12 @@
     "name": "id",
     "value": 134332
   },
-  "name": "O STREET MUSEUM",
+  "name": [
+    {
+      "@value": "O STREET MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2020 O ST NW",
@@ -22,9 +27,6 @@
     "longitude": -77.0459
   },
   "telephone": "+1 (202) 496-2070",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401100113",

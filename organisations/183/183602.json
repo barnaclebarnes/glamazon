@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183602
   },
-  "name": "Heimat- und Handwerksmuseum Binder-Pehr-Haus",
+  "name": [
+    {
+      "@value": "Heimat- und Handwerksmuseum Binder-Pehr-Haus",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Pfarrstraße 5",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.heimatmuseum-rottenburg.de",
   "telephone": "08781/3935",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

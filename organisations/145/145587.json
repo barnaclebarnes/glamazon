@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145587
   },
-  "name": "SIKESTON DEPOT",
+  "name": [
+    {
+      "@value": "SIKESTON DEPOT",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "116 E MALONE AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://sikestondepot.org",
   "telephone": "+1 (573) 481-9967",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900016",

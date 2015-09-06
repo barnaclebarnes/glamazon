@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188199
   },
-  "name": "The Sigismondo Castromediano Provincial Museum",
+  "name": [
+    {
+      "@value": "The Sigismondo Castromediano Provincial Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo provinciale Sigismondo Castromediano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale Gallipoli, 28",
@@ -15,9 +24,6 @@
     "addressCountry": "Italy"
   },
   "telephone": "+39 0832307415",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/hmiBDcGqrx8I-dwXtUFHQ7QL-ug=/1000x1000/museums/logos/000/188/199/original/1eae8f2d9075a67ac134d4e95ec53a4bb6f09f.jpg"

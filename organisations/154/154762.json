@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154762
   },
-  "name": "MUSEUM OF CONTEMPORARY CRAFTS",
+  "name": [
+    {
+      "@value": "MUSEUM OF CONTEMPORARY CRAFTS",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "724 NW DAVIS ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://contemporarycrafts.org",
   "telephone": "+1 (503) 223-2654",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100555",

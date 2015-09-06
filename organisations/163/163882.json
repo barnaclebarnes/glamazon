@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163882
   },
-  "name": "Frankston RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Frankston RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://frankstonrsl.com.au/sub-branch/",
   "telephone": "(03) 9783 2288",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "10:00 until late every day (except ANZAC day, Christmas day and Good Friday)",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "10:00 until late every day (except ANZAC day, Christmas day and Good Friday)",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "frankston-rsl",

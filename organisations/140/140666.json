@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140666
   },
-  "name": "KENTUCKY LIBRARY AND MUSEUM",
+  "name": [
+    {
+      "@value": "KENTUCKY LIBRARY AND MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1906 COLLEGE HEIGHTS BLVD. # 11092",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wku.edu/library/kylm",
   "telephone": "+1 (270) 745-6261",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100423",

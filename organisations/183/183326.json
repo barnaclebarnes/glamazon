@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183326
   },
-  "name": "Schlossmuseum Neuburg – Archäologie-Museum",
+  "name": [
+    {
+      "@value": "Schlossmuseum Neuburg – Archäologie-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Residenzstraße A2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.archaeologie-bayern.de/de/zweigmuseen/neuburgdonau/",
   "telephone": "08431/64430",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142798
   },
-  "name": "NEW ENGLAND QUILT MUSEUM",
+  "name": [
+    {
+      "@value": "NEW ENGLAND QUILT MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "18 SHATTUCK ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.nequiltmuseum.org",
   "telephone": "+1 (978) 452-4207",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500428",

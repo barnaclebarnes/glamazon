@@ -6,15 +6,22 @@
     "name": "id",
     "value": 164083
   },
-  "name": "Mildura & District Historical Society",
+  "name": [
+    {
+      "@value": "Mildura & District Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "telephone": "0247 113090",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday, Wednesday &amp; Saturday",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday, Wednesday &amp; Saturday",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "mildura-district-historical-society",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156074
   },
-  "name": "THE PENNSYLVANIA NATIONAL FIRE MUSEUM",
+  "name": [
+    {
+      "@value": "THE PENNSYLVANIA NATIONAL FIRE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1820 N 4TH ST",
@@ -22,9 +27,6 @@
     "longitude": -76.8919
   },
   "url": "http://www.pnfm.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201268",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151164
   },
-  "name": "RANKIN MUSEUM",
+  "name": [
+    {
+      "@value": "RANKIN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "131 CHURCH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rankinmuseum.org",
   "telephone": "+1 (910) 652-6378",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700035",

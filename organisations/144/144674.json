@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144674
   },
-  "name": "BECKER COUNTY MUSEUM",
+  "name": [
+    {
+      "@value": "BECKER COUNTY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "714 SUMMIT AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.beckercountyhistory.org",
   "telephone": "+1 (218) 847-2938",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700114",

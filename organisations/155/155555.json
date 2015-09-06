@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155555
   },
-  "name": "THE INSTITUTE FOR BIBLICAL AND SCIENTIFIC STUDIES",
+  "name": [
+    {
+      "@value": "THE INSTITUTE FOR BIBLICAL AND SCIENTIFIC STUDIES",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2424 E HAGERT ST",
@@ -21,9 +26,6 @@
     "latitude": 39.9783,
     "longitude": -75.1232
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200749",

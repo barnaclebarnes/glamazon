@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183101
   },
-  "name": "Spessartmuseum",
+  "name": [
+    {
+      "@value": "Spessartmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schloßplatz 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.spessartmuseum.de",
   "telephone": "09353/793-2399",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150193
   },
-  "name": "AMHERST MUSEUM",
+  "name": [
+    {
+      "@value": "AMHERST MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3755 TONAWANDA CREEK RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.amherstmuseum.org",
   "telephone": "+1 (716) 689-1440",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601487",

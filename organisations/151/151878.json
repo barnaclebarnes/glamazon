@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151878
   },
-  "name": "FINE ART MUSEUM",
+  "name": [
+    {
+      "@value": "FINE ART MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "JOHN W. BARDO FINE AND PERFORMING ARTS CENTER 199 CENTENNIAL DRIVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wcu.edu/museum",
   "telephone": "+1 (828) 227-3591",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403700749",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183522
   },
-  "name": "Privatmuseum Hans Klein",
+  "name": [
+    {
+      "@value": "Privatmuseum Hans Klein",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schulinstraße 28",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museen-kitzingerland.de/uebersicht/anb_/Fossiliensammlung_Hans_Klein_Prichsenstadt/index.html?detID=284",
   "telephone": "09383/9032428",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

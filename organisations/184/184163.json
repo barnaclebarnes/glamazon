@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184163
   },
-  "name": "Mount Bruce Pioneer Museum",
+  "name": [
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Mount Bruce Pioneer Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,18 +57,97 @@
     "latitude": -40.7509,
     "longitude": 175.604
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 9am-5pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ogni giorno 9-17",
+      "@langauge": "it"
+    },
+    {
+      "@value": "每日 9 上午-5 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Diario 9:00-17:00",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Diário 09:00-17:00",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "毎日 9-17",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ежедневно 9 утра - 5 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Täglich 09:00-17:00",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Tous les jours 09:00-17:00",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Setiap hari 9 am - 5 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Täglich 09:00-17:00",
   "offers": {
     "@Type": "Offer",
-    "description": "Erwachsene $3 Kind 50c"
+    "description": [
+      {
+        "@value": "Adult $3\r\n Child 50c",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Adulto bambino $3 50c",
+        "@langauge": "it"
+      },
+      {
+        "@value": "成人 $3 小童 50 c",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Adultos $3 niño 50c",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Adultos $3 criança 50c",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "大人 $3 子 50 c",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Взрослый ребенок $3 50c",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Erwachsene $3 Kind 50c",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Adulte 3 $ enfant 50C",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Dewasa $3 kanak-kanak 50c",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184163",
+    "url": "http://www.museums.io/en/museums/184163",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

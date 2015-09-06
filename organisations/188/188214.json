@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188214
   },
-  "name": "The Colossus Museum",
+  "name": [
+    {
+      "@value": "The Colossus Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo Colosso",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Messapica, 28",
@@ -15,9 +24,6 @@
     "addressCountry": "Italy"
   },
   "telephone": "+39 0833554843",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/8DlJEZxngjI0ygHixxdfgmLXpTE=/1000x1000/museums/logos/000/188/214/original/effccaaa9ab708e82394d303f50fe35e952aa9.jpg"

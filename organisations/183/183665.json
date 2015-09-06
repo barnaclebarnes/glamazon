@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183665
   },
-  "name": "Museum Otto Schäfer",
+  "name": [
+    {
+      "@value": "Museum Otto Schäfer",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Judithstraße 16",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumottoschaefer.de",
   "telephone": "09721/387097-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

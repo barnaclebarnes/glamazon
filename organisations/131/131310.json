@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 131310
+  },
+  "name": [
+    {
+      "@value": "IIT ROORKEE HERITAGE FOUNDATION",
+      "@langauge": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "43626 SKYE RD",
+    "addressLocality": "FREMONT",
+    "addressRegion": "CA",
+    "addressCountry": "United States",
+    "postalCode": "94539-5925"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=37.5217&mlon=-121.93#map=15/37.5217/-121.93",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.5217,
+    "longitude": -121.93
+  },
+  "url": "http://www.iitr-heritagefund.org",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8400601436",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

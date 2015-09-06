@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186982
   },
-  "name": "Museo Francesco Genala",
+  "name": [
+    {
+      "@value": "Museo Francesco Genala",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Filodrammatici, 18",
@@ -22,14 +27,6 @@
   },
   "url": "http:// www.comune.soresina.cr.it/",
   "telephone": "+39 0374349420",
-  "contactPoint": [
-
-  ],
-  "openingHours": "su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/NHbtZCf1XS5MeHKF3SumWtVLtrM=/1000x1000/museums/logos/000/186/982/original/2b928226772948c89a2047485519020c9bdf27.png"

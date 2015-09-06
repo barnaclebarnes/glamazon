@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182854
   },
-  "name": "Stadtmuseum Herrenmühle",
+  "name": [
+    {
+      "@value": "Stadtmuseum Herrenmühle",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Turnhouter Straße 15",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hammelburg.de",
   "telephone": "09732/782448",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

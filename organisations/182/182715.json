@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182715
   },
-  "name": "Archäologisches Museum Essenbach",
+  "name": [
+    {
+      "@value": "Archäologisches Museum Essenbach",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rathausplatz 14",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.essenbach.de/archaeolog-museum.html",
   "telephone": "08703/8080",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

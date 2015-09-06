@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153097
   },
-  "name": "MIAMI UNIVERSITY",
+  "name": [
+    {
+      "@value": "MIAMI UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "500 EAST HIGHT STREET10",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.muohio.edu/",
   "telephone": "+1 (513) 529-4617",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900875",

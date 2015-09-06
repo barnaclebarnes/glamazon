@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132854
   },
-  "name": "RED ROCKS AMPHITHEATRE",
+  "name": [
+    {
+      "@value": "RED ROCKS AMPHITHEATRE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "18300 W ALAMEDA PKWY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.redrocksonline.com",
   "telephone": "+1 (720) 865-2494",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800030",

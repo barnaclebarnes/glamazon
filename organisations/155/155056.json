@@ -6,7 +6,12 @@
     "name": "id",
     "value": 155056
   },
-  "name": "BAKER MANSION",
+  "name": [
+    {
+      "@value": "BAKER MANSION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3419 OAK LANE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.blairhistory.org",
   "telephone": "+1 (814) 942-3916",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404200250",

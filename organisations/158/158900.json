@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158900
   },
-  "name": "MUSEUM OF FINE ARTS HOUSTON",
+  "name": [
+    {
+      "@value": "MUSEUM OF FINE ARTS HOUSTON",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1001 BISSONNET ST",
@@ -22,9 +27,6 @@
     "longitude": -95.3906
   },
   "url": "http://www.mfah.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801000",

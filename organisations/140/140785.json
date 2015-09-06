@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140785
   },
-  "name": "GALLIER HOUSE",
+  "name": [
+    {
+      "@value": "GALLIER HOUSE",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1132 ROYAL ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hgghh.org",
   "telephone": "+1 (504) 525-5661",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402200067",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 157897
   },
-  "name": "GERMANTOWN MUSEUM",
+  "name": [
+    {
+      "@value": "GERMANTOWN MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7430 MIMOSA DR",
@@ -21,9 +26,6 @@
     "latitude": 35.0815,
     "longitude": -89.8152
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404700568",

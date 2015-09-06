@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156920
   },
-  "name": "FLORENCE MUSEUM",
+  "name": [
+    {
+      "@value": "FLORENCE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "558 SPRUCE ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.florencemuseum.org/",
   "telephone": "+1 (843) 662-3351",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404500215",

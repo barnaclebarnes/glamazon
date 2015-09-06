@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140714
   },
-  "name": "MAIN STREET MUNFORDVILLE INC",
+  "name": [
+    {
+      "@value": "MAIN STREET MUNFORDVILLE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 85",
@@ -22,9 +27,6 @@
     "longitude": -85.8992
   },
   "telephone": "+1 (270) 524-5701",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402100471",

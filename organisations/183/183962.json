@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183962
   },
-  "name": "Fränkisches Brauereimuseum",
+  "name": [
+    {
+      "@value": "Fränkisches Brauereimuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Michelsberg 10 f",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.brauereimuseum.de",
   "telephone": "0951/53016",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184371
   },
-  "name": "Port Chalmers Museum",
+  "name": [
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Port Chalmers Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:pcmuseum@xtra.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.pcmuseum.org.nz",
   "telephone": "64 3 472 8233",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Week days 9.00 am until 3.00 pm\r\nSat-Sun & Public holidays 1.30pm­ until 4.30pm or by arrangement",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Giorni della settimana 9 fino a 3,00 pm Sat-Sun & pubblico vacanze 13:30 fino alle 16:30 o su appuntamento",
+      "@langauge": "it"
+    },
+    {
+      "@value": "工作日 9 上午直到 3.00 pm 星期六、 日及公众假期 1:30 下午 4:30 下午直到或安排",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Semana 9:00 hasta las 3,00 pm Sat-Sun público y festivos 13:30 hasta 16:30 o por el arreglo",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Dias de semana 09:00 até 3,00 pm Sáb-Dom & público feriados 13:30 até 16:30 ou por acordo",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "3.00 午後土・日・国民の休日 13:30 16:30 まで、または配置によってまで 9 日",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Будние дни 9: 00 утра до 3.00 pm СБ-ВС &государственных праздников 1: 30 вечера до 4: 30 вечера или по договоренности",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Wochentage 09:00 bis 3,00 Uhr Sa-So &öffentliche Feiertage 13:30 bis 16:30 oder nach Vereinbarung",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Jours de la semaine 09:00 jusqu'à 3,00 h Sam-Dim & Public vacances 13:30 jusqu'à 16:30, ou par entente",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Hari minggu pukul 9.00 pagi sehingga 3.00 pm Sat-Sun & awam cuti 1.30 petang hingga 4.30 petang atau dengan persetujuan",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Wochentage 09:00 bis 3,00 Uhr Sa-So &öffentliche Feiertage 13:30 bis 16:30 oder nach Vereinbarung",
   "offers": {
     "@Type": "Offer",
-    "description": "Gold Coin Donation"
+    "description": [
+      {
+        "@value": "Gold Coin Donation",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184371",
+    "url": "http://www.museums.io/en/museums/184371",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

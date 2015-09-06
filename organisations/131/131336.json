@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131336
   },
-  "name": "ANIMAL HISTORY MUSEUM",
+  "name": [
+    {
+      "@value": "ANIMAL HISTORY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "530 SOUTH LAKE AVENUE BOX 444",
@@ -22,9 +27,6 @@
     "longitude": -118.132
   },
   "url": "http://www.animalhistorymuseum.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601462",

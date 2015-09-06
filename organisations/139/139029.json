@@ -6,7 +6,12 @@
     "name": "id",
     "value": 139029
   },
-  "name": "HOBO MUSEUM",
+  "name": [
+    {
+      "@value": "HOBO MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "51 MAIN AVE S",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hobo.com",
   "telephone": "+1 (641) 843-9104",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401900066",

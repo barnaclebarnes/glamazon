@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163640
   },
-  "name": "Australian Centre for the Moving Image (ACMI)",
+  "name": [
+    {
+      "@value": "Australian Centre for the Moving Image (ACMI)",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.acmi.net.au/default.aspx",
   "telephone": "(03) 8663 2200",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Open daily, 10am to 5pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Open daily, 10am to 5pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "australian-centre-for-the-moving-image-acmi",

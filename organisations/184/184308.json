@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184308
   },
-  "name": "Art Deco Trust",
+  "name": [
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Art Deco Trust",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:trust@artdeconapier.com"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.artdeconapier.com",
   "telephone": "64-6- 835 0022",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "9am-5pm daily (slightly shorter hours in winter).",
+      "@langauge": "en"
+    },
+    {
+      "@value": "9-17 tutti i giorni (leggermente più brevi ore in inverno).",
+      "@langauge": "it"
+    },
+    {
+      "@value": "9 上午-5 下午每日 (冬季稍短小时)。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "9:00-17:00 todos los días (ligeramente menos horas en invierno).",
+      "@langauge": "es"
+    },
+    {
+      "@value": "09:00-17:00 diariamente (ligeiramente mais curtas horas no inverno).",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "9-17 毎日 (冬はわずかに短い時間)。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "9 утра - 5 вечера ежедневно (немного короче часов зимой).",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "09:00-17:00 täglich (etwas kürzere Stunden im Winter).",
+      "@langauge": "de"
+    },
+    {
+      "@value": "09:00-17:00 tous les jours (un peu moins d'heures en hiver).",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "9 pagi - 5 petang setiap hari (waktu sedikit lebih pendek pada musim sejuk).",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "09:00-17:00 täglich (etwas kürzere Stunden im Winter).",
   "offers": {
     "@Type": "Offer",
-    "description": "Free visit \r\n Guided walk\r\n Adult $10.00\r\n Child free \r\n Family $10.00"
+    "description": [
+      {
+        "@value": "Free visit \r\n Guided walk\r\n Adult $10.00\r\n Child free \r\n Family $10.00",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184308",
+    "url": "http://www.museums.io/en/museums/184308",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

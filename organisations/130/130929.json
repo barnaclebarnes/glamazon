@@ -6,7 +6,12 @@
     "name": "id",
     "value": 130929
   },
-  "name": "ACE MUSEUM",
+  "name": [
+    {
+      "@value": "ACE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5514 WILSHIRE BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.acegallery.net",
   "telephone": "+1 (323) 935-4824",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601055",

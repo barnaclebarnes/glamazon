@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183894
   },
-  "name": "Museum am Dom",
+  "name": [
+    {
+      "@value": "Museum am Dom",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kiliansplatz",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museum-am-dom.de",
   "telephone": "0931/38665-600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

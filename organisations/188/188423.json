@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188423
   },
-  "name": "Museo archeologico di Palazzo Varisano",
+  "name": [
+    {
+      "@value": "Museo archeologico di Palazzo Varisano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza G. Mazzini, SNC",
@@ -21,14 +26,6 @@
     "longitude": 14.2797
   },
   "telephone": "+39 0935528127",
-  "contactPoint": [
-
-  ],
-  "openingHours": "da lunedi' a venerdi' 9,0/13,00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/uFiT24oeTm7PInsqh7sIG6JCBsw=/1000x1000/museums/logos/000/188/423/original/f9d4c0ca528a29638fd8ba0a9bb9935932d6eb.jpg"

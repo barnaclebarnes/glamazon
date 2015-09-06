@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189165
   },
-  "name": "Museo di Riva del Garda",
+  "name": [
+    {
+      "@value": "Museo di Riva del Garda",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Cesare Battisti, 3A",
@@ -16,13 +21,6 @@
   },
   "url": "http://www.comune.rivadelgarda.tn.it/museo/",
   "telephone": "+39 0464573869",
-  "contactPoint": [
-
-  ],
-  "offers": {
-    "@Type": "Offer",
-    "description": "3,00€ Museo, compresa salita al Mastio; 2,00€ Torre Apponale"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "100631",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188500
   },
-  "name": "Casa museo Antonino Uccello",
+  "name": [
+    {
+      "@value": "Casa museo Antonino Uccello",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Macchiavelli, 19",
@@ -21,14 +26,6 @@
     "longitude": 15.1182
   },
   "telephone": "+39 0931881499",
-  "contactPoint": [
-
-  ],
-  "openingHours": "feriale 9.00/19.00; festivo 9.00 /13.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "2,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/40wTA3oScMb1nwpdSBxIUFATDj0=/1000x1000/museums/logos/000/188/500/original/c6c74b17da78d7222eb8cea4ec83f84e957e9c.jpg"

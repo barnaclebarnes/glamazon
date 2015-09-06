@@ -6,7 +6,12 @@
     "name": "id",
     "value": 145999
   },
-  "name": "RAILROAD HISTORICAL MUSEUM",
+  "name": [
+    {
+      "@value": "RAILROAD HISTORICAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1651 S ROANOKE AVE",
@@ -21,9 +26,6 @@
     "latitude": 37.1844,
     "longitude": -93.2889
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402900428",

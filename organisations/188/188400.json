@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188400
   },
-  "name": "Museo di zoologia e casa delle farfalle",
+  "name": [
+    {
+      "@value": "Museo di zoologia e casa delle farfalle",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Lago di Nicito , 38",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.dipbot.unict.it",
   "telephone": "+39 095 7306029 / 095 7306018",
-  "contactPoint": [
-
-  ],
-  "openingHours": "09:00 - 12:00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/DxKv407wjxXafbUQgNRnRBmGvV8=/1000x1000/museums/logos/000/188/400/original/391bb0df6a136f7547a2a331efd24a82bc131f2.JPG"

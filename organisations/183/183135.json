@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183135
   },
-  "name": "Freudenthal-Altvater-Heimatmuseum",
+  "name": [
+    {
+      "@value": "Freudenthal-Altvater-Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Zangmeisterstraße 8",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.heimatkreis-freudenthal.de",
   "telephone": "08331/850-134",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

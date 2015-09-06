@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150495
   },
-  "name": "WILTON HERITAGE SOCIETY",
+  "name": [
+    {
+      "@value": "WILTON HERITAGE SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5 PARKHURST RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.wiltonhistorical.org",
   "telephone": "+1 (518) 583-3645",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601789",

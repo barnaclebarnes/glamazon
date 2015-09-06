@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140007
   },
-  "name": "GREAT PLAINS TRANSPORTATION MUSEUM INC",
+  "name": [
+    {
+      "@value": "GREAT PLAINS TRANSPORTATION MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "700 E DOUGLAS AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gptm.us",
   "telephone": "+1 (316) 263-0944",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000333",

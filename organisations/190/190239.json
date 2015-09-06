@@ -6,7 +6,12 @@
     "name": "id",
     "value": 190239
   },
-  "name": "WHEATLAND MANOR",
+  "name": [
+    {
+      "@value": "WHEATLAND MANOR",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "405 SOUTH GRANT STREET",
@@ -21,9 +26,6 @@
     "latitude": 46.8168,
     "longitude": -100.783
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403800295",

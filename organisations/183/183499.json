@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183499
   },
-  "name": "Hermann-Köhl-Museum",
+  "name": [
+    {
+      "@value": "Hermann-Köhl-Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Kirchplatz 6",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.markt-pfaffenhofen.de",
   "telephone": "07302/9190-24",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184118
   },
-  "name": "Ashburton Museum",
+  "name": [
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Ashburton Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:museum@ashburton.co.nz"
@@ -19,18 +60,97 @@
   },
   "url": "http://www.ashburtonmuseum.co.nz",
   "telephone": "64-3-308 3167",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Weekdays 10am to 4pm.\r\nSaturday & Sunday 1pm-4pm.\r\nClosed statutory holidays.",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Giorni feriali 10 a 16 sabato & domenica 13-16 chiuso nei giorni festivi.",
+      "@langauge": "it"
+    },
+    {
+      "@value": "平日 10 上午到 4 下午周六及周日 1 下午-4 下午闭合的法定假日。",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes 10:00 a 16:00 el sábado y el domingo 13:00-16:00 cerraron días festivos legales.",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Durante a semana 10:00 a 16:00 sábado e domingo 13:00-16:00 fechado feriados legais.",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "平日 10 に 16 土曜日・日曜日 13-16 法定祝日休診。",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Будни 10 утра до 4 pm. субботу &воскресенье 1 pm - 4 pm. закрыты официальные праздники.",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Wochentagen 10:00 bis 16:00 Samstag & Sonntag 13:00-16:00 geschlossen gesetzliche Feiertage.",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lundi au vendredi 10:00 à 16:00 samedi & dimanche 13:00-16:00 fermé les jours fériés.",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Hari Isnin hingga Jumaat 10 am ke 4 pm. Sabtu & Ahad 1 pm - 4 pm. ditutup cuti statut.",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Wochentagen 10:00 bis 16:00 Samstag & Sonntag 13:00-16:00 geschlossen gesetzliche Feiertage.",
   "offers": {
     "@Type": "Offer",
-    "description": "Befreit, würdigte Spenden. Gebühr für Forschung und kopieren."
+    "description": [
+      {
+        "@value": "Free, donations appreciated. Charges apply for research and copying.",
+        "@langauge": "en"
+      },
+      {
+        "@value": "Gratuito, donazioni apprezzate. A pagamento per la ricerca e copia.",
+        "@langauge": "it"
+      },
+      {
+        "@value": "免费，捐赠表示赞赏。收费为研究和临摹。",
+        "@langauge": "zh"
+      },
+      {
+        "@value": "Gratis, donaciones apreciadas. Se aplican cargos para la investigación y copia.",
+        "@langauge": "es"
+      },
+      {
+        "@value": "Gratuito, as doações apreciaram. Taxa extra para pesquisa e copiar.",
+        "@langauge": "pt"
+      },
+      {
+        "@value": "無料ですが、寄付歓迎です。研究・ コピーは有料します。",
+        "@langauge": "ja"
+      },
+      {
+        "@value": "Бесплатно, пожертвования оценены. Плата для научных исследований и копирования.",
+        "@langauge": "ru"
+      },
+      {
+        "@value": "Befreit, würdigte Spenden. Gebühr für Forschung und kopieren.",
+        "@langauge": "de"
+      },
+      {
+        "@value": "Gratuit, dons appréciés. Frais engagés pour la recherche et la copie.",
+        "@langauge": "fr"
+      },
+      {
+        "@value": "Percuma, sumbangan dihargai. Bayaran dikenakan bagi penyelidikan dan menyalin.",
+        "@langauge": "ms"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184118",
+    "url": "http://www.museums.io/en/museums/184118",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

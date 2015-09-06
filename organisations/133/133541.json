@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133541
   },
-  "name": "SCIENCE CENTER OF EASTERN CT",
+  "name": [
+    {
+      "@value": "SCIENCE CENTER OF EASTERN CT",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "33 GALLOWS LN",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.science-epicenter.org",
   "telephone": "+1 (860) 442-0391",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400900016",

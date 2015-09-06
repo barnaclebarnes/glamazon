@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184932
   },
-  "name": "Potchefstroom Museum",
+  "name": [
+    {
+      "@value": "Potchefstroom Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Cnr Gouws & Wolmarans Streets, Potchefstroom",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "018 299 5021",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

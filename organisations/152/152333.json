@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152333
   },
-  "name": "INLAND SEAS MARITIME MUSEUM",
+  "name": [
+    {
+      "@value": "INLAND SEAS MARITIME MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "480 MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.inlandseas.org",
   "telephone": "+1 (440) 967-3467",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900110",

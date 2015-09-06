@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164280
   },
-  "name": "Sandhurst Diocese Historical Commission",
+  "name": [
+    {
+      "@value": "Sandhurst Diocese Historical Commission",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.sandhurst.catholic.org.au/",
   "telephone": "61 3 5441 2544",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "By Appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "By Appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "diocese-of-sandhurst-historical-commission",

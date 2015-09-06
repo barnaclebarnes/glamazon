@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185888
   },
-  "name": "Museo provinciale Murattiano",
+  "name": [
+    {
+      "@value": "Museo provinciale Murattiano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Musolino , 1",
@@ -21,9 +26,6 @@
     "longitude": 16.1603
   },
   "telephone": "+39 ",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/XfsATjYDAdWEUvqBDpDPUS5Ud0k=/1000x1000/museums/logos/000/185/888/original/8c901b42f0ebe886ca21eb41574d5d5820d0c4aa.jpg"

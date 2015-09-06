@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143909
   },
-  "name": "MORTON HOUSE MUSEUM",
+  "name": [
+    {
+      "@value": "MORTON HOUSE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "501 TERRITORIAL ROAD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.mortonhousemuseum.org/",
   "telephone": "+1 (269) 925-7011",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600446",

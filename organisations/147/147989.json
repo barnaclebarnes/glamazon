@@ -6,7 +6,12 @@
     "name": "id",
     "value": 147989
   },
-  "name": "BERGEN COUNTY ZOOLOGICAL PARK",
+  "name": [
+    {
+      "@value": "BERGEN COUNTY ZOOLOGICAL PARK",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "216 FOREST AVE",
@@ -22,9 +27,6 @@
     "longitude": -74.0513
   },
   "telephone": "+1 (201) 262-3771",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403400357",

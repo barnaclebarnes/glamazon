@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183127
   },
-  "name": "Feuerwehrmuseum Mechenried",
+  "name": [
+    {
+      "@value": "Feuerwehrmuseum Mechenried",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Raiffeisenstraße 8",
@@ -22,9 +27,6 @@
     "longitude": 10.4776
   },
   "telephone": "09521/3603",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183836
   },
-  "name": "Eisenbahnmuseum",
+  "name": [
+    {
+      "@value": "Eisenbahnmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bahnhofstraße 28 a",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.eisenbahnmuseum-weiden.de",
   "telephone": "0961/401-7651",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

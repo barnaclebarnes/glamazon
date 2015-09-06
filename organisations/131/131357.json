@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131357
   },
-  "name": "SOUTHWEST BOTANICAL GARDEN",
+  "name": [
+    {
+      "@value": "SOUTHWEST BOTANICAL GARDEN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "27740 JEFFERSON AVE SUITE 100",
@@ -21,9 +26,6 @@
     "latitude": 33.5112,
     "longitude": -117.158
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400601483",

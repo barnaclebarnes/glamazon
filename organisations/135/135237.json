@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135237
   },
-  "name": "PHILADELPHIA CENTER FOR THE ARTS GALLERIES",
+  "name": [
+    {
+      "@value": "PHILADELPHIA CENTER FOR THE ARTS GALLERIES",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5833 PELICAN BAY BLVD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.thephil.org",
   "telephone": "+1 (239) 597-1111",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401200792",

@@ -6,16 +6,23 @@
     "name": "id",
     "value": 164193
   },
-  "name": "Phillip Island and District Historical Society Inc.",
+  "name": [
+    {
+      "@value": "Phillip Island and District Historical Society Inc.",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
   "url": "http://home.waterfront.net.au/phillipislandhistory",
   "telephone": "+61 (0)3 5956 8501",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Thursdays:  10 am to 12 noon\r\nSaturdays: 10 am to 12 noon\r\nSundays: (School holidays only): 2pm to 4.30pm \r\n(Not open Christmas Day, Boxing Day, New Years Day, Good Friday and Anzac Day).\r\nGroups and schools by appointment.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Thursdays:  10 am to 12 noon\r\nSaturdays: 10 am to 12 noon\r\nSundays: (School holidays only): 2pm to 4.30pm \r\n(Not open Christmas Day, Boxing Day, New Years Day, Good Friday and Anzac Day).\r\nGroups and schools by appointment.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "phillip-island-and-district-historical-society",

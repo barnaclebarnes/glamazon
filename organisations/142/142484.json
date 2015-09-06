@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142484
   },
-  "name": "LONGFELLOW'S WAYSIDE INN",
+  "name": [
+    {
+      "@value": "LONGFELLOW'S WAYSIDE INN",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "WAYSIDE INN ROAD",
@@ -22,9 +27,6 @@
     "longitude": -71.4849
   },
   "telephone": "+1 (508) 443-1776",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500114",

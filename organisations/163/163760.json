@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163760
   },
-  "name": "Castlemaine Historical Society",
+  "name": [
+    {
+      "@value": "Castlemaine Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.castlemainehistoricalsociety.com/",
   "telephone": "(03) 5470 6072",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesdays only - 9:00am to 3:00pm\r\nOther times by appointment",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Tuesdays only - 9:00am to 3:00pm\r\nOther times by appointment",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "castlemaine-historical-society",

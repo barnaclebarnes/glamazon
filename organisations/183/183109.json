@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183109
   },
-  "name": "Rangau-Handwerkermuseum",
+  "name": [
+    {
+      "@value": "Rangau-Handwerkermuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Hauptstraße 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.rangau-handwerkermuseum.de/",
   "telephone": "09106/6227",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

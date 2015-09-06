@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183678
   },
-  "name": "Heimatmuseum",
+  "name": [
+    {
+      "@value": "Heimatmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Luitpoldstraße 7",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.sesslach.de",
   "telephone": "09569/9225-40",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

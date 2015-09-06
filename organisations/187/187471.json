@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187471
   },
-  "name": "Museo diocesano di Pesaro",
+  "name": [
+    {
+      "@value": "Museo diocesano di Pesaro",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via G. Rossini, 53",
@@ -21,14 +26,6 @@
     "longitude": 12.9143
   },
   "telephone": "+39 0721371219",
-  "contactPoint": [
-
-  ],
-  "openingHours": "5 giugno - 15 settembre martedì, mercoledì, venerdì, sabato, domenica 16.30-19.30; giovedì 16.30-22.30",
-  "offers": {
-    "@Type": "Offer",
-    "description": "3 euro intero (include ingresso alla chiesa del Nome di Dio)"
-  },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "104300",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129552
   },
-  "name": "TUCSON ZOOLOGICAL SOCIETY",
+  "name": [
+    {
+      "@value": "TUCSON ZOOLOGICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1030 S RANDOLPH WAY",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.tucsonzoo.org",
   "telephone": "+1 (520) 881-4753",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400454",

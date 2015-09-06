@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182942
   },
-  "name": "Hopfenmuseum",
+  "name": [
+    {
+      "@value": "Hopfenmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ulrichstraße",
@@ -22,9 +27,6 @@
     "longitude": 11.6834
   },
   "telephone": "09666/9131-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

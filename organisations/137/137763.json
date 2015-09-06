@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137763
   },
-  "name": "NORTHERN ILLINOIS FIRE MUSEUM",
+  "name": [
+    {
+      "@value": "NORTHERN ILLINOIS FIRE MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 1",
@@ -22,9 +27,6 @@
     "longitude": -88.5971
   },
   "url": "http://www.nifm.net/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700908",

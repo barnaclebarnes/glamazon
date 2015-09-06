@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186718
   },
-  "name": "Museo di Colombo",
+  "name": [
+    {
+      "@value": "Museo di Colombo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Terrarossa Colombo, 54",
@@ -21,9 +26,6 @@
     "longitude": 9.20062
   },
   "telephone": "+39 0185/939001",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "107170",

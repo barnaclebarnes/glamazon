@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187252
   },
-  "name": "Museo del biroccio marchigiano",
+  "name": [
+    {
+      "@value": "Museo del biroccio marchigiano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Vicolo Beltrami, 2",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.museodelbiroccio.it/",
   "telephone": "+39 071 2072828 -  348 5226262",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Mer. Gio. Ven. 10.00-17.00",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/TQqHhfKaIKFffCBf-eiSh45roaw=/1000x1000/museums/logos/000/187/252/original/c27be676c1a08d412fd972bc634d85dc2f37579.jpg"

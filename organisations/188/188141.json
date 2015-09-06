@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188141
   },
-  "name": "The Museum of Rural Civilization of Alberona",
+  "name": [
+    {
+      "@value": "The Museum of Rural Civilization of Alberona",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo della civiltà contadina di Alberona",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Contrada Vaccareccia-Mezzana, ",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.comunedialberona.fg.it",
   "telephone": "+39 0881.592.022",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/AIZLFmv9W5VNaWkNT9KUOyButko=/1000x1000/museums/logos/000/188/141/original/7f6d56e3478781fdb553aec2929f8deffa49fd8.jpg"

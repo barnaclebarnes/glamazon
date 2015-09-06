@@ -6,7 +6,12 @@
     "name": "id",
     "value": 143619
   },
-  "name": "GILMORE CAR MUSEUM",
+  "name": [
+    {
+      "@value": "GILMORE CAR MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6865 HICKORY ROAD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.gilmorecarmuseum.org",
   "telephone": "+1 (269) 671-5089",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402600156",

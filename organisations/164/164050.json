@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164050
   },
-  "name": "Mansfield RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Mansfield RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,10 +21,12 @@
     "latitude": -37.4713,
     "longitude": 144.785
   },
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "4.30pm-11.00pm Fridays",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "4.30pm-11.00pm Fridays",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "mansfield-rsl",

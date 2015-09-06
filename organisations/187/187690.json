@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187690
   },
-  "name": "Museo ferroviario",
+  "name": [
+    {
+      "@value": "Museo ferroviario",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "c/o Stazione Ferroviaria-Deposito Personale Viaggiante, Piazzale Libertà, 10, ",
@@ -22,9 +27,6 @@
   },
   "url": "http://www.dlfcuneo.net",
   "telephone": "+39 ",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "106607",

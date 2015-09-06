@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188175
   },
-  "name": "The Civic Archaeological Museum",
+  "name": [
+    {
+      "@value": "The Civic Archaeological Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo civico archeologico San Paolo di Civitate",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Padre Pio, ",
@@ -21,9 +30,6 @@
     "longitude": 15.2601
   },
   "telephone": "+39 0882556233",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/W_i4gGPoLZ9i1umrw4mSwZYWzSc=/1000x1000/museums/logos/000/188/175/original/731ed090937e9eef239c92494ea2ee9d459d5226.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150528
   },
-  "name": "TOWN OF ROYALTON HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "TOWN OF ROYALTON HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "5316 ROYALTON CENTER ROAD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.townofroyalton.org",
   "telephone": "+1 (716) 772-2431",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601822",

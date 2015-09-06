@@ -6,7 +6,16 @@
     "name": "id",
     "value": 186128
   },
-  "name": "Pepoli Campgrande Palace",
+  "name": [
+    {
+      "@value": "Pepoli Campgrande Palace",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Pinacoteca nazionale di Bologna in Palazzo Pepoli Campogrande",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Castiglione, 7",
@@ -22,13 +31,28 @@
   },
   "url": "http://www.pinacotecabologna.beniculturali.it ",
   "telephone": "+39 051 229858 - 051 4209411\n        \n          (+39) 051 229858 - 051 4209411",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Tuesday, Wednesday, Thursday hours 15.00-19.00; Friday, Saturday, Sunday and holidays hours 10.00-19.00",
+      "@langauge": "en"
+    },
+    {
+      "@value": "martedì, mercoledì, giovedì ore 15.00-19.00; venerdì, sabato e festivi ore 10.00-19.00",
+      "@langauge": "it"
+    }
   ],
-  "openingHours": "Tuesday, Wednesday, Thursday hours 15.00-19.00; Friday, Saturday, Sunday and holidays hours 10.00-19.00",
   "offers": {
     "@Type": "Offer",
-    "description": "free"
+    "description": [
+      {
+        "@value": "free",
+        "@langauge": "en"
+      },
+      {
+        "@value": "gratuito",
+        "@langauge": "it"
+      }
+    ]
   },
   "photo": {
     "@type": "ImageObject",

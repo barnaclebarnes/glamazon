@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182787
   },
-  "name": "Burgmuseum Altnußberg",
+  "name": [
+    {
+      "@value": "Burgmuseum Altnußberg",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Auf dem Schloßberg 1",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.burgruine-altnussberg.de/museum.html",
   "telephone": "09923/841511",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187574
   },
-  "name": "Museo civico di Tortona",
+  "name": [
+    {
+      "@value": "Museo civico di Tortona",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "c/o Palazzo Guidobono, Piazza Aristide Arzano, 1, ",
@@ -21,9 +26,6 @@
     "longitude": 8.86549
   },
   "telephone": "+39 0131863470",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Zm-UMtnJc3D2ezC70NZHHOqpntg=/1000x1000/museums/logos/000/187/574/original/3f9674d73f145b6a4948086246bd6f16f23cfd.jpeg"

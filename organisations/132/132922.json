@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132922
   },
-  "name": "CUSSLER MUSEUM",
+  "name": [
+    {
+      "@value": "CUSSLER MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "14959 W 69TH AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.cusslermuseum.com",
   "telephone": "+1 (303) 420-2795",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800098",

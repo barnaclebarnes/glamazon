@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186361
   },
-  "name": "Casa di San Tommaso D'Aquino",
+  "name": [
+    {
+      "@value": "Casa di San Tommaso D'Aquino",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via S. Costanzo, 4",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.aquinosindaco.it",
   "telephone": "+39 0776728015",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Su richiesta",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/h2NDRZcVEnTgufIxuX2GGPqZAPI=/1000x1000/museums/logos/000/186/361/original/e2bf6d14b5e596401d245496195fd26372b29c.jpg"

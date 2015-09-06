@@ -6,7 +6,12 @@
     "name": "id",
     "value": 153067
   },
-  "name": "COLUMBUS ZOOLOGICAL PARK ASSOCIATION",
+  "name": [
+    {
+      "@value": "COLUMBUS ZOOLOGICAL PARK ASSOCIATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 400",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.columbuszoo.org",
   "telephone": "+1 (614) 645-3400",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900844",

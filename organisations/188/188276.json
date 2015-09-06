@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188276
   },
-  "name": "Museo archeologico di Santadi",
+  "name": [
+    {
+      "@value": "Museo archeologico di Santadi",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Umberto I, SNC",
@@ -21,14 +26,6 @@
     "longitude": 8.7164
   },
   "telephone": "+39 0781 955955",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Est. 9.00 - 13.00, 17.00 - 19.00 Inv.9.00 - 13.00, 15.00 - 17.00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "2,60€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/vzlr51IUUn2ahpYM0Q2f-dGDkKA=/1000x1000/museums/logos/000/188/276/original/99542cf588563e27ba13972e7ca5dd134492f51e.JPG"

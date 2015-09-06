@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164467
   },
-  "name": "Western Bulldogs",
+  "name": [
+    {
+      "@value": "Western Bulldogs",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.westernbulldogs.com.au/club/history/museum",
   "telephone": "+613 9680 6124",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday, 9.00-5.00\r\nSaturday, 9.00-2.00",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday, 9.00-5.00\r\nSaturday, 9.00-2.00",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "western-bulldogs",

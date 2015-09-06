@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142413
   },
-  "name": "ROSE ART MUSEUM",
+  "name": [
+    {
+      "@value": "ROSE ART MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,9 +23,6 @@
   },
   "url": "http://www.brandeis.edu/rose/",
   "telephone": "+1 (617) 736-3434",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500043",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183143
   },
-  "name": "Deutsches Korbmuseum",
+  "name": [
+    {
+      "@value": "Deutsches Korbmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bismarckstraße 4",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.korbmuseum.de",
   "telephone": "09571/83548",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

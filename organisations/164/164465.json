@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164465
   },
-  "name": "Westbourne Grammer School",
+  "name": [
+    {
+      "@value": "Westbourne Grammer School",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -16,9 +21,6 @@
     "latitude": -37.8503,
     "longitude": 144.726
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "westbourne-grammer",

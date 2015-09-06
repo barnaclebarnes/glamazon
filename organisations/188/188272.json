@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188272
   },
-  "name": "Museo mineralogico sardo",
+  "name": [
+    {
+      "@value": "Museo mineralogico sardo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Roma, 49",
@@ -21,14 +26,6 @@
     "longitude": 8.53132
   },
   "telephone": "+39 3334479980",
-  "contactPoint": [
-
-  ],
-  "openingHours": "9,30- 13,00 tutti i giorni",
-  "offers": {
-    "@Type": "Offer",
-    "description": "gratuito"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Elmg3d7MHSNhvOa5VLE2-FAowbA=/1000x1000/museums/logos/000/188/272/original/7f5c31c49a43bb6fe864bde3ae3bc2b8ecfb3390.JPG"

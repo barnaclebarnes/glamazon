@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183484
   },
-  "name": "Kunstverein, St. Anna-Kapelle",
+  "name": [
+    {
+      "@value": "Kunstverein, St. Anna-Kapelle",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Heiliggeistgasse 4",
@@ -22,9 +27,6 @@
     "longitude": 13.4587
   },
   "telephone": "0851/9664666",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

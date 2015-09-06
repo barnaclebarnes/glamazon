@@ -6,7 +6,12 @@
     "name": "id",
     "value": 159133
   },
-  "name": "SAN ANTONIO MUSEUM OF ART",
+  "name": [
+    {
+      "@value": "SAN ANTONIO MUSEUM OF ART",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "200 W JONES AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.saalm.org",
   "telephone": "+1 (210) 978-8100",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404801233",

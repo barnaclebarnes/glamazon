@@ -6,7 +6,16 @@
     "name": "id",
     "value": 188194
   },
-  "name": "The Museum of Roman Theatre",
+  "name": [
+    {
+      "@value": "The Museum of Roman Theatre",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo del teatro romano",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via degli Ammirati, 5",
@@ -21,9 +30,6 @@
     "longitude": 18.1706
   },
   "telephone": "+39 0832279196",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/VkticuOg3l2Viw4eK90znCTbRYY=/1000x1000/museums/logos/000/188/194/original/de522529cd788aeda09a48b5e2f4862bd9b94ed.jpg"

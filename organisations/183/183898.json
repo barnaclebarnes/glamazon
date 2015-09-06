@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183898
   },
-  "name": "Residenz – Staatsgalerie",
+  "name": [
+    {
+      "@value": "Residenz – Staatsgalerie",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Residenzplatz 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.residenz-wuerzburg.de/deutsch/residenz/st_galer.htm",
   "telephone": "0931/35517-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

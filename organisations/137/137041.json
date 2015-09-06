@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137041
   },
-  "name": "HAWTHORNE WORKS MUSEUM",
+  "name": [
+    {
+      "@value": "HAWTHORNE WORKS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3801 S CENTRAL AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://hawthorneworks.wordpress.com",
   "telephone": "+1 (708) 656-8000",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700186",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129683
   },
-  "name": "MUSEUM OF VETERANS AND MILITARY HISTORY",
+  "name": [
+    {
+      "@value": "MUSEUM OF VETERANS AND MILITARY HISTORY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 668",
@@ -21,9 +26,6 @@
     "latitude": 35.0825,
     "longitude": -92.2074
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400500119",

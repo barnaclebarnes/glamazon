@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164331
   },
-  "name": "St Vincent's Hospital Melbourne, Archives and Heritage Centre",
+  "name": [
+    {
+      "@value": "St Vincent's Hospital Melbourne, Archives and Heritage Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.svhm.org.au/aboutus/history/Pages/Archives.aspx",
   "telephone": "(03) 9288 3040",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Wednesday - Friday, by appointment.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Wednesday - Friday, by appointment.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "st-vincent's-hospital-archives",

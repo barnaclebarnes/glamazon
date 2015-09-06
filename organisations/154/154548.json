@@ -6,7 +6,12 @@
     "name": "id",
     "value": 154548
   },
-  "name": "MARYLHURST UNIVERSITY",
+  "name": [
+    {
+      "@value": "MARYLHURST UNIVERSITY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "176000 PACIFIC HWY",
@@ -23,9 +28,6 @@
   },
   "url": "http://marylhurst.edu",
   "telephone": "+1 (503) 636-8141",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404100341",

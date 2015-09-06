@@ -6,7 +6,12 @@
     "name": "id",
     "value": 156480
   },
-  "name": "PENNSYLVANIA STATE NAVY",
+  "name": [
+    {
+      "@value": "PENNSYLVANIA STATE NAVY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 274",
@@ -22,9 +27,6 @@
     "longitude": -75.4967
   },
   "url": "http://www.panavy.org/",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404201674",

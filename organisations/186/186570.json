@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186570
   },
-  "name": "Museo di mineralogia di Roma",
+  "name": [
+    {
+      "@value": "Museo di mineralogia di Roma",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazzale Aldo Moro, 5",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.musei.uniroma1.it/informamuseonew.asp?ID=15",
   "telephone": "+39 06 49914887",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal lunedì al venerdì dalle 9,30 alle 13,30 pomeriggio: da concordare con la segreteria",
-  "offers": {
-    "@Type": "Offer",
-    "description": "visita guidata 40,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/CfAC1G0BXgERfQX1-9aSlMqAepw=/1000x1000/museums/logos/000/186/570/original/9b7ff8e329eb2a52c13eb9ac6b160c46b4a8276.JPG"

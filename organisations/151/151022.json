@@ -6,7 +6,12 @@
     "name": "id",
     "value": 151022
   },
-  "name": "NATIONAL JEWELRY INSTITUTE INC",
+  "name": [
+    {
+      "@value": "NATIONAL JEWELRY INSTITUTE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "40 W 57TH ST FL 20",
@@ -22,9 +27,6 @@
     "longitude": -73.9753
   },
   "url": "http://nationaljewelryinstitute.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403602316",

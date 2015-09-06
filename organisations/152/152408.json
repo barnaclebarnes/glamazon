@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152408
   },
-  "name": "DENTAL MUSEUM",
+  "name": [
+    {
+      "@value": "DENTAL MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "209 E MAIN ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.bainbridgedentalmuseum.com",
   "telephone": "+1 (740) 634-2228",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900185",

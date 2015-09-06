@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184821
   },
-  "name": "Het Posthuys Museum",
+  "name": [
+    {
+      "@value": "Het Posthuys Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Main Road, Muizenburg",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "021 788 7972",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

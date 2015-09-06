@@ -6,7 +6,12 @@
     "name": "id",
     "value": 161003
   },
-  "name": "CHERRY HILL FARM",
+  "name": [
+    {
+      "@value": "CHERRY HILL FARM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "312 PARK AVENUE",
@@ -23,9 +28,6 @@
   },
   "url": "http://cherryhillfallschurch.org",
   "telephone": "+1 (703) 248-5175",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405100509",

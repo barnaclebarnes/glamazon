@@ -6,7 +6,12 @@
     "name": "id",
     "value": 131931
   },
-  "name": "UNITED STATES AIRPOWER MUSEUM",
+  "name": [
+    {
+      "@value": "UNITED STATES AIRPOWER MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "4377 N NORWICH AVE",
@@ -22,9 +27,6 @@
     "longitude": -119.752
   },
   "url": "http://aycsnetwork.com",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602057",

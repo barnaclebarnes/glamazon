@@ -6,7 +6,12 @@
     "name": "id",
     "value": 188367
   },
-  "name": "Casa di Pirandello",
+  "name": [
+    {
+      "@value": "Casa di Pirandello",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Strada Statale 115, ",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.visitagrigento.it/da-vedere/musei/item/77-casa-natale-luigi-pirandello-agrigento.html",
   "telephone": "+39 0922511826",
-  "contactPoint": [
-
-  ],
-  "openingHours": "Tutti i giorni 9,00-13,00/14,00-19,00",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4,00€"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/Xg1jx8V571dupQk0uzFLf-OYhF4=/1000x1000/museums/logos/000/188/367/original/35b6e1352cd26f5c3365cf6bc61dd36381982ab4.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164294
   },
-  "name": "Shepparton Heritage Centre",
+  "name": [
+    {
+      "@value": "Shepparton Heritage Centre",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.heritageshepparton.com.au/",
   "telephone": "0438 133 770",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "1pm -4pm every second Sunday. Tour can be organised.",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "1pm -4pm every second Sunday. Tour can be organised.",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "shepparton-heritage-centre-inc",

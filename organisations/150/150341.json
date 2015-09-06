@@ -6,7 +6,12 @@
     "name": "id",
     "value": 150341
   },
-  "name": "FENTON HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "FENTON HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "67 WASHINGTON ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.fentonhistorycenter.org",
   "telephone": "+1 (716) 664-6256",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403601635",

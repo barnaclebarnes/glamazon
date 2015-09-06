@@ -6,7 +6,12 @@
     "name": "id",
     "value": 135561
   },
-  "name": "STUART HERITAGE INC",
+  "name": [
+    {
+      "@value": "STUART HERITAGE INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "161 SW FLAGLER AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.stuartheritage.org",
   "telephone": "+1 (772) 220-4600",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401201116",

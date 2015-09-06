@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182929
   },
-  "name": "Städtisches Spixmuseum",
+  "name": [
+    {
+      "@value": "Städtisches Spixmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Badgasse 7",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.hoechstadt.de/index.php?id=421",
   "telephone": "09193/626-0",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

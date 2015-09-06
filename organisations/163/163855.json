@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163855
   },
-  "name": "Echuca Historical Society",
+  "name": [
+    {
+      "@value": "Echuca Historical Society",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.echucahistoricalsociety.org.au",
   "telephone": "03 54801325",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Daily 11am - 3.00pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Daily 11am - 3.00pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "echuca-historical-society",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186454
   },
-  "name": "Museo Neolitico",
+  "name": [
+    {
+      "@value": "Museo Neolitico",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Anguillarese, 145",
@@ -22,10 +27,6 @@
   },
   "url": "http://www.percorsifrancigena.eu",
   "telephone": "+39 06 9968415",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dalle ore 10,00 alle ore 13,00 e dalle ore 16,00 alle ore 20,00; aperto anche nel weekend",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/d_sUYjCrRgX0Hxe0SJp8ZZIzbAk=/1000x1000/museums/logos/000/186/454/original/441b13eb3ee7f9ba3c1853cbfba37e2563b72384.jpg"

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 163999
   },
-  "name": "Kyneton RSL Sub Branch",
+  "name": [
+    {
+      "@value": "Kyneton RSL Sub Branch",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -17,10 +22,12 @@
     "longitude": 144.452
   },
   "telephone": "03 5422.6735",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon, Tue, Wed 9am - 11pm\r\nThur 9am - 12 midnight\r\nFri, Sat 9am - 1am\r\nSun 11am - 11pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Mon, Tue, Wed 9am - 11pm\r\nThur 9am - 12 midnight\r\nFri, Sat 9am - 1am\r\nSun 11am - 11pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "kyneton-rsl-",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185795
   },
-  "name": "Museo Ruggiero Leoncavallo",
+  "name": [
+    {
+      "@value": "Museo Ruggiero Leoncavallo",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza F. De Munno",
@@ -22,9 +27,6 @@
   },
   "url": "http://  http://www.museoleoncavallo.it ",
   "telephone": "+39 3687368634",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "110948",

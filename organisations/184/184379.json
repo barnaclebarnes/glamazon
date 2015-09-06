@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184379
   },
-  "name": "Agricultural Heritage Museum",
+  "name": [
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Agricultural Heritage Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:terryh@mystery.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.agheritage.co.nz",
   "telephone": "64-7-843 7990",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Mon-Fri 9am-4:30pm \r\nBy reservation for groups of 10 or more",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Lun-ven 9-16:30 su prenotazione per gruppi di 10 o più",
+      "@langauge": "it"
+    },
+    {
+      "@value": "星期一-星期五 9 上午-4:30 下午由预订为 10 或更多组",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Lunes a viernes de 9:00-16:30 por reserva para grupos de 10 o más",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Seg-Sex 09:00-16:30 mediante reserva para grupos de 10 ou mais",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "月-金 9-16:30 要予約で 10 名以上の団体の",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Понедельник-Пятница 9 утра - 4:30 вечера по предварительному заказу для групп из 10 и более",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mo-Fr 09:00-16:30 nach Voranmeldung für Gruppen ab 10 Personen",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Lun-Ven 09:00-16:30 par réservation pour les groupes de 10 personnes ou plus",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Isnin-Jumaat 9 am - 4:30 petang dengan tempahan untuk Kumpulan 10 atau lebih",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mo-Fr 09:00-16:30 nach Voranmeldung für Gruppen ab 10 Personen",
   "offers": {
     "@Type": "Offer",
-    "description": "Adult $4 \r\nChild $2"
+    "description": [
+      {
+        "@value": "Adult $4 \r\nChild $2",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184379",
+    "url": "http://www.museums.io/en/museums/184379",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

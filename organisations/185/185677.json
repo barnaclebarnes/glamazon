@@ -6,7 +6,12 @@
     "name": "id",
     "value": 185677
   },
-  "name": "Museo di artigianato locale",
+  "name": [
+    {
+      "@value": "Museo di artigianato locale",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza Papa Giovanni XXIII, 14",
@@ -21,9 +26,6 @@
     "longitude": 15.939
   },
   "telephone": "+39 0971741511",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/on7FSV7wZwFCo3zunF5GtNiegDM=/1000x1000/museums/logos/000/185/677/original/36fa3f33e56b94337085f9ccbb17c84d3d816bee.jpg"

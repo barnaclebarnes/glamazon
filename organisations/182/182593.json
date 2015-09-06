@@ -6,7 +6,12 @@
     "name": "id",
     "value": 182593
   },
-  "name": "Gerätemuseum des Coburger Landes",
+  "name": [
+    {
+      "@value": "Gerätemuseum des Coburger Landes",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Schäferei 2",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.geraetemuseum-ahorn.de",
   "telephone": "09561/1304",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

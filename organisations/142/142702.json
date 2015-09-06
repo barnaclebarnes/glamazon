@@ -6,7 +6,12 @@
     "name": "id",
     "value": 142702
   },
-  "name": "BARTLETT MUSEUM INC",
+  "name": [
+    {
+      "@value": "BARTLETT MUSEUM INC",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 692",
@@ -23,9 +28,6 @@
   },
   "url": "http://bartlettmuseum.org",
   "telephone": "+1 (978) 388-4528",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402500332",

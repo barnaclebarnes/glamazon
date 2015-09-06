@@ -6,7 +6,12 @@
     "name": "id",
     "value": 128930
   },
-  "name": "SEWARD MUSEUM",
+  "name": [
+    {
+      "@value": "SEWARD MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "336 3RD AVE",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.museumsusa.org/museums/info/116173",
   "telephone": "+1 (907) 224-3902",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400200001",

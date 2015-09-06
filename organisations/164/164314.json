@@ -6,7 +6,12 @@
     "name": "id",
     "value": 164314
   },
-  "name": "State Library of Victoria",
+  "name": [
+    {
+      "@value": "State Library of Victoria",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress"
   },
@@ -18,10 +23,12 @@
   },
   "url": "http://www.slv.vic.gov.au/",
   "telephone": "(03) 8664 7000",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Monday to Thursday: 10am?9pm,  Friday to Sunday: 10am?6pm",
+      "@langauge": "en"
+    }
   ],
-  "openingHours": "Monday to Thursday: 10am?9pm,  Friday to Sunday: 10am?6pm",
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "state-library-of-victoria",

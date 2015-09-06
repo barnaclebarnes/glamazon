@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184487
   },
-  "name": "Alberton",
+  "name": [
+    {
+      "@value": "Alberton",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Alberton",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Alberton",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Alberton",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Alberton",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Alberton",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Alberton",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Alberton",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Alberton",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Alberton",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:alberton@heritage.co.nz"
@@ -19,18 +60,61 @@
   },
   "url": "http://www.heritage.org.nz/places/places-to-visit/auckland-region/alberton",
   "telephone": "64-9-846 7367",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "Wednesday - Sunday\r\n10.30am - 4.30pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Mercoledì - domenica 10:30-16:30",
+      "@langauge": "it"
+    },
+    {
+      "@value": "周三-周日 10:30 上午-4:30 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Miércoles - el domingo 10:30-16:30",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Quarta-feira - domingo 10:30-16:30",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "水曜日 - 日曜日 10:30-16:30",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Среда - воскресенье 10: 30 утра - 4: 30 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Mittwoch - Sonntag 10:30-16:30",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Mercredi - dimanche 10:30-16:30",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Rabu - Ahad 10.30 pagi - 4.30 petang",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "Mittwoch - Sonntag 10:30-16:30",
   "offers": {
     "@Type": "Offer",
-    "description": "Adults: $10\r\nChildren free\r\nUnaccompanied children $3.50\r\n\r\nPlease understand that surcharges may apply at times of special events."
+    "description": [
+      {
+        "@value": "Adults: $10\r\nChildren free\r\nUnaccompanied children $3.50\r\n\r\nPlease understand that surcharges may apply at times of special events.",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184487",
+    "url": "http://www.museums.io/en/museums/184487",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

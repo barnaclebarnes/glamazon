@@ -6,7 +6,12 @@
     "name": "id",
     "value": 144797
   },
-  "name": "MONTREAL RESIDENT COUNCIL",
+  "name": [
+    {
+      "@value": "MONTREAL RESIDENT COUNCIL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1085 MONTREAL AVE",
@@ -21,9 +26,6 @@
     "latitude": 44.9124,
     "longitude": -93.1459
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402700237",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 189545
   },
-  "name": "Museo naturalistico di Asiago",
+  "name": [
+    {
+      "@value": "Museo naturalistico di Asiago",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale della Vittoria, SNC",
@@ -22,9 +27,6 @@
   },
   "url": "http://www2.regione.veneto.it/cultura/musei/Scheda.asp?ID=252",
   "telephone": "+39 3204315243",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/7pmIuRLudyqbK5emBfJiX2vLXWY=/1000x1000/museums/logos/000/189/545/original/3aa968d34aa17aba639d6059e121796263c11e1a.jpg"

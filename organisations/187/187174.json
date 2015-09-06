@@ -6,7 +6,16 @@
     "name": "id",
     "value": 187174
   },
-  "name": "Valtellinese Museum of History and Art",
+  "name": [
+    {
+      "@value": "Valtellinese Museum of History and Art",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Museo valtellinese di storia e arte",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Maurizio Quadrio, 27",
@@ -22,9 +31,6 @@
   },
   "url": "http://www.comune.sondrio.it",
   "telephone": "+39 0342526269",
-  "contactPoint": [
-
-  ],
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ZRptXfYRe6V3_pjNsSPLuo_EJe4=/1000x1000/museums/logos/000/187/174/original/bcc99137d621b865141e9a460d7a4db62ba63f3.jpg"

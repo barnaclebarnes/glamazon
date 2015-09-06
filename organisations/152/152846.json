@@ -6,7 +6,12 @@
     "name": "id",
     "value": 152846
   },
-  "name": "OHIO WILDLIFE CENTER",
+  "name": [
+    {
+      "@value": "OHIO WILDLIFE CENTER",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2661 BILLINGSLEY ROAD",
@@ -22,9 +27,6 @@
     "longitude": -83.1391
   },
   "url": "http://www.ohiowildlifecenter.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8403900623",

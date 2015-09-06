@@ -6,7 +6,48 @@
     "name": "id",
     "value": 184267
   },
-  "name": "Chatham Islands Museum",
+  "name": [
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "en"
+    },
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "it"
+    },
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "es"
+    },
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "de"
+    },
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "Chatham Islands Museum",
+      "@langauge": "ms"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:museum@cic.govt.nz"
@@ -18,18 +59,61 @@
     "longitude": -176.54
   },
   "telephone": "03 305 0033",
-  "contactPoint": [
-
+  "openingHours": [
+    {
+      "@value": "8:30am to 4:30pm",
+      "@langauge": "en"
+    },
+    {
+      "@value": "8:30 a 16:30",
+      "@langauge": "it"
+    },
+    {
+      "@value": "8:30 上午到 4:30 下午",
+      "@langauge": "zh"
+    },
+    {
+      "@value": "8:30 a 16:30",
+      "@langauge": "es"
+    },
+    {
+      "@value": "08:30 a 16:30",
+      "@langauge": "pt"
+    },
+    {
+      "@value": "8:30 に 16:30",
+      "@langauge": "ja"
+    },
+    {
+      "@value": "8:30 утра до 4:30 вечера",
+      "@langauge": "ru"
+    },
+    {
+      "@value": "08:30 bis 16:30",
+      "@langauge": "de"
+    },
+    {
+      "@value": "08:30 à 16:30",
+      "@langauge": "fr"
+    },
+    {
+      "@value": "8:30 pagi hingga 4:30 pm",
+      "@langauge": "ms"
+    }
   ],
-  "openingHours": "08:30 bis 16:30",
   "offers": {
     "@Type": "Offer",
-    "description": "Donation Entry"
+    "description": [
+      {
+        "@value": "Donation Entry",
+        "@langauge": "en"
+      }
+    ]
   },
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "nzmuseums",
-    "url": "http://www.museums.io/de/museums/184267",
+    "url": "http://www.museums.io/en/museums/184267",
     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

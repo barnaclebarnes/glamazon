@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184926
   },
-  "name": "Pinetown Museum",
+  "name": [
+    {
+      "@value": "Pinetown Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Josiah Gumede Street, Pinetown",
@@ -15,9 +20,6 @@
     "addressCountry": "South Africa"
   },
   "telephone": "031 718 2740",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "sa",

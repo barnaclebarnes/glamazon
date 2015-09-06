@@ -6,7 +6,12 @@
     "name": "id",
     "value": 183620
   },
-  "name": "Nähmaschinenmuseum",
+  "name": [
+    {
+      "@value": "Nähmaschinenmuseum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Erzabtei 29 c",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.erzabtei.de/html/Aktuelles/Presse/2007/11/naehmaschinenmuseum.html",
   "telephone": "08193/710",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bavaria",

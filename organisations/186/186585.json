@@ -6,7 +6,12 @@
     "name": "id",
     "value": 186585
   },
-  "name": "Museo nazionale del Palazzo di Venezia",
+  "name": [
+    {
+      "@value": "Museo nazionale del Palazzo di Venezia",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via del Plebiscito, 118, ",
@@ -22,10 +27,6 @@
   },
   "url": "http://museopalazzovenezia.beniculturali.it/",
   "telephone": "+39 06699941",
-  "contactPoint": [
-
-  ],
-  "openingHours": "dal martedi alla domenica: 9.00 - 19.00",
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/ct9KRxa_j8zkiWDSHCNPB_05CgY=/1000x1000/museums/logos/000/186/585/original/5354af418c7b15ea6befce71b6f6ee4619dee.jpg"

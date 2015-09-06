@@ -6,7 +6,12 @@
     "name": "id",
     "value": 158049
   },
-  "name": "MOTORSPORTS MUSEUM",
+  "name": [
+    {
+      "@value": "MOTORSPORTS MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3210 PENNSYLVANIA AVE",
@@ -22,9 +27,6 @@
     "longitude": -96.7619
   },
   "telephone": "+1 (214) 421-4100",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8404800149",

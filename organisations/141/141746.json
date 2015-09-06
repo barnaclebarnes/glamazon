@@ -6,7 +6,12 @@
     "name": "id",
     "value": 141746
   },
-  "name": "NATURAL HISTORY SOCIETY OF MARYLAND",
+  "name": [
+    {
+      "@value": "NATURAL HISTORY SOCIETY OF MARYLAND",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "6908 BELAIR RD",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.marylandnature.org",
   "telephone": "+1 (410) 882-5376",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402400039",

@@ -6,7 +6,12 @@
     "name": "id",
     "value": 162927
   },
-  "name": "DANE COUNTY HISTORICAL SOCIETY",
+  "name": [
+    {
+      "@value": "DANE COUNTY HISTORICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "3101 LAKE FARM RD",
@@ -22,9 +27,6 @@
     "longitude": -89.3453
   },
   "url": "http://www.danecountyhistory.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8405500376",

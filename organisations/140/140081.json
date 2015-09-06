@@ -6,7 +6,12 @@
     "name": "id",
     "value": 140081
   },
-  "name": "FOWLER ARTS COUNCIL",
+  "name": [
+    {
+      "@value": "FOWLER ARTS COUNCIL",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "206 MAIN STREET PO BOX 437",
@@ -21,9 +26,6 @@
     "latitude": 37.3785,
     "longitude": -100.195
   },
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8402000407",

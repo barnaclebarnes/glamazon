@@ -6,7 +6,12 @@
     "name": "id",
     "value": 129518
   },
-  "name": "CHILDRENS MUSEUM OF PHOENIX",
+  "name": [
+    {
+      "@value": "CHILDRENS MUSEUM OF PHOENIX",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "215 N 7TH ST",
@@ -23,9 +28,6 @@
   },
   "url": "http://www.childrensmuseumofphoenix.org",
   "telephone": "+1 (602) 253-0501",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400400420",

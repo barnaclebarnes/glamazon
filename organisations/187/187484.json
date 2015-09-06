@@ -6,7 +6,12 @@
     "name": "id",
     "value": 187484
   },
-  "name": "Musei di Palazzo ducale",
+  "name": [
+    {
+      "@value": "Musei di Palazzo ducale",
+      "@langauge": "it"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Corso Vittorio Emanuele, 23",
@@ -22,14 +27,6 @@
   },
   "url": "http://www.marcheweb.com/museourbania",
   "telephone": "+39 0722313151",
-  "contactPoint": [
-
-  ],
-  "openingHours": "10-12 e 15-18",
-  "offers": {
-    "@Type": "Offer",
-    "description": "4.00"
-  },
   "photo": {
     "@type": "ImageObject",
     "contentUrl": "http://images.museums.io/90IOtd3xo4yBAO8xwi4AlA57edg=/1000x1000/museums/logos/000/187/484/original/da9bce1a38ec3c5c165a4916ba53bc9fde6aec32.jpg"

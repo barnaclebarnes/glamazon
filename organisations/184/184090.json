@@ -6,7 +6,12 @@
     "name": "id",
     "value": 184090
   },
-  "name": "Overbeck Museum",
+  "name": [
+    {
+      "@value": "Overbeck Museum",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "email": "mailto:info@overbeck-museum.de"
@@ -18,9 +23,6 @@
     "longitude": 8.62378
   },
   "telephone": "+49 (0) 421 663665",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "name": "de_bremen",

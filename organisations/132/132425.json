@@ -6,7 +6,12 @@
     "name": "id",
     "value": 132425
   },
-  "name": "SANTA CLARA COUNTY HISTORICAL & GENEALOGICAL SOCIETY",
+  "name": [
+    {
+      "@value": "SANTA CLARA COUNTY HISTORICAL & GENEALOGICAL SOCIETY",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2635 HOMESTEAD ROAD",
@@ -22,9 +27,6 @@
     "longitude": -121.974
   },
   "url": "http://www.scchgs.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400602551",

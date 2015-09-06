@@ -6,7 +6,12 @@
     "name": "id",
     "value": 133410
   },
-  "name": "SOUTH PARK CITY MUSEUM",
+  "name": [
+    {
+      "@value": "SOUTH PARK CITY MUSEUM",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "PO BOX 634",
@@ -22,9 +27,6 @@
     "longitude": -105.941
   },
   "telephone": "+1 (719) 836-2387",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8400800586",

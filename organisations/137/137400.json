@@ -6,7 +6,12 @@
     "name": "id",
     "value": 137400
   },
-  "name": "HARRY AND DELLA BURPEE MUSEUM ASSOCIATION",
+  "name": [
+    {
+      "@value": "HARRY AND DELLA BURPEE MUSEUM ASSOCIATION",
+      "@langauge": "en"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "813 N MAIN ST",
@@ -22,9 +27,6 @@
     "longitude": -89.0887
   },
   "url": "http://www.burpee.org",
-  "contactPoint": [
-
-  ],
   "mainEntityOfPage": {
     "@Type": "Dataset",
     "id": "8401700545",
