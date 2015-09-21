@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "id",
+    "value": 158064
+  },
+  "name": [
+    {
+      "@value": "MOODY MANSION MUSEUM",
+      "@language": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2618 BROADWAY ST",
+    "addressLocality": "GALVESTON",
+    "addressRegion": "TX",
+    "addressCountry": "United States",
+    "postalCode": "77550"
+  },
+  "hasMap": "http://www.openstreetmap.org/?mlat=29.2991&mlon=-94.7961#map=15/29.2991/-94.7961",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.2991,
+    "longitude": -94.7961
+  },
+  "url": "http://www.moodymansion.org",
+  "telephone": "+1 (409) 762-7668",
+  "mainEntityOfPage": {
+    "@Type": "Dataset",
+    "id": "8404800164",
+    "name": "us",
+    "url": "http://www.imls.gov",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
